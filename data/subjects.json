@@ -1,0 +1,36 @@
+{
+ "subjects": [
+  {
+   "id": "mathematics",
+   "name": "Mathematics (Standard)",
+   "code": "041",
+   "klass": "XII",
+   "data": "data/mathematics.json",
+   "description": "CBSE Class 12 Mathematics (Standard) board exam questions, 2023–2026, organised by NCERT chapter."
+  },
+  {
+   "id": "physics",
+   "name": "Physics",
+   "code": "042",
+   "klass": "XII",
+   "data": "data/physics.json",
+   "description": "CBSE Class 12 Physics board exam questions, 2023–2026, organised by NCERT chapter."
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "code": "043",
+   "klass": "XII",
+   "data": "data/chemistry.json",
+   "description": "CBSE Class 12 Chemistry board exam questions, 2023–2026, organised by NCERT chapter."
+  },
+  {
+   "id": "biology",
+   "name": "Biology",
+   "code": "044",
+   "klass": "XII",
+   "data": "data/biology.json",
+   "description": "CBSE Class 12 Biology board exam questions, 2023–2026, organised by NCERT chapter."
+  }
+ ]
+}

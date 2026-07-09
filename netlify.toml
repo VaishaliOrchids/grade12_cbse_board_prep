@@ -1,0 +1,4 @@
+# Tells Netlify how to publish this site.
+# It's a plain static website (no build step): just serve these files as-is.
+[build]
+  publish = "."
