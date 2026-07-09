@@ -29,6 +29,10 @@
   var SIZES = {};
   if (INLINE && INLINE.figsize) { try { SIZES = JSON.parse(JSON.stringify(INLINE.figsize)); } catch (e) { SIZES = {}; } }
   try { var _lsz = JSON.parse(localStorage.getItem("qbank_figsize") || "{}") || {}; for (var _sk in _lsz) SIZES[_sk] = _lsz[_sk]; } catch (e) {}
+  // Worksheet questions the user removed as irrelevant (persists on this device).
+  // Excluded wherever a worksheet is rebuilt; undo via each chapter's "Restore".
+  var DEL = {};
+  try { DEL = JSON.parse(localStorage.getItem("qbank_deleted") || "{}") || {}; } catch (e) { DEL = {}; }
 
   function getSubjectsIndex() {
     if (INLINE) return Promise.resolve(INLINE.subjects);
@@ -856,6 +860,7 @@
     var byTopic = {};
     chapter.questions.forEach(function (q) {
       if (testUsed[qId(q)]) return;
+      if (DEL[qId(q)]) return;                          // user removed this as irrelevant
       var t = q.topic || "General"; (byTopic[t] = byTopic[t] || []).push(q);
     });
     var keys = Object.keys(byTopic).sort(function (a, b) {
@@ -885,7 +890,7 @@
       if (!c.questions.length) return;
       var test = buildChapterTest(c.questions, st.seed || 0);
       var topics = buildWorksheet(c, test.used);
-      var wsCount = c.questions.length - test.questions.length;
+      var wsCount = topics.reduce(function (a, t) { return a + t.count; }, 0);
       sets.push({ chapter: c.chapter, test: test, topics: topics, wsCount: wsCount });
     });
     st.sets = sets;
@@ -905,11 +910,17 @@
       ? '<button class="ws-replace" type="button" data-si="' + opts.replace.si + '" data-qid="' + esc(opts.replace.qid) +
         '" title="Swap for another question of the same marks &amp; difficulty">⇄ Replace</button>'
       : "";
+    // Worksheet rows get a screen-only "Delete" button (opts.del) to drop an
+    // irrelevant question; test rows don't.
+    var del = (opts && opts.del)
+      ? '<button class="ws-del" type="button" data-qid="' + esc(opts.del.qid) +
+        '" title="Remove this question from the worksheet">🗑 Delete</button>'
+      : "";
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
       '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + "</div>" +
       '<div class="ws-qmeta">' + diffBadge(q) +
         (cbseYears(q) ? '<span class="ws-qyear">' + esc(cbseYears(q)) + "</span>" : "") +
-        '<span class="ws-qm">[' + (q.marks || 0) + "]</span>" + rep + "</div></div>";
+        '<span class="ws-qm">[' + (q.marks || 0) + "]</span>" + rep + del + "</div></div>";
   }
 
   // A test set is fully reproducible from (subject, chapter, seed). The "Set Code"
@@ -1030,7 +1041,7 @@
         t.sections.forEach(function (sec) {
           sec.questions.forEach(function (q) {
             wn++;
-            var row = paperRow(q, wn);
+            var row = paperRow(q, wn, { del: { qid: qId(q) } });
             // bind the heading to its first question (in a no-break group) so the
             // heading can't be left stranded at the bottom of a page
             if (first) { wsBody += '<div class="ws-topgrp">' + head + row + "</div>"; first = false; }
@@ -1039,11 +1050,15 @@
         });
       });
       var wsId = "ws-work-" + si;
+      var removed = chapterRemovedIds(st, set).length;
+      var restoreBtn = removed
+        ? '<button class="btn-sm ws-restore" data-si="' + si + '" title="Bring back the questions you removed from this worksheet">⟲ Restore ' + removed + ' removed</button>'
+        : "";
       var wsSheet = set.wsCount === 0
-        ? '<div class="ws-sheet ws-sheet-empty"><div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet</span></div>' +
-            '<div class="ws-empty-note">All bank questions for this chapter went into the test — no separate worksheet.</div></div>'
+        ? '<div class="ws-sheet ws-sheet-empty"><div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet</span>' + restoreBtn + "</div>" +
+            '<div class="ws-empty-note">' + (removed ? "You removed every worksheet question for this chapter." : "All bank questions for this chapter went into the test — no separate worksheet.") + "</div></div>"
         : '<div class="ws-sheet" id="' + wsId + '">' +
-          '<div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet <em>· ' + set.wsCount + " q · " + set.topics.length + " sub-topics</em></span>" +
+          '<div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet <em>· ' + set.wsCount + " q · " + set.topics.length + " sub-topics</em></span>" + restoreBtn +
             '<button class="btn-sm bp-dl ws-dl-one" data-id="' + wsId + '" data-name="' + esc(set.chapter) + ' Worksheet">⤓ Save worksheet as PDF</button></div>' +
           '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandHtml +
             "<h1>Worksheet</h1>" +
@@ -1142,6 +1157,36 @@
     closeReplaceModal();
     renderWorksheetResult(st);
   }
+  /* ---- Delete/restore irrelevant WORKSHEET questions. Deletions persist on
+     this device (localStorage) and are excluded wherever a worksheet is rebuilt;
+     each chapter shows a "Restore" to undo. Chapter tests are unaffected. ---- */
+  function saveDel() { try { localStorage.setItem("qbank_deleted", JSON.stringify(DEL)); } catch (e) {} }
+  function rebuildWorksheets(st) {
+    (st.sets || []).forEach(function (set) {
+      var chapter = st.data.chapters.filter(function (c) { return c.chapter === set.chapter; })[0];
+      if (!chapter) return;
+      set.topics = buildWorksheet(chapter, set.test.used);        // tests untouched; only worksheets refresh
+      set.wsCount = set.topics.reduce(function (a, t) { return a + t.count; }, 0);
+    });
+  }
+  function chapterRemovedIds(st, set) {
+    var chapter = st.data.chapters.filter(function (c) { return c.chapter === set.chapter; })[0];
+    if (!chapter) return [];
+    return chapter.questions.filter(function (q) { return DEL[qId(q)] && !set.test.used[qId(q)]; }).map(qId);
+  }
+  function deleteWorksheetQ(qid) {
+    DEL[qid] = 1; saveDel();
+    rebuildWorksheets(WS);
+    renderWorksheetResult(WS);
+  }
+  function restoreChapter(si) {
+    var st = WS, set = st.sets && st.sets[si];
+    if (!set) return;
+    chapterRemovedIds(st, set).forEach(function (id) { delete DEL[id]; });
+    saveDel();
+    rebuildWorksheets(st);
+    renderWorksheetResult(st);
+  }
   function initReplaceTool() {
     var modal = document.createElement("div");
     modal.id = "rp-modal"; modal.className = "rp-modal";
@@ -1157,6 +1202,10 @@
       if (rb) { e.preventDefault(); openReplaceModal(parseInt(rb.getAttribute("data-si"), 10), rb.getAttribute("data-qid")); return; }
       var ub = t.closest ? t.closest(".rp-use") : null;
       if (ub) { e.preventDefault(); applyReplace(ub.getAttribute("data-newqid")); return; }
+      var delb = t.closest ? t.closest(".ws-del") : null;
+      if (delb) { e.preventDefault(); deleteWorksheetQ(delb.getAttribute("data-qid")); return; }
+      var resb = t.closest ? t.closest(".ws-restore") : null;
+      if (resb) { e.preventDefault(); restoreChapter(parseInt(resb.getAttribute("data-si"), 10)); return; }
       if (t.closest && t.closest(".rp-close")) { closeReplaceModal(); return; }
       if (t === modal) closeReplaceModal();                    // click backdrop to close
     });
