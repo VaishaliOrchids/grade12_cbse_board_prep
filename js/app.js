@@ -896,14 +896,20 @@
   // The difficulty pill is always in the DOM, so it shows on SCREEN for both
   // papers. Print CSS ([id^="ws-test-"] .ws-diff) then hides it inside the
   // Chapter Test only, so a student sitting the printed test can't see ratings.
-  function paperRow(q, n) {
+  function paperRow(q, n, opts) {
     // MCQ / Assertion-Reason have fixed options that must stay together on one page
     var keep = (q.type === "MCQ" || q.type === "Assertion-Reason") ? " ws-q-keep" : "";
+    // Chapter-test rows get a screen-only "Replace" button (opts.replace); the
+    // worksheet rows don't.
+    var rep = (opts && opts.replace)
+      ? '<button class="ws-replace" type="button" data-si="' + opts.replace.si + '" data-qid="' + esc(opts.replace.qid) +
+        '" title="Swap for another question of the same marks &amp; difficulty">⇄ Replace</button>'
+      : "";
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
       '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + "</div>" +
       '<div class="ws-qmeta">' + diffBadge(q) +
         (cbseYears(q) ? '<span class="ws-qyear">' + esc(cbseYears(q)) + "</span>" : "") +
-        '<span class="ws-qm">[' + (q.marks || 0) + "]</span></div></div>";
+        '<span class="ws-qm">[' + (q.marks || 0) + "]</span>" + rep + "</div></div>";
   }
 
   // A test set is fully reproducible from (subject, chapter, seed). The "Set Code"
@@ -1004,7 +1010,7 @@
       var mixNote = WS_DIFF_ORDER.map(function (d) { return d + " " + Math.round(dm[d] / tot * 100) + "%"; }).join(" · ");
       // questions are already ordered by type then difficulty; marks convey the type
       var tn = 0, testBody = "";
-      set.test.questions.forEach(function (q) { tn++; testBody += paperRow(q, tn); });
+      set.test.questions.forEach(function (q) { tn++; testBody += paperRow(q, tn, { replace: { si: si, qid: qId(q) } }); });
       var testId = "ws-test-" + si;
       var testSheet = '<div class="ws-sheet" id="' + testId + '">' +
         '<div class="ws-sheet-bar"><span class="ws-sheet-t">Chapter Test <em>· ' + set.test.marks + " marks · " + set.test.questions.length + " q · " + esc(mixNote) + "</em></span>" +
@@ -1047,7 +1053,9 @@
             wsBody) + "</div></div>";
 
       html += '<div class="ws-cset"><div class="ws-cset-h">' + esc(set.chapter) +
-        '<span class="ws-cset-code" title="Reopen this exact paper later with this code — it is not printed on the sheet">Set Code: ' + code + "</span></div>" +
+        '<span class="ws-cset-code" title="Reopen this exact paper later with this code — it is not printed on the sheet">Set Code: ' + code + "</span>" +
+        (set.edited ? '<span class="ws-edited" title="You manually replaced one or more questions. The Set Code reproduces the original auto-generated test, not these swaps.">✏︎ edited</span>' : "") +
+        "</div>" +
         testSheet + wsSheet + "</div>";
     });
 
@@ -1075,6 +1083,84 @@
     });
     var rr = document.getElementById("ws-reroll");
     if (rr) rr.addEventListener("click", function () { st.seed = (st.seed || 0) + 1; buildChapterSets(st); renderWorksheetResult(st); });
+  }
+
+  /* ---- Replace a Chapter-Test question with another of the SAME marks and
+     SAME difficulty (Bloom's taxonomy may differ). The swap is in-place and
+     refreshes that chapter's worksheet, so the dropped question moves back into
+     it and the chosen one leaves it. ---- */
+  var RP = { si: -1, qid: null };
+  function critText(q) {
+    var m = q.marks || 0;
+    return m + " mark" + (m === 1 ? "" : "s") + " · " + (q.difficulty || "Average");
+  }
+  function replaceCandidates(si, qid) {
+    var st = WS, set = st.sets && st.sets[si];
+    if (!set) return { q: null, list: [] };
+    var chapter = st.data.chapters.filter(function (c) { return c.chapter === set.chapter; })[0];
+    var q = set.test.questions.filter(function (x) { return qId(x) === qid; })[0];
+    if (!chapter || !q) return { q: null, list: [] };
+    var list = chapter.questions.filter(function (x) {          // same marks + difficulty, not already in the test
+      return (x.marks || 0) === (q.marks || 0) &&
+             (x.difficulty || "Average") === (q.difficulty || "Average") &&
+             !set.test.used[qId(x)];
+    });
+    return { q: q, list: list };
+  }
+  function openReplaceModal(si, qid) {
+    RP.si = si; RP.qid = qid;
+    var res = replaceCandidates(si, qid);
+    if (!res.q) return;
+    var listEl = document.getElementById("rp-list"), head = document.getElementById("rp-head-txt");
+    head.innerHTML = res.list.length
+      ? "Pick a replacement — same marks &amp; difficulty (<b>" + esc(critText(res.q)) + "</b>), " + res.list.length + " available:"
+      : "No other <b>" + esc(critText(res.q)) + "</b> question is available in this chapter to swap in.";
+    listEl.innerHTML = res.list.map(function (c) {
+      var meta = "[" + critText(c) + (c.bloom ? " · " + c.bloom : "") + (cbseYears(c) ? " · " + cbseYears(c) : "") + "]";
+      return '<div class="rp-cand"><div class="rp-cand-top"><span class="rp-cand-meta">' + esc(meta) + "</span>" +
+        '<button class="rp-use" type="button" data-newqid="' + esc(qId(c)) + '">Use this ✓</button></div>' +
+        '<div class="rp-cand-q">' + bpQuestionHTML(c) + "</div></div>";
+    }).join("") || '<div class="rp-none">Nothing available — this question stays as is.</div>';
+    document.getElementById("rp-modal").style.display = "flex";
+    typeset(listEl);
+  }
+  function closeReplaceModal() { var m = document.getElementById("rp-modal"); if (m) m.style.display = "none"; }
+  function applyReplace(newqid) {
+    var st = WS, set = st.sets && st.sets[RP.si];
+    if (!set) { closeReplaceModal(); return; }
+    var chapter = st.data.chapters.filter(function (c) { return c.chapter === set.chapter; })[0];
+    var newQ = chapter && chapter.questions.filter(function (x) { return qId(x) === newqid; })[0];
+    var idx = -1;
+    for (var i = 0; i < set.test.questions.length; i++) { if (qId(set.test.questions[i]) === RP.qid) { idx = i; break; } }
+    if (idx < 0 || !newQ) { closeReplaceModal(); return; }
+    var oldQ = set.test.questions[idx];
+    set.test.questions[idx] = newQ;                            // same marks & difficulty, so totals are unchanged
+    delete set.test.used[qId(oldQ)]; set.test.used[qId(newQ)] = 1;
+    set.edited = true;
+    set.topics = buildWorksheet(chapter, set.test.used);       // dropped question returns to the worksheet
+    set.wsCount = chapter.questions.length - set.test.questions.length;
+    closeReplaceModal();
+    renderWorksheetResult(st);
+  }
+  function initReplaceTool() {
+    var modal = document.createElement("div");
+    modal.id = "rp-modal"; modal.className = "rp-modal";
+    modal.innerHTML =
+      '<div class="rp-dialog">' +
+        '<div class="rp-head"><span id="rp-head-txt"></span><button class="rp-close" type="button" title="Close">✕</button></div>' +
+        '<div class="rp-body" id="rp-list"></div>' +
+      "</div>";
+    document.body.appendChild(modal);
+    document.addEventListener("click", function (e) {
+      var t = e.target;
+      var rb = t.closest ? t.closest(".ws-replace") : null;
+      if (rb) { e.preventDefault(); openReplaceModal(parseInt(rb.getAttribute("data-si"), 10), rb.getAttribute("data-qid")); return; }
+      var ub = t.closest ? t.closest(".rp-use") : null;
+      if (ub) { e.preventDefault(); applyReplace(ub.getAttribute("data-newqid")); return; }
+      if (t.closest && t.closest(".rp-close")) { closeReplaceModal(); return; }
+      if (t === modal) closeReplaceModal();                    // click backdrop to close
+    });
+    window.addEventListener("keydown", function (e) { if (e.key === "Escape" && modal.style.display === "flex") closeReplaceModal(); });
   }
 
   function renderTool(st, subs, title, sub, genLabel, emptyMsg, onResult) {
@@ -1634,6 +1720,7 @@
   }
   window.addEventListener("hashchange", route);
   initFigTools();
+  initReplaceTool();
   if (INLINE && Object.keys(CROPS).length) applyStoredCrops().then(route);
   else route();
 })();
