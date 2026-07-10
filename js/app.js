@@ -795,7 +795,7 @@
     "Long Answer": "Long Answer", "Case-based": "Case Study"
   };
   var WS_DIFF_ORDER = ["Easy", "Average", "Difficult"];
-  var TEST_MARKS = 15, TEST_MINUTES = 30, TEST_MIX = { Easy: 0.30, Average: 0.40, Difficult: 0.30 };
+  var TEST_MARKS = 15, MIN_PER_MARK = 2, TEST_MINUTES = TEST_MARKS * MIN_PER_MARK, TEST_MIX = { Easy: 0.30, Average: 0.40, Difficult: 0.30 };
   // stable identity of a question = its first appearance (year|set|qno)
   function qId(q) { var p = (q.papers && q.papers[0]) || {}; return p.year + "|" + p.set + "|" + p.qno; }
   // "CBSE 2024" (or "CBSE 2024, 2025" if it recurred)
@@ -1017,7 +1017,7 @@
     var nChap = st.sets.length;
     var html = '<div class="bp-head"><div><h2>Worksheets &amp; Chapter Tests <span class="bp-meta">' + esc(st.data.subject) + " · " +
       nChap + " chapter" + (nChap !== 1 ? "s" : "") + '</span></h2>' +
-      '<div class="bp-note">Each chapter gives two PDFs: a <b>Chapter Test</b> (' + TEST_MARKS + " marks · " + TEST_MINUTES + " min, aiming for a 30–40–30 easy/average/difficult mix) and a <b>Worksheet</b> of the remaining questions, organised sub-topic → question-type → difficulty. Every question shows its difficulty and CBSE year.<br><b>To save:</b> a button opens your browser’s print window — pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu at the bottom-left). You don’t need a printer.</div></div>" +
+      '<div class="bp-note">Each chapter gives two PDFs: a <b>Chapter Test</b> (' + TEST_MARKS + " marks · " + TEST_MINUTES + " min · 2 min per mark, aiming for a 30–40–30 easy/average/difficult mix) and a <b>Worksheet</b> of the remaining questions, organised sub-topic → question-type → difficulty. Every question shows its difficulty and CBSE year.<br><b>To save:</b> a button opens your browser’s print window — pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu at the bottom-left). You don’t need a printer.</div></div>" +
       '<div class="bp-actions"><button class="btn-sm" id="ws-undo"' + (UNDO.length ? "" : " disabled") + ' title="Undo your recent changes (delete / replace / restore), one step at a time">↶ Undo' + (UNDO.length ? " (" + UNDO.length + ")" : "") + '</button><button class="btn-sm" id="ws-reroll">↻ Reshuffle tests</button><button class="btn-sm bp-dl" id="ws-dl-all">⤓ Save all as PDF</button></div></div>';
 
     st.sets.forEach(function (set, si) {
@@ -1034,12 +1034,12 @@
       set.test.questions.forEach(function (q) { tn++; testBody += paperRow(q, tn, { replace: { si: si, qid: qId(q) }, del: { si: si, qid: qId(q) } }); });
       var testId = "ws-test-" + si;
       var testSheet = '<div class="ws-sheet" id="' + testId + '">' +
-        '<div class="ws-sheet-bar"><span class="ws-sheet-t">Chapter Test <em>· ' + set.test.marks + " marks · " + set.test.questions.length + " q · " + esc(mixNote) + "</em></span>" + restoreBtn +
+        '<div class="ws-sheet-bar"><span class="ws-sheet-t">Chapter Test <em>· ' + set.test.marks + " marks · " + (set.test.marks * MIN_PER_MARK) + " min · " + set.test.questions.length + " q · " + esc(mixNote) + "</em></span>" + restoreBtn +
           '<button class="btn-sm bp-dl ws-dl-one" data-id="' + testId + '" data-name="' + esc(set.chapter) + ' Chapter Test">⤓ Save test as PDF</button></div>' +
         '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandHtml +
           "<h1>Chapter Test</h1>" +
           '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII · " + esc(set.chapter) + "</div>" +
-          '<div class="ws-pmeta"><span>Time: ' + TEST_MINUTES + " Minutes</span><span>Maximum Marks: " + set.test.marks + "</span></div>" +
+          '<div class="ws-pmeta"><span>Time: ' + (set.test.marks * MIN_PER_MARK) + " Minutes</span><span>Maximum Marks: " + set.test.marks + "</span></div>" +
           '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div></div>' +
           testBody) + "</div></div>";
 
@@ -1295,7 +1295,7 @@
       app.innerHTML =
         '<div class="wrap"><div class="bp-wrap">' +
         '<aside class="bp-panel" id="ws-panel"><h1>Worksheet generator</h1>' +
-        '<p class="bp-sub">Pick a subject and chapters. Each chapter yields two PDFs — a <b>Chapter Test</b> (15 marks · 30 min, 30–40–30 mix) and a <b>Worksheet</b> of the remaining questions, grouped sub-topic → type → difficulty, with difficulty and CBSE year on each.</p>' +
+        '<p class="bp-sub">Pick a subject and chapters. Each chapter yields two PDFs — a <b>Chapter Test</b> (15 marks · 30 min · 2 min/mark, 30–40–30 mix) and a <b>Worksheet</b> of the remaining questions, grouped sub-topic → type → difficulty, with difficulty and CBSE year on each.</p>' +
         '<div class="bp-field"><label>Subject</label><select id="ws-sub">' + subOpts + "</select></div>" +
         '<div class="bp-field"><label>Chapters</label>' +
           '<div class="bp-chaptools"><button type="button" id="ws-all">Select all</button><button type="button" id="ws-none">Clear</button></div>' +
