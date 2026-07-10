@@ -810,6 +810,7 @@
   // Difficult), so this is best-effort: it gets as close to the target as the
   // available questions allow and reports the ACTUAL split. `seed` re-rolls it.
   function buildChapterTest(questions, seed) {
+    questions = questions.filter(function (q) { return !DEL[qId(q)]; });   // never put an irrelevant (deleted) question in a test
     var pool = { Easy: [], Average: [], Difficult: [] };
     questions.forEach(function (q) { (pool[q.difficulty] || pool.Average).push(q); });
     Object.keys(pool).forEach(function (k) {              // meaty questions first; seed rotates
@@ -913,8 +914,8 @@
     // Worksheet rows get a screen-only "Delete" button (opts.del) to drop an
     // irrelevant question; test rows don't.
     var del = (opts && opts.del)
-      ? '<button class="ws-del" type="button" data-qid="' + esc(opts.del.qid) +
-        '" title="Remove this question from the worksheet">🗑 Delete</button>'
+      ? '<button class="ws-del" type="button" data-si="' + opts.del.si + '" data-qid="' + esc(opts.del.qid) +
+        '" title="Remove this question as irrelevant">🗑 Delete</button>'
       : "";
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
       '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + "</div>" +
@@ -1016,15 +1017,19 @@
 
     st.sets.forEach(function (set, si) {
       var code = setCode(st.subId, set.chapter, st.seed || 0, st.data.chapter_order || []);
+      var removed = chapterRemovedIds(st, set).length;
+      var restoreBtn = removed
+        ? '<button class="btn-sm ws-restore" data-si="' + si + '" title="Bring back the questions you removed from this chapter (they return to the worksheet)">⟲ Restore ' + removed + ' removed</button>'
+        : "";
       // ---------- chapter test ----------
       var dm = set.test.dmarks, tot = set.test.marks || 1;
       var mixNote = WS_DIFF_ORDER.map(function (d) { return d + " " + Math.round(dm[d] / tot * 100) + "%"; }).join(" · ");
       // questions are already ordered by type then difficulty; marks convey the type
       var tn = 0, testBody = "";
-      set.test.questions.forEach(function (q) { tn++; testBody += paperRow(q, tn, { replace: { si: si, qid: qId(q) } }); });
+      set.test.questions.forEach(function (q) { tn++; testBody += paperRow(q, tn, { replace: { si: si, qid: qId(q) }, del: { si: si, qid: qId(q) } }); });
       var testId = "ws-test-" + si;
       var testSheet = '<div class="ws-sheet" id="' + testId + '">' +
-        '<div class="ws-sheet-bar"><span class="ws-sheet-t">Chapter Test <em>· ' + set.test.marks + " marks · " + set.test.questions.length + " q · " + esc(mixNote) + "</em></span>" +
+        '<div class="ws-sheet-bar"><span class="ws-sheet-t">Chapter Test <em>· ' + set.test.marks + " marks · " + set.test.questions.length + " q · " + esc(mixNote) + "</em></span>" + restoreBtn +
           '<button class="btn-sm bp-dl ws-dl-one" data-id="' + testId + '" data-name="' + esc(set.chapter) + ' Chapter Test">⤓ Save test as PDF</button></div>' +
         '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandHtml +
           "<h1>Chapter Test</h1>" +
@@ -1041,7 +1046,7 @@
         t.sections.forEach(function (sec) {
           sec.questions.forEach(function (q) {
             wn++;
-            var row = paperRow(q, wn, { del: { qid: qId(q) } });
+            var row = paperRow(q, wn, { del: { si: si, qid: qId(q) } });
             // bind the heading to its first question (in a no-break group) so the
             // heading can't be left stranded at the bottom of a page
             if (first) { wsBody += '<div class="ws-topgrp">' + head + row + "</div>"; first = false; }
@@ -1050,10 +1055,6 @@
         });
       });
       var wsId = "ws-work-" + si;
-      var removed = chapterRemovedIds(st, set).length;
-      var restoreBtn = removed
-        ? '<button class="btn-sm ws-restore" data-si="' + si + '" title="Bring back the questions you removed from this worksheet">⟲ Restore ' + removed + ' removed</button>'
-        : "";
       var wsSheet = set.wsCount === 0
         ? '<div class="ws-sheet ws-sheet-empty"><div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet</span>' + restoreBtn + "</div>" +
             '<div class="ws-empty-note">' + (removed ? "You removed every worksheet question for this chapter." : "All bank questions for this chapter went into the test — no separate worksheet.") + "</div></div>"
@@ -1115,10 +1116,10 @@
     var chapter = st.data.chapters.filter(function (c) { return c.chapter === set.chapter; })[0];
     var q = set.test.questions.filter(function (x) { return qId(x) === qid; })[0];
     if (!chapter || !q) return { q: null, list: [] };
-    var list = chapter.questions.filter(function (x) {          // same marks + difficulty, not already in the test
+    var list = chapter.questions.filter(function (x) {          // same marks + difficulty, not in the test, not deleted
       return (x.marks || 0) === (q.marks || 0) &&
              (x.difficulty || "Average") === (q.difficulty || "Average") &&
-             !set.test.used[qId(x)];
+             !set.test.used[qId(x)] && !DEL[qId(x)];
     });
     return { q: q, list: list };
   }
@@ -1174,10 +1175,22 @@
     if (!chapter) return [];
     return chapter.questions.filter(function (q) { return DEL[qId(q)] && !set.test.used[qId(q)]; }).map(qId);
   }
-  function deleteWorksheetQ(qid) {
-    DEL[qid] = 1; saveDel();
-    rebuildWorksheets(WS);
-    renderWorksheetResult(WS);
+  function recomputeTest(test) {                       // re-total marks after a test question is removed
+    var m = 0, dm = { Easy: 0, Average: 0, Difficult: 0 };
+    test.questions.forEach(function (q) { m += q.marks || 0; dm[q.difficulty || "Average"] += q.marks || 0; });
+    test.marks = m; test.dmarks = dm;
+  }
+  function deleteQuestion(qid, si) {
+    var st = WS, set = (st.sets && si != null && !isNaN(si)) ? st.sets[si] : null;
+    if (set && set.test.used[qid]) {                   // deleting a CHAPTER-TEST question: drop it and re-total marks
+      set.test.questions = set.test.questions.filter(function (x) { return qId(x) !== qid; });
+      delete set.test.used[qid];
+      recomputeTest(set.test);
+      set.edited = true;
+    }
+    DEL[qid] = 1; saveDel();                            // mark irrelevant (also keeps it out of the worksheet)
+    rebuildWorksheets(st);
+    renderWorksheetResult(st);
   }
   function restoreChapter(si) {
     var st = WS, set = st.sets && st.sets[si];
@@ -1203,7 +1216,7 @@
       var ub = t.closest ? t.closest(".rp-use") : null;
       if (ub) { e.preventDefault(); applyReplace(ub.getAttribute("data-newqid")); return; }
       var delb = t.closest ? t.closest(".ws-del") : null;
-      if (delb) { e.preventDefault(); deleteWorksheetQ(delb.getAttribute("data-qid")); return; }
+      if (delb) { e.preventDefault(); deleteQuestion(delb.getAttribute("data-qid"), parseInt(delb.getAttribute("data-si"), 10)); return; }
       var resb = t.closest ? t.closest(".ws-restore") : null;
       if (resb) { e.preventDefault(); restoreChapter(parseInt(resb.getAttribute("data-si"), 10)); return; }
       if (t.closest && t.closest(".rp-close")) { closeReplaceModal(); return; }
