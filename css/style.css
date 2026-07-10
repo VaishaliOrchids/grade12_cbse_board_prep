@@ -156,6 +156,7 @@ a:hover { text-decoration: underline; }
 .ws-del { display: inline-block; margin-top: 6px; background: var(--card); color: #b91c1c; border: 1px solid #b91c1c; border-radius: 6px; padding: 2px 8px; font-size: 11px; font-weight: 600; cursor: pointer; white-space: nowrap; }
 .ws-del:hover { background: #b91c1c; color: #fff; }
 .ws-restore { color: var(--or); border-color: var(--or); }
+.btn-sm:disabled { opacity: .45; cursor: default; }
 .ar-list { margin: 6px 0; padding-left: 18px; }
 .ar-list li { margin-bottom: 4px; }
 .figs { margin: 12px 0 4px; display: flex; flex-wrap: wrap; gap: 12px; }

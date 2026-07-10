@@ -33,6 +33,10 @@
   // Excluded wherever a worksheet is rebuilt; undo via each chapter's "Restore".
   var DEL = {};
   try { DEL = JSON.parse(localStorage.getItem("qbank_deleted") || "{}") || {}; } catch (e) { DEL = {}; }
+  // Undo history for worksheet edits (delete / replace / restore): a stack of
+  // state snapshots. Each edit pushes one; the Undo button pops one, so it can
+  // step back through several changes. Session-only (cleared on generate/reshuffle).
+  var UNDO = [];
 
   function getSubjectsIndex() {
     if (INLINE) return Promise.resolve(INLINE.subjects);
@@ -895,6 +899,7 @@
       sets.push({ chapter: c.chapter, test: test, topics: topics, wsCount: wsCount });
     });
     st.sets = sets;
+    UNDO.length = 0;                                   // a fresh generation/reshuffle starts a clean undo history
   }
 
   // One printable question row (used by both the test and the worksheet):
@@ -1013,7 +1018,7 @@
     var html = '<div class="bp-head"><div><h2>Worksheets &amp; Chapter Tests <span class="bp-meta">' + esc(st.data.subject) + " · " +
       nChap + " chapter" + (nChap !== 1 ? "s" : "") + '</span></h2>' +
       '<div class="bp-note">Each chapter gives two PDFs: a <b>Chapter Test</b> (' + TEST_MARKS + " marks · " + TEST_MINUTES + " min, aiming for a 30–40–30 easy/average/difficult mix) and a <b>Worksheet</b> of the remaining questions, organised sub-topic → question-type → difficulty. Every question shows its difficulty and CBSE year.<br><b>To save:</b> a button opens your browser’s print window — pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu at the bottom-left). You don’t need a printer.</div></div>" +
-      '<div class="bp-actions"><button class="btn-sm" id="ws-reroll">↻ Reshuffle tests</button><button class="btn-sm bp-dl" id="ws-dl-all">⤓ Save all as PDF</button></div></div>';
+      '<div class="bp-actions"><button class="btn-sm" id="ws-undo"' + (UNDO.length ? "" : " disabled") + ' title="Undo your recent changes (delete / replace / restore), one step at a time">↶ Undo' + (UNDO.length ? " (" + UNDO.length + ")" : "") + '</button><button class="btn-sm" id="ws-reroll">↻ Reshuffle tests</button><button class="btn-sm bp-dl" id="ws-dl-all">⤓ Save all as PDF</button></div></div>';
 
     st.sets.forEach(function (set, si) {
       var code = setCode(st.subId, set.chapter, st.seed || 0, st.data.chapter_order || []);
@@ -1099,6 +1104,8 @@
     });
     var rr = document.getElementById("ws-reroll");
     if (rr) rr.addEventListener("click", function () { st.seed = (st.seed || 0) + 1; buildChapterSets(st); renderWorksheetResult(st); });
+    var un = document.getElementById("ws-undo");
+    if (un) un.addEventListener("click", undo);
   }
 
   /* ---- Replace a Chapter-Test question with another of the SAME marks and
@@ -1149,6 +1156,7 @@
     var idx = -1;
     for (var i = 0; i < set.test.questions.length; i++) { if (qId(set.test.questions[i]) === RP.qid) { idx = i; break; } }
     if (idx < 0 || !newQ) { closeReplaceModal(); return; }
+    pushUndo();
     var oldQ = set.test.questions[idx];
     set.test.questions[idx] = newQ;                            // same marks & difficulty, so totals are unchanged
     delete set.test.used[qId(oldQ)]; set.test.used[qId(newQ)] = 1;
@@ -1181,6 +1189,7 @@
     test.marks = m; test.dmarks = dm;
   }
   function deleteQuestion(qid, si) {
+    pushUndo();
     var st = WS, set = (st.sets && si != null && !isNaN(si)) ? st.sets[si] : null;
     if (set && set.test.used[qid]) {                   // deleting a CHAPTER-TEST question: drop it and re-total marks
       set.test.questions = set.test.questions.filter(function (x) { return qId(x) !== qid; });
@@ -1195,8 +1204,36 @@
   function restoreChapter(si) {
     var st = WS, set = st.sets && st.sets[si];
     if (!set) return;
+    pushUndo();
     chapterRemovedIds(st, set).forEach(function (id) { delete DEL[id]; });
     saveDel();
+    rebuildWorksheets(st);
+    renderWorksheetResult(st);
+  }
+  // ---- Undo stack: snapshot the editable state before each change; the Undo
+  // button pops the last snapshot and restores it (so N clicks undo N changes). ----
+  function objCopy(o) { var r = {}; for (var k in o) if (Object.prototype.hasOwnProperty.call(o, k)) r[k] = o[k]; return r; }
+  function snapWS() {
+    return {
+      del: objCopy(DEL),
+      sets: (WS.sets || []).map(function (set) {
+        return { questions: set.test.questions.slice(), used: objCopy(set.test.used),
+                 marks: set.test.marks, dmarks: objCopy(set.test.dmarks), edited: !!set.edited };
+      })
+    };
+  }
+  function pushUndo() { UNDO.push(snapWS()); if (UNDO.length > 50) UNDO.shift(); }
+  function undo() {
+    if (!UNDO.length) return;
+    var snap = UNDO.pop(), st = WS;
+    DEL = snap.del; saveDel();
+    (st.sets || []).forEach(function (set, i) {
+      var s = snap.sets[i]; if (!s) return;
+      set.test.questions = s.questions.slice();
+      set.test.used = objCopy(s.used);
+      set.test.marks = s.marks; set.test.dmarks = objCopy(s.dmarks);
+      set.edited = s.edited;
+    });
     rebuildWorksheets(st);
     renderWorksheetResult(st);
   }
