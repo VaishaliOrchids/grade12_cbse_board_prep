@@ -633,7 +633,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Gauss's Law"
+     "topic": "Applications of Gauss's Law",
+     "answer": {
+      "text": "Field due to a uniformly charged infinite plane sheet (Gauss's law, cylindrical Gaussian surface — only faces 1 and 2 contribute): net flux = 2EA, charge enclosed = σA ⇒ 2EA = σA/ε₀ ⇒ E = σ/2ε₀ (n̂). For two such thin sheets each of density σ: (i) net field inside E_in = 0; (ii) net field outside E_out = σ/ε₀."
+     }
     },
     {
      "qno": 31,
@@ -650,7 +653,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Dipole in a Uniform External Field"
+     "topic": "Dipole in a Uniform External Field",
+     "answer": {
+      "text": "(a) Electric field of a dipole on the equatorial plane: E₊q = E₋q = (1/4πε₀)·q/(r²+a²); the components normal to the axis cancel and those along the axis add, so E = −(1/4πε₀)·2qa/(r²+a²)^{3/2} p̂; for r ≫ a, E = −(2qa/4πε₀r³) p̂ = −p/(4πε₀r³). (b) For the given arrangement, net force F = F₊q + F₋q = (+q·2î − q·2î) = 0 N; torque τ = p × E = p(−î) × 2î = 0 (also τ = pE sinθ with angle π ⇒ τ = 0)."
+     }
     },
     {
      "qno": 1,
@@ -693,7 +699,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Dipole in a Uniform External Field"
+     "topic": "Dipole in a Uniform External Field",
+     "answer": {
+      "text": "Work done in turning the dipole in an external field = −pE(cosθ₂ − cosθ₁); with θ₁ = 0° (stable equilibrium) and θ₂ = 180° (unstable), net work = 2pE = 2(2qa)E = 2 × 1×10⁻⁶ × 10 × 10⁻² × 100 = 2×10⁻⁵ J."
+     }
     },
     {
      "qno": 1,
@@ -910,7 +919,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Gauss's Law"
+     "topic": "Applications of Gauss's Law",
+     "answer": {
+      "text": "(b)(i) Force between the two charged wires (λ and 3λ): attractive; field of wire 1 at wire 2, E = −λ/(2πε₀r); force per length F/l = qE = −3λ²/(2πε₀r) (same magnitude on the other wire). (ii) Concentric shells: flux — for x < r₁, φ = 2q/ε₀; for r₁ < x < r₂, φ = (Q+2q)/ε₀. Field — for x > r₃, E = k(Q−q)/x²; for r₁ < x < r₂, E = k(Q+2q)/x². Surface charge density on inner surfaces — σ = −2q/4πr₁² and σ = −(Q+2q)/4πr₂²."
+     }
     }
    ],
    "topic_order": [
@@ -1878,7 +1890,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Effect of Dielectric on Capacitance"
+     "topic": "Effect of Dielectric on Capacitance",
+     "answer": {
+      "text": "Effect of removing the dielectric slab (charge Q kept constant): (a) Capacitance decreases — C = Kε₀A/d becomes C' = ε₀A/d = C/K. (b) Energy stored increases — U = Q²/2C becomes U' = Q²/2C' = KU. (c) Potential difference between the plates increases — V = Q/C becomes V' = Q/C' = KV."
+     }
     },
     {
      "qno": 24,
@@ -1898,7 +1913,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electrostatic Potential"
+     "topic": "Electrostatic Potential",
+     "answer": {
+      "text": "Applied PD between the plates (electron deflected in the field): a = qE/m = qV/mL; time to cross t = x/uₓ; deflection y = ½(qV/mL)(x/uₓ)². Hence V = 2ymLuₓ²/(ex²) = [2 × 1×10⁻² × 9.1×10⁻³¹ × 2×10⁻² × (3×10⁷)²] / [1.6×10⁻¹⁹ × (3×10⁻²)²] = 2275 V."
+     }
     },
     {
      "qno": 1,
@@ -1967,7 +1985,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equipotential Surfaces"
+     "topic": "Equipotential Surfaces",
+     "answer": {
+      "text": "(a) Draw three equipotential surfaces for a uniform field (planes perpendicular to E). (b) Potential at P(x,0,0) for the dipole (−q at (−a,0,0), +q at (+a,0,0)): V₋q = −(1/4πε₀)·q/(x+a), V₊q = (1/4πε₀)·q/(x−a); net V = (1/4πε₀)·q(2a)/(x²−a²); for x ≫ a, V = (1/4πε₀)·q(2a)/x² = p/(4πε₀x²)."
+     }
     },
     {
      "qno": 32,
@@ -1984,7 +2005,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Combination of Capacitors"
+     "topic": "Combination of Capacitors",
+     "answer": {
+      "text": "(a) Parallel-plate capacitor: field between the plates E = σ/ε₀ = q/Aε₀; potential difference V = Ed = qd/Aε₀; capacitance C = q/V = Aε₀/d. (b) On inserting a dielectric slab (capacitors in parallel, same V): (i) each capacitance becomes K times (C' = KC), so charge on each becomes K times: q' = C'V = KCV = Kq (q'₁ = Kq₁, q'₂ = Kq₂). (ii) energy stored U = ½CV² also becomes K times: U' = KU."
+     }
     },
     {
      "qno": 29,
@@ -2004,7 +2028,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Combination of Capacitors"
+     "topic": "Combination of Capacitors",
+     "answer": {
+      "text": "(i) (D) 2 μF. (ii) (C) 0.2 A. (iii) (A) 2 V. (iv) (B) 4 μC [OR (C) remain the same]."
+     }
     },
     {
      "qno": 31,
@@ -2024,7 +2051,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Potential Energy of a System of Charges"
+     "topic": "Potential Energy of a System of Charges",
+     "answer": {
+      "text": "(a)(i)(I) From the V-vs-(1/r) graph, Q₁ is positive and Q₂ is negative. (II) Q₁/Q₂ = (slope of A)/(slope of B) = tan60°/tan30° = 3. (ii) Potential V(r) = −∫E dx = −∫(A/x²)dx = A/x; potential energy U = q₁V(x₁) + q₂V(x₂) + q₁q₂/(4πε₀x₁₂); substituting the given values = (−6 + 15 − 0.15) J = 8.85 J."
+     }
     },
     {
      "qno": 33,
@@ -2041,7 +2071,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "The Parallel Plate Capacitor"
+     "topic": "The Parallel Plate Capacitor",
+     "answer": {
+      "text": "(a)(i)(I) The field is normal to an equipotential surface because otherwise it would have a component along the surface, and moving a charge against it would need work — contradicting the equipotential definition (∮E·dl = 0 ⇒ cosθ = 0 ⇒ θ = 90°). (II) A dielectric in an external field gets polarised; the induced field opposes the external one, so the net field inside is reduced. (III) V = Q/C = Qd/Aε₀ ⇒ V ∝ d, so bringing the plates closer (smaller d) decreases the potential difference. (ii) Interaction energy W = k[q₁q₂/a + q₁q₃/a + q₂q₃/a] = (k/a)[(q)(−4q) + (q)(2q) + (−4q)(2q)] = −k(10q²)/a; hence work to dissociate = +k(10q²)/a."
+     }
     },
     {
      "qno": 2,
@@ -2087,7 +2120,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Combination of Capacitors"
+     "topic": "Combination of Capacitors",
+     "answer": {
+      "text": "C_X = C and C_Y = KC = 4C are in series: C_eq = C_X C_Y/(C_X+C_Y) = C·4C/5C = 4 μF ⇒ C = 5 μF, so C_X = 5 μF and C_Y = 20 μF. Charge Q = C_eq V = 4×10⁻⁶ × 6 = 24 μC. Voltages V_X = Q/C_X = 24/5 = 4.8 V and V_Y = Q/C_Y = 24/20 = 1.2 V."
+     }
     },
     {
      "qno": 29,
@@ -2108,7 +2144,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electrostatic Potential"
+     "topic": "Electrostatic Potential",
+     "answer": {
+      "text": "(i) (D) (−2×10⁴ V/m) k̂. (ii) (B) (3.5×10¹⁵ m/s²) k̂. (iii) (a) (C) 1.67×10⁻⁹ s [OR (b) (B) 4.9 mm]. (iv) (B) b."
+     }
     }
    ],
    "topic_order": [
@@ -2148,7 +2187,10 @@
      "topic": "Wheatstone Bridge",
      "figures": [
       "assets/figures/phy_2026_z1_q22.png"
-     ]
+     ],
+     "answer": {
+      "text": "Balanced Wheatstone bridge condition (Kirchhoff's rules with I_g = 0): loop ADBA ⇒ −I₁R₁ + I₂R₂ = 0 and loop CBDC ⇒ I₄R₄ − I₃R₃ = 0, with I₁ = I₃ and I₂ = I₄ ⇒ R₂/R₁ = R₄/R₃. (b) Net resistance of the network (the middle bridge is balanced ⇒ R_MN = R): R_AB = R_AM + R_MN + R_NB = 2R + R + 3R = 6R Ω."
+     }
     },
     {
      "qno": 31,
@@ -2166,7 +2208,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Cells in Series and in Parallel",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(a) Two cells (ε₁,r₁) and (ε₂,r₂) in parallel: with I = I₁ + I₂ and V = ε₁ − I₁r₁ = ε₂ − I₂r₂ ⇒ V = (ε₁r₂+ε₂r₁)/(r₁+r₂) − I·r₁r₂/(r₁+r₂); so equivalent emf ε_eq = (ε₁r₂+ε₂r₁)/(r₁+r₂) and equivalent internal resistance r_eq = r₁r₂/(r₁+r₂). (b) For cells (E, R) and (3E, R): E_eq = (E·R + 3E·R)/(R+R) = 2E, r_eq = R/2; current through the external 2R: I = E_eq/(2R + r_eq) = 2E/(2R + R/2) = 4E/5R."
+     }
     },
     {
      "qno": 32,
@@ -2184,7 +2229,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Drift of Electrons and the Origin of Resistivity",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(a) Drift velocity v_d = −eEτ/m is independent of time because τ (average time between collisions) is constant; for n free electrons per unit volume, charge crossing area A in time Δt is q = neA|v_d|Δt, so current I = neA|v_d|. (b)(i) Current is established almost instantly because the electric field is set up throughout the circuit almost instantly, producing a local drift everywhere. (ii) v_d = I/(neπr²) ⇒ v_{d1}/v_{d2} = (r₂/r₁)² = 4/9."
+     }
     },
     {
      "qno": 33,
@@ -2202,7 +2250,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Cells, emf, Internal Resistance",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i)(I) The current is established almost instantly because the field sets up throughout the circuit at nearly the speed of light, causing a local electron drift everywhere. (II) Maximum current from a cell, I = ε/(R+r), is largest when R = 0 (I_max = ε/r), so it needs low internal resistance. (III) Ohm's law requires the I–V plot to be linear (R independent of V); a diode does not obey this, so the assertion is not true. (ii) Two cells (12 V, 1 Ω) and (6 V, 0.5 Ω) in parallel: ε_AB = (ε₁r₂ + ε₂r₁)/(r₁+r₂) = (12×0.5 + 6×1)/1.5 = 8 V; internal resistance r = r₁r₂/(r₁+r₂) = (0.5×1)/1.5 = 1/3 Ω."
+     }
     },
     {
      "qno": 2,
@@ -3623,7 +3674,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Drift of Electrons and the Origin of Resistivity"
+     "topic": "Drift of Electrons and the Origin of Resistivity",
+     "answer": {
+      "text": "Magnitude of drift velocity in a conductor is of the order of a few mm/s. Deriving I = neAv_d: for n free electrons per unit volume and cross-section A, the charge crossing in time Δt is Q = neAv_dΔt (electrons drift opposite to E); hence current I = Q/Δt = neAv_d."
+     }
     },
     {
      "qno": 16,
@@ -3668,7 +3722,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electrical Energy, Power"
+     "topic": "Electrical Energy, Power",
+     "answer": {
+      "text": "Steady temperature of the heating element: R₁ = V/I₁ = 220/2.9 Ω at t₁, R₂ = V/I₂ = 220/2.5 Ω at t₂; using R₂ = R₁[1 + α(t₂−t₁)], t₂ − t₁ = (R₂−R₁)/(R₁α) = (220/2.5 − 220/2.9)/[(220/2.9)×1.7×10⁻⁴]; with t₁ = 27°C, t₂ ≈ 968°C."
+     }
     },
     {
      "qno": 27,
@@ -3688,7 +3745,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Kirchhoff's Rules"
+     "topic": "Kirchhoff's Rules",
+     "answer": {
+      "text": "(a) Electric current is a scalar because it does not obey the law of vector addition; the arrow only indicates the direction of conventional current (current through an area = j·ΔS, a scalar product). (b) Current through the 3 Ω resistor (Kirchhoff's laws): loop ABEFA ⇒ 3 + 3I₁ − 4(I−I₁) = 0 ⇒ 4I − 7I₁ = 3 …(1); loop BCDEB ⇒ 5 − 2I − 3I₁ = 0 ⇒ 2I + 3I₁ = 5 …(2); solving, I₁ = 7/13 A."
+     }
     },
     {
      "qno": 13,
@@ -3736,7 +3796,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Ohm's law"
+     "topic": "Ohm's law",
+     "answer": {
+      "text": "Potential difference between points B and C: I = ε_net/R_net = 2/4 = 0.5 A; V_BC = −ε₂ − Ir₂ = −4 − (0.5 × 3) = −5.5 V."
+     }
     },
     {
      "qno": 17,
@@ -3754,7 +3817,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Cells, emf, Internal Resistance"
+     "topic": "Cells, emf, Internal Resistance",
+     "answer": {
+      "text": "(i) Resistance of the resistor: IR = ε − Ir ⇒ R = (21 − 3×3)/3 = 4 Ω. (ii) Terminal voltage of the battery: V = IR = 3 × 4 = 12 V."
+     }
     },
     {
      "qno": 22,
@@ -3771,7 +3837,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Drift of Electrons and the Origin of Resistivity"
+     "topic": "Drift of Electrons and the Origin of Resistivity",
+     "answer": {
+      "text": "(a) Relation between drift velocity and current: for n free electrons per unit volume, charge crossing area A in time Δt is Q = neAv_dΔt, so I = neAv_d. (b) Since v_d = eVτ/mL, doubling the length L (with V constant) halves the drift velocity."
+     }
     },
     {
      "qno": 1,
@@ -3845,7 +3914,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Kirchhoff's Rules"
+     "topic": "Kirchhoff's Rules",
+     "answer": {
+      "text": "(a) Kirchhoff's rules: Junction rule — the sum of currents entering a junction equals the sum leaving it (charge conservation). Loop rule — the algebraic sum of potential changes around any closed loop is zero (energy conservation). (b) Current through branch FC: loop AFCBA ⇒ 4i₁ − i₂ = 0 ⇒ 4i₁ = i₂ …(i); loop FEDCF ⇒ 4i₁ + 5i₂ = 2 …(ii); solving, i₁ = 1/12 A and i₂ = 1/3 A (current through FC = 1/3 A)."
+     }
     },
     {
      "qno": 29,
@@ -3867,7 +3939,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Cells, emf, Internal Resistance"
+     "topic": "Cells, emf, Internal Resistance",
+     "answer": {
+      "text": "(i) (C) [non-ohmic I–V curve]. (ii) (C) equal to the sum of the error in the voltmeter reading and the error in the ammeter reading. (iii) (B) readings in both the voltmeter and ammeter increase. (iv) (B) v₂ > v₃ > v₁ [OR (C) E₂ > E₃ > E₁]."
+     }
     },
     {
      "qno": 17,
@@ -3884,7 +3959,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electrical Energy, Power"
+     "topic": "Electrical Energy, Power",
+     "answer": {
+      "text": "Resistance of the heater R = V²/P = (220)²/(2.2×10³) = 22 Ω. Operated at 110 V for 10 min, current I = 110/22 = 5 A and heat produced H = I²Rt = 5² × 22 × 600 = 3.3×10⁵ J."
+     }
     },
     {
      "qno": 17,
@@ -3902,7 +3980,10 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Resistivity of Various Materials",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Resistivity of the wire ρ = RA/l, with R = V/I = 2/4 = 0.5 Ω, A = 1×10⁻⁶ m² and l = 1 m ⇒ ρ = (0.5 × 1×10⁻⁶)/1 = 5×10⁻⁷ Ω·m."
+     }
     },
     {
      "qno": 31,
@@ -3922,7 +4003,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Wheatstone Bridge"
+     "topic": "Wheatstone Bridge",
+     "answer": {
+      "text": "(a)(i) Balanced Wheatstone bridge (galvanometer current I_g = 0): Kirchhoff's loop rule for ADBA gives −I₁R₁ + I₂R₂ = 0 and for CBDC gives I₂R₄ − I₁R₃ = 0; dividing, R₂/R₁ = R₄/R₃ (the balance condition). (ii) Current in the 3 Ω branch of the given network (Kirchhoff's rules): loop ABDA ⇒ −20I₁ − 3I₂ + 12(I−I₁) = 0; loop BCDB ⇒ −2(I₁−I₂) + 1(I−I₁+I₂) + 3I₂ = 0; loop EADCE ⇒ −12(I−I₁) − 1(I−I₁+I₂) = −6; solving, I₂ = 12/821 ≈ 0.014 A."
+     }
     },
     {
      "qno": 31,
@@ -3940,7 +4024,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Temperature Dependence of Resistivity"
+     "topic": "Temperature Dependence of Resistivity",
+     "answer": {
+      "text": "(b)(i) Conductivity σ = ne²τ/m: with n free electrons per unit volume, the charge crossing area A in time Δt is Q = neAv_dΔt so I = neAv_d; using drift velocity v_d = eEτ/m, current density J = I/A = ne·(eEτ/m) = (ne²τ/m)E; comparing with J = σE ⇒ σ = ne²τ/m. (ii) Temperature coefficient of resistance α = (R₂ − R₁)/[R₁(T₂ − T₁)] = (1.38 − 1.05)/[1.05 × (100 − 20)] = 0.33/84 ≈ 0.0039 °C⁻¹."
+     }
     }
    ],
    "topic_order": [
@@ -5737,7 +5824,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Torque on Current Loop, Magnetic Dipole"
+     "topic": "Torque on Current Loop, Magnetic Dipole",
+     "answer": {
+      "text": "Ratio of maximum torque of the two coils: side of square a = L/4N, radius of circular coil r = L/2πN. τ = NIBA ⇒ τ₁/τ₂ = A₁/A₂ = (L/4N)² / [π(L/2πN)²] = π/4. So τ₁ : τ₂ = π : 4."
+     }
     },
     {
      "qno": 29,
@@ -5754,7 +5844,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "The Moving Coil Galvanometer"
+     "topic": "The Moving Coil Galvanometer",
+     "answer": {
+      "text": "(I) (B) radial magnetic field. (II) (A) increasing the number of turns of the coil. (III) (D) 0.25 N·m [OR (B) 3985 Ω]. (IV) (C) 0.01 Ω should be connected in parallel with it."
+     }
     },
     {
      "qno": 5,
@@ -5823,7 +5916,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Force"
+     "topic": "Magnetic Force",
+     "answer": {
+      "text": "Magnetic field on the axis of a current-carrying circular loop (Biot-Savart): dB = (μ₀/4π)·Idl/(r²+x²); the components perpendicular to the axis cancel, the axial components add: B_x = ∫dB cosθ = μ₀Ir²/[2(x²+r²)^{3/2}]. For N turns, B_net = μ₀NIr²/[2(x²+r²)^{3/2}] (along the axis)."
+     }
     },
     {
      "qno": 14,
@@ -5868,7 +5964,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Torque on Current Loop, Magnetic Dipole"
+     "topic": "Torque on Current Loop, Magnetic Dipole",
+     "answer": {
+      "text": "External torque on the coil: τ = NIBA sinθ = 30 × 6 × 1 × 3.14 × (8×10⁻²)² × sin60° = 3.13 N·m. If the circular coil is replaced by a planar coil of the same area, the torque remains the same."
+     }
     },
     {
      "qno": 23,
@@ -5886,7 +5985,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Motion in a Magnetic Field",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Radius of the circular path from kinetic energy: K.E = q²B²r²/2m ⇒ r = √(2·K.E·m)/(qB) = √(2 × 8×1.6×10⁻¹⁹×10⁶ × 6.4×10⁻²⁷)/(3.2×10⁻¹⁹ × 0.5) = 80 cm. Conditions: (i) helical path when the particle enters at an angle 0° < θ < 90° (one velocity component parallel and one perpendicular to B); (ii) straight, undeviated when its velocity is parallel or antiparallel to B."
+     }
     },
     {
      "qno": 30,
@@ -5903,7 +6005,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Motion in a Magnetic Field"
+     "topic": "Motion in a Magnetic Field",
+     "answer": {
+      "text": "(i) (A) 1/2. (ii) (D) 2. (iii) (D) Particle 1 revolves anticlockwise while particle 2 revolves clockwise. (iv) (A) 1 s [OR (B) p₁ = p₂]."
+     }
     },
     {
      "qno": 2,
@@ -5978,7 +6083,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Force between Two Parallel Currents, the Ampere"
+     "topic": "Force between Two Parallel Currents, the Ampere",
+     "answer": {
+      "text": "(a) Three long parallel conductors (currents I, I, 3I). (i) Net magnetic field at a point on conductor 1: due to conductor 2, B₁ = μ₀I/2πd (+z); due to conductor 3, B₂ = 3μ₀I/4πd (−z); net = B₂ − B₁ = μ₀I/4πd, directed along −z (into the page). (ii) Net force per unit length on conductor 1: due to 2 = μ₀I²/πd (attractive), due to 3 = 3μ₀I²/2πd (repulsive); net = μ₀I²/2πd, directed repulsively (along +y)."
+     }
     },
     {
      "qno": 3,
@@ -6024,7 +6132,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Field due to a Current Element, Biot-Savart Law"
+     "topic": "Magnetic Field due to a Current Element, Biot-Savart Law",
+     "answer": {
+      "text": "By the Biot–Savart law dB = (μ₀/4π)·I(dl × r)/r³ = (μ₀/4π)·I dl sinθ/r². With I = 10 A, dl = 10 cm, r = √2 m and θ = 45°, dB = 10⁻⁷ × (10 × 10×10⁻² × sin45°)/2 = 3.53×10⁻⁹ T, directed along +z (out of the plane)."
+     }
     },
     {
      "qno": 32,
@@ -6041,7 +6152,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Torque on Current Loop, Magnetic Dipole"
+     "topic": "Torque on Current Loop, Magnetic Dipole",
+     "answer": {
+      "text": "(a)(i) Torque on a rectangular current loop in a uniform field: forces on sides BC and DA are equal, opposite and collinear and cancel; forces on AB and CD (each F = IbB) are equal, opposite but non-collinear and form a couple, giving τ = F·(a sinθ) = IbB·a sinθ = IAB sinθ. With magnetic moment m = IA, τ = mB sinθ, i.e. τ = m × B. (ii)(I) m = NIA = 100 × 5 × π(10×10⁻²/√π)² = 5 A·m². (II) counter-torque to hold the coil at 30° = mB sinθ = 5 × 2 × sin30° = 5 N·m."
+     }
     },
     {
      "qno": 32,
@@ -6061,7 +6175,10 @@
      "topic": "Magnetic Force",
      "figures": [
       "assets/figures/phy_2026_z5_q32.png"
-     ]
+     ],
+     "answer": {
+      "text": "(b)(i) Force on a current-carrying conductor: for n free electrons per unit volume the total charge in a conductor of length L and area A is q = nALe; the force on it, moving with drift velocity v_d in field B, is F = q(v_d × B) = nAL·e(v_d × B); since neAv_d = I, F = I(L × B). (ii) For the bent wire (B = −0.5 k̂ T, I = 2 A): on the 50 cm segment along x, F₁ = 2(50×10⁻² î × (−0.5 k̂)) = 0.5 ĵ N; on the 20 cm segment along y, F₂ = 2(20×10⁻² ĵ × (−0.5 k̂)) = 0.2 î N. As F₁ ⊥ F₂, resultant F = √(F₁²+F₂²) = √(0.25+0.04) = √0.29 ≈ 0.54 N."
+     }
     },
     {
      "qno": 24,
@@ -6100,7 +6217,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Force between Two Parallel Currents, the Ampere",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Force between two long parallel current-carrying conductors: field of A at B is B_a = μ₀I_a/2πd (−k̂); force on length L of B: F_BA = I_b L × B_a = (μ₀I_aI_bL/2πd) ĵ; similarly F_AB = (μ₀I_aI_bL/2πd)(−ĵ) = −F_BA — equal and opposite, so Newton's third law is obeyed."
+     }
     }
    ],
    "topic_order": [
@@ -6581,7 +6701,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Faraday's Law of Induction"
+     "topic": "Faraday's Law of Induction",
+     "answer": {
+      "text": "(b) Rectangular loop (sides ℓ, b) in a field B = B₀ sinωt. (i) Induced emf ε = dφ/dt = d/dt(B₀ sinωt · ℓb) = B₀ωℓb cosωt. (ii) Instantaneous current = ε/R = B₀ωℓb cosωt / R; effective (rms) value I_eff = I₀/√2 = B₀ωℓb/(R√2)."
+     }
     },
     {
      "qno": 6,
@@ -7609,7 +7732,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Inductance"
+     "topic": "Inductance",
+     "answer": {
+      "text": "(a) Faraday's law: the magnitude of the induced emf equals the time rate of change of magnetic flux, ε = −dφ_B/dt. (b) Self-inductance of a long solenoid: B = μ₀nI; total flux Nφ_B = (nl)(μ₀nI)(A) = μ₀n²AlI ⇒ L = Nφ_B/I = μ₀n²Al. (c) Induced emf of the rotating rod: ε = ½Bl²ω = ½ × 4×10⁻³ × (50×10⁻²)² × (2π×1) = 3.14 mV."
+     }
     },
     {
      "qno": 8,
@@ -7678,7 +7804,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Inductance"
+     "topic": "Inductance",
+     "answer": {
+      "text": "(i) Mutual inductance of a pair of coils = ratio of the magnetic flux linked with one coil to the current in the neighbouring coil (or ratio of induced emf to the rate of change of current in the neighbouring coil); SI unit: henry (H) [= Tm²A⁻¹ = WbA⁻¹ = VsA⁻¹]. (ii) For a solenoid carrying current I, B = μ₀nI; flux through the inner loop of radius r: φ_B = BA = (μ₀nI)(πr²); mutual inductance M = φ_B/I = μ₀nπr²."
+     }
     },
     {
      "qno": 2,
@@ -7779,7 +7908,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Flux"
+     "topic": "Magnetic Flux",
+     "answer": {
+      "text": "(a) As the flux linked with the loop is decreasing, by Lenz's law the induced current is clockwise; the current persists for the time the loop takes to leave the field, t = 25 cm / 25 cm/s = 1 s. (b) Plot φ vs t (constant, then falling linearly to zero) and |ε| vs t (zero, then a constant pulse while the flux changes)."
+     }
     },
     {
      "qno": 4,
@@ -7850,7 +7982,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "AC Generator"
+     "topic": "AC Generator",
+     "answer": {
+      "text": "Plot the flux φ = BA cos(ωt + π/2) and the induced emf ε = ωBA sin(ωt + π/2) against ωt for one cycle; the emf leads the flux by π/2 (when the flux is maximum the emf is zero, and vice-versa)."
+     }
     },
     {
      "qno": 24,
@@ -7867,7 +8002,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Inductance"
+     "topic": "Inductance",
+     "answer": {
+      "text": "Mutual inductance of a coil wound over a long solenoid: M₁₂ = μ₀n₁n₂πr₁²l = M₂₁ (equivalently M = μ₀N₁N₂πr₁²/l), showing the mutual inductance is the same whichever coil carries the current."
+     }
     },
     {
      "qno": 33,
@@ -7906,7 +8044,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "AC Generator",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(a) AC generator (labelled diagram: coil on an axle between magnet poles N-S, slip rings, carbon brushes). Principle: electromagnetic induction — a changing magnetic flux through the coil induces an emf. Working: as the coil rotates in the field the flux linked changes and an emf is induced. (ii) φ_B = BA cosωt ⇒ ε = −N dφ_B/dt = NBAω sinωt. (iii) The emf is maximum at t = T/4 and 3T/4."
+     }
     },
     {
      "qno": 32,
@@ -7924,7 +8065,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inductance",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Lenz's law: the induced emf drives a current in the direction that opposes the change in flux producing it (e.g. a magnet's N-pole approaching a coil makes the near face a N-pole, causing repulsion); this follows from conservation of energy. (ii) Dimensional formula of self-inductance = [ML²T⁻²A⁻²]; from ε = −L dI/dt, L = −ε/(dI/dt) = −(50 × 0.6)/(2 − 8) = 5 H."
+     }
     }
    ],
    "topic_order": [
@@ -7977,7 +8121,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Transformers",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(a) Step-up transformer (labelled diagram, soft-iron core, primary & secondary). Principle: an alternating voltage across the primary sets up a changing flux that links the secondary and induces an emf (mutual induction). ε_s = −N_s dφ/dt, ε_p = −N_p dφ/dt ⇒ V_s/V_p = N_s/N_p; for an ideal transformer I_pV_p = I_sV_s ⇒ V_p/V_s = I_s/I_p. (b) (i) P = V_pI_p ⇒ 5000 = 200 I_p ⇒ I_p = 25 A. (ii) N_p/N_s = V_p/V_s ⇒ 1/5 = 200/V_s ⇒ V_s = 1000 V."
+     }
     },
     {
      "qno": 27,
@@ -8868,7 +9015,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Power in AC Circuit: The Power Factor"
+     "topic": "Power in AC Circuit: The Power Factor",
+     "answer": {
+      "text": "(a) Series LCR impedance (phasor diagram): v_m² = v_Rm² + (v_Cm − v_Lm)² = (i_mR)² + (i_mX_C − i_mX_L)² ⇒ i_m = v_m/√(R² + (X_C − X_L)²) = v_m/Z, with impedance Z = √(R² + (X_C − X_L)²); phase difference tanφ = (X_C − X_L)/R. (b)(i) Impedance is minimum at resonance (X_C = X_L). (ii) Wattless current flows when the average power is zero: P_avg = V_rms I_rms cosφ = 0 for φ = π/2 (cosφ = 0)."
+     }
     },
     {
      "qno": 24,
@@ -8885,7 +9035,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Representation of AC Current and Voltage by Rotating Vectors - Phasors"
+     "topic": "Representation of AC Current and Voltage by Rotating Vectors - Phasors",
+     "answer": {
+      "text": "(a)(i) With a dc source the inductor at first opposes the change in current, then the current becomes steady — it behaves like a conductor. (ii) With a high-frequency ac source the changing field induces a large back emf; the reactance X_L = ωL becomes very high and blocks the current. (b) In a purely inductive circuit the current lags the voltage by π/2 radian (phasor diagram / v–i graphs)."
+     }
     },
     {
      "qno": 32,
@@ -8902,7 +9055,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Power in AC Circuit: The Power Factor"
+     "topic": "Power in AC Circuit: The Power Factor",
+     "answer": {
+      "text": "(a)(i) Effect on the bulb: (I) inserting an iron bar raises the coil's inductive reactance (L' = μ_r L, X_L = ωL increases), so more voltage drops across the inductor and less across the bulb — the bulb dims. (II) decreasing the frequency lowers X_L, so current increases and the bulb brightens. (ii) V = 280 sin(100πt): X_L = 100π × (5/π) = 500 Ω, X_C = 10⁶/(100π × 50/π) = 200 Ω. (I) Z = √(R² + (X_L−X_C)²) = √(400² + 300²) = 500 Ω. (II) I_rms = V₀/(Z√2) = 280/(500×1.4) = 0.4 A. (III) power factor cosφ = R/Z = 400/500 = 0.8."
+     }
     },
     {
      "qno": 6,
@@ -8945,7 +9101,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Power in AC Circuit: The Power Factor"
+     "topic": "Power in AC Circuit: The Power Factor",
+     "answer": {
+      "text": "(a)(i)(I) Resonant frequency of a series LCR circuit = the frequency at which the current amplitude is maximum (impedance minimum, Z = R; X_L = X_C). (II) Power factor = ratio of resistance to impedance, cosφ = R/Z (= V_R/V); power P = V_eff I_eff cosφ is maximum when cosφ = 1. (ii)(I) Z = √(R² + (ωL − 1/ωC)²) = √(400² + (100π·5/π − π/(100π·50×10⁻⁶))²) = √(160000 + 90000) = 500 Ω. (II) I_rms = V₀/(Z√2) = 140/(500×1.4) = 0.2 A."
+     }
     },
     {
      "qno": 32,
@@ -8963,7 +9122,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Transformers",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Transformer (labelled diagram: soft-iron core, primary and secondary coils). ε_s = −N_s dφ/dt and ε_p = −N_p dφ/dt; with ε_p = v_p and ε_s = v_s, dividing gives v_s/v_p = N_s/N_p. (ii)(I) P = V_pI_p ⇒ 3.3×10³ = 220 I_p ⇒ I_p = 15 A. (II) V_s/V_p = N_s/N_p ⇒ 220/V_s = 100/5000 ⇒ V_s = 11000 V."
+     }
     },
     {
      "qno": 5,
@@ -9938,7 +10100,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Electromagnetic Spectrum"
+     "topic": "Electromagnetic Spectrum",
+     "answer": {
+      "text": "Naming the EM wave and its wavelength range: (i) Detection of fracture in bones → X-rays (1 nm to 10⁻³ nm). (ii) Physiotherapy → Infrared waves (1 mm to 700 nm). (iii) Radar systems → Microwaves (0.1 m to 1 mm)."
+     }
     },
     {
      "qno": 3,
@@ -9981,7 +10146,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Electromagnetic Waves"
+     "topic": "Electromagnetic Waves",
+     "answer": {
+      "text": "(a) Depict the EM wave with mutually perpendicular, in-phase E and B, both perpendicular to the direction of propagation. Characteristics (any two): E ⊥ B; speed in free space = 3×10⁸ m/s; E and B are in phase; the wave is transverse; it can travel in vacuum. (b) 1/√(μ₀ε₀) = 1/√[4π×10⁻⁷ × 1/(4π×9×10⁹)] = √(9×10¹⁶) = 3×10⁸ m/s — the velocity of an EM wave in free space."
+     }
     },
     {
      "qno": 7,
@@ -10024,7 +10192,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Electromagnetic Spectrum"
+     "topic": "Electromagnetic Spectrum",
+     "answer": {
+      "text": "Infrared waves are EM waves produced by hot bodies and molecules (wavelength ~1 mm to 700 nm). They are called heat waves because water molecules in most materials readily absorb infrared radiation, so their thermal motion increases and they heat the surroundings. Two uses (any two): infrared lamps in physiotherapy; maintaining Earth's average temperature; military/satellite imaging; observing crop growth from satellites; remote-control switches."
+     }
     },
     {
      "qno": 6,
@@ -10067,7 +10238,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Displacement Current"
+     "topic": "Displacement Current",
+     "answer": {
+      "text": "Displacement current i_d = ε₀ dφ_E/dt. For a charging capacitor the flux between the plates φ_E = Q/ε₀, so i_d = ε₀ dφ_E/dt = dQ/dt, equal to the conduction current — thus current continuity is maintained. If the capacitor is held at constant voltage, Q is constant and i_d = 0."
+     }
     }
    ],
    "topic_order": [
@@ -11434,7 +11608,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Optical Instruments"
+     "topic": "Optical Instruments",
+     "answer": {
+      "text": "(a) Draw the ray diagram of a refracting (astronomical) telescope; angular magnification |m| = f₀/f_e. (b) Two advantages of a reflecting over a refracting telescope (any two): no chromatic aberration; needs less mechanical support; image is brighter and clearer; cost efficient; no/less spherical aberration."
+     }
     },
     {
      "qno": 28,
@@ -11454,7 +11631,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Total Internal Reflection"
+     "topic": "Total Internal Reflection",
+     "answer": {
+      "text": "(a) Two conditions for total internal reflection: (i) light must travel from a denser to a rarer medium; (ii) the angle of incidence must be greater than the critical angle (i > i_c). (b) At AB: sinθ/sinθ₁ = (3n/4)/n ⇒ sinθ = (3/4)sinθ₁ …(1). At BC: sinθ₁/sinr = (2n/3)/(3n/4) ⇒ sinθ₁ = (8/9)sinr …(2). Combining, (3/2)sinθ = sinr; for sinθ = 2/3, sinr = 1 ⇒ r = 90°, so the ray grazes the BC surface. Hence for sinθ ≥ 2/3 the beam does not enter region C at all."
+     }
     },
     {
      "qno": 32,
@@ -11471,7 +11651,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "(a) Lens maker's formula: refraction at the first surface gives n₁/OB + n₂/BI₁ = (n₂−n₁)/BC₁ …(1) and at the second surface −n₂/DI₁ + n₁/DI = (n₂−n₁)/DC₂ …(2); for a thin lens (BI₁ = DI₁), adding gives 1/v − 1/u = (n₂/n₁ − 1)(1/R₁ − 1/R₂), and for an object at infinity 1/f = (n₂/n₁ − 1)(1/R₁ − 1/R₂). (b) Three lenses f = 40 cm each, object 80 cm from L₁: L₁ ⇒ v₁ = 80 cm; L₂ (u₂ = 120−80 = 40) ⇒ v₂ = ∞; L₃ (u₃ = ∞) ⇒ v₃ = 40 cm. Distance of final image from object = 80 + 120 + 20 + 40 = 260 cm."
+     }
     },
     {
      "qno": 32,
@@ -11489,7 +11672,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Reflection of Light by Spherical Mirrors",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(a) Concave-mirror formula from the ray diagram (similar triangles): 1/f = 1/v + 1/u. (b) Two-times magnified virtual image: m = −v/u = 2 ⇒ v = −2u = −2(−10) = 20 cm; then 1/f = 1/v + 1/u = 1/20 − 1/10 ⇒ f = −20 cm."
+     }
     },
     {
      "qno": 19,
@@ -11506,7 +11692,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction through a Prism"
+     "topic": "Refraction through a Prism",
+     "answer": {
+      "text": "Speed of light in the prism: angle of incidence i = (3/4)A = 45°; at minimum deviation r = A/2 = 30°; refractive index n = sin i/sin r = sin45°/sin30° = √2. Since n = c/v, v = c/√2 = (3/√2)×10⁸ = 2.12×10⁸ m/s."
+     }
     },
     {
      "qno": 21,
@@ -11523,7 +11712,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Reflection of Light by Spherical Mirrors"
+     "topic": "Reflection of Light by Spherical Mirrors",
+     "answer": {
+      "text": "Length of the image of a pencil on the axis of a concave mirror: 1/f = 1/v + 1/u. Near end: 1/v₁ = 1/(−20) − 1/(−25) ⇒ v₁ = −100 cm; far end: 1/v₂ = 1/(−20) − 1/(−30) ⇒ v₂ = −60 cm. Length L = |v₁| − |v₂| = 40 cm."
+     }
     },
     {
      "qno": 30,
@@ -11540,7 +11732,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "(i) (A) √(D(D − 4f)). (ii) (D) Enlarged, reduced. (iii) (B) 18.75 cm. (iv) (D) 65 cm [OR (A) −15 cm]."
+     }
     },
     {
      "qno": 4,
@@ -11638,7 +11833,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Total Internal Reflection"
+     "topic": "Total Internal Reflection",
+     "answer": {
+      "text": "Angle of emergence at the water–air surface: sin i_c = 1/n = 2/3. At the glass–water surface, (3/2) sin i_c = (4/3) sin r ⇒ sin r = 3/4. At the water–air surface, (4/3) sin r = sin e ⇒ (4/3)(3/4) = sin e = 1 ⇒ e = 90°."
+     }
     },
     {
      "qno": 33,
@@ -11655,7 +11853,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "(a) Refraction at a single convex spherical surface (ray diagram, small angles): i = ∠NOM + ∠NCM, r = ∠NCM − ∠NIM, and by Snell's law 1·i = n·r; this gives 1/MO + n/MI = (n−1)/MC, and with Cartesian signs (MO = −u, MI = +v, MC = +R): n/v − 1/u = (n−1)/R. (ii) For the given data the image is at v = 60 cm and is real and inverted."
+     }
     },
     {
      "qno": 33,
@@ -11673,7 +11874,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Refraction at Spherical Surfaces and by Lenses",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Two thin lenses in contact: for lens A, 1/v₁ − 1/u = 1/f₁; for lens B, 1/v − 1/v₁ = 1/f₂; adding, 1/v − 1/u = 1/f₁ + 1/f₂ = 1/f, so 1/f = 1/f₁ + 1/f₂. (ii) YDSE: (I) fringe width β = λD/d = (550×10⁻⁹ × 2.2)/(1.1×10⁻³) = 1.1 mm. (II) distance of the 2nd dark fringe, x = (2n−1)λD/2d with n = 2 ⇒ x = 1.65 mm. (III) on immersing the set-up in water the fringe width decreases (β' = β/n)."
+     }
     },
     {
      "qno": 15,
@@ -11718,7 +11922,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction"
+     "topic": "Refraction",
+     "answer": {
+      "text": "Area of the circle of light emerging from the water surface: only rays within the critical angle escape, so radius r = h tan i_c; sin i_c = 1/μ = 1/√2 ⇒ i_c = 45°, hence r = h. Area = πr² = 3.14 × (1)² = 3.14 m²."
+     }
     },
     {
      "qno": 30,
@@ -11735,7 +11942,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Optical Instruments"
+     "topic": "Optical Instruments",
+     "answer": {
+      "text": "(i) (B) real, virtual. (ii) (D) apertures of the objective lens and the eyepiece. (iii) (C) the distance between the two lenses is more than (f₀ + f_e). (iv) (A) 84 cm [OR (D) 20]."
+     }
     },
     {
      "qno": 31,
@@ -11755,7 +11965,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction through a Prism"
+     "topic": "Refraction through a Prism",
+     "answer": {
+      "text": "(a)(i) Refractive index of a medium = ratio of the speed of light in vacuum to that in the medium (n = c/v). (ii) For a prism, r₁ + r₂ = A and total deviation δ = i + e − A; at minimum deviation i = e and r₁ = r₂, giving r = A/2 and i = (A+δ_m)/2, so n = sin[(A+δ_m)/2] / sin(A/2). (iii) For the given prism the ray strikes face BC normally and goes undeviated; as i > i_c it undergoes total internal reflection and then exits the other face normally, undeviated."
+     }
     },
     {
      "qno": 19,
@@ -11772,7 +11985,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction"
+     "topic": "Refraction",
+     "answer": {
+      "text": "Refractive index n = c/v = real depth/apparent depth. With real depth 12.5 cm and apparent depth 9 cm, n = 12.5/9; hence speed of light in the liquid v = c/n = (3×10⁸ × 9)/12.5 = 2.16×10⁸ m/s."
+     }
     },
     {
      "qno": 20,
@@ -11789,7 +12005,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "For two thin lenses in contact the combination behaves as a single lens of focal length f given by 1/f = 1/f₁ + 1/f₂, i.e. f = f₁f₂/(f₁+f₂) (equivalently power P = P₁ + P₂)."
+     }
     },
     {
      "qno": 21,
@@ -11914,7 +12133,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Optical Instruments",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(a) Refracting telescope (labelled ray diagram); magnifying power m = β/α ≈ tanβ/tanα = (h/f_e)/(h/f₀) = f₀/f_e. (b)(i) The objective is given a larger aperture so that fainter objects can be seen clearly (greater light-gathering power and resolution). (ii) Two advantages of a reflecting telescope (any two): no chromatic aberration; spherical aberration removed with a parabolic mirror; needs less mechanical support; cost effective; brighter/sharper image."
+     }
     },
     {
      "qno": 33,
@@ -11932,7 +12154,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Optical Instruments",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Compound microscope: two convex lenses — an objective of short focal length and small aperture near the object and an eyepiece of larger aperture near the eye, mounted coaxially in a tube. The objective forms a real, inverted, magnified image of the object; this image acts as the object for the eyepiece, which forms the final image that is virtual and further enlarged. (Draw and label the ray diagram; the final magnification m = m₀ × mₑ.) (ii)(I) Yes — a real image is still formed even if the screen is removed, since it is produced by the actual intersection of the refracted rays. (II) Such a real image forms when the object presented to the lens is a virtual object."
+     }
     }
    ],
    "topic_order": [
@@ -12129,7 +12354,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Diffraction",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Least distance where bright fringes of the two wavelengths coincide: n₁λ₁ = n₂λ₂ ⇒ n₁/n₂ = λ₂/λ₁ = 600/500 = 6/5, so n₁ = 6. y^max = n₁λ₁D/d = (6 × 500×10⁻⁹ × 1.8)/(0.3×10⁻³) = 18 mm."
+     }
     },
     {
      "qno": 31,
@@ -12147,7 +12375,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Refraction and Reflection of Plane Waves using Huygens Principle"
+     "topic": "Refraction and Reflection of Plane Waves using Huygens Principle",
+     "answer": {
+      "text": "(b)(i) Ray = a straight line showing the rectilinear propagation of light; wavefront = the locus of points oscillating in the same phase. (ii) Using Huygens' construction, BC = vτ and AE = vτ, so triangles EAC and BAC are congruent, giving angle of incidence = angle of reflection (law of reflection verified). (iii) A convex lens converts an incident plane wavefront into a converging (spherical) wavefront of radius f, meeting at the focus F."
+     }
     },
     {
      "qno": 17,
@@ -13153,7 +13384,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Diffraction"
+     "topic": "Diffraction",
+     "answer": {
+      "text": "Least distance (dark fringes of the two wavelengths coincide): d sinθ = nλ₂ = (n+1)λ₁ ⇒ n×600 = (n+1)×400 ⇒ n = 2. Position of dark fringe y = (n+1)λ₁D/d = (3 × 400×10⁻⁹ × 1.5)/(1×10⁻³) = 1.8 mm."
+     }
     },
     {
      "qno": 18,
@@ -13171,7 +13405,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Diffraction",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Least distance (bright fringes coincide): nλ₂D/d = (n+1)λ₁D/d ⇒ n×660 = (n+1)×440 ⇒ n = 2. Position of bright fringe y = nλ₂D/d = (2 × 660×10⁻⁹ × 1.5)/(0.6×10⁻³) = 3.3 mm."
+     }
     },
     {
      "qno": 15,
@@ -13216,7 +13453,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Coherent and Incoherent Addition of Waves"
+     "topic": "Coherent and Incoherent Addition of Waves",
+     "answer": {
+      "text": "(a) Coherent sources: two sources emitting waves of the same frequency and a constant (or zero) phase difference. They are needed because with incoherent sources the phase difference varies rapidly with time, so maxima/minima shift and only a time-averaged intensity is seen; coherence gives a stable interference pattern (draw intensity vs position with equal-height maxima). (b) I = 4I₀cos²(φ/2): (i) Δp = λ/4 ⇒ φ = π/2 ⇒ I = 4I₀cos²(π/4) = 2I₀; (ii) Δp = λ/3 ⇒ φ = 2π/3 ⇒ I = 4I₀cos²(π/3) = I₀."
+     }
     },
     {
      "qno": 5,
@@ -13259,7 +13499,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Diffraction"
+     "topic": "Diffraction",
+     "answer": {
+      "text": "Diffraction of sound is more common than that of light because diffraction is appreciable only when the size of the obstacle is comparable to the wavelength. Sound wavelengths are comparable to everyday obstacles, whereas the wavelength of light is far smaller than most obstacles, so light diffraction is rarely noticed."
+     }
     },
     {
      "qno": 18,
@@ -13276,7 +13519,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Huygens Principle"
+     "topic": "Huygens Principle",
+     "answer": {
+      "text": "(a) Huygens' principle: every point on a wavefront acts as a source of secondary spherical wavelets that spread out at the wave speed; the common tangent (envelope) to these wavelets gives the new wavefront. Absence of the back wave: the amplitude of the secondary wavelets is maximum in the forward direction and zero backward (A ∝ (1 + cosθ); for θ = 180°, amplitude = 0)."
+     }
     },
     {
      "qno": 18,
@@ -13294,7 +13540,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Diffraction",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Single-slit diffraction: a bright central maximum with much weaker secondary maxima on either side (minima at θ = ±λ/a, ±2λ/a, …). (ii) Increasing the slit width decreases the linear width of the central maximum."
+     }
     },
     {
      "qno": 14,
@@ -13342,7 +13591,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Coherent and Incoherent Addition of Waves"
+     "topic": "Coherent and Incoherent Addition of Waves",
+     "answer": {
+      "text": "(i) (A) wave nature of light. (ii) (a) (C) 480 nm [OR (b) (A) 1.2 mm]. (iii) (B) 7.2×10⁻⁷ m. (iv) (D) be compressed."
+     }
     },
     {
      "qno": 33,
@@ -13359,7 +13611,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Diffraction"
+     "topic": "Diffraction",
+     "answer": {
+      "text": "(a)(i)(I) Single-slit diffraction — the path difference between waves from the two edges of a slit of width a reaching a point at angle θ is a sinθ. Secondary minima occur where a sinθ = nλ (n = ±1, ±2, …) and secondary maxima where a sinθ = (2n+1)λ/2 (n = ±1, ±2, …), the central maximum being the brightest. (II) Successive maxima become weaker as n increases because only light from a small fraction of the slit (one-third, one-fifth, one-seventh …) contributes to a secondary maximum, the remainder cancelling in pairs. (ii) Interference vs diffraction (any two): interference bands are equally spaced and of equal intensity with good contrast, whereas in diffraction the central maximum is twice as wide as the others, the intensity of the bright fringes decreases with distance from the centre, and the contrast is poorer."
+     }
     }
    ],
    "topic_order": [
@@ -14549,7 +14804,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "Calculating the work function: hν = φ₀ + KE_max ⇒ hc/λ = φ₀ + eV₀ ⇒ φ₀ = hc/λ − eV₀ = [(6.63×10⁻³⁴ × 3×10⁸)/(1.6×10⁻¹⁹ × 200×10⁻⁹) − 0.80] eV. φ₀ = 5.4 eV."
+     }
     },
     {
      "qno": 30,
@@ -14569,7 +14827,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(I) (C) hν₁ and hν₂. (II) (A) greater for metal A because it has a smaller work function. (III) (D) the slope of the parallel lines will not change but more electrons will be emitted per second. (IV) (C) 2/5 [OR (A) mₑ]."
+     }
     },
     {
      "qno": 3,
@@ -14640,7 +14901,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Wave Nature of Matter"
+     "topic": "Wave Nature of Matter",
+     "answer": {
+      "text": "Ratio of de-Broglie wavelengths of an α-particle and a proton, λ_a/λ_p. (i) Same kinetic energy: λ = h/√(2mK) ⇒ λ_a/λ_p = √(m_p/m_a) = √(m/4m) = 1/2. (ii) Same accelerating potential: λ = h/√(2mqV) ⇒ λ_a/λ_p = √(m_p q_p/m_a q_a) = √[(m/4m)(e/2e)] = 1/(2√2)."
+     }
     },
     {
      "qno": 8,
@@ -14737,7 +15001,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Wave Nature of Matter"
+     "topic": "Wave Nature of Matter",
+     "answer": {
+      "text": "Ratio of de-Broglie wavelengths (two bodies from rest, momentum conserved): m₁v₁ − m₂v₂ = 0 ⇒ v₁/v₂ = m₂/m₁; λ₁/λ₂ = (h/m₁v₁)/(h/m₂v₂) = (m₂v₂)/(m₁v₁) = (m₂/m₁)(m₁/m₂) = 1, i.e. λ₁ : λ₂ = 1 : 1."
+     }
     },
     {
      "qno": 8,
@@ -14856,7 +15123,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Wave Nature of Matter"
+     "topic": "Wave Nature of Matter",
+     "answer": {
+      "text": "(a) Dual aspect of matter: the de Broglie relation λ = h/p = h/mv connects the wave property (λ) with the particle property (momentum p). (b) For electrons emitted with kinetic energy from radiation: ½mv² = hc/λ ⇒ v = √(2hc/mλ); de Broglie wavelength λ' = h/mv = √(hλ/2mc)."
+     }
     },
     {
      "qno": 7,
@@ -14927,7 +15197,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Particle Nature of Light: The Photon"
+     "topic": "Particle Nature of Light: The Photon",
+     "answer": {
+      "text": "For light of frequency ν = 6.4×10¹⁴ Hz on a metal of work function φ₀ = 1.96 eV: (a) photon energy E = hν = (6.626×10⁻³⁴ × 6.4×10¹⁴)/(1.6×10⁻¹⁹) = 2.64 eV. (b) maximum kinetic energy K_max = E − φ₀ = 2.64 − 1.96 = 0.68 eV. (c) stopping potential eV₀ = K_max ⇒ V₀ = 0.68 V."
+     }
     }
    ],
    "topic_order": [
@@ -15969,7 +16242,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "DE Broglie's Explanation of Bohr's Second Postulate of Quantisation"
+     "topic": "DE Broglie's Explanation of Bohr's Second Postulate of Quantisation",
+     "answer": {
+      "text": "(a) Bohr's second (quantisation) postulate: the electron revolves only in those orbits for which its angular momentum is an integral multiple of h/2π, i.e. L = n(h/2π); significance — it defines the stable/stationary orbits (angular momentum is quantised). (b) E_n = −13.6/n² eV; ΔE = E_n − E_{n−1} = 13.6[1/(n−1)² − 1/n²] = 13.6(2n−1)/[n²(n−1)²]; for large n, ΔE ≈ 27.2/n³ eV, which decreases as n increases — so the energy levels get closer and closer."
+     }
     },
     {
      "qno": 11,
@@ -16012,7 +16288,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Alpha-particle Scattering and Rutherford's Nuclear Model of Atom"
+     "topic": "Alpha-particle Scattering and Rutherford's Nuclear Model of Atom",
+     "answer": {
+      "text": "Geiger–Marsden graph: number of scattered α-particles falls sharply as the scattering angle increases. Conclusions (any two): most α-particles pass straight through the foil without deflection; only a few scatter by more than 1°; about 1 in 8000 deflects by more than 90° — implying a tiny, massive, positively charged nucleus."
+     }
     },
     {
      "qno": 10,
@@ -16098,7 +16377,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Alpha-particle Scattering and Rutherford's Nuclear Model of Atom",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) From the Geiger–Marsden α-scattering graph (scattered particles vs scattering angle) one concludes that most of the atom is empty space (most α-particles pass almost undeflected) and that the entire positive charge and nearly all the mass are concentrated in a tiny nucleus (a few α's are deflected through large angles). (ii) Bohr's quantisation L = mvr = nh/2π is not noticed for planetary motion because a planet's angular momentum is enormous, giving a huge quantum number n; successive energy levels are then so closely spaced that the quantisation is imperceptible (the motion appears continuous)."
+     }
     }
    ],
    "topic_order": [
@@ -16843,7 +17125,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Nuclear Force"
+     "topic": "Nuclear Force",
+     "answer": {
+      "text": "Plot the potential energy of a pair of nucleons vs their separation r (PE negative, a minimum near r₀ ≈ 0.8 fm, rising steeply at smaller r). Conclusions (any two): (i) PE is minimum at r₀ ≈ 0.8 fm; (ii) nuclear force is attractive for separation greater than 0.8 fm; (iii) nuclear force is repulsive for separation smaller than 0.8 fm."
+     }
     },
     {
      "qno": 22,
@@ -16860,7 +17145,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Size of the Nucleus"
+     "topic": "Size of the Nucleus",
+     "answer": {
+      "text": "(a) Isotopes: ¹²₆C, ¹⁴₆C. Isotones: ¹⁹⁸₈₀Hg, ¹⁹⁷₇₉Au. (b) Size of nucleus ∝ A^(1/3), i.e. R = R₀A^(1/3). Density ρ = mass/volume = mA/[(4/3)π(R₀A^(1/3))³] = 3m/(4πR₀³) = constant — independent of the mass number A."
+     }
     },
     {
      "qno": 10,
@@ -16931,7 +17219,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Mass-Energy and Nuclear Binding Energy"
+     "topic": "Mass-Energy and Nuclear Binding Energy",
+     "answer": {
+      "text": "Mass defect ΔM = difference between the mass of a nucleus and the sum of the masses of its constituent nucleons. Binding energy = energy released when Z protons and (A−Z) neutrons combine to form the nucleus. Relation: E_b = ΔM·c² = {[Z m_p + (A−Z) m_n] − M} c²."
+     }
     },
     {
      "qno": 27,
@@ -16948,7 +17239,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Nuclear Energy"
+     "topic": "Nuclear Energy",
+     "answer": {
+      "text": "Nuclear fission = a heavy nucleus splits into two or more intermediate-mass fragments; nuclear fusion = light nuclei combine into a heavier nucleus. Example of fission: ¹₀n + ²³⁵₉₂U → ¹⁴⁴₅₆Ba + ⁸⁹₃₆Kr + 3¹₀n. Example of fusion: ¹₁H + ¹₁H → ²₁H + e⁺ + ν + Q."
+     }
     },
     {
      "qno": 27,
@@ -16965,7 +17259,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Nuclear Energy"
+     "topic": "Nuclear Energy",
+     "answer": {
+      "text": "(a) For the D–D reaction ²₁H + ²₁H → ᴬ₂X + ¹₀n, conserving mass number 2 + 2 = A + 1 ⇒ A = 3. (b) Mass defect ΔM = [2m(²₁H)] − [m(³₂X) + m(¹₀n)] = [2×2.014102] − [3.016049 + 1.0086654] = 0.00349 u; energy released = ΔM × 931.5 MeV = 0.00349 × 931.5 = 3.25 MeV."
+     }
     },
     {
      "qno": 8,
@@ -17062,7 +17359,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Nuclear Force"
+     "topic": "Nuclear Force",
+     "answer": {
+      "text": "(i) Two features of the nuclear force (any two): it is charge-independent (same for p-p, n-n, p-n); it is the strongest of the basic forces; it is very short-range (~ few fm) and saturated; it does not obey the inverse-square law. (ii) In a nuclear reaction mass by itself is not conserved — the mass defect Δm appears as binding energy, i.e. energy released or absorbed (E = Δm c²), so mass and energy together are conserved."
+     }
     }
    ],
    "topic_order": [
@@ -18530,7 +18830,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "(a) Diode D₂ is in forward bias and conducts. (b) Redraw the equivalent circuit. (c) Voltage drops across the three resistors: V_RP = 4 V, V_PB = 8 V, V_RB = 12 V. (Alternatively, if the positive AC half-cycle reaches D₁ which conducts: V_PB = 12 V, V_PR = 3 V, V_RB = 9 V.)"
+     }
     },
     {
      "qno": 26,
@@ -18547,7 +18850,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "p-n Junction"
+     "topic": "p-n Junction",
+     "answer": {
+      "text": "Two important processes in the formation of a p-n junction: (i) Diffusion — because of the concentration gradient across the junction, holes diffuse from p-side to n-side and electrons from n-side to p-side (p→n, n→p), giving a diffusion current. (ii) Drift — the space-charge region sets up an electric field across the junction; this field makes an electron on the p-side move to the n-side and a hole on the n-side move to the p-side, constituting a drift current (opposite to the diffusion current)."
+     }
     },
     {
      "qno": 14,
@@ -18592,7 +18898,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Extrinsic Semiconductor"
+     "topic": "Extrinsic Semiconductor",
+     "answer": {
+      "text": "Two differences between intrinsic and extrinsic semiconductors (any two): Intrinsic — nₑ = nₕ; low conductivity; pure (no impurity added); conductivity depends only on temperature; naturally occurring. Extrinsic — nₑ ≠ nₕ (nₑ ≫ nₕ or nₑ ≪ nₕ); high conductivity; doped/impure; conductivity depends on temperature and dopant concentration; manufactured."
+     }
     },
     {
      "qno": 29,
@@ -18609,7 +18918,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Application of Junction Diode as a Rectifier"
+     "topic": "Application of Junction Diode as a Rectifier",
+     "answer": {
+      "text": "(i) (C) Boron. (ii) (D) 4.5 × 10⁹ m⁻³. (iii) Award 1 mark to each student who has attempted this part. (iv) (C) 0.7 V [OR (A) 0.01 eV]."
+     }
     },
     {
      "qno": 11,
@@ -18678,7 +18990,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Extrinsic Semiconductor"
+     "topic": "Extrinsic Semiconductor",
+     "answer": {
+      "text": "Creation of charge carriers in an intrinsic semiconductor: at low temperature all covalent bonds are intact; as temperature rises, thermal energy frees some electrons (available for conduction), and each vacated site leaves a vacancy with an effective positive charge called a hole — so electron-hole pairs (charge carriers) are created."
+     }
     },
     {
      "qno": 28,
@@ -18695,7 +19010,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "Forward biasing: the p-side of the diode is connected to the positive terminal and the n-side to the negative terminal of the battery (circuit with voltmeter and milliammeter). Reverse biasing: the p-side is connected to the negative terminal and the n-side to the positive terminal (circuit with voltmeter and microammeter)."
+     }
     },
     {
      "qno": 12,
@@ -18766,7 +19084,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Extrinsic Semiconductor"
+     "topic": "Extrinsic Semiconductor",
+     "answer": {
+      "text": "New hole concentration: nₑnₕ = nᵢ²; nₕ = nᵢ²/nₑ = (5×10⁸ × 5×10⁸)/(4×10¹²) = 6.25×10⁴ m⁻³. Since nₑ > nₕ, the doped semiconductor is n-type."
+     }
     },
     {
      "qno": 28,
@@ -18783,7 +19104,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Application of Junction Diode as a Rectifier"
+     "topic": "Application of Junction Diode as a Rectifier",
+     "answer": {
+      "text": "Full-wave rectifier (centre-tap transformer with diodes D₁, D₂ and load R_L): when terminal A is positive w.r.t. the centre tap, D₁ is forward-biased and conducts (D₂ off); in the next half cycle B is positive so D₂ conducts (D₁ off). Thus current flows through R_L in the same direction in both half cycles. Input waveform: sinusoidal AC; output waveform: unidirectional (both half cycles positive)."
+     }
     },
     {
      "qno": 11,
@@ -18826,7 +19150,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Extrinsic Semiconductor"
+     "topic": "Extrinsic Semiconductor",
+     "answer": {
+      "text": "Majority-carrier (electron) density equals the donor doping = 5×10²² m⁻³. Minority-carrier (hole) density nₕ = nᵢ²/nₑ = (1.5×10¹⁶)²/(5×10²²) = 4.5×10⁹ m⁻³."
+     }
     },
     {
      "qno": 28,
@@ -18843,7 +19170,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Application of Junction Diode as a Rectifier"
+     "topic": "Application of Junction Diode as a Rectifier",
+     "answer": {
+      "text": "Full-wave rectifier (centre-tapped transformer with two diodes D₁, D₂ and load R_L): in the half-cycle when terminal A is positive D₁ is forward-biased and conducts; in the next half-cycle when B is positive D₂ conducts. In both half-cycles the current through R_L is in the same direction, so the sinusoidal ac input is converted to a unidirectional (pulsating dc) output. (Include the circuit diagram and input/output waveforms.)"
+     }
     }
    ],
    "topic_order": [
