@@ -673,7 +673,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Electric Field"
+     "topic": "Electric Field",
+     "answer": {
+      "text": "(B) qE₀x"
+     }
     },
     {
      "qno": 17,
@@ -713,7 +716,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Properties of Electric Charge"
+     "topic": "Basic Properties of Electric Charge",
+     "answer": {
+      "text": "(B) repel with a force F/2"
+     }
     },
     {
      "qno": 31,
@@ -1826,7 +1832,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Electrostatic Potential"
+     "topic": "Electrostatic Potential",
+     "answer": {
+      "text": "(C) 50 N/C along + x"
+     }
     },
     {
      "qno": 2,
@@ -1849,7 +1858,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electrostatics of Conductors"
+     "topic": "Electrostatics of Conductors",
+     "answer": {
+      "text": "(B) r₂ / r₁"
+     }
     },
     {
      "qno": 23,
@@ -1909,7 +1921,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Potential Energy of a System of Charges"
+     "topic": "Potential Energy of a System of Charges",
+     "answer": {
+      "text": "(D) −q² / πε₀l"
+     }
     },
     {
      "qno": 2,
@@ -1932,7 +1947,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Electrostatics of Conductors"
+     "topic": "Electrostatics of Conductors",
+     "answer": {
+      "text": "(D) The final potential of the system equals (1/4πε₀) · (q₁ + q₂)(r₁ + r₂) / (r₁r₂)"
+     }
     },
     {
      "qno": 23,
@@ -2049,7 +2067,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Electrostatic Potential"
+     "topic": "Electrostatic Potential",
+     "answer": {
+      "text": "(D) S"
+     }
     },
     {
      "qno": 22,
@@ -3582,7 +3603,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electrical Energy, Power"
+     "topic": "Electrical Energy, Power",
+     "answer": {
+      "text": "(D) P₁P₂ / 4(P₁ + P₂)"
+     }
     },
     {
      "qno": 20,
@@ -3624,7 +3648,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Electrical Energy, Power"
+     "topic": "Electrical Energy, Power",
+     "answer": {
+      "text": "(C) Assertion (A) is true but Reason (R) is false."
+     }
     },
     {
      "qno": 20,
@@ -3686,7 +3713,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Wheatstone Bridge"
+     "topic": "Wheatstone Bridge",
+     "answer": {
+      "text": "(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 17,
@@ -3764,7 +3794,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Resistivity of Various Materials"
+     "topic": "Resistivity of Various Materials",
+     "answer": {
+      "text": "(A) (ρ₁ + ρ₂) / 2"
+     }
     },
     {
      "qno": 13,
@@ -3789,7 +3822,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Ohm's law"
+     "topic": "Ohm's law",
+     "answer": {
+      "text": "(A) Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 22,
@@ -5681,7 +5717,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Force"
+     "topic": "Magnetic Force",
+     "answer": {
+      "text": "(C) μ₀I / 4πa"
+     }
     },
     {
      "qno": 19,
@@ -5738,7 +5777,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Field due to a Current Element, Biot-Savart Law"
+     "topic": "Magnetic Field due to a Current Element, Biot-Savart Law",
+     "answer": {
+      "text": "(A) z-axis"
+     }
     },
     {
      "qno": 7,
@@ -5761,7 +5803,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "The Moving Coil Galvanometer"
+     "topic": "The Moving Coil Galvanometer",
+     "answer": {
+      "text": "(C) 1 mA"
+     }
     },
     {
      "qno": 28,
@@ -5803,7 +5848,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "The Moving Coil Galvanometer"
+     "topic": "The Moving Coil Galvanometer",
+     "answer": {
+      "text": "(D) Both Assertion (A) and Reason (R) are false."
+     }
     },
     {
      "qno": 23,
@@ -5881,7 +5929,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Motion in a Magnetic Field"
+     "topic": "Motion in a Magnetic Field",
+     "answer": {
+      "text": "(C) m₁/m₂ < q₁/q₂"
+     }
     },
     {
      "qno": 3,
@@ -5904,7 +5955,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Motion in a Magnetic Field"
+     "topic": "Motion in a Magnetic Field",
+     "answer": {
+      "text": "(B) ne"
+     }
     },
     {
      "qno": 23,
@@ -5950,7 +6004,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Field due to a Current Element, Biot-Savart Law"
+     "topic": "Magnetic Field due to a Current Element, Biot-Savart Law",
+     "answer": {
+      "text": "(C) (μ₀I / πa) √2 and directed along OB"
+     }
     },
     {
      "qno": 23,
@@ -6398,7 +6455,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "The Bar Magnet"
+     "topic": "The Bar Magnet",
+     "answer": {
+      "text": "(D) Both Assertion (A) and Reason (R) are false"
+     }
     },
     {
      "qno": 6,
@@ -6421,7 +6481,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Magnetic Properties of Materials"
+     "topic": "Magnetic Properties of Materials",
+     "answer": {
+      "text": "(B) Al"
+     }
     },
     {
      "qno": 14,
@@ -6446,7 +6509,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Magnetisation and Magnetic Intensity"
+     "topic": "Magnetisation and Magnetic Intensity",
+     "answer": {
+      "text": "(C) Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 28,
@@ -7566,7 +7632,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Flux"
+     "topic": "Magnetic Flux",
+     "answer": {
+      "text": "(C) Wb s⁻², Wb s⁻¹"
+     }
     },
     {
      "qno": 10,
@@ -7589,7 +7658,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Lenz's Law and Conservation of Energy"
+     "topic": "Lenz's Law and Conservation of Energy",
+     "answer": {
+      "text": "(A) The induced current will flow in the anticlockwise direction"
+     }
     },
     {
      "qno": 25,
@@ -7629,7 +7701,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Faraday's Law of Induction"
+     "topic": "Faraday's Law of Induction",
+     "answer": {
+      "text": "No option is correct (award full credit for attempting)."
+     }
     },
     {
      "qno": 4,
@@ -7652,7 +7727,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Magnetic Flux"
+     "topic": "Magnetic Flux",
+     "answer": {
+      "text": "(B) [ML²T⁻³A⁻¹]"
+     }
     },
     {
      "qno": 5,
@@ -7678,7 +7756,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Motional Electromotive Force"
+     "topic": "Motional Electromotive Force",
+     "answer": {
+      "text": "(A) −î"
+     }
     },
     {
      "qno": 24,
@@ -7721,7 +7802,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Magnetic Flux"
+     "topic": "Magnetic Flux",
+     "answer": {
+      "text": "(D) any one or more of the factors given in options (A), (B) and (C)"
+     }
     },
     {
      "qno": 13,
@@ -7746,7 +7830,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Magnetic Flux"
+     "topic": "Magnetic Flux",
+     "answer": {
+      "text": "(D) Both Assertion (A) and Reason (R) are false."
+     }
     },
     {
      "qno": 18,
@@ -8732,7 +8819,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "AC Voltage Applied to a Series LCR Circuit"
+     "topic": "AC Voltage Applied to a Series LCR Circuit",
+     "answer": {
+      "text": "(B) 5√2 V"
+     }
     },
     {
      "qno": 9,
@@ -8758,7 +8848,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "AC Voltage Applied to a Capacitor"
+     "topic": "AC Voltage Applied to a Capacitor",
+     "answer": {
+      "text": "(D) 1/√3"
+     }
     },
     {
      "qno": 33,
@@ -8832,7 +8925,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "AC Voltage Applied to a Resistor"
+     "topic": "AC Voltage Applied to a Resistor",
+     "answer": {
+      "text": "(C) 0 and 10"
+     }
     },
     {
      "qno": 32,
@@ -8890,7 +8986,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "AC Voltage Applied to a Resistor"
+     "topic": "AC Voltage Applied to a Resistor",
+     "answer": {
+      "text": "(D) ac is less dangerous"
+     }
     },
     {
      "qno": 12,
@@ -8913,7 +9012,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "AC Voltage Applied to a Resistor"
+     "topic": "AC Voltage Applied to a Resistor",
+     "answer": {
+      "text": "(C) V₀/√2, 0"
+     }
     }
    ],
    "topic_order": [
@@ -9764,7 +9866,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electromagnetic Waves"
+     "topic": "Electromagnetic Waves",
+     "answer": {
+      "text": "(C) Wavelength is halved and frequency remains unchanged."
+     }
     },
     {
      "qno": 7,
@@ -9787,7 +9892,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Electromagnetic Spectrum"
+     "topic": "Electromagnetic Spectrum",
+     "answer": {
+      "text": "(A) 1 nm to 10⁻³ nm"
+     }
     },
     {
      "qno": 11,
@@ -9810,7 +9918,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Electromagnetic Waves"
+     "topic": "Electromagnetic Waves",
+     "answer": {
+      "text": "(A) Zero"
+     }
     },
     {
      "qno": 24,
@@ -9850,7 +9961,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electromagnetic Waves"
+     "topic": "Electromagnetic Waves",
+     "answer": {
+      "text": "(A) 2.0 × 10⁸ ms⁻¹"
+     }
     },
     {
      "qno": 25,
@@ -9890,7 +10004,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electromagnetic Waves"
+     "topic": "Electromagnetic Waves",
+     "answer": {
+      "text": "(B) 2 × 10⁸ ms⁻¹"
+     }
     },
     {
      "qno": 25,
@@ -9930,7 +10047,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Electromagnetic Waves"
+     "topic": "Electromagnetic Waves",
+     "answer": {
+      "text": "(C) 7.5 × 10² m⁻¹"
+     }
     },
     {
      "qno": 25,
@@ -11294,7 +11414,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "(A) 20 cm"
+     }
     },
     {
      "qno": 27,
@@ -11443,7 +11566,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "(B) −R / (μ − 1)"
+     }
     },
     {
      "qno": 6,
@@ -11466,7 +11592,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Optical Instruments"
+     "topic": "Optical Instruments",
+     "answer": {
+      "text": "(A) 24, 150 cm"
+     }
     },
     {
      "qno": 7,
@@ -11489,7 +11618,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Refraction through a Prism"
+     "topic": "Refraction through a Prism",
+     "answer": {
+      "text": "(A) Twinkling of stars"
+     }
     },
     {
      "qno": 26,
@@ -11566,7 +11698,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Refraction at Spherical Surfaces and by Lenses"
+     "topic": "Refraction at Spherical Surfaces and by Lenses",
+     "answer": {
+      "text": "(D) Both Assertion (A) and Reason (R) are false."
+     }
     },
     {
      "qno": 19,
@@ -12972,7 +13107,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Interference of Light Waves and Young's Experiment"
+     "topic": "Interference of Light Waves and Young's Experiment",
+     "answer": {
+      "text": "(A) Straight"
+     }
     },
     {
      "qno": 10,
@@ -12995,7 +13133,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Interference of Light Waves and Young's Experiment"
+     "topic": "Interference of Light Waves and Young's Experiment",
+     "answer": {
+      "text": "(C) (i), (iii) and (iv) only"
+     }
     },
     {
      "qno": 18,
@@ -13055,7 +13196,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Interference of Light Waves and Young's Experiment"
+     "topic": "Interference of Light Waves and Young's Experiment",
+     "answer": {
+      "text": "(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 31,
@@ -13095,7 +13239,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Interference of Light Waves and Young's Experiment"
+     "topic": "Interference of Light Waves and Young's Experiment",
+     "answer": {
+      "text": "(A) 2nπ"
+     }
     },
     {
      "qno": 18,
@@ -13172,7 +13319,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Interference of Light Waves and Young's Experiment"
+     "topic": "Interference of Light Waves and Young's Experiment",
+     "answer": {
+      "text": "(A) Both Assertion (A) and Reason (R) are true, Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 30,
@@ -14379,7 +14529,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Photoelectric Effect"
+     "topic": "Photoelectric Effect",
+     "answer": {
+      "text": "(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 17,
@@ -14439,7 +14592,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(D) Both φ₀ and ν"
+     }
     },
     {
      "qno": 13,
@@ -14464,7 +14620,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 18,
@@ -14504,7 +14663,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(D) 2.0 eV"
+     }
     },
     {
      "qno": 9,
@@ -14527,7 +14689,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Wave Nature of Matter"
+     "topic": "Wave Nature of Matter",
+     "answer": {
+      "text": "(C) 4, 1"
+     }
     },
     {
      "qno": 15,
@@ -14552,7 +14717,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(B) Both Assertion (A) and Reason (R) are true but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 20,
@@ -14592,7 +14760,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(B) cut-off potential will increase"
+     }
     },
     {
      "qno": 9,
@@ -14639,7 +14810,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Photoelectric Effect"
+     "topic": "Photoelectric Effect",
+     "answer": {
+      "text": "(B) Only Mo will not show photoelectric emission"
+     }
     },
     {
      "qno": 10,
@@ -14662,7 +14836,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Wave Nature of Matter"
+     "topic": "Wave Nature of Matter",
+     "answer": {
+      "text": "(D) Decrease by 50% of its initial value"
+     }
     },
     {
      "qno": 26,
@@ -14702,7 +14879,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Photoelectric Effect"
+     "topic": "Photoelectric Effect",
+     "answer": {
+      "text": "(D) Blue light"
+     }
     },
     {
      "qno": 16,
@@ -14727,7 +14907,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation"
+     "topic": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+     "answer": {
+      "text": "(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 27,
@@ -15686,7 +15869,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Alpha-particle Scattering and Rutherford's Nuclear Model of Atom"
+     "topic": "Alpha-particle Scattering and Rutherford's Nuclear Model of Atom",
+     "answer": {
+      "text": "(D) 4d"
+     }
     },
     {
      "qno": 16,
@@ -15711,7 +15897,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Bohr Model of the Hydrogen Atom"
+     "topic": "Bohr Model of the Hydrogen Atom",
+     "answer": {
+      "text": "(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 4,
@@ -15734,7 +15923,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Bohr Model of the Hydrogen Atom"
+     "topic": "Bohr Model of the Hydrogen Atom",
+     "answer": {
+      "text": "(B) n"
+     }
     },
     {
      "qno": 12,
@@ -15757,7 +15949,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bohr Model of the Hydrogen Atom"
+     "topic": "Bohr Model of the Hydrogen Atom",
+     "answer": {
+      "text": "(D) (32/7) λ"
+     }
     },
     {
      "qno": 26,
@@ -15797,7 +15992,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "The Line Spectra of the Hydrogen Atom"
+     "topic": "The Line Spectra of the Hydrogen Atom",
+     "answer": {
+      "text": "(A) Infrared region"
+     }
     },
     {
      "qno": 20,
@@ -15837,7 +16035,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bohr Model of the Hydrogen Atom"
+     "topic": "Bohr Model of the Hydrogen Atom",
+     "answer": {
+      "text": "(C) h/π"
+     }
     },
     {
      "qno": 23,
@@ -16622,7 +16823,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Mass-Energy and Nuclear Binding Energy"
+     "topic": "Mass-Energy and Nuclear Binding Energy",
+     "answer": {
+      "text": "(C) Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 21,
@@ -16679,7 +16883,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Size of the Nucleus"
+     "topic": "Size of the Nucleus",
+     "answer": {
+      "text": "(B) 4/3"
+     }
     },
     {
      "qno": 16,
@@ -16704,7 +16911,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Nuclear Force"
+     "topic": "Nuclear Force",
+     "answer": {
+      "text": "(D) Both Assertion (A) and Reason (R) are false."
+     }
     },
     {
      "qno": 19,
@@ -16778,7 +16988,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Atomic Masses and Composition of Nucleus"
+     "topic": "Atomic Masses and Composition of Nucleus",
+     "answer": {
+      "text": "(B) Isotone"
+     }
     },
     {
      "qno": 9,
@@ -16801,7 +17014,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Size of the Nucleus"
+     "topic": "Size of the Nucleus",
+     "answer": {
+      "text": "(A) 6.0 fm"
+     }
     },
     {
      "qno": 15,
@@ -16826,7 +17042,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Nuclear Energy"
+     "topic": "Nuclear Energy",
+     "answer": {
+      "text": "(C) Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 26,
@@ -18288,7 +18507,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "(C) Diffusion and drift currents are equal and opposite"
+     }
     },
     {
      "qno": 25,
@@ -18350,7 +18572,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "(D) Assertion (A) is false and Reason (R) is also false."
+     }
     },
     {
      "qno": 17,
@@ -18407,7 +18632,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "(C) 100 Ω"
+     }
     },
     {
      "qno": 12,
@@ -18430,7 +18658,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Extrinsic Semiconductor"
+     "topic": "Extrinsic Semiconductor",
+     "answer": {
+      "text": "(A) forward biasing"
+     }
     },
     {
      "qno": 21,
@@ -18487,7 +18718,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "(C) Depletion region"
+     }
     },
     {
      "qno": 16,
@@ -18512,7 +18746,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Classification of Metals, Conductors and Semiconductors"
+     "topic": "Classification of Metals, Conductors and Semiconductors",
+     "answer": {
+      "text": "(A) Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 21,
@@ -18569,7 +18806,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Semiconductor Diode"
+     "topic": "Semiconductor Diode",
+     "answer": {
+      "text": "(A) high resistance in reverse bias and low resistance in forward bias"
+     }
     },
     {
      "qno": 21,
