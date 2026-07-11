@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 621,
+ "total_questions": 724,
  "chapter_order": [
   "Sexual Reproduction in Flowering Plants",
   "Human Reproduction",
@@ -27,7 +27,7 @@
  "chapters": [
   {
    "chapter": "Sexual Reproduction in Flowering Plants",
-   "count": 65,
+   "count": 75,
    "questions": [
     {
      "qno": 8,
@@ -108,12 +108,6 @@
      "figures": [
       "assets/figures/bio_2023_z1_q33a.png"
      ],
-     "or": {
-      "text": "Observe the diagram given below showing the menstrual cycle of a normal human female and answer the questions that follow (numbers indicate the days of the menstrual cycle) : (i) What are the suitable technical terms used for the following ? (1) Days 1–7 (2) Days 8–12 (3) Days 16–28 (4) Days 13–15 (ii) Explain the role of ovarian and pituitary hormones during the following time periods : (1) Days 8–12 (2) Days 13–15 (3) Days 16–28",
-      "figures": [
-       "assets/figures/bio_2023_z1_q33b.png"
-      ]
-     },
      "papers": [
       {
        "year": 2023,
@@ -239,9 +233,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain the monosporic development of embryo sac in the ovule of an angiosperm. (ii) Draw a diagram of the mature embryo sac of an angiospermic ovule and label any four parts in it.",
-     "or": {
-      "text": "(b) (i) Explain the formation of placenta after the implantation in a human female. (ii) Draw a diagram showing human foetus within the uterus and label any four parts in it."
-     },
      "papers": [
       {
        "year": 2023,
@@ -340,9 +331,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain the development of male gametophyte in an angiosperm. (ii) Draw a labelled diagram of a three-celled male gametophyte.",
-     "or": {
-      "text": "(b) (i) Draw a diagrammatic sectional view of ovary of human female and label the following : (1) Blood vessels (2) Primary follicle (3) Tertiary follicle (4) Ovum. (ii) At which stage of life are primary follicles formed in a human female ? (iii) Explain the events (both hormonal and structural) that occur at the time of ovulation till the onset of the next menstrual cycle."
-     },
      "papers": [
       {
        "year": 2024,
@@ -383,9 +371,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain the process of double fertilization in an angiosperm starting from the germination of pollen grains on the stigma, mentioning the ploidy of the end products formed at the end. State the role of synergids during the course of the process. (ii) Why does the development of endosperm precede that of the embryo ?",
-     "or": {
-      "text": "(b) (i) Mention the site where fertilisation of the ovum occurs in a human female. Explain the process of fertilization and mention how polyspermy is prevented. (ii) Name the embryonic stage that gets implanted in the uterus. Explain the process of implantation in a human female."
-     },
      "papers": [
       {
        "year": 2024,
@@ -491,9 +476,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain any four devices that flowering plants have developed to encourage cross-pollination. (ii) Why do plants discourage self-pollination ? State any one reason.",
-     "or": {
-      "text": "(b) Explain the ovarian and uterine events taking place along with the role of pituitary and ovarian hormones, during menstrual cycle in a normal human female under the following phases : (i) Follicular phase/proliferative phase (ii) Luteal phase/secretory phase (iii) Menstrual phase"
-     },
      "papers": [
       {
        "year": 2024,
@@ -626,9 +608,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) \\\"Farmers prefer apomictic seeds to hybrid seeds.\\\" Justify giving two reasons.",
-     "or": {
-      "text": "(b) Mention one advantage and one disadvantage of amniocentesis."
-     },
      "papers": [
       {
        "year": 2024,
@@ -715,12 +694,6 @@
      "figures": [
       "assets/figures/bio_2025_z1_q32a_pollination.png"
      ],
-     "or": {
-      "text": "(B) Given below is the diagram of human ovum surrounded by a few sperms. Observe the diagram and answer the questions that follows : (i) Compare the fate of sperms 'P', 'Q' and 'R' shown in the diagram. (ii) Write the role of Zona pellucida in this process. (iii) Analyse the changes occurring in the ovum after the entry of sperm. (iv) How acrosome and middle piece of a human sperm are able to play an important role in human fertilization ?",
-      "figures": [
-       "assets/figures/bio_2025_z1_q32b_ovum.png"
-      ]
-     },
      "papers": [
       {
        "year": 2025,
@@ -764,9 +737,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(A) (i) Write two crucial changes, the seed undergoes while reaching maturity that enable them to be in a viable state until the onset of favourable conditions. (ii) Name the oldest viable seed excavated from Arctic Tundra as per the records.",
-     "or": {
-      "text": "(B) (i) Pea flower produce assured seed sets. Give reason. (ii) In case of Polyembryony, an embryo 'P' develops from a synergid and the embryo 'Q' develops from the nucellus. State the ploidy of embryo 'P' and 'Q'."
-     },
      "papers": [
       {
        "year": 2025,
@@ -777,6 +747,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation"
+    },
+    {
+     "qno": 17,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(B) (i) Pea flower produce assured seed sets. Give reason. (ii) In case of Polyembryony, an embryo 'P' develops from a synergid and the embryo 'Q' develops from the nucellus. State the ploidy of embryo 'P' and 'Q'.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/2/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Megasporangium and Embryo Sac",
+     "figures": []
     },
     {
      "qno": 22,
@@ -801,9 +789,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(A) (i) Describe the process of megasporogenesis in an angiosperm. (ii) Draw a diagram of a mature embryo sac of an angiosperm. Label its any four parts.",
-     "or": {
-      "text": "(B) The reproductive cycle in the female primates is called menstrual cycle. The first menstruation begins at puberty. Answer the following questions : (i) Name the four phases of menstrual cycle in a proper sequence. (ii) How long does the menstrual phase last in a menstrual cycle ? (iii) When and why hormones estrogen and progesterone reach their peak levels respectively, in the menstrual cycle ? (iv) Give the significance of LH surge."
-     },
      "papers": [
       {
        "year": 2025,
@@ -864,9 +849,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain how does double fertilisation take place in a flowering plant. (ii) Write the fate of the products of double fertilization in these plants.",
-     "or": {
-      "text": "(b) (i) Explain the structure of testicular lobules in human male reproductive system. Name the two types of cells present in the seminiferous tubules and state their role. (ii) Describe the role of hypothalamic hormone GnRH in spermatogenesis."
-     },
      "papers": [
       {
        "year": 2025,
@@ -927,9 +909,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain the structure of a typical monocotyledonous embryo of a flowering plant. (ii) How are multiple embryos formed in a citrus fruit ? What is the mechanism known as ?",
-     "or": {
-      "text": "(b) (i) Name and explain the structural organisation of the male sex accessory ducts in the human male reproductive system. (ii) Describe the role of gonadotropin FSH in the regulation of spermatogenesis."
-     },
      "papers": [
       {
        "year": 2025,
@@ -970,9 +949,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) How is the interaction between Ophrys and its specific bee pollinator one of the best examples of co-evolution ? Explain.",
-     "or": {
-      "text": "(b) Arrange the given important steps of decomposition in their correct order of occurrence in the breakdown of complex organic matter and explain the fourth step in the process : Catabolism, Leaching, Fragmentation, Mineralisation, Humification."
-     },
      "papers": [
       {
        "year": 2025,
@@ -1010,9 +986,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain the structure of a mature embryo sac of a typical flowering plant. (ii) How is triple fusion achieved in these plants ?",
-     "or": {
-      "text": "(b) Describe the changes in the ovary and the uterus as induced by the changes in the level of pituitary and ovarian hormones during menstrual cycle in a human female."
-     },
      "papers": [
       {
        "year": 2025,
@@ -1119,9 +1092,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) (i) How does a farmer use dormancy of seed to his advantage ? (ii) Differentiate between pea seed and castor seed.",
-     "or": {
-      "text": "(b) Identify the stage of follicle where primary oocyte undergoes first meiotic division. Also mention the products of this division."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1241,9 +1211,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain the role of stigma in pollen pistil interaction. (ii) Describe the post pollination events leading to double fertilization in angiosperms starting with 2-celled pollen grain.",
-     "or": {
-      "text": "(b) (i) Explain menstrual phase in the menstrual cycle of human female. (ii) Why is follicular phase also called proliferative phase ? (iii) Explain the events that occur in Graafian follicle at the time of ovulation and thereafter. (iv) Draw a Graafian follicle and label – Antrum and secondary oocyte."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1403,9 +1370,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Mention the functions of each of the following : (i) Tassels of Corn Cob (ii) Scutellum.",
-     "or": {
-      "text": "(b) Farmers prefer apomictic seeds over hybrid seeds. Give any two reasons."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1416,6 +1380,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation"
+    },
+    {
+     "qno": 17,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Farmers prefer apomictic seeds over hybrid seeds. Give any two reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/5/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Apomixis and Polyembryony",
+     "figures": []
     },
     {
      "qno": 22,
@@ -1433,6 +1415,154 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Pollination"
+    },
+    {
+     "qno": 33,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Double fertilisation is an event unique to all flowering plants. Explain the process. (ii) Give a reason for the following : (1) A seed of an orange has many embryos. (2) Cashew is a false fruit but Guava is a true fruit.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Double Fertilisation"
+    },
+    {
+     "qno": 31,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Observe the picture of Commelina plant bearing two types of flowers. (i) Identify the two types of flowers labelled 'A' and 'B' in the picture. (ii) Compare the two types of flowers with reference to : (1) Characteristic feature (2) modes of pollination. (iii) List any two 'out breeding devices' in flowering plants. Explain why do plants develop such devices.",
+     "figures": [
+      "assets/figures/bio_2024_z4_q31b.png"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/4/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Pollination"
+    },
+    {
+     "qno": 32,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) With the help of labelled diagram only, show the different stages of embryo development in a dicot plant. (ii) Endosperm development precedes embryo development. Justify.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Seed and Fruit Formation",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Study the figures given below showing initial stages in the formation of female gametophyte and answer the questions that follow. (i) Identify (P) and (Q). (ii) I. What kind of division does cell (P) undergo to form (Q) ? II. How many (Q) cells form the embryo sac ? What is the name given to such kind of development ? III. How many free nuclear mitotic divisions will the functional megaspore undergo to form the embryo sac ? IV. Describe the structure of a mature female gametophyte.",
+     "figures": [
+      "assets/figures/bio_2025_z7_q32b_gametophyte.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/7/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Microsporangium and Pollen Grain"
+    },
+    {
+     "qno": 33,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Draw a labelled two-celled structure of male gametophyte of an angiosperm. (ii) Name the three layers that surround the cytoplasm of a male gametophyte starting from innermost to outermost layer. (iii) Which organic material makes the outermost layer ? Mention its advantage. (iv) Why is the outermost layer of male gametophyte not continuous ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Microsporangium and Pollen Grain",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Draw a diagram of L.S. of maize grain and label its any six parts. (ii) Differentiate between perisperm and endosperm giving one example of each.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/4/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Seed and Fruit Formation",
+     "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Differentiate between the following : (i) Perisperm and Pericarp (ii) Syncarpous pistil and Apocarpous pistil (iii) Plumule and Radicle",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Seed and Fruit Formation",
+     "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "Sexual Reproduction in Flowering Plants",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Name any two outbreeding devices that flowering plants have developed and explain how they help in encouraging cross-pollination.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/2/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Pollination",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -1447,8 +1577,228 @@
   },
   {
    "chapter": "Human Reproduction",
-   "count": 38,
+   "count": 53,
    "questions": [
+    {
+     "qno": 33,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Observe the diagram given below showing the menstrual cycle of a normal human female and answer the questions that follow (numbers indicate the days of the menstrual cycle) : (i) What are the suitable technical terms used for the following ? (1) Days 1–7 (2) Days 8–12 (3) Days 16–28 (4) Days 13–15 (ii) Explain the role of ovarian and pituitary hormones during the following time periods : (1) Days 8–12 (2) Days 13–15 (3) Days 16–28",
+     "figures": [
+      "assets/figures/bio_2023_z1_q33b.png"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Menstrual Cycle"
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Explain the formation of placenta after the implantation in a human female. (ii) Draw a diagram showing human foetus within the uterus and label any four parts in it.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Female Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Draw a diagrammatic sectional view of ovary of human female and label the following : (1) Blood vessels (2) Primary follicle (3) Tertiary follicle (4) Ovum. (ii) At which stage of life are primary follicles formed in a human female ? (iii) Explain the events (both hormonal and structural) that occur at the time of ovulation till the onset of the next menstrual cycle.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Female Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Mention the site where fertilisation of the ovum occurs in a human female. Explain the process of fertilization and mention how polyspermy is prevented. (ii) Name the embryonic stage that gets implanted in the uterus. Explain the process of implantation in a human female.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Female Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Explain the ovarian and uterine events taking place along with the role of pituitary and ovarian hormones, during menstrual cycle in a normal human female under the following phases : (i) Follicular phase/proliferative phase (ii) Luteal phase/secretory phase (iii) Menstrual phase",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Female Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(B) Given below is the diagram of human ovum surrounded by a few sperms. Observe the diagram and answer the questions that follows : (i) Compare the fate of sperms 'P', 'Q' and 'R' shown in the diagram. (ii) Write the role of Zona pellucida in this process. (iii) Analyse the changes occurring in the ovum after the entry of sperm. (iv) How acrosome and middle piece of a human sperm are able to play an important role in human fertilization ?",
+     "figures": [
+      "assets/figures/bio_2025_z1_q32b_ovum.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Fertilisation and Implantation"
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(B) The reproductive cycle in the female primates is called menstrual cycle. The first menstruation begins at puberty. Answer the following questions : (i) Name the four phases of menstrual cycle in a proper sequence. (ii) How long does the menstrual phase last in a menstrual cycle ? (iii) When and why hormones estrogen and progesterone reach their peak levels respectively, in the menstrual cycle ? (iv) Give the significance of LH surge.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Menstrual Cycle",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Explain the structure of testicular lobules in human male reproductive system. Name the two types of cells present in the seminiferous tubules and state their role. (ii) Describe the role of hypothalamic hormone GnRH in spermatogenesis.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/4/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Male Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Name and explain the structural organisation of the male sex accessory ducts in the human male reproductive system. (ii) Describe the role of gonadotropin FSH in the regulation of spermatogenesis.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Male Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Describe the changes in the ovary and the uterus as induced by the changes in the level of pituitary and ovarian hormones during menstrual cycle in a human female.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/6/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Female Reproductive System",
+     "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Human Reproduction",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Identify the stage of follicle where primary oocyte undergoes first meiotic division. Also mention the products of this division.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/1/1",
+       "qno": "18-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Gametogenesis",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Explain menstrual phase in the menstrual cycle of human female. (ii) Why is follicular phase also called proliferative phase ? (iii) Explain the events that occur in Graafian follicle at the time of ovulation and thereafter. (iv) Draw a Graafian follicle and label – Antrum and secondary oocyte.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Gametogenesis",
+     "figures": []
+    },
     {
      "qno": 10,
      "chapter": "Human Reproduction",
@@ -1544,9 +1894,6 @@
      "figures": [
       "assets/figures/bio_2023_z3_q33.png"
      ],
-     "or": {
-      "text": "(i) Double fertilisation is an event unique to all flowering plants. Explain the process. (ii) Give a reason for the following : (1) A seed of an orange has many embryos. (2) Cashew is a false fruit but Guava is a true fruit."
-     },
      "papers": [
       {
        "year": 2023,
@@ -1676,12 +2023,6 @@
      "figures": [
       "assets/figures/bio_2024_z4_q31a.png"
      ],
-     "or": {
-      "text": "Observe the picture of Commelina plant bearing two types of flowers. (i) Identify the two types of flowers labelled 'A' and 'B' in the picture. (ii) Compare the two types of flowers with reference to : (1) Characteristic feature (2) modes of pollination. (iii) List any two 'out breeding devices' in flowering plants. Explain why do plants develop such devices.",
-      "figures": [
-       "assets/figures/bio_2024_z4_q31b.png"
-      ]
-     },
      "papers": [
       {
        "year": 2024,
@@ -1719,9 +2060,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Draw a diagram of a human sperm. Label any four parts and write their functions. (ii) In a human female, probability of an ovum to get fertilized by more than one sperm is impossible. Give reason.",
-     "or": {
-      "text": "(b) (i) With the help of labelled diagram only, show the different stages of embryo development in a dicot plant. (ii) Endosperm development precedes embryo development. Justify."
-     },
      "papers": [
       {
        "year": 2024,
@@ -1933,9 +2271,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) (i) Explain why the milk produced by the mother during the initial days of lactation is considered to be very essential for the newborn infant. (ii) What is the term used for the milk produced during the initial days of lactation ?",
-     "or": {
-      "text": "(b) Many children in the metro cities are suffering from a very common exaggerated response of the immune system to certain weak antigens in air. (i) What is the term used for the above mentioned disease ? (ii) Name the main type of antibody produced by the immune system in response to this disease. (iii) Which two main inflammation-causing chemicals are produced by the mast cells in such an immune response ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -1970,9 +2305,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) \\\"A fully developed foetus initiates its delivery from the mother's womb.\\\" Explain.",
-     "or": {
-      "text": "(b) Give reasons for the following : (i) Why can a woman generally not conceive a child after 50 years of age ? (ii) Polar bodies are formed during oogenesis and not during spermatogenesis."
-     },
      "papers": [
       {
        "year": 2025,
@@ -1985,6 +2317,24 @@
      "topic": "Pregnancy and Embryonic Development"
     },
     {
+     "qno": 18,
+     "chapter": "Human Reproduction",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Give reasons for the following : (i) Why can a woman generally not conceive a child after 50 years of age ? (ii) Polar bodies are formed during oogenesis and not during spermatogenesis.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/7/1",
+       "qno": "18-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Gametogenesis",
+     "figures": []
+    },
+    {
      "qno": 32,
      "chapter": "Human Reproduction",
      "type": "Long Answer",
@@ -1993,12 +2343,6 @@
      "figures": [
       "assets/figures/bio_2025_z7_q32a_tubule.png"
      ],
-     "or": {
-      "text": "(b) Study the figures given below showing initial stages in the formation of female gametophyte and answer the questions that follow. (i) Identify (P) and (Q). (ii) I. What kind of division does cell (P) undergo to form (Q) ? II. How many (Q) cells form the embryo sac ? What is the name given to such kind of development ? III. How many free nuclear mitotic divisions will the functional megaspore undergo to form the embryo sac ? IV. Describe the structure of a mature female gametophyte.",
-      "figures": [
-       "assets/figures/bio_2025_z7_q32b_gametophyte.png"
-      ]
-     },
      "papers": [
       {
        "year": 2025,
@@ -2062,9 +2406,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Trace the events from fertilization till implantation of blastocyst in human female. Also mention the site where fertilization takes place.",
-     "or": {
-      "text": "(b) (i) Case studies of some couples are given below. They were not able to have kids even though the parents were not taking any precautions. They also do not wish to adopt a child or take the help of donors. Study these cases and suggest an appropriate Assisted Reproductive Technology that could help them. Case I – Female : Normal Reports; Male : Normal sperms but no connection between epididymis and vas deferens. Case II – Female : Normal eggs but Fallopian tube blocked; Male : Normal sperms, reports normal. Case III – Female : Normal Reports; Male : Low sperm count with less motility. (ii) Copper releasing intrauterine devices are very effective and popular contraceptive devices. Name any two copper releasing IUDs. Write two reasons that make them effective contraceptives."
-     },
      "papers": [
       {
        "year": 2026,
@@ -2082,9 +2423,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) (i) Name the organ that forms a connection between foetus and the uterus of a pregnant human female. (ii) How does it support both nutrition and hormonal regulation ?",
-     "or": {
-      "text": "(b) Give reasons for : (i) All copulations do not lead to pregnancy. (ii) Meiosis I in spermatogenesis and oogenesis are markedly different."
-     },
      "papers": [
       {
        "year": 2026,
@@ -2095,6 +2433,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Female Reproductive System"
+    },
+    {
+     "qno": 21,
+     "chapter": "Human Reproduction",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Give reasons for : (i) All copulations do not lead to pregnancy. (ii) Meiosis I in spermatogenesis and oogenesis are markedly different.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Gametogenesis",
+     "figures": []
     },
     {
      "qno": 1,
@@ -2125,9 +2481,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Oogenesis is a discontinuous process that begins before birth and is completed after puberty. (i) Trace the development of a gamete mother cell till its release from the ovary during ovulation. (ii) Name the two pituitary hormones that play an important role in the process.",
-     "or": {
-      "text": "(b) (i) Draw a labelled two-celled structure of male gametophyte of an angiosperm. (ii) Name the three layers that surround the cytoplasm of a male gametophyte starting from innermost to outermost layer. (iii) Which organic material makes the outermost layer ? Mention its advantage. (iv) Why is the outermost layer of male gametophyte not continuous ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -2168,9 +2521,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Study the flow chart given below (Hypothalamus → Pituitary → Ovary → Pregnancy). Name the hormones involved at each stage and explain their functions.",
-     "or": {
-      "text": "(b) (i) Draw a diagram of L.S. of maize grain and label its any six parts. (ii) Differentiate between perisperm and endosperm giving one example of each."
-     },
      "papers": [
       {
        "year": 2026,
@@ -2262,9 +2612,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Briefly explain the events of fertilisation and implantation in an adult human female.",
-     "or": {
-      "text": "(b) (i) Arrange the following hormones in sequence of their secretion in a pregnant woman : hCG; LH; FSH; Relaxin. (ii) Mention the source and the functions of the above mentioned hormones."
-     },
      "papers": [
       {
        "year": 2026,
@@ -2275,6 +2622,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Fertilisation and Implantation"
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Reproduction",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Arrange the following hormones in sequence of their secretion in a pregnant woman : hCG; LH; FSH; Relaxin. (ii) Mention the source and the functions of the above mentioned hormones.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Pregnancy and Embryonic Development",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -2290,8 +2655,44 @@
   },
   {
    "chapter": "Reproductive Health",
-   "count": 35,
+   "count": 40,
    "questions": [
+    {
+     "qno": 17,
+     "chapter": "Reproductive Health",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Mention one advantage and one disadvantage of amniocentesis.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/5/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Medical Termination of Pregnancy",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Reproductive Health",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Case studies of some couples are given below. They were not able to have kids even though the parents were not taking any precautions. They also do not wish to adopt a child or take the help of donors. Study these cases and suggest an appropriate Assisted Reproductive Technology that could help them. Case I – Female : Normal Reports; Male : Normal sperms but no connection between epididymis and vas deferens. Case II – Female : Normal eggs but Fallopian tube blocked; Male : Normal sperms, reports normal. Case III – Female : Normal Reports; Male : Low sperm count with less motility. (ii) Copper releasing intrauterine devices are very effective and popular contraceptive devices. Name any two copper releasing IUDs. Write two reasons that make them effective contraceptives.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
+     "topic": "Contraception and Birth Control",
+     "figures": []
+    },
     {
      "qno": 9,
      "chapter": "Reproductive Health",
@@ -2321,9 +2722,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) (i) Expand the abbreviations given below, used for different modes of assisted reproductive technologies : (1) ZIFT (2) ICSI (3) IUT (4) GIFT (ii) Which one of them cannot be considered as a procedure of IVF ? Give reasons in support of your answer.",
-     "or": {
-      "text": "Differentiate between the following : (i) Perisperm and Pericarp (ii) Syncarpous pistil and Apocarpous pistil (iii) Plumule and Radicle"
-     },
      "papers": [
       {
        "year": 2023,
@@ -2551,9 +2949,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Name any two copper releasing intra-uterine devices. State two reasons that make them effective contraceptives.",
-     "or": {
-      "text": "(b) Name any two outbreeding devices that flowering plants have developed and explain how they help in encouraging cross-pollination."
-     },
      "papers": [
       {
        "year": 2024,
@@ -2772,9 +3167,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Explain what is meant by the term MTP. What was the main reason to legalize MTP by the Government of India ?",
-     "or": {
-      "text": "(b) Name any two STIs which might occur in a human female. State its two early symptoms."
-     },
      "papers": [
       {
        "year": 2025,
@@ -2785,6 +3177,24 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Medical Termination of Pregnancy"
+    },
+    {
+     "qno": 19,
+     "chapter": "Reproductive Health",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Name any two STIs which might occur in a human female. State its two early symptoms.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/4/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "Sexually Transmitted Infections",
+     "figures": []
     },
     {
      "qno": 16,
@@ -2817,9 +3227,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Explain what is meant by the term amniocentesis. How is this technique misused in India ?",
-     "or": {
-      "text": "(b) Name any two VDs which might occur in a human female. State any two complications in a female if it is left untreated."
-     },
      "papers": [
       {
        "year": 2025,
@@ -2830,6 +3237,24 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Medical Termination of Pregnancy"
+    },
+    {
+     "qno": 19,
+     "chapter": "Reproductive Health",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Name any two VDs which might occur in a human female. State any two complications in a female if it is left untreated.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/5/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "Sexually Transmitted Infections",
+     "figures": []
     },
     {
      "qno": 14,
@@ -2862,9 +3287,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Why are restrictions imposed on MTP in India ? Up to how many weeks or trimesters, is MTP considered relatively safe for a female, if necessary to perform, by a medical practitioner ?",
-     "or": {
-      "text": "(b) Expand PID. Name any two common viral infections transmitted through sexual contact in human females."
-     },
      "papers": [
       {
        "year": 2025,
@@ -2875,6 +3297,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy"
+    },
+    {
+     "qno": 21,
+     "chapter": "Reproductive Health",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Expand PID. Name any two common viral infections transmitted through sexual contact in human females.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/6/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "Sexually Transmitted Infections",
+     "figures": []
     },
     {
      "qno": 22,
@@ -3021,7 +3461,7 @@
   },
   {
    "chapter": "Principles of Inheritance and Variation",
-   "count": 68,
+   "count": 77,
    "questions": [
     {
      "qno": 1,
@@ -3289,9 +3729,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Stability, as one of the properties of genetic material, was very evident in one of the very early experiments in genetics. Name the scientist and describe his experiment. State the conclusion he arrived at.",
-     "or": {
-      "text": "(b) A tall pea plant bearing violet flowers with unknown genotype is given. Find the genotype by working out different crosses only by selfing the plants. Write the genotypic and phenotypic ratios of each cross shown by you."
-     },
      "papers": [
       {
        "year": 2024,
@@ -3302,6 +3739,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inheritance of One Gene"
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) A tall pea plant bearing violet flowers with unknown genotype is given. Find the genotype by working out different crosses only by selfing the plants. Write the genotypic and phenotypic ratios of each cross shown by you.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Inheritance of One Gene",
+     "figures": []
     },
     {
      "qno": 2,
@@ -3372,9 +3827,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) (i) Write the karyotype and the genetic disorder of an individual who has developed from a zygote formed from an 'XX' egg fertilised by a 'Y' sperm. (ii) Mention any two symptoms of this genetic disorder. (iii) Write the possible reason that leads to the formation of this 'XX' egg.",
-     "or": {
-      "text": "(b) In case of any dispute, a very small sample of tissue or even a drop of blood can help us to determine the paternity of a child. Provide a scientific explanation to substantiate the statement."
-     },
      "papers": [
       {
        "year": 2024,
@@ -3392,9 +3844,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Compare the pattern of inheritance of flower colour in garden pea plant (violet/white) with snapdragon plant (red/white) on the basis of the following : (1) $F_1$ phenotypic expression; (2) expected phenotypic and genotypic expression of $F_2$ generation; (3) the conclusion you reached at the end of the comparison made. (ii) List any two characteristics of pattern of inheritance of human blood group ABO.",
-     "or": {
-      "text": "(b) (i) Draw a schematic, self-explanatory labelled diagram of lac operon in 'switched on condition'. (ii) Why is regulation of lac operon referred to as negative regulation ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -3495,9 +3944,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Explain the pattern of inheritance of ABO blood group in humans. Mention the alleles involved and work out how four blood groups (A, B, AB, O) are determined.",
-     "or": {
-      "text": "(b) With reference to the lac operon : (i) Explain the structural genes of lac operon. (ii) Explain how the lac operon is switched on and switched off."
-     },
      "papers": [
       {
        "year": 2024,
@@ -3789,9 +4235,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(A) (i) Perform a cross between two sickle cell carriers. What ratio is obtained between carrier, disease free and diseased individuals in F1 progeny ? Name the nitrogenous base substituted, in the haemoglobin molecule in this disease. (ii) Explain the difference in inheritance pattern of flower colour in garden pea plant and snap-dragon plant with the help of monohybrid crosses.",
-     "or": {
-      "text": "(B) Explain with the help of well-labelled diagrams how lac operon operates in E. coli : (i) In presence of an inducer. (ii) In absence of an inducer."
-     },
      "papers": [
       {
        "year": 2025,
@@ -4296,9 +4739,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Analyse the following two cases of sex determination in different organisms : Case I : Males have (XO) sex chromosomes and females have two copies of same sex chromosome (XX). Case II : Females have two different sex chromosomes (ZW) and males have two copies of same sex chromosome (ZZ). Identify the type of heterogamety in each case, giving one example of each.",
-     "or": {
-      "text": "(b) (i) Differentiate between a DNA and RNA nucleotide. (ii) Name the two types of bonds present within a single nucleotide."
-     },
      "papers": [
       {
        "year": 2026,
@@ -4478,9 +4918,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Write the types and locations of the genes causing thalassemia in humans. State the cause and symptoms of the disease. How is sickle-cell anemia different from this disease ?",
-     "or": {
-      "text": "(b) (i) Enlist any four prime goals of the Human Genome Project (HGP). (ii) List the two methodologies which were involved in the human genome project. Mention how they were used. (iii) Expand 'YAC' and mention what it was used for."
-     },
      "papers": [
       {
        "year": 2026,
@@ -4521,9 +4958,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Work out separate monohybrid crosses up to F2 generation between two pea plants and two Antirrhinum plants, both having contrasting traits with respect to the colour of the flower. Comment on the patterns of inheritance in the crosses carried out in such two cases.",
-     "or": {
-      "text": "(b) (i) How does a chromosomal disorder differ from a Mendelian disorder ? Write one example for each. (ii) Name the phenomenon that leads to situations like 'XO' abnormality in humans. Also name this genetic disorder. How are individuals with an XO chromosomal abnormality affected ? Write its symptoms as well as karyotype."
-     },
      "papers": [
       {
        "year": 2026,
@@ -4534,6 +4968,150 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene"
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) How does a chromosomal disorder differ from a Mendelian disorder ? Write one example for each. (ii) Name the phenomenon that leads to situations like 'XO' abnormality in humans. Also name this genetic disorder. How are individuals with an XO chromosomal abnormality affected ? Write its symptoms as well as karyotype.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Genetic Disorders and Pedigree",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) A true breeding tall pea plant with round seeds is crossed with a recessive dwarf pea plant having wrinkled seeds. Work out the cross up to F$_2$ generation giving the phenotypic ratios of F$_1$ and F$_2$ generation respectively. (ii) State the Mendelian principle that can be derived only with the help of such a cross.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Mendel's Laws and Dihybrid Cross",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "A homozygous tall pea plant with green seeds is crossed with a homozygous dwarf pea plant with yellow seeds. (i) Write the possible phenotype and genotype of F$_1$ generation. (ii) State the laws of Mendel that are proved true by the F$_1$ generation. (iii) Mention the F$_2$ phenotypic ratio along with their possible phenotypes. (iv) Write the genotypes of the male and female gametes produced by F$_1$ progeny.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/3/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Mendel's Laws and Dihybrid Cross",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) It is sometimes observed that the F$_1$ progeny has a phenotype that does not resemble either of the two parents and has intermediate phenotype. Explain by taking a suitable example and working out the cross upto F$_2$ progeny.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Inheritance of One Gene",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Why is sickle-cell anaemia, a human blood disorder so named ? (ii) Explain the genetic basis that results in the expression of this disorder. (iii) Work out a cross to explain how normal parents may have a sickle-cell anaemic child.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Inheritance of One Gene"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Differentiate between the following : (i) Polygenic Inheritance and Pleiotropy (ii) Dominance, Codominance and Incomplete dominance.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/7/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Inheritance of One Gene",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) In a particular cattle, the coat colour red and white are controlled by single pair of alleles. A calf that receives allele for red coat from mother and allele for white coat from father shows equal number of red and white hairs on its coat. (i) Is this an example of Co-dominance or incomplete dominance ? Give a reason for your answer. (ii) With the help of a genetic cross upto F2 generation, explain what will be the consequent phenotype of calf when (1) Red is dominant over white, (2) Red is incompletely dominant.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Inheritance of One Gene"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Inheritance and Variation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) The following questions are based on haemophilia. (i) Work out the crosses between : (I) Normal female and Haemophilic male (II) Carrier female and Normal male (III) Carrier female and Haemophilic male. (ii) Write the conclusions you draw from these crosses. Comment on the type of inheritance of the disease. (Use : X – Normal, Xh – Haemophilic)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Genetic Disorders and Pedigree",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -4548,8 +5126,116 @@
   },
   {
    "chapter": "Molecular Basis of Inheritance",
-   "count": 77,
+   "count": 87,
    "questions": [
+    {
+     "qno": 23,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) In case of any dispute, a very small sample of tissue or even a drop of blood can help us to determine the paternity of a child. Provide a scientific explanation to substantiate the statement.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/2/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "DNA Structure and Packaging",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Draw a schematic, self-explanatory labelled diagram of lac operon in 'switched on condition'. (ii) Why is regulation of lac operon referred to as negative regulation ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Regulation of Gene Expression",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) With reference to the lac operon : (i) Explain the structural genes of lac operon. (ii) Explain how the lac operon is switched on and switched off.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/3/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Regulation of Gene Expression",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(B) Explain with the help of well-labelled diagrams how lac operon operates in E. coli : (i) In presence of an inducer. (ii) In absence of an inducer.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Regulation of Gene Expression",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) (i) Differentiate between a DNA and RNA nucleotide. (ii) Name the two types of bonds present within a single nucleotide.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/1/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "DNA Structure and Packaging",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Enlist any four prime goals of the Human Genome Project (HGP). (ii) List the two methodologies which were involved in the human genome project. Mention how they were used. (iii) Expand 'YAC' and mention what it was used for.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Genome Project and DNA Fingerprinting",
+     "figures": []
+    },
     {
      "qno": 2,
      "chapter": "Molecular Basis of Inheritance",
@@ -4625,9 +5311,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Meselson and Stahl carried out an experiment to prove the nature of DNA replication. Recall the experiment and answer the following questions. (i) Which two types of nitrogen were used by them in their experiment and why ? (ii) Why did they take samples of E. coli at definite time intervals for their observation ? (iii) State the role of caesium chloride density gradient in their experiment. (iv) Write the conclusions they arrived at.",
-     "or": {
-      "text": "(i) A true breeding tall pea plant with round seeds is crossed with a recessive dwarf pea plant having wrinkled seeds. Work out the cross up to F$_2$ generation giving the phenotypic ratios of F$_1$ and F$_2$ generation respectively. (ii) State the Mendelian principle that can be derived only with the help of such a cross."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4694,9 +5377,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) (i) How many types of RNA polymerases are there in a eukaryote cell ? Mention which one of them transcribes hnRNA. (ii) Write the changes that hnRNA undergoes before it leaves the nucleus as mRNA.",
-     "or": {
-      "text": "The length of DNA in any cell is far greater than the dimension of its nucleus. Explain how this enormous DNA is packaged in a eukaryotic cell."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4709,14 +5389,29 @@
      "topic": "Transcription"
     },
     {
+     "qno": 22,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "The length of DNA in any cell is far greater than the dimension of its nucleus. Explain how this enormous DNA is packaged in a eukaryotic cell.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/3/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "DNA Structure and Packaging",
+     "figures": []
+    },
+    {
      "qno": 32,
      "chapter": "Molecular Basis of Inheritance",
      "type": "Long Answer",
      "marks": 5,
      "text": "Protein synthesis requires the services of all three types of RNAs, namely t-RNA, m-RNA and r-RNA. Explain the role of each of them during the process of protein synthesis in prokaryotes.",
-     "or": {
-      "text": "A homozygous tall pea plant with green seeds is crossed with a homozygous dwarf pea plant with yellow seeds. (i) Write the possible phenotype and genotype of F$_1$ generation. (ii) State the laws of Mendel that are proved true by the F$_1$ generation. (iii) Mention the F$_2$ phenotypic ratio along with their possible phenotypes. (iv) Write the genotypes of the male and female gametes produced by F$_1$ progeny."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4774,9 +5469,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Name and describe the steps involved in the technique widely used in forensics that serves as the basis of paternity testing in case of disputes.",
-     "or": {
-      "text": "(b) It is sometimes observed that the F$_1$ progeny has a phenotype that does not resemble either of the two parents and has intermediate phenotype. Explain by taking a suitable example and working out the cross upto F$_2$ progeny."
-     },
      "papers": [
       {
        "year": 2023,
@@ -5105,9 +5797,6 @@
      "figures": [
       "assets/figures/bio_2024_z4_q32a.png"
      ],
-     "or": {
-      "text": "(b) (i) Why is sickle-cell anaemia, a human blood disorder so named ? (ii) Explain the genetic basis that results in the expression of this disorder. (iii) Work out a cross to explain how normal parents may have a sickle-cell anaemic child."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5820,9 +6509,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Write the features a molecule should have to act as a genetic material. In the light of the above features, evaluate and justify the suitability of the molecule that is preferred as an ideal genetic material.",
-     "or": {
-      "text": "(b) Differentiate between the following : (i) Polygenic Inheritance and Pleiotropy (ii) Dominance, Codominance and Incomplete dominance."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5840,9 +6526,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Watson and Crick's discovery of double helical structure was based on which two findings. Also mention the name of the scientists associated with these findings. (ii) Write down the salient features of double helix structure of DNA (any three points).",
-     "or": {
-      "text": "(b) Given below is a stretch of DNA showing the coding strand of structural gene of transcription unit : 5' - ATG ACC GTA TTT TCT GTA GTG CCC GTA CTT CAG GCA TTA - 3'. (i) Write the corresponding template strand and m-RNA strand that will be transcribed along with its polarity. (ii) If GUA of transcribed mRNA is an intron, then depict the sequence involved in formation of mRNA / mature / processed hnRNA strand : (1) In a bacterium (2) In humans. (iii) How many amino acids the resulting polypeptide will have after the process of translation in humans ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -5853,6 +6536,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging"
+    },
+    {
+     "qno": 32,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Given below is a stretch of DNA showing the coding strand of structural gene of transcription unit : 5' - ATG ACC GTA TTT TCT GTA GTG CCC GTA CTT CAG GCA TTA - 3'. (i) Write the corresponding template strand and m-RNA strand that will be transcribed along with its polarity. (ii) If GUA of transcribed mRNA is an intron, then depict the sequence involved in formation of mRNA / mature / processed hnRNA strand : (1) In a bacterium (2) In humans. (iii) How many amino acids the resulting polypeptide will have after the process of translation in humans ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Transcription",
+     "figures": []
     },
     {
      "qno": 1,
@@ -5909,9 +6610,6 @@
      "figures": [
       "assets/figures/bio_2026_z2_q17_haemoglobin.png"
      ],
-     "or": {
-      "text": "(b) DNA is considered a more stable genetic material than RNA. Justify this statement with suitable reasons."
-     },
      "papers": [
       {
        "year": 2026,
@@ -5922,6 +6620,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging"
+    },
+    {
+     "qno": 17,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) DNA is considered a more stable genetic material than RNA. Justify this statement with suitable reasons.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/2/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Search for Genetic Material"
     },
     {
      "qno": 27,
@@ -5949,9 +6665,6 @@
      "figures": [
       "assets/figures/bio_2026_z2_q32_mrna.png"
      ],
-     "or": {
-      "text": "(b) In a particular cattle, the coat colour red and white are controlled by single pair of alleles. A calf that receives allele for red coat from mother and allele for white coat from father shows equal number of red and white hairs on its coat. (i) Is this an example of Co-dominance or incomplete dominance ? Give a reason for your answer. (ii) With the help of a genetic cross upto F2 generation, explain what will be the consequent phenotype of calf when (1) Red is dominant over white, (2) Red is incompletely dominant."
-     },
      "papers": [
       {
        "year": 2026,
@@ -6060,9 +6773,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Describe the series of experiments conducted by Frederick Griffith. Comment on the significance of the result obtained. (ii) State the contribution of Avery, MacLeod and McCarty.",
-     "or": {
-      "text": "(b) The following questions are based on haemophilia. (i) Work out the crosses between : (I) Normal female and Haemophilic male (II) Carrier female and Normal male (III) Carrier female and Haemophilic male. (ii) Write the conclusions you draw from these crosses. Comment on the type of inheritance of the disease. (Use : X – Normal, Xh – Haemophilic)"
-     },
      "papers": [
       {
        "year": 2026,
@@ -6212,6 +6922,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Transcription"
+    },
+    {
+     "qno": 33,
+     "chapter": "Molecular Basis of Inheritance",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Why did Hershey and Chase use '35S' and '32P' in their experiment ? Explain. (ii) State the importance of (1) blending and (2) centrifugation in their experiment. (iii) Write the conclusion they arrived at the end of their experiment.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Search for Genetic Material"
     }
    ],
    "topic_order": [
@@ -6227,7 +6955,7 @@
   },
   {
    "chapter": "Evolution",
-   "count": 45,
+   "count": 46,
    "questions": [
     {
      "qno": 7,
@@ -6586,9 +7314,6 @@
      "figures": [
       "assets/figures/bio_2024_z5_q33_selection.png"
      ],
-     "or": {
-      "text": "(b) (i) Why did Hershey and Chase use '35S' and '32P' in their experiment ? Explain. (ii) State the importance of (1) blending and (2) centrifugation in their experiment. (iii) Write the conclusion they arrived at the end of their experiment."
-     },
      "papers": [
       {
        "year": 2024,
@@ -7148,9 +7873,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) (i) Mention any two characteristics of Neanderthal man that lived near East and Central Asia. (ii) Identify the following hominids with respect to human evolution : (I) Brain capacity 900 cc, probably ate meat. (II) First human-like with brain capacity 650 – 800 cc.",
-     "or": {
-      "text": "(b) The allele for brown eyes (B) is dominant over blue eyes (b). In a population, 36% of individuals have blue eyes. Assuming Hardy-Weinberg equilibrium, calculate : (i) Frequency of allele B (ii) Percentage of heterozygous individuals (iii) Percentage of individuals that are homozygous dominant. (Working to be shown)"
-     },
      "papers": [
       {
        "year": 2026,
@@ -7161,6 +7883,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Human Evolution"
+    },
+    {
+     "qno": 18,
+     "chapter": "Evolution",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) The allele for brown eyes (B) is dominant over blue eyes (b). In a population, 36% of individuals have blue eyes. Assuming Hardy-Weinberg equilibrium, calculate : (i) Frequency of allele B (ii) Percentage of heterozygous individuals (iii) Percentage of individuals that are homozygous dominant. (Working to be shown)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/3/1",
+       "qno": "18-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Mechanism of Evolution (Hardy-Weinberg)",
+     "figures": []
     },
     {
      "qno": 6,
@@ -7304,8 +8044,26 @@
   },
   {
    "chapter": "Human Health and Disease",
-   "count": 66,
+   "count": 79,
    "questions": [
+    {
+     "qno": 19,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Many children in the metro cities are suffering from a very common exaggerated response of the immune system to certain weak antigens in air. (i) What is the term used for the above mentioned disease ? (ii) Name the main type of antibody produced by the immune system in response to this disease. (iii) Which two main inflammation-causing chemicals are produced by the mast cells in such an immune response ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/6/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Immunity",
+     "figures": []
+    },
     {
      "qno": 25,
      "chapter": "Human Health and Disease",
@@ -7332,9 +8090,6 @@
      "figures": [
       "assets/figures/bio_2023_z1_q32.png"
      ],
-     "or": {
-      "text": "(i) What is 'smack' ? Why is the consumption of smack considered as an abuse ? (ii) Name the source plant and one effect of the following drugs on the human body : (1) Marijuana (2) Cocaine (3) Morphine"
-     },
      "papers": [
       {
        "year": 2023,
@@ -7345,6 +8100,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Immunity"
+    },
+    {
+     "qno": 32,
+     "chapter": "Human Health and Disease",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) What is 'smack' ? Why is the consumption of smack considered as an abuse ? (ii) Name the source plant and one effect of the following drugs on the human body : (1) Marijuana (2) Cocaine (3) Morphine",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Drugs and Alcohol Abuse"
     },
     {
      "qno": 7,
@@ -7491,9 +8264,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "\\\"Plasmodium protozoan needs both a mosquito and a human host for its continuity.\\\" Explain.",
-     "or": {
-      "text": "We all must work towards maintaining good health because 'health is wealth'. Enlist any six ways of achieving good health."
-     },
      "papers": [
       {
        "year": 2023,
@@ -7504,6 +8274,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Common Human Diseases"
+    },
+    {
+     "qno": 26,
+     "chapter": "Human Health and Disease",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "We all must work towards maintaining good health because 'health is wealth'. Enlist any six ways of achieving good health.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/5/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Common Human Diseases",
+     "figures": []
     },
     {
      "qno": 29,
@@ -7554,9 +8342,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) A farmer while working on his farm was bitten by a poisonous snake. He was rushed to a nearby health centre where the doctor gave him an injection to save his life. (i) What did the doctor inject and why ? (ii) Name the kind of immunity provided by this injection.",
-     "or": {
-      "text": "Why do organic farmers not recommend complete eradication of insect pests ? Explain giving reason."
-     },
      "papers": [
       {
        "year": 2024,
@@ -7635,9 +8420,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Name and explain the property present in normal cells but is lost in cancer cells. (ii) All normal human cells have genes that may become cancerous under certain conditions. Name them and explain how. (iii) State the role of the following techniques in detection and diagnosis of cancer : (1) Biopsy and Histopathology (2) Magnetic Resonance Imaging",
-     "or": {
-      "text": "(b) Large quantities of sewage are generated every day in cities as well as in towns and are treated in Sewage Treatment Plants (STPs) to make them less polluting. (i) (1) Why is primary effluent passed into large aeration tanks ? (2) What is the sediment formed, referred to as ? Mention its significance. (3) Explain the final step in the settling tank before the treated effluent is released into water bodies. (ii) Name any two organisms commonly used as biofertilisers, belonging to different kingdoms. Write how each one acts as a biofertiliser."
-     },
      "papers": [
       {
        "year": 2024,
@@ -7843,9 +8625,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Describe the life cycle of Plasmodium from the time it enters the human body till a female Anopheles mosquito bites an infected person. (ii) Mention the two events of Plasmodium life cycle that occur within the female Anopheles body.",
-     "or": {
-      "text": "(b) (i) Write two differences between malignant tumor and benign tumor. (ii) Explain any three diagnostic techniques for the detection of cancer."
-     },
      "papers": [
       {
        "year": 2024,
@@ -7858,6 +8637,24 @@
      "topic": "Common Human Diseases"
     },
     {
+     "qno": 33,
+     "chapter": "Human Health and Disease",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Write two differences between malignant tumor and benign tumor. (ii) Explain any three diagnostic techniques for the detection of cancer.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Cancer",
+     "figures": []
+    },
+    {
      "qno": 25,
      "chapter": "Human Health and Disease",
      "type": "Short Answer",
@@ -7866,9 +8663,6 @@
      "figures": [
       "assets/figures/bio_2024_z4_q25.png"
      ],
-     "or": {
-      "text": "(b) Draw a schematic diagram of an antibody molecule and label any 4 parts. Mention their chemical nature. Name the cells which produce them."
-     },
      "papers": [
       {
        "year": 2024,
@@ -7881,14 +8675,29 @@
      "topic": "Common Human Diseases"
     },
     {
+     "qno": 25,
+     "chapter": "Human Health and Disease",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Draw a schematic diagram of an antibody molecule and label any 4 parts. Mention their chemical nature. Name the cells which produce them.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Immunity"
+    },
+    {
      "qno": 33,
      "chapter": "Human Health and Disease",
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Describe the life cycle of HIV from the time of its entry into the human body till full blown AIDS sets in.",
-     "or": {
-      "text": "(b) (i) Write the symptoms of malaria in human and explain what causes these symptoms. (ii) Describe the different steps in the sexual mode of reproduction in the life cycle of a malarial parasite from the time of its initiation till where it is completed and ready to start a fresh cycle."
-     },
      "papers": [
       {
        "year": 2024,
@@ -7899,6 +8708,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "AIDS"
+    },
+    {
+     "qno": 33,
+     "chapter": "Human Health and Disease",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Write the symptoms of malaria in human and explain what causes these symptoms. (ii) Describe the different steps in the sexual mode of reproduction in the life cycle of a malarial parasite from the time of its initiation till where it is completed and ready to start a fresh cycle.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Common Human Diseases",
+     "figures": []
     },
     {
      "qno": 4,
@@ -7994,9 +8821,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) How are morphine and heroin related ? Mention their effect on the human body.",
-     "or": {
-      "text": "(b) (i) Name an alcoholic drink which is produced by the help of microbes : (1) With distillation (2) Without distillation. (ii) Explain how cyanobacteria can be used as bio-fertilizer."
-     },
      "papers": [
       {
        "year": 2025,
@@ -8034,41 +8858,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(A) Answer the following questions : (i) State what do you understand by \\\"MALT\\\" ? Where is it located inside our body ? (ii) Explain cytokine barriers. (iii) Name the diagnostic test for AIDS. On what principle does it work ? (iv) Bone marrow and thymus play an important role in human immune system. Explain how are they able to achieve this.",
-     "or": {
-      "text": "(B) (i) Study the following table and fill 'H', 'I', 'J', 'K', 'L' and 'M' in following table with suitable words. (a) Butyric acid — H — I — Important applications in food, chemical & pharma industry; (b) J — Monascus purpureus — K — Inhibit cholesterol biosynthesis pathway; (c) Cyclosporin A — L — Fungus — M. (ii) Why are baculoviruses used as biological control agents ?",
-      "table": {
-       "headers": [
-        "",
-        "Chemical / Bioactive Molecule",
-        "Micro-organism",
-        "Category",
-        "Use"
-       ],
-       "rows": [
-        [
-         "(a)",
-         "Butyric acid",
-         "H",
-         "I",
-         "Important applications in food, chemical & pharma industry"
-        ],
-        [
-         "(b)",
-         "J",
-         "Monascus purpureus",
-         "K",
-         "Inhibit cholesterol biosynthesis pathway"
-        ],
-        [
-         "(c)",
-         "Cyclosporin A",
-         "L",
-         "Fungus",
-         "M"
-        ]
-       ]
-      }
-     },
      "papers": [
       {
        "year": 2025,
@@ -8111,9 +8900,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(A) Describe any two situations where a medical doctor would recommend injection of a pre-formed antibodies (antitoxins) into the body of a patient.",
-     "or": {
-      "text": "(B) The symptoms of malaria do not appear immediately after the entry of sporozoites into the human body when bitten by female Anopheles mosquito. Explain why it happens."
-     },
      "papers": [
       {
        "year": 2025,
@@ -8124,6 +8910,24 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Common Human Diseases"
+    },
+    {
+     "qno": 19,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(B) The symptoms of malaria do not appear immediately after the entry of sporozoites into the human body when bitten by female Anopheles mosquito. Explain why it happens.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/2/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Common Human Diseases",
+     "figures": []
     },
     {
      "qno": 26,
@@ -8213,9 +9017,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Explain how the immunity of a person is affected if there is atrophy (degeneration) of the thymus gland at an early stage of life.",
-     "or": {
-      "text": "(b) (i) What are interferons ? Explain their role in providing immunity to a person. (ii) Which category of innate immunity defence barrier can interferons be classified into ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -8226,6 +9027,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Immunity"
+    },
+    {
+     "qno": 17,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) (i) What are interferons ? Explain their role in providing immunity to a person. (ii) Which category of innate immunity defence barrier can interferons be classified into ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/4/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Immunity",
+     "figures": []
     },
     {
      "qno": 30,
@@ -8273,9 +9092,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Give an account of the generalised structure of an antibody molecule produced by B-lymphocytes in response to the pathogen.",
-     "or": {
-      "text": "(b) Other than public awareness and counselling, enlist four measures taken up by NACO, WHO and other NGOs to prevent the spread of HIV infection in the society."
-     },
      "papers": [
       {
        "year": 2025,
@@ -8286,6 +9102,24 @@
      "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Immunity"
+    },
+    {
+     "qno": 17,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Other than public awareness and counselling, enlist four measures taken up by NACO, WHO and other NGOs to prevent the spread of HIV infection in the society.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/5/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "AIDS",
+     "figures": []
     },
     {
      "qno": 30,
@@ -8424,9 +9258,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) How does a human body respond when vaccine is introduced into it ? It is said that vaccinations are a must for a healthy society. Justify.",
-     "or": {
-      "text": "(b) Humans have innate immunity for protection against pathogens that may enter the gut along with food. What are the two barriers in our body that protect it from such pathogens ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -8437,6 +9268,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Immunity"
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Humans have innate immunity for protection against pathogens that may enter the gut along with food. What are the two barriers in our body that protect it from such pathogens ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/7/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Immunity",
+     "figures": []
     },
     {
      "qno": 25,
@@ -8518,9 +9367,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Name the protozoan species that is responsible for causing the most serious and even fatal malarial disease. (ii) Name the host in which the parasite completes its sexual stages and explain the changes taking place. (iii) How does the parasite damage the human body after entering the blood stream ? (iv) Suggest two effective preventive measures to control the spread of this disease in endemic regions.",
-     "or": {
-      "text": "(b) (i) What are bio-fertilizers ? (ii) Name the different types of microorganisms used as bio-fertilizers in organic farming and explain how each contributes to soil fertility. (iii) Write two advantages of using bio-fertilizers over chemical fertilizers."
-     },
      "papers": [
       {
        "year": 2026,
@@ -8578,9 +9424,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) A 30 year old man was admitted to a hospital with recurrent infections, weight loss, prolonged fever. His blood report showed a decline in count of T-Lymphocytes thus affecting immune system. (i) Identify the disease and its causative agent. (ii) How did the pathogen affect the immune system once it entered the body ? Explain. (iii) Mention two major modes of its transmission.",
-     "or": {
-      "text": "(b) (i) Why are microbes considered effective biocontrol agents in sustainable agriculture ? (ii) Explain the role of the following as biocontrol agents naming the pests or diseases they help to control : (1) A Bacterium (2) A Fungus (3) Virus."
-     },
      "papers": [
       {
        "year": 2026,
@@ -8644,9 +9487,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) A person complains of persistent itching in the groin region and scalp. The person also shows dry and scaly lesions on skin, nails, etc. (i) Identify the disease. (ii) Name its two causative agents. (iii) Mention its mode of transmission.",
-     "or": {
-      "text": "(b) A girl develops sneezing, watery eyes and difficulty in breathing every time she visits a flower garden. (i) Identify the condition. (ii) Name the immune component responsible for this condition. (iii) Name the chemical released. (iv) State one medicine used to treat such a condition."
-     },
      "papers": [
       {
        "year": 2026,
@@ -8657,6 +9497,24 @@
      "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Common Human Diseases"
+    },
+    {
+     "qno": 17,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) A girl develops sneezing, watery eyes and difficulty in breathing every time she visits a flower garden. (i) Identify the condition. (ii) Name the immune component responsible for this condition. (iii) Name the chemical released. (iv) State one medicine used to treat such a condition.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/3/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "Immunity",
+     "figures": []
     },
     {
      "qno": 29,
@@ -8758,9 +9616,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Draw the structure of an antibody molecule and label any four of its parts. (ii) Differentiate between active and passive immunity. Write any three differences.",
-     "or": {
-      "text": "(b) (i) (I) Write the scientific names of the two species of filarial worms causing filariasis. (II) How do they affect the body of infected persons ? (III) How does the disease spread ? (ii) Mention the source and the role of the following in providing defence against infection in the human body : (I) Histamine (II) Interferons."
-     },
      "papers": [
       {
        "year": 2026,
@@ -8771,6 +9626,42 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Immunity"
+    },
+    {
+     "qno": 33,
+     "chapter": "Human Health and Disease",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) (I) Write the scientific names of the two species of filarial worms causing filariasis. (II) How do they affect the body of infected persons ? (III) How does the disease spread ? (ii) Mention the source and the role of the following in providing defence against infection in the human body : (I) Histamine (II) Interferons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Common Human Diseases",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Health and Disease",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Why a malignant tumour considered to be more damaging than a benign tumour ? Explain.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/5/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Cancer",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -8784,8 +9675,148 @@
   },
   {
    "chapter": "Microbes in Human Welfare",
-   "count": 35,
+   "count": 41,
    "questions": [
+    {
+     "qno": 20,
+     "chapter": "Microbes in Human Welfare",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Why do organic farmers not recommend complete eradication of insect pests ? Explain giving reason.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/1/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Microbes in Industrial Products",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Microbes in Human Welfare",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Large quantities of sewage are generated every day in cities as well as in towns and are treated in Sewage Treatment Plants (STPs) to make them less polluting. (i) (1) Why is primary effluent passed into large aeration tanks ? (2) What is the sediment formed, referred to as ? Mention its significance. (3) Explain the final step in the settling tank before the treated effluent is released into water bodies. (ii) Name any two organisms commonly used as biofertilisers, belonging to different kingdoms. Write how each one acts as a biofertiliser.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Sewage Treatment",
+     "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "Microbes in Human Welfare",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) (i) Name an alcoholic drink which is produced by the help of microbes : (1) With distillation (2) Without distillation. (ii) Explain how cyanobacteria can be used as bio-fertilizer.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/1/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Microbes in Industrial Products",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Microbes in Human Welfare",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(B) (i) Study the following table and fill 'H', 'I', 'J', 'K', 'L' and 'M' in following table with suitable words. (a) Butyric acid — H — I — Important applications in food, chemical & pharma industry; (b) J — Monascus purpureus — K — Inhibit cholesterol biosynthesis pathway; (c) Cyclosporin A — L — Fungus — M. (ii) Why are baculoviruses used as biological control agents ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Difficult",
+     "topic": "Microbes in Industrial Products",
+     "figures": [],
+     "table": {
+      "headers": [
+       "",
+       "Chemical / Bioactive Molecule",
+       "Micro-organism",
+       "Category",
+       "Use"
+      ],
+      "rows": [
+       [
+        "(a)",
+        "Butyric acid",
+        "H",
+        "I",
+        "Important applications in food, chemical & pharma industry"
+       ],
+       [
+        "(b)",
+        "J",
+        "Monascus purpureus",
+        "K",
+        "Inhibit cholesterol biosynthesis pathway"
+       ],
+       [
+        "(c)",
+        "Cyclosporin A",
+        "L",
+        "Fungus",
+        "M"
+       ]
+      ]
+     }
+    },
+    {
+     "qno": 33,
+     "chapter": "Microbes in Human Welfare",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) What are bio-fertilizers ? (ii) Name the different types of microorganisms used as bio-fertilizers in organic farming and explain how each contributes to soil fertility. (iii) Write two advantages of using bio-fertilizers over chemical fertilizers.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Microbes in Industrial Products",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Microbes in Human Welfare",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Why are microbes considered effective biocontrol agents in sustainable agriculture ? (ii) Explain the role of the following as biocontrol agents naming the pests or diseases they help to control : (1) A Bacterium (2) A Fungus (3) Virus.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Biocontrol Agents",
+     "figures": []
+    },
     {
      "qno": 4,
      "chapter": "Microbes in Human Welfare",
@@ -8898,9 +9929,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) (i) Give an example of a genus of virus used as narrow spectrum insecticidal biocontrol agent. (ii) How does its use serve as an aid in overall integrated pest management programme ?",
-     "or": {
-      "text": "Why a malignant tumour considered to be more damaging than a benign tumour ? Explain."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9543,7 +10571,7 @@
   },
   {
    "chapter": "Biotechnology: Principles and Processes",
-   "count": 60,
+   "count": 70,
    "questions": [
     {
      "qno": 5,
@@ -9600,9 +10628,6 @@
      "figures": [
       "assets/figures/bio_2023_z1_q19.png"
      ],
-     "or": {
-      "text": "Explain the process by which a bacterial cell can be made 'competent' to take up foreign DNA from its surroundings, using divalent cations and temperature treatment."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9613,6 +10638,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Principles of Biotechnology"
+    },
+    {
+     "qno": 19,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Explain the process by which a bacterial cell can be made 'competent' to take up foreign DNA from its surroundings, using divalent cations and temperature treatment.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/1/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Cloning and Bioreactor"
     },
     {
      "qno": 22,
@@ -9663,9 +10706,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Explain the method by which recombinant DNA can be detected (using a selectable marker / insertional inactivation).",
-     "or": {
-      "text": "Explain how recombinant DNA technology is used to detect a disease even before any clinical symptom appears."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9683,9 +10723,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Answer the following questions with respect to recombinant DNA technology : (i) Why is plasmid considered to be an important tool in rDNA technology ? From where can plasmids be isolated ? (Any two sources) (ii) List any two features that are required to facilitate cloning into a vector. (iii) Why can recombinant-DNA technology not proceed without restriction enzymes ?",
-     "or": {
-      "text": "Answer the following questions based on Bt-crops : (i) Why do farmers prefer to grow Bt cotton crop than genetically unmodified cotton crops ? (ii) Name any two insects that are killed by Bt toxin. (iii) Explain the mechanism by which Bt toxin kills the insects but not the bacterium which possesses the toxin."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9768,9 +10805,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Bioreactors are the containment vehicles of any biotechnology-based production process. For large scale production and for economic reasons the final success of biotechnological process depends on the efficiency of the bioreactor. Answer the following questions w.r.t. the given paragraph : (i) List the operational guidelines that must be adhered to so as to achieve optimisation of the bioreactor system. Enlist any four. (ii) Mention the phase of the growth we refer to in the statement \\\"Optimisation of growth and metabolic activity of the cells\\\". (iii) Is the biological product formed in the bioreactor suitable for the intended use therein ? Give reason in support of your answer.",
-     "or": {
-      "text": "(b) (i) 'EcoRI' has played very significant role in r-DNA technology. (I) Explain the convention for naming EcoRI. (II) Write the recognition site and the cleavage sites of this restriction endonuclease. (ii) What are the protruding and hanging stretches of DNA produced by these restriction enzymes called ? Describe their role in formation of r-DNA."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9781,6 +10815,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Cloning and Bioreactor"
+    },
+    {
+     "qno": 33,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) 'EcoRI' has played very significant role in r-DNA technology. (I) Explain the convention for naming EcoRI. (II) Write the recognition site and the cleavage sites of this restriction endonuclease. (ii) What are the protruding and hanging stretches of DNA produced by these restriction enzymes called ? Describe their role in formation of r-DNA.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Restriction Enzymes and Vectors",
+     "figures": []
     },
     {
      "qno": 10,
@@ -9901,9 +10953,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Why should a cell be made competent to take up an alien DNA ? How can a bacterial cell be made competent using calcium ions ? Explain. (ii) (1) State the importance of gel electrophoresis in biotechnology. (2) Explain the principle on which this technique works. (3) Mention why ethidium bromide is used in this technique.",
-     "or": {
-      "text": "(b) 'Bt cotton', the genetically modified crop, has greatly helped the cotton farmers to increase their crop yield. (i) How was Bt cotton plant made resistant to bollworm ? Explain. (ii) Describe the mechanism that leads to the death of bollworms feeding on Bt cotton plants."
-     },
      "papers": [
       {
        "year": 2024,
@@ -10135,9 +11184,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Draw a schematic diagram of the cloning vector pBR 322 and label (1) Bam HI site (2) gene for ampicillin resistance (3) 'ori' (4) 'rop' gene. (ii) State the role of 'rop' gene. (iii) A cloning vector does not have a selectable marker. How will it affect the process of cloning ? (iv) Why is insertional inactivation preferred over the use of selectable markers in cloning vectors ?",
-     "or": {
-      "text": "(b) (i) Name the nematode (scientific name) that infects the roots of tobacco plant and reduces its yield. (ii) Name the vector that is used to introduce nematode-specific genes into the host plant (tobacco). (iii) How do sense and anti-sense RNAs function ? (iv) Why could parasite not survive in a transgenic tobacco plant ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -10302,9 +11348,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(A) (i) Explain how is a bacterial cell made 'competent' to take up recombinant DNA from the medium. (ii) Explain the steps of amplification of gene of interest using PCR technique.",
-     "or": {
-      "text": "(B) (i) What are transgenic animals ? (ii) Why are these animals being produced ? Explain any four reasons."
-     },
      "papers": [
       {
        "year": 2025,
@@ -10709,9 +11752,6 @@
      "figures": [
       "assets/figures/bio_2026_z3_q20_electrophoresis.png"
      ],
-     "or": {
-      "text": "(b) After performing gel electrophoresis, a student observes that DNA fragments are not visible. (i) Suggest a reason for this and explain how fragments can be made visible. (ii) Also explain how a specific DNA fragment can be collected from the gel for further use."
-     },
      "papers": [
       {
        "year": 2026,
@@ -10724,14 +11764,29 @@
      "topic": "PCR and Gel Electrophoresis"
     },
     {
+     "qno": 20,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) After performing gel electrophoresis, a student observes that DNA fragments are not visible. (i) Suggest a reason for this and explain how fragments can be made visible. (ii) Also explain how a specific DNA fragment can be collected from the gel for further use.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/3/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "PCR and Gel Electrophoresis"
+    },
+    {
      "qno": 32,
      "chapter": "Biotechnology: Principles and Processes",
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain any two basic principles/core techniques on which biotechnology is based. (ii) Describe any three key tools used in Recombinant DNA technology.",
-     "or": {
-      "text": "(b) \\\"Early and accurate diagnosis of diseases is vital in medical technology.\\\" (i) Name the conventional methods of diagnosis and their disadvantages. (ii) Which three diagnostic techniques have been developed through Biotechnology ? Explain how each one helps in detecting diseases."
-     },
      "papers": [
       {
        "year": 2026,
@@ -10749,9 +11804,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) EcoR I has played a very important role in rDNA technology. (I) Explain the convention for naming EcoR I. (II) Write the recognition site of this endonuclease restriction enzyme. (ii) Name the overhanging stretches of DNA produced by these restriction enzymes. Describe their role in the formation of rDNA.",
-     "or": {
-      "text": "(b) (i) Insertional inactivation is a method to detect the recombinant DNA. Explain this method. (ii) Name the commonly used vector for transferring genes in plants from bacteria. (iii) How is this able to transform a normal plant cell into a tumour ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -10762,6 +11814,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors"
+    },
+    {
+     "qno": 33,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Insertional inactivation is a method to detect the recombinant DNA. Explain this method. (ii) Name the commonly used vector for transferring genes in plants from bacteria. (iii) How is this able to transform a normal plant cell into a tumour ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Restriction Enzymes and Vectors",
+     "figures": []
     },
     {
      "qno": 8,
@@ -10830,6 +11900,114 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors"
+    },
+    {
+     "qno": 27,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) (i) Explain the convention for naming EcoRI. (ii) With the help of an illustration only, show the action of EcoRI on a DNA Polynucleotide.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/1/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Restriction Enzymes and Vectors",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Describe in brief any two techniques that can be utilised to transfer recombinant DNA into the host cell directly without using any vector.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Restriction Enzymes and Vectors",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Explain the amplification of gene of interest using the technique of Polymerase chain reaction (PCR).",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "PCR and Gel Electrophoresis",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Describe the structure and working of a sparged stirred-tank bioreactor.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Cloning and Bioreactor",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Explain how the amplification of gene of interest is done using PCR. (ii) State two applications of the desired amplified fragment of DNA.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/6/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "PCR and Gel Electrophoresis",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Biotechnology: Principles and Processes",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) In order to force bacteria to take up the recombinant DNA, they must be made competent. Explain how it can be achieved.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/5/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Cloning and Bioreactor",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -10842,8 +12020,116 @@
   },
   {
    "chapter": "Biotechnology and its Applications",
-   "count": 48,
+   "count": 55,
    "questions": [
+    {
+     "qno": 21,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Explain how recombinant DNA technology is used to detect a disease even before any clinical symptom appears.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/3/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Applications in Agriculture",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions based on Bt-crops : (i) Why do farmers prefer to grow Bt cotton crop than genetically unmodified cotton crops ? (ii) Name any two insects that are killed by Bt toxin. (iii) Explain the mechanism by which Bt toxin kills the insects but not the bacterium which possesses the toxin.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "57/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Applications in Agriculture",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) 'Bt cotton', the genetically modified crop, has greatly helped the cotton farmers to increase their crop yield. (i) How was Bt cotton plant made resistant to bollworm ? Explain. (ii) Describe the mechanism that leads to the death of bollworms feeding on Bt cotton plants.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Applications in Agriculture",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Name the nematode (scientific name) that infects the roots of tobacco plant and reduces its yield. (ii) Name the vector that is used to introduce nematode-specific genes into the host plant (tobacco). (iii) How do sense and anti-sense RNAs function ? (iv) Why could parasite not survive in a transgenic tobacco plant ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Applications in Agriculture",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(B) (i) What are transgenic animals ? (ii) Why are these animals being produced ? Explain any four reasons.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Transgenic Animals",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) \\\"Early and accurate diagnosis of diseases is vital in medical technology.\\\" (i) Name the conventional methods of diagnosis and their disadvantages. (ii) Which three diagnostic techniques have been developed through Biotechnology ? Explain how each one helps in detecting diseases.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/3/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Applications in Medicine",
+     "figures": []
+    },
     {
      "qno": 12,
      "chapter": "Biotechnology and its Applications",
@@ -11045,9 +12331,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) (i) What are transgenic animals ? (ii) Name the first transgenic cow and state its importance.",
-     "or": {
-      "text": "(b) (i) Explain the convention for naming EcoRI. (ii) With the help of an illustration only, show the action of EcoRI on a DNA Polynucleotide."
-     },
      "papers": [
       {
        "year": 2024,
@@ -11272,9 +12555,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) A patient with ADA deficiency requires periodic infusion of genetically engineered lymphocytes. Explain why such periodic infusion is required and also suggest a permanent cure for such ADA deficiency.",
-     "or": {
-      "text": "(b) Describe in brief any two techniques that can be utilised to transfer recombinant DNA into the host cell directly without using any vector."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11357,9 +12637,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Name and explain the biotechnological strategy wherein the infection by the nematode Meloidogyne incognitia can be prevented using Agrobacterium vectors in the roots of tobacco plant by RNA interference.",
-     "or": {
-      "text": "(b) Explain the amplification of gene of interest using the technique of Polymerase chain reaction (PCR)."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11394,9 +12671,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Define transgenic animals. Explain in detail any four areas where they can be used for human benefit.",
-     "or": {
-      "text": "(b) Describe the structure and working of a sparged stirred-tank bioreactor."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11456,9 +12730,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Explain how some strains of Bacillus thuringiensis produce proteins that kill certain insects such as lepidopterans but do not kill the Bacillus. (ii) How is the above mechanism exploited for the production of Bt cotton plant by biotechnologists ?",
-     "or": {
-      "text": "(b) (i) Explain how the amplification of gene of interest is done using PCR. (ii) State two applications of the desired amplified fragment of DNA."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11522,9 +12793,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Name the Indian crop variety for which, in 1997, an American company got patent rights through the US Patent and Trademark Office. This is considered a case of Biopiracy. Justify.",
-     "or": {
-      "text": "(b) State two purposes for which the Indian Government has set up GEAC (Genetic Engineering Approval Committee)."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11535,6 +12803,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ethical Issues and Biopiracy"
+    },
+    {
+     "qno": 17,
+     "chapter": "Biotechnology and its Applications",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) State two purposes for which the Indian Government has set up GEAC (Genetic Engineering Approval Committee).",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/7/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "Ethical Issues and Biopiracy",
+     "figures": []
     },
     {
      "qno": 26,
@@ -11807,9 +13093,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Suggest how a virus-free healthy plant can be obtained from a diseased sugarcane plant.",
-     "or": {
-      "text": "(b) In order to force bacteria to take up the recombinant DNA, they must be made competent. Explain how it can be achieved."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11849,7 +13132,7 @@
   },
   {
    "chapter": "Organisms and Populations",
-   "count": 29,
+   "count": 33,
    "questions": [
     {
      "qno": 3,
@@ -12185,9 +13468,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Explain how the interaction between sea anemone and clownfish is one of the best examples of commensalism in nature.",
-     "or": {
-      "text": "(b) Correctly depict (also indicate the trophic level) and describe the ecological pyramid of biomass in sea with 40 standing crop of phytoplankton supporting 90 standing crop of zooplankton which further supports 120 small fishes."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12205,9 +13485,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Describe the population growth curve applicable in a population of any species in nature that has limited resources at its disposal. (ii) Give the equation of this growth curve. (iii) Name the growth curve and depict a graphical plot for this type of population growth.",
-     "or": {
-      "text": "(b) (i) Explain the Species-Area relationship within a natural forest and also predict the nature of graph when species richness is plotted against the area for a wide variety of taxa. (ii) Depict the graphical relationship between species richness and area. (iii) Give the equation of the Species-Area relationship for a wide variety of taxa on a logarithmic scale."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12225,9 +13502,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Explain how the interaction between a fig tree and its tight one-to-one relationship with the pollinator species of wasp is one of the best examples of mutualism.",
-     "or": {
-      "text": "(b) Correctly depict (also indicate the trophic level) and describe the ecological pyramid of number with 32 birds dependent on 20 insects feeding on one banyan tree."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12245,9 +13519,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Describe the population growth curve applicable in a population of any species in nature that has unlimited resources at its disposal. (ii) Explain the equation of this growth curve. (iii) Name the growth curve and depict a graphical plot for this type of population growth.",
-     "or": {
-      "text": "(b) (i) Explain the conclusion drawn by Alexander von Humboldt during his extensive explorations in the wilderness of South American jungles. (ii) Give the equation of the Species-Area relationship. (iii) Draw a graphical representation of the relation between species richness and area for a wide variety of taxa such as birds, bats, etc."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12331,9 +13602,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) In some cases, measuring population density by counting individuals may not be feasible. Mention two other parameters that can be used and justify their use with suitable examples.",
-     "or": {
-      "text": "(b) What factors contribute to the Amazonian rain forests in South America being the most biodiverse regions on Earth ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -12394,9 +13662,6 @@
      "figures": [
       "assets/figures/bio_2026_z4_q27_growth.png"
      ],
-     "or": {
-      "text": "(b) Answer the following questions : (i) Define 'predation'. (ii) Why is predation required in a community of different organisms ? Give any two points. (iii) Why are predators 'prudent' in nature ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -12406,6 +13671,24 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
+     "topic": "Population Interactions"
+    },
+    {
+     "qno": 27,
+     "chapter": "Organisms and Populations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Answer the following questions : (i) Define 'predation'. (ii) Why is predation required in a community of different organisms ? Give any two points. (iii) Why are predators 'prudent' in nature ?",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Population Interactions"
     },
     {
@@ -12447,6 +13730,65 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Population Interactions"
+    },
+    {
+     "qno": 20,
+     "chapter": "Organisms and Populations",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Explain Brood parasitism with the help of a suitable example.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/4/1",
+       "qno": "20-OR"
+      },
+      {
+       "year": 2026,
+       "set": "57/5/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Population Interactions",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Organisms and Populations",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Describe the logistic population growth curve with the help of a suitable graphical representation. (ii) Write the equation of Verhulst-Pearl logistic growth curve and explain what 'K' and 'r' suggest in the given equation.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/6/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Population Growth",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Organisms and Populations",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Write an equation for Verhulst-Pearl Logistic Growth Curve where N = Population density at time t, r = Intrinsic rate of natural increase. (ii) Draw a graph for a population whose population density has reached carrying capacity. (iii) Draw a growth curve where resources are non-limiting to growth of population. (iv) Which growth curve is considered more realistic and why ? Explain.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/7/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Population Growth",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -12459,8 +13801,62 @@
   },
   {
    "chapter": "Ecosystem",
-   "count": 24,
+   "count": 31,
    "questions": [
+    {
+     "qno": 17,
+     "chapter": "Ecosystem",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Arrange the given important steps of decomposition in their correct order of occurrence in the breakdown of complex organic matter and explain the fourth step in the process : Catabolism, Leaching, Fragmentation, Mineralisation, Humification.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/6/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Decomposition",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Ecosystem",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Correctly depict (also indicate the trophic level) and describe the ecological pyramid of biomass in sea with 40 standing crop of phytoplankton supporting 90 standing crop of zooplankton which further supports 120 small fishes.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/4/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Energy Flow and Food Chains",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Ecosystem",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Correctly depict (also indicate the trophic level) and describe the ecological pyramid of number with 32 birds dependent on 20 insects feeding on one banyan tree.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/5/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Energy Flow and Food Chains",
+     "figures": []
+    },
     {
      "qno": 20,
      "chapter": "Ecosystem",
@@ -12635,9 +14031,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Describe the decomposition cycle in a terrestrial ecosystem.",
-     "or": {
-      "text": "(b) (i) Graphically represent the relationship between species richness and area on a log-log scale for bats and fishes. (ii) Write the equation for the relationship as on a logarithmic scale."
-     },
      "papers": [
       {
        "year": 2024,
@@ -12680,9 +14073,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Differentiate between grazing food chain and detritus food chain.",
-     "or": {
-      "text": "(b) Explain Brood parasitism with the help of a suitable example."
-     },
      "papers": [
       {
        "year": 2024,
@@ -12728,9 +14118,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Analyse the following ecosystems and discuss, which will be more productive in terms of primary productivity : A young forest, a natural old forest, a shallow polluted lake.",
-     "or": {
-      "text": "(b) Differentiate between Net primary productivity and Gross primary productivity in an ecosystem."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12743,6 +14130,24 @@
      "topic": "Productivity"
     },
     {
+     "qno": 18,
+     "chapter": "Ecosystem",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) Differentiate between Net primary productivity and Gross primary productivity in an ecosystem.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/1/1",
+       "qno": "18-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Productivity",
+     "figures": []
+    },
+    {
      "qno": 21,
      "chapter": "Ecosystem",
      "type": "Very Short Answer",
@@ -12751,9 +14156,6 @@
      "figures": [
       "assets/figures/bio_2025_z2_q21_pyramid.png"
      ],
-     "or": {
-      "text": "(B) (i) Construct an ideal pyramid of energy when 10,00,000 Joules of sunlight is available. (ii) Mention the energy obtained by the fourth level of this pyramid."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12764,6 +14166,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Ecosystem Structure and Function"
+    },
+    {
+     "qno": 21,
+     "chapter": "Ecosystem",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(B) (i) Construct an ideal pyramid of energy when 10,00,000 Joules of sunlight is available. (ii) Mention the energy obtained by the fourth level of this pyramid.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Ecological Pyramids"
     },
     {
      "qno": 28,
@@ -12839,9 +14259,6 @@
      "figures": [
       "assets/figures/bio_2026_z1_q21_pyramid.png"
      ],
-     "or": {
-      "text": "(b) In an ecosystem there was loss of biodiversity due to some project in that area. (i) How will biodiversity be affected ? (2 points) (ii) List two major causes of loss of biodiversity."
-     },
      "papers": [
       {
        "year": 2026,
@@ -12994,6 +14411,42 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Energy Flow and Food Chains"
+    },
+    {
+     "qno": 23,
+     "chapter": "Ecosystem",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) (i) What does an ecological pyramid represent ? (ii) The Ecological pyramids may have an 'upright' or an 'inverted' shape. Justify with the help of suitable examples.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/5/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Ecological Pyramids",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Ecosystem",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) (i) State, what does 'standing crop' of a trophic level represent. (ii) List any two ways of measuring the standing crop of a trophic level.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/4/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Energy Flow and Food Chains",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -13006,8 +14459,98 @@
   },
   {
    "chapter": "Biodiversity and Conservation",
-   "count": 31,
+   "count": 37,
    "questions": [
+    {
+     "qno": 33,
+     "chapter": "Biodiversity and Conservation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Explain the Species-Area relationship within a natural forest and also predict the nature of graph when species richness is plotted against the area for a wide variety of taxa. (ii) Depict the graphical relationship between species richness and area. (iii) Give the equation of the Species-Area relationship for a wide variety of taxa on a logarithmic scale.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
+     "topic": "Levels and Patterns of Biodiversity",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Biodiversity and Conservation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) (i) Explain the conclusion drawn by Alexander von Humboldt during his extensive explorations in the wilderness of South American jungles. (ii) Give the equation of the Species-Area relationship. (iii) Draw a graphical representation of the relation between species richness and area for a wide variety of taxa such as birds, bats, etc.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Levels and Patterns of Biodiversity",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Biodiversity and Conservation",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) What factors contribute to the Amazonian rain forests in South America being the most biodiverse regions on Earth ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/2/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Levels and Patterns of Biodiversity",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Biodiversity and Conservation",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) (i) Graphically represent the relationship between species richness and area on a log-log scale for bats and fishes. (ii) Write the equation for the relationship as on a logarithmic scale.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "57/3/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Levels and Patterns of Biodiversity",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Biodiversity and Conservation",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(b) In an ecosystem there was loss of biodiversity due to some project in that area. (i) How will biodiversity be affected ? (2 points) (ii) List two major causes of loss of biodiversity.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "57/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Loss of Biodiversity"
+    },
     {
      "qno": 21,
      "chapter": "Biodiversity and Conservation",
@@ -13238,9 +14781,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) Tropical regions harbour more species than the temperate regions. How have biologists tried to explain this in their own ways ? Explain.",
-     "or": {
-      "text": "(b) (i) What does an ecological pyramid represent ? (ii) The Ecological pyramids may have an 'upright' or an 'inverted' shape. Justify with the help of suitable examples."
-     },
      "papers": [
       {
        "year": 2024,
@@ -13292,9 +14832,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(A) (i) Explain giving three reasons why tropics show greatest levels of species diversity. (ii) Draw a graph showing species-area relationship. Name the naturalist who studied such relationship. Write the observation made by him.",
-     "or": {
-      "text": "(B) (i) The world is facing the accelerated rate of species extinctions due to human activities. Explain any three major causes of biodiversity losses. (ii) Describe 'Ex situ' approach for conserving biodiversity. Give any two examples."
-     },
      "papers": [
       {
        "year": 2025,
@@ -13305,6 +14842,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity"
+    },
+    {
+     "qno": 33,
+     "chapter": "Biodiversity and Conservation",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(B) (i) The world is facing the accelerated rate of species extinctions due to human activities. Explain any three major causes of biodiversity losses. (ii) Describe 'Ex situ' approach for conserving biodiversity. Give any two examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "57/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Loss of Biodiversity",
+     "figures": []
     },
     {
      "qno": 27,
@@ -13380,9 +14935,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) Describe the Species-Area relationship as observed by Alexander von Humboldt, for a wide variety of taxa in nature. (ii) Draw the graph showing Species-Area relationship for S = CA^Z. What is the significance of 'Z' in Species-Area relationship ?",
-     "or": {
-      "text": "(b) (i) Describe the logistic population growth curve with the help of a suitable graphical representation. (ii) Write the equation of Verhulst-Pearl logistic growth curve and explain what 'K' and 'r' suggest in the given equation."
-     },
      "papers": [
       {
        "year": 2025,
@@ -13423,9 +14975,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) (i) How does alien species invasion cause a decline in biodiversity ? Explain. How have the following contributed to biodiversity loss ? I. Nile Perch II. Lantana and Eichhornia III. Clarias gariepinus. (ii) Why have certain regions been declared as biodiversity hotspots by environmentalists of the world ? Name any two such regions in India.",
-     "or": {
-      "text": "(b) (i) Write an equation for Verhulst-Pearl Logistic Growth Curve where N = Population density at time t, r = Intrinsic rate of natural increase. (ii) Draw a graph for a population whose population density has reached carrying capacity. (iii) Draw a growth curve where resources are non-limiting to growth of population. (iv) Which growth curve is considered more realistic and why ? Explain."
-     },
      "papers": [
       {
        "year": 2025,
@@ -13557,9 +15106,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(a) Biodiversity must be conserved as it plays an important role in many ecosystem services that nature provides. Explain any two ecosystem services.",
-     "or": {
-      "text": "(b) (i) State, what does 'standing crop' of a trophic level represent. (ii) List any two ways of measuring the standing crop of a trophic level."
-     },
      "papers": [
       {
        "year": 2026,

@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 701,
+ "total_questions": 799,
  "chapter_order": [
   "Solutions",
   "Electrochemistry",
@@ -24,7 +24,7 @@
  "chapters": [
   {
    "chapter": "Solutions",
-   "count": 71,
+   "count": 83,
    "questions": [
     {
      "qno": 1,
@@ -327,9 +327,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "What type of deviation from Raoult's law is shown by a mixture of ethanol and acetone ? Give reason.",
-     "or": {
-      "text": "Define Azeotrope. What type of azeotrope is formed by negative deviation from Raoult's law ? Give an example."
-     },
      "papers": [
       {
        "year": 2023,
@@ -340,6 +337,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Vapour Pressure of Liquid Solutions"
+    },
+    {
+     "qno": 20,
+     "chapter": "Solutions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Define Azeotrope. What type of azeotrope is formed by negative deviation from Raoult's law ? Give an example.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/4/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Ideal and Non-ideal Solutions",
+     "figures": []
     },
     {
      "qno": 29,
@@ -410,9 +425,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Why is boiling point of 1M NaCl solution more than that of 1M glucose solution ? (ii) A non-volatile solute 'X' (molar mass $= 50$ g mol$^{-1}$) when dissolved in 78 g of benzene reduced its vapour pressure to 90%. Calculate the mass of X dissolved in the solution. (iii) Calculate the boiling point elevation for a solution prepared by adding 10 g of $MgCl_2$ to 200 g of water assuming $MgCl_2$ is completely dissociated. ($K_b$ for Water $= 0{\\cdot}512$ K kg mol$^{-1}$, Molar mass $MgCl_2 = 95$ g mol$^{-1}$)",
-     "or": {
-      "text": "(i) Why is the value of Van't Hoff factor for ethanoic acid in benzene close to $0{\\cdot}5$ ? (ii) Determine the osmotic pressure of a solution prepared by dissolving $2{\\cdot}32 \\times 10^{-2}$ g of $K_2SO_4$ in 2 L of solution at 25 °C, assuming $K_2SO_4$ is completely dissociated. (R $= 0{\\cdot}082$ L atm K$^{-1}$ mol$^{-1}$, Molar mass $K_2SO_4 = 174$ g mol$^{-1}$) (iii) When $25{\\cdot}6$ g of Sulphur was dissolved in 1000 g of benzene, the freezing point lowered by $0{\\cdot}512$ K. Calculate the formula of Sulphur ($S_x$). ($K_f$ for benzene $= 5{\\cdot}12$ K kg mol$^{-1}$, Atomic mass of Sulphur $= 32$ g mol$^{-1}$)"
-     },
      "papers": [
       {
        "year": 2023,
@@ -423,6 +435,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass"
+    },
+    {
+     "qno": 33,
+     "chapter": "Solutions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Why is the value of Van't Hoff factor for ethanoic acid in benzene close to $0{\\cdot}5$ ? (ii) Determine the osmotic pressure of a solution prepared by dissolving $2{\\cdot}32 \\times 10^{-2}$ g of $K_2SO_4$ in 2 L of solution at 25 °C, assuming $K_2SO_4$ is completely dissociated. (R $= 0{\\cdot}082$ L atm K$^{-1}$ mol$^{-1}$, Molar mass $K_2SO_4 = 174$ g mol$^{-1}$) (iii) When $25{\\cdot}6$ g of Sulphur was dissolved in 1000 g of benzene, the freezing point lowered by $0{\\cdot}512$ K. Calculate the formula of Sulphur ($S_x$). ($K_f$ for benzene $= 5{\\cdot}12$ K kg mol$^{-1}$, Atomic mass of Sulphur $= 32$ g mol$^{-1}$)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Abnormal Molar Masses",
+     "figures": []
     },
     {
      "qno": 4,
@@ -478,9 +508,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) At the same temperature, $CO_2$ gas is more soluble in water than $O_2$ gas. Which one of them will have higher value of $K_H$ and why ? (ii) How does the size of blood cells change when placed in an aqueous solution containing more than $0{\\cdot}9\\%$ (mass/volume) sodium chloride ? (iii) 1 molal aqueous solution of an electrolyte $A_2B_3$ is 60% ionized. Calculate the boiling point of the solution. (Given : $K_b$ for $H_2O = 0{\\cdot}52$ K kg mol$^{-1}$)",
-     "or": {
-      "text": "(i) The vapour pressures of A and B at 25 °C are 75 mm Hg and 25 mm Hg respectively. If A and B are mixed such that the mole fraction of A in the mixture is $0{\\cdot}4$, then calculate the mole fraction of B in vapour phase. (ii) Define colligative property. Which colligative property is preferred for the molar mass determination of macromolecules ? (iii) Why are equimolar solutions of sodium chloride and glucose not isotonic ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -491,6 +518,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Colligative Properties and Determination of Molar Mass"
+    },
+    {
+     "qno": 31,
+     "chapter": "Solutions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) The vapour pressures of A and B at 25 °C are 75 mm Hg and 25 mm Hg respectively. If A and B are mixed such that the mole fraction of A in the mixture is $0{\\cdot}4$, then calculate the mole fraction of B in vapour phase. (ii) Define colligative property. Which colligative property is preferred for the molar mass determination of macromolecules ? (iii) Why are equimolar solutions of sodium chloride and glucose not isotonic ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Colligative Properties and Determination of Molar Mass",
+     "figures": []
     },
     {
      "qno": 8,
@@ -626,9 +671,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Define molal depression constant. How is it related to enthalpy of fusion ?",
-     "or": {
-      "text": "What type of deviation is shown by ethanol and acetone mixture ? Give reason. What type of azeotropic mixture is formed by that deviation ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -639,6 +681,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass"
+    },
+    {
+     "qno": 17,
+     "chapter": "Solutions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "What type of deviation is shown by ethanol and acetone mixture ? Give reason. What type of azeotropic mixture is formed by that deviation ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/3/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Types of Solutions",
+     "figures": []
     },
     {
      "qno": 22,
@@ -680,9 +740,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Define reverse osmosis. (ii) Why are aquatic species more comfortable in cold water in comparison to warm water ? (iii) A solution containing 2 g of glucose (M $= 180$ g mol$^{-1}$) in 100 g of water is prepared at 303 K. If the vapour pressure of pure water at 303 K is $32{\\cdot}8$ mm Hg, what would be the vapour pressure of the solution ?",
-     "or": {
-      "text": "(i) Predict whether Van't Hoff factor will be less or greater than one, when Ethanoic acid is dissolved in benzene. (ii) Define ideal solution. (iii) Calculate the mass of $CaCl_2$ (molar mass $= 111$ g mol$^{-1}$) to be dissolved in 500 g of water to lower its freezing point by 2 K, assuming that $CaCl_2$ undergoes complete dissociation. ($K_f$ for water $= 1{\\cdot}86$ K kg mol$^{-1}$)"
-     },
      "papers": [
       {
        "year": 2024,
@@ -693,6 +750,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass"
+    },
+    {
+     "qno": 32,
+     "chapter": "Solutions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Predict whether Van't Hoff factor will be less or greater than one, when Ethanoic acid is dissolved in benzene. (ii) Define ideal solution. (iii) Calculate the mass of $CaCl_2$ (molar mass $= 111$ g mol$^{-1}$) to be dissolved in 500 g of water to lower its freezing point by 2 K, assuming that $CaCl_2$ undergoes complete dissociation. ($K_f$ for water $= 1{\\cdot}86$ K kg mol$^{-1}$)",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Abnormal Molar Masses",
+     "figures": []
     },
     {
      "qno": 6,
@@ -746,9 +821,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Ishan's automobile radiator is filled with $1{\\cdot}0$ kg of water. How many grams of ethylene glycol (Molar mass $= 62$ g mol$^{-1}$) must Ishan add to get the freezing point of the solution lowered to $-2{\\cdot}8$ °C. $K_f$ for water $= 1{\\cdot}86$ K kg mol$^{-1}$. (ii) What type of deviation from Raoult's law is shown by ethanol and acetone mixture ? Give reason.",
-     "or": {
-      "text": "(i) Boiling point of water at 750 mm Hg pressure is $99{\\cdot}68$ °C. How much sucrose (Molar mass $= 342$ g mol$^{-1}$) is to be added to 500 g of water such that it boils at 100 °C ? ($K_b$ for water $= 0{\\cdot}52$ K kg mol$^{-1}$). (ii) State Henry's law and write its any one application."
-     },
      "papers": [
       {
        "year": 2024,
@@ -759,6 +831,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass"
+    },
+    {
+     "qno": 32,
+     "chapter": "Solutions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Boiling point of water at 750 mm Hg pressure is $99{\\cdot}68$ °C. How much sucrose (Molar mass $= 342$ g mol$^{-1}$) is to be added to 500 g of water such that it boils at 100 °C ? ($K_b$ for water $= 0{\\cdot}52$ K kg mol$^{-1}$). (ii) State Henry's law and write its any one application.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Colligative Properties and Determination of Molar Mass",
+     "figures": []
     },
     {
      "qno": 1,
@@ -812,9 +902,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Give reasons : (a) Cooking is faster in pressure cooker than in an open pan. (b) On mixing liquid X and liquid Y, volume of the resulting solution decreases. What type of deviation from Raoult's law is shown by the resulting solution ? What change in temperature would you observe after mixing liquids X and Y ?",
-     "or": {
-      "text": "Define Azeotrope. What type of Azeotrope is formed by negative deviation from Raoult's law ? Give an example."
-     },
      "papers": [
       {
        "year": 2025,
@@ -825,6 +912,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Vapour Pressure of Liquid Solutions"
+    },
+    {
+     "qno": 17,
+     "chapter": "Solutions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Define Azeotrope. What type of Azeotrope is formed by negative deviation from Raoult's law ? Give an example.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/1/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Ideal and Non-ideal Solutions",
+     "figures": []
     },
     {
      "qno": 22,
@@ -988,9 +1093,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Calculate the elevation of boiling point of a solution when 3 g of $CaCl_2$ (Molar mass $= 111$ g mol$^{-1}$) was dissolved in 260 g of water, assuming that $CaCl_2$ undergoes complete dissociation. ($K_b$ for water $= 0{\\cdot}52$ K kg mol$^{-1}$)",
-     "or": {
-      "text": "Liquids 'X' and 'Y' form an ideal solution. The vapour pressure of pure 'X' and pure 'Y' are 120 mm Hg and 160 mm Hg respectively. Calculate the vapour pressure of the solution containing equal moles of 'X' and 'Y'."
-     },
      "papers": [
       {
        "year": 2025,
@@ -1003,14 +1105,29 @@
      "topic": "Abnormal Molar Masses"
     },
     {
+     "qno": 17,
+     "chapter": "Solutions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Liquids 'X' and 'Y' form an ideal solution. The vapour pressure of pure 'X' and pure 'Y' are 120 mm Hg and 160 mm Hg respectively. Calculate the vapour pressure of the solution containing equal moles of 'X' and 'Y'.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/5/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Ideal and Non-ideal Solutions",
+     "figures": []
+    },
+    {
      "qno": 22,
      "chapter": "Solutions",
      "type": "Short Answer",
      "marks": 3,
      "text": "Shweta mixed two liquids A and B of 10 mL each. After mixing, the volume of the solution was found to be $20{\\cdot}2$ mL. (i) Why was there a volume change after mixing the liquids ? (ii) Will there be an increase or decrease of temperature after mixing ? (iii) Give one example for this type of solution.",
-     "or": {
-      "text": "(i) How does sprinkling of salt help in clearing the snow covered roads in hilly areas ? (ii) What happens when red blood cells are kept in $0{\\cdot}5\\%$ (mass/vol) NaCl solution ? Justify your answer. (iii) Write an application of reverse osmosis."
-     },
      "papers": [
       {
        "year": 2025,
@@ -1021,6 +1138,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Types of Solutions"
+    },
+    {
+     "qno": 22,
+     "chapter": "Solutions",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(i) How does sprinkling of salt help in clearing the snow covered roads in hilly areas ? (ii) What happens when red blood cells are kept in $0{\\cdot}5\\%$ (mass/vol) NaCl solution ? Justify your answer. (iii) Write an application of reverse osmosis.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/5/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Colligative Properties and Determination of Molar Mass",
+     "figures": []
     },
     {
      "qno": 8,
@@ -1415,9 +1550,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Explain the following with the help of Henry's law : (i) Bends (ii) Anoxia",
-     "or": {
-      "text": "How does sprinkling of salt help in clearing the snow covered roads in hilly areas ? Write the name of the colligative property involved in this process."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1428,6 +1560,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Solubility"
+    },
+    {
+     "qno": 18,
+     "chapter": "Solutions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "How does sprinkling of salt help in clearing the snow covered roads in hilly areas ? Write the name of the colligative property involved in this process.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/4/1",
+       "qno": "18-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Colligative Properties and Determination of Molar Mass",
+     "figures": []
     },
     {
      "qno": 26,
@@ -1452,9 +1602,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "$1{\\cdot}00$ molal aqueous solution of trichloroacetic acid is heated to its boiling point. Boiling point of this solution was found to be $100{\\cdot}18\\,^\\circ$C. Calculate the van't Hoff factor for trichloroacetic acid. (Given : $K_b$ for water $= 0{\\cdot}512$ K kg mol$^{-1}$)",
-     "or": {
-      "text": "State Henry's law. Calculate the mole fraction of $CO_2$ in water at 298 K under 760 mm Hg. (Given : $K_H$ for $CO_2$ in $H_2O$ at 298 K $= 1{\\cdot}25 \\times 10^6$ mm Hg)"
-     },
      "papers": [
       {
        "year": 2026,
@@ -1467,14 +1614,29 @@
      "topic": "Abnormal Molar Masses"
     },
     {
+     "qno": 17,
+     "chapter": "Solutions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "State Henry's law. Calculate the mole fraction of $CO_2$ in water at 298 K under 760 mm Hg. (Given : $K_H$ for $CO_2$ in $H_2O$ at 298 K $= 1{\\cdot}25 \\times 10^6$ mm Hg)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/5/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Solubility",
+     "figures": []
+    },
+    {
      "qno": 31,
      "chapter": "Solutions",
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate the freezing point of a solution when $10{\\cdot}5$ g of $MgBr_2$ was dissolved in 250 g of water, assuming $MgBr_2$ undergoes complete dissociation. (Given : Molar mass of $MgBr_2 = 184$ g mol$^{-1}$, $K_f$ for water $= 1{\\cdot}86$ K kg mol$^{-1}$) (ii) Write two differences between ideal and non-ideal solutions.",
-     "or": {
-      "text": "(i) A solution is prepared by dissolving $0{\\cdot}025$ g of potassium sulphate in 2 L of water at 27 $^\\circ$C. Assuming potassium sulphate is completely dissociated, determine its osmotic pressure. (Given : R $= 0{\\cdot}082$ L atm K$^{-1}$ mol$^{-1}$, Molar mass of $K_2SO_4 = 174$ g mol$^{-1}$) (ii) What type of azeotrope will be formed by a solution of acetone and chloroform ? Give reason."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1485,6 +1647,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Abnormal Molar Masses"
+    },
+    {
+     "qno": 31,
+     "chapter": "Solutions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) A solution is prepared by dissolving $0{\\cdot}025$ g of potassium sulphate in 2 L of water at 27 $^\\circ$C. Assuming potassium sulphate is completely dissociated, determine its osmotic pressure. (Given : R $= 0{\\cdot}082$ L atm K$^{-1}$ mol$^{-1}$, Molar mass of $K_2SO_4 = 174$ g mol$^{-1}$) (ii) What type of azeotrope will be formed by a solution of acetone and chloroform ? Give reason.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Colligative Properties and Determination of Molar Mass",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -1499,7 +1679,7 @@
   },
   {
    "chapter": "Electrochemistry",
-   "count": 76,
+   "count": 95,
    "questions": [
     {
      "qno": 3,
@@ -1553,9 +1733,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "On diluting two electrolytes 'A' and 'B', the $\\Lambda_m$ of 'A' increases 25 times while that of 'B' increases by $1{\\cdot}5$ times. Which of the two electrolytes is strong ? Justify your answer graphically.",
-     "or": {
-      "text": "The electrical resistance of a column of $0{\\cdot}05$ mol L$^{-1}$ NaOH solution of diameter 1 cm and length 50 cm is $5{\\cdot}55 \\times 10^3$ ohm. Calculate the conductivity."
-     },
      "papers": [
       {
        "year": 2023,
@@ -1568,14 +1745,29 @@
      "topic": "Electrolytic Cells and Electrolysis"
     },
     {
+     "qno": 20,
+     "chapter": "Electrochemistry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "The electrical resistance of a column of $0{\\cdot}05$ mol L$^{-1}$ NaOH solution of diameter 1 cm and length 50 cm is $5{\\cdot}55 \\times 10^3$ ohm. Calculate the conductivity.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conductance of Electrolytic Solutions",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Electrochemistry",
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) State Kohlrausch's law of independent migration of ions. Write an expression for the limiting molar conductivity of acetic acid according to Kohlrausch's law. (ii) Calculate the maximum work and log $K_c$ for the given reaction at 298 K : $$Ni(s) + 2Ag^+(aq) \\rightleftharpoons Ni^{2+}(aq) + 2Ag(s)$$ Given : $E^\\circ_{Ni^{2+}/Ni} = -0{\\cdot}25$ V, $E^\\circ_{Ag^+/Ag} = +0{\\cdot}80$ V, 1 F $= 96500$ C mol$^{-1}$.",
-     "or": {
-      "text": "(i) State Faraday's first law of electrolysis. How much charge, in terms of Faraday, is required for the reduction of 1 mol $Cu^{2+}$ to Cu ? (ii) Calculate emf of the following cell at 298 K for $Mg(s)\\,|\\,Mg^{2+}(0{\\cdot}1\\ M)\\,\\|\\,Cu^{2+}(0{\\cdot}01\\ M)\\,|\\,Cu(s)$. [$E^\\circ_{cell} = +2{\\cdot}71$ V, 1 F $= 96500$ C mol$^{-1}$, log 10 $= 1$]"
-     },
      "papers": [
       {
        "year": 2023,
@@ -1586,6 +1778,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conductance of Electrolytic Solutions"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) State Faraday's first law of electrolysis. How much charge, in terms of Faraday, is required for the reduction of 1 mol $Cu^{2+}$ to Cu ? (ii) Calculate emf of the following cell at 298 K for $Mg(s)\\,|\\,Mg^{2+}(0{\\cdot}1\\ M)\\,\\|\\,Cu^{2+}(0{\\cdot}01\\ M)\\,|\\,Cu(s)$. [$E^\\circ_{cell} = +2{\\cdot}71$ V, 1 F $= 96500$ C mol$^{-1}$, log 10 $= 1$]",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Electrolytic Cells and Electrolysis",
+     "figures": []
     },
     {
      "qno": 8,
@@ -1641,9 +1851,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Give reasons : (i) Mercury cell delivers a constant potential during its life time. (ii) In the experimental determination of electrolytic conductance, Direct Current (DC) is not used.",
-     "or": {
-      "text": "Define fuel cell with an example. What advantages do the fuel cells have over primary and secondary batteries ?"
-     },
      "papers": [
       {
        "year": 2023,
@@ -1654,6 +1861,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Batteries"
+    },
+    {
+     "qno": 20,
+     "chapter": "Electrochemistry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Define fuel cell with an example. What advantages do the fuel cells have over primary and secondary batteries ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/2/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Fuel Cells",
+     "figures": []
     },
     {
      "qno": 35,
@@ -1726,9 +1951,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Define fuel cell and write its two advantages.",
-     "or": {
-      "text": "Using E° values of X and Y given below, predict which is better for coating the surface of Iron to prevent corrosion and why ? Given : $E^\\circ_{X^{2+}/X} = -2{\\cdot}36$ V, $E^\\circ_{Y^{2+}/Y} = -0{\\cdot}14$ V, $E^\\circ_{Fe^{2+}/Fe} = -0{\\cdot}44$ V"
-     },
      "papers": [
       {
        "year": 2023,
@@ -1739,6 +1961,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Fuel Cells"
+    },
+    {
+     "qno": 21,
+     "chapter": "Electrochemistry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Using E° values of X and Y given below, predict which is better for coating the surface of Iron to prevent corrosion and why ? Given : $E^\\circ_{X^{2+}/X} = -2{\\cdot}36$ V, $E^\\circ_{Y^{2+}/Y} = -0{\\cdot}14$ V, $E^\\circ_{Fe^{2+}/Fe} = -0{\\cdot}44$ V",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/3/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Corrosion",
+     "figures": []
     },
     {
      "qno": 35,
@@ -1828,9 +2068,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate the emf of the following cell at 298 K : $Al(s)\\,|\\,Al^{3+}(0{\\cdot}001\\ M)\\,\\|\\,Ni^{2+}(0{\\cdot}1\\ M)\\,|\\,Ni(s)$ [Given : $E^\\circ_{Al^{3+}/Al} = -1{\\cdot}66$ V, $E^\\circ_{Ni^{2+}/Ni} = -0{\\cdot}25$ V, log 10 $= 1$] (ii) With the help of a graph explain why it is not possible to determine $\\Lambda^\\circ_m$ for a weak electrolyte by extrapolating the molar conductivity ($\\Lambda_m$) versus $C^{1/2}$ curve as for strong electrolyte.",
-     "or": {
-      "text": "(i) The molar conductivities of $NH_4^+$ and $Cl^-$ ion are $73{\\cdot}8$ S cm$^2$ mol$^{-1}$ and $76{\\cdot}2$ S cm$^2$ mol$^{-1}$ respectively. The conductivity of $0{\\cdot}1$ M $NH_4Cl$ is $1{\\cdot}29 \\times 10^{-2}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation. (ii) Calculate the half-cell potential at 298 K for the reaction $Zn^{2+} + 2e^- \\longrightarrow Zn$ if $[Zn^{2+}] = 0{\\cdot}1$ M and $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V."
-     },
      "papers": [
       {
        "year": 2023,
@@ -1841,6 +2078,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) The molar conductivities of $NH_4^+$ and $Cl^-$ ion are $73{\\cdot}8$ S cm$^2$ mol$^{-1}$ and $76{\\cdot}2$ S cm$^2$ mol$^{-1}$ respectively. The conductivity of $0{\\cdot}1$ M $NH_4Cl$ is $1{\\cdot}29 \\times 10^{-2}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation. (ii) Calculate the half-cell potential at 298 K for the reaction $Zn^{2+} + 2e^- \\longrightarrow Zn$ if $[Zn^{2+}] = 0{\\cdot}1$ M and $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conductance of Electrolytic Solutions",
+     "figures": []
     },
     {
      "qno": 3,
@@ -1917,9 +2172,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(i) What should be the signs (positive/negative) for $E^\\circ_{cell}$ and $\\Delta G^\\circ$ for a spontaneous redox reaction occurring under standard conditions ? (ii) State Faraday's first law of electrolysis.",
-     "or": {
-      "text": "Calculate the emf of the following cell at 298 K : $Fe_{(s)}\\,|\\,Fe^{2+}(0{\\cdot}01\\,M)\\,\\|\\,H^+(1\\,M)\\,|\\,H_{2(g)}\\,(1\\ bar),\\ Pt_{(s)}$. Given $E^\\circ_{cell} = 0{\\cdot}44$ V."
-     },
      "papers": [
       {
        "year": 2023,
@@ -1930,6 +2182,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 19,
+     "chapter": "Electrochemistry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Calculate the emf of the following cell at 298 K : $Fe_{(s)}\\,|\\,Fe^{2+}(0{\\cdot}01\\,M)\\,\\|\\,H^+(1\\,M)\\,|\\,H_{2(g)}\\,(1\\ bar),\\ Pt_{(s)}$. Given $E^\\circ_{cell} = 0{\\cdot}44$ V.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/5/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Galvanic Cells",
+     "figures": []
     },
     {
      "qno": 32,
@@ -2073,9 +2343,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) The resistance of $0{\\cdot}05$ M $CH_3COOH$ solution is found to be 100 ohm. If the cell constant is $0{\\cdot}0354$ cm$^{-1}$, calculate the molar conductivity of the acetic acid solution. (ii) State Faraday's first law of electrolysis. How much charge in Faraday is required for the reduction of 1 mol of $MnO_4^-$ to $Mn^{2+}$ ?",
-     "or": {
-      "text": "(i) The conductivity of $0{\\cdot}0025$ mol L$^{-1}$ acetic acid is $5{\\cdot}25 \\times 10^{-5}$ S cm$^{-1}$. Calculate its degree of dissociation if $\\Lambda^\\circ_m$ for acetic acid is 390 S cm$^2$ mol$^{-1}$. (ii) Write anode, cathode and overall reaction of lead storage battery."
-     },
      "papers": [
       {
        "year": 2024,
@@ -2086,6 +2353,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) The conductivity of $0{\\cdot}0025$ mol L$^{-1}$ acetic acid is $5{\\cdot}25 \\times 10^{-5}$ S cm$^{-1}$. Calculate its degree of dissociation if $\\Lambda^\\circ_m$ for acetic acid is 390 S cm$^2$ mol$^{-1}$. (ii) Write anode, cathode and overall reaction of lead storage battery.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Batteries",
+     "figures": []
     },
     {
      "qno": 12,
@@ -2133,9 +2418,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate emf of the following cell at 25 °C : $Zn(s)\\,|\\,Zn^{2+}(0{\\cdot}001\\,M)\\,\\|\\,Cd^{2+}(0{\\cdot}1\\,M)\\,|\\,Cd(s)$. Given : $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V, $E^\\circ_{Cd^{2+}/Cd} = -0{\\cdot}40$ V [log 10 $= 1$]. (ii) State Faraday's second law of electrolysis. How will the pH of aqueous NaCl solution be affected when it is electrolysed ?",
-     "or": {
-      "text": "(i) Calculate the $\\Delta_rG^\\circ$ and log $K_c$ for the following cell reaction : $Fe(s) + Ag^+(aq) \\to Fe^{2+}(aq) + Ag(s)$. Given : $E^\\circ_{Fe^{2+}/Fe} = -0{\\cdot}44$ V, $E^\\circ_{Ag^+/Ag} = +0{\\cdot}80$ V, 1 F $= 96500$ C mol$^{-1}$. (ii) Write any two advantages of the fuel cells over primary and secondary batteries. (iii) How many Faradays are required for the oxidation of 1 mole of $H_2O$ to $O_2$ ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -2146,6 +2428,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 31,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Calculate the $\\Delta_rG^\\circ$ and log $K_c$ for the following cell reaction : $Fe(s) + Ag^+(aq) \\to Fe^{2+}(aq) + Ag(s)$. Given : $E^\\circ_{Fe^{2+}/Fe} = -0{\\cdot}44$ V, $E^\\circ_{Ag^+/Ag} = +0{\\cdot}80$ V, 1 F $= 96500$ C mol$^{-1}$. (ii) Write any two advantages of the fuel cells over primary and secondary batteries. (iii) How many Faradays are required for the oxidation of 1 mole of $H_2O$ to $O_2$ ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Fuel Cells",
+     "figures": []
     },
     {
      "qno": 1,
@@ -2372,9 +2672,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Write the cell reaction and calculate the e.m.f. of the following cell at 298 K : $Sn(s)\\,|\\,Sn^{2+}(0{\\cdot}004\\ M)\\,\\|\\,H^+(0{\\cdot}02\\ M)\\,|\\,H_2(g)\\,(1\\ Bar)\\,|\\,Pt(s)$. (Given : $E^\\circ_{Sn^{2+}/Sn} = -0{\\cdot}14$ V, $E^\\circ_{H^+/H_2(g),\\,Pt} = 0{\\cdot}00$ V) (b) Account for the following : (i) On the basis of E° values, $O_2$ gas should be liberated at anode but it is $Cl_2$ gas which is liberated in the electrolysis of aqueous NaC$l$. (ii) Conductivity of $CH_3COOH$ decreases on dilution.",
-     "or": {
-      "text": "(a) Write the anode and cathode reactions and the overall cell reaction occurring in a lead storage battery during its use. (b) Calculate the potential for half-cell containing $0{\\cdot}01$ M $K_2Cr_2O_7(aq)$, $0{\\cdot}01$ M $Cr^{3+}(aq)$ and $1{\\cdot}0 \\times 10^{-4}$ M $H^+(aq)$. The half cell reaction is : $Cr_2O_7^{2-}(aq) + 14H^+(aq) + 6e^- \\longrightarrow 2Cr^{3+}(aq) + 7H_2O(l)$ and the standard electrode potential is given as $E^\\circ = 1{\\cdot}33$ V. [Given : log 10 $= 1$]"
-     },
      "papers": [
       {
        "year": 2025,
@@ -2385,6 +2682,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 31,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Write the anode and cathode reactions and the overall cell reaction occurring in a lead storage battery during its use. (b) Calculate the potential for half-cell containing $0{\\cdot}01$ M $K_2Cr_2O_7(aq)$, $0{\\cdot}01$ M $Cr^{3+}(aq)$ and $1{\\cdot}0 \\times 10^{-4}$ M $H^+(aq)$. The half cell reaction is : $Cr_2O_7^{2-}(aq) + 14H^+(aq) + 6e^- \\longrightarrow 2Cr^{3+}(aq) + 7H_2O(l)$ and the standard electrode potential is given as $E^\\circ = 1{\\cdot}33$ V. [Given : log 10 $= 1$]",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Batteries",
+     "figures": []
     },
     {
      "qno": 1,
@@ -2457,9 +2772,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Calculate the standard Gibbs energy $(\\Delta_r G^\\circ)$ of the following reaction at 25 $^\\circ$C : $Au(s) + Ca^{2+}(1\\,M) \\to Au^{3+}(1\\,M) + Ca(s)$. $E^\\circ_{Au^{3+}/Au} = +1{\\cdot}5$ V, $E^\\circ_{Ca^{2+}/Ca} = -2{\\cdot}87$ V. Predict whether the reaction will be spontaneous or not at 25 $^\\circ$C. [1 F $= 96500$ C mol$^{-1}$] (b) Tarnished silver contains $Ag_2S$. Can this tarnish be removed by placing tarnished silverware in an aluminium pan containing an inert electrolytic solution such as NaC$l$ ? The standard electrode potential for half reaction : $Ag_2S(s) + 2e^- \\longrightarrow 2Ag(s) + S^{2-}$ is $-0{\\cdot}71$ V and for $Al^{3+} + 3e^- \\longrightarrow Al(s)$ is $-1{\\cdot}66$ V.",
-     "or": {
-      "text": "(a) Define the following : (i) Cell potential (ii) Fuel cell (b) Calculate emf of the following cell at 25 $^\\circ$C : $Zn(s)\\,|\\,Zn^{2+}(0{\\cdot}1\\,M)\\,\\|\\,Cd^{2+}(0{\\cdot}01\\,M)\\,|\\,Cd(s)$. Given : $E^\\circ_{Cd^{2+}/Cd} = -0{\\cdot}40$ V, $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V. [log 10 $= 1$]"
-     },
      "papers": [
       {
        "year": 2025,
@@ -2470,6 +2782,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 32,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Define the following : (i) Cell potential (ii) Fuel cell (b) Calculate emf of the following cell at 25 $^\\circ$C : $Zn(s)\\,|\\,Zn^{2+}(0{\\cdot}1\\,M)\\,\\|\\,Cd^{2+}(0{\\cdot}01\\,M)\\,|\\,Cd(s)$. Given : $E^\\circ_{Cd^{2+}/Cd} = -0{\\cdot}40$ V, $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V. [log 10 $= 1$]",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Fuel Cells",
+     "figures": []
     },
     {
      "qno": 1,
@@ -2671,9 +3001,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) For a galvanic cell, the following half reactions are given. Decide, which will remain as reduction reaction and which will be reversed to become an oxidation reaction. Give reason for your answer. (I) $Cr^{3+} + 3e^- \\to Cr(s)$; $E^\\circ = -0{\\cdot}74$ V (II) $Fe^{2+} + 2e^- \\to Fe(s)$; $E^\\circ = -0{\\cdot}44$ V. (ii) Represent the cell in which the following reaction takes place : $Mg(s) + 2Ag^+(0{\\cdot}001\\,M) \\to Mg^{2+}(0{\\cdot}100\\,M) + 2Ag(s)$. Calculate $E_{cell}$ if $E^\\circ_{cell} = 3{\\cdot}17$ V. (log 10 $= 1$)",
-     "or": {
-      "text": "(i) State Kohlrausch's law. Give any two applications of it. (ii) $\\Lambda_m^\\circ$ for $NH_4Cl$, NaOH and NaCl are $129{\\cdot}8$, $217{\\cdot}4$ and $108{\\cdot}9$ S cm$^2$ mol$^{-1}$ respectively. Molar conductivity of $1 \\times 10^{-2}$ M solution of $NH_4OH$ is $9{\\cdot}33$ S cm$^2$ mol$^{-1}$. Calculate the degree of dissociation ($\\alpha$) of $NH_4OH$ solution at this concentration."
-     },
      "papers": [
       {
        "year": 2025,
@@ -2684,6 +3011,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Galvanic Cells"
+    },
+    {
+     "qno": 31,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) State Kohlrausch's law. Give any two applications of it. (ii) $\\Lambda_m^\\circ$ for $NH_4Cl$, NaOH and NaCl are $129{\\cdot}8$, $217{\\cdot}4$ and $108{\\cdot}9$ S cm$^2$ mol$^{-1}$ respectively. Molar conductivity of $1 \\times 10^{-2}$ M solution of $NH_4OH$ is $9{\\cdot}33$ S cm$^2$ mol$^{-1}$. Calculate the degree of dissociation ($\\alpha$) of $NH_4OH$ solution at this concentration.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conductance of Electrolytic Solutions",
+     "figures": []
     },
     {
      "qno": 10,
@@ -2731,9 +3076,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate $E_{cell}$ of a galvanic cell in which the following reaction takes place at 25 $^\\circ$C : $Zn(s) + Pb^{2+}(0{\\cdot}02\\,M) \\to Zn^{2+}(0{\\cdot}1\\,M) + Pb(s)$. [Given : $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V, $E^\\circ_{Pb^{2+}/Pb} = -0{\\cdot}13$ V; log 2 $= 0{\\cdot}3010$, log 4 $= 0{\\cdot}6021$, log 5 $= 0{\\cdot}6990$]. (ii) State Faraday's first law of electrolysis. How much electricity, in terms of Faraday, is required to reduce one mol of $MnO_4^-$ to $Mn^{2+}$ ion ?",
-     "or": {
-      "text": "(i) The resistance of a conductivity cell containing $0{\\cdot}001$ M KCl solution at 298 K is 1000 ohm. What is the cell constant if conductivity of $0{\\cdot}001$ M KCl solution at 298 K is $0{\\cdot}125 \\times 10^{-3}$ S cm$^{-1}$ ? (ii) Calculate the $E_{Mg^{2+}/Mg}$ potential for the following half cell at 25 $^\\circ$C : $Mg/Mg^{2+}(1 \\times 10^{-4}\\,M)$; $E^\\circ_{Mg^{2+}/Mg} = +2{\\cdot}36$ V. [Given : log 10 $= 1$] (iii) What is the effect of temperature on the electrical conductance of metallic conductor ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -2744,6 +3086,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 31,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) The resistance of a conductivity cell containing $0{\\cdot}001$ M KCl solution at 298 K is 1000 ohm. What is the cell constant if conductivity of $0{\\cdot}001$ M KCl solution at 298 K is $0{\\cdot}125 \\times 10^{-3}$ S cm$^{-1}$ ? (ii) Calculate the $E_{Mg^{2+}/Mg}$ potential for the following half cell at 25 $^\\circ$C : $Mg/Mg^{2+}(1 \\times 10^{-4}\\,M)$; $E^\\circ_{Mg^{2+}/Mg} = +2{\\cdot}36$ V. [Given : log 10 $= 1$] (iii) What is the effect of temperature on the electrical conductance of metallic conductor ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/6/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conductance of Electrolytic Solutions",
+     "figures": []
     },
     {
      "qno": 3,
@@ -2774,9 +3134,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) Write the name of the cell which is generally used in inverters. Write the reactions taking place at anode and cathode of this cell, when it is in use.",
-     "or": {
-      "text": "Explain why electrolysis of an aqueous solution of NaCl gives $H_2$ gas at cathode and $Cl_2$ gas at anode ? Write overall reaction. (Given : $E^\\circ_{Na^+/Na} = -2{\\cdot}71$ V, $E^\\circ_{H_2O/H_2} = -0{\\cdot}83$ V, $E^\\circ_{Cl_2/2Cl^-} = +1{\\cdot}36$ V, $E^\\circ_{H^+/O_2/H_2O} = +1{\\cdot}23$ V)"
-     },
      "papers": [
       {
        "year": 2025,
@@ -2789,14 +3146,29 @@
      "topic": "Galvanic Cells"
     },
     {
+     "qno": 23,
+     "chapter": "Electrochemistry",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain why electrolysis of an aqueous solution of NaCl gives $H_2$ gas at cathode and $Cl_2$ gas at anode ? Write overall reaction. (Given : $E^\\circ_{Na^+/Na} = -2{\\cdot}71$ V, $E^\\circ_{H_2O/H_2} = -0{\\cdot}83$ V, $E^\\circ_{Cl_2/2Cl^-} = +1{\\cdot}36$ V, $E^\\circ_{H^+/O_2/H_2O} = +1{\\cdot}23$ V)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/7/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Electrolytic Cells and Electrolysis",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Electrochemistry",
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate the emf of the following cell at 25 $^\\circ$C : $Zn(s)\\,|\\,Zn^{2+}(0{\\cdot}1\\,M)\\,\\|\\,H^+(0{\\cdot}01\\,M)\\,|\\,H_2(g)\\,(1\\ bar),\\,Pt(s)$. [Given : $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V, $E^\\circ_{2H^+/H_2} = 0{\\cdot}00$ V, log 10 $= 1$] (ii) State Faraday's second law of electrolysis. How much electricity is required in terms of Faraday for the reduction of 1 mol of $Cr_2O_7^{2-}$ to $Cr^{3+}$ ?",
-     "or": {
-      "text": "Answer the following questions : (i) The conductivity of $0{\\cdot}20$ M solution of KCl is $2{\\cdot}48 \\times 10^{-2}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation ($\\alpha$). [Given : $\\lambda^\\circ_{(K^+)} = 73{\\cdot}5$ S cm$^2$ mol$^{-1}$, $\\lambda^\\circ_{(Cl^-)} = 76{\\cdot}5$ S cm$^2$ mol$^{-1}$] (ii) Calculate $\\Delta_r G^\\circ$ of the following cell : $Mg(s) + Cu^{2+}(aq) \\longrightarrow Mg^{2+}(aq) + Cu(s)$. [Given : $E^\\circ_{Mg^{2+}/Mg} = -2{\\cdot}37$ V, $E^\\circ_{Cu^{2+}/Cu} = +0{\\cdot}34$ V, 1 F $= 96500$ C mol$^{-1}$] (iii) What type of cell is mercury cell ? Why is it more advantageous than dry cell ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -2807,6 +3179,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) The conductivity of $0{\\cdot}20$ M solution of KCl is $2{\\cdot}48 \\times 10^{-2}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation ($\\alpha$). [Given : $\\lambda^\\circ_{(K^+)} = 73{\\cdot}5$ S cm$^2$ mol$^{-1}$, $\\lambda^\\circ_{(Cl^-)} = 76{\\cdot}5$ S cm$^2$ mol$^{-1}$] (ii) Calculate $\\Delta_r G^\\circ$ of the following cell : $Mg(s) + Cu^{2+}(aq) \\longrightarrow Mg^{2+}(aq) + Cu(s)$. [Given : $E^\\circ_{Mg^{2+}/Mg} = -2{\\cdot}37$ V, $E^\\circ_{Cu^{2+}/Cu} = +0{\\cdot}34$ V, 1 F $= 96500$ C mol$^{-1}$] (iii) What type of cell is mercury cell ? Why is it more advantageous than dry cell ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/7/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Batteries",
+     "figures": []
     },
     {
      "qno": 5,
@@ -2837,9 +3227,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Answer the following : (i) Why is the Equilibrium Constant ($K_c$) related to $E^\\circ_{cell}$ and not to $E_{cell}$ ? (ii) Two metals 'A' and 'B' have standard electrode potential values of $-0{\\cdot}24$ V and $+0{\\cdot}80$ V respectively. Which of these will liberate hydrogen gas from dil. $H_2SO_4$ ? (iii) Write the cell reaction which occurs in lead storage battery when it is in charging.",
-     "or": {
-      "text": "What type of battery is Mercury cell ? Why it is more advantageous than dry cell ? Write overall reaction taking place in Mercury cell."
-     },
      "papers": [
       {
        "year": 2026,
@@ -2852,14 +3239,29 @@
      "topic": "Batteries"
     },
     {
+     "qno": 23,
+     "chapter": "Electrochemistry",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "What type of battery is Mercury cell ? Why it is more advantageous than dry cell ? Write overall reaction taking place in Mercury cell.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Batteries",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Electrochemistry",
      "type": "Long Answer",
      "marks": 5,
      "text": "Calculate emf and $\\Delta G$ for the following cell at 298 K : $Mg(s)\\,/\\,Mg^{2+}(0{\\cdot}01\\,M)\\,//\\,Ag^+(0{\\cdot}001\\,M)\\,/\\,Ag(s)$. Given : $E^\\circ_{Mg^{2+}/Mg} = -2{\\cdot}37$ V, $E^\\circ_{Ag^+/Ag} = +0{\\cdot}80$ V. [1 F $= 96500$ C mol$^{-1}$, log 10 $= 1$]",
-     "or": {
-      "text": "For the reaction : $2AgCl(s) + H_2(g)\\,(0{\\cdot}4\\ atm) \\longrightarrow 2Ag(s) + 2H^+(0{\\cdot}1\\,M) + 2Cl^-(0{\\cdot}2\\,M)$. Calculate emf of the cell at 25 $^\\circ$C. Given : $\\Delta G^\\circ = -43500$ J mol$^{-1}$. [log 10 $= 1$, 1 F $= 96500$ C mol$^{-1}$]"
-     },
      "papers": [
       {
        "year": 2026,
@@ -2870,6 +3272,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Galvanic Cells"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "For the reaction : $2AgCl(s) + H_2(g)\\,(0{\\cdot}4\\ atm) \\longrightarrow 2Ag(s) + 2H^+(0{\\cdot}1\\,M) + 2Cl^-(0{\\cdot}2\\,M)$. Calculate emf of the cell at 25 $^\\circ$C. Given : $\\Delta G^\\circ = -43500$ J mol$^{-1}$. [log 10 $= 1$, 1 F $= 96500$ C mol$^{-1}$]",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Nernst Equation",
+     "figures": []
     },
     {
      "qno": 1,
@@ -2917,9 +3337,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) The conductivity of $0{\\cdot}1$ mol L$^{-1}$ solution of NaCl is $1{\\cdot}06 \\times 10^{-2}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation. $\\lambda^\\circ_{Na^+} = 50{\\cdot}1$ S cm$^2$ mol$^{-1}$, $\\lambda^\\circ_{Cl^-} = 76{\\cdot}5$ S cm$^2$ mol$^{-1}$. (b) (i) Following cell reaction occurs in a galvanic cell : $2Ag^+(aq) + Zn(s) \\to 2Ag(s) + Zn^{2+}(aq)$, $E^\\circ_{cell} = +1{\\cdot}56$ V. Predict the direction of flow of current. (ii) Differentiate between a primary battery and a secondary battery.",
-     "or": {
-      "text": "(a) Resistance of a conductivity cell filled with $0{\\cdot}1$ M KCl solution is 100 $\\Omega$. If the resistance of the same cell when filled with $0{\\cdot}01$ mol L$^{-1}$ KCl solution is 300 $\\Omega$, calculate the conductivity and molar conductivity of $0{\\cdot}01$ mol L$^{-1}$ KCl solution. The conductivity of $0{\\cdot}1$ M KCl solution is $1{\\cdot}29 \\times 10^{-2}$ S cm$^{-1}$. (b) (i) Write any two advantages of $H_2 - O_2$ fuel cell. (ii) Why does the cell potential of mercury cell remain constant throughout the life ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -2930,6 +3347,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Batteries"
+    },
+    {
+     "qno": 32,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Resistance of a conductivity cell filled with $0{\\cdot}1$ M KCl solution is 100 $\\Omega$. If the resistance of the same cell when filled with $0{\\cdot}01$ mol L$^{-1}$ KCl solution is 300 $\\Omega$, calculate the conductivity and molar conductivity of $0{\\cdot}01$ mol L$^{-1}$ KCl solution. The conductivity of $0{\\cdot}1$ M KCl solution is $1{\\cdot}29 \\times 10^{-2}$ S cm$^{-1}$. (b) (i) Write any two advantages of $H_2 - O_2$ fuel cell. (ii) Why does the cell potential of mercury cell remain constant throughout the life ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Fuel Cells",
+     "figures": []
     },
     {
      "qno": 10,
@@ -2977,9 +3412,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate the electrode potential of a half-cell for zinc electrode dipping in $0{\\cdot}01$ M $ZnSO_4$ solution at 25 $^\\circ$C. Given : $E^\\circ_{Zn^{2+}/Zn} = -0{\\cdot}76$ V [log 10 $= 1$]. (ii) Write anode, cathode and overall reaction involved in dry cell. (iii) Equilibrium constant ($K_c$) is related to $E^\\circ_{cell}$, but not to $E_{cell}$. Why ?",
-     "or": {
-      "text": "(i) The conductivity of $0{\\cdot}001$ M solution of acetic acid is $3{\\cdot}905 \\times 10^{-5}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation ($\\alpha$). Given : $\\lambda^\\circ_{CH_3COO^-} = 40{\\cdot}9$ S cm$^2$ mol$^{-1}$, $\\lambda^\\circ_{H^+} = 349{\\cdot}6$ S cm$^2$ mol$^{-1}$. (ii) Give reasons for the following : (I) Why does a mercury cell deliver a constant voltage for its entire life ? (II) Why is it necessary to use salt bridge in a galvanic cell ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -2990,6 +3422,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Batteries"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) The conductivity of $0{\\cdot}001$ M solution of acetic acid is $3{\\cdot}905 \\times 10^{-5}$ S cm$^{-1}$. Calculate its molar conductivity and degree of dissociation ($\\alpha$). Given : $\\lambda^\\circ_{CH_3COO^-} = 40{\\cdot}9$ S cm$^2$ mol$^{-1}$, $\\lambda^\\circ_{H^+} = 349{\\cdot}6$ S cm$^2$ mol$^{-1}$. (ii) Give reasons for the following : (I) Why does a mercury cell deliver a constant voltage for its entire life ? (II) Why is it necessary to use salt bridge in a galvanic cell ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Batteries",
+     "figures": []
     },
     {
      "qno": 9,
@@ -3037,9 +3487,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Calculate $E^\\circ_{cell}$ for the following reaction which is at equilibrium : $Cu(s) + 2Ag^+(aq) \\to Cu^{2+}(aq) + 2Ag(s)$. Equilibrium constant ($K_c$) for the cell is $10^{15}$. [Given : log 10 $= 1$] (ii) Write anode, cathode and overall reaction of lead storage battery when it is in use. (iii) How much electricity is required in coulombs for the oxidation of 1 mol of FeO to $Fe_2O_3$ ?",
-     "or": {
-      "text": "(i) Conductivity of $0{\\cdot}0024$ M acetic acid is $7{\\cdot}2 \\times 10^{-5}$ S cm$^{-1}$. If $\\Lambda_m^\\circ$ for acetic acid is $390{\\cdot}5$ S cm$^2$ mol$^{-1}$, then calculate the degree of dissociation ($\\alpha$) of acetic acid. (ii) Calculate the cell potential for the following half cell reaction at 25 $^\\circ$C : $Ag^+(aq) + 1e^- \\to Ag(s)$. Given that : $[Ag^+] = 0{\\cdot}01$ M and $E^\\circ_{Ag^+/Ag} = +0{\\cdot}80$ V [log 10 $= 1$] (iii) Write the name of the electrolyte used in : (I) Dry cell (II) Fuel cell ($H_2 - O_2$)"
-     },
      "papers": [
       {
        "year": 2026,
@@ -3050,6 +3497,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Batteries"
+    },
+    {
+     "qno": 33,
+     "chapter": "Electrochemistry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Conductivity of $0{\\cdot}0024$ M acetic acid is $7{\\cdot}2 \\times 10^{-5}$ S cm$^{-1}$. If $\\Lambda_m^\\circ$ for acetic acid is $390{\\cdot}5$ S cm$^2$ mol$^{-1}$, then calculate the degree of dissociation ($\\alpha$) of acetic acid. (ii) Calculate the cell potential for the following half cell reaction at 25 $^\\circ$C : $Ag^+(aq) + 1e^- \\to Ag(s)$. Given that : $[Ag^+] = 0{\\cdot}01$ M and $E^\\circ_{Ag^+/Ag} = +0{\\cdot}80$ V [log 10 $= 1$] (iii) Write the name of the electrolyte used in : (I) Dry cell (II) Fuel cell ($H_2 - O_2$)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Fuel Cells",
+     "figures": []
     },
     {
      "qno": 18,
@@ -3116,7 +3581,7 @@
   },
   {
    "chapter": "Chemical Kinetics",
-   "count": 81,
+   "count": 86,
    "questions": [
     {
      "qno": 5,
@@ -3195,9 +3660,6 @@
      "type": "Case-based",
      "marks": 4,
      "text": "The rate of reaction is concerned with decrease in concentration of reactants or increase in the concentration of products per unit time. It can be expressed as instantaneous rate at a particular instant of time and average rate over a large interval of time. Mathematical representation of rate of reaction is given by rate law. Rate constant and order of a reaction can be determined from rate law or its integrated rate equation. (i) What is average rate of reaction ? (ii) Write two factors that affect the rate of reaction. (iii) (1) What happens to rate of reaction for zero order reaction ? (2) What is the unit of k for zero order reaction ?",
-     "or": {
-      "text": "(iii) (1) For a reaction $P + 2Q \\longrightarrow$ Products, Rate $= k[P]^{1/2}[Q]^1$. What is the order of the reaction ? (2) Define pseudo first order reaction with an example."
-     },
      "papers": [
       {
        "year": 2023,
@@ -3208,6 +3670,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrated Rate Equations"
+    },
+    {
+     "qno": 31,
+     "chapter": "Chemical Kinetics",
+     "type": "Case-based",
+     "marks": 4,
+     "text": "(iii) (1) For a reaction $P + 2Q \\longrightarrow$ Products, Rate $= k[P]^{1/2}[Q]^1$. What is the order of the reaction ? (2) Define pseudo first order reaction with an example.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrated Rate Equations",
+     "figures": []
     },
     {
      "qno": 4,
@@ -4122,9 +4602,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "The rate constant for a zero order reaction A $\\to$ P is $0{\\cdot}0030$ mol L$^{-1}$ s$^{-1}$. How long will it take for the initial concentration of A to fall from $0{\\cdot}10$ M to $0{\\cdot}075$ M ?",
-     "or": {
-      "text": "The decomposition of $NH_3$ on platinum surface is zero order reaction. What are the rates of production of $N_2$ and $H_2$ if $k = 2{\\cdot}5 \\times 10^{-4}$ mol L$^{-1}$ s$^{-1}$ ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -4135,6 +4612,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrated Rate Equations"
+    },
+    {
+     "qno": 17,
+     "chapter": "Chemical Kinetics",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "The decomposition of $NH_3$ on platinum surface is zero order reaction. What are the rates of production of $N_2$ and $H_2$ if $k = 2{\\cdot}5 \\times 10^{-4}$ mol L$^{-1}$ s$^{-1}$ ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/2/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrated Rate Equations",
+     "figures": []
     },
     {
      "qno": 18,
@@ -4183,9 +4678,6 @@
        ]
       ]
      },
-     "or": {
-      "text": "The reaction between $H_2(g)$ and $I_2(g)$ was carried out in a sealed isothermal container. The rate law for the reaction was found to be : Rate $= k[H_2][I_2]$. If 1 mole of $H_2(g)$ was added to the reaction chamber and the temperature was kept constant, then predict the change in rate of the reaction and the rate constant."
-     },
      "papers": [
       {
        "year": 2025,
@@ -4198,14 +4690,29 @@
      "topic": "Rate of a Chemical Reaction"
     },
     {
+     "qno": 17,
+     "chapter": "Chemical Kinetics",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "The reaction between $H_2(g)$ and $I_2(g)$ was carried out in a sealed isothermal container. The rate law for the reaction was found to be : Rate $= k[H_2][I_2]$. If 1 mole of $H_2(g)$ was added to the reaction chamber and the temperature was kept constant, then predict the change in rate of the reaction and the rate constant.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/4/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrated Rate Equations",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Chemical Kinetics",
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) The initial concentration of $N_2O_5$ in the first order reaction : $N_2O_5(g) \\to 2NO_2(g) + \\tfrac{1}{2}O_2(g)$ was $1{\\cdot}2 \\times 10^{-2}$ mol L$^{-1}$. The concentration of $N_2O_5$ after 60 minutes was $0{\\cdot}2 \\times 10^{-2}$ mol L$^{-1}$. Calculate the rate constant of the reaction at 318 K. [log 6 $= 0{\\cdot}778$] (ii) Account for the following : (I) We cannot determine the order of a reaction by taking into consideration the balanced chemical equation. (II) A bimolecular reaction may become kinetically of first order under a specified condition.",
-     "or": {
-      "text": "(i) The rate of the chemical reaction doubles for an increase of 10 K in absolute temperature from 298 K. Calculate activation energy ($E_a$). [$2{\\cdot}303$ R $= 19{\\cdot}15$ JK$^{-1}$ mol$^{-1}$, log 2 $= 0{\\cdot}3$] (ii) For a reaction : $2H_2O_2 \\xrightarrow{\\;I^-\\;} 2H_2O + O_2$ the proposed mechanism is as given below : (I) $H_2O_2 + I^- \\longrightarrow H_2O + IO^-$ (slow) (II) $H_2O_2 + IO^- \\longrightarrow H_2O + I^- + O_2$ (fast). (1) Write rate law for the reaction. (2) Write the overall order and molecularity of the reaction."
-     },
      "papers": [
       {
        "year": 2025,
@@ -4216,6 +4723,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrated Rate Equations"
+    },
+    {
+     "qno": 33,
+     "chapter": "Chemical Kinetics",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) The rate of the chemical reaction doubles for an increase of 10 K in absolute temperature from 298 K. Calculate activation energy ($E_a$). [$2{\\cdot}303$ R $= 19{\\cdot}15$ JK$^{-1}$ mol$^{-1}$, log 2 $= 0{\\cdot}3$] (ii) For a reaction : $2H_2O_2 \\xrightarrow{\\;I^-\\;} 2H_2O + O_2$ the proposed mechanism is as given below : (I) $H_2O_2 + I^- \\longrightarrow H_2O + IO^-$ (slow) (II) $H_2O_2 + IO^- \\longrightarrow H_2O + I^- + O_2$ (fast). (1) Write rate law for the reaction. (2) Write the overall order and molecularity of the reaction.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Temperature Dependence of the Rate of a Reaction",
+     "figures": []
     },
     {
      "qno": 1,
@@ -4714,9 +5239,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "The concentration of the reactant is reduced from $0{\\cdot}6$ mol L$^{-1}$ to $0{\\cdot}2$ mol L$^{-1}$ in 5 minutes in a first order reaction. Calculate rate constant of the reaction. (log 3 $= 0{\\cdot}48$)",
-     "or": {
-      "text": "Rate constant k for the first order reaction is $2{\\cdot}54 \\times 10^{-3}$ s$^{-1}$. Calculate the time required for three-fourth of the reactant to decompose. (log 4 $= 0{\\cdot}60$)"
-     },
      "papers": [
       {
        "year": 2026,
@@ -4727,6 +5249,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrated Rate Equations"
+    },
+    {
+     "qno": 17,
+     "chapter": "Chemical Kinetics",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Rate constant k for the first order reaction is $2{\\cdot}54 \\times 10^{-3}$ s$^{-1}$. Calculate the time required for three-fourth of the reactant to decompose. (log 4 $= 0{\\cdot}60$)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/2/1",
+       "qno": "17-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrated Rate Equations",
+     "figures": []
     },
     {
      "qno": 18,
@@ -4977,7 +5517,7 @@
   },
   {
    "chapter": "The d- and f-Block Elements",
-   "count": 66,
+   "count": 78,
    "questions": [
     {
      "qno": 7,
@@ -5090,9 +5630,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(I) Account for the following : (i) E° value for $Mn^{3+}/Mn^{2+}$ couple is much more positive than that for $Cr^{3+}/Cr^{2+}$. (ii) $Sc^{3+}$ is colourless whereas $Ti^{3+}$ is coloured in an aqueous solution. (iii) Actinoids show wide range of oxidation states. (II) Write the chemical equations for the preparation of $KMnO_4$ from $MnO_2$.",
-     "or": {
-      "text": "(I) Account for the following : (i) Transition metals form alloys. (ii) $Ce^{4+}$ is a strong oxidising agent. (II) Write one similarity and one difference between chemistry of Lanthanoids and Actinoids. (III) Complete the following ionic equation : $Cr_2O_7^{2-} + 2OH^- \\longrightarrow$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -5103,6 +5640,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Actinoids"
+    },
+    {
+     "qno": 33,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(I) Account for the following : (i) Transition metals form alloys. (ii) $Ce^{4+}$ is a strong oxidising agent. (II) Write one similarity and one difference between chemistry of Lanthanoids and Actinoids. (III) Complete the following ionic equation : $Cr_2O_7^{2-} + 2OH^- \\longrightarrow$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Actinoids",
+     "figures": []
     },
     {
      "qno": 11,
@@ -5158,9 +5713,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (1) Transition metals form complex compounds. (2) The $E^\\circ_{Mn^{2+}/Mn}$ value for manganese is highly negative whereas $E^\\circ_{Mn^{3+}/Mn^{2+}}$ is highly positive. (3) $Cu^+$ ion is unstable in aqueous solution. (ii) Write the equations involved in the preparation of $KMnO_4$ from Pyrolusite ore ($MnO_2$).",
-     "or": {
-      "text": "(i) Identify the following : (1) Transition metal of 3d series that exhibits only one oxidation state. (2) Transition metal of 3d series that acts as a strong reducing agent in $+2$ oxidation state in aqueous solution. (ii) Complete and balance the following equations : (1) $Cr_2O_7^{2-} + 14H^+ + 6Fe^{2+} \\longrightarrow$ (2) $KMnO_4 \\xrightarrow{\\;\\text{heat}\\;}$ (iii) What is Misch metal ? Write its one use."
-     },
      "papers": [
       {
        "year": 2023,
@@ -5171,6 +5723,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)"
+    },
+    {
+     "qno": 33,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Identify the following : (1) Transition metal of 3d series that exhibits only one oxidation state. (2) Transition metal of 3d series that acts as a strong reducing agent in $+2$ oxidation state in aqueous solution. (ii) Complete and balance the following equations : (1) $Cr_2O_7^{2-} + 14H^+ + 6Fe^{2+} \\longrightarrow$ (2) $KMnO_4 \\xrightarrow{\\;\\text{heat}\\;}$ (iii) What is Misch metal ? Write its one use.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General Properties of the Transition Elements (d-Block)",
+     "figures": []
     },
     {
      "qno": 4,
@@ -5226,9 +5796,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (1) $Zn^{2+}$ salts are colourless while $Ni^{2+}$ salts are coloured. (2) $Cr^{2+}$ is a strong reducing agent. (3) Transition metals and their compounds show catalytic activities. (ii) Write the ionic equations for the oxidizing action of $MnO_4^-$ in acidic medium with (1) $I^-$ ion, and (2) $Fe^{2+}$ ion.",
-     "or": {
-      "text": "(i) Name two oxometal anions of the 3d series of the transition metals in which the metal exhibits the oxidation state equal to its group number. (ii) What is the effect of increasing pH on a solution of $K_2Cr_2O_7$ ? (iii) Why is $Cu^+$ not stable in aqueous solution ? (iv) Name a member of Lanthanoid series which is well-known to exhibit $+4$ oxidation state. (v) Name two elements of 3d series which show anomalous electronic configuration."
-     },
      "papers": [
       {
        "year": 2023,
@@ -5239,6 +5806,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)"
+    },
+    {
+     "qno": 34,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Name two oxometal anions of the 3d series of the transition metals in which the metal exhibits the oxidation state equal to its group number. (ii) What is the effect of increasing pH on a solution of $K_2Cr_2O_7$ ? (iii) Why is $Cu^+$ not stable in aqueous solution ? (iv) Name a member of Lanthanoid series which is well-known to exhibit $+4$ oxidation state. (v) Name two elements of 3d series which show anomalous electronic configuration.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/4/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Lanthanoids",
+     "figures": []
     },
     {
      "qno": 5,
@@ -5360,9 +5945,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (1) The melting and boiling points of Zn, Cd and Hg are low. (2) Of the $d^4$ species, $Cr^{2+}$ is strongly reducing while $Mn^{3+}$ is strongly oxidizing. (3) $E^\\circ$ value of $Cu^{2+}/Cu$ is $+0{\\cdot}34$ V. (ii) Complete and balance the following chemical equations : (1) $KMnO_4 \\xrightarrow{\\;heat\\;}$ (2) $Cr_2O_7^{2-} + 6I^- + 14H^+ \\longrightarrow$",
-     "or": {
-      "text": "(i) Out of $Cu_2Cl_2$ and $CuCl_2$, which is more stable in aqueous solution and why ? (ii) Write the general electronic configuration of f-block elements. (iii) Predict which of the following will be coloured in aqueous solution and why ? $Sc^{3+}$, $Fe^{3+}$, $Zn^{2+}$ [Atomic number : Sc $= 21$, Fe $= 26$, Zn $= 30$] (iv) How can you obtain potassium dichromate from sodium chromate ? (v) Why do transition metals and their compounds show catalytic activities ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -5373,6 +5955,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)"
+    },
+    {
+     "qno": 33,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Out of $Cu_2Cl_2$ and $CuCl_2$, which is more stable in aqueous solution and why ? (ii) Write the general electronic configuration of f-block elements. (iii) Predict which of the following will be coloured in aqueous solution and why ? $Sc^{3+}$, $Fe^{3+}$, $Zn^{2+}$ [Atomic number : Sc $= 21$, Fe $= 26$, Zn $= 30$] (iv) How can you obtain potassium dichromate from sodium chromate ? (v) Why do transition metals and their compounds show catalytic activities ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Lanthanoids",
+     "figures": []
     },
     {
      "qno": 1,
@@ -5403,9 +6003,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "What is lanthanoid contraction ? Actinoid contraction is greater from element to element than lanthanoid contraction. Why ?",
-     "or": {
-      "text": "Why do transition metals have high enthalpy of atomization ? Which element of 3d-series has lowest enthalpy of atomization ?"
-     },
      "papers": [
       {
        "year": 2024,
@@ -5416,6 +6013,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Actinoids"
+    },
+    {
+     "qno": 19,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Why do transition metals have high enthalpy of atomization ? Which element of 3d-series has lowest enthalpy of atomization ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/2/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General Properties of the Transition Elements (d-Block)",
+     "figures": []
     },
     {
      "qno": 30,
@@ -5959,9 +6574,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) When pyrolusite ore is fused with KOH, in presence of air, a dark green coloured product 'A' is obtained which changes to purple coloured compound 'B' in acidic medium. (I) Write the formulae of 'A' and 'B'. (II) Write the ionic equation for the reaction when compound 'B' reacts with $Fe^{2+}$ in acidic medium. (ii) Give reasons : (I) $Ce^{4+}$ in aqueous solution is a good oxidising agent. (II) The actinoid contraction is greater from element to element than lanthanoid contraction. (III) $E^\\circ_{Zn^{2+}/Zn}$ value is more negative than expected, whereas $E^\\circ_{Cu^{2+}/Cu}$ is positive.",
-     "or": {
-      "text": "(i) While studying the periodic properties, Arti came across an abnormal behaviour in the atomic size of Hf. She found that, even though Hf is placed below Zr in the same group, both have almost similar atomic sizes. (I) Which phenomenon is responsible for the above behaviour ? Define it. (II) Mention any other consequence of the above phenomenon. (ii) Give reasons for the following : (I) Transition metals exhibit catalytic properties. (II) Transition metals have high enthalpy of atomisation. (III) Sc is a transition element, while Zn is not."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5972,6 +6584,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Actinoids"
+    },
+    {
+     "qno": 33,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) While studying the periodic properties, Arti came across an abnormal behaviour in the atomic size of Hf. She found that, even though Hf is placed below Zr in the same group, both have almost similar atomic sizes. (I) Which phenomenon is responsible for the above behaviour ? Define it. (II) Mention any other consequence of the above phenomenon. (ii) Give reasons for the following : (I) Transition metals exhibit catalytic properties. (II) Transition metals have high enthalpy of atomisation. (III) Sc is a transition element, while Zn is not.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General Properties of the Transition Elements (d-Block)",
+     "figures": []
     },
     {
      "qno": 5,
@@ -6032,9 +6662,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (I) Orange colour of $Cr_2O_7^{2-}$ ion changes to yellow when treated with an alkali. (II) Zn, Cd and Hg are non-transition elements. (III) $E^\\circ$ value for $Mn^{3+}/Mn^{2+}$ couple is highly positive ($+1{\\cdot}57$ V) as compared to $Cr^{3+}/Cr^{2+}$. (ii) What happens when : (I) Manganate ion undergoes disproportionation reaction in acidic medium ? (II) $KMnO_4$ is heated ?",
-     "or": {
-      "text": "Answer the following questions : (i) What is 'Misch metal' ? Give its one use. (ii) Write the formula of an oxoanion of chromium in which it shows the oxidation state equal to its group number. (iii) Why does Vanadium pentoxide ($V_2O_5$) act as a catalyst ? (iv) Why do transition elements have high enthalpies of atomisation ? (v) How do you prepare $Na_2Cr_2O_7$ from $Na_2CrO_4$ ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -6045,6 +6672,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)"
+    },
+    {
+     "qno": 32,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) What is 'Misch metal' ? Give its one use. (ii) Write the formula of an oxoanion of chromium in which it shows the oxidation state equal to its group number. (iii) Why does Vanadium pentoxide ($V_2O_5$) act as a catalyst ? (iv) Why do transition elements have high enthalpies of atomisation ? (v) How do you prepare $Na_2Cr_2O_7$ from $Na_2CrO_4$ ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/6/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Some Important Compounds of Transition Elements",
+     "figures": []
     },
     {
      "qno": 1,
@@ -6100,9 +6745,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (I) The $E^\\circ_{Mn^{2+}/Mn}$ value for manganese is highly negative, whereas $E^\\circ_{Mn^{3+}/Mn^{2+}}$ is highly positive. (II) Actinoids show wide range of oxidation states. (III) Transition metals have high melting points. (ii) Complete the following ionic equations : (I) $5SO_3^{2-} + 2MnO_4^- + 6H^+ \\longrightarrow$ (II) $2MnO_4^- + H_2O + I^- \\longrightarrow$",
-     "or": {
-      "text": "Answer the following questions : (i) Name two elements of 3d series for which the third ionisation enthalpies are quite high. (ii) Out of $KMnO_4$ and $K_2MnO_4$, which one is paramagnetic and why ? (iii) Write any one consequence of lanthanoid contraction. (iv) How do you prepare potassium manganate from pyrolusite ore ? (v) Why is the ability of oxygen more than fluorine to stabilise higher oxidation states of transition metals ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -6113,6 +6755,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Actinoids"
+    },
+    {
+     "qno": 31,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) Name two elements of 3d series for which the third ionisation enthalpies are quite high. (ii) Out of $KMnO_4$ and $K_2MnO_4$, which one is paramagnetic and why ? (iii) Write any one consequence of lanthanoid contraction. (iv) How do you prepare potassium manganate from pyrolusite ore ? (v) Why is the ability of oxygen more than fluorine to stabilise higher oxidation states of transition metals ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/7/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Lanthanoids",
+     "figures": []
     },
     {
      "qno": 3,
@@ -6167,9 +6827,6 @@
        ]
       ]
      },
-     "or": {
-      "text": "Answer the following questions : (i) Name a member of the lanthanoid series (I) which exhibits +4 oxidation state (II) which exhibits +2 oxidation state. (ii) Why transition metals act as good catalyst ? (iii) Why Cr has higher melting point than Mn ? (iv) What happens when acidic solution of potassium permanganate is allowed to stand for sometime ? Give the equation involved. What is this type of reaction called ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -6180,6 +6837,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Some Important Compounds of Transition Elements"
+    },
+    {
+     "qno": 32,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) Name a member of the lanthanoid series (I) which exhibits +4 oxidation state (II) which exhibits +2 oxidation state. (ii) Why transition metals act as good catalyst ? (iii) Why Cr has higher melting point than Mn ? (iv) What happens when acidic solution of potassium permanganate is allowed to stand for sometime ? Give the equation involved. What is this type of reaction called ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Lanthanoids",
+     "figures": []
     },
     {
      "qno": 4,
@@ -6317,9 +6992,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Describe giving reason which one of the following pairs has the property indicated : (I) Fe or Cu $-$ higher melting point (II) $Ti^{3+}$ or $Sc^{3+}$ $-$ coloured in aqueous solution (III) Cr or Zn $-$ higher third ionisation enthalpy. (ii) Write the ionic equations for the oxidizing action of $MnO_4^-$ in acidic medium with : (I) $Fe^{2+}$ ion (II) $I^-$ ion",
-     "or": {
-      "text": "(i) A black-brown coloured solid (A) when fused with KOH in the presence of air, produces a dark green coloured compound (B) which on electrolytic oxidation in alkaline medium gives a dark purple coloured compound (C). Identify (A), (B) and (C). Write the reactions involved. (ii) What happens when an acidic solution of the green compound (B) is allowed to stand for some time ? Also write the equation involved. What is this type of reaction called ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -6330,6 +7002,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)"
+    },
+    {
+     "qno": 31,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) A black-brown coloured solid (A) when fused with KOH in the presence of air, produces a dark green coloured compound (B) which on electrolytic oxidation in alkaline medium gives a dark purple coloured compound (C). Identify (A), (B) and (C). Write the reactions involved. (ii) What happens when an acidic solution of the green compound (B) is allowed to stand for some time ? Also write the equation involved. What is this type of reaction called ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General Properties of the Transition Elements (d-Block)",
+     "figures": []
     },
     {
      "qno": 5,
@@ -6385,9 +7075,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (I) MnO is basic while $Mn_2O_7$ is acidic. (II) Iron has higher enthalpy of atomization than that of copper. (III) $Mn^{3+}$ is a stronger oxidising agent than $Cr^{3+}$. (ii) How do you prepare potassium dichromate from sodium chromate ? Write balanced chemical equation for each step.",
-     "or": {
-      "text": "Answer the following questions : (i) Why is chemistry of actinoids more complicated as compared to lanthanoids ? (ii) $E^\\circ_{M^{2+}/M}$ values are not regular for first row transition elements (3d series). Why ? (iii) Identify the following : (I) Oxoanion of chromium which is stable in acidic medium. (II) The lanthanoid element that exhibits +4 oxidation state. (iv) Write the products obtained on heating $KMnO_4$. (v) Predict which of the following ions will be coloured in aqueous solution : $Cu^+$, $Sc^{3+}$, $Fe^{2+}$, $Ti^{3+}$, $Zn^{2+}$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -6398,6 +7085,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Some Important Compounds of Transition Elements"
+    },
+    {
+     "qno": 31,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) Why is chemistry of actinoids more complicated as compared to lanthanoids ? (ii) $E^\\circ_{M^{2+}/M}$ values are not regular for first row transition elements (3d series). Why ? (iii) Identify the following : (I) Oxoanion of chromium which is stable in acidic medium. (II) The lanthanoid element that exhibits +4 oxidation state. (iv) Write the products obtained on heating $KMnO_4$. (v) Predict which of the following ions will be coloured in aqueous solution : $Cu^+$, $Sc^{3+}$, $Fe^{2+}$, $Ti^{3+}$, $Zn^{2+}$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/4/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Actinoids",
+     "figures": []
     },
     {
      "qno": 4,
@@ -6453,9 +7158,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) (I) Why do transition metals show variable oxidation states ? (II) Out of $Mn^{2+}$ and $Ti^{2+}$ which will be more paramagnetic and why ? [Atomic No. : Ti $= 22$, Mn $= 25$] (III) Which ion is the strongest oxidising agent in the options given below : $Cr^{3+}$, $V^{3+}$, $Mn^{3+}$. Give reason. [Atomic No. : Cr $= 24$, V $= 23$, Mn $= 25$] (ii) Complete and balance the following equations : (I) $2MnO_2 + 4KOH + O_2 \\longrightarrow$ (II) $5C_2O_4^{2-} + 2MnO_4^- + 16H^+ \\longrightarrow$",
-     "or": {
-      "text": "(i) What is meant by lanthanoid contraction ? (ii) Why do transition metals form coloured compounds ? (iii) Why are $E^\\circ_{M^{2+}/M}$ values for Mn and Zn more negative than expected ? (iv) Which is the most stable oxidation state of Cu and why ? (v) Why is $Ce^{4+}$ in aqueous solution a good oxidising agent ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -6466,6 +7168,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)"
+    },
+    {
+     "qno": 32,
+     "chapter": "The d- and f-Block Elements",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) What is meant by lanthanoid contraction ? (ii) Why do transition metals form coloured compounds ? (iii) Why are $E^\\circ_{M^{2+}/M}$ values for Mn and Zn more negative than expected ? (iv) Which is the most stable oxidation state of Cu and why ? (v) Why is $Ce^{4+}$ in aqueous solution a good oxidising agent ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "The Lanthanoids",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -6479,7 +7199,7 @@
   },
   {
    "chapter": "Coordination Compounds",
-   "count": 67,
+   "count": 79,
    "questions": [
     {
      "qno": 8,
@@ -6535,9 +7255,6 @@
      "type": "Case-based",
      "marks": 4,
      "text": "In coordination compounds, metals show two types of linkages, primary and secondary. Primary valencies are ionisable and are satisfied by negatively charged ions. Secondary valencies are non-ionisable and are satisfied by neutral or negative ions having lone pair of electrons. Primary valencies are non-directional while secondary valencies decide the shape of the complexes. (i) If $PtCl_2 \\cdot 2NH_3$ does not react with $AgNO_3$, what will be its formula ? (ii) What is the secondary valency of $[Co(en)_3]^{3+}$ ? (iii) (1) Write the formula of Iron(III)hexacyanidoferrate(II). (2) Write the IUPAC name of $[Co(NH_3)_5Cl]Cl_2$.",
-     "or": {
-      "text": "(iii) Write the hybridization and magnetic behaviour of $[Ni(CN)_4]^{2-}$. [Atomic number : Ni $= 28$]"
-     },
      "papers": [
       {
        "year": 2023,
@@ -6548,6 +7265,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Werner's Theory of Coordination Compounds"
+    },
+    {
+     "qno": 32,
+     "chapter": "Coordination Compounds",
+     "type": "Case-based",
+     "marks": 4,
+     "text": "(iii) Write the hybridization and magnetic behaviour of $[Ni(CN)_4]^{2-}$. [Atomic number : Ni $= 28$]",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Bonding in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 2,
@@ -6601,9 +7336,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write the IUPAC names of the following : (i) $[Co(NH_3)_5(ONO)]^{2+}$ (ii) $K_2[NiCl_4]$",
-     "or": {
-      "text": "(i) What is a chelate complex ? Give one example. (ii) What are heteroleptic complexes ? Give one example."
-     },
      "papers": [
       {
        "year": 2023,
@@ -6616,14 +7348,29 @@
      "topic": "Nomenclature of Coordination Compounds"
     },
     {
+     "qno": 22,
+     "chapter": "Coordination Compounds",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(i) What is a chelate complex ? Give one example. (ii) What are heteroleptic complexes ? Give one example.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/2/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+     "figures": []
+    },
+    {
      "qno": 30,
      "chapter": "Coordination Compounds",
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) Draw the geometrical isomers of $[Co(en)_2Cl_2]^{2+}$. Which geometrical isomer of $[Co(en)_2Cl_2]^{2+}$ is not optically active and why ?",
-     "or": {
-      "text": "Write the hybridisation and magnetic behaviour of $[CoF_6]^{3-}$. [Given : Atomic number of Co $= 27$]"
-     },
      "papers": [
       {
        "year": 2023,
@@ -6634,6 +7381,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds"
+    },
+    {
+     "qno": 30,
+     "chapter": "Coordination Compounds",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Write the hybridisation and magnetic behaviour of $[CoF_6]^{3-}$. [Given : Atomic number of Co $= 27$]",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/2/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Bonding in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 12,
@@ -7165,9 +7930,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Answer the following : (a) Low spin tetrahedral complexes are not known. (b) $Co^{2+}$ is easily oxidised to $Co^{3+}$ in the presence of a strong ligand. [At. No. of Co $= 27$] (c) What type of isomerism is shown by the complex $[Co(NH_3)_6][Cr(CN)_6]$ ? (d) Why a solution of $[Ni(H_2O)_6]^{2+}$ is green while a solution of $[Ni(CN)_4]^{2-}$ is colourless ? (At. No. of Ni $= 28$) (e) Write the IUPAC name of the following complex : $[Co(NH_3)_5(CO_3)]Cl$.",
-     "or": {
-      "text": "(a) What is meant by 'Chelate effect' ? Give an example. (b) Write the hybridization and magnetic behaviour of $[Fe(CN)_6]^{4-}$. (Atomic number : Fe $= 26$) (c) If $PtCl_2 \\cdot 2NH_3$ does not react with $AgNO_3$, what will be its formula ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -7178,6 +7940,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds"
+    },
+    {
+     "qno": 32,
+     "chapter": "Coordination Compounds",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) What is meant by 'Chelate effect' ? Give an example. (b) Write the hybridization and magnetic behaviour of $[Fe(CN)_6]^{4-}$. (Atomic number : Fe $= 26$) (c) If $PtCl_2 \\cdot 2NH_3$ does not react with $AgNO_3$, what will be its formula ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 5,
@@ -7282,9 +8062,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Give reasons : (I) $[Ni(CO)_4]$ is diamagnetic whereas $[NiCl_4]^{2-}$ is paramagnetic. [Atomic number : Ni $= 28$] (II) CO is a stronger complexing agent than $NH_3$. (III) The trans isomer of complex $[Co(en)_2Cl_2]^+$ is optically inactive. (ii) Using Crystal Field theory, write the number of unpaired electrons in octahedral complexes of $Fe^{3+}$ in the presence of : (I) Strong field ligand (II) Weak field ligand. [Atomic number : Fe $= 26$]",
-     "or": {
-      "text": "(i) Name the type of isomerism exhibited by the following compounds. Also draw their corresponding isomers. (I) $[Co(NH_3)_6][Cr(CN)_6]$ (II) $[Co(en)_3]^{3+}$ (III) $[Co(NH_3)_3(NO_2)_3]$ (ii) Differentiate between weak field and strong field ligands. How does the strength of the ligand influence the spin of the complex ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -7295,6 +8072,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds"
+    },
+    {
+     "qno": 32,
+     "chapter": "Coordination Compounds",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Name the type of isomerism exhibited by the following compounds. Also draw their corresponding isomers. (I) $[Co(NH_3)_6][Cr(CN)_6]$ (II) $[Co(en)_3]^{3+}$ (III) $[Co(NH_3)_3(NO_2)_3]$ (ii) Differentiate between weak field and strong field ligands. How does the strength of the ligand influence the spin of the complex ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Isomerism in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 24,
@@ -7382,9 +8177,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write IUPAC names of the following coordination compounds : (i) $[CoCl_2(en)_2]SO_4$ (ii) $K_3[Fe(C_2O_4)_3]$",
-     "or": {
-      "text": "Differentiate between : (i) Double salt and Complex compound (ii) Didentate ligand and Ambidentate ligand"
-     },
      "papers": [
       {
        "year": 2025,
@@ -7397,14 +8189,29 @@
      "topic": "Nomenclature of Coordination Compounds"
     },
     {
+     "qno": 19,
+     "chapter": "Coordination Compounds",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Differentiate between : (i) Double salt and Complex compound (ii) Didentate ligand and Ambidentate ligand",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/6/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+     "figures": []
+    },
+    {
      "qno": 25,
      "chapter": "Coordination Compounds",
      "type": "Short Answer",
      "marks": 3,
      "text": "Answer the following about the complexes $[FeF_6]^{3-}$ and $[Fe(CN)_6]^{4-}$ : (i) Write the hybridization involved in each case. (ii) Which of them is the outer orbital complex and which one is the inner orbital complex ? (iii) Compare their magnetic behaviour. [Atomic number : Fe $= 26$]",
-     "or": {
-      "text": "(i) What happens to the colour of complex $[Ti(H_2O)_6]^{3+}$ when heated gradually ? (ii) Write the electronic configuration for $d^5$ ion if $\\Delta_o > P$. (iii) Write the hybridization and magnetic behaviour of the complex $[Ni(CO)_4]$. [Atomic number : Ni $= 28$]"
-     },
      "papers": [
       {
        "year": 2025,
@@ -7415,6 +8222,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds"
+    },
+    {
+     "qno": 25,
+     "chapter": "Coordination Compounds",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(i) What happens to the colour of complex $[Ti(H_2O)_6]^{3+}$ when heated gradually ? (ii) Write the electronic configuration for $d^5$ ion if $\\Delta_o > P$. (iii) Write the hybridization and magnetic behaviour of the complex $[Ni(CO)_4]$. [Atomic number : Ni $= 28$]",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/6/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Bonding in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 6,
@@ -7445,9 +8270,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write the IUPAC name of the complex $[Pt(en)_2Cl_2]^{2+}$. Draw the structure of geometrical isomer of this complex which is optically inactive.",
-     "or": {
-      "text": "(i) Write the formula of the following coordination compound : Pentaamminecarbonatocobalt(III)chloride (ii) Write the IUPAC name of the linkage isomer of the complex $[Co(NH_3)_5(NO_2)]Cl_2$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -7458,6 +8280,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds"
+    },
+    {
+     "qno": 19,
+     "chapter": "Coordination Compounds",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(i) Write the formula of the following coordination compound : Pentaamminecarbonatocobalt(III)chloride (ii) Write the IUPAC name of the linkage isomer of the complex $[Co(NH_3)_5(NO_2)]Cl_2$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/7/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Isomerism in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 29,
@@ -7505,9 +8345,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write IUPAC names of the following coordination compounds : (i) $[Ag(NH_3)_2][Ag(CN)_2]$ (ii) $K_3[Fe(C_2O_4)_3]$",
-     "or": {
-      "text": "(i) Give a chemical test to show that $[Co(NH_3)_5SO_4]Cl$ and $[Co(NH_3)_5Cl]SO_4$ are ionisation isomers. (ii) What is meant by the 'Chelate effect' ? Give an example."
-     },
      "papers": [
       {
        "year": 2026,
@@ -7518,6 +8355,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Nomenclature of Coordination Compounds"
+    },
+    {
+     "qno": 19,
+     "chapter": "Coordination Compounds",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(i) Give a chemical test to show that $[Co(NH_3)_5SO_4]Cl$ and $[Co(NH_3)_5Cl]SO_4$ are ionisation isomers. (ii) What is meant by the 'Chelate effect' ? Give an example.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/1/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Isomerism in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 30,
@@ -7668,9 +8523,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write IUPAC names of the following compounds : (i) $[PtCl_2(en)_2]SO_4$ (ii) $(NH_4)_2[CoF_4]$",
-     "or": {
-      "text": "Define the following terms with a suitable example in each case : (i) Ambidentate ligand (ii) Double salt"
-     },
      "papers": [
       {
        "year": 2026,
@@ -7683,14 +8535,29 @@
      "topic": "Nomenclature of Coordination Compounds"
     },
     {
+     "qno": 20,
+     "chapter": "Coordination Compounds",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Define the following terms with a suitable example in each case : (i) Ambidentate ligand (ii) Double salt",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/3/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+     "figures": []
+    },
+    {
      "qno": 25,
      "chapter": "Coordination Compounds",
      "type": "Short Answer",
      "marks": 3,
      "text": "Answer the following questions about the complexes $[NiCl_4]^{2-}$ and $[Ni(CN)_4]^{2-}$ : (i) Write the hybridization involved in each case. (ii) Which of them is the inner orbital complex and which one is the outer orbital complex ? (iii) Compare their magnetic behaviour. [Atomic number : Ni $= 28$]",
-     "or": {
-      "text": "(i) Name two coordination compounds which are important in biological systems. (ii) What is meant by chelate effect ? Give an example. (iii) Why are low spin tetrahedral complexes rarely formed ?"
-     },
      "papers": [
       {
        "year": 2026,
@@ -7701,6 +8568,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds"
+    },
+    {
+     "qno": 25,
+     "chapter": "Coordination Compounds",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(i) Name two coordination compounds which are important in biological systems. (ii) What is meant by chelate effect ? Give an example. (iii) Why are low spin tetrahedral complexes rarely formed ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/3/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 3,
@@ -7771,9 +8656,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "When a coordination compound $CoCl_3 \\cdot 6NH_3$ is mixed with excess of $AgNO_3$ solution, 3 moles of AgCl are precipitated per mole of the compound. Write the structural formula of the complex, IUPAC name, its hybridisation and magnetic behaviour on the basis of valence bond theory.",
-     "or": {
-      "text": "(i) How many geometrical isomers are possible in each of the following complexes ? (I) $[Cr(C_2O_4)_3]^{3-}$ (II) $[Co(NH_3)_3Cl_3]$ (ii) $[Co(NH_3)_6]^{3+}$ is an inner orbital complex whereas $[Ni(NH_3)_6]^{2+}$ is an outer orbital complex. Why ? [Atomic number : Co $= 27$, Ni $= 28$] (iii) Write the formula of Wilkinson catalyst and its use."
-     },
      "papers": [
       {
        "year": 2026,
@@ -7784,6 +8666,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Nomenclature of Coordination Compounds"
+    },
+    {
+     "qno": 25,
+     "chapter": "Coordination Compounds",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(i) How many geometrical isomers are possible in each of the following complexes ? (I) $[Cr(C_2O_4)_3]^{3-}$ (II) $[Co(NH_3)_3Cl_3]$ (ii) $[Co(NH_3)_6]^{3+}$ is an inner orbital complex whereas $[Ni(NH_3)_6]^{2+}$ is an outer orbital complex. Why ? [Atomic number : Co $= 27$, Ni $= 28$] (iii) Write the formula of Wilkinson catalyst and its use.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Isomerism in Coordination Compounds",
+     "figures": []
     },
     {
      "qno": 8,
@@ -7855,7 +8755,7 @@
   },
   {
    "chapter": "Haloalkanes and Haloarenes",
-   "count": 67,
+   "count": 71,
    "questions": [
     {
      "qno": 9,
@@ -8208,9 +9108,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Draw the structures of major monohalo products in each of the following reactions : (i) $C_6H_5{-}CH{=}CH_2 + HBr \\longrightarrow$ (ii) $C_6H_6 + Br_2 \\xrightarrow{\\;UV\\ light\\;}$",
-     "or": {
-      "text": "Give reasons for the following : (i) Grignard reagent should be prepared under anhydrous conditions. (ii) Alkyl halides give alcohol with aqueous KOH whereas in the presence of alcoholic KOH, alkenes are formed."
-     },
      "papers": [
       {
        "year": 2024,
@@ -8221,6 +9118,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 20,
+     "chapter": "Haloalkanes and Haloarenes",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Give reasons for the following : (i) Grignard reagent should be prepared under anhydrous conditions. (ii) Alkyl halides give alcohol with aqueous KOH whereas in the presence of alcoholic KOH, alkenes are formed.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/1/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Classification",
+     "figures": []
     },
     {
      "qno": 25,
@@ -8585,14 +9500,29 @@
      "figures": [
       "assets/figures/chem_2025_z1_q26.png"
      ],
-     "or": {
-      "text": "How do you convert : (a) Chlorobenzene to biphenyl (b) Propene to 1-Iodopropane (c) 2-bromobutane to but-2-ene."
-     },
      "papers": [
       {
        "year": 2025,
        "set": "56/1/1",
        "qno": 26
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 26,
+     "chapter": "Haloalkanes and Haloarenes",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "How do you convert : (a) Chlorobenzene to biphenyl (b) Propene to 1-Iodopropane (c) 2-bromobutane to but-2-ene.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/1/1",
+       "qno": "26-OR"
       }
      ],
      "bloom": "Apply",
@@ -8739,9 +9669,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Account for the following : (i) Allyl chloride is hydrolysed more readily than n-propyl chloride. (ii) Isocyanides are formed when alkyl halides are treated with silver cyanide. (iii) Methyl chloride reacts faster with $-OH$ ion in $S_N2$ reaction than t-butyl chloride.",
-     "or": {
-      "text": "Complete the following reactions by writing the structural formulae of 'A' and 'B' : (i) $CH_3CH{=}CH_2 \\xrightarrow[\\;\\text{Peroxide}\\;]{\\;HBr\\;} A \\xrightarrow{\\;\\text{aq. KOH}\\;} B$ (ii) $CH_3CH_2CHClCH_3 \\xrightarrow{\\;\\text{alc. KOH}\\;} A \\xrightarrow{\\;HBr\\;} B$ (iii) $A \\xrightarrow{\\;Mg\\;} CH_3CH_2MgCl \\xrightarrow[\\;H^+\\;]{\\;H_2O\\;} B$ (Main product)"
-     },
      "papers": [
       {
        "year": 2025,
@@ -8752,6 +9679,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Classification"
+    },
+    {
+     "qno": 22,
+     "chapter": "Haloalkanes and Haloarenes",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Complete the following reactions by writing the structural formulae of 'A' and 'B' : (i) $CH_3CH{=}CH_2 \\xrightarrow[\\;\\text{Peroxide}\\;]{\\;HBr\\;} A \\xrightarrow{\\;\\text{aq. KOH}\\;} B$ (ii) $CH_3CH_2CHClCH_3 \\xrightarrow{\\;\\text{alc. KOH}\\;} A \\xrightarrow{\\;HBr\\;} B$ (iii) $A \\xrightarrow{\\;Mg\\;} CH_3CH_2MgCl \\xrightarrow[\\;H^+\\;]{\\;H_2O\\;} B$ (Main product)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 2,
@@ -9222,9 +10167,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) (I) Which of the following is more reactive towards $S_N1$ reaction : 2-Bromo-2-methylbutane or 1-Bromopentane ? (II) What type of halide is present in the following compound : $CH_3{-}CH(CH_3){-}C(Cl){=}CH_2$ ? (III) Why is chloroform stored in dark coloured bottles ? (ii) Define the following terms : (I) Ambident Nucleophiles (II) Racemic mixture",
-     "or": {
-      "text": "(i) Answer the following : (I) Which isomer of $C_4H_9Br$ is most reactive towards $S_N1$ reaction ? (II) Predict the alkene that would be formed by dehydrohalogenation of 1-Bromo-1-methylcyclohexane. (III) Although chlorine shows strong $-I$ effect, yet it is ortho/para-directing in electrophilic aromatic substitution reactions. Why ? (ii) Write the major product in the following reactions : (I) $2\\,C_6H_5Cl \\xrightarrow{\\;Na/dry\\ Ether\\;}$ (II) $O_2N{-}C_6H_4{-}CH(CH_3)_2 + Br_2 \\xrightarrow{\\;heat\\;}$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9235,6 +10177,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Polyhalogen Compounds"
+    },
+    {
+     "qno": 33,
+     "chapter": "Haloalkanes and Haloarenes",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Answer the following : (I) Which isomer of $C_4H_9Br$ is most reactive towards $S_N1$ reaction ? (II) Predict the alkene that would be formed by dehydrohalogenation of 1-Bromo-1-methylcyclohexane. (III) Although chlorine shows strong $-I$ effect, yet it is ortho/para-directing in electrophilic aromatic substitution reactions. Why ? (ii) Write the major product in the following reactions : (I) $2\\,C_6H_5Cl \\xrightarrow{\\;Na/dry\\ Ether\\;}$ (II) $O_2N{-}C_6H_4{-}CH(CH_3)_2 + Br_2 \\xrightarrow{\\;heat\\;}$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -9250,7 +10210,7 @@
   },
   {
    "chapter": "Alcohols, Phenols and Ethers",
-   "count": 65,
+   "count": 71,
    "questions": [
     {
      "qno": 10,
@@ -9281,9 +10241,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Account for the following : (i) Phenol is a stronger acid than an alcohol. (ii) The boiling point of alcohols decreases with increase in branching of alkyl chain.",
-     "or": {
-      "text": "(i) Write the mechanism of the following reaction : $CH_3CH_2OH \\xrightarrow[\\;443\\ K\\;]{\\;H^+\\;} CH_2{=}CH_2 + H_2O$ (ii) Write the equation involved in Reimer-Tiemann reaction."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9294,6 +10251,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Alcohols and Phenols"
+    },
+    {
+     "qno": 23,
+     "chapter": "Alcohols, Phenols and Ethers",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(i) Write the mechanism of the following reaction : $CH_3CH_2OH \\xrightarrow[\\;443\\ K\\;]{\\;H^+\\;} CH_2{=}CH_2 + H_2O$ (ii) Write the equation involved in Reimer-Tiemann reaction.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Alcohols and Phenols",
+     "figures": []
     },
     {
      "qno": 28,
@@ -9358,9 +10333,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(i) Write the mechanism of the following reaction : $2CH_3CH_2OH \\xrightarrow[\\;413\\ K\\;]{\\;H^+\\;} CH_3{-}CH_2{-}O{-}CH_2{-}CH_3 + H_2O$ (ii) Why ortho-nitrophenol is steam volatile while para-nitrophenol is not ?",
-     "or": {
-      "text": "What happens when (i) Anisole is treated with $CH_3Cl$/anhydrous $AlCl_3$ ? (ii) Phenol is oxidised with $Na_2Cr_2O_7/H^+$ ? (iii) $(CH_3)_3C{-}OH$ is heated with $Cu/573\\ K$ ? Write chemical equation in support of your answer."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9371,6 +10343,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Alcohols and Phenols"
+    },
+    {
+     "qno": 26,
+     "chapter": "Alcohols, Phenols and Ethers",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "What happens when (i) Anisole is treated with $CH_3Cl$/anhydrous $AlCl_3$ ? (ii) Phenol is oxidised with $Na_2Cr_2O_7/H^+$ ? (iii) $(CH_3)_3C{-}OH$ is heated with $Cu/573\\ K$ ? Write chemical equation in support of your answer.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/2/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Ethers",
+     "figures": []
     },
     {
      "qno": 26,
@@ -9435,9 +10425,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(i) Write hydroboration-oxidation reaction with an example. (ii) Write the products of the following reaction : $C_6H_5OCH_3$ (anisole) $+\\ HBr \\longrightarrow$ (iii) Why is p-nitrophenol more acidic than phenol ?",
-     "or": {
-      "text": "(i) What happens when phenol reacts with (1) Conc. $HNO_3$, and (2) $CHCl_3$ in presence of aqueous NaOH followed by acidification ? Write equations only. (ii) Why does the reaction of $CH_3ONa$ with $(CH_3)_3C{-}Br$ give 2-methylpropene and not $(CH_3)_3C{-}OCH_3$ ?"
-     },
      "papers": [
       {
        "year": 2023,
@@ -9448,6 +10435,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Ethers"
+    },
+    {
+     "qno": 26,
+     "chapter": "Alcohols, Phenols and Ethers",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(i) What happens when phenol reacts with (1) Conc. $HNO_3$, and (2) $CHCl_3$ in presence of aqueous NaOH followed by acidification ? Write equations only. (ii) Why does the reaction of $CH_3ONa$ with $(CH_3)_3C{-}Br$ give 2-methylpropene and not $(CH_3)_3C{-}OCH_3$ ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/4/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Alcohols and Phenols",
+     "figures": []
     },
     {
      "qno": 2,
@@ -9495,9 +10500,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(i) Why is the C $-$ O bond length in phenols less than that in methanol ? (ii) Arrange the following in order of increasing boiling point : Ethoxyethane, Butanal, Butanol, n-butane. (iii) How can be phenol prepared from anisole ? Give reaction.",
-     "or": {
-      "text": "(i) Give mechanism of the following reaction : $CH_3CH_2OH \\xrightarrow[\\;413\\ K\\;]{\\;H_2SO_4\\;} CH_3CH_2{-}O{-}CH_2CH_3 + H_2O$ (ii) Illustrate hydroboration $-$ oxidation reaction with an example."
-     },
      "papers": [
       {
        "year": 2023,
@@ -9508,6 +10510,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Ethers"
+    },
+    {
+     "qno": 30,
+     "chapter": "Alcohols, Phenols and Ethers",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(i) Give mechanism of the following reaction : $CH_3CH_2OH \\xrightarrow[\\;413\\ K\\;]{\\;H_2SO_4\\;} CH_3CH_2{-}O{-}CH_2CH_3 + H_2O$ (ii) Illustrate hydroboration $-$ oxidation reaction with an example.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/5/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Alcohols and Phenols",
+     "figures": []
     },
     {
      "qno": 2,
@@ -10039,9 +11059,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "An organic compound 'A', molecular formula $C_2H_6O$ oxidises with $CrO_3$ to form a compound 'B'. Compound 'B' on warming with iodine and aqueous solution of NaOH gives a yellow precipitate of compound 'C'. When compound 'A' is heated with conc. $H_2SO_4$ at 413 K gives a compound 'D', which on reaction with excess HI gives compound 'E'. Identify compounds 'A', 'B', 'C', 'D' and 'E' and write chemical equations involved.",
-     "or": {
-      "text": "(a) Write chemical equations of the following reactions : (i) Phenol is treated with conc. $HNO_3$ (ii) Propene is treated with $B_2H_6$ followed by oxidation by $H_2O_2/OH^-$ (iii) Sodium t-butoxide is treated with $CH_3Cl$. (b) Give a simple chemical test to distinguish between butan$-$1$-$ol and butan$-$2$-$ol. (c) Arrange the following in increasing order of acid strength : phenol, ethanol, water"
-     },
      "papers": [
       {
        "year": 2025,
@@ -10052,6 +11069,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Alcohols and Phenols"
+    },
+    {
+     "qno": 33,
+     "chapter": "Alcohols, Phenols and Ethers",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Write chemical equations of the following reactions : (i) Phenol is treated with conc. $HNO_3$ (ii) Propene is treated with $B_2H_6$ followed by oxidation by $H_2O_2/OH^-$ (iii) Sodium t-butoxide is treated with $CH_3Cl$. (b) Give a simple chemical test to distinguish between butan$-$1$-$ol and butan$-$2$-$ol. (c) Arrange the following in increasing order of acid strength : phenol, ethanol, water",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Alcohols and Phenols",
+     "figures": []
     },
     {
      "qno": 12,
@@ -10417,9 +11452,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "An organic compound 'A', with molecular formula $C_2H_6O$ reacts with active metals such as sodium to give compound 'B' and hydrogen gas. 'A' on treatment with iodine and sodium hydroxide gives 'C' and in presence of $H_2SO_4$ at 413 K gives 'D' ($C_4H_{10}O$). 'D' on reaction with excess of HI gives 'E'. Identify 'A', 'B', 'C', 'D' and 'E' and write all the reactions involved.",
-     "or": {
-      "text": "(a) Write the reagents which are used in the given conversions : (i) Phenol to 2, 4, 6 $-$ tribromophenol (ii) Propene to propan$-$1$-$ol (iii) Butan$-$2$-$one to butan$-$2$-$ol (b) Explain the mechanism of acid catalyzed hydration of alkene to form corresponding alcohol."
-     },
      "papers": [
       {
        "year": 2026,
@@ -10430,6 +11462,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Alcohols and Phenols"
+    },
+    {
+     "qno": 33,
+     "chapter": "Alcohols, Phenols and Ethers",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Write the reagents which are used in the given conversions : (i) Phenol to 2, 4, 6 $-$ tribromophenol (ii) Propene to propan$-$1$-$ol (iii) Butan$-$2$-$one to butan$-$2$-$ol (b) Explain the mechanism of acid catalyzed hydration of alkene to form corresponding alcohol.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Alcohols and Phenols",
+     "figures": []
     },
     {
      "qno": 2,
@@ -10638,7 +11688,7 @@
   },
   {
    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-   "count": 63,
+   "count": 83,
    "questions": [
     {
      "qno": 29,
@@ -10646,9 +11696,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Explain why : (i) Carboxyl group in benzoic acid is meta directing. (ii) Sodium bisulphite is used for the purification of aldehydes and ketones. (iii) Carboxylic acids do not give characteristic reactions of carbonyl group.",
-     "or": {
-      "text": "An organic compound 'A', having the molecular formula $C_3H_8O$ on treatment with Cu at 573 K, gives 'B'. 'B' does not reduce Fehling's solution but gives a yellow precipitate of the compound 'C' with $I_2$/NaOH. Deduce the structures of A, B and C."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10661,14 +11708,29 @@
      "topic": "Nomenclature and Structure of Carboxyl Group"
     },
     {
+     "qno": 29,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "An organic compound 'A', having the molecular formula $C_3H_8O$ on treatment with Cu at 573 K, gives 'B'. 'B' does not reduce Fehling's solution but gives a yellow precipitate of the compound 'C' with $I_2$/NaOH. Deduce the structures of A, B and C.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
+    },
+    {
      "qno": 35,
      "chapter": "Aldehydes, Ketones and Carboxylic Acids",
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Carry out the following conversions : (1) Ethanal to But-2-en-1-al (2) Propanoic acid to 2-chloropropanoic acid (ii) An alkene with molecular formula $C_5H_{10}$ on ozonolysis gives a mixture of two compounds 'B' and 'C'. Compound 'B' gives positive Fehling test and also reacts with iodine and NaOH solution. Compound 'C' does not give Fehling solution test but forms iodoform. Identify the compounds 'A', 'B' and 'C'.",
-     "or": {
-      "text": "(i) Distinguish with a suitable chemical test : (1) $CH_3COCH_2CH_3$ and $CH_3CH_2CH_2CHO$ (2) Ethanal and Ethanoic acid (ii) Write the structure of oxime of acetone. (iii) Identify A to D : $CH_3COOH \\xrightarrow{\\;PCl_5\\;} A \\xrightarrow{\\;H_2/Pd\\text{-}BaSO_4\\;} B \\xrightarrow[\\;(ii)\\,H_3O^+\\;]{\\;(i)\\,CH_3MgBr\\;} C$; and $B \\xrightarrow{\\;LiAlH_4\\;} D$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10679,6 +11741,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Preparation of Aldehydes and Ketones"
+    },
+    {
+     "qno": 35,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Distinguish with a suitable chemical test : (1) $CH_3COCH_2CH_3$ and $CH_3CH_2CH_2CHO$ (2) Ethanal and Ethanoic acid (ii) Write the structure of oxime of acetone. (iii) Identify A to D : $CH_3COOH \\xrightarrow{\\;PCl_5\\;} A \\xrightarrow{\\;H_2/Pd\\text{-}BaSO_4\\;} B \\xrightarrow[\\;(ii)\\,H_3O^+\\;]{\\;(i)\\,CH_3MgBr\\;} C$; and $B \\xrightarrow{\\;LiAlH_4\\;} D$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/1/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 10,
@@ -10849,9 +11929,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) An organic compound (X) having molecular formula $C_5H_{10}O$ can show various properties depending on its structures. Draw each of the structures if it (1) gives positive iodoform test. (2) shows Cannizzaro's reaction. (3) reduces Tollen's reagent and has a chiral carbon. (ii) Write the reaction involved in the following : (1) Wolff-Kishner reduction (2) Hell-Volhard-Zelinsky reaction",
-     "or": {
-      "text": "(i) How can you convert each of the following compounds to Benzoic acid ? (1) Acetophenone (2) Ethylbenzene (3) Bromobenzene (ii) Arrange the following compounds in increasing order of their property as indicated : (1) $O_2N{-}CH_2{-}COOH$, $F{-}CH_2{-}COOH$, $CN{-}CH_2COOH$ (Acidic character) (2) Ethanal, Propanal, Butanone, Propanone (Reactivity in nucleophilic addition reactions)"
-     },
      "papers": [
       {
        "year": 2023,
@@ -10862,6 +11939,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 34,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) How can you convert each of the following compounds to Benzoic acid ? (1) Acetophenone (2) Ethylbenzene (3) Bromobenzene (ii) Arrange the following compounds in increasing order of their property as indicated : (1) $O_2N{-}CH_2{-}COOH$, $F{-}CH_2{-}COOH$, $CN{-}CH_2COOH$ (Acidic character) (2) Ethanal, Propanal, Butanone, Propanone (Reactivity in nucleophilic addition reactions)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/3/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 13,
@@ -10892,9 +11987,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write the products of the following reactions : (i) $C_6H_5CHO \\xrightarrow[\\;\\Delta\\;]{\\;\\text{Conc. NaOH}\\;}$ (ii) cyclopentanone $+\\ H_2NNH{-}CO{-}NH_2 \\xrightarrow{\\;H^+\\;}$",
-     "or": {
-      "text": "Do the following conversions in not more than two steps : (i) Toluene to Benzoic acid (ii) Benzaldehyde to 1-Phenylethanol"
-     },
      "papers": [
       {
        "year": 2023,
@@ -10905,6 +11997,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 24,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Do the following conversions in not more than two steps : (i) Toluene to Benzoic acid (ii) Benzaldehyde to 1-Phenylethanol",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/4/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 35,
@@ -10977,9 +12087,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Write the reaction involved in Cannizzaro's reaction. (ii) Why is the boiling point of aldehydes and ketones lower than that of corresponding carboxylic acids ? (iii) An organic compound 'A' with molecular formula $C_5H_8O_2$ is reduced to n-pentane with hydrazine followed by heating with NaOH and Glycol. 'A' forms a dioxime with hydroxylamine and gives a positive Iodoform and Tollen's test. Identify 'A' and give its reaction for Iodoform and Tollen's test.",
-     "or": {
-      "text": "(i) Give a chemical test to distinguish between ethanal and ethanoic acid. (ii) Why are the $\\alpha$-hydrogens of aldehydes and ketones acidic in nature ? (iii) An organic compound 'A' with molecular formula $C_4H_8O_2$ undergoes acid hydrolysis to form two compounds 'B' and 'C'. Oxidation of 'C' with acidified potassium permanganate also produces 'B'. Sodium salt of 'B' on heating with soda lime gives methane. (1) Identify 'A', 'B' and 'C'. (2) Out of 'B' and 'C', which will have higher boiling point ? Give reason."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10990,6 +12097,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Physical Properties"
+    },
+    {
+     "qno": 34,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Give a chemical test to distinguish between ethanal and ethanoic acid. (ii) Why are the $\\alpha$-hydrogens of aldehydes and ketones acidic in nature ? (iii) An organic compound 'A' with molecular formula $C_4H_8O_2$ undergoes acid hydrolysis to form two compounds 'B' and 'C'. Oxidation of 'C' with acidified potassium permanganate also produces 'B'. Sodium salt of 'B' on heating with soda lime gives methane. (1) Identify 'A', 'B' and 'C'. (2) Out of 'B' and 'C', which will have higher boiling point ? Give reason.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/5/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Physical Properties",
+     "figures": []
     },
     {
      "qno": 7,
@@ -11119,9 +12244,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Account for the following : (1) Oxidation of aldehydes is easier as compared to ketones. (2) The alpha ($\\alpha$) hydrogen atoms of aldehydes are acidic in nature. (ii) Write the products in the following reactions : (1) $C_6H_5COCH_3 \\xrightarrow{\\;NaOH/I_2\\;} ? + ?$ (2) $C_6H_5COCl + (CH_3)_2Cd \\longrightarrow ? + CdCl_2$ (iii) Give a simple chemical test to distinguish between ethanoic acid and ethanal.",
-     "or": {
-      "text": "(i) Draw structure of the 2,4-dinitrophenylhydrazone of benzaldehyde. (ii) Arrange the following in increasing order of their reactivity towards HCN : $CH_3COCH_3$, $(CH_3)_3C{-}COCH_3$, $CH_3CHO$. (iii) How can you convert phenyl magnesium bromide to benzoic acid ? (iv) Give a simple chemical test to distinguish between benzaldehyde and ethanal. (v) Write the main product in the following reaction : $CH_3{-}CO{-}CH_2{-}COOC_2H_5 \\xrightarrow{\\;(i)\\,NaBH_4\\;\\;(ii)\\,H^+\\;} ?$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -11132,6 +12254,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Draw structure of the 2,4-dinitrophenylhydrazone of benzaldehyde. (ii) Arrange the following in increasing order of their reactivity towards HCN : $CH_3COCH_3$, $(CH_3)_3C{-}COCH_3$, $CH_3CHO$. (iii) How can you convert phenyl magnesium bromide to benzoic acid ? (iv) Give a simple chemical test to distinguish between benzaldehyde and ethanal. (v) Write the main product in the following reaction : $CH_3{-}CO{-}CH_2{-}COOC_2H_5 \\xrightarrow{\\;(i)\\,NaBH_4\\;\\;(ii)\\,H^+\\;} ?$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 27,
@@ -11156,9 +12296,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Write the major product(s) in the following reactions : (1) $C_6H_5CH_2CH_3 \\xrightarrow[\\;b)\\,H^+\\;]{\\;a)\\,KMnO_4,\\,KOH\\;} ?$ (2) $C_6H_5CHO + CH_3{-}CO{-}CH_3 \\xrightarrow{\\;dil\\ NaOH\\;} ?$ (3) $C_6H_5COOH \\xrightarrow{\\;Br_2/FeBr_3\\;} ?$ (ii) Give simple chemical tests to distinguish between the following pairs of compounds : (1) $C_6H_5COCH_3$ and $C_6H_5COCH_2CH_3$ (2) Pentanal and Pentan-3-one.",
-     "or": {
-      "text": "(i) Give reasons for the following : (1) In semicarbazide, only one $-NH_2$ group is involved in the formation of semicarbazone. (2) Acetaldehyde is more reactive than acetone towards addition of HCN. (ii) (1) Arrange the following in decreasing order of their acidic strength : $CH_3COOH$, $O_2N{-}CH_2{-}COOH$, $HCOOH$. (2) Name the reagent in the following reaction : $CH_3{-}CH{=}CH{-}CH_2{-}CN \\longrightarrow CH_3{-}CH{=}CH{-}CH_2{-}CHO$. (iii) Write the reaction involved in Hell-Volhard-Zelinsky reaction."
-     },
      "papers": [
       {
        "year": 2024,
@@ -11169,6 +12306,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Give reasons for the following : (1) In semicarbazide, only one $-NH_2$ group is involved in the formation of semicarbazone. (2) Acetaldehyde is more reactive than acetone towards addition of HCN. (ii) (1) Arrange the following in decreasing order of their acidic strength : $CH_3COOH$, $O_2N{-}CH_2{-}COOH$, $HCOOH$. (2) Name the reagent in the following reaction : $CH_3{-}CH{=}CH{-}CH_2{-}CN \\longrightarrow CH_3{-}CH{=}CH{-}CH_2{-}CHO$. (iii) Write the reaction involved in Hell-Volhard-Zelinsky reaction.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/3/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 2,
@@ -11270,9 +12425,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Write the stepwise mechanism of nucleophilic addition reactions in the carbonyl compounds.",
-     "or": {
-      "text": "How will you convert the following : (i) Toluene to benzoic acid. (ii) Ethanol to 3-Hydroxybutanal."
-     },
      "papers": [
       {
        "year": 2024,
@@ -11283,6 +12435,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 20,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "How will you convert the following : (i) Toluene to benzoic acid. (ii) Ethanol to 3-Hydroxybutanal.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/4/1",
+       "qno": "20-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 25,
@@ -11327,9 +12497,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "An organic compound (A) with the molecular formula $C_8H_8O$ forms 2, 4-DNP derivative, reduces Fehling solution and undergoes Cannizzaro reaction. On vigorous oxidation, it gives 1, 2-benzene dicarboxylic acid. (i) Identify the compound (A) and write its IUPAC name. (ii) Write the reaction of compound (A) with (1) 2, 4-Dinitrophenyl hydrazine and (2) Fehling solution. (iii) Write the equation of compound (A) when it undergoes Cannizzaro reaction.",
-     "or": {
-      "text": "(i) Account for the following : (1) The alpha ($\\alpha$)-hydrogens of aldehydes and ketones are acidic in nature. (2) Oxidation of aldehydes is easier than ketones. (ii) Arrange the following in : (1) Decreasing reactivity towards nucleophilic addition reaction : propanal, acetone, benzaldehyde. (2) Increasing order of boiling point : Propane, Ethanol, Dimethylether, Propanal. (iii) Give simple chemical test to distinguish between Benzoic acid and Benzaldehyde."
-     },
      "papers": [
       {
        "year": 2024,
@@ -11340,6 +12507,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Nomenclature and Structure of Carbonyl Group"
+    },
+    {
+     "qno": 33,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Account for the following : (1) The alpha ($\\alpha$)-hydrogens of aldehydes and ketones are acidic in nature. (2) Oxidation of aldehydes is easier than ketones. (ii) Arrange the following in : (1) Decreasing reactivity towards nucleophilic addition reaction : propanal, acetone, benzaldehyde. (2) Increasing order of boiling point : Propane, Ethanol, Dimethylether, Propanal. (iii) Give simple chemical test to distinguish between Benzoic acid and Benzaldehyde.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Physical Properties",
+     "figures": []
     },
     {
      "qno": 9,
@@ -11387,9 +12572,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Carry out the following conversions : (i) Ethanal to But-2-enal (ii) Propanoic acid to ethane (b) An alkene A with molecular formula $C_5H_{10}$ on ozonolysis gives a mixture of two compounds B and C. Compound B gives positive Fehling test and also reacts with iodine and NaOH solution. Compound C does not give Fehling solution test but forms iodoform. Identify the compounds A, B and C.",
-     "or": {
-      "text": "An organic compound (A) (molecular formula $C_8H_{16}O_2$) was hydrolysed with dilute sulphuric acid to get a carboxylic acid (B) and an alcohol (C). Oxidation of (C) with chromic acid produced (B). (C) on dehydration gives But-1-ene. Identify (A), (B) and (C) and write chemical equations for the reactions involved."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11402,14 +12584,29 @@
      "topic": "Preparation of Aldehydes and Ketones"
     },
     {
+     "qno": 33,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "An organic compound (A) (molecular formula $C_8H_{16}O_2$) was hydrolysed with dilute sulphuric acid to get a carboxylic acid (B) and an alcohol (C). Oxidation of (C) with chromic acid produced (B). (C) on dehydration gives But-1-ene. Identify (A), (B) and (C) and write chemical equations for the reactions involved.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
+    },
+    {
      "qno": 27,
      "chapter": "Aldehydes, Ketones and Carboxylic Acids",
      "type": "Short Answer",
      "marks": 3,
      "text": "Explain the following reactions and write chemical equation involved : (a) Wolff-Kishner reduction (b) Etard reaction (c) Cannizzaro reaction",
-     "or": {
-      "text": "Write the structures of A, B and C in the following sequence of reactions : (a) $CH_3COOH \\xrightarrow{\\;SOCl_2\\;} A \\xrightarrow{\\;H_2,\\ Pd\\text{-}BaSO_4\\;} B \\xrightarrow{\\;H_2N{-}NH_2\\;} C$ (b) $CH_3CN \\xrightarrow[\\;2.\\ H_2O\\;]{\\;1.\\ (DIBAL\\text{-}H)\\;} A \\xrightarrow{\\;\\text{Dil. NaOH}\\;} B \\xrightarrow{\\;\\Delta\\;} C$"
-     },
      "papers": [
       {
        "year": 2025,
@@ -11422,21 +12619,29 @@
      "topic": "Chemical Reactions"
     },
     {
+     "qno": 27,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Write the structures of A, B and C in the following sequence of reactions : (a) $CH_3COOH \\xrightarrow{\\;SOCl_2\\;} A \\xrightarrow{\\;H_2,\\ Pd\\text{-}BaSO_4\\;} B \\xrightarrow{\\;H_2N{-}NH_2\\;} C$ (b) $CH_3CN \\xrightarrow[\\;2.\\ H_2O\\;]{\\;1.\\ (DIBAL\\text{-}H)\\;} A \\xrightarrow{\\;\\text{Dil. NaOH}\\;} B \\xrightarrow{\\;\\Delta\\;} C$",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/2/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
+    },
+    {
      "qno": 31,
      "chapter": "Aldehydes, Ketones and Carboxylic Acids",
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) Give IUPAC name of $CH_3{-}CH{=}CH{-}CHO$. (b) Give a simple chemical test to distinguish between propanal and propanone. (c) How will you convert the following : (i) Toluene to benzoic acid (ii) Ethanol to propan$-$2$-$ol (iii) Propanal to 2$-$hydroxy propanoic acid",
-     "or": {
-      "text": "Complete each synthesis by giving missing starting material, reagent or products :",
-      "figures": [
-       "assets/figures/chem_2025_z2_q31b1.png",
-       "assets/figures/chem_2025_z2_q31b2.png",
-       "assets/figures/chem_2025_z2_q31c.png",
-       "assets/figures/chem_2025_z2_q31d.png",
-       "assets/figures/chem_2025_z2_q31e.png"
-      ]
-     },
      "papers": [
       {
        "year": 2025,
@@ -11447,6 +12652,30 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Nomenclature and Structure of Carbonyl Group"
+    },
+    {
+     "qno": 31,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Complete each synthesis by giving missing starting material, reagent or products :",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Chemical Reactions",
+     "figures": [
+      "assets/figures/chem_2025_z2_q31b1.png",
+      "assets/figures/chem_2025_z2_q31b2.png",
+      "assets/figures/chem_2025_z2_q31c.png",
+      "assets/figures/chem_2025_z2_q31d.png",
+      "assets/figures/chem_2025_z2_q31e.png"
+     ]
     },
     {
      "qno": 27,
@@ -11474,18 +12703,32 @@
      "figures": [
       "assets/figures/chem_2025_z4_q31ai1.png"
      ],
-     "or": {
-      "text": "(i) Complete each synthesis by giving missing starting material, reagent or products : (I) $C_6H_5CH_2CH_3 \\xrightarrow[\\;(ii)\\ H_3O^+\\;]{\\;(i)\\ KMnO_4,\\ KOH\\;}$ ? (II) and (III) the reactions shown below. (ii) Carry out the following conversions : (I) Benzaldehyde to Benzophenone (II) Benzaldehyde to 3-phenyl propanol.",
-      "figures": [
-       "assets/figures/chem_2025_z4_q31bi2.png",
-       "assets/figures/chem_2025_z4_q31bi3.png"
-      ]
-     },
      "papers": [
       {
        "year": 2025,
        "set": "56/4/1",
        "qno": 31
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 31,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Complete each synthesis by giving missing starting material, reagent or products : (I) $C_6H_5CH_2CH_3 \\xrightarrow[\\;(ii)\\ H_3O^+\\;]{\\;(i)\\ KMnO_4,\\ KOH\\;}$ ? (II) and (III) the reactions shown below. (ii) Carry out the following conversions : (I) Benzaldehyde to Benzophenone (II) Benzaldehyde to 3-phenyl propanol.",
+     "figures": [
+      "assets/figures/chem_2025_z4_q31bi2.png",
+      "assets/figures/chem_2025_z4_q31bi3.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/4/1",
+       "qno": "31-OR"
       }
      ],
      "bloom": "Apply",
@@ -11620,9 +12863,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Identify A, B and C in the following reactions : $C_6H_5CH_3 + CrO_3 \\xrightarrow[\\;273-283\\,K\\;]{\\;(CH_3CO)_2O\\;} A \\xrightarrow{\\;H_3O^+\\;} B \\xrightarrow{\\;\\text{Conc. NaOH}\\;} C + C_6H_5COONa$. (ii) Give reasons for the following : (I) Carboxylic acids do not give the characteristic reactions of carbonyl group. (II) Ethanoic acid is a stronger acid than ethanol.",
-     "or": {
-      "text": "(i) Write the product(s) in the following reactions : (I) $2CH_3COOH \\xrightarrow[\\;heat\\;]{\\;P_4O_{10}\\;}$ (II) $C_6H_5COCl + (CH_3)_2Cd \\longrightarrow$ (III) o-$C_6H_4(CONH_2)_2 \\xrightarrow{\\;\\text{strong heating}\\;}$ (ii) Write the reaction involved in the following reactions : (I) Wolff-Kishner Reduction (II) Decarboxylation Reaction"
-     },
      "papers": [
       {
        "year": 2025,
@@ -11633,6 +12873,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Nomenclature and Structure of Carbonyl Group"
+    },
+    {
+     "qno": 33,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Write the product(s) in the following reactions : (I) $2CH_3COOH \\xrightarrow[\\;heat\\;]{\\;P_4O_{10}\\;}$ (II) $C_6H_5COCl + (CH_3)_2Cd \\longrightarrow$ (III) o-$C_6H_4(CONH_2)_2 \\xrightarrow{\\;\\text{strong heating}\\;}$ (ii) Write the reaction involved in the following reactions : (I) Wolff-Kishner Reduction (II) Decarboxylation Reaction",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/6/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 27,
@@ -11657,12 +12915,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) An organic compound (X) having molecular formula $C_5H_{10}O$ can show various properties depending on its structures. Draw each of the structures if it : (I) shows Cannizzaro reaction. (II) reduces Tollens' reagent and has a chiral carbon. (III) gives positive iodoform test. (ii) Write the reaction involved in the following : (I) Clemmensen reduction (II) Etard reaction",
-     "or": {
-      "text": "Answer the following questions : (i) Draw structure of the methyl hemiacetal of methanal. (ii) There are two $-NH_2$ groups in semicarbazide. However only one is involved in the formation of semicarbazones. Give reason. (iii) How will you convert ethanol to 3-hydroxybutanal ? (iv) Complete the following equation (shown below). (v) Write the final product formed when phthalic acid is treated with $NH_3$ followed by strong heating.",
-      "figures": [
-       "assets/figures/chem_2025_z7_q32biv.png"
-      ]
-     },
      "papers": [
       {
        "year": 2025,
@@ -11673,6 +12925,26 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) Draw structure of the methyl hemiacetal of methanal. (ii) There are two $-NH_2$ groups in semicarbazide. However only one is involved in the formation of semicarbazones. Give reason. (iii) How will you convert ethanol to 3-hydroxybutanal ? (iv) Complete the following equation (shown below). (v) Write the final product formed when phthalic acid is treated with $NH_3$ followed by strong heating.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/7/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": [
+      "assets/figures/chem_2025_z7_q32biv.png"
+     ]
     },
     {
      "qno": 6,
@@ -11720,12 +12992,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) An organic compound (X) has the molecular formula $C_5H_{10}O$. Draw structures for (X) if it : (I) does not give Tollen's test but gives a positive iodoform test. (II) does not give Tollen's test and iodoform test but undergoes Aldol condensation. (III) undergoes Cannizzaro's reaction. (ii) Show how each of the following compounds can be converted to benzoic acid : (I) Acetophenone (II) Ethyl benzene",
-     "or": {
-      "text": "Answer the following questions : (i) Draw structure of the 2,4-dinitrophenyl hydrazone derivative of benzaldehyde. (ii) Arrange the following in increasing order of their reactivity towards HCN : Di-tert. butyl ketone, Acetaldehyde, Acetone. (iii) Give a simple chemical test to distinguish between benzoic acid and ethyl benzoate. (iv) Write the name of the reagent to convert Ethanenitrile to Ethanal. (v) Draw the structure of 'X' in the following reaction : cyclohexanol $\\xrightarrow{\\;CrO_3\\;}$ 'X' (shown below).",
-      "figures": [
-       "assets/figures/chem_2026_z1_q31bv.png"
-      ]
-     },
      "papers": [
       {
        "year": 2026,
@@ -11736,6 +13002,26 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 31,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer the following questions : (i) Draw structure of the 2,4-dinitrophenyl hydrazone derivative of benzaldehyde. (ii) Arrange the following in increasing order of their reactivity towards HCN : Di-tert. butyl ketone, Acetaldehyde, Acetone. (iii) Give a simple chemical test to distinguish between benzoic acid and ethyl benzoate. (iv) Write the name of the reagent to convert Ethanenitrile to Ethanal. (v) Draw the structure of 'X' in the following reaction : cyclohexanol $\\xrightarrow{\\;CrO_3\\;}$ 'X' (shown below).",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": [
+      "assets/figures/chem_2026_z1_q31bv.png"
+     ]
     },
     {
      "qno": 27,
@@ -11760,9 +13046,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(a) How will you convert the following : (i) Propanone to Propene (ii) Benzoic acid to Benzaldehyde (iii) Benzene to m-Nitroacetophenone (b) (i) Arrange the following compounds in increasing order of their reactivity towards HCN : $(CH_3)_2C{=}O$, $((CH_3)_3C)_2C{=}O$, $CH_3CH{=}O$ (ii) Identify the compounds, which would undergo Aldol condensation : HCHO, $C_6H_5CHO$, $CH_3CHO$",
-     "or": {
-      "text": "(a) Give chemical tests to distinguish between the following pairs of compounds : (i) Acetophenone and Benzophenone (ii) Propanal and Propanone (iii) Pentan$-$2$-$one and Pentan$-$3$-$one (b) (i) Which of the following acids is stronger and why ? $CH_2FCOOH$, $CH_3COOH$ (ii) Arrange the following compounds in the increasing order of their boiling points : $CH_3OCH_3$, $CH_3CH_2CH_3$, $CH_3CH_2OH$, $CH_3CHO$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -11773,6 +13056,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 31,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Give chemical tests to distinguish between the following pairs of compounds : (i) Acetophenone and Benzophenone (ii) Propanal and Propanone (iii) Pentan$-$2$-$one and Pentan$-$3$-$one (b) (i) Which of the following acids is stronger and why ? $CH_2FCOOH$, $CH_3COOH$ (ii) Arrange the following compounds in the increasing order of their boiling points : $CH_3OCH_3$, $CH_3CH_2CH_3$, $CH_3CH_2OH$, $CH_3CHO$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Physical Properties",
+     "figures": []
     },
     {
      "qno": 28,
@@ -11797,9 +13098,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) Write the product(s) when : (I) One mol of ethanal is treated with 1 mol of $CH_3OH$ in the presence of dry HCl gas. (II) Benzaldehyde is treated with conc. NaOH. (III) Ethanoic acid is heated in the presence of $P_2O_5$. (ii) Write a simple chemical test to distinguish between Ethanal and Propanal. (iii) Write the name of the reagent to transform Allyl alcohol to Propenal.",
-     "or": {
-      "text": "(i) Draw the structure of the semicarbazone of acetone. (ii) Why are $\\alpha$-hydrogen atoms of aldehydes and ketones acidic in nature ? (iii) Arrange the following compounds in increasing order of their reactivity towards HCN : $CH_3COCH_3$, $CH_3CHO$, $(CH_3)_3C{-}CO{-}CH_3$ (iv) Write the reaction involved in Etard reaction. (v) Write the product when $C_6H_{11}CHO$ (cyclohexanecarbaldehyde) reacts with Zn(Hg)/conc. HCl."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11810,6 +13108,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Draw the structure of the semicarbazone of acetone. (ii) Why are $\\alpha$-hydrogen atoms of aldehydes and ketones acidic in nature ? (iii) Arrange the following compounds in increasing order of their reactivity towards HCN : $CH_3COCH_3$, $CH_3CHO$, $(CH_3)_3C{-}CO{-}CH_3$ (iv) Write the reaction involved in Etard reaction. (v) Write the product when $C_6H_{11}CHO$ (cyclohexanecarbaldehyde) reacts with Zn(Hg)/conc. HCl.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/3/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 23,
@@ -11834,9 +13150,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) How will you bring about the following conversions : (I) Bromobenzene to 1-phenylethanol (II) Benzene to m-nitroacetophenone (ii) An organic compound with the molecular formula $C_8H_8O$ forms 2,4-DNP derivative, reduces Tollens' reagent and undergoes Cannizzaro reaction. On vigorous oxidation with acidic or alkaline $KMnO_4$ it gives Benzene-1,2-dicarboxylic acid. Identify the compound and write the products when it undergoes Cannizzaro reaction. (iii) Arrange the following compounds in increasing order of their acid strength : $C_6H_5COOH$, $O_2N{-}CH_2{-}COOH$, $CF_3{-}COOH$, HCOOH",
-     "or": {
-      "text": "(i) Write the products formed when benzaldehyde reacts with the following reagents : (I) 2,4-Dinitrophenylhydrazine (II) Acetophenone in the presence of dilute NaOH followed by heating (ii) Give reasons for the following : (I) Benzoic acid does not undergo Friedel-Crafts reaction. (II) Carboxylic acids have higher boiling point than alcohols of comparable molecular mass. (iii) Write simple chemical test to distinguish between propanal and propanone."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11847,6 +13160,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Write the products formed when benzaldehyde reacts with the following reagents : (I) 2,4-Dinitrophenylhydrazine (II) Acetophenone in the presence of dilute NaOH followed by heating (ii) Give reasons for the following : (I) Benzoic acid does not undergo Friedel-Crafts reaction. (II) Carboxylic acids have higher boiling point than alcohols of comparable molecular mass. (iii) Write simple chemical test to distinguish between propanal and propanone.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Physical Properties",
+     "figures": []
     },
     {
      "qno": 1,
@@ -11919,9 +13250,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(i) Arrange the following compounds in increasing order of their acidic strengths : $CH_3CHBrCH_2COOH$, $CH_3CH(CH_3)COOH$, $CH_3CH_2CHBrCOOH$ (ii) Why is $CH_3CHO$ more reactive than acetone towards reaction with HCN ? (iii) Complete the equation : $CH_3CHO + H_2N{-}NH_2 \\xrightarrow{\\;H^+\\;}$",
-     "or": {
-      "text": "An organic compound with the molecular formula $C_8H_8O$ forms 2,4-DNP derivative, reduces Tollens' reagent and undergoes Cannizzaro reaction. On vigorous oxidation it gives Benzene-1,2-dicarboxylic acid. Identify the compound and write the reactions of compound 2,4-DNP and when it undergoes Cannizzaro reaction."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11932,6 +13260,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 28,
+     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "An organic compound with the molecular formula $C_8H_8O$ forms 2,4-DNP derivative, reduces Tollens' reagent and undergoes Cannizzaro reaction. On vigorous oxidation it gives Benzene-1,2-dicarboxylic acid. Identify the compound and write the reactions of compound 2,4-DNP and when it undergoes Cannizzaro reaction.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/5/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -11947,7 +13293,7 @@
   },
   {
    "chapter": "Amines",
-   "count": 68,
+   "count": 74,
    "questions": [
     {
      "qno": 11,
@@ -12091,9 +13437,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(I) Give reasons : (i) Aniline on nitration gives good amount of m-nitroaniline, though $-NH_2$ group is o/p directing in electrophilic substitution reactions. (ii) $(CH_3)_2NH$ is more basic than $(CH_3)_3N$ in an aqueous solution. (iii) Ammonolysis of alkyl halides is not a good method to prepare pure primary amines. (II) Write the reaction involved in the following : (i) Carbyl amine test (ii) Gabriel phthalimide synthesis",
-     "or": {
-      "text": "(I) Write the structures of A, B and C in the following reactions : (i) $C_6H_5N_2^+Cl^- \\xrightarrow{\\;CuCN\\;} A \\xrightarrow{\\;H_2O/H^+\\;} B \\xrightarrow[\\;\\Delta\\;]{\\;NH_3\\;} C$ (ii) $C_6H_5NO_2 \\xrightarrow{\\;Fe/HCl\\;} A \\xrightarrow[\\;273\\ K\\;]{\\;NaNO_2+HCl\\;} B \\xrightarrow{\\;C_2H_5OH\\;} C$ (II) Why aniline does not undergo Friedel-Crafts reaction ? (III) Arrange the following in increasing order of their boiling point : $C_2H_5OH$, $C_2H_5NH_2$, $(CH_3)_3N$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -12104,6 +13447,24 @@
      "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Preparation of Amines"
+    },
+    {
+     "qno": 34,
+     "chapter": "Amines",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(I) Write the structures of A, B and C in the following reactions : (i) $C_6H_5N_2^+Cl^- \\xrightarrow{\\;CuCN\\;} A \\xrightarrow{\\;H_2O/H^+\\;} B \\xrightarrow[\\;\\Delta\\;]{\\;NH_3\\;} C$ (ii) $C_6H_5NO_2 \\xrightarrow{\\;Fe/HCl\\;} A \\xrightarrow[\\;273\\ K\\;]{\\;NaNO_2+HCl\\;} B \\xrightarrow{\\;C_2H_5OH\\;} C$ (II) Why aniline does not undergo Friedel-Crafts reaction ? (III) Arrange the following in increasing order of their boiling point : $C_2H_5OH$, $C_2H_5NH_2$, $(CH_3)_3N$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/2/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Physical Properties",
+     "figures": []
     },
     {
      "qno": 4,
@@ -12151,9 +13512,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Write the structures of A, B and C in the following reactions : (i) $C_6H_5{-}COOH \\xrightarrow[\\;\\Delta\\;]{\\;NH_3\\;} A \\xrightarrow{\\;Br_2 + NaOH\\;} B \\xrightarrow[\\;0\\,°C\\;]{\\;NaNO_2 + HCl\\;} C$ (ii) $CH_3CH_2Br \\xrightarrow{\\;KCN\\;} A \\xrightarrow{\\;LiAlH_4\\;} B \\xrightarrow[\\;0\\,°C\\;]{\\;HNO_2\\;} C$",
-     "or": {
-      "text": "How will you convert the following : (i) Aniline to p-bromoaniline (ii) Ethanoic acid to methanamine (iii) Butanenitrile to 1-aminobutane"
-     },
      "papers": [
       {
        "year": 2023,
@@ -12164,6 +13522,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 27,
+     "chapter": "Amines",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "How will you convert the following : (i) Aniline to p-bromoaniline (ii) Ethanoic acid to methanamine (iii) Butanenitrile to 1-aminobutane",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/3/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 8,
@@ -12259,9 +13635,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(i) Draw the zwitter ion structure for sulphanilic acid. (ii) How can the activating effect of $-NH_2$ group in aniline be controlled ?",
-     "or": {
-      "text": "(i) Complete the reaction with the main product formed : $C_6H_5N_2^+Cl^- \\xrightarrow{\\;CH_3CH_2OH\\;}$ (ii) Convert Bromoethane to Propanamine."
-     },
      "papers": [
       {
        "year": 2023,
@@ -12272,6 +13645,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 24,
+     "chapter": "Amines",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(i) Complete the reaction with the main product formed : $C_6H_5N_2^+Cl^- \\xrightarrow{\\;CH_3CH_2OH\\;}$ (ii) Convert Bromoethane to Propanamine.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/5/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 28,
@@ -12541,9 +13932,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "An amide 'A' with molecular formula $C_7H_7ON$ undergoes Hoffmann Bromamide degradation reaction to give amine 'B'. B on treatment with nitrous acid at 273-278 K form 'C' and on treatment with chloroform and ethanolic potassium hydroxide forms 'D'. 'C' on treatment with ethanol gives 'E'. Identify 'A', 'B', 'C', 'D' and 'E' and write the sequence of chemical equations.",
-     "or": {
-      "text": "(i) (1) What is Hinsberg's reagent ? (2) Arrange the following compounds in the increasing order of their basic strength in gaseous phase : $C_2H_5NH_2$, $(C_2H_5)_3N$, $(C_2H_5)_2NH$ (ii) Give reasons for the following : (1) Methyl amine is more basic than aniline. (2) Aniline readily reacts with bromine water to give 2, 4, 6-tribromoaniline. (3) Primary amines have higher boiling points than tertiary amines."
-     },
      "papers": [
       {
        "year": 2024,
@@ -12554,6 +13942,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Preparation of Amines"
+    },
+    {
+     "qno": 33,
+     "chapter": "Amines",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) (1) What is Hinsberg's reagent ? (2) Arrange the following compounds in the increasing order of their basic strength in gaseous phase : $C_2H_5NH_2$, $(C_2H_5)_3N$, $(C_2H_5)_2NH$ (ii) Give reasons for the following : (1) Methyl amine is more basic than aniline. (2) Aniline readily reacts with bromine water to give 2, 4, 6-tribromoaniline. (3) Primary amines have higher boiling points than tertiary amines.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Physical Properties",
+     "figures": []
     },
     {
      "qno": 2,
@@ -12584,9 +13990,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Carry out the following conversions : (i) Nitrobenzene to Aniline (ii) Aniline to Phenol",
-     "or": {
-      "text": "(i) Write a chemical test to distinguish between Dimethyl amine and Ethanamine. (ii) Write the product formed when benzene diazonium chloride is treated with KI."
-     },
      "papers": [
       {
        "year": 2024,
@@ -12597,6 +14000,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 19,
+     "chapter": "Amines",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "(i) Write a chemical test to distinguish between Dimethyl amine and Ethanamine. (ii) Write the product formed when benzene diazonium chloride is treated with KI.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "56/5/1",
+       "qno": "19-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Method of Preparation of Diazonium Salts",
+     "figures": []
     },
     {
      "qno": 28,
@@ -12834,9 +14255,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "(i) In a chemistry practical class, the teacher gave his students an amine 'X' having molecular formula $C_2H_7N$, and asked the students to identify the type of amine. One of the students, Neeta, observed that it reacts with $C_6H_5SO_2Cl$, to give a compound which dissolves in NaOH solution. Can you help Neeta to identify the compound 'X' ? (ii) Arrange the following in the increasing order of their $pK_b$ value in aqueous phase : $C_6H_5NH_2$, $(CH_3)_2NH$, $NH_3$, $CH_3NH_2$, $(CH_3)_3N$. (iii) Aniline on nitration gives considerable amount of meta product along with ortho and para products. Why ? (iv) Convert aniline to : (I) p-bromoaniline (II) phenol.",
-     "or": {
-      "text": "(i) Arun heated a mixture of ethylamine and $CHCl_3$ with ethanolic KOH, which forms a foul smelling gas. Write the chemical equation involved. (ii) Identify A and B in the following reactions : $A \\xrightarrow[\\;ethanol\\;]{\\;H_2/Pd\\;} C_6H_5NH_2 \\xleftarrow{\\;Br_2/NaOH\\;} B$. (iii) Convert aniline to : (I) benzene (II) sulphanilic acid."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12847,6 +14265,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Chemical Reactions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Amines",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(i) Arun heated a mixture of ethylamine and $CHCl_3$ with ethanolic KOH, which forms a foul smelling gas. Write the chemical equation involved. (ii) Identify A and B in the following reactions : $A \\xrightarrow[\\;ethanol\\;]{\\;H_2/Pd\\;} C_6H_5NH_2 \\xleftarrow{\\;Br_2/NaOH\\;} B$. (iii) Convert aniline to : (I) benzene (II) sulphanilic acid.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "56/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Chemical Reactions",
+     "figures": []
     },
     {
      "qno": 6,
@@ -13429,7 +14865,7 @@
   },
   {
    "chapter": "Biomolecules",
-   "count": 77,
+   "count": 79,
    "questions": [
     {
      "qno": 13,
@@ -13620,9 +15056,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "(i) How are carbohydrates stored in animal body ? Mention any one organ where they are present. (ii) What is the basic structural difference between starch and cellulose ?",
-     "or": {
-      "text": "Differentiate between : (i) Peptide linkage and Glycosidic linkage (ii) Nucleoside and Nucleotide"
-     },
      "papers": [
       {
        "year": 2023,
@@ -13633,6 +15066,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Carbohydrates"
+    },
+    {
+     "qno": 22,
+     "chapter": "Biomolecules",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Differentiate between : (i) Peptide linkage and Glycosidic linkage (ii) Nucleoside and Nucleotide",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "56/3/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Nucleic Acids",
+     "figures": []
     },
     {
      "qno": 30,
@@ -14760,9 +16211,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "(a) Define the following term : Reducing sugar (b) Differentiate between the following : (i) Fibrous proteins and globular proteins (ii) Nucleotide and nucleoside",
-     "or": {
-      "text": "Write the reaction of glucose with the following : (a) $H_2N{-}OH$ (b) $(CH_3CO)_2O$ (c) conc. $HNO_3$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -14773,6 +16221,24 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Nucleic Acids"
+    },
+    {
+     "qno": 28,
+     "chapter": "Biomolecules",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Write the reaction of glucose with the following : (a) $H_2N{-}OH$ (b) $(CH_3CO)_2O$ (c) conc. $HNO_3$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "56/2/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Carbohydrates",
+     "figures": []
     },
     {
      "qno": 12,

@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 796,
+ "total_questions": 942,
  "chapter_order": [
   "Relations and Functions",
   "Inverse Trigonometric Functions",
@@ -27,7 +27,7 @@
  "chapters": [
   {
    "chapter": "Relations and Functions",
-   "count": 38,
+   "count": 48,
    "questions": [
     {
      "qno": 21,
@@ -35,9 +35,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "A function $f : A \\to B$ defined as $f(x) = 2x$ is both one-one and onto. If $A = \\{1, 2, 3, 4\\}$, then find the set $B$.",
-     "or": {
-      "text": "Evaluate : $\\sin^{-1}\\!\\left(\\sin\\dfrac{3\\pi}{4}\\right) + \\cos^{-1}\\!\\left(\\cos\\dfrac{3\\pi}{4}\\right) + \\tan^{-1}(1)$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -106,9 +103,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $N$ denotes the set of all natural numbers and $R$ is the relation on $N \\times N$ defined by $(a, b)\\ R\\ (c, d)$, if $ad(b + c) = bc(a + d)$. Show that $R$ is an equivalence relation.",
-     "or": {
-      "text": "Let $f : R - \\left\\{-\\dfrac{4}{3}\\right\\} \\to R$ be a function defined as $f(x) = \\dfrac{4x}{3x + 4}$. Show that $f$ is a one-one function. Also, check whether $f$ is an onto function or not."
-     },
      "papers": [
       {
        "year": 2023,
@@ -119,6 +113,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Types of Relations"
+    },
+    {
+     "qno": 34,
+     "chapter": "Relations and Functions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Let $f : R - \\left\\{-\\dfrac{4}{3}\\right\\} \\to R$ be a function defined as $f(x) = \\dfrac{4x}{3x + 4}$. Show that $f$ is a one-one function. Also, check whether $f$ is an onto function or not.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Functions",
+     "figures": []
     },
     {
      "qno": 1,
@@ -197,9 +209,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "A relation $R$ on set $A = \\{1, 2, 3, 4, 5\\}$ is defined as $R = \\{(x, y) : |x^2 - y^2| < 8\\}$. Check whether the relation $R$ is reflexive, symmetric and transitive.",
-     "or": {
-      "text": "A function $f$ is defined from $\\mathbb{R} \\to \\mathbb{R}$ as $f(x) = ax + b$, such that $f(1) = 1$ and $f(2) = 3$. Find function $f(x)$. Hence, check whether function $f(x)$ is one-one and onto or not."
-     },
      "papers": [
       {
        "year": 2024,
@@ -210,6 +219,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations"
+    },
+    {
+     "qno": 26,
+     "chapter": "Relations and Functions",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A function $f$ is defined from $\\mathbb{R} \\to \\mathbb{R}$ as $f(x) = ax + b$, such that $f(1) = 1$ and $f(2) = 3$. Find function $f(x)$. Hence, check whether function $f(x)$ is one-one and onto or not.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Functions",
+     "figures": []
     },
     {
      "qno": 2,
@@ -244,9 +271,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Show that a function $f : \\mathbb{R} \\to \\mathbb{R}$ defined by $f(x) = \\dfrac{2x}{1 + x^2}$ is neither one-one nor onto. Further, find set A so that the given function $f : \\mathbb{R} \\to A$ becomes an onto function.",
-     "or": {
-      "text": "A relation R is defined on $N \\times N$ (where N is the set of natural numbers) as : $(a, b)\\ R\\ (c, d) \\Leftrightarrow a - c = b - d$. Show that R is an equivalence relation."
-     },
      "papers": [
       {
        "year": 2024,
@@ -257,6 +281,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Types of Functions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Relations and Functions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "A relation R is defined on $N \\times N$ (where N is the set of natural numbers) as : $(a, b)\\ R\\ (c, d) \\Leftrightarrow a - c = b - d$. Show that R is an equivalence relation.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Relations",
+     "figures": []
     },
     {
      "qno": 2,
@@ -329,9 +371,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Let $A = \\mathbb{R} - \\{5\\}$ and $B = \\mathbb{R} - \\{1\\}$. Consider the function $f : A \\to B$, defined by $f(x) = \\dfrac{x - 3}{x - 5}$. Show that $f$ is one-one and onto.",
-     "or": {
-      "text": "Check whether the relation S in the set of real numbers $\\mathbb{R}$ defined by $S = \\{(a, b) : \\text{where } a - b + \\sqrt{2} \\text{ is an irrational number}\\}$ is reflexive, symmetric or transitive."
-     },
      "papers": [
       {
        "year": 2024,
@@ -342,6 +381,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Types of Functions"
+    },
+    {
+     "qno": 33,
+     "chapter": "Relations and Functions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Check whether the relation S in the set of real numbers $\\mathbb{R}$ defined by $S = \\{(a, b) : \\text{where } a - b + \\sqrt{2} \\text{ is an irrational number}\\}$ is reflexive, symmetric or transitive.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Relations",
+     "figures": []
     },
     {
      "qno": 1,
@@ -515,9 +572,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "If $f : \\mathbb{R}^+ \\to \\mathbb{R}$ is defined as $f(x) = \\log_a x$ $(a > 0$ and $a \\neq 1)$, prove that $f$ is a bijection. ($\\mathbb{R}^+$ is a set of all positive real numbers.)",
-     "or": {
-      "text": "Let $A = \\{1, 2, 3\\}$ and $B = \\{4, 5, 6\\}$. A relation R from A to B is defined as $R = \\{(x, y) : x + y = 6, x \\in A, y \\in B\\}$. (i) Write all elements of R. (ii) Is R a function ? Justify. (iii) Determine domain and range of R."
-     },
      "papers": [
       {
        "year": 2025,
@@ -528,6 +582,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions"
+    },
+    {
+     "qno": 26,
+     "chapter": "Relations and Functions",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Let $A = \\{1, 2, 3\\}$ and $B = \\{4, 5, 6\\}$. A relation R from A to B is defined as $R = \\{(x, y) : x + y = 6, x \\in A, y \\in B\\}$. (i) Write all elements of R. (ii) Is R a function ? Justify. (iii) Determine domain and range of R.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "Types of Relations",
+     "figures": []
     },
     {
      "qno": 20,
@@ -602,9 +674,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "A student wants to pair up natural numbers in such a way that they satisfy the equation $2x + y = 41$, $x, y \\in N$. For the domain and range of the relation. Check if the relation thus formed is reflexive, symmetric and transitive or not. Hence, state whether it is an equivalence relation or not.",
-     "or": {
-      "text": "Show that the function $f : N \\to N$, where N is a set of natural numbers, given by $f(n) = \\begin{cases} n - 1, & \\text{if n is even} \\\\ n + 1, & \\text{if n is odd} \\end{cases}$ is a bijection."
-     },
      "papers": [
       {
        "year": 2025,
@@ -615,6 +684,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations"
+    },
+    {
+     "qno": 28,
+     "chapter": "Relations and Functions",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Show that the function $f : N \\to N$, where N is a set of natural numbers, given by $f(n) = \\begin{cases} n - 1, & \\text{if n is even} \\\\ n + 1, & \\text{if n is odd} \\end{cases}$ is a bijection.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Functions",
+     "figures": []
     },
     {
      "qno": 21,
@@ -639,9 +726,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Show that the function $f : \\mathbb{R} \\to \\mathbb{R}$ defined by $f(x) = 4x^3 - 5$, $\\forall\\,x \\in \\mathbb{R}$ is one-one and onto.",
-     "or": {
-      "text": "Let R be a relation defined on a set N of natural numbers such that $R = \\{(x, y) : xy \\text{ is a square of a natural number}, x, y \\in N\\}$. Determine if the relation R is an equivalence relation."
-     },
      "papers": [
       {
        "year": 2025,
@@ -654,14 +738,29 @@
      "topic": "Types of Functions"
     },
     {
+     "qno": 26,
+     "chapter": "Relations and Functions",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Let R be a relation defined on a set N of natural numbers such that $R = \\{(x, y) : xy \\text{ is a square of a natural number}, x, y \\in N\\}$. Determine if the relation R is an equivalence relation.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Relations",
+     "figures": []
+    },
+    {
      "qno": 32,
      "chapter": "Relations and Functions",
      "type": "Long Answer",
      "marks": 5,
      "text": "A relation R is defined on Z, the set of integers, as $R = \\{(x, y) : |x - y| \\text{ is divisible by a prime number '}p\\text{'}, x, y \\in Z\\}$. Check whether R is an equivalence relation or not.",
-     "or": {
-      "text": "A function $f : \\mathbb{R} - \\left\\{\\dfrac{3}{5}\\right\\} \\to \\mathbb{R} - \\left\\{\\dfrac{3}{5}\\right\\}$ is defined as $f(x) = \\dfrac{3x + 2}{5x - 3}$. Show that $f$ is one-one and onto."
-     },
      "papers": [
       {
        "year": 2026,
@@ -672,6 +771,24 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Types of Relations"
+    },
+    {
+     "qno": 32,
+     "chapter": "Relations and Functions",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "A function $f : \\mathbb{R} - \\left\\{\\dfrac{3}{5}\\right\\} \\to \\mathbb{R} - \\left\\{\\dfrac{3}{5}\\right\\}$ is defined as $f(x) = \\dfrac{3x + 2}{5x - 3}$. Show that $f$ is one-one and onto.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Functions",
+     "figures": []
     },
     {
      "qno": 1,
@@ -761,9 +878,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Let $A = \\mathbb{R} - \\{3\\}$ and $B = \\mathbb{R} - \\{1\\}$. A function $f : A \\to B$ is defined by $f(x) = \\left(\\dfrac{x - 2}{x - 3}\\right)$. Find whether $f$ is one-one and onto.",
-     "or": {
-      "text": "Let $n$ be a fixed positive integer. A relation R is defined in set Z such that $R = \\{(x, y) : (x - y) \\text{ is divisible by } n,\\ \\forall\\, x, y \\in Z\\}$. Determine if R is an equivalence relation."
-     },
      "papers": [
       {
        "year": 2026,
@@ -774,6 +888,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions"
+    },
+    {
+     "qno": 26,
+     "chapter": "Relations and Functions",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Let $n$ be a fixed positive integer. A relation R is defined in set Z such that $R = \\{(x, y) : (x - y) \\text{ is divisible by } n,\\ \\forall\\, x, y \\in Z\\}$. Determine if R is an equivalence relation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Relations",
+     "figures": []
     },
     {
      "qno": 19,
@@ -816,6 +948,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Relations"
+    },
+    {
+     "qno": 23,
+     "chapter": "Relations and Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "A relation R defined on set $A = \\{1, 2, 3\\}$ is $R = \\{(1, 1), (3, 3), (1, 2)\\}$. Check whether R is an equivalence relation. Verify. Write the smallest relation $R_1$ such that $R \\cup R_1$ becomes an equivalence relation on $A = \\{1, 2, 3\\}$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Relations",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -826,8 +976,26 @@
   },
   {
    "chapter": "Inverse Trigonometric Functions",
-   "count": 38,
+   "count": 46,
    "questions": [
+    {
+     "qno": 21,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Evaluate : $\\sin^{-1}\\!\\left(\\sin\\dfrac{3\\pi}{4}\\right) + \\cos^{-1}\\!\\left(\\cos\\dfrac{3\\pi}{4}\\right) + \\tan^{-1}(1)$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "Basic Concepts",
+     "figures": []
+    },
     {
      "qno": 19,
      "chapter": "Inverse Trigonometric Functions",
@@ -892,9 +1060,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Evaluate $\\sin^{-1}\\!\\left(\\sin\\dfrac{3\\pi}{4}\\right) + \\cos^{-1}(\\cos \\pi) + \\tan^{-1}(1)$.",
-     "or": {
-      "text": "Draw the graph of $\\cos^{-1}x$, where $x \\in [-1, 0]$. Also, write its range."
-     },
      "papers": [
       {
        "year": 2023,
@@ -905,6 +1070,24 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Basic Concepts"
+    },
+    {
+     "qno": 21,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Draw the graph of $\\cos^{-1}x$, where $x \\in [-1, 0]$. Also, write its range.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 19,
@@ -937,9 +1120,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Evaluate $3\\sin^{-1}\\!\\left(\\dfrac{1}{\\sqrt{2}}\\right) + 2\\cos^{-1}\\!\\left(\\dfrac{\\sqrt{3}}{2}\\right) + \\cos^{-1}(0)$.",
-     "or": {
-      "text": "Draw the graph of $f(x) = \\sin^{-1}x$, $x \\in \\left[-\\dfrac{1}{\\sqrt{2}}, \\dfrac{1}{\\sqrt{2}}\\right]$. Also, write range of $f(x)$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -950,6 +1130,24 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Properties of Inverse Trigonometric Functions"
+    },
+    {
+     "qno": 24,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Draw the graph of $f(x) = \\sin^{-1}x$, $x \\in \\left[-\\dfrac{1}{\\sqrt{2}}, \\dfrac{1}{\\sqrt{2}}\\right]$. Also, write range of $f(x)$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 19,
@@ -986,9 +1184,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find the domain of $y = \\sin^{-1}(x^2 - 4)$.",
-     "or": {
-      "text": "Evaluate : $\\cos^{-1}\\left[\\cos\\left(-\\dfrac{7\\pi}{3}\\right)\\right]$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -999,6 +1194,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts"
+    },
+    {
+     "qno": 21,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Evaluate : $\\cos^{-1}\\left[\\cos\\left(-\\dfrac{7\\pi}{3}\\right)\\right]$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 2,
@@ -1070,9 +1283,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find the value of $\\tan^{-1}\\left(-\\dfrac{1}{\\sqrt{3}}\\right) + \\cot^{-1}\\left(\\dfrac{1}{\\sqrt{3}}\\right) + \\tan^{-1}\\left[\\sin\\left(-\\dfrac{\\pi}{2}\\right)\\right]$.",
-     "or": {
-      "text": "Find the domain of the function $f(x) = \\sin^{-1}(x^2 - 4)$. Also, find its range."
-     },
      "papers": [
       {
        "year": 2024,
@@ -1083,6 +1293,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts"
+    },
+    {
+     "qno": 21,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find the domain of the function $f(x) = \\sin^{-1}(x^2 - 4)$. Also, find its range.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 21,
@@ -1107,9 +1335,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Express $\\tan^{-1}\\left(\\dfrac{\\cos x}{1 - \\sin x}\\right)$, where $-\\dfrac{\\pi}{2} < x < \\dfrac{\\pi}{2}$, in the simplest form.",
-     "or": {
-      "text": "Find the principal value of $\\tan^{-1}(1) + \\cos^{-1}\\left(-\\dfrac{1}{2}\\right) + \\sin^{-1}\\left(-\\dfrac{1}{\\sqrt{2}}\\right)$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -1120,6 +1345,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions"
+    },
+    {
+     "qno": 21,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find the principal value of $\\tan^{-1}(1) + \\cos^{-1}\\left(-\\dfrac{1}{2}\\right) + \\sin^{-1}\\left(-\\dfrac{1}{\\sqrt{2}}\\right)$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 19,
@@ -1257,9 +1500,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Simplify $\\sin^{-1}\\left(\\dfrac{x}{\\sqrt{1 + x^2}}\\right)$.",
-     "or": {
-      "text": "Find domain of $\\sin^{-1}\\sqrt{x - 1}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -1270,6 +1510,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions"
+    },
+    {
+     "qno": 23,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find domain of $\\sin^{-1}\\sqrt{x - 1}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 7,
@@ -1480,9 +1738,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Simplify $\\tan^{-1}\\left(\\dfrac{\\cos 2x - \\sin 2x}{\\cos 2x + \\sin 2x}\\right)$, $0 < x < \\dfrac{\\pi}{4}$.",
-     "or": {
-      "text": "Evaluate $\\tan\\left(\\sin^{-1}1 - \\cos^{-1}\\left(-\\dfrac{1}{2}\\right)\\right)$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1493,6 +1748,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions"
+    },
+    {
+     "qno": 25,
+     "chapter": "Inverse Trigonometric Functions",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Evaluate $\\tan\\left(\\sin^{-1}1 - \\cos^{-1}\\left(-\\dfrac{1}{2}\\right)\\right)$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Basic Concepts",
+     "figures": []
     },
     {
      "qno": 34,
@@ -1540,9 +1813,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find the value of $\\sin\\left[\\cot^{-1}\\left(\\sqrt{2}\\,(\\cos(\\tan^{-1}1))\\right)\\right]$.",
-     "or": {
-      "text": "A relation R defined on set $A = \\{1, 2, 3\\}$ is $R = \\{(1, 1), (3, 3), (1, 2)\\}$. Check whether R is an equivalence relation. Verify. Write the smallest relation $R_1$ such that $R \\cup R_1$ becomes an equivalence relation on $A = \\{1, 2, 3\\}$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -1668,7 +1938,7 @@
   },
   {
    "chapter": "Matrices",
-   "count": 66,
+   "count": 70,
    "questions": [
     {
      "qno": 1,
@@ -1876,9 +2146,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $A = \\begin{bmatrix} 1 & 0 & 2 \\\\ 0 & 2 & 1 \\\\ 2 & 0 & 3 \\end{bmatrix}$, then show that $A^3 - 6A^2 + 7A + 2I = O$.",
-     "or": {
-      "text": "If $A = \\begin{bmatrix} 3 & 2 \\\\ 5 & -7 \\end{bmatrix}$, then find $A^{-1}$ and use it to solve the following system of equations : $3x + 5y = 11$, $2x - 7y = -3$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -3252,6 +3519,78 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Operations on Matrices"
+    },
+    {
+     "qno": 32,
+     "chapter": "Matrices",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $f(\\alpha) = \\begin{bmatrix} \\cos\\alpha & -\\sin\\alpha & 0 \\\\ \\sin\\alpha & \\cos\\alpha & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$, prove that $f(\\alpha) \\cdot f(-\\beta) = f(\\alpha - \\beta)$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Operations on Matrices",
+     "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Matrices",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $A = \\begin{bmatrix} 1 & \\cot x \\\\ -\\cot x & 1 \\end{bmatrix}$, show that $A'A^{-1} = \\begin{bmatrix} -\\cos 2x & -\\sin 2x \\\\ \\sin 2x & -\\cos 2x \\end{bmatrix}$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Transpose of a Matrix",
+     "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Matrices",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A shopkeeper sells 50 Chemistry, 60 Physics and 35 Maths books on day I and sells 40 Chemistry, 45 Physics and 50 Maths books on day II. If the selling price for each such subject book is Rs. 150 (Chemistry), Rs. 175 (Physics) and Rs. 180 (Maths), then find his total sale in two days, using matrix method. If cost price of all the books together is Rs. 35,000, what profit did he earn after the sale of two days ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Operations on Matrices",
+     "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Matrices",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Given that $P = \\begin{bmatrix} 2 & -1 \\\\ 3 & 4 \\end{bmatrix}$, $Q = \\begin{bmatrix} 5 & 2 \\\\ 7 & 4 \\end{bmatrix}$ and $R = \\begin{bmatrix} 2 & 5 \\\\ 3 & 8 \\end{bmatrix}$, find a matrix S such that $PQ - RS$ is a zero matrix.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Types of Matrices",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -3264,8 +3603,26 @@
   },
   {
    "chapter": "Determinants",
-   "count": 58,
+   "count": 65,
    "questions": [
+    {
+     "qno": 34,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $A = \\begin{bmatrix} 3 & 2 \\\\ 5 & -7 \\end{bmatrix}$, then find $A^{-1}$ and use it to solve the following system of equations : $3x + 5y = 11$, $2x - 7y = -3$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Applications of Determinants and Matrices",
+     "figures": []
+    },
     {
      "qno": 2,
      "chapter": "Determinants",
@@ -3326,9 +3683,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $A = \\begin{bmatrix} 1 & 2 & -2 \\\\ -1 & 3 & 0 \\\\ 0 & -2 & 1 \\end{bmatrix}$ and $B^{-1} = \\begin{bmatrix} 3 & -1 & 1 \\\\ -15 & 6 & -5 \\\\ 5 & -2 & 2 \\end{bmatrix}$, find $(AB)^{-1}$.",
-     "or": {
-      "text": "Solve the following system of equations by matrix method : $x + 2y + 3z = 6$, $2x - y + z = 2$, $3x + 2y - 2z = 3$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -3339,6 +3693,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Determinant"
+    },
+    {
+     "qno": 33,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Solve the following system of equations by matrix method : $x + 2y + 3z = 6$, $2x - y + z = 2$, $3x + 2y - 2z = 3$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Applications of Determinants and Matrices",
+     "figures": []
     },
     {
      "qno": 3,
@@ -3427,9 +3799,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $A = \\begin{bmatrix} -3 & -2 & -4 \\\\ 2 & 1 & 2 \\\\ 2 & 1 & 3 \\end{bmatrix}$, $B = \\begin{bmatrix} 1 & 2 & 0 \\\\ -2 & -1 & -2 \\\\ 0 & -1 & 1 \\end{bmatrix}$, then find $AB$ and use it to solve the following system of equations : $x - 2y = 3$, $2x - y - z = 2$, $-2y + z = 3$.",
-     "or": {
-      "text": "If $f(\\alpha) = \\begin{bmatrix} \\cos\\alpha & -\\sin\\alpha & 0 \\\\ \\sin\\alpha & \\cos\\alpha & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$, prove that $f(\\alpha) \\cdot f(-\\beta) = f(\\alpha - \\beta)$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -3637,9 +4006,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $A = \\begin{bmatrix} 1 & -2 & 0 \\\\ 2 & -1 & -1 \\\\ 0 & -2 & 1 \\end{bmatrix}$, find $A^{-1}$ and use it to solve the following system of equations : $x - 2y = 10$, $2x - y - z = 8$, $-2y + z = 7$.",
-     "or": {
-      "text": "If $A = \\begin{bmatrix} -1 & a & 2 \\\\ 1 & 2 & x \\\\ 3 & 1 & 1 \\end{bmatrix}$ and $A^{-1} = \\begin{bmatrix} 1 & -1 & 1 \\\\ -8 & 7 & -5 \\\\ b & y & 3 \\end{bmatrix}$, find the value of $(a + x) - (b + y)$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -3650,6 +4016,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices"
+    },
+    {
+     "qno": 32,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $A = \\begin{bmatrix} -1 & a & 2 \\\\ 1 & 2 & x \\\\ 3 & 1 & 1 \\end{bmatrix}$ and $A^{-1} = \\begin{bmatrix} 1 & -1 & 1 \\\\ -8 & 7 & -5 \\\\ b & y & 3 \\end{bmatrix}$, find the value of $(a + x) - (b + y)$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Adjoint and Inverse of a Matrix",
+     "figures": []
     },
     {
      "qno": 3,
@@ -3684,9 +4068,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Solve the following system of equations, using matrices : $\\dfrac{2}{x} + \\dfrac{3}{y} + \\dfrac{10}{z} = 4$, $\\dfrac{4}{x} - \\dfrac{6}{y} + \\dfrac{5}{z} = 1$, $\\dfrac{6}{x} + \\dfrac{9}{y} - \\dfrac{20}{z} = 2$ where $x, y, z \\neq 0$.",
-     "or": {
-      "text": "If $A = \\begin{bmatrix} 1 & \\cot x \\\\ -\\cot x & 1 \\end{bmatrix}$, show that $A'A^{-1} = \\begin{bmatrix} -\\cos 2x & -\\sin 2x \\\\ \\sin 2x & -\\cos 2x \\end{bmatrix}$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -3911,9 +4292,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $A = \\begin{bmatrix} 1 & 2 & -3 \\\\ 2 & 0 & -3 \\\\ 1 & 2 & 0 \\end{bmatrix}$, then find $A^{-1}$ and hence solve the following system of equations : $x + 2y - 3z = 1$, $2x - 3z = 2$, $x + 2y = 3$.",
-     "or": {
-      "text": "Find the product of the matrices $\\begin{bmatrix} 1 & 2 & -3 \\\\ 2 & 3 & 2 \\\\ 3 & -3 & -4 \\end{bmatrix}$ and $\\begin{bmatrix} -6 & 17 & 13 \\\\ 14 & 5 & -8 \\\\ -15 & 9 & -1 \\end{bmatrix}$ and hence solve the system of linear equations : $x + 2y - 3z = -4$, $2x + 3y + 2z = 2$, $3x - 3y - 4z = 11$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -3924,6 +4302,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices"
+    },
+    {
+     "qno": 32,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the product of the matrices $\\begin{bmatrix} 1 & 2 & -3 \\\\ 2 & 3 & 2 \\\\ 3 & -3 & -4 \\end{bmatrix}$ and $\\begin{bmatrix} -6 & 17 & 13 \\\\ 14 & 5 & -8 \\\\ -15 & 9 & -1 \\end{bmatrix}$ and hence solve the system of linear equations : $x + 2y - 3z = -4$, $2x + 3y + 2z = 2$, $3x - 3y - 4z = 11$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Applications of Determinants and Matrices",
+     "figures": []
     },
     {
      "qno": 1,
@@ -4017,9 +4413,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Given $A = \\begin{bmatrix} -4 & 4 & 4 \\\\ -7 & 1 & 3 \\\\ 5 & -3 & -1 \\end{bmatrix}$ and $B = \\begin{bmatrix} 1 & -1 & 1 \\\\ 1 & -2 & -2 \\\\ 2 & 1 & 3 \\end{bmatrix}$, find $AB$. Hence, solve the system of linear equations : $x - y + z = 4$, $x - 2y - 2z = 9$, $2x + y + 3z = 1$.",
-     "or": {
-      "text": "If $A = \\begin{bmatrix} 1 & 2 & 0 \\\\ -2 & -1 & -2 \\\\ 0 & -1 & 1 \\end{bmatrix}$, then find $A^{-1}$. Hence, solve the system of linear equations : $x - 2y = 10$, $2x - y - z = 8$, $-2y + z = 7$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -4030,6 +4423,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices"
+    },
+    {
+     "qno": 35,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $A = \\begin{bmatrix} 1 & 2 & 0 \\\\ -2 & -1 & -2 \\\\ 0 & -1 & 1 \\end{bmatrix}$, then find $A^{-1}$. Hence, solve the system of linear equations : $x - 2y = 10$, $2x - y - z = 8$, $-2y + z = 7$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Applications of Determinants and Matrices",
+     "figures": []
     },
     {
      "qno": 7,
@@ -4243,9 +4654,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Let $2x + 5y - 1 = 0$ and $3x + 2y - 7 = 0$ represent the equations of two lines on which the ants are moving on the ground. Using matrix method, find a point common to the paths of the ants.",
-     "or": {
-      "text": "A shopkeeper sells 50 Chemistry, 60 Physics and 35 Maths books on day I and sells 40 Chemistry, 45 Physics and 50 Maths books on day II. If the selling price for each such subject book is Rs. 150 (Chemistry), Rs. 175 (Physics) and Rs. 180 (Maths), then find his total sale in two days, using matrix method. If cost price of all the books together is Rs. 35,000, what profit did he earn after the sale of two days ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -4309,9 +4717,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $A = \\begin{bmatrix} 0 & 2 & 1 \\\\ -2 & -1 & -2 \\\\ 1 & -1 & 0 \\end{bmatrix}$, find $A^{-1}$ and use it to solve the following system of equations : $-2y + z = 7$, $2x - y - z = 8$, $x - 2y = 10$.",
-     "or": {
-      "text": "If $\\begin{bmatrix} 3 & -1 & \\sin 2x \\\\ -7 & 4 & \\cos 2x \\\\ -11 & 7 & 2 \\end{bmatrix}$ is a singular matrix, then find all values of $x$ where $x \\in \\left[0, \\dfrac{\\pi}{2}\\right]$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -4322,6 +4727,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices"
+    },
+    {
+     "qno": 33,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $\\begin{bmatrix} 3 & -1 & \\sin 2x \\\\ -7 & 4 & \\cos 2x \\\\ -11 & 7 & 2 \\end{bmatrix}$ is a singular matrix, then find all values of $x$ where $x \\in \\left[0, \\dfrac{\\pi}{2}\\right]$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Adjoint and Inverse of a Matrix",
+     "figures": []
     },
     {
      "qno": 5,
@@ -4375,9 +4798,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $P = \\begin{bmatrix} 1 & -1 & 0 \\\\ 2 & 3 & 4 \\\\ 0 & 1 & 2 \\end{bmatrix}$ and $Q = \\begin{bmatrix} 2 & 2 & -4 \\\\ -4 & 2 & -4 \\\\ 2 & -1 & 5 \\end{bmatrix}$, find $(QP)$ and hence solve the following system of equations using matrices : $x - y = 3$, $2x + 3y + 4z = 17$, $y + 2z = 7$.",
-     "or": {
-      "text": "Obtain the value of $\\Delta = \\begin{vmatrix} 1 + x & 1 & 1 \\\\ 1 & 1 + y & 1 \\\\ 1 & 1 & 1 + z \\end{vmatrix}$ in terms of $x$, $y$ and $z$. Further, if $\\Delta = 0$ and $x$, $y$, $z$ are non-zero real numbers, prove that $x^{-1} + y^{-1} + z^{-1} = -1$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -4388,6 +4808,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices"
+    },
+    {
+     "qno": 32,
+     "chapter": "Determinants",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Obtain the value of $\\Delta = \\begin{vmatrix} 1 + x & 1 & 1 \\\\ 1 & 1 + y & 1 \\\\ 1 & 1 & 1 + z \\end{vmatrix}$ in terms of $x$, $y$ and $z$. Further, if $\\Delta = 0$ and $x$, $y$, $z$ are non-zero real numbers, prove that $x^{-1} + y^{-1} + z^{-1} = -1$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/2/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Determinant",
+     "figures": []
     },
     {
      "qno": 2,
@@ -4441,9 +4879,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "On the inauguration day of a new showroom, a lucky draw was organized and some vouchers of Rs. 1,000 and Rs. 500 were given to the lucky draw winners. On that day, a total of 60 vouchers were given. Adding the number of Rs. 1,000 vouchers to 3 times the number of Rs. 500 vouchers gives 100. Express the given information as a system of linear equations in two variables. Hence, find the number of each type of vouchers using matrix method.",
-     "or": {
-      "text": "Given that $P = \\begin{bmatrix} 2 & -1 \\\\ 3 & 4 \\end{bmatrix}$, $Q = \\begin{bmatrix} 5 & 2 \\\\ 7 & 4 \\end{bmatrix}$ and $R = \\begin{bmatrix} 2 & 5 \\\\ 3 & 8 \\end{bmatrix}$, find a matrix S such that $PQ - RS$ is a zero matrix."
-     },
      "papers": [
       {
        "year": 2026,
@@ -4569,7 +5004,7 @@
   },
   {
    "chapter": "Continuity and Differentiability",
-   "count": 81,
+   "count": 108,
    "questions": [
     {
      "qno": 13,
@@ -4675,9 +5110,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $y = \\sqrt{ax + b}$, prove that $y\\left(\\dfrac{d^2y}{dx^2}\\right) + \\left(\\dfrac{dy}{dx}\\right)^2 = 0$.",
-     "or": {
-      "text": "If $f(x) = \\begin{cases} ax + b, & 0 < x \\leq 1 \\\\ 2x^2 - x, & 1 < x < 2 \\end{cases}$ is a differentiable function in $(0, 2)$, then find the values of $a$ and $b$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4688,6 +5120,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Second Order Derivative"
+    },
+    {
+     "qno": 25,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $f(x) = \\begin{cases} ax + b, & 0 < x \\leq 1 \\\\ 2x^2 - x, & 1 < x < 2 \\end{cases}$ is a differentiable function in $(0, 2)$, then find the values of $a$ and $b$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 15,
@@ -4741,9 +5191,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $y = x^{1/x}$, then find $\\dfrac{dy}{dx}$ at $x = 1$.",
-     "or": {
-      "text": "If $x = a\\sin 2t$, $y = a(\\cos 2t + \\log \\tan t)$, then find $\\dfrac{dy}{dx}$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4754,6 +5201,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Logarithmic Differentiation"
+    },
+    {
+     "qno": 25,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $x = a\\sin 2t$, $y = a(\\cos 2t + \\log \\tan t)$, then find $\\dfrac{dy}{dx}$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Derivatives of Functions in Parametric Forms",
+     "figures": []
     },
     {
      "qno": 6,
@@ -4930,9 +5395,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $f(x) = \\begin{cases} x^2, & \\text{if } x \\geq 1 \\\\ x, & \\text{if } x < 1 \\end{cases}$, then show that $f$ is not differentiable at $x = 1$.",
-     "or": {
-      "text": "Find the value(s) of '$\\lambda$', if the function $f(x) = \\begin{cases} \\dfrac{\\sin^2 \\lambda x}{x^2}, & \\text{if } x \\neq 0 \\\\ 1, & \\text{if } x = 0 \\end{cases}$ is continuous at $x = 0$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4945,14 +5407,29 @@
      "topic": "Differentiability"
     },
     {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find the value(s) of '$\\lambda$', if the function $f(x) = \\begin{cases} \\dfrac{\\sin^2 \\lambda x}{x^2}, & \\text{if } x \\neq 0 \\\\ 1, & \\text{if } x = 0 \\end{cases}$ is continuous at $x = 0$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Continuity",
+     "figures": []
+    },
+    {
      "qno": 27,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "Differentiate $\\sec^{-1}\\left(\\dfrac{1}{\\sqrt{1 - x^2}}\\right)$ w.r.t. $\\sin^{-1}\\left(2x\\sqrt{1 - x^2}\\right)$.",
-     "or": {
-      "text": "If $y = \\tan x + \\sec x$, then prove that $\\dfrac{d^2y}{dx^2} = \\dfrac{\\cos x}{(1 - \\sin x)^2}$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -4963,6 +5440,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 27,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "If $y = \\tan x + \\sec x$, then prove that $\\dfrac{d^2y}{dx^2} = \\dfrac{\\cos x}{(1 - \\sin x)^2}$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Second Order Derivative",
+     "figures": []
     },
     {
      "qno": 3,
@@ -5024,9 +5519,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Check whether the function $f(x) = x^2\\,|x|$ is differentiable at $x = 0$ or not.",
-     "or": {
-      "text": "If $y = \\sqrt{\\tan\\sqrt{x}}$, prove that $\\sqrt{x}\\,\\dfrac{dy}{dx} = \\dfrac{1 + y^4}{4y}$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5039,14 +5531,29 @@
      "topic": "Differentiability"
     },
     {
+     "qno": 21,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $y = \\sqrt{\\tan\\sqrt{x}}$, prove that $\\sqrt{x}\\,\\dfrac{dy}{dx} = \\dfrac{1 + y^4}{4y}$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 27,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "If $\\sqrt{1 - x^2} + \\sqrt{1 - y^2} = a(x - y)$, prove that $\\dfrac{dy}{dx} = \\sqrt{\\dfrac{1 - y^2}{1 - x^2}}$.",
-     "or": {
-      "text": "If $y = (\\tan x)^x$, then find $\\dfrac{dy}{dx}$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5057,6 +5564,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 27,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "If $y = (\\tan x)^x$, then find $\\dfrac{dy}{dx}$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 4,
@@ -5118,9 +5643,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $f(x) = |\\tan 2x|$, then find the value of $f'(x)$ at $x = \\dfrac{\\pi}{3}$.",
-     "or": {
-      "text": "If $y = \\operatorname{cosec}(\\cot^{-1}x)$, then prove that $\\sqrt{1 + x^2}\\,\\dfrac{dy}{dx} - x = 0$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5133,14 +5655,29 @@
      "topic": "Differentiability"
     },
     {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $y = \\operatorname{cosec}(\\cot^{-1}x)$, then prove that $\\sqrt{1 + x^2}\\,\\dfrac{dy}{dx} - x = 0$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 26,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "If $x = e^{\\cos 3t}$ and $y = e^{\\sin 3t}$, prove that $\\dfrac{dy}{dx} = -\\dfrac{y\\log x}{x\\log y}$.",
-     "or": {
-      "text": "Show that : $\\dfrac{d}{dx}(|x|) = \\dfrac{x}{|x|}$, $x \\neq 0$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5151,6 +5688,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Derivatives of Functions in Parametric Forms"
+    },
+    {
+     "qno": 26,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Show that : $\\dfrac{d}{dx}(|x|) = \\dfrac{x}{|x|}$, $x \\neq 0$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 4,
@@ -5204,9 +5759,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $x = e^{xy}$, prove that $\\dfrac{dy}{dx} = \\dfrac{\\log x - 1}{(\\log x)^2}$.",
-     "or": {
-      "text": "Check the differentiability of $f(x) = \\begin{cases} x^2 + 1, & 0 \\leq x < 1 \\\\ 3 - x, & 1 \\leq x \\leq 2 \\end{cases}$ at $x = 1$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5219,14 +5771,29 @@
      "topic": "Logarithmic Differentiation"
     },
     {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Check the differentiability of $f(x) = \\begin{cases} x^2 + 1, & 0 \\leq x < 1 \\\\ 3 - x, & 1 \\leq x \\leq 2 \\end{cases}$ at $x = 1$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 26,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "If $x\\cos(p + y) + \\cos p\\sin(p + y) = 0$, prove that $\\cos p\\dfrac{dy}{dx} = -\\cos^2(p + y)$, where $p$ is a constant.",
-     "or": {
-      "text": "Find the value of $a$ and $b$ so that function $f$ defined as $f(x) = \\begin{cases} \\dfrac{x - 2}{|x - 2|} + a, & \\text{if } x < 2 \\\\ a + b, & \\text{if } x = 2 \\\\ \\dfrac{x - 2}{|x - 2|} + b, & \\text{if } x > 2 \\end{cases}$ is a continuous function."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5237,6 +5804,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 26,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the value of $a$ and $b$ so that function $f$ defined as $f(x) = \\begin{cases} \\dfrac{x - 2}{|x - 2|} + a, & \\text{if } x < 2 \\\\ a + b, & \\text{if } x = 2 \\\\ \\dfrac{x - 2}{|x - 2|} + b, & \\text{if } x > 2 \\end{cases}$ is a continuous function.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Continuity",
+     "figures": []
     },
     {
      "qno": 6,
@@ -5290,9 +5875,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $y = \\cos^3(\\sec^2 2t)$, find $\\dfrac{dy}{dt}$.",
-     "or": {
-      "text": "If $x^y = e^{x - y}$, prove that $\\dfrac{dy}{dx} = \\dfrac{\\log x}{(1 + \\log x)^2}$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5303,6 +5885,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $x^y = e^{x - y}$, prove that $\\dfrac{dy}{dx} = \\dfrac{\\log x}{(1 + \\log x)^2}$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Logarithmic Differentiation",
+     "figures": []
     },
     {
      "qno": 26,
@@ -5381,9 +5981,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Verify whether the function $f$ defined by $f(x) = \\begin{cases} x\\sin\\dfrac{1}{x}, & x \\neq 0 \\\\ 0, & x = 0 \\end{cases}$ is continuous at $x = 0$ or not.",
-     "or": {
-      "text": "Check for differentiability of the function $f$ defined by $f(x) = |x - 5|$, at the point $x = 5$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5396,14 +5993,29 @@
      "topic": "Continuity"
     },
     {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Check for differentiability of the function $f$ defined by $f(x) = |x - 5|$, at the point $x = 5$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Easy",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 26,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "Find $\\dfrac{dy}{dx}$, if $(\\cos x)^y = (\\cos y)^x$.",
-     "or": {
-      "text": "If $\\sqrt{1 - x^2} + \\sqrt{1 - y^2} = a(x - y)$, prove that $\\dfrac{dy}{dx} = \\sqrt{\\dfrac{1 - y^2}{1 - x^2}}$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -5414,6 +6026,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 26,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "If $\\sqrt{1 - x^2} + \\sqrt{1 - y^2} = a(x - y)$, prove that $\\dfrac{dy}{dx} = \\sqrt{\\dfrac{1 - y^2}{1 - x^2}}$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 27,
@@ -5486,9 +6116,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Differentiate $2^{\\cos^2 x}$ w.r.t. $\\cos^2 x$.",
-     "or": {
-      "text": "If $\\tan^{-1}(x^2 + y^2) = a^2$, then find $\\dfrac{dy}{dx}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5501,14 +6128,29 @@
      "topic": "Differentiability"
     },
     {
+     "qno": 21,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $\\tan^{-1}(x^2 + y^2) = a^2$, then find $\\dfrac{dy}{dx}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 32,
      "chapter": "Continuity and Differentiability",
      "type": "Long Answer",
      "marks": 5,
      "text": "If $\\sqrt{1 - x^2} + \\sqrt{1 - y^2} = a(x - y)$, then show that $\\dfrac{dy}{dx} = \\sqrt{\\dfrac{1 - y^2}{1 - x^2}}$.",
-     "or": {
-      "text": "If $x = a\\left(\\cos\\theta + \\log\\tan\\dfrac{\\theta}{2}\\right)$ and $y = a\\sin\\theta$, then find $\\dfrac{d^2y}{dx^2}$ at $\\theta = \\dfrac{\\pi}{4}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5519,6 +6161,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 32,
+     "chapter": "Continuity and Differentiability",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If $x = a\\left(\\cos\\theta + \\log\\tan\\dfrac{\\theta}{2}\\right)$ and $y = a\\sin\\theta$, then find $\\dfrac{d^2y}{dx^2}$ at $\\theta = \\dfrac{\\pi}{4}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Second Order Derivative",
+     "figures": []
     },
     {
      "qno": 14,
@@ -5547,9 +6207,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $x = e^{x/y}$, then prove that $\\dfrac{dy}{dx} = \\dfrac{x - y}{x\\log x}$.",
-     "or": {
-      "text": "If $f(x) = \\begin{cases} 2x - 3, & -3 \\leq x \\leq -2 \\\\ x + 1, & -2 < x \\leq 0 \\end{cases}$. Check the differentiability of $f(x)$ at $x = -2$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5562,14 +6219,29 @@
      "topic": "Logarithmic Differentiation"
     },
     {
+     "qno": 25,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $f(x) = \\begin{cases} 2x - 3, & -3 \\leq x \\leq -2 \\\\ x + 1, & -2 < x \\leq 0 \\end{cases}$. Check the differentiability of $f(x)$ at $x = -2$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 29,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "If $y = \\log\\left(\\sqrt{x} + \\dfrac{1}{\\sqrt{x}}\\right)^2$, then show that $x(x + 1)^2 y_2 + (x + 1)^2 y_1 = 2$.",
-     "or": {
-      "text": "If $x\\sqrt{1 + y} + y\\sqrt{1 + x} = 0$, $-1 < x < 1$, $x \\neq y$, then prove that $\\dfrac{dy}{dx} = \\dfrac{-1}{(1 + x)^2}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5580,6 +6252,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Second Order Derivative"
+    },
+    {
+     "qno": 29,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "If $x\\sqrt{1 + y} + y\\sqrt{1 + x} = 0$, $-1 < x < 1$, $x \\neq y$, then prove that $\\dfrac{dy}{dx} = \\dfrac{-1}{(1 + x)^2}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 4,
@@ -5656,9 +6346,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find $k$ so that $f(x) = \\begin{cases} \\dfrac{x^2 - 2x - 3}{x + 1}, & x \\neq -1 \\\\ k, & x = -1 \\end{cases}$ is continuous at $x = -1$.",
-     "or": {
-      "text": "Check the differentiability of function $f(x) = x\\,|x|$ at $x = 0$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5669,6 +6356,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Continuity"
+    },
+    {
+     "qno": 27,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Check the differentiability of function $f(x) = x\\,|x|$ at $x = 0$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Easy",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 5,
@@ -5722,9 +6427,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Differentiate $\\dfrac{\\sin x}{\\sqrt{\\cos x}}$ with respect to $x$.",
-     "or": {
-      "text": "If $y = 5\\cos x - 3\\sin x$, prove that $\\dfrac{d^2y}{dx^2} + y = 0$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5742,14 +6444,34 @@
      "topic": "Differentiability"
     },
     {
+     "qno": 23,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $y = 5\\cos x - 3\\sin x$, prove that $\\dfrac{d^2y}{dx^2} + y = 0$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "23-OR"
+      },
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "Second Order Derivative",
+     "figures": []
+    },
+    {
      "qno": 34,
      "chapter": "Continuity and Differentiability",
      "type": "Long Answer",
      "marks": 5,
      "text": "For a positive constant '$a$', differentiate $a^{t + \\frac{1}{t}}$ with respect to $\\left(t + \\dfrac{1}{t}\\right)^a$, where $t$ is a non-zero real number.",
-     "or": {
-      "text": "Find $\\dfrac{dy}{dx}$ if $y^x + x^y + x^x = a^b$, where $a$ and $b$ are constants."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5760,6 +6482,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Exponential and Logarithmic Functions"
+    },
+    {
+     "qno": 34,
+     "chapter": "Continuity and Differentiability",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find $\\dfrac{dy}{dx}$ if $y^x + x^y + x^x = a^b$, where $a$ and $b$ are constants.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Logarithmic Differentiation",
+     "figures": []
     },
     {
      "qno": 6,
@@ -5859,9 +6599,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Differentiate $e^{\\sqrt{2x}}$ with respect to $e^{\\sqrt{x}}$ for $x > 0$.",
-     "or": {
-      "text": "If $(x)^y = (y)^x$, then find $\\dfrac{dy}{dx}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5874,14 +6611,29 @@
      "topic": "Differentiability"
     },
     {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $(x)^y = (y)^x$, then find $\\dfrac{dy}{dx}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 27,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "Differentiate $y = \\sin^{-1}(3x - 4x^3)$ w.r.t. $x$, if $x \\in \\left[-\\dfrac{1}{2}, \\dfrac{1}{2}\\right]$.",
-     "or": {
-      "text": "Differentiate $y = \\cos^{-1}\\left(\\dfrac{1 - x^2}{1 + x^2}\\right)$ with respect to $x$, where $x \\in (0, 1)$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5892,6 +6644,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 27,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Differentiate $y = \\cos^{-1}\\left(\\dfrac{1 - x^2}{1 + x^2}\\right)$ with respect to $x$, where $x \\in (0, 1)$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 8,
@@ -5970,9 +6740,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Differentiate $\\left(\\dfrac{5^x}{x^5}\\right)$ with respect to $x$.",
-     "or": {
-      "text": "If $-2x^2 - 5xy + y^3 = 76$, then find $\\dfrac{dy}{dx}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -5983,6 +6750,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Exponential and Logarithmic Functions"
+    },
+    {
+     "qno": 23,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $-2x^2 - 5xy + y^3 = 76$, then find $\\dfrac{dy}{dx}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 28,
@@ -6007,9 +6792,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Check whether function $f(x)$ defined as $f(x) = \\begin{cases} \\dfrac{|x - 3|}{2(x - 3)}, & x < 3 \\\\ \\dfrac{x - 6}{6}, & x \\geq 3 \\end{cases}$ is continuous at $x = 3$ or not.",
-     "or": {
-      "text": "If $\\sqrt{3}(x^2 + y^2) = 4xy$, then find $\\dfrac{dy}{dx}$ at $\\left(\\dfrac{1}{2}, \\dfrac{\\sqrt{3}}{2}\\right)$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -6020,6 +6802,24 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity"
+    },
+    {
+     "qno": 21,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $\\sqrt{3}(x^2 + y^2) = 4xy$, then find $\\dfrac{dy}{dx}$ at $\\left(\\dfrac{1}{2}, \\dfrac{\\sqrt{3}}{2}\\right)$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 34,
@@ -6250,9 +7050,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Show that the function $f(x) = \\begin{cases} \\dfrac{\\cos x}{\\frac{\\pi}{2} - x}, & x \\neq \\frac{\\pi}{2} \\\\ 1, & x = \\frac{\\pi}{2} \\end{cases}$ is continuous at $x = \\dfrac{\\pi}{2}$.",
-     "or": {
-      "text": "Find whether the function $f(x) = \\begin{cases} x - 1, & x < 2 \\\\ 2x - 3, & x \\geq 2 \\end{cases}$ at $x = 2$ is differentiable or not."
-     },
      "papers": [
       {
        "year": 2026,
@@ -6265,14 +7062,29 @@
      "topic": "Continuity"
     },
     {
+     "qno": 22,
+     "chapter": "Continuity and Differentiability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find whether the function $f(x) = \\begin{cases} x - 1, & x < 2 \\\\ 2x - 3, & x \\geq 2 \\end{cases}$ at $x = 2$ is differentiable or not.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Differentiability",
+     "figures": []
+    },
+    {
      "qno": 28,
      "chapter": "Continuity and Differentiability",
      "type": "Short Answer",
      "marks": 3,
      "text": "If $xy = e^{x-y}$, then find $\\dfrac{dy}{dx}$.",
-     "or": {
-      "text": "Differentiate $\\tan^{-1}\\left(\\dfrac{\\sqrt{1 + x^2} - \\sqrt{1 - x^2}}{\\sqrt{1 + x^2} + \\sqrt{1 - x^2}}\\right)$ with respect to $\\cos^{-1}x^2$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -6283,6 +7095,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability"
+    },
+    {
+     "qno": 28,
+     "chapter": "Continuity and Differentiability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Differentiate $\\tan^{-1}\\left(\\dfrac{\\sqrt{1 + x^2} - \\sqrt{1 - x^2}}{\\sqrt{1 + x^2} + \\sqrt{1 - x^2}}\\right)$ with respect to $\\cos^{-1}x^2$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Differentiability",
+     "figures": []
     },
     {
      "qno": 6,
@@ -6336,9 +7166,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "If $y\\sqrt{x^2 + 1} = \\log\\left(\\sqrt{x^2 + 1} - x\\right)$, show that $(x^2 + 1)\\dfrac{dy}{dx} + xy + 1 = 0$.",
-     "or": {
-      "text": "Find the differential of $x^{\\cot x} + \\dfrac{2x^2 - 3}{2x^2 - x + 2}$ with respect to $x$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -6349,6 +7176,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Exponential and Logarithmic Functions"
+    },
+    {
+     "qno": 33,
+     "chapter": "Continuity and Differentiability",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the differential of $x^{\\cot x} + \\dfrac{2x^2 - 3}{2x^2 - x + 2}$ with respect to $x$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Differentiability",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -6362,7 +7207,7 @@
   },
   {
    "chapter": "Application of Derivatives",
-   "count": 71,
+   "count": 77,
    "questions": [
     {
      "qno": 16,
@@ -6611,9 +7456,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "The median of an equilateral triangle is increasing at the rate of $2\\sqrt{3}$ cm/s. Find the rate at which its side is increasing.",
-     "or": {
-      "text": "Sum of two numbers is 5. If the sum of the cubes of these numbers is least, then find the sum of the squares of these numbers."
-     },
      "papers": [
       {
        "year": 2023,
@@ -6624,6 +7466,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Rate of Change of Quantities"
+    },
+    {
+     "qno": 32,
+     "chapter": "Application of Derivatives",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Sum of two numbers is 5. If the sum of the cubes of these numbers is least, then find the sum of the squares of these numbers.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Maxima and Minima",
+     "figures": []
     },
     {
      "qno": 4,
@@ -6793,9 +7653,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the intervals in which the function $f(x) = \\dfrac{\\log x}{x}$ is strictly increasing or strictly decreasing.",
-     "or": {
-      "text": "Find the absolute maximum and absolute minimum values of the function $f$ given by $f(x) = \\dfrac{x}{2} + \\dfrac{2}{x}$, on the interval $[1, 2]$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -6808,14 +7665,29 @@
      "topic": "Increasing and Decreasing Functions"
     },
     {
+     "qno": 27,
+     "chapter": "Application of Derivatives",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the absolute maximum and absolute minimum values of the function $f$ given by $f(x) = \\dfrac{x}{2} + \\dfrac{2}{x}$, on the interval $[1, 2]$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Maxima and Minima",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Application of Derivatives",
      "type": "Long Answer",
      "marks": 5,
      "text": "It is given that function $f(x) = x^4 - 62x^2 + ax + 9$ attains local maximum value at $x = 1$. Find the value of '$a$', hence obtain all other points where the given function $f(x)$ attains local maximum or local minimum values.",
-     "or": {
-      "text": "The perimeter of a rectangular metallic sheet is 300 cm. It is rolled along one of its sides to form a cylinder. Find the dimensions of the rectangular sheet so that volume of cylinder so formed is maximum."
-     },
      "papers": [
       {
        "year": 2024,
@@ -6826,6 +7698,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Maxima and Minima"
+    },
+    {
+     "qno": 33,
+     "chapter": "Application of Derivatives",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "The perimeter of a rectangular metallic sheet is 300 cm. It is rolled along one of its sides to form a cylinder. Find the dimensions of the rectangular sheet so that volume of cylinder so formed is maximum.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Maxima and Minima",
+     "figures": []
     },
     {
      "qno": 18,
@@ -7215,9 +8105,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find the least value of '$a$' so that $f(x) = 2x^2 - ax + 3$ is an increasing function on $[2, 4]$.",
-     "or": {
-      "text": "If $f(x) = x + \\dfrac{1}{x}$, $x \\geq 1$, show that $f$ is an increasing function."
-     },
      "papers": [
       {
        "year": 2025,
@@ -7228,6 +8115,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions"
+    },
+    {
+     "qno": 22,
+     "chapter": "Application of Derivatives",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $f(x) = x + \\dfrac{1}{x}$, $x \\geq 1$, show that $f$ is an increasing function.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "Increasing and Decreasing Functions",
+     "figures": []
     },
     {
      "qno": 25,
@@ -7523,9 +8428,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find the absolute maximum value of $f(x) = \\cos x + \\sin^2 x$, $x \\in [0, \\pi]$.",
-     "or": {
-      "text": "If the volume of a solid hemisphere increases at a uniform rate, prove that its surface area varies inversely as its radius."
-     },
      "papers": [
       {
        "year": 2026,
@@ -7538,17 +8440,29 @@
      "topic": "Maxima and Minima"
     },
     {
+     "qno": 23,
+     "chapter": "Application of Derivatives",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If the volume of a solid hemisphere increases at a uniform rate, prove that its surface area varies inversely as its radius.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/2/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Maxima and Minima",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Application of Derivatives",
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the sub intervals in which $f(x) = \\cot^{-1}(\\sin x + \\cos x)$, $x \\in (0, \\pi)$ is increasing and decreasing.",
-     "or": {
-      "text": "A rectangle of perimeter 36 cm is revolved around one of its sides to sweep out a cylinder of maximum volume. Find the dimensions of the rectangle.",
-      "figures": [
-       "assets/figures/2026_z2_q33b.png"
-      ]
-     },
      "papers": [
       {
        "year": 2026,
@@ -7559,6 +8473,26 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Increasing and Decreasing Functions"
+    },
+    {
+     "qno": 33,
+     "chapter": "Application of Derivatives",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "A rectangle of perimeter 36 cm is revolved around one of its sides to sweep out a cylinder of maximum volume. Find the dimensions of the rectangle.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Maxima and Minima",
+     "figures": [
+      "assets/figures/2026_z2_q33b.png"
+     ]
     },
     {
      "qno": 9,
@@ -7766,7 +8700,7 @@
   },
   {
    "chapter": "Integrals",
-   "count": 86,
+   "count": 112,
    "questions": [
     {
      "qno": 5,
@@ -7862,9 +8796,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} e^x \\sin x\\, dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{1}{\\cos(x-a)\\,\\cos(x-b)}\\, dx$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -7875,6 +8806,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral"
+    },
+    {
+     "qno": 31,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\dfrac{1}{\\cos(x-a)\\,\\cos(x-b)}\\, dx$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Integration",
+     "figures": []
     },
     {
      "qno": 5,
@@ -7936,9 +8885,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate $\\displaystyle\\int_{0}^{\\pi/4} \\log(1 + \\tan x)\\, dx$.",
-     "or": {
-      "text": "Find $\\displaystyle\\int \\dfrac{dx}{\\sqrt{\\sin^3 x \\cos(x - \\alpha)}}$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -7949,6 +8895,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals"
+    },
+    {
+     "qno": 26,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find $\\displaystyle\\int \\dfrac{dx}{\\sqrt{\\sin^3 x \\cos(x - \\alpha)}}$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Methods of Integration",
+     "figures": []
     },
     {
      "qno": 27,
@@ -8070,9 +9034,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find $\\displaystyle\\int \\dfrac{\\cos x}{\\sin 3x}\\,dx$.",
-     "or": {
-      "text": "Find $\\displaystyle\\int x^2 \\log(x^2 + 1)\\,dx$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -8083,6 +9044,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 29,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find $\\displaystyle\\int x^2 \\log(x^2 + 1)\\,dx$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integration by Parts",
+     "figures": []
     },
     {
      "qno": 8,
@@ -8161,9 +9140,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{\\pi/4}^{\\pi/2} e^{2x}\\left(\\dfrac{1 - \\sin 2x}{1 - \\cos 2x}\\right) dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{-2}^{2} \\dfrac{x^2}{1 + 5^x}\\,dx$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -8176,14 +9152,29 @@
      "topic": "Definite Integral"
     },
     {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{-2}^{2} \\dfrac{x^2}{1 + 5^x}\\,dx$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Some Properties of Definite Integrals",
+     "figures": []
+    },
+    {
      "qno": 28,
      "chapter": "Integrals",
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{e^x}{\\sqrt{5 - 4e^x - e^{2x}}}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\sqrt{\\sin x}\\,\\cos^5 x\\,dx$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -8194,6 +9185,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 28,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\sqrt{\\sin x}\\,\\cos^5 x\\,dx$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 10,
@@ -8284,9 +9293,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{0}^{2\\pi} \\dfrac{1}{1 + e^{\\sin x}}\\,dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{x^4}{(x - 1)(x^2 + 1)}\\,dx$"
-     },
      "papers": [
       {
        "year": 2023,
@@ -8297,6 +9303,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals"
+    },
+    {
+     "qno": 28,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\dfrac{x^4}{(x - 1)(x^2 + 1)}\\,dx$",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integration by Partial Fractions",
+     "figures": []
     },
     {
      "qno": 33,
@@ -8348,9 +9372,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find : $\\displaystyle\\int x\\sqrt{1 + 2x}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi^2/4} \\dfrac{\\sin\\sqrt{x}}{\\sqrt{x}}\\,dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8363,14 +9384,29 @@
      "topic": "Methods of Integration"
     },
     {
+     "qno": 23,
+     "chapter": "Integrals",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi^2/4} \\dfrac{\\sin\\sqrt{x}}{\\sqrt{x}}\\,dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definite Integral",
+     "figures": []
+    },
+    {
      "qno": 28,
      "chapter": "Integrals",
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{x^2}{(x^2 + 4)(x^2 + 9)}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{1}^{3} \\left(|x - 1| + |x - 2| + |x - 3|\\right) dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8383,14 +9419,29 @@
      "topic": "Integration by Partial Fractions"
     },
     {
+     "qno": 28,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{1}^{3} \\left(|x - 1| + |x - 2| + |x - 3|\\right) dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definite Integral",
+     "figures": []
+    },
+    {
      "qno": 33,
      "chapter": "Integrals",
      "type": "Long Answer",
      "marks": 5,
      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/4} \\dfrac{\\sin x + \\cos x}{9 + 16\\sin 2x}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\sin 2x \\tan^{-1}(\\sin x)\\,dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8401,6 +9452,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Definite Integral"
+    },
+    {
+     "qno": 33,
+     "chapter": "Integrals",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\sin 2x \\tan^{-1}(\\sin x)\\,dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 6,
@@ -8452,9 +9521,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{-2}^{2} \\sqrt{\\dfrac{2 - x}{2 + x}}\\,dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{1}{x[(\\log x)^2 - 3\\log x - 4]}\\,dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8465,6 +9531,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals"
+    },
+    {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\dfrac{1}{x[(\\log x)^2 - 3\\log x - 4]}\\,dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Integration",
+     "figures": []
     },
     {
      "qno": 31,
@@ -8512,9 +9596,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\sin 2x \\cos 3x\\,dx$",
-     "or": {
-      "text": "Given $\\dfrac{d}{dx}F(x) = \\dfrac{1}{\\sqrt{2x - x^2}}$ and $F(1) = 0$, find $F(x)$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -8525,6 +9606,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral"
+    },
+    {
+     "qno": 23,
+     "chapter": "Integrals",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Given $\\dfrac{d}{dx}F(x) = \\dfrac{1}{\\sqrt{2x - x^2}}$ and $F(1) = 0$, find $F(x)$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrals of Some Particular Functions",
+     "figures": []
     },
     {
      "qno": 28,
@@ -8549,9 +9648,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{2 + \\sin 2x}{1 + \\cos 2x}\\,e^x\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/4} \\dfrac{1}{\\sin x + \\cos x}\\,dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8562,6 +9658,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 29,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/4} \\dfrac{1}{\\sin x + \\cos x}\\,dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 8,
@@ -8609,9 +9723,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\dfrac{x\\,dx}{1 + \\cos 2x + \\sin 2x}$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int e^x\\left[\\dfrac{1}{(1 + x^2)^{3/2}} + \\dfrac{x}{\\sqrt{1 + x^2}}\\right] dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8622,6 +9733,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral"
+    },
+    {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int e^x\\left[\\dfrac{1}{(1 + x^2)^{3/2}} + \\dfrac{x}{\\sqrt{1 + x^2}}\\right] dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Integration by Parts",
+     "figures": []
     },
     {
      "qno": 28,
@@ -8700,9 +9829,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find : $\\displaystyle\\int \\cos^3 x\\,e^{\\log\\sin x}\\,dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{1}{5 + 4x - x^2}\\,dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8715,14 +9841,29 @@
      "topic": "Methods of Integration"
     },
     {
+     "qno": 24,
+     "chapter": "Integrals",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find : $\\displaystyle\\int \\dfrac{1}{5 + 4x - x^2}\\,dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrals of Some Particular Functions",
+     "figures": []
+    },
+    {
      "qno": 28,
      "chapter": "Integrals",
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi} \\dfrac{e^{\\cos x}}{e^{\\cos x} + e^{-\\cos x}}\\,dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{2x + 1}{(x + 1)^2(x - 1)}\\,dx$"
-     },
      "papers": [
       {
        "year": 2024,
@@ -8733,6 +9874,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals"
+    },
+    {
+     "qno": 28,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\dfrac{2x + 1}{(x + 1)^2(x - 1)}\\,dx$",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integration by Partial Fractions",
+     "figures": []
     },
     {
      "qno": 3,
@@ -8786,9 +9945,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{x + \\sin x}{1 + \\cos x}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/4} \\dfrac{dx}{\\cos^3 x\\sqrt{2\\sin 2x}}$"
-     },
      "papers": [
       {
        "year": 2025,
@@ -8799,6 +9955,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 28,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/4} \\dfrac{dx}{\\cos^3 x\\sqrt{2\\sin 2x}}$",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 3,
@@ -8943,9 +10117,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find : $\\displaystyle\\int \\dfrac{\\cos x}{(4 + \\sin^2 x)(5 - 4\\cos^2 x)}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\dfrac{dx}{a^2\\cos^2 x + b^2\\sin^2 x}$"
-     },
      "papers": [
       {
        "year": 2025,
@@ -8956,6 +10127,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Integration by Partial Fractions"
+    },
+    {
+     "qno": 34,
+     "chapter": "Integrals",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\dfrac{dx}{a^2\\cos^2 x + b^2\\sin^2 x}$",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 11,
@@ -9009,9 +10198,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{2x}{(x^2 + 3)(x^2 - 5)}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{1}^{4} \\left(|x - 2| + |x - 4|\\right) dx$"
-     },
      "papers": [
       {
        "year": 2025,
@@ -9022,6 +10208,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integration by Partial Fractions"
+    },
+    {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{1}^{4} \\left(|x - 2| + |x - 4|\\right) dx$",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 10,
@@ -9075,9 +10279,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find : $\\displaystyle\\int \\dfrac{x^2 + 1}{(x - 1)^2(x + 3)}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\dfrac{x}{\\sin x + \\cos x}\\,dx$"
-     },
      "papers": [
       {
        "year": 2025,
@@ -9088,6 +10289,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integration by Partial Fractions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Integrals",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi/2} \\dfrac{x}{\\sin x + \\cos x}\\,dx$",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 12,
@@ -9164,9 +10383,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find : $\\displaystyle\\int \\dfrac{x^2 + 1}{(x^2 + 2)(2x^2 + 1)}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi} \\dfrac{x\\tan x}{\\sec x + \\tan x}\\,dx$"
-     },
      "papers": [
       {
        "year": 2025,
@@ -9177,6 +10393,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Integration by Partial Fractions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Integrals",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{\\pi} \\dfrac{x\\tan x}{\\sec x + \\tan x}\\,dx$",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Some Properties of Definite Integrals",
+     "figures": []
     },
     {
      "qno": 8,
@@ -9247,9 +10481,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\sqrt{\\dfrac{x + 4}{x - 2}}\\,dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{x^2}{(x^2 + 9)(x^2 + 16)}\\,dx$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9260,6 +10491,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\dfrac{x^2}{(x^2 + 9)(x^2 + 16)}\\,dx$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integration by Partial Fractions",
+     "figures": []
     },
     {
      "qno": 28,
@@ -9324,9 +10573,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Evaluate : $\\displaystyle\\int_{\\pi/12}^{5\\pi/12} \\dfrac{dx}{1 + \\sqrt{\\cot x}}$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{-\\pi/6}^{\\pi/2} (\\sin|x| + \\cos|x|)\\,dx$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9337,6 +10583,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral"
+    },
+    {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{-\\pi/6}^{\\pi/2} (\\sin|x| + \\cos|x|)\\,dx$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/2/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Some Properties of Definite Integrals",
+     "figures": []
     },
     {
      "qno": 28,
@@ -9407,9 +10671,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{dx}{x^{1/2} + x^{1/3}}$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\tan^{-1}\\left(\\dfrac{1 - x}{1 + x}\\right)\\,dx$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9420,6 +10681,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 26,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\tan^{-1}\\left(\\dfrac{1 - x}{1 + x}\\right)\\,dx$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Integration",
+     "figures": []
     },
     {
      "qno": 27,
@@ -9444,9 +10723,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{\\cos x}{(2 + \\sin x)(4 + \\sin x)}\\,dx$",
-     "or": {
-      "text": "Find : $\\displaystyle\\int \\dfrac{x + 3}{\\sqrt{x^2 + 4x + 5}}\\,dx$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9457,6 +10733,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integration by Partial Fractions"
+    },
+    {
+     "qno": 28,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find : $\\displaystyle\\int \\dfrac{x + 3}{\\sqrt{x^2 + 4x + 5}}\\,dx$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Integrals of Some Particular Functions",
+     "figures": []
     },
     {
      "qno": 9,
@@ -9510,9 +10804,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find : $\\displaystyle\\int \\dfrac{x}{(x - 1)(x^2 + 4)}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{1} \\dfrac{x\\tan^{-1}x}{(1 + x^2)^{3/2}}\\,dx$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9523,6 +10814,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Integration by Partial Fractions"
+    },
+    {
+     "qno": 32,
+     "chapter": "Integrals",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{1} \\dfrac{x\\tan^{-1}x}{(1 + x^2)^{3/2}}\\,dx$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Definite Integral",
+     "figures": []
     },
     {
      "qno": 10,
@@ -9576,9 +10885,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find : $\\displaystyle\\int \\dfrac{x - \\sin x}{1 - \\cos x}\\,dx$",
-     "or": {
-      "text": "Evaluate : $\\displaystyle\\int_{0}^{2} \\dfrac{1}{\\sqrt{x^2 + 2x + 3}}\\,dx$"
-     },
      "papers": [
       {
        "year": 2026,
@@ -9589,6 +10895,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration"
+    },
+    {
+     "qno": 27,
+     "chapter": "Integrals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Evaluate : $\\displaystyle\\int_{0}^{2} \\dfrac{1}{\\sqrt{x^2 + 2x + 3}}\\,dx$",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Definite Integral",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -9603,7 +10927,7 @@
   },
   {
    "chapter": "Application of Integrals",
-   "count": 33,
+   "count": 34,
    "questions": [
     {
      "qno": 35,
@@ -9764,9 +11088,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Sketch the graph of $y = x\\,|x|$ and hence find the area bounded by this curve, X-axis and the ordinates $x = -2$ and $x = 2$, using integration.",
-     "or": {
-      "text": "Using integration, find the area bounded by the ellipse $9x^2 + 25y^2 = 225$, the lines $x = -2$, $x = 2$, and the X-axis."
-     },
      "papers": [
       {
        "year": 2024,
@@ -9777,6 +11098,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Area under Simple Curves"
+    },
+    {
+     "qno": 32,
+     "chapter": "Application of Integrals",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Using integration, find the area bounded by the ellipse $9x^2 + 25y^2 = 225$, the lines $x = -2$, $x = 2$, and the X-axis.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Area under Simple Curves",
+     "figures": []
     },
     {
      "qno": 13,
@@ -10261,7 +11600,7 @@
   },
   {
    "chapter": "Differential Equations",
-   "count": 56,
+   "count": 69,
    "questions": [
     {
      "qno": 7,
@@ -10323,9 +11662,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the particular solution of the differential equation $\\dfrac{dy}{dx} + \\sec^2 x \\cdot y = \\tan x \\cdot \\sec^2 x$, given that $y(0) = 0$.",
-     "or": {
-      "text": "Solve the differential equation given by $x\\,dy - y\\,dx - \\sqrt{x^2 + y^2}\\,dx = 0$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10336,6 +11672,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 28,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Solve the differential equation given by $x\\,dy - y\\,dx - \\sqrt{x^2 + y^2}\\,dx = 0$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 6,
@@ -10397,9 +11751,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the general solution of the differential equation $(xy - x^2)\\,dy = y^2\\,dx$.",
-     "or": {
-      "text": "Find the general solution of the differential equation $(x^2 + 1)\\dfrac{dy}{dx} + 2xy = \\sqrt{x^2 + 4}$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10410,6 +11761,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the general solution of the differential equation $(x^2 + 1)\\dfrac{dy}{dx} + 2xy = \\sqrt{x^2 + 4}$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 8,
@@ -10467,9 +11836,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the general solution of the differential equation $\\dfrac{d}{dx}(xy^2) = 2y(1 + x^2)$.",
-     "or": {
-      "text": "Solve the following differential equation : $x\\,e^{y/x} - y + x\\dfrac{dy}{dx} = 0$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10480,6 +11846,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 26,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Solve the following differential equation : $x\\,e^{y/x} - y + x\\dfrac{dy}{dx} = 0$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 10,
@@ -10541,9 +11925,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the particular solution of the differential equation $\\dfrac{dy}{dx} = \\dfrac{x + y}{x}$, $y(1) = 0$.",
-     "or": {
-      "text": "Find the general solution of the differential equation $e^x \\tan y\\,dx + (1 - e^x)\\sec^2 y\\,dy = 0$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -10554,6 +11935,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the general solution of the differential equation $e^x \\tan y\\,dx + (1 - e^x)\\sec^2 y\\,dy = 0$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 12,
@@ -10726,9 +12125,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the particular solution of the differential equation given by $2xy + y^2 - 2x^2\\dfrac{dy}{dx} = 0$; $y = 2$, when $x = 1$.",
-     "or": {
-      "text": "Find the general solution of the differential equation : $y\\,dx = (x + 2y^2)\\,dy$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -10739,6 +12135,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 28,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the general solution of the differential equation : $y\\,dx = (x + 2y^2)\\,dy$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/2/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 7,
@@ -10832,9 +12246,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the particular solution of the differential equation $\\dfrac{dy}{dx} = y\\cot 2x$, given that $y\\left(\\dfrac{\\pi}{4}\\right) = 2$.",
-     "or": {
-      "text": "Find the particular solution of the differential equation $\\left(xe^{y/x} + y\\right)dx = x\\,dy$, given that $y = 1$ when $x = 1$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -10845,6 +12256,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the particular solution of the differential equation $\\left(xe^{y/x} + y\\right)dx = x\\,dy$, given that $y = 1$ when $x = 1$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 14,
@@ -10879,9 +12308,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the particular solution of the differential equation $\\dfrac{dy}{dx} - 2xy = 3x^2 e^{x^2}$; $y(0) = 5$.",
-     "or": {
-      "text": "Solve the following differential equation : $x^2\\,dy + y(x + y)\\,dx = 0$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -10892,6 +12318,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Solve the following differential equation : $x^2\\,dy + y(x + y)\\,dx = 0$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 4,
@@ -10968,9 +12412,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Solve the differential equation $2(y + 3) - xy\\dfrac{dy}{dx} = 0$; given $y(1) = -2$.",
-     "or": {
-      "text": "Solve the following differential equation : $(1 + x^2)\\dfrac{dy}{dx} + 2xy = 4x^2$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -10981,6 +12422,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 26,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Solve the following differential equation : $(1 + x^2)\\dfrac{dy}{dx} + 2xy = 4x^2$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 16,
@@ -11137,9 +12596,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Solve the differential equation : $x^2 y\\,dx - (x^3 + y^3)\\,dy = 0$.",
-     "or": {
-      "text": "Solve the differential equation $(1 + x^2)\\dfrac{dy}{dx} + 2xy - 4x^2 = 0$ subject to initial condition $y(0) = 0$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -11150,6 +12606,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 34,
+     "chapter": "Differential Equations",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Solve the differential equation $(1 + x^2)\\dfrac{dy}{dx} + 2xy - 4x^2 = 0$ subject to initial condition $y(0) = 0$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 34,
@@ -11237,9 +12711,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the general solution of the following differential equation : $x^2\\dfrac{dy}{dx} = x^2 + xy + y^2$.",
-     "or": {
-      "text": "Find the particular solution of the differential equation $xy\\dfrac{dy}{dx} = (x + 2)(y + 2)$, given that $y(1) = -1$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11250,6 +12721,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the particular solution of the differential equation $xy\\dfrac{dy}{dx} = (x + 2)(y + 2)$, given that $y(1) = -1$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 11,
@@ -11303,9 +12792,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Solve the following differential equation : $x\\dfrac{dy}{dx} = y - x\\sin^2\\left(\\dfrac{y}{x}\\right)$, given that $y(1) = \\dfrac{\\pi}{6}$.",
-     "or": {
-      "text": "Find the general solution of the differential equation : $y\\log y\\dfrac{dx}{dy} + x = \\dfrac{2}{y}$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11316,6 +12802,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the general solution of the differential equation : $y\\log y\\dfrac{dx}{dy} + x = \\dfrac{2}{y}$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 13,
@@ -11371,9 +12875,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the general solution of the differential equation $2x^2\\dfrac{dy}{dx} = y^2 + 2xy$.",
-     "or": {
-      "text": "Find a particular solution of the differential equation $(x + 1)\\dfrac{dy}{dx} = 2e^{-y} - 1$, given that $y = 0$ when $x = 0$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11384,6 +12885,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 29,
+     "chapter": "Differential Equations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find a particular solution of the differential equation $(x + 1)\\dfrac{dy}{dx} = 2e^{-y} - 1$, given that $y = 0$ when $x = 0$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 12,
@@ -11437,9 +12956,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Solve the differential equation $y\\,e^y\\,dx = (y^3 + 2x\\,e^y)\\,dy$, when $y(0) = 1$.",
-     "or": {
-      "text": "Find the general solution of the differential equation $(x^3 - 3xy^2)\\,dx = (y^3 - 3x^2y)\\,dy$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -11450,6 +12966,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations"
+    },
+    {
+     "qno": 34,
+     "chapter": "Differential Equations",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the general solution of the differential equation $(x^3 - 3xy^2)\\,dx = (y^3 - 3x^2y)\\,dy$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "figures": []
     },
     {
      "qno": 13,
@@ -11523,7 +13057,7 @@
   },
   {
    "chapter": "Vector Algebra",
-   "count": 81,
+   "count": 92,
    "questions": [
     {
      "qno": 8,
@@ -11632,9 +13166,6 @@
      "figures": [
       "assets/figures/2023_z1_q23.png"
      ],
-     "or": {
-      "text": "Check whether the lines given by equations $x = 2\\lambda + 2$, $y = 7\\lambda + 1$, $z = -3\\lambda - 3$ and $x = -\\mu - 2$, $y = 2\\mu + 8$, $z = 4\\mu + 5$ are perpendicular to each other or not."
-     },
      "papers": [
       {
        "year": 2023,
@@ -11961,9 +13492,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If the vectors $\\vec{a}$ and $\\vec{b}$ are such that $|\\vec{a}| = 3$, $|\\vec{b}| = \\dfrac{2}{3}$ and $\\vec{a} \\times \\vec{b}$ is a unit vector, then find the angle between $\\vec{a}$ and $\\vec{b}$.",
-     "or": {
-      "text": "Find the area of a parallelogram whose adjacent sides are determined by the vectors $\\vec{a} = \\hat{i} - \\hat{j} + 3\\hat{k}$ and $\\vec{b} = 2\\hat{i} - 7\\hat{j} + \\hat{k}$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -11974,6 +13502,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Product of Two Vectors"
+    },
+    {
+     "qno": 24,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find the area of a parallelogram whose adjacent sides are determined by the vectors $\\vec{a} = \\hat{i} - \\hat{j} + 3\\hat{k}$ and $\\vec{b} = 2\\hat{i} - 7\\hat{j} + \\hat{k}$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Product of Two Vectors",
+     "figures": []
     },
     {
      "qno": 7,
@@ -12499,9 +14045,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Two friends while flying kites from different locations, find the strings of their kites crossing each other. The strings can be represented by vectors $\\vec{a} = 3\\hat{i} + \\hat{j} + 2\\hat{k}$ and $\\vec{b} = \\hat{i} - 2\\hat{j} + 4\\hat{k}$. Determine the angle formed between the kite strings. Assume there is no slack in the strings.",
-     "or": {
-      "text": "Find a vector of magnitude 21 units in the direction opposite to that of $\\overrightarrow{AB}$ where A and B are the points $A(2, 1, 3)$ and $B(8, -1, 0)$ respectively."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12512,6 +14055,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Addition of Vectors"
+    },
+    {
+     "qno": 25,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find a vector of magnitude 21 units in the direction opposite to that of $\\overrightarrow{AB}$ where A and B are the points $A(2, 1, 3)$ and $B(8, -1, 0)$ respectively.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "Some Basic Concepts",
+     "figures": []
     },
     {
      "qno": 1,
@@ -12565,9 +14126,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "A vector $\\vec{r}$ makes equal angles with all the three axes. If the magnitude of the vector is $5\\sqrt{3}$ units, then find $\\vec{r}$.",
-     "or": {
-      "text": "If $\\vec{a}$ and $\\vec{b}$ are position vectors of two points P and Q respectively, then find the position vector of a point R in QP produced such that $QR = \\dfrac{3}{2}QP$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12578,6 +14136,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Basic Concepts"
+    },
+    {
+     "qno": 21,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If $\\vec{a}$ and $\\vec{b}$ are position vectors of two points P and Q respectively, then find the position vector of a point R in QP produced such that $QR = \\dfrac{3}{2}QP$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Multiplication of a Vector by a Scalar",
+     "figures": []
     },
     {
      "qno": 24,
@@ -12625,9 +14201,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Show that the area of a parallelogram whose diagonals are represented by $\\vec{a}$ and $\\vec{b}$ is given by $\\dfrac{1}{2}|\\vec{a} \\times \\vec{b}|$. Also find the area of a parallelogram whose diagonals are $2\\hat{i} - \\hat{j} + \\hat{k}$ and $\\hat{i} + 3\\hat{j} - \\hat{k}$.",
-     "or": {
-      "text": "Find the equation of a line in vector and cartesian form which passes through the point $(1, 2, -4)$ and is perpendicular to the lines $\\dfrac{x - 8}{3} = \\dfrac{y + 19}{-16} = \\dfrac{z - 10}{7}$, and $\\vec{r} = 15\\hat{i} + 29\\hat{j} + 5\\hat{k} + \\mu(3\\hat{i} + 8\\hat{j} - 5\\hat{k})$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12691,9 +14264,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find a vector of magnitude 5 which is perpendicular to both the vectors $3\\hat{i} - 2\\hat{j} + \\hat{k}$ and $4\\hat{i} + 3\\hat{j} - 2\\hat{k}$.",
-     "or": {
-      "text": "Let $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ be three vectors such that $\\vec{a} \\cdot \\vec{b} = \\vec{a} \\cdot \\vec{c}$ and $\\vec{a} \\times \\vec{b} = \\vec{a} \\times \\vec{c}$, $\\vec{a} \\neq \\vec{0}$. Show that $\\vec{b} = \\vec{c}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12706,14 +14276,29 @@
      "topic": "Product of Two Vectors"
     },
     {
+     "qno": 24,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Let $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ be three vectors such that $\\vec{a} \\cdot \\vec{b} = \\vec{a} \\cdot \\vec{c}$ and $\\vec{a} \\times \\vec{b} = \\vec{a} \\times \\vec{c}$, $\\vec{a} \\neq \\vec{0}$. Show that $\\vec{b} = \\vec{c}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Product of Two Vectors",
+     "figures": []
+    },
+    {
      "qno": 30,
      "chapter": "Vector Algebra",
      "type": "Short Answer",
      "marks": 3,
      "text": "If $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ such that $|\\vec{a}| = 3$, $|\\vec{b}| = 5$, $|\\vec{c}| = 7$, find the angle between $\\vec{a}$ and $\\vec{b}$.",
-     "or": {
-      "text": "If $\\vec{a}$ and $\\vec{b}$ are unit vectors inclined with each other at an angle $\\theta$, then prove that $\\dfrac{1}{2}|\\vec{a} - \\vec{b}| = \\sin\\dfrac{\\theta}{2}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12724,6 +14309,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Product of Two Vectors"
+    },
+    {
+     "qno": 30,
+     "chapter": "Vector Algebra",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "If $\\vec{a}$ and $\\vec{b}$ are unit vectors inclined with each other at an angle $\\theta$, then prove that $\\dfrac{1}{2}|\\vec{a} - \\vec{b}| = \\sin\\dfrac{\\theta}{2}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Types of Vectors",
+     "figures": []
     },
     {
      "qno": 16,
@@ -12779,9 +14382,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If $\\vec{a}$ and $\\vec{b}$ are position vectors of point A and point B respectively, then find the position vector of point C on BA produced such that $BC = 3BA$.",
-     "or": {
-      "text": "Vector $\\vec{r}$ is inclined at equal angles to the three axes x, y and z. If magnitude of $\\vec{r}$ is $5\\sqrt{3}$ units, then find $\\vec{r}$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -12792,6 +14392,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar"
+    },
+    {
+     "qno": 24,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Vector $\\vec{r}$ is inclined at equal angles to the three axes x, y and z. If magnitude of $\\vec{r}$ is $5\\sqrt{3}$ units, then find $\\vec{r}$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Some Basic Concepts",
+     "figures": []
     },
     {
      "qno": 15,
@@ -12845,9 +14463,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "The scalar product of the vector $\\vec{a} = \\hat{i} - \\hat{j} + 2\\hat{k}$ with a unit vector along sum of vectors $\\vec{b} = 2\\hat{i} - 4\\hat{j} + 5\\hat{k}$ and $\\vec{c} = \\lambda\\hat{i} - 2\\hat{j} - 3\\hat{k}$ is equal to 1. Find the value of $\\lambda$.",
-     "or": {
-      "text": "Find the shortest distance between the lines : $\\vec{r} = (2\\hat{i} - \\hat{j} + 3\\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + 3\\hat{k})$ and $\\vec{r} = (\\hat{i} + 4\\hat{j} + \\hat{k}) + \\mu(3\\hat{i} - 6\\hat{j} + 9\\hat{k})$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -13227,9 +14842,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Let two rods placed on the ground be represented by vectors $4\\hat{i} - \\hat{j} + 3\\hat{k}$ and $-2\\hat{i} + \\hat{j} - 2\\hat{k}$. Find a vector representing a flag-post of height 5 m that has to be erected perpendicular to both the rods.",
-     "or": {
-      "text": "A unit vector $\\vec{a}$ is such that it makes an angle $\\dfrac{\\pi}{4}$ with x-axis, $\\dfrac{\\pi}{3}$ with y-axis and an acute angle $\\theta$ with z-axis. Find $\\theta$ and the components of $\\vec{a}$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -13240,6 +14852,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Product of Two Vectors"
+    },
+    {
+     "qno": 25,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "A unit vector $\\vec{a}$ is such that it makes an angle $\\dfrac{\\pi}{4}$ with x-axis, $\\dfrac{\\pi}{3}$ with y-axis and an acute angle $\\theta$ with z-axis. Find $\\theta$ and the components of $\\vec{a}$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Types of Vectors",
+     "figures": []
     },
     {
      "qno": 16,
@@ -13293,9 +14923,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Three honey bees were found flying along the vectors $\\vec{a} = 2\\hat{i} - 3\\hat{j} + \\hat{k}$, $\\vec{b} = 4\\hat{j} - 2\\hat{k}$ and $\\vec{c} = 3\\hat{i} + 2\\hat{k}$ respectively. Find the value of $\\lambda$ such that the path for $\\vec{a} + \\lambda\\vec{b}$ is perpendicular to $\\vec{c}$.",
-     "or": {
-      "text": "If A, B and C be three non-collinear points such that $\\overrightarrow{AB} = \\hat{i} + 2\\hat{j} - \\hat{k}$ and $\\overrightarrow{AC} = 2\\hat{i} - 3\\hat{j}$, then find the area of $\\triangle ABC$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -13308,14 +14935,29 @@
      "topic": "Product of Two Vectors"
     },
     {
+     "qno": 24,
+     "chapter": "Vector Algebra",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "If A, B and C be three non-collinear points such that $\\overrightarrow{AB} = \\hat{i} + 2\\hat{j} - \\hat{k}$ and $\\overrightarrow{AC} = 2\\hat{i} - 3\\hat{j}$, then find the area of $\\triangle ABC$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Product of Two Vectors",
+     "figures": []
+    },
+    {
      "qno": 30,
      "chapter": "Vector Algebra",
      "type": "Short Answer",
      "marks": 3,
      "text": "Let three toys A, B and C be placed in the same straight line. If the position vectors of A, B and C are $55\\hat{i} - 2\\hat{j}$, $5\\hat{i} + 8\\hat{j}$ and $a\\hat{i} - 52\\hat{j}$ respectively, find the value of $'a'$.",
-     "or": {
-      "text": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are unit vectors, then prove that $|\\vec{a} - \\vec{b}|^2 + |\\vec{b} - \\vec{c}|^2 + |\\vec{c} - \\vec{a}|^2 \\leq 9$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -13326,6 +14968,60 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar"
+    },
+    {
+     "qno": 30,
+     "chapter": "Vector Algebra",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "If $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ are unit vectors, then prove that $|\\vec{a} - \\vec{b}|^2 + |\\vec{b} - \\vec{c}|^2 + |\\vec{c} - \\vec{a}|^2 \\leq 9$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Types of Vectors",
+     "figures": []
+    },
+    {
+     "qno": 30,
+     "chapter": "Vector Algebra",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Three vectors $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ satisfy the condition $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$. Evaluate the quantity $\\mu = \\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$, if $|\\vec{a}| = 3$, $|\\vec{b}| = 4$ and $|\\vec{c}| = 2$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Product of Two Vectors",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "Vector Algebra",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "During a cricket match, the position of the bowler, the wicket keeper and the leg slip fielder are in a line given by $\\vec{B} = 2\\hat{i} + 8\\hat{j}$, $\\vec{W} = 6\\hat{i} + 12\\hat{j}$ and $\\vec{F} = 12\\hat{i} + 18\\hat{j}$ respectively. Calculate the ratio in which the wicketkeeper divides the line segment joining the bowler and the leg slip fielder.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Multiplication of a Vector by a Scalar",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -13338,8 +15034,62 @@
   },
   {
    "chapter": "Three Dimensional Geometry",
-   "count": 69,
+   "count": 89,
    "questions": [
+    {
+     "qno": 23,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Check whether the lines given by equations $x = 2\\lambda + 2$, $y = 7\\lambda + 1$, $z = -3\\lambda - 3$ and $x = -\\mu - 2$, $y = 2\\mu + 8$, $z = 4\\mu + 5$ are perpendicular to each other or not.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Equation of a Line in Space"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the equation of a line in vector and cartesian form which passes through the point $(1, 2, -4)$ and is perpendicular to the lines $\\dfrac{x - 8}{3} = \\dfrac{y + 19}{-16} = \\dfrac{z - 10}{7}$, and $\\vec{r} = 15\\hat{i} + 29\\hat{j} + 5\\hat{k} + \\mu(3\\hat{i} + 8\\hat{j} - 5\\hat{k})$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Equation of a Line in Space",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the shortest distance between the lines : $\\vec{r} = (2\\hat{i} - \\hat{j} + 3\\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + 3\\hat{k})$ and $\\vec{r} = (\\hat{i} + 4\\hat{j} + \\hat{k}) + \\mu(3\\hat{i} - 6\\hat{j} + 9\\hat{k})$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
+    },
     {
      "qno": 11,
      "chapter": "Three Dimensional Geometry",
@@ -13402,9 +15152,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the vector and the Cartesian equations of a line passing through the point $(1, 2, -4)$ and parallel to the line joining the points $A(3, 3, -5)$ and $B(1, 0, -11)$. Hence, find the distance between the two lines.",
-     "or": {
-      "text": "Find the equations of the line passing through the points $A(1, 2, 3)$ and $B(3, 5, 9)$. Hence, find the coordinates of the points on this line which are at a distance of 14 units from point B."
-     },
      "papers": [
       {
        "year": 2023,
@@ -13415,6 +15162,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space"
+    },
+    {
+     "qno": 34,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the equations of the line passing through the points $A(1, 2, 3)$ and $B(3, 5, 9)$. Hence, find the coordinates of the points on this line which are at a distance of 14 units from point B.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     },
     {
      "qno": 11,
@@ -13495,9 +15260,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the equations of the diagonals of the parallelogram PQRS whose vertices are $P(4, 2, -6)$, $Q(5, -3, 1)$, $R(12, 4, 5)$ and $S(11, 9, -2)$. Use these equations to find the point of intersection of diagonals.",
-     "or": {
-      "text": "A line $l$ passes through point $(-1, 3, -2)$ and is perpendicular to both the lines $\\dfrac{x}{1} = \\dfrac{y}{2} = \\dfrac{z}{3}$ and $\\dfrac{x+2}{-3} = \\dfrac{y-1}{2} = \\dfrac{z+1}{5}$. Find the vector equation of the line $l$. Hence, obtain its distance from origin."
-     },
      "papers": [
       {
        "year": 2023,
@@ -13508,6 +15270,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space"
+    },
+    {
+     "qno": 33,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "A line $l$ passes through point $(-1, 3, -2)$ and is perpendicular to both the lines $\\dfrac{x}{1} = \\dfrac{y}{2} = \\dfrac{z}{3}$ and $\\dfrac{x+2}{-3} = \\dfrac{y-1}{2} = \\dfrac{z+1}{5}$. Find the vector equation of the line $l$. Hence, obtain its distance from origin.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Equation of a Line in Space",
+     "figures": []
     },
     {
      "qno": 13,
@@ -13580,9 +15360,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the value of $b$ so that the lines $\\dfrac{x-1}{2} = \\dfrac{y-b}{3} = \\dfrac{z-3}{4}$ and $\\dfrac{x-4}{5} = \\dfrac{y-1}{2} = z$ are intersecting lines. Also, find the point of intersection of these given lines.",
-     "or": {
-      "text": "Find the equations of all the sides of the parallelogram ABCD whose vertices are $A(4, 7, 8)$, $B(2, 3, 4)$, $C(-1, -2, 1)$ and $D(1, 3, 5)$. Also, find the coordinates of the foot of the perpendicular from $A$ to $CD$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -13593,6 +15370,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the equations of all the sides of the parallelogram ABCD whose vertices are $A(4, 7, 8)$, $B(2, 3, 4)$, $C(-1, -2, 1)$ and $D(1, 3, 5)$. Also, find the coordinates of the foot of the perpendicular from $A$ to $CD$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     },
     {
      "qno": 14,
@@ -13683,9 +15478,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "Find the vector equation of the line passing through the point $(2, 1, 3)$ and perpendicular to both the lines $\\dfrac{x-1}{1} = \\dfrac{y-2}{2} = \\dfrac{z-3}{3}$; $\\dfrac{x}{-3} = \\dfrac{y}{2} = \\dfrac{z}{5}$.",
-     "or": {
-      "text": "The equations of a line are $5x - 3 = 15y + 7 = 3 - 10z$. Write the direction cosines of the line and find the coordinates of a point through which it passes."
-     },
      "papers": [
       {
        "year": 2023,
@@ -13698,14 +15490,29 @@
      "topic": "Equation of a Line in Space"
     },
     {
+     "qno": 25,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "The equations of a line are $5x - 3 = 15y + 7 = 3 - 10z$. Write the direction cosines of the line and find the coordinates of a point through which it passes.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "figures": []
+    },
+    {
      "qno": 35,
      "chapter": "Three Dimensional Geometry",
      "type": "Long Answer",
      "marks": 5,
      "text": "Show that the following lines do not intersect each other : $\\dfrac{x-1}{3} = \\dfrac{y+1}{2} = \\dfrac{z-1}{5}$; $\\dfrac{x+2}{4} = \\dfrac{y-1}{3} = \\dfrac{z+1}{-2}$.",
-     "or": {
-      "text": "Find the angle between the lines $2x = 3y = -z$ and $6x = -y = -4z$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -13716,6 +15523,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the angle between the lines $2x = 3y = -z$ and $6x = -y = -4z$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/4/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Angle between Two Lines",
+     "figures": []
     },
     {
      "qno": 15,
@@ -13794,9 +15619,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the coordinates of the foot of the perpendicular drawn from the point $P(0, 2, 3)$ to the line $\\dfrac{x + 3}{5} = \\dfrac{y - 1}{2} = \\dfrac{z + 4}{3}$.",
-     "or": {
-      "text": "Three vectors $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ satisfy the condition $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$. Evaluate the quantity $\\mu = \\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$, if $|\\vec{a}| = 3$, $|\\vec{b}| = 4$ and $|\\vec{c}| = 2$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -14075,9 +15897,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the equation of the line passing through the point of intersection of the lines $\\dfrac{x}{1} = \\dfrac{y - 1}{2} = \\dfrac{z - 2}{3}$ and $\\dfrac{x - 1}{0} = \\dfrac{y}{-3} = \\dfrac{z - 7}{2}$ and perpendicular to these two lines.",
-     "or": {
-      "text": "Two vertices of the parallelogram ABCD are given as $A(-1, 2, 1)$ and $B(1, -2, 5)$. If the line passing through C and D is $\\dfrac{x - 4}{1} = \\dfrac{y + 7}{-2} = \\dfrac{z - 8}{2}$, then find the distance between sides AB and CD. Hence, find the area of parallelogram ABCD."
-     },
      "papers": [
       {
        "year": 2024,
@@ -14088,6 +15907,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Two vertices of the parallelogram ABCD are given as $A(-1, 2, 1)$ and $B(1, -2, 5)$. If the line passing through C and D is $\\dfrac{x - 4}{1} = \\dfrac{y + 7}{-2} = \\dfrac{z - 8}{2}$, then find the distance between sides AB and CD. Hence, find the area of parallelogram ABCD.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/3/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Equation of a Line in Space",
+     "figures": []
     },
     {
      "qno": 14,
@@ -14141,9 +15978,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the distance between the line $\\dfrac{x}{2} = \\dfrac{2y - 6}{4} = \\dfrac{1 - z}{-1}$ and another line parallel to it passing through the point $(4, 0, -5)$.",
-     "or": {
-      "text": "If the lines $\\dfrac{x - 1}{-3} = \\dfrac{y - 2}{2k} = \\dfrac{z - 3}{2}$ and $\\dfrac{x - 1}{3k} = \\dfrac{y - 1}{1} = \\dfrac{z - 6}{-7}$ are perpendicular to each other, find the value of $k$ and hence write the vector equation of a line perpendicular to these two lines and passing through the point $(3, -4, 5)$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -14154,6 +15988,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "If the lines $\\dfrac{x - 1}{-3} = \\dfrac{y - 2}{2k} = \\dfrac{z - 3}{2}$ and $\\dfrac{x - 1}{3k} = \\dfrac{y - 1}{1} = \\dfrac{z - 6}{-7}$ are perpendicular to each other, find the value of $k$ and hence write the vector equation of a line perpendicular to these two lines and passing through the point $(3, -4, 5)$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Equation of a Line in Space",
+     "figures": []
     },
     {
      "qno": 16,
@@ -14232,9 +16084,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the co-ordinates of the foot of the perpendicular drawn from the point $(2, 3, -8)$ to the line $\\dfrac{4 - x}{2} = \\dfrac{y}{6} = \\dfrac{1 - z}{3}$. Also, find the perpendicular distance of the given point from the line.",
-     "or": {
-      "text": "Find the shortest distance between the lines $L_1$ and $L_2$ given below : $L_1$ : The line passing through $(2, -1, 1)$ and parallel to $\\dfrac{x}{1} = \\dfrac{y}{1} = \\dfrac{z}{3}$. $L_2$ : $\\vec{r} = \\hat{i} + (2\\mu + 1)\\hat{j} - (\\mu + 2)\\hat{k}$."
-     },
      "papers": [
       {
        "year": 2024,
@@ -14247,14 +16096,29 @@
      "topic": "Shortest Distance between Two Lines"
     },
     {
+     "qno": 34,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the shortest distance between the lines $L_1$ and $L_2$ given below : $L_1$ : The line passing through $(2, -1, 1)$ and parallel to $\\dfrac{x}{1} = \\dfrac{y}{1} = \\dfrac{z}{3}$. $L_2$ : $\\vec{r} = \\hat{i} + (2\\mu + 1)\\hat{j} - (\\mu + 2)\\hat{k}$.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/5/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
+    },
+    {
      "qno": 29,
      "chapter": "Three Dimensional Geometry",
      "type": "Short Answer",
      "marks": 3,
      "text": "Verify that lines $\\vec{r} = (1 - \\lambda)\\hat{i} + (\\lambda - 2)\\hat{j} + (3 - 2\\lambda)\\hat{k}$ and $\\vec{r} = (\\mu + 1)\\hat{i} + (2\\mu - 1)\\hat{j} - (2\\mu + 1)\\hat{k}$ are skew lines. Hence, find shortest distance between the lines.",
-     "or": {
-      "text": "During a cricket match, the position of the bowler, the wicket keeper and the leg slip fielder are in a line given by $\\vec{B} = 2\\hat{i} + 8\\hat{j}$, $\\vec{W} = 6\\hat{i} + 12\\hat{j}$ and $\\vec{F} = 12\\hat{i} + 18\\hat{j}$ respectively. Calculate the ratio in which the wicketkeeper divides the line segment joining the bowler and the leg slip fielder."
-     },
      "papers": [
       {
        "year": 2025,
@@ -14272,9 +16136,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the image of the point $A'$ of the point $A(1, 6, 3)$ in the line $\\dfrac{x}{1} = \\dfrac{y - 1}{2} = \\dfrac{z - 2}{3}$. Also, find the equation of the line joining A and $A'$.",
-     "or": {
-      "text": "Find a point P on the line $\\dfrac{x + 3}{1} = \\dfrac{y + 1}{4} = \\dfrac{z - 6}{-9}$ such that its distance from point $Q(2, 4, -1)$ is 7 units. Also, find the equation of line joining P and Q."
-     },
      "papers": [
       {
        "year": 2025,
@@ -14285,6 +16146,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 34,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find a point P on the line $\\dfrac{x + 3}{1} = \\dfrac{y + 1}{4} = \\dfrac{z - 6}{-9}$ such that its distance from point $Q(2, 4, -1)$ is 7 units. Also, find the equation of line joining P and Q.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Equation of a Line in Space",
+     "figures": []
     },
     {
      "qno": 6,
@@ -14361,9 +16240,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the shortest distance between the lines $\\dfrac{x + 1}{2} = \\dfrac{y - 1}{1} = \\dfrac{z - 9}{-3}$ and $\\dfrac{x - 3}{2} = \\dfrac{y + 15}{-7} = \\dfrac{z - 9}{5}$.",
-     "or": {
-      "text": "Find the image $A'$ of the point $A(2, 1, 2)$ in the line $l : \\vec{r} = 4\\hat{i} + 2\\hat{j} + 2\\hat{k} + \\lambda(\\hat{i} - \\hat{j} - \\hat{k})$. Also, find the equation of line joining $AA'$. Find the foot of perpendicular from point A on the line $l$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -14374,6 +16250,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 34,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the image $A'$ of the point $A(2, 1, 2)$ in the line $l : \\vec{r} = 4\\hat{i} + 2\\hat{j} + 2\\hat{k} + \\lambda(\\hat{i} - \\hat{j} - \\hat{k})$. Also, find the equation of line joining $AA'$. Find the foot of perpendicular from point A on the line $l$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "34-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     },
     {
      "qno": 6,
@@ -14455,9 +16349,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the foot of the perpendicular drawn from the point $(1, 1, 4)$ on the line $\\dfrac{x + 2}{5} = \\dfrac{y + 1}{2} = \\dfrac{-z + 4}{-3}$.",
-     "or": {
-      "text": "Find the point on the line $\\dfrac{x - 1}{3} = \\dfrac{y + 1}{2} = \\dfrac{z - 4}{3}$ at a distance of $2\\sqrt{2}$ units from the point $(-1, -1, 2)$."
-     },
      "papers": [
       {
        "year": 2025,
@@ -14468,6 +16359,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the point on the line $\\dfrac{x - 1}{3} = \\dfrac{y + 1}{2} = \\dfrac{z - 4}{3}$ at a distance of $2\\sqrt{2}$ units from the point $(-1, -1, 2)$.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     },
     {
      "qno": 25,
@@ -14492,9 +16401,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the distance of the point $P(2, 4, -1)$ from the line $\\dfrac{x + 5}{1} = \\dfrac{y + 3}{4} = \\dfrac{z - 6}{-9}$.",
-     "or": {
-      "text": "Let the position vectors of the points A, B and C be $3\\hat{i} - \\hat{j} - 2\\hat{k}$, $\\hat{i} + 2\\hat{j} - \\hat{k}$ and $\\hat{i} + 5\\hat{j} + 3\\hat{k}$ respectively. Find the vector and cartesian equations of the line passing through A and parallel to line BC."
-     },
      "papers": [
       {
        "year": 2025,
@@ -14505,6 +16411,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 30,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Let the position vectors of the points A, B and C be $3\\hat{i} - \\hat{j} - 2\\hat{k}$, $\\hat{i} + 2\\hat{j} - \\hat{k}$ and $\\hat{i} + 5\\hat{j} + 3\\hat{k}$ respectively. Find the vector and cartesian equations of the line passing through A and parallel to line BC.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/6/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Equation of a Line in Space",
+     "figures": []
     },
     {
      "qno": 35,
@@ -14529,9 +16453,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the point Q on the line $\\dfrac{2x + 4}{6} = \\dfrac{y + 1}{2} = \\dfrac{-2z + 6}{-4}$ at a distance of $3\\sqrt{2}$ from the point $P(1, 2, 3)$.",
-     "or": {
-      "text": "Find the image of the point $(-1, 5, 2)$ in the line $\\dfrac{2x - 4}{2} = \\dfrac{y}{2} = \\dfrac{2 - z}{3}$. Find the length of the line segment joining the points (given point and the image point)."
-     },
      "papers": [
       {
        "year": 2025,
@@ -14542,6 +16463,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the image of the point $(-1, 5, 2)$ in the line $\\dfrac{2x - 4}{2} = \\dfrac{y}{2} = \\dfrac{2 - z}{3}$. Find the length of the line segment joining the points (given point and the image point).",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     },
     {
      "qno": 16,
@@ -14742,9 +16681,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "If the lines $\\dfrac{x - 3}{1} = \\dfrac{1 - y}{1} = \\dfrac{z + 2}{p}$ and $\\dfrac{2 - x}{3} = \\dfrac{y + 1}{5} = \\dfrac{z + 56}{2p}$ are perpendicular to each other, then find the value(s) of $p$.",
-     "or": {
-      "text": "Find the vector equation of a line passing through the origin and perpendicular to both the lines $\\vec{r} = 2\\hat{i} - \\hat{j} + 2\\hat{k} + \\lambda(3\\hat{i} + 4\\hat{j} + 2\\hat{k})$ and $\\vec{r} = \\mu(\\hat{i} - \\hat{j} + \\hat{k})$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -14757,14 +16693,29 @@
      "topic": "Equation of a Line in Space"
     },
     {
+     "qno": 25,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "Find the vector equation of a line passing through the origin and perpendicular to both the lines $\\vec{r} = 2\\hat{i} - \\hat{j} + 2\\hat{k} + \\lambda(3\\hat{i} + 4\\hat{j} + 2\\hat{k})$ and $\\vec{r} = \\mu(\\hat{i} - \\hat{j} + \\hat{k})$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Equation of a Line in Space",
+     "figures": []
+    },
+    {
      "qno": 35,
      "chapter": "Three Dimensional Geometry",
      "type": "Long Answer",
      "marks": 5,
      "text": "Represent the equations of lines $l_1$ and $l_2$ in vector form and check whether they are intersecting or not. $l_1 : \\dfrac{x + 3}{-3} = \\dfrac{y - 1}{1} = \\dfrac{z - 5}{5}$, $l_2 : \\dfrac{x + 1}{-1} = \\dfrac{2 - y}{-2} = \\dfrac{z - 5}{5}$.",
-     "or": {
-      "text": "Opposite sides of a square are along the lines : $\\vec{r} = \\hat{i} + 2\\hat{j} - 4\\hat{k} + \\lambda(2\\hat{i} + 3\\hat{j} + 6\\hat{k})$ and $\\vec{r} = 3\\hat{i} + 3\\hat{j} - 5\\hat{k} + \\mu(2\\hat{i} + 3\\hat{j} + 6\\hat{k})$. Find the area of the square if direction ratios of other pair of opposite sides of the square are given by $<-3, 6, p>$. Also, find the value of $p$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -14777,14 +16728,29 @@
      "topic": "Equation of a Line in Space"
     },
     {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Opposite sides of a square are along the lines : $\\vec{r} = \\hat{i} + 2\\hat{j} - 4\\hat{k} + \\lambda(2\\hat{i} + 3\\hat{j} + 6\\hat{k})$ and $\\vec{r} = 3\\hat{i} + 3\\hat{j} - 5\\hat{k} + \\mu(2\\hat{i} + 3\\hat{j} + 6\\hat{k})$. Find the area of the square if direction ratios of other pair of opposite sides of the square are given by $<-3, 6, p>$. Also, find the value of $p$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/3/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "figures": []
+    },
+    {
      "qno": 30,
      "chapter": "Three Dimensional Geometry",
      "type": "Short Answer",
      "marks": 3,
      "text": "Find a point on the line $\\dfrac{x - 2}{3} = \\dfrac{1 - y}{2} = \\dfrac{z - 3}{2}$ at a distance of $\\sqrt{2}$ units from the point $(1, 2, 3)$.",
-     "or": {
-      "text": "Find the shortest distance between the lines $\\vec{r} = (4 + \\lambda)\\hat{i} + (2\\lambda - 1)\\hat{j} - 3\\lambda\\hat{k}$ and $\\vec{r} = (1 + 2\\mu)\\hat{i} + (2 - 5\\mu)\\hat{k} + (4\\mu - 1)\\hat{j}$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -14795,6 +16761,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 30,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the shortest distance between the lines $\\vec{r} = (4 + \\lambda)\\hat{i} + (2\\lambda - 1)\\hat{j} - 3\\lambda\\hat{k}$ and $\\vec{r} = (1 + 2\\mu)\\hat{i} + (2 - 5\\mu)\\hat{k} + (4\\mu - 1)\\hat{j}$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/4/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     },
     {
      "qno": 35,
@@ -14836,9 +16820,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "Find the foot of the perpendicular from the point $(0, 2, 3)$ on the line $\\dfrac{-x - 3}{-5} = \\dfrac{1 - y}{-2} = \\dfrac{3z + 12}{9}$ and hence find the length of the perpendicular.",
-     "or": {
-      "text": "Find the value of $p$ if the shortest distance between the lines $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - \\hat{j} + \\hat{k})$ and $\\vec{r} = (p\\hat{i} - \\hat{j} - \\hat{k}) + \\mu(2\\hat{i} + \\hat{j} + 2\\hat{k})$ is $\\dfrac{3}{\\sqrt{2}}$ units."
-     },
      "papers": [
       {
        "year": 2026,
@@ -14849,6 +16830,24 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines"
+    },
+    {
+     "qno": 35,
+     "chapter": "Three Dimensional Geometry",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Find the value of $p$ if the shortest distance between the lines $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - \\hat{j} + \\hat{k})$ and $\\vec{r} = (p\\hat{i} - \\hat{j} - \\hat{k}) + \\mu(2\\hat{i} + \\hat{j} + 2\\hat{k})$ is $\\dfrac{3}{\\sqrt{2}}$ units.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Shortest Distance between Two Lines",
+     "figures": []
     }
    ],
    "topic_order": [
@@ -16062,7 +18061,7 @@
   },
   {
    "chapter": "Probability",
-   "count": 65,
+   "count": 78,
    "questions": [
     {
      "qno": 12,
@@ -16113,9 +18112,6 @@
        ]
       ]
      },
-     "or": {
-      "text": "A and B are independent events such that $P(A \\cap \\bar{B}) = \\dfrac{1}{4}$ and $P(\\bar{A} \\cap B) = \\dfrac{1}{6}$. Find $P(A)$ and $P(B)$."
-     },
      "papers": [
       {
        "year": 2023,
@@ -16126,6 +18122,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 30,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A and B are independent events such that $P(A \\cap \\bar{B}) = \\dfrac{1}{4}$ and $P(\\bar{A} \\cap B) = \\dfrac{1}{6}$. Find $P(A)$ and $P(B)$.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/1/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Independent Events",
+     "figures": []
     },
     {
      "qno": 36,
@@ -16180,9 +18194,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Two balls are drawn at random one by one with replacement from an urn containing equal number of red balls and green balls. Find the probability distribution of number of red balls. Also, find the mean of the random variable.",
-     "or": {
-      "text": "A and B throw a die alternately till one of them gets a '6' and wins the game. Find their respective probabilities of winning, if A starts first."
-     },
      "papers": [
       {
        "year": 2023,
@@ -16193,6 +18204,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 30,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A and B throw a die alternately till one of them gets a '6' and wins the game. Find their respective probabilities of winning, if A starts first.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/2/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
+     "topic": "Conditional Probability",
+     "figures": []
     },
     {
      "qno": 37,
@@ -16240,9 +18269,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "A pair of dice is thrown simultaneously. If $X$ denotes the absolute difference of numbers obtained on the pair of dice, then find the probability distribution of $X$.",
-     "or": {
-      "text": "There are two coins. One of them is a biased coin such that $P(\\text{head}) : P(\\text{tail})$ is $1 : 3$ and the other coin is a fair coin. A coin is selected at random and tossed once. If the coin showed head, then find the probability that it is a biased coin."
-     },
      "papers": [
       {
        "year": 2023,
@@ -16253,6 +18279,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 31,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "There are two coins. One of them is a biased coin such that $P(\\text{head}) : P(\\text{tail})$ is $1 : 3$ and the other coin is a fair coin. A coin is selected at random and tossed once. If the coin showed head, then find the probability that it is a biased coin.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conditional Probability",
+     "figures": []
     },
     {
      "qno": 36,
@@ -16450,9 +18494,6 @@
      "type": "Long Answer",
      "marks": 5,
      "text": "In answering a question on a multiple choice test, a student either knows the answer or guesses. Let $\\dfrac{3}{5}$ be the probability that he knows the answer and $\\dfrac{2}{5}$ be the probability that he guesses. Assuming that a student who guesses at the answer will be correct with probability $\\dfrac{1}{3}$. What is the probability that the student knows the answer, given that he answered it correctly ?",
-     "or": {
-      "text": "A box contains 10 tickets, 2 of which carry a prize of Rs. 8 each, 5 of which carry a prize of Rs. 4 each, and remaining 3 carry a prize of Rs. 2 each. If one ticket is drawn at random, find the mean value of the prize."
-     },
      "papers": [
       {
        "year": 2023,
@@ -16463,6 +18504,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability"
+    },
+    {
+     "qno": 35,
+     "chapter": "Probability",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "A box contains 10 tickets, 2 of which carry a prize of Rs. 8 each, 5 of which carry a prize of Rs. 4 each, and remaining 3 carry a prize of Rs. 2 each. If one ticket is drawn at random, find the mean value of the prize.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "65/5/1",
+       "qno": "35-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Random Variables and its Probability Distributions",
+     "figures": []
     },
     {
      "qno": 11,
@@ -16692,9 +18751,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "A card from a well shuffled deck of 52 playing cards is lost. From the remaining cards of the pack, a card is drawn at random and is found to be a King. Find the probability of the lost card being a King.",
-     "or": {
-      "text": "A biased die is twice as likely to show an even number as an odd number. If such a die is thrown twice, find the probability distribution of the number of sixes. Also, find the mean of the distribution."
-     },
      "papers": [
       {
        "year": 2024,
@@ -16705,6 +18761,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability"
+    },
+    {
+     "qno": 31,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A biased die is twice as likely to show an even number as an odd number. If such a die is thrown twice, find the probability distribution of the number of sixes. Also, find the mean of the distribution.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "65/4/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Random Variables and its Probability Distributions",
+     "figures": []
     },
     {
      "qno": 38,
@@ -16851,9 +18925,6 @@
        ]
       ]
      },
-     "or": {
-      "text": "For the vacancy advertised in the newspaper, 3000 candidates submitted their applications. From the data it was revealed that two third of the total applicants were females and other were males. The selection for the job was done through a written test. The performance of the applicants indicates that the probability of a male getting a distinction in written test is 0.4 and that a female getting a distinction is 0.35. Find the probability that the candidate chosen at random will have a distinction in the written test."
-     },
      "papers": [
       {
        "year": 2025,
@@ -16864,6 +18935,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 30,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "For the vacancy advertised in the newspaper, 3000 candidates submitted their applications. From the data it was revealed that two third of the total applicants were females and other were males. The selection for the job was done through a written test. The performance of the applicants indicates that the probability of a male getting a distinction in written test is 0.4 and that a female getting a distinction is 0.35. Find the probability that the candidate chosen at random will have a distinction in the written test.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/1/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conditional Probability",
+     "figures": []
     },
     {
      "qno": 38,
@@ -16911,9 +19000,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "A die with number 1 to 6 is biased such that $P(2) = \\dfrac{3}{10}$ and probability of other numbers is equal. Find the mean of the number of times number 2 appears on the dice, if the dice is thrown twice.",
-     "or": {
-      "text": "Two dice are thrown. Defined are the following two events A and B : $A = \\{(x, y) : x + y = 9\\}$, $B = \\{(x, y) : x \\neq 3\\}$, where $(x, y)$ denote a point in the sample space. Check if events A and B are independent or mutually exclusive."
-     },
      "papers": [
       {
        "year": 2025,
@@ -16924,6 +19010,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 30,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Two dice are thrown. Defined are the following two events A and B : $A = \\{(x, y) : x + y = 9\\}$, $B = \\{(x, y) : x \\neq 3\\}$, where $(x, y)$ denote a point in the sample space. Check if events A and B are independent or mutually exclusive.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/2/1",
+       "qno": "30-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "Independent Events",
+     "figures": []
     },
     {
      "qno": 37,
@@ -16973,9 +19077,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Find the probability distribution of the number of boys in families having three children, assuming equal probability for a boy and a girl.",
-     "or": {
-      "text": "A coin is tossed twice. Let X be a random variable defined as number of heads minus number of tails. Obtain the probability distribution of X and also find its mean."
-     },
      "papers": [
       {
        "year": 2025,
@@ -16986,6 +19087,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 29,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A coin is tossed twice. Let X be a random variable defined as number of heads minus number of tails. Obtain the probability distribution of X and also find its mean.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Random Variables and its Probability Distributions",
+     "figures": []
     },
     {
      "qno": 36,
@@ -17061,9 +19180,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "The probability that a student buys a colouring book is $0{\\cdot}7$ and that she buys a box of colours is $0{\\cdot}2$. The probability that she buys a colouring book, given that she buys a box of colours, is $0{\\cdot}3$. Find the probability that the student : (i) Buys both the colouring book and the box of colours. (ii) Buys a box of colours given that she buys the colouring book.",
-     "or": {
-      "text": "A person has a fruit box that contains 6 apples and 4 oranges. He picks out a fruit three times, one after the other, after replacing the previous one in the box. Find : (i) The probability distribution of the number of oranges he draws. (ii) The expectation of the random variable (number of oranges)."
-     },
      "papers": [
       {
        "year": 2025,
@@ -17074,6 +19190,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability"
+    },
+    {
+     "qno": 31,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A person has a fruit box that contains 6 apples and 4 oranges. He picks out a fruit three times, one after the other, after replacing the previous one in the box. Find : (i) The probability distribution of the number of oranges he draws. (ii) The expectation of the random variable (number of oranges).",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Random Variables and its Probability Distributions",
+     "figures": []
     },
     {
      "qno": 38,
@@ -17201,9 +19335,6 @@
      "type": "Very Short Answer",
      "marks": 2,
      "text": "10 identical blocks are marked with '0' on two of them, '1' on three of them, '2' on four of them and '3' on one of them and put in a box. If X denotes the number written on the block, then write the probability distribution of X and calculate its mean.",
-     "or": {
-      "text": "In a village of 8000 people, 3000 go out of the village to work and 4000 are women. It is noted that 30% of women go out of the village to work. What is the probability that a randomly chosen individual is either a woman or a person working outside the village ?"
-     },
      "papers": [
       {
        "year": 2025,
@@ -17214,6 +19345,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions"
+    },
+    {
+     "qno": 25,
+     "chapter": "Probability",
+     "type": "Very Short Answer",
+     "marks": 2,
+     "text": "In a village of 8000 people, 3000 go out of the village to work and 4000 are women. It is noted that 30% of women go out of the village to work. What is the probability that a randomly chosen individual is either a woman or a person working outside the village ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "65/7/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conditional Probability",
+     "figures": []
     },
     {
      "qno": 38,
@@ -17263,9 +19412,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "Out of two bags, bag I contains 3 red and 4 white balls and bag II contains 8 red and 6 white balls. A die is thrown. If it shows a number less than 3 then a ball is drawn at random from bag I, otherwise a ball is drawn at random from bag II. Find the probability that the ball drawn from one of the bags is a red ball.",
-     "or": {
-      "text": "The probability of simultaneous occurrence of atleast one of the two events X and Y is $a$. If the probability that exactly one of the events X, Y occurs is $b$, prove that $P(X') + P(Y') = 2 - 2a + b$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -17276,6 +19422,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Bayes' Theorem"
+    },
+    {
+     "qno": 31,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "The probability of simultaneous occurrence of atleast one of the two events X and Y is $a$. If the probability that exactly one of the events X, Y occurs is $b$, prove that $P(X') + P(Y') = 2 - 2a + b$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "Conditional Probability",
+     "figures": []
     },
     {
      "qno": 37,
@@ -17323,9 +19487,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "The probability of hitting the target by a trained sniper is three times the probability of not hitting the target on a stormy day due to high wind speed. The sniper fired two shots on a stormy day when wind speed was very high. Find the probability that (i) target is hit (ii) atleast one shot misses the target.",
-     "or": {
-      "text": "Mother, Father and Son line up at random for a family picture. Let events E : Son on one end and F : Father in the middle. Find $P(E/F)$."
-     },
      "papers": [
       {
        "year": 2026,
@@ -17336,6 +19497,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication Theorem on Probability"
+    },
+    {
+     "qno": 31,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Mother, Father and Son line up at random for a family picture. Let events E : Son on one end and F : Father in the middle. Find $P(E/F)$.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Conditional Probability",
+     "figures": []
     },
     {
      "qno": 36,
@@ -17497,9 +19676,6 @@
      "type": "Short Answer",
      "marks": 3,
      "text": "A die is rolled. Consider events : $A = \\{1, 2, 5\\}$, $B = \\{3, 5\\}$, $C = \\{2, 3, 4, 5\\}$ and hence find : (i) $P(A|C)$ and $P(C|A)$ (ii) $P(A \\cup B|C)$ and $P(A \\cap B|C)$.",
-     "or": {
-      "text": "A box contains 6 cards numbered 1 to 6. A student is asked to pick up two cards, one by one after replacement and note down the numbers on the cards. Let A be the event of getting sum of the numbers on two cards as 10, and B, the event of a number other than 4 on the first card selected. Find $P(A \\text{ and } B)$ and find whether the events A and B are independent events or not."
-     },
      "papers": [
       {
        "year": 2026,
@@ -17510,6 +19686,24 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability"
+    },
+    {
+     "qno": 31,
+     "chapter": "Probability",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A box contains 6 cards numbered 1 to 6. A student is asked to pick up two cards, one by one after replacement and note down the numbers on the cards. Let A be the event of getting sum of the numbers on two cards as 10, and B, the event of a number other than 4 on the first card selected. Find $P(A \\text{ and } B)$ and find whether the events A and B are independent events or not.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "65/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "Independent Events",
+     "figures": []
     },
     {
      "qno": 37,
