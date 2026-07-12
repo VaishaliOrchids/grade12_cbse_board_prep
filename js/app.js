@@ -38,14 +38,24 @@
   // step back through several changes. Session-only (cleared on generate/reshuffle).
   var UNDO = [];
 
+  // Data files (data/*.json) are cache-busted with the same ?v= that index.html
+  // puts on app.js, so bumping that version also serves fresh answers/questions
+  // to returning visitors (browsers otherwise HTTP-cache the un-versioned JSON).
+  var DATA_V = (function () {
+    var s = document.currentScript || document.querySelector('script[src*="app.js"]');
+    var m = s && s.src && s.src.match(/[?&]v=([^&]+)/);
+    return m ? m[1] : String(Date.now());
+  })();
+  function dv(u) { return u + (u.indexOf("?") < 0 ? "?" : "&") + "v=" + DATA_V; }
+
   function getSubjectsIndex() {
     if (INLINE) return Promise.resolve(INLINE.subjects);
-    return fetch("data/subjects.json").then(function (r) { return r.json(); })
+    return fetch(dv("data/subjects.json")).then(function (r) { return r.json(); })
       .then(function (j) { return j.subjects; });
   }
   function getSubjectData(sub) {
     if (INLINE) return Promise.resolve(INLINE.data[sub.id]);
-    return fetch(sub.data).then(function (r) { return r.json(); });
+    return fetch(dv(sub.data)).then(function (r) { return r.json(); });
   }
 
   function esc(s) {
@@ -102,6 +112,40 @@
       var seg = (opts && opts.parts) ? partLines(p) : p;
       return textCmds(esc(seg)).replace(/\n/g, "<br>");
     }).join("");
+  }
+
+  // Structured renderer for marking-scheme answers: turns "•"/"·" bullet lines
+  // into a real <ul>, a line that is JUST a sub-part label ("(a)", "(ii)", "(I)")
+  // into a small bold heading, and a mark/credit annotation ("(Any two)",
+  // "(1 mark for ...)") into a muted note — instead of one long wall of <br>s.
+  var ANS_SUBLABEL = /^\(?([a-z]|[ivx]{1,4}|[IVX]{1,4})\)\.?$/;
+  var ANS_NOTE = /^\((?:any\s+\w[^)]*|[\d½¼¾⅓⅔⅛]+\s*(?:\/\d+|[x×]\d+)?\s*marks?[^)]*|award[^)]*|full\s*(?:marks|credit)[^)]*|note[^)]*)\)\.?$/i;
+  var ANS_BULLET = /^[•·]\s*(.*)$/;
+  function answerHTML(text) {
+    if (text == null) return "";
+    var lines = String(text).split("\n");
+    var html = "", ulOpen = false;
+    function closeUl() { if (ulOpen) { html += "</ul>"; ulOpen = false; } }
+    lines.forEach(function (raw) {
+      var s = raw.trim();
+      if (!s) { closeUl(); return; }
+      var bm = s.match(ANS_BULLET);
+      if (bm && bm[1]) {
+        if (!ulOpen) { html += '<ul class="ans-list">'; ulOpen = true; }
+        html += "<li>" + mathHTML(bm[1]) + "</li>";
+        return;
+      }
+      closeUl();
+      if (ANS_SUBLABEL.test(s)) {
+        html += '<div class="ans-part">' + mathHTML(s) + "</div>";
+      } else if (ANS_NOTE.test(s)) {
+        html += '<div class="ans-note">' + mathHTML(s) + "</div>";
+      } else {
+        html += "<p>" + mathHTML(s) + "</p>";
+      }
+    });
+    closeUl();
+    return html;
   }
 
   function typeset(node) {
@@ -272,7 +316,9 @@
       var a = q.answer;
       ansHtml = '<details class="qans"><summary><span class="qans-lbl">Show answer</span></summary>' +
         '<div class="qans-body"><span class="qans-tag">Answer</span>' +
-        (a.opt ? '<span class="qans-opt">(' + esc(a.opt) + ")</span> " : "") + mathHTML(a.text || "") +
+        (a.opt
+          ? '<span class="qans-opt">(' + esc(a.opt) + ")</span> " + mathHTML(a.text || "")
+          : '<div class="ans-body">' + answerHTML(a.text || "") + "</div>") +
         '<span class="qans-src">· official CBSE marking scheme</span></div></details>';
     }
     return '<article class="qcard">' +
