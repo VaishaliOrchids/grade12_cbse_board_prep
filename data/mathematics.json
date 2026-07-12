@@ -467,7 +467,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 37,
@@ -541,7 +545,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "C",
+      "text": "$f$ is one-one and onto on $\\mathbb{R}$"
+     }
     },
     {
      "qno": 9,
@@ -564,7 +572,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "B",
+      "text": "surjective only"
+     }
     },
     {
      "qno": 26,
@@ -624,7 +636,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 37,
@@ -666,7 +682,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 28,
@@ -811,7 +831,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "opt": "D",
+      "text": "Transitive only"
+     }
     },
     {
      "qno": 21,
@@ -870,7 +894,11 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 26,
@@ -930,7 +958,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 36,
@@ -1429,7 +1461,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "C",
+      "text": ""
+     }
     },
     {
      "qno": 22,
@@ -1469,7 +1505,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "B",
+      "text": "$\\left[-\\dfrac{\\pi}{2}, 0\\right]$"
+     }
     },
     {
      "qno": 1,
@@ -1492,7 +1532,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\pi}{3}$"
+     }
     },
     {
      "qno": 23,
@@ -1550,7 +1594,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{2\\pi}{3}$"
+     }
     },
     {
      "qno": 21,
@@ -1593,7 +1641,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "C",
+      "text": "$y = \\sin^{-1}x$ and $y = \\sin x$"
+     }
     },
     {
      "qno": 5,
@@ -1616,7 +1668,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{7\\pi}{12}$"
+     }
     },
     {
      "qno": 21,
@@ -1659,7 +1715,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "A",
+      "text": "$y = \\tan^{-1}x$"
+     }
     },
     {
      "qno": 2,
@@ -1682,7 +1742,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "C",
+      "text": "$[-1, 1]$"
+     }
     },
     {
      "qno": 20,
@@ -1707,7 +1771,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 1,
@@ -1730,7 +1798,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "opt": "C",
+      "text": "$0 \\leq y \\leq 2\\pi$"
+     }
     },
     {
      "qno": 25,
@@ -1805,7 +1877,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "D",
+      "text": "$[2, 3]$"
+     }
     },
     {
      "qno": 23,
@@ -1848,7 +1924,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "D",
+      "text": "$y = \\text{cosec}^{-1}x$"
+     }
     },
     {
      "qno": 3,
@@ -1871,7 +1951,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "B",
+      "text": "$-\\dfrac{\\pi}{4}$"
+     }
     },
     {
      "qno": 21,
@@ -1911,7 +1995,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "opt": "D",
+      "text": "$\\text{cosec}^{-1} : \\mathbb{R} - (-1, 1) \\to \\left[-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right]$"
+     }
     },
     {
      "qno": 21,
@@ -2773,7 +2861,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "Only $AB$"
+     }
     },
     {
      "qno": 13,
@@ -2796,7 +2888,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$1$"
+     }
     },
     {
      "qno": 4,
@@ -2819,7 +2915,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "$8$"
+     }
     },
     {
      "qno": 8,
@@ -2842,7 +2942,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "Null Matrix"
+     }
     },
     {
      "qno": 10,
@@ -2865,7 +2969,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Invertible Matrices"
+     "topic": "Invertible Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "Bina"
+     }
     },
     {
      "qno": 17,
@@ -2888,7 +2996,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$AB = BA$"
+     }
     },
     {
      "qno": 19,
@@ -2913,7 +3025,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 2,
@@ -2936,7 +3052,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "$A + B$"
+     }
     },
     {
      "qno": 10,
@@ -2959,7 +3079,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "skew symmetric matrix"
+     }
     },
     {
      "qno": 1,
@@ -2982,7 +3106,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$\\begin{bmatrix} 125 & 0 & 0 \\\\ 0 & 125 & 0 \\\\ 0 & 0 & 125 \\end{bmatrix}$"
+     }
     },
     {
      "qno": 3,
@@ -3005,7 +3133,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "$AB$ and $BA$, both are defined."
+     }
     },
     {
      "qno": 1,
@@ -3028,7 +3160,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$n \\times m$"
+     }
     },
     {
      "qno": 2,
@@ -3051,7 +3187,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "symmetric matrix"
+     }
     },
     {
      "qno": 4,
@@ -3074,7 +3214,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "skew-symmetric matrix"
+     }
     },
     {
      "qno": 26,
@@ -3114,7 +3258,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$512$"
+     }
     },
     {
      "qno": 4,
@@ -3137,7 +3285,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "symmetric matrix"
+     }
     },
     {
      "qno": 7,
@@ -3160,7 +3312,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$-2$ or $10$"
+     }
     },
     {
      "qno": 22,
@@ -3200,7 +3356,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "$2 \\times 1$"
+     }
     },
     {
      "qno": 3,
@@ -3223,7 +3383,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Transpose of a Matrix"
+     "topic": "Transpose of a Matrix",
+     "answer": {
+      "opt": "D",
+      "text": "(i) and (iv)"
+     }
     },
     {
      "qno": 6,
@@ -3246,7 +3410,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "$A - B$"
+     }
     },
     {
      "qno": 2,
@@ -3269,7 +3437,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "Only (iii)"
+     }
     },
     {
      "qno": 3,
@@ -3292,7 +3464,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "$2$"
+     }
     },
     {
      "qno": 4,
@@ -3315,7 +3491,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Transpose of a Matrix"
+     "topic": "Transpose of a Matrix",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\pi}{3}$"
+     }
     },
     {
      "qno": 3,
@@ -3338,7 +3518,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "symmetric matrix"
+     }
     },
     {
      "qno": 4,
@@ -3361,7 +3545,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$1 \\times 3$"
+     }
     },
     {
      "qno": 5,
@@ -3384,7 +3572,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "$-1$"
+     }
     },
     {
      "qno": 2,
@@ -3407,7 +3599,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Transpose of a Matrix"
+     "topic": "Transpose of a Matrix",
+     "answer": {
+      "opt": "B",
+      "text": "$\\begin{bmatrix} 1 & \\frac{1}{2} \\\\ \\frac{5}{2} & 2 \\end{bmatrix}$"
+     }
     },
     {
      "qno": 19,
@@ -3432,7 +3628,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 27,
@@ -3472,7 +3672,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$1 - p^2 - qr = 0$"
+     }
     },
     {
      "qno": 2,
@@ -3495,7 +3699,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$-I$"
+     }
     },
     {
      "qno": 4,
@@ -3518,7 +3726,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "$\\begin{bmatrix} 3 & 3 & -5 \\\\ -3 & -4 & -2 \\end{bmatrix}$"
+     }
     },
     {
      "qno": 32,
@@ -4342,7 +4554,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "D",
+      "text": "$\\begin{bmatrix} -1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$"
+     }
     },
     {
      "qno": 6,
@@ -4365,7 +4581,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "B",
+      "text": "$64$"
+     }
     },
     {
      "qno": 15,
@@ -4388,7 +4608,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "A",
+      "text": "$(A + B)^{-1} = B^{-1} + A^{-1}$"
+     }
     },
     {
      "qno": 35,
@@ -4463,7 +4687,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "D",
+      "text": "$m^2$"
+     }
     },
     {
      "qno": 21,
@@ -4520,7 +4748,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "C",
+      "text": "$\\pm 7$"
+     }
     },
     {
      "qno": 6,
@@ -4543,7 +4775,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "B",
+      "text": "$-10$"
+     }
     },
     {
      "qno": 8,
@@ -4566,7 +4802,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "C",
+      "text": "$-2$"
+     }
     },
     {
      "qno": 33,
@@ -4623,7 +4863,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "B",
+      "text": "$120$"
+     }
     },
     {
      "qno": 6,
@@ -4646,7 +4890,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "C",
+      "text": "$25$"
+     }
     },
     {
      "qno": 27,
@@ -4686,7 +4934,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "B",
+      "text": "$\\Delta_2 = -2\\Delta_1$"
+     }
     },
     {
      "qno": 5,
@@ -4709,7 +4961,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{\\pi}{4}$"
+     }
     },
     {
      "qno": 33,
@@ -4767,7 +5023,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{1}{3}A^{-1}$"
+     }
     },
     {
      "qno": 6,
@@ -4790,7 +5050,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "C",
+      "text": "$-4$"
+     }
     },
     {
      "qno": 32,
@@ -4848,7 +5112,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "A",
+      "text": "$-1$"
+     }
     },
     {
      "qno": 6,
@@ -4871,7 +5139,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "C",
+      "text": "$3$"
+     }
     },
     {
      "qno": 34,
@@ -4911,7 +5183,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Area of a Triangle"
+     "topic": "Area of a Triangle",
+     "answer": {
+      "opt": "C",
+      "text": "$4$"
+     }
     },
     {
      "qno": 37,
@@ -4951,7 +5227,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "A",
+      "text": "adj A is singular"
+     }
     },
     {
      "qno": 7,
@@ -4974,7 +5254,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area of a Triangle"
+     "topic": "Area of a Triangle",
+     "answer": {
+      "opt": "B",
+      "text": "$-1, 3$"
+     }
     },
     {
      "qno": 32,
@@ -6083,7 +6367,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "C",
+      "text": "$f(x)$ is continuous but not differentiable, at $x = 0$ and $x = 1$."
+     }
     },
     {
      "qno": 20,
@@ -6108,7 +6396,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 21,
@@ -6199,7 +6491,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "B",
+      "text": ""
+     }
     },
     {
      "qno": 25,
@@ -6292,7 +6588,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Second Order Derivative"
+     "topic": "Second Order Derivative",
+     "answer": {
+      "opt": "A",
+      "text": "$x\\dfrac{dy}{dx}$"
+     }
     },
     {
      "qno": 8,
@@ -6315,7 +6615,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "$-1$"
+     }
     },
     {
      "qno": 12,
@@ -6338,7 +6642,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "B",
+      "text": "$x = 2$"
+     }
     },
     {
      "qno": 27,
@@ -6396,7 +6704,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "C",
+      "text": "$\\pm 1$"
+     }
     },
     {
      "qno": 9,
@@ -6419,7 +6731,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "B",
+      "text": "$f$ is neither continuous nor differentiable at $x = 2$."
+     }
     },
     {
      "qno": 23,
@@ -6522,7 +6838,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "C",
+      "text": "$a - b$"
+     }
     },
     {
      "qno": 7,
@@ -6545,7 +6865,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "A",
+      "text": "$\\dfrac{x}{y}$"
+     }
     },
     {
      "qno": 8,
@@ -6568,7 +6892,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Second Order Derivative"
+     "topic": "Second Order Derivative",
+     "answer": {
+      "opt": "C",
+      "text": "$-y$"
+     }
     },
     {
      "qno": 9,
@@ -6591,7 +6919,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "$f$ is differentiable at $x = 0$."
+     }
     },
     {
      "qno": 22,
@@ -6684,7 +7016,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "A",
+      "text": "$a = 3$, $b = -8$"
+     }
     },
     {
      "qno": 9,
@@ -6707,7 +7043,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "B",
+      "text": "$f'\\left(\\dfrac{1}{2}\\right) = -f'\\left(-\\dfrac{1}{2}\\right)$"
+     }
     },
     {
      "qno": 19,
@@ -6732,7 +7072,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 23,
@@ -6859,7 +7203,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "D",
+      "text": "$-e^{y-x}$"
+     }
     },
     {
      "qno": 22,
@@ -6916,7 +7264,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "$0$"
+     }
     },
     {
      "qno": 8,
@@ -6939,7 +7291,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "D",
+      "text": "$\\sec y$"
+     }
     },
     {
      "qno": 21,
@@ -6996,7 +7352,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "opt": "C",
+      "text": "$e^x e^{e^x}$"
+     }
     },
     {
      "qno": 7,
@@ -7019,7 +7379,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "$2$"
+     }
     },
     {
      "qno": 8,
@@ -7042,7 +7406,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "B",
+      "text": "At only two points"
+     }
     },
     {
      "qno": 22,
@@ -7135,7 +7503,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "$-6$"
+     }
     },
     {
      "qno": 8,
@@ -7158,7 +7530,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "A",
+      "text": "$-1$"
+     }
     },
     {
      "qno": 33,
@@ -7903,7 +8279,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "C",
+      "text": "$4$"
+     }
     },
     {
      "qno": 24,
@@ -7994,7 +8374,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "opt": "D",
+      "text": "$[2, \\infty)$"
+     }
     },
     {
      "qno": 11,
@@ -8017,7 +8401,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "opt": "C",
+      "text": "$1$ cm/s"
+     }
     },
     {
      "qno": 23,
@@ -8074,7 +8462,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "C",
+      "text": "$\\lambda \\geq \\sqrt{2}$"
+     }
     },
     {
      "qno": 13,
@@ -8097,7 +8489,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "opt": "C",
+      "text": "is an increasing function"
+     }
     },
     {
      "qno": 22,
@@ -8189,7 +8585,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "A",
+      "text": "$(1, -10)$"
+     }
     },
     {
      "qno": 22,
@@ -8297,7 +8697,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "opt": "C",
+      "text": "$375\\pi$"
+     }
     },
     {
      "qno": 11,
@@ -8320,7 +8724,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "opt": "B",
+      "text": "an increasing function"
+     }
     },
     {
      "qno": 29,
@@ -8360,7 +8768,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "A",
+      "text": "$-16$"
+     }
     },
     {
      "qno": 22,
@@ -8420,7 +8832,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "C",
+      "text": "local maximum value is $-2$"
+     }
     },
     {
      "qno": 23,
@@ -8515,7 +8931,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "opt": "C",
+      "text": "$50\\pi\\ \\text{cm}^3/\\text{cm}$"
+     }
     },
     {
      "qno": 22,
@@ -8575,7 +8995,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "B",
+      "text": "$1$ sq. unit"
+     }
     },
     {
      "qno": 23,
@@ -8635,7 +9059,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "opt": "C",
+      "text": "$5$"
+     }
     },
     {
      "qno": 23,
@@ -9914,7 +10342,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "B",
+      "text": "$0$"
+     }
     },
     {
      "qno": 10,
@@ -9937,7 +10369,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "A",
+      "text": "$\\dfrac{-1}{\\log 2}$"
+     }
     },
     {
      "qno": 28,
@@ -9995,7 +10431,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "D",
+      "text": "$2\\displaystyle\\int_{0}^{a} f(x)\\,dx$"
+     }
     },
     {
      "qno": 22,
@@ -10069,7 +10509,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "A",
+      "text": "$2(\\sin x + x\\cos\\alpha) + C$"
+     }
     },
     {
      "qno": 15,
@@ -10092,7 +10536,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "opt": "C",
+      "text": "$\\tan^{-1}e - \\dfrac{\\pi}{4}$"
+     }
     },
     {
      "qno": 28,
@@ -10167,7 +10615,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "B",
+      "text": "$2\\left(\\sin\\dfrac{x}{2} - \\cos\\dfrac{x}{2}\\right) + C$"
+     }
     },
     {
      "qno": 12,
@@ -10190,7 +10642,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "opt": "C",
+      "text": "$e - 1$"
+     }
     },
     {
      "qno": 27,
@@ -10248,7 +10704,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Integration as an Inverse Process of Differentiation"
+     "topic": "Integration as an Inverse Process of Differentiation",
+     "answer": {
+      "opt": "B",
+      "text": "$x^3 + 3x^2 + \\dfrac{2}{x^2} + 5x - 11$"
+     }
     },
     {
      "qno": 11,
@@ -10271,7 +10731,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{e^x}{x + 6} + C$"
+     }
     },
     {
      "qno": 32,
@@ -10329,7 +10793,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{x^4}{4} + C$"
+     }
     },
     {
      "qno": 13,
@@ -10352,7 +10820,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "A",
+      "text": "$\\displaystyle\\int_{a}^{b} f(x)\\,dx = \\int_{a}^{b} f(a + b - x)\\,dx$"
+     }
     },
     {
      "qno": 14,
@@ -10375,7 +10847,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integrals of Some Particular Functions"
+     "topic": "Integrals of Some Particular Functions",
+     "answer": {
+      "opt": "D",
+      "text": "$\\sin^{-1}\\left(\\dfrac{e^x}{2}\\right) + C$"
+     }
     },
     {
      "qno": 32,
@@ -10433,7 +10909,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integrals of Some Particular Functions"
+     "topic": "Integrals of Some Particular Functions",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{3a}{2c^2}$"
+     }
     },
     {
      "qno": 9,
@@ -10456,7 +10936,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "A",
+      "text": "$0$"
+     }
     },
     {
      "qno": 26,
@@ -10548,7 +11032,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "A",
+      "text": "$\\dfrac{\\sqrt{3}}{4}$"
+     }
     },
     {
      "qno": 26,
@@ -10640,7 +11128,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\tan^{-1}(2^x)}{\\log 2} + C$"
+     }
     },
     {
      "qno": 11,
@@ -10663,7 +11155,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "B",
+      "text": "$2\\displaystyle\\int_{-1}^{0} (1 + x)\\,dx$"
+     }
     },
     {
      "qno": 26,
@@ -10773,7 +11269,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integrals of Some Particular Functions"
+     "topic": "Integrals of Some Particular Functions",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{1}{4}\\sin^{-1}\\dfrac{4x}{5} + C$"
+     }
     },
     {
      "qno": 10,
@@ -10796,7 +11296,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "opt": "D",
+      "text": "$-\\dfrac{\\pi}{4}$"
+     }
     },
     {
      "qno": 32,
@@ -10854,7 +11358,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{1}{\\sqrt{2}}\\log|\\sec x + \\tan x| + C$"
+     }
     },
     {
      "qno": 11,
@@ -10877,7 +11385,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "A",
+      "text": "$-\\log 5$"
+     }
     },
     {
      "qno": 27,
@@ -11185,7 +11697,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "D",
+      "text": "$\\displaystyle\\int_{0}^{4} \\sqrt{x}\\,dx$"
+     }
     },
     {
      "qno": 31,
@@ -11228,7 +11744,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "D",
+      "text": "$\\displaystyle\\int_{0}^{4} \\sqrt{y}\\,dy$"
+     }
     },
     {
      "qno": 32,
@@ -11268,7 +11788,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{16}{3}$ sq. units"
+     }
     },
     {
      "qno": 24,
@@ -11308,7 +11832,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{16}{3}$"
+     }
     },
     {
      "qno": 32,
@@ -11348,7 +11876,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{4}{3}$ sq units"
+     }
     },
     {
      "qno": 33,
@@ -11405,7 +11937,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{2}{3}$"
+     }
     },
     {
      "qno": 38,
@@ -11445,7 +11981,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "D",
+      "text": "$2\\displaystyle\\int_{0}^{16} \\sqrt{y}\\,dy$"
+     }
     },
     {
      "qno": 37,
@@ -11491,7 +12031,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "B",
+      "text": "$2\\displaystyle\\int_{1}^{3} \\sqrt{9 - y^2}\\,dy$"
+     }
     },
     {
      "qno": 38,
@@ -11534,7 +12078,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "A",
+      "text": "$2$ sq. units"
+     }
     },
     {
      "qno": 33,
@@ -11574,7 +12122,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "opt": "B",
+      "text": "$3$ sq. units"
+     }
     },
     {
      "qno": 34,
@@ -12358,7 +12910,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "D",
+      "text": "$\\tan x - \\sec y$"
+     }
     },
     {
      "qno": 12,
@@ -12381,7 +12937,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{1}{\\sqrt{y}}$"
+     }
     },
     {
      "qno": 18,
@@ -12404,7 +12964,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "B",
+      "text": "$1$"
+     }
     },
     {
      "qno": 26,
@@ -12462,7 +13026,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "C",
+      "text": "order 2, degree not defined"
+     }
     },
     {
      "qno": 38,
@@ -12502,7 +13070,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "C",
+      "text": "$e^{2\\sqrt{x}}$"
+     }
     },
     {
      "qno": 15,
@@ -12525,7 +13097,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "C",
+      "text": "$3$"
+     }
     },
     {
      "qno": 28,
@@ -12565,7 +13141,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "B",
+      "text": "$4$, not defined"
+     }
     },
     {
      "qno": 13,
@@ -12588,7 +13168,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "D",
+      "text": "$3e^{-4y} + 4e^{3x} + 12C = 0$"
+     }
     },
     {
      "qno": 34,
@@ -12680,7 +13264,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "C",
+      "text": "$e^{\\int \\frac{P}{R}\\,dy}$"
+     }
     },
     {
      "qno": 12,
@@ -12703,7 +13291,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "B",
+      "text": "$1, 1$"
+     }
     },
     {
      "qno": 29,
@@ -12761,7 +13353,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "C",
+      "text": "$\\sqrt{y} - \\sqrt{x} = C$"
+     }
     },
     {
      "qno": 12,
@@ -12784,7 +13380,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{1}{\\sqrt{x}}$"
+     }
     },
     {
      "qno": 29,
@@ -12842,7 +13442,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "D",
+      "text": "(ii) and (iii)"
+     }
     },
     {
      "qno": 19,
@@ -12867,7 +13471,11 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 29,
@@ -12925,7 +13533,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "B",
+      "text": "$6$"
+     }
     },
     {
      "qno": 13,
@@ -12948,7 +13560,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "C",
+      "text": "$x(1 + y^2)\\,dx - y(1 + x^2)\\,dy = 0$"
+     }
     },
     {
      "qno": 34,
@@ -13006,7 +13622,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "A",
+      "text": "Order = 3, Degree = 3"
+     }
     },
     {
      "qno": 14,
@@ -13029,7 +13649,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "A",
+      "text": "$3e^y = e^{3x} + C$"
+     }
     },
     {
      "qno": 28,
@@ -13997,7 +14621,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Types of Vectors"
+     "topic": "Types of Vectors",
+     "answer": {
+      "opt": "B",
+      "text": "$\\vec{a} \\perp \\vec{b}$"
+     }
     },
     {
      "qno": 11,
@@ -14020,7 +14648,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\pi}{3}$"
+     }
     },
     {
      "qno": 23,
@@ -14095,7 +14727,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "A",
+      "text": "$\\left(\\dfrac{\\vec{a} \\cdot \\vec{b}}{|\\vec{b}|^2}\\right)\\vec{b}$"
+     }
     },
     {
      "qno": 12,
@@ -14118,7 +14754,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{2\\pi}{3}$"
+     }
     },
     {
      "qno": 21,
@@ -14193,7 +14833,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Addition of Vectors"
+     "topic": "Addition of Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\sqrt{34}}{2}$ units"
+     }
     },
     {
      "qno": 35,
@@ -14233,7 +14877,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "opt": "C",
+      "text": "$(-2, 2)$"
+     }
     },
     {
      "qno": 18,
@@ -14256,7 +14904,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$24$ and $8$"
+     }
     },
     {
      "qno": 24,
@@ -14349,7 +15001,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "No correct option — full marks awarded for attempting the question (as per the official CBSE marking scheme)."
+     }
     },
     {
      "qno": 19,
@@ -14374,7 +15029,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 24,
@@ -14432,7 +15091,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Types of Vectors"
+     "topic": "Types of Vectors",
+     "answer": {
+      "opt": "D",
+      "text": "$4$"
+     }
     },
     {
      "qno": 16,
@@ -14455,7 +15118,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Vectors"
+     "topic": "Types of Vectors",
+     "answer": {
+      "opt": "A",
+      "text": "orthogonal vectors"
+     }
     },
     {
      "qno": 31,
@@ -14515,7 +15182,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{5}{2}$"
+     }
     },
     {
      "qno": 14,
@@ -14538,7 +15209,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "opt": "A",
+      "text": "$8$"
+     }
     },
     {
      "qno": 15,
@@ -14561,7 +15236,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$12\\sqrt{3}$"
+     }
     },
     {
      "qno": 23,
@@ -14618,7 +15297,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "opt": "C",
+      "text": "$10$"
+     }
     },
     {
      "qno": 14,
@@ -14641,7 +15324,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{3\\sqrt{2}}{2}\\hat{i} + \\dfrac{3\\sqrt{2}}{2}\\hat{j}$"
+     }
     },
     {
      "qno": 19,
@@ -14666,7 +15353,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "B",
+      "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 24,
@@ -14706,7 +15397,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "A",
+      "text": "$\\vec{a} \\cdot \\vec{b} \\leq |\\vec{a}||\\vec{b}|$"
+     }
     },
     {
      "qno": 15,
@@ -14729,7 +15424,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "B",
+      "text": "$|\\vec{b}| = \\sqrt{2}$"
+     }
     },
     {
      "qno": 20,
@@ -14754,7 +15453,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 24,
@@ -14794,7 +15497,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "B",
+      "text": "$p = -\\dfrac{8}{3}, q = \\dfrac{20}{3}$"
+     }
     },
     {
      "qno": 17,
@@ -14817,7 +15524,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Addition of Vectors"
+     "topic": "Addition of Vectors",
+     "answer": {
+      "opt": "A",
+      "text": "$\\dfrac{\\sqrt{53}}{2}$ sq. units"
+     }
     },
     {
      "qno": 24,
@@ -14892,7 +15603,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "opt": "D",
+      "text": "$\\pm 7$"
+     }
     },
     {
      "qno": 17,
@@ -14915,7 +15630,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Addition of Vectors"
+     "topic": "Addition of Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{2}{5}$"
+     }
     },
     {
      "qno": 24,
@@ -16186,7 +16905,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Direction Cosines and Direction Ratios of a Line"
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "answer": {
+      "text": "No correct option — full marks awarded for attempting the question (as per the official CBSE marking scheme)."
+     }
     },
     {
      "qno": 9,
@@ -16209,7 +16931,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "C",
+      "text": "$x = 3t + 4$, $y = t - 3$, $z = 2t + 7$"
+     }
     },
     {
      "qno": 13,
@@ -16232,7 +16958,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "C",
+      "text": "$(1, -5, -6)$"
+     }
     },
     {
      "qno": 34,
@@ -16290,7 +17020,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "A",
+      "text": "$-\\dfrac{3}{2}$"
+     }
     },
     {
      "qno": 30,
@@ -16503,7 +17237,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "C",
+      "text": "$\\sqrt{74}$"
+     }
     },
     {
      "qno": 20,
@@ -16528,7 +17266,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 35,
@@ -16568,7 +17310,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Direction Cosines and Direction Ratios of a Line"
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{2}{7}, \\dfrac{-3}{7}, \\dfrac{-6}{7}$"
+     }
     },
     {
      "qno": 20,
@@ -16593,7 +17339,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Direction Cosines and Direction Ratios of a Line"
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 25,
@@ -16650,7 +17400,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Angle between Two Lines"
+     "topic": "Angle between Two Lines",
+     "answer": {
+      "opt": "D",
+      "text": "$\\cos\\theta = |l_1l_2 + m_1m_2 + n_1n_2|$"
+     }
     },
     {
      "qno": 17,
@@ -16673,7 +17427,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Direction Cosines and Direction Ratios of a Line"
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "answer": {
+      "opt": "C",
+      "text": "$-3, -1$"
+     }
     },
     {
      "qno": 25,
@@ -17451,7 +18209,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "It will have both maximum and minimum values."
+     }
     },
     {
      "qno": 27,
@@ -17491,7 +18253,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "The objective function maximizes the combined profit earned from selling X and Y."
+     }
     },
     {
      "qno": 20,
@@ -17516,7 +18282,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 28,
@@ -17556,7 +18326,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "D",
+      "text": "$3a = 2b$"
+     }
     },
     {
      "qno": 20,
@@ -17581,7 +18355,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 31,
@@ -17624,7 +18402,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "$AOEC$"
+     }
     },
     {
      "qno": 19,
@@ -17652,7 +18434,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 29,
@@ -17695,7 +18481,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "A",
+      "text": "Z is minimum at $S\\left(\\dfrac{18}{7}, \\dfrac{2}{7}\\right)$."
+     }
     },
     {
      "qno": 15,
@@ -17721,7 +18511,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "does not exist."
+     }
     },
     {
      "qno": 29,
@@ -17798,7 +18592,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "D",
+      "text": "$43$"
+     }
     },
     {
      "qno": 18,
@@ -17821,7 +18619,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "$1$"
+     }
     },
     {
      "qno": 30,
@@ -17861,7 +18663,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "an objective function"
+     }
     },
     {
      "qno": 17,
@@ -17887,7 +18693,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "$x + y \\geq 5$, $x + 3y \\leq 9$"
+     }
     },
     {
      "qno": 30,
@@ -17944,7 +18754,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "A",
+      "text": "unbounded in $1^{st}$ quadrant"
+     }
     },
     {
      "qno": 15,
@@ -17970,7 +18784,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "$q = 3p$"
+     }
     },
     {
      "qno": 29,
@@ -18010,7 +18828,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "$300$"
+     }
     },
     {
      "qno": 20,
@@ -18035,7 +18857,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 29,
@@ -18899,7 +19725,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Independent Events"
+     "topic": "Independent Events",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{2}{3}$"
+     }
     },
     {
      "qno": 30,
@@ -18992,7 +19822,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{1 - P(E \\cup F)}{P(\\bar{F})}$"
+     }
     },
     {
      "qno": 30,
@@ -19069,7 +19903,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Independent Events"
+     "topic": "Independent Events",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 29,
@@ -19172,7 +20010,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$0{\\cdot}7$"
+     }
     },
     {
      "qno": 31,
@@ -19247,7 +20089,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{61}{125}$"
+     }
     },
     {
      "qno": 31,
@@ -19304,7 +20150,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{1}{5}$"
+     }
     },
     {
      "qno": 18,
@@ -19327,7 +20177,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{3}{26}$"
+     }
     },
     {
      "qno": 25,
@@ -19404,7 +20258,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 31,
@@ -19479,7 +20337,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{1 - P(A \\cup B)}{P(B')}$"
+     }
     },
     {
      "qno": 31,
@@ -19554,7 +20416,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Independent Events"
+     "topic": "Independent Events",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{1}{70}$"
+     }
     },
     {
      "qno": 31,
@@ -19611,7 +20477,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{98}{125}$"
+     }
     },
     {
      "qno": 31,
@@ -19668,7 +20538,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{2}{5}$"
+     }
     },
     {
      "qno": 31,
