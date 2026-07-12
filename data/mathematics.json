@@ -832,7 +832,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "R on Z: (x,y) ∈ R iff |x−y| is divisible by a prime p. Reflexive: |x−x| = 0 is divisible by p ⇒ (x,x) ∈ R. Symmetric: |x−y| = |y−x| ⇒ (y,x) ∈ R. Transitive: if |x−y| and |y−z| are divisible by p, then (x−y)+(y−z) = x−z is divisible by p ⇒ |x−z| divisible ⇒ (x,z) ∈ R. Hence R is reflexive, symmetric and transitive — an equivalence relation."
+     }
     },
     {
      "qno": 32,
@@ -850,7 +853,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "f: R−{3/5} → R−{3/5}, f(x) = (3x+2)/(5x−3). One-one: f(x₁) = f(x₂) ⇒ (3x₁+2)(5x₂−3) = (3x₂+2)(5x₁−3) ⇒ x₁ = x₂. Onto: for any y in the codomain, x = (3y+2)/(5y−3) lies in the domain and f(x) = y. Hence f is one-one and onto (bijective)."
+     }
     },
     {
      "qno": 1,
@@ -1900,7 +1906,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "tan⁻¹((cos2x − sin2x)/(cos2x + sin2x)) = tan⁻¹((1 − tan2x)/(1 + tan2x)) = tan⁻¹(tan(π/4 − 2x)) = π/4 − 2x (for 0 < x < π/4)."
+     }
     },
     {
      "qno": 25,
@@ -1918,7 +1927,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "tan(sin⁻¹1 − cos⁻¹(−1/2)) = tan(π/2 − 2π/3) = tan(−π/6) = −1/√3."
+     }
     },
     {
      "qno": 34,
@@ -5111,7 +5123,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "A = [[0,2,1],[−2,−1,−2],[1,−1,0]], |A| = −1 ≠ 0. adj A = [[−2,−1,−3],[−2,−1,−2],[3,2,4]], so A⁻¹ = (1/|A|)·adj A = [[2,1,3],[2,1,2],[−3,−2,−4]]. The system (−2y+z = 7, 2x−y−z = 8, x−2y = 10) is AᵀX = B with B = (7,8,10)ᵀ; X = (Aᵀ)⁻¹B = (A⁻¹)ᵀB ⇒ x = 0, y = −5, z = −3."
+     }
     },
     {
      "qno": 33,
@@ -5129,7 +5144,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "The matrix [[3,−1,sin3x],[−7,4,cos2x],[−11,7,2]] is singular ⇒ its determinant = 0 ⇒ 2cos2x + sin3x = 2 ⇒ 4sin³x + 4sin²x − 3sinx = 0 ⇒ sinx(2sinx − 1)(2sinx + 3) = 0. For x ∈ [0, π/2]: x = 0 or π/6."
+     }
     },
     {
      "qno": 5,
@@ -7337,7 +7355,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "text": "Continuity at x = 3: for x < 3, |x−3|/(2(x−3)) = −1/2, and for x ≥ 3, f(x) = (x−6)/6. So f(3) = −1/2, LHL = lim_{x→3⁻} (−1/2) = −1/2, RHL = lim_{x→3⁺}(x−6)/6 = −1/2. Since LHL = RHL = f(3) = −1/2, f is continuous at x = 3."
+     }
     },
     {
      "qno": 21,
@@ -7355,7 +7376,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "√3(x²+y²) = 4xy ⇒ differentiating both sides w.r.t x: √3(2x + 2y·dy/dx) = 4(x·dy/dx + y) ⇒ dy/dx = (2y − √3x)/(√3y − 2x); at (1/2, √3/2), dy/dx = √3."
+     }
     },
     {
      "qno": 34,
@@ -7372,7 +7396,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Second Order Derivative"
+     "topic": "Second Order Derivative",
+     "answer": {
+      "text": "x = cos t, y = cos mt ⇒ dx/dt = −sin t, dy/dt = −m sin mt ⇒ dy/dx = (m sin mt)/sin t, i.e. sin t·(dy/dx) = m sin mt. Differentiating w.r.t x (using sin²t = 1 − cos²t = 1 − x²): sin t·d²y/dx² + cos t·(dy/dx) = m²cos mt·(dt/dx)·sin t ⇒ (1 − x²)d²y/dx² − x·dy/dx = −m²y ⇒ (1 − x²)d²y/dx² − x·dy/dx + m²y = 0."
+     }
     },
     {
      "qno": 7,
@@ -9056,7 +9083,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Inverted cone, semi-vertical angle π/6 ⇒ r/h = tan(π/6) = 1/√3, so r = h/√3 and V = (1/3)πr²h = πh³/9. Given dV/dt = −1 mm³/min = (π/3)h²·dh/dt ⇒ dh/dt = −3/(πh²); at h = 10 mm, dh/dt = −3/(100π). The perfume level is dropping at 3/(100π) mm/min."
+     }
     },
     {
      "qno": 36,
@@ -9073,7 +9103,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "5000 subscribers at ₹300; fee raised by ₹x, 10 subscribers leave per ₹1 rise. (i) Subscribers discontinuing = 10x. (ii) Revenue R(x) = (5000 − 10x)(300 + x). (iii)(a) R′(x) = 2000 − 20x = 0 ⇒ x = 100; R″(x) = −20 < 0 ⇒ R is maximum at x = 100. [OR (iii)(b) R′(x) > 0 on (0,100) so R is increasing on (0,100]; R′(x) < 0 on (100,5000) so R is decreasing on [100,5000).]"
+     }
     },
     {
      "qno": 8,
@@ -11329,7 +11362,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "∫₀¹ x tan⁻¹x dx = [tan⁻¹x · x²/2]₀¹ − ∫₀¹ x²/(2(1+x²)) dx = π/8 − ½∫₀¹ (1 − 1/(1+x²)) dx = π/8 − ½[x − tan⁻¹x]₀¹ = π/8 − ½(1 − π/4) = π/4 − 1/2."
+     }
     },
     {
      "qno": 27,
@@ -11346,7 +11382,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "∫√((x+2)/(x−2)) dx = ∫(x+2)/√(x²−4) dx = ½∫2x/√(x²−4) dx + 2∫dx/√(x²−4) = √(x²−4) + 2 log|x + √(x²−4)| + C."
+     }
     },
     {
      "qno": 27,
@@ -11364,7 +11403,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integration by Partial Fractions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫x²/((x²+9)(x²+16)) dx: put x² = t; partial fractions give A = −9/7, B = 16/7 ⇒ integral = −(9/7)∫dx/(x²+9) + (16/7)∫dx/(x²+16) = −(3/7)tan⁻¹(x/3) + (4/7)tan⁻¹(x/4) + C."
+     }
     },
     {
      "qno": 28,
@@ -11381,7 +11423,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "I₁ = ∫_{−π/4}^{π/4} dx/(1+cos2x) = 2∫₀^{π/4} dx/(2cos²x) = ∫₀^{π/4} sec²x dx = [tan x]₀^{π/4} = 1 (even integrand). I₂ = ∫_{−1/2}^{1/2} |x| dx = 2∫₀^{1/2} x dx = [x²]₀^{1/2} = 1/4. Hence I₁ − 4I₂ = 1 − 4(1/4) = 0."
+     }
     },
     {
      "qno": 9,
@@ -12363,7 +12408,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Roundabout boundary C₁: x²+y² = 64 (radius 8); pond C₂: x²+y² = 4 (radius 2). (i) Two concentric circles. (ii) C₁: y = ±√(64−x²); C₂: y = ±√(4−x²). (iii)(a) Area of roundabout = 4∫₀⁸ √(64−x²) dx = 2[x√(64−x²) + 64 sin⁻¹(x/8)]₀⁸ = 64π. [OR (iii)(b) Area of pond = 4∫₀² √(4−x²) dx = 2[x√(4−x²) + 4 sin⁻¹(x/2)]₀² = 4π.]"
+     }
     },
     {
      "qno": 10,
@@ -13765,7 +13813,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "x²·dy/dx = x² + xy + y² ⇒ dy/dx = 1 + (y/x) + (y/x)². Put y = vx ⇒ v + x·dv/dx = 1 + v + v² ⇒ x·dv/dx = 1 + v² ⇒ ∫dv/(1+v²) = ∫dx/x ⇒ tan⁻¹v = log|x| + C ⇒ tan⁻¹(y/x) = log|x| + C."
+     }
     },
     {
      "qno": 29,
@@ -13783,7 +13834,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "xy·dy/dx = (x+2)(y+2), y(1) = −1. Separate: ∫y/(y+2) dy = ∫(x+2)/x dx ⇒ ∫(1 − 2/(y+2)) dy = ∫(1 + 2/x) dx ⇒ y − 2log|y+2| = x + 2log|x| + C. y(1) = −1 ⇒ C = −2. Particular solution: y − 2log|y+2| = x + 2log|x| − 2."
+     }
     },
     {
      "qno": 11,
@@ -15743,7 +15797,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Some Basic Concepts"
+     "topic": "Some Basic Concepts",
+     "answer": {
+      "text": "QP = OP − OQ = 2î + 3ĵ − 6k̂; |QP| = √(4+9+36) = 7; unit vector along QP = (2î + 3ĵ − 6k̂)/7. Required vector of magnitude 14 = 14 × (QP/|QP|) = 4î + 6ĵ − 12k̂."
+     }
     },
     {
      "qno": 24,
@@ -15760,7 +15817,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Diagonals of the parallelogram: a + b = 4î − 2ĵ + 4k̂ and a − b = 2î − 2ĵ. Their lengths are |a+b| = √(16+4+16) = 6 and |a−b| = √(4+4) = 2√2."
+     }
     },
     {
      "qno": 13,
@@ -17845,7 +17905,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Line 1: (x−1)/2 = (y−2)/3 = (z−3)/4, drs ⟨2,3,4⟩; Line 2: (x−4)/5 = (y−1)/2 = z, drs ⟨5,2,1⟩. The drs are not proportional ⇒ the lines are not parallel. General points (2λ+1, 3λ+2, 4λ+3) and (5μ+4, 2μ+1, μ); equating coordinates gives λ = −1, μ = −1, which satisfy all three equations ⇒ the lines intersect at (−1, −1, −1)."
+     }
     },
     {
      "qno": 15,
@@ -19225,7 +19288,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Minimize Z = 13x − 15y subject to x + y ≤ 7, 2x − 3y + 6 ≥ 0, x, y ≥ 0. Corner points and Z: (0,0)→0, (7,0)→91, (3,4)→−21, (0,2)→−30. Minimum value of Z = −30 at (0, 2)."
+     }
     },
     {
      "qno": 16,
@@ -20927,7 +20993,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Bag I: 3 red, 4 white; Bag II: 8 red, 6 white. Die shows < 3 ⇒ draw from I, else from II. P(E₁) = 2/6, P(A|E₁) = 3/7, P(E₂) = 4/6, P(A|E₂) = 8/14. P(red) = 2/6·3/7 + 4/6·8/14 = 11/21."
+     }
     },
     {
      "qno": 31,
@@ -20945,7 +21014,10 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Conditional Probability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "P(X∪Y) = a and P(exactly one of X, Y) = P(X∪Y) − P(X∩Y) = b ⇒ P(X∩Y) = a − b. Then P(X′) + P(Y′) = 2 − [P(X) + P(Y)] = 2 − [P(X∪Y) + P(X∩Y)] = 2 − [a + (a − b)] = 2 − 2a + b."
+     }
     },
     {
      "qno": 37,
@@ -20962,7 +21034,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Jackpot: 1 first prize ₹3,00,000; 2 second ₹2,00,000 each; 3 third ₹50,000 each; 1,00,000 tickets sold. (i) Possible winnings: ₹3,00,000, ₹2,00,000, ₹50,000. (ii)(a) P(win ≥ ₹2,00,000) = 3/1,00,000. [OR (ii)(b) P(no win) = 1 − 6/1,00,000 = 99994/100000.] (iii) In another jackpot (prize ₹5,00,000, chance 1 in 1,00,000): P(exactly one of the two tickets wins) = (6/100000)(99999/100000) + (99994/100000)(1/100000) = 699988/10¹⁰."
+     }
     },
     {
      "qno": 18,
