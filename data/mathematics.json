@@ -530,7 +530,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "Relations on A = {1,2,3}: R₁={(2,3),(3,2)}, R₂={(1,2),(1,3),(3,2)}, R₃={(1,2),(2,1),(1,1)}, R₄={(1,1),(1,2),(3,3),(2,2)}, R₅={(1,1),(1,2),(3,3),(2,2),(2,1),(2,3),(3,2)}. (i) Reflexive, transitive but not symmetric: R₄. (ii) Reflexive and symmetric but not transitive: R₅. (iii)(a) Symmetric but neither reflexive nor transitive: R₁ and R₃. [OR (iii)(b) Pairs to add to R₂ for an equivalence relation: (1,1), (2,2), (3,3), (2,1), (3,1) and (2,3).]"
+     }
     },
     {
      "qno": 27,
@@ -547,7 +550,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "R on N: mRn ⇔ m is a multiple of n. Reflexive: every x is a multiple of itself ⇒ xRx. Not symmetric: 8 is a multiple of 2 (8R2) but 2 is not a multiple of 8. Transitive: x = my, y = nz ⇒ x = (mn)z, so xRz. Hence R is reflexive and transitive but not symmetric."
+     }
     },
     {
      "qno": 36,
@@ -564,7 +570,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "S = {S₁,S₂,S₃,S₄} (n=4), J = {J₁,J₂,J₃} (n=3). (i) Number of relations S→J = 2^{4×3} = 2¹². (ii) f = {(S₁,J₁),(S₂,J₂),(S₃,J₂),(S₄,J₃)}: S₂ and S₃ share the image J₂, so f is not one-one, hence not bijective. (iii)(a) Since n(S) = 4 > n(J) = 3, no one-one function from S to J exists ⇒ number = 0. [OR (iii)(b) For R₁ = {(S₁,S₂),(S₂,S₄)} to be reflexive but not symmetric, add (S₁,S₁), (S₂,S₂), (S₃,S₃), (S₄,S₄).]"
+     }
     },
     {
      "qno": 3,
@@ -635,7 +644,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "f: R⁺ → R, f(x) = log_a x (a > 0, a ≠ 1). One-one: f(x₁) = f(x₂) ⇒ log_a x₁ = log_a x₂ ⇒ x₁ = x₂. Onto: for any y ∈ R, take x = aʸ ∈ R⁺, then f(x) = y. Hence f is a bijection."
+     }
     },
     {
      "qno": 26,
@@ -653,7 +665,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Types of Relations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "A = {1,2,3}, B = {4,5,6}, R = {(x,y): x + y = 6}. (i) R = {(1,5), (2,4)}. (ii) R is not a function since 3 ∈ A has no image in B. (iii) Domain of R = {1, 2}, Range of R = {4, 5}."
+     }
     },
     {
      "qno": 20,
@@ -699,7 +714,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "A = 30 students, f: A→N, f(x) = roll number of x. (i) f is not bijective. (ii) Range = {1,2,…,30} ≠ codomain N, so f is not onto ⇒ not bijective (it is one-one, since distinct students have distinct roll numbers). (iii)(a) R = {(x,y): y = 3x} = {(1,3),(2,6),(3,9),(4,12),(5,15),(6,18),(7,21),(8,24),(9,27),(10,30)}. Not reflexive ((1,1)∉R), not symmetric ((1,3)∈R but (3,1)∉R), not transitive ((1,3),(3,9)∈R but (1,9)∉R). [OR (iii)(b) R = {(x,y): y = x³} = {(1,1),(2,8),(3,27)}. Since roll numbers 4,5,…,30 have no image, R is not a function.]"
+     }
     },
     {
      "qno": 20,
@@ -745,7 +763,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "Relation R = {(x,y): 2x + y = 41, x,y ∈ N} = {(1,39),(2,37),…,(20,1)}. Domain = {1,2,…,20}, Range = {1,3,5,…,39}. (1,1) ∉ R ⇒ not reflexive. (1,39) ∈ R but (39,1) ∉ R ⇒ not symmetric. (11,19),(19,3) ∈ R but (11,3) ∉ R ⇒ not transitive. Hence R is not an equivalence relation."
+     }
     },
     {
      "qno": 28,
@@ -763,7 +784,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "f: N→N, f(n) = n−1 if n even, n+1 if n odd. One-one: if f(x) = f(y) with x, y same parity then x±1 = y±1 ⇒ x = y; opposite parity is impossible (odd and even cannot differ by 2). Onto: for any y ∈ N, if y is odd take x = y+1 (even), if y is even take x = y−1 (odd), giving f(x) = y. Hence f is a bijection."
+     }
     },
     {
      "qno": 21,
@@ -780,7 +804,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "f(x) = (x−2)/(x−3), A = R−{3}, B = R−{1}. One-one: f(x₁) = f(x₂) ⇒ (x₁−2)(x₂−3) = (x₂−2)(x₁−3) ⇒ x₁ = x₂. Onto: for y ∈ B, x = (3y−2)/(y−1) ∈ A gives f(x) = y. Hence f is one-one and onto, i.e. bijective."
+     }
     },
     {
      "qno": 26,
@@ -797,7 +824,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "f: R→R, f(x) = 4x³ − 5. One-one: f(x₁) = f(x₂) ⇒ x₁³ = x₂³ ⇒ x₁ = x₂. Onto: for y ∈ R, x = ((y+5)/4)^{1/3} ∈ R gives f(x) = y. Hence f is one-one and onto (bijective)."
+     }
     },
     {
      "qno": 26,
@@ -815,7 +845,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "R on N: x R y iff xy is a perfect square. Reflexive: x·x = x² is a perfect square ⇒ (x,x) ∈ R. Symmetric: xy perfect square ⇒ yx perfect square. Transitive: if xy and yz are perfect squares, then xy·yz = xz·y² is a perfect square ⇒ xz is a perfect square ⇒ (x,z) ∈ R. Hence R is an equivalence relation."
+     }
     },
     {
      "qno": 32,
@@ -900,7 +933,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "f: R−{3} → R, f(x) = (x−2)/(x−3). Let y = (x−2)/(x−3) ⇒ x = (3y−2)/(y−1), which requires y ≠ 1, so the range R_f = R−{1} ≠ R (codomain). Hence f is not onto."
+     }
     },
     {
      "qno": 32,
@@ -917,7 +953,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "f(x) = x/√(1+x²). One-one: f(x₁) = f(x₂) ⇒ x₁²(1+x₂²) = x₂²(1+x₁²) ⇒ x₁² = x₂² ⇒ x₁ = x₂ (both same sign, rejecting x₁ = −x₂). Not onto: y = x/√(1+x²) ⇒ x = ±√(y²/(1−y²)), defined only for y ∈ (−1,1) ⇒ range = (−1,1) ≠ R (codomain). Hence f is one-one but not onto."
+     }
     },
     {
      "qno": 20,
@@ -963,7 +1002,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "f: R−{3} → R−{1}, f(x) = (x−2)/(x−3). One-one: f(a) = f(b) ⇒ (a−2)(b−3) = (b−2)(a−3) ⇒ a = b. Onto: y = (x−2)/(x−3) ⇒ x = (3y−2)/(y−1), defined for all y ≠ 1, so range = R−{1} = codomain. Hence f is both one-one and onto (bijective)."
+     }
     },
     {
      "qno": 26,
@@ -981,7 +1023,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "R = {(x,y): (x−y) divisible by n} on Z. Reflexive: x−x = 0 is divisible by n. Symmetric: x−y = np ⇒ y−x = n(−p) divisible by n. Transitive: x−y = np, y−z = nr ⇒ x−z = n(p+r) divisible by n. Hence R is an equivalence relation."
+     }
     },
     {
      "qno": 19,
@@ -1027,7 +1072,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "Set A = {G₁,G₂,G₃,G₄} (n=4), Set B = {B₁,B₂,B₃} (n=3). (i) Number of relations A→B = 2^{4×3} = 2¹² = 4096. (ii) R is not an injective function; in fact it is not a function at all, since G₁ has two images B₁ and B₂. (iii)(a) 'x, y from the same colony' is reflexive, symmetric and transitive ⇒ an equivalence relation. [OR (iii)(b) No function f: B→A can be bijective, because n(B) = 3 < n(A) = 4, so f cannot be onto (surjective).]"
+     }
     },
     {
      "qno": 23,
@@ -1045,7 +1093,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "R = {(1,1),(3,3),(1,2)} on A = {1,2,3}. Since (1,2) ∈ R but (2,1) ∉ R, R is not symmetric. To make R ∪ R₁ an equivalence relation it must be reflexive and symmetric ⇒ add (2,2) and (2,1). Smallest R₁ = {(2,2), (2,1)}."
+     }
     }
    ],
    "topic_order": [
@@ -1569,7 +1620,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "tan⁻¹[2 sin(2 cos⁻¹(√3/2))] = tan⁻¹[2 sin(2·π/6)] = tan⁻¹[2 sin(π/3)] = tan⁻¹[2·(√3/2)] = tan⁻¹(√3) = π/3."
+     }
     },
     {
      "qno": 5,
@@ -1640,7 +1694,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "Put x = tan θ ⇒ θ = tan⁻¹x. sin⁻¹(x/√(1+x²)) = sin⁻¹(tan θ/sec θ) = sin⁻¹(sin θ) = θ = tan⁻¹x."
+     }
     },
     {
      "qno": 23,
@@ -1658,7 +1715,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "For sin⁻¹√(x−1): −1 ≤ √(x−1) ≤ 1 ⇒ 0 ≤ x − 1 ≤ 1 ⇒ 1 ≤ x ≤ 2. Domain = [1, 2]."
+     }
     },
     {
      "qno": 7,
@@ -1702,7 +1762,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "Domain of f(x) = cos⁻¹(x² − 4): cos⁻¹ requires −1 ≤ x² − 4 ≤ 1 ⇒ 3 ≤ x² ≤ 5 ⇒ x ∈ [−√5, −√3] ∪ [√3, √5]."
+     }
     },
     {
      "qno": 3,
@@ -1776,7 +1839,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "f(x) = sin⁻¹(−x²). Domain requires −1 ≤ −x² ≤ 1, i.e. −1 ≤ −x² ≤ 0 ⇒ 0 ≤ x² ≤ 1 ⇒ −1 ≤ x ≤ 1. Domain = [−1, 1]."
+     }
     },
     {
      "qno": 1,
@@ -1947,7 +2013,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "Domain of cos⁻¹u is [−1,1] ⇒ −1 ≤ x²−1 ≤ 1 ⇒ 0 ≤ x² ≤ 2 ⇒ −√2 ≤ x ≤ √2; so domain of g = [−√2, √2]. g(x) = π/3 ⇒ cos⁻¹(x²−1) = π/3 ⇒ x²−1 = cos(π/3) = 1/2 ⇒ x² = 3/2 ⇒ x = ±√(3/2). Range of cos⁻¹x other than its principal branch: e.g. [−π, 0] or [π, 2π] (any valid branch)."
+     }
     },
     {
      "qno": 1,
@@ -1991,7 +2060,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "sin[cot⁻¹(√2·cos(tan⁻¹1))] = sin[cot⁻¹(√2·cos(π/4))] = sin[cot⁻¹(√2·1/√2)] = sin(cot⁻¹1) = sin(π/4) = 1/√2."
+     }
     },
     {
      "qno": 1,
@@ -2065,7 +2137,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "tan⁻¹(−1/√3) + cot⁻¹(1/√3) + tan⁻¹(sin(−π/2)) + tan⁻¹(tan(2π/3)) = −π/6 + π/3 + tan⁻¹(−1) + tan⁻¹(tan(−π/3)) = −π/6 + π/3 − π/4 − π/3 = −5π/12."
+     }
     },
     {
      "qno": 3,
@@ -2109,7 +2184,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "sin[tan⁻¹(tan(3π/4))] = sin[tan⁻¹(tan(π − π/4))] = sin[tan⁻¹(−1)] = sin(−π/4) = −1/√2."
+     }
     }
    ],
    "topic_order": [
@@ -3334,7 +3412,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "text": "A = [1, 4, −2]ᵀ (3×1), C = [[3,4,2],[12,16,8],[−6,−8,−4]] (3×3); AB = C requires B = [x y z] (1×3). AB = [[x,y,z],[4x,4y,4z],[−2x,−2y,−2z]] = C ⇒ x = 3, y = 4, z = 2. Hence B = [3 4 2]."
+     }
     },
     {
      "qno": 3,
@@ -3432,7 +3513,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "text": "A = [[2,3],[−1,2]]. A² = [[1,12],[−4,1]], 4A = [[8,12],[−4,8]]. A² − 4A = [[−7,0],[0,−7]] = −7I. Hence A² − 4A + 7I = O."
+     }
     },
     {
      "qno": 2,
@@ -3748,7 +3832,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "text": "A = [[3,2,0],[1,4,0],[0,0,5]]. A² = [[11,14,0],[7,18,0],[0,0,25]]. A² − 7A + 10I = [[11,14,0],[7,18,0],[0,0,25]] − [[21,14,0],[7,28,0],[0,0,35]] + [[10,0,0],[0,10,0],[0,0,10]] = [[0,0,0],[0,0,0],[0,0,0]] (the null matrix)."
+     }
     },
     {
      "qno": 1,
@@ -3886,7 +3973,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Shopkeeper's books: Day I sale = ₹24,300, Day II sale = ₹22,875, total sale = ₹47,175. Cost = ₹35,000. Profit = ₹47,175 − ₹35,000 = ₹12,175."
+     }
     },
     {
      "qno": 34,
@@ -3904,7 +3994,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "P = [[2,−1],[3,4]], Q = [[5,2],[7,4]], R = [[2,5],[3,8]]; PQ − RS = O ⇒ RS = PQ = [[3,0],[43,22]]. S = R⁻¹(PQ) = [[8,−5],[−3,2]][[3,0],[43,22]] = [[−191,−110],[77,44]]."
+     }
     }
    ],
    "topic_order": [
@@ -4770,7 +4863,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Sports x, Music y, Drama z: x = y + z, y = x/2 + 20, x + y + z = 180 ⇒ x − y − z = 0, x − 2y = −40, x + y + z = 180. AX = B with A = [[1,−1,−1],[1,−2,0],[1,1,1]], |A| = −4 ≠ 0. adj A = [[−2,0,−2],[−1,2,−1],[3,−2,−1]], A⁻¹ = (1/−4)(adj A). X = A⁻¹B = [90, 65, 25]ᵀ. Students: Sports 90, Music 65, Drama 25."
+     }
     },
     {
      "qno": 35,
@@ -4787,7 +4883,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "A = [[−4,4,4],[−7,1,3],[5,−3,−1]], B = [[1,−1,1],[1,−2,−2],[2,1,3]]; AB = 8I. The system x−y+z=4, x−2y−2z=9, 2x+y+3z=1 is BX = C with C = [4,9,1]ᵀ. Since AB = 8I, B⁻¹ = (1/8)A, so X = B⁻¹C = (1/8)AC = (1/8)[24,−16,−8]ᵀ = [3,−2,−1]ᵀ ⇒ x = 3, y = −2, z = −1."
+     }
     },
     {
      "qno": 35,
@@ -4805,7 +4904,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "A = [[1,2,0],[−2,−1,−2],[0,−1,1]], |A| = 1 ≠ 0. adj A = [[−3,−2,−4],[2,1,2],[2,1,3]] ⇒ A⁻¹ = adj A. The system x−2y=10, 2x−y−z=8, −2y+z=7 is AᵀX = B with B = [10,8,7]ᵀ, so X = (A⁻¹)ᵀB = [0, −5, −3]ᵀ ⇒ x = 0, y = −5, z = −3."
+     }
     },
     {
      "qno": 7,
@@ -4849,7 +4951,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "text": "det(A) = 3, det(B) = −4, both order 3. det(−6AB) = (−6)³·det(A)·det(B) = −216·3·(−4) = 2592."
+     }
     },
     {
      "qno": 32,
@@ -4866,7 +4971,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "text": "For invertible A and scalar k ≠ 0, (kA)(1/k · A⁻¹) = k·(1/k)(A·A⁻¹) = I, so (kA)⁻¹ = (1/k)A⁻¹. Thus (3A)⁻¹ = (1/3)A⁻¹. For A = [[2,−1,1],[−1,2,−1],[1,−1,2]], |A| = 4 ≠ 0, adj A = [[3,1,−1],[1,3,1],[−1,1,3]], A⁻¹ = (1/4)adj A. Hence (3A)⁻¹ = (1/12)[[3,1,−1],[1,3,1],[−1,1,3]]."
+     }
     },
     {
      "qno": 4,
@@ -4964,7 +5072,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Chairs x, tables y, beds z: x + y + z = 45, z − x = 8 (i.e. −x + z = 8), y = (x + z)/2 (i.e. x − 2y + z = 0). Matrix method: A = [[1,1,1],[−1,0,1],[1,−2,1]], |A| = 6 ≠ 0. adj(A) = [[2,−3,1],[2,0,−2],[2,3,1]], A⁻¹ = (1/6)adj(A). X = A⁻¹B with B = [45,8,0]ᵀ ⇒ x = 11, y = 15, z = 19. So 11 chairs, 15 tables, 19 beds."
+     }
     },
     {
      "qno": 36,
@@ -4981,7 +5092,10 @@
      ],
      "bloom": "Create",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Pens ₹x, notepads ₹y, erasers ₹z: 4x+3y+2z = 60, 2x+4y+6z = 90, 6x+2y+3z = 70. (i) AX = B with A = [[4,3,2],[2,4,6],[6,2,3]], X = [x,y,z]ᵀ, B = [60,90,70]ᵀ. (ii) |A| = 50 ≠ 0, so A⁻¹ exists. (iii)(a) A⁻¹ = (1/50)[[0,−5,10],[30,0,−20],[−20,10,10]] and X = A⁻¹B. [OR (iii)(b) A² = [[34,28,32],[52,34,46],[46,32,33]] ⇒ A² − 8I = [[26,28,32],[52,26,46],[46,32,25]].]"
+     }
     },
     {
      "qno": 5,
@@ -5052,7 +5166,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Solve 2x + 5y = 1, 3x + 2y = 7 by matrix method. A = [[2,5],[3,2]], |A| = −11, A⁻¹ = (1/−11)[[2,−5],[−3,2]]. X = A⁻¹B = (1/−11)[[2,−5],[−3,2]][1,7]ᵀ = (1/−11)[−33, 11]ᵀ = [3, −1]ᵀ. Common point (3, −1)."
+     }
     },
     {
      "qno": 4,
@@ -5218,7 +5335,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "QP = [[6,0,0],[0,6,0],[0,0,6]] = 6I ⇒ P⁻¹ = (1/6)Q. The system (x−y=3, 2x+3y+4z=17, y+2z=7) is PX = R with R = (3,17,7)ᵀ; X = P⁻¹R = (1/6)QR = (1/6)(12,−6,24)ᵀ = (2,−1,4)ᵀ ⇒ x = 2, y = −1, z = 4."
+     }
     },
     {
      "qno": 32,
@@ -5236,7 +5356,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determinant",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Δ = |[1+x,1,1],[1,1+y,1],[1,1,1+z]| = xy + yz + zx + xyz. If Δ = 0 then xy + yz + zx = −xyz; dividing by xyz gives 1/x + 1/y + 1/z = −1, i.e. x⁻¹ + y⁻¹ + z⁻¹ = −1."
+     }
     },
     {
      "qno": 2,
@@ -5307,7 +5430,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Let x = number of ₹1000 vouchers, y = number of ₹500 vouchers. x + y = 60 and x + 3y = 100. In matrix form AX = B with A = [[1,1],[1,3]], |A| = 2 ≠ 0, A⁻¹ = ½[[3,−1],[−1,1]]. X = A⁻¹B = ½[[3,−1],[−1,1]][60,100]ᵀ = [40, 20]ᵀ ⇒ 40 vouchers of ₹1000 and 20 of ₹500."
+     }
     },
     {
      "qno": 4,
@@ -5351,7 +5477,10 @@
      ],
      "bloom": "Create",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "text": "Cuboid l, b, h: l + b = h + 3, 2l + 3b + h = 10, b + 7h = 3l − 1. (i) AX = B with A = [[1,1,−1],[2,3,1],[−3,1,7]], X = [l,b,h]ᵀ, B = [3,10,−1]ᵀ. (ii) |A| = −8 ≠ 0, so A⁻¹ exists. (iii)(a) A⁻¹ = (1/−8)[[20,−8,4],[−17,4,−3],[11,−4,1]]. [OR (iii)(b) A² + 7I = [[13,3,−7],[5,19,8],[−22,7,60]].]"
+     }
     },
     {
      "qno": 5,
@@ -5422,7 +5551,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Let apple = ₹x, orange = ₹y, banana = ₹z. 4x+3y+2z = 60, 2x+4y+6z = 90, 6x+2y+3z = 70. A = [[4,3,2],[2,4,6],[6,2,3]], |A| = 50 ≠ 0 ⇒ A⁻¹ exists. X = A⁻¹B, adj A = [[0,−5,10],[30,0,−20],[−20,10,10]] ⇒ X = (1/50)(adj A)B = [5, 8, 8]ᵀ. Costs: apple ₹5, orange ₹8, banana ₹8."
+     }
     }
    ],
    "topic_order": [
@@ -6627,7 +6759,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "Let u = 2^{cos²x} ⇒ du/dx = 2^{cos²x}(−2 cos x sin x)log 2; v = cos²x ⇒ dv/dx = −2 cos x sin x. Hence du/dv = (du/dx)/(dv/dx) = 2^{cos²x} log 2."
+     }
     },
     {
      "qno": 21,
@@ -6645,7 +6780,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "tan⁻¹(x² + y²) = a² ⇒ x² + y² = tan a² (a constant). Differentiating both sides w.r.t. x: 2x + 2y·dy/dx = 0 ⇒ dy/dx = −x/y."
+     }
     },
     {
      "qno": 32,
@@ -6662,7 +6800,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "√(1−x²) + √(1−y²) = a(x−y). Put x = sin A, y = sin B ⇒ cos A + cos B = a(sin A − sin B) ⇒ 2cos((A+B)/2)cos((A−B)/2) = 2a cos((A+B)/2)sin((A−B)/2) ⇒ cot((A−B)/2) = a ⇒ A − B = 2cot⁻¹a ⇒ sin⁻¹x − sin⁻¹y = 2cot⁻¹a. Differentiating: 1/√(1−x²) − (1/√(1−y²))dy/dx = 0 ⇒ dy/dx = √((1−y²)/(1−x²))."
+     }
     },
     {
      "qno": 32,
@@ -6680,7 +6821,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Second Order Derivative",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "x = a(cos θ + log tan(θ/2)) ⇒ dx/dθ = a(−sin θ + 1/sin θ) = a cos θ cot θ... = a cot θ cos θ; y = sin θ ⇒ dy/dθ = cos θ. dy/dx = tan θ/a. d²y/dx² = (sec²θ/a)(dθ/dx) = sec³θ tan θ/a². At θ = π/4: = (√2)³·1/a² = 2√2/a²."
+     }
     },
     {
      "qno": 14,
@@ -6722,7 +6866,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Logarithmic Differentiation"
+     "topic": "Logarithmic Differentiation",
+     "answer": {
+      "text": "x = e^{x/y} ⇒ log x = x/y ⇒ y log x = x. Differentiating w.r.t. x: y/x + log x·dy/dx = 1 ⇒ dy/dx = (1 − y/x)/log x = (x − y)/(x log x)."
+     }
     },
     {
      "qno": 25,
@@ -6740,7 +6887,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "f(x) = 2x − 3 for −3 ≤ x ≤ −2, and x + 1 for −2 < x ≤ 0; f(−2) = −7. LHD at x = −2 = lim_{h→0}[2(−2−h)−3−(−7)]/(−h) = 2. RHD = lim_{h→0}[(−2+h+1)−(−7)]/h = lim (6+h)/h, which does not exist. Since RHD does not exist, f is not differentiable at x = −2."
+     }
     },
     {
      "qno": 29,
@@ -6757,7 +6907,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Second Order Derivative"
+     "topic": "Second Order Derivative",
+     "answer": {
+      "text": "y = log(√x + 1/√x)² = 2log(x+1) − log x. y₁ = 2/(x+1) − 1/x = (x−1)/(x(x+1)) ⇒ (x+1)y₁ = 1 − 1/x. Differentiating: (x+1)y₂ + y₁ = 1/x² ⇒ multiplying by x(x+1): x(x+1)²y₂ + x(x+1)y₁ = 1 + 1/x = 1 + 1 − (x+1)y₁ ⇒ x(x+1)²y₂ + (x+1)²y₁ = 2."
+     }
     },
     {
      "qno": 29,
@@ -6775,7 +6928,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "x√(1+y) + y√(1+x) = 0 ⇒ x√(1+y) = −y√(1+x) ⇒ x²(1+y) = y²(1+x) ⇒ (x−y)(x+y) + xy(x−y) = 0 ⇒ (x−y)(x+y+xy) = 0. Since x ≠ y, x + y + xy = 0 ⇒ y = −x/(1+x). Differentiating: dy/dx = −1/(1+x)²."
+     }
     },
     {
      "qno": 4,
@@ -6873,7 +7029,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "text": "f(x) = (x²−2x−3)/(x+1) for x ≠ −1, f(−1) = k. lim_{x→−1}(x²−2x−3)/(x+1) = lim (x−3)(x+1)/(x+1) = lim (x−3) = −4. For continuity, k = f(−1) = −4."
+     }
     },
     {
      "qno": 27,
@@ -6891,7 +7050,10 @@
      "bloom": "Analyse",
      "difficulty": "Easy",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "f(x) = x|x| = −x² for x ≤ 0, x² for x > 0. LHD at 0 = lim_{h→0}(−h²−0)/(−h) = 0; RHD = lim_{h→0}(h²−0)/h = 0. Since LHD = RHD = 0, f is differentiable at x = 0."
+     }
     },
     {
      "qno": 5,
@@ -6967,7 +7129,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "y = sin x/√cos x. dy/dx = [√cos x·cos x − sin x·(−sin x/(2√cos x))]/cos x = (2cos²x + sin²x)/(2(cos x)^{3/2}) = (1 + cos²x)/(2(cos x)^{3/2})."
+     }
     },
     {
      "qno": 23,
@@ -6990,7 +7155,10 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Second Order Derivative",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "y = 5cos x − 3sin x. dy/dx = −5sin x − 3cos x; d²y/dx² = −5cos x + 3sin x = −(5cos x − 3sin x) = −y. Hence d²y/dx² + y = 0."
+     }
     },
     {
      "qno": 34,
@@ -7007,7 +7175,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "text": "Differentiate u = a^{t+1/t} w.r.t. v = (t+1/t)^a. du/dt = a^{t+1/t}·log a·(1 − 1/t²); dv/dt = a(t+1/t)^{a−1}·(1 − 1/t²). du/dv = (du/dt)/(dv/dt) = a^{t+1/t}·log a / [a(t + 1/t)^{a−1}]."
+     }
     },
     {
      "qno": 34,
@@ -7025,7 +7196,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Logarithmic Differentiation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "y^x + x^y + x^x = a^b (constant). Let u = y^x, v = x^y, w = x^x. Logarithmic differentiation: du/dx = xy^{x−1}·y′ + y^x log y; dv/dx = yx^{y−1} + x^y log x·y′; dw/dx = x^x(1 + log x). Since du/dx + dv/dx + dw/dx = 0, dy/dx = −[x^x(1 + log x) + y^x log y + yx^{y−1}] / [x·y^{x−1} + x^y log x]."
+     }
     },
     {
      "qno": 6,
@@ -7150,7 +7324,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "Let u = √(e^{√(2x)}) and v = e^{√(2x)}, so u = √v ⇒ du/dv = 1/(2√v) = 1/(2√(e^{√(2x)}))."
+     }
     },
     {
      "qno": 22,
@@ -7168,7 +7345,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(x)ʸ = (y)ˣ ⇒ y log x = x log y. Differentiating: y/x + log x·dy/dx = (x/y)dy/dx + log y ⇒ dy/dx = y(x log y − y)/(x(y log x − x))."
+     }
     },
     {
      "qno": 27,
@@ -7185,7 +7365,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "y = sin⁻¹(3x − 4x³), x ∈ [−1/2, 1/2]. Put x = sin t ⇒ y = sin⁻¹(sin 3t) = 3t = 3 sin⁻¹x. dy/dx = 3/√(1−x²)."
+     }
     },
     {
      "qno": 27,
@@ -7203,7 +7386,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "y = cos⁻¹((1−x²)/(1+x²)), x ∈ (0,1). Put x = tan t ⇒ y = cos⁻¹(cos 2t) = 2t = 2 tan⁻¹x. dy/dx = 2/(1+x²)."
+     }
     },
     {
      "qno": 8,
@@ -7303,7 +7489,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "text": "d/dx(5ˣ/x⁵) = (5ˣ/x⁵)·log 5 − 5·5ˣ/x⁶ = (5ˣ/x⁵)log 5 − 5^(x+1)/x⁶."
+     }
     },
     {
      "qno": 23,
@@ -7321,7 +7510,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "−2x² − 5xy + y³ = 76. Differentiating: −4x − 5y − 5x·y′ + 3y²·y′ = 0 ⇒ y′(3y² − 5x) = 4x + 5y ⇒ dy/dx = (4x + 5y)/(3y² − 5x)."
+     }
     },
     {
      "qno": 28,
@@ -7338,7 +7530,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "text": "y = √(log{sin(x³/3 − 1)}). dy/dx = [1/(2√(log{sin(x³/3−1)}))]·[1/sin(x³/3−1)]·cos(x³/3−1)·x² = x²·cot(x³/3 − 1) / (2√(log{sin(x³/3 − 1)}))."
+     }
     },
     {
      "qno": 21,
@@ -7443,7 +7638,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Derivatives of Functions in Parametric Forms"
+     "topic": "Derivatives of Functions in Parametric Forms",
+     "answer": {
+      "text": "x = a sin³t, y = b cos³t ⇒ dx/dt = 3a sin²t cos t, dy/dt = −3b cos²t sin t ⇒ dy/dx = −(b/a)cot t; at t = π/4, dy/dx = −b/a."
+     }
     },
     {
      "qno": 38,
@@ -7460,7 +7658,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "text": "Track f(x) = x⁴ − 4x² + 4 for 0 ≤ x < 3, and x² + 40 for x ≥ 3. (i) For 0 < x < 3, f′(x) = 4x³ − 8x. (ii) For x ≥ 3, f′(x) = 2x ⇒ f′(4) = 8. (iii)(a) f(3) = 49; LHL = lim_{x→3⁻}(x⁴−4x²+4) = 49, RHL = lim_{x→3⁺}(x²+40) = 49 = f(3) ⇒ f is continuous at x = 3. [OR (iii)(b) LHD = 84, RHD = 6; since LHD ≠ RHD, f is not differentiable at x = 3.]"
+     }
     },
     {
      "qno": 7,
@@ -7531,7 +7732,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Derivatives of Functions in Parametric Forms"
+     "topic": "Derivatives of Functions in Parametric Forms",
+     "answer": {
+      "text": "x = t + 1/t ⇒ dx/dt = 1 − 1/t²; y = t − 1/t ⇒ dy/dt = 1 + 1/t². dy/dx = (t²+1)/(t²−1); at t = 2, dy/dx = 5/3."
+     }
     },
     {
      "qno": 30,
@@ -7548,7 +7752,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "(sin x)ʸ = yᶜᵒˢˣ ⇒ y·log sin x = cos x·log y. Differentiating: y·cos x/sin x + log sin x·dy/dx = (cos x/y)dy/dx − log y·sin x ⇒ dy/dx = y(y cos x + log y·sin²x) / (sin x(cos x − y log sin x))."
+     }
     },
     {
      "qno": 5,
@@ -7646,7 +7853,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "text": "f(x) = cos x/(π/2 − x) for x ≠ π/2 and f(π/2) = 1. lim_{x→π/2} cos x/(π/2 − x): put x = π/2 − h ⇒ = lim_{h→0} sin h/h = 1 = f(π/2). Hence f is continuous at x = π/2."
+     }
     },
     {
      "qno": 22,
@@ -7664,7 +7874,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "f(x) = x − 1 for x < 2, 2x − 3 for x ≥ 2. LHD at x = 2 = 1, RHD = 2. Since LHD ≠ RHD, f is not differentiable at x = 2 (though it is continuous there)."
+     }
     },
     {
      "qno": 28,
@@ -7681,7 +7894,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "xy = e^{x−y}. Differentiating: x·dy/dx + y = e^{x−y}(1 − dy/dx) ⇒ (x + e^{x−y})dy/dx = e^{x−y} − y ⇒ dy/dx = (e^{x−y} − y)/(x + e^{x−y}) = y(x−1)/(x(y+1))."
+     }
     },
     {
      "qno": 28,
@@ -7699,7 +7915,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "y = tan⁻¹[(√(1+x²) − √(1−x²))/(√(1+x²) + √(1−x²))]. Put x² = cos θ ⇒ y = tan⁻¹[(cos(θ/2) − sin(θ/2))/(cos(θ/2) + sin(θ/2))] = tan⁻¹(tan(π/4 − θ/2)) = π/4 − θ/2, where θ = cos⁻¹x². Hence dy/d(cos⁻¹x²) = dy/dθ = −1/2."
+     }
     },
     {
      "qno": 6,
@@ -7770,7 +7989,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "text": "y√(x²+1) = log(√(x²+1) − x). Differentiating: √(x²+1)·dy/dx + y·x/√(x²+1) = [1/(√(x²+1)−x)]·[(x/√(x²+1)) − 1] = [1/(√(x²+1)−x)]·[(x − √(x²+1))/√(x²+1)] = −1/√(x²+1). Multiplying by √(x²+1): (x²+1)dy/dx + xy = −1, i.e. (x²+1)dy/dx + xy + 1 = 0."
+     }
     },
     {
      "qno": 33,
@@ -7788,7 +8010,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Let u = x^{cot x}, v = (2x²−3)/(2x²−x+2). log u = cot x·log x ⇒ du/dx = x^{cot x}(cot x/x − cosec²x·log x). dv/dx = [(2x²−x+2)(4x) − (2x²−3)(4x−1)]/(2x²−x+2)² = (−2x²+20x−3)/(2x²−x+2)². Required derivative = x^{cot x}(cot x/x − cosec²x·log x) + (−2x²+20x−3)/(2x²−x+2)²."
+     }
     }
    ],
    "topic_order": [
@@ -8591,7 +8816,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = 5x^{3/2} − 3x^{5/2} ⇒ f′(x) = (15/2)√x(1 − x). f′(x) = 0 ⇒ x = 0, 1. (i) For x ∈ [0,1], f′(x) ≥ 0, so f is increasing on [0,1]. (ii) For x ∈ [1,∞), f′(x) ≤ 0, so f is decreasing on [1, ∞)."
+     }
     },
     {
      "qno": 26,
@@ -8608,7 +8836,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Equilateral triangle side a, da/dt = 3 cm/s. Area A = (√3/4)a² ⇒ dA/dt = (√3 a/2)·da/dt. At a = 15: dA/dt = (√3·15/2)·3 = 45√3/2 cm²/s."
+     }
     },
     {
      "qno": 33,
@@ -8625,7 +8856,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "f(x) = 2x³ − 15x² + 36x + 1 on [1,5]. f′(x) = 6(x²−5x+6) = 6(x−2)(x−3) = 0 ⇒ x = 2, 3 ∈ [1,5]. f(1) = 24, f(2) = 29, f(3) = 28, f(5) = 56. Absolute maximum value = 56 (at x = 5); absolute minimum value = 24 (at x = 1)."
+     }
     },
     {
      "qno": 36,
@@ -8642,7 +8876,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Rectangular panel, 300 m boundary + one partition parallel to a side; perpendicular side x, parallel side y. (i) 2x + 3y = 300. (ii) A = xy = (x/3)(300 − 2x) = (1/3)(300x − 2x²). (iii)(a) dA/dx = (1/3)(300 − 4x) = 0 ⇒ x = 75; d²A/dx² = −4/3 < 0 ⇒ maximum; maximum area = (75/3)(300 − 150) = 3750 m². [OR (iii)(b) By the first-derivative test dA/dx changes + → − at x = 75 ⇒ maximum; maximum area = 3750 m².]"
+     }
     },
     {
      "qno": 2,
@@ -8713,7 +8950,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = sin x − ax + b. f′(x) = cos x − a. For f increasing on R, f′(x) ≥ 0 ⇒ a ≤ cos x for all x. Since −1 ≤ cos x ≤ 1, this requires a ≤ −1. Hence a ∈ (−∞, −1]."
+     }
     },
     {
      "qno": 38,
@@ -8730,7 +8970,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "Intensity f(x) = eˣ sin x on [0, π]. (i) f′(x) = eˣ(cos x + sin x) = 0 ⇒ cos x = −sin x ⇒ x = 3π/4. f′(x) ≥ 0 on [0, 3π/4] (increasing) and f′(x) ≤ 0 on [3π/4, π] (decreasing). (ii) f″(x) = 2eˣ cos x; f″(3π/4) < 0, so x = 3π/4 is a point of local maximum."
+     }
     },
     {
      "qno": 5,
@@ -8801,7 +9044,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = 2x² − ax + 3 ⇒ f′(x) = 4x − a. On [2,4], 8 − a ≤ 4x − a ≤ 16 − a. For f increasing, f′(x) ≥ 0 ⇒ 8 − a ≥ 0 ⇒ a ≤ 8. Since a can be any value ≤ 8, the least value of a does not exist."
+     }
     },
     {
      "qno": 22,
@@ -8819,7 +9065,10 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Increasing and Decreasing Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "f(x) = x + 1/x, x ≥ 1 ⇒ f′(x) = 1 − 1/x² = (x²−1)/x². For x ≥ 1, (x²−1)/x² ≥ 0 ⇒ f′(x) ≥ 0, so f is an increasing function."
+     }
     },
     {
      "qno": 25,
@@ -8836,7 +9085,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "y = 5x − 2x³, dx/dt = 2 units/s. Slope m = dy/dx = 5 − 6x² ⇒ dm/dt = −12x·dx/dt = −24x. At x = 2, dm/dt = −24(2) = −48. Hence the slope of the curve is decreasing at the rate of 48 units/s."
+     }
     },
     {
      "qno": 33,
@@ -8853,7 +9105,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Plant height y = 4x − ½x² (x = days of sunlight). (i) Rate of growth dy/dx = 4 − x cm/day. (ii) For maximum height dy/dx = 0 ⇒ x = 4 days; d²y/dx² = −1 < 0 confirms a maximum. Maximum height = y(4) = 16 − ½(16) = 8 cm."
+     }
     },
     {
      "qno": 10,
@@ -8897,7 +9152,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Spherical balloon, dS/dt = 5 mm²/s, find dV/dt at r = 8. S = 4πr² ⇒ dS/dt = 8πr·dr/dt ⇒ dr/dt = 5/(8πr). V = (4/3)πr³ ⇒ dV/dt = 4πr²·dr/dt = (5/2)r. At r = 8, dV/dt = 20 mm³/s."
+     }
     },
     {
      "qno": 26,
@@ -8914,7 +9172,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = √3 sin x − cos x − 2ax + 6 decreasing on R ⇒ f′(x) ≤ 0 for all x. f′(x) = √3 cos x + sin x − 2a = 2(cos(x − π/6)) − 2a ≤ 0 ⇒ a ≥ cos(x − π/6) for all x. Since max of cos(x − π/6) = 1, a ≥ 1, i.e. a ∈ [1, ∞)."
+     }
     },
     {
      "qno": 36,
@@ -8931,7 +9192,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Closed cuboidal box, square base side x, height y, fixed volume V = x²y. (i) y = V/x², S = 2x² + 4xy = 2x² + 4V/x. (ii) dS/dx = 4x − 4V/x² = 4(x − V/x²). (iii)(a) dS/dx = 0 ⇒ V = x³ ⇒ x²y = x³ ⇒ y = x; d²S/dx² = 4(1 + 2V/x³) > 0, so S is minimum when y = x (a cube). [OR (iii)(b) V = (1/4)(Sx − 2x³); dV/dx = (1/4)(S − 6x²) = 0 ⇒ x = √(S/6); d²V/dx² = −3x < 0 at x = √(S/6), so volume is maximum for x = √(S/6).]"
+     }
     },
     {
      "qno": 23,
@@ -8948,7 +9212,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = (x−4)/(x+1), x ≠ −1. f′(x) = [(x+1) − (x−4)]/(x+1)² = 5/(x+1)² > 0 for all x ≠ −1. Hence f is increasing throughout its domain R − {−1}."
+     }
     },
     {
      "qno": 37,
@@ -8965,7 +9232,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Ladder of fixed length h; height on wall x, distance of foot from wall y. (i) y² = h² − x² ⇒ y = √(h²−x²); Area A = ½xy = ½x√(h²−x²). (ii) dA/dx = ½√(h²−x²) − x²/(2√(h²−x²)); dA/dx = 0 ⇒ x = h/√2 (critical point). (iii)(a) A″ < 0 at x = h/√2, so A is maximum at the critical point. [OR (iii)(b) h = 5, y = 3 ⇒ x = 4. From y² = 25 − x²: 2y·dy/dt = −2x·dx/dt; with dy/dt = −2 m/s, 2(3)(−2) = −2(4)dx/dt ⇒ dx/dt = 1.5 m/s (height increasing at 1.5 m/s).]"
+     }
     },
     {
      "qno": 10,
@@ -9036,7 +9306,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Numbers x, y with xy = 289 ⇒ y = 289/x. Sum S = x + 289/x. dS/dx = 1 − 289/x² = 0 ⇒ x = 17 (positive). d²S/dx² = 578/x³ > 0 at x = 17, so S is minimum. Thus x = 17, y = 17 add up to the least sum (= 34)."
+     }
     },
     {
      "qno": 7,
@@ -9150,7 +9423,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "f(x) = cos x + sin²x on [0,π]. f′(x) = −sin x + 2 sin x cos x = sin x(2cos x − 1) = 0 ⇒ sin x = 0 or cos x = 1/2 ⇒ x = π/3. f(0) = 1, f(π/3) = 5/4, f(π) = −1. Absolute maximum value = 5/4."
+     }
     },
     {
      "qno": 23,
@@ -9168,7 +9444,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Maxima and Minima",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Solid hemisphere: V = (2/3)πr³ increases uniformly ⇒ dV/dt = 2πr²·dr/dt = C (constant) ⇒ dr/dt = C/(2πr²). Surface area S = 3πr² ⇒ dS/dt = 6πr·dr/dt = 6πr·C/(2πr²) = 3C/r ∝ 1/r. Hence S varies inversely as the radius."
+     }
     },
     {
      "qno": 33,
@@ -9185,7 +9464,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = cot⁻¹(sin x + cos x), x ∈ (0,π). f′(x) = (sin x − cos x)/(1 + (sin x + cos x)²). f′(x) = 0 ⇒ sin x = cos x ⇒ x = π/4. f′(x) < 0 on (0, π/4) ⇒ f decreasing on (0, π/4); f′(x) > 0 on (π/4, π) ⇒ f increasing on (π/4, π)."
+     }
     },
     {
      "qno": 33,
@@ -9205,7 +9487,10 @@
      "topic": "Maxima and Minima",
      "figures": [
       "assets/figures/2026_z2_q33b.png"
-     ]
+     ],
+     "answer": {
+      "text": "Rectangle of perimeter 36 has sides x and (18−x); revolving about the side (18−x) makes x the cylinder radius: V = πx²(18−x) = π(18x² − x³). dV/dx = π(36x − 3x²) = 0 ⇒ x = 12 (x ≠ 0); V″ = π(36 − 6x) = −36π < 0 at x = 12 ⇒ maximum. Dimensions of the rectangle: 12 cm and 6 cm."
+     }
     },
     {
      "qno": 9,
@@ -9249,7 +9534,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = tan x − 4x on (0, π/2). f′(x) = sec²x − 4 = 0 ⇒ sec²x = 4 ⇒ cos x = 1/2 ⇒ x = π/3. f′ > 0 for x > π/3, so f is increasing on (π/3, π/2)."
+     }
     },
     {
      "qno": 36,
@@ -9269,7 +9557,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Poles 22 m and 16 m on opposite sides of a 20 m road; ladders from R at distance x from the smaller pole. (i) p(x) = l₁ + l₂ = √(22²+(20−x)²) + √(16²+x²) = √(x²−40x+884) + √(x²+256). (ii) p′(x) = (x−20)/√(x²−40x+884) + x/√(x²+256). (iii)(a) Minimise q(x) = l₁²+l₂² = 2x²−40x+1140; q′(x) = 4x−40 = 0 ⇒ x = 10; q″ = 4 > 0 ⇒ minimum at x = 10. [OR (iii)(b) Both poles 16 m: r(y) = 2y²−40y+912, r′(y) = 4y−40 = 0 ⇒ y = 10; r″ = 4 > 0 ⇒ ladders kept 10 m from each pole.]"
+     }
     },
     {
      "qno": 6,
@@ -9313,7 +9604,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = xˣ, x > 0. f′(x) = xˣ(1 + log x). Since xˣ > 0, f′(x) = 0 ⇒ 1 + log x = 0 ⇒ x = 1/e. f′(x) > 0 for x > 1/e, so f is increasing on (1/e, ∞)."
+     }
     },
     {
      "qno": 36,
@@ -9333,7 +9627,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Conical cup R = 5, H = 15, juice poured at dV/dt = 0.1 cm³/s. (i) tan α = r/h = 5/15 = 1/3 ⇒ r = h/3. (ii) V = (1/3)πr²h = (1/27)πh³ ⇒ dV/dt = (1/9)πh²·dh/dt ⇒ at h = 6, dh/dt = 1/(40π) cm/s. (iii)(a) A = πr² = πh²/9 ⇒ dA/dt = (2πh/9)dh/dt = 1/30 cm²/s at h = 6. [OR (iii)(b) Wetted surface S = πrl = √10 πh²/9 ⇒ dS/dt = (2√10 πh/9)dh/dt = √10/30 cm²/s at h = 6.]"
+     }
     },
     {
      "qno": 9,
@@ -9377,7 +9674,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f(x) = (x−3)/(x+1), x ≠ −1. f′(x) = [(x+1)·1 − (x−3)·1]/(x+1)² = 4/(x+1)² > 0 for all x ≠ −1. Hence f is an increasing function on R − {−1}."
+     }
     },
     {
      "qno": 26,
@@ -9394,7 +9694,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "V = (4/3)πr³; given dV/dt ∝ surface area ⇒ dV/dt = −k(4πr²), k > 0. But dV/dt = 4πr²·dr/dt, so 4πr²·dr/dt = −4kπr² ⇒ dr/dt = −k, a constant. Hence the radius decreases at a constant rate."
+     }
     },
     {
      "qno": 38,
@@ -9414,7 +9717,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Open-top cylindrical tumbler, surface area S = 2πrh + πr² fixed. (i) V = πr²h = πr²(S−πr²)/(2πr) = (Sr − πr³)/2 ⇒ dV/dr = (S − 3πr²)/2. (ii) For maximum volume, dV/dr = 0 ⇒ S = 3πr²; d²V/dr² = −3πr < 0 confirms a maximum. Then h = (S − πr²)/(2πr) = (3πr² − πr²)/(2πr) = r, i.e. h = r."
+     }
     }
    ],
    "topic_order": [
@@ -10795,7 +11101,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "∫(x + sin x)/(1 + cos x) dx = ∫[x + 2 sin(x/2)cos(x/2)]/(2cos²(x/2)) dx = ∫(x/2)sec²(x/2) dx + ∫tan(x/2) dx = x tan(x/2) − ∫tan(x/2)dx + ∫tan(x/2)dx = x tan(x/2) + C."
+     }
     },
     {
      "qno": 28,
@@ -10813,7 +11122,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫₀^{π/4} dx/(cos³x·√(2 sin 2x)) = (1/2)∫₀^{π/4} (1 + tan²x)sec²x/√(tan x) dx. Put tan x = t: = (1/2)∫₀¹ (1 + t²)/√t dt = (1/2)[2√t + (2/5)t^{5/2}]₀¹ = 6/5."
+     }
     },
     {
      "qno": 3,
@@ -10857,7 +11169,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "∫₀^{π/4} √(1 + sin 2x) dx = ∫₀^{π/4} √((sin x + cos x)²) dx = ∫₀^{π/4} (sin x + cos x) dx = [−cos x + sin x]₀^{π/4} = (−1/√2 + 1/√2) − (−1 + 0) = 1."
+     }
     },
     {
      "qno": 31,
@@ -10874,7 +11189,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "∫(1/x)√((x+a)/(x−a)) dx = ∫(x+a)/(x√(x²−a²)) dx = ∫dx/√(x²−a²) + a∫dx/(x√(x²−a²)) = log|x + √(x²−a²)| + sec⁻¹(x/a) + C."
+     }
     },
     {
      "qno": 33,
@@ -10891,7 +11209,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫(x²+x+1)/((x+2)(x²+1)) dx. Partial fractions: A = 3/5, B = 2/5, C = 1/5. I = (3/5)∫dx/(x+2) + (1/5)∫2x/(x²+1) dx + (1/5)∫dx/(x²+1) = (3/5)log|x+2| + (1/5)log(x²+1) + (1/5)tan⁻¹x + C."
+     }
     },
     {
      "qno": 14,
@@ -10962,7 +11283,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "∫_{π/2}^{π} eˣ(1−sin x)/(1−cos x) dx. Using 1 − sin x = 1 − 2sin(x/2)cos(x/2) and 1 − cos x = 2sin²(x/2): integrand = eˣ(½cosec²(x/2) − cot(x/2)). This is of the form eˣ(f + f′) with f = −cot(x/2), so I = [−eˣ cot(x/2)]_{π/2}^{π} = −[eᵖ·cot(π/2) − e^{π/2}·cot(π/4)] = −[0 − e^{π/2}] = e^{π/2}."
+     }
     },
     {
      "qno": 34,
@@ -10979,7 +11303,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫cos x/((4+sin²x)(5−4cos²x)) dx = ∫cos x/((4+sin²x)(1+4sin²x)) dx. Put sin x = t: I = ∫dt/((4+t²)(1+4t²)). Partial fractions ⇒ I = −(1/15)∫dt/(4+t²) + (4/15)∫dt/(1+4t²) = −(1/30)tan⁻¹(t/2) + (2/15)tan⁻¹(2t) + C = −(1/30)tan⁻¹(sin x/2) + (2/15)tan⁻¹(2 sin x) + C."
+     }
     },
     {
      "qno": 34,
@@ -10997,7 +11324,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫₀^π dx/(a²cos²x + b²sin²x) = 2∫₀^{π/2} dx/(a²cos²x + b²sin²x) = 2∫₀^{π/2} sec²x/(a² + b²tan²x) dx. Put tan x = t: I = 2∫₀^∞ dt/(a² + b²t²) = (2/b²)(b/a)[tan⁻¹(bt/a)]₀^∞ = (2/(ab))(π/2) = π/(ab)."
+     }
     },
     {
      "qno": 11,
@@ -11068,7 +11398,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫2x/((x²+3)(x²−5)) dx. Put x² = t, 2x dx = dt: ∫dt/((t+3)(t−5)) = ∫[−1/(8(t+3)) + 1/(8(t−5))] dt = (1/8)(log|t−5| − log|t+3|) + c = (1/8)log|(x²−5)/(x²+3)| + c."
+     }
     },
     {
      "qno": 27,
@@ -11086,7 +11419,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫₁⁴(|x−2| + |x−4|) dx = ∫₁²(2−x) dx + ∫₂⁴(x−2) dx + ∫₁⁴(4−x) dx [splitting each modulus]. Evaluating gives (1/2) + 2 + (9/2) = 7."
+     }
     },
     {
      "qno": 10,
@@ -11157,7 +11493,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫(x²+1)/((x−1)²(x+3)) dx. Partial fractions: A/(x−1) + B/(x−1)² + C/(x+3) with A = 3/8, B = 1/2, C = 5/8. I = (3/8)log|x−1| − 1/(2(x−1)) + (5/8)log|x+3| + C."
+     }
     },
     {
      "qno": 32,
@@ -11175,7 +11514,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "I = ∫₀^{π/2} x/(sin x + cos x) dx. Using x → π/2 − x, 2I = ∫₀^{π/2} (π/2)/(sin x + cos x) dx = (π/(2√2))∫₀^{π/2} cosec(π/4 + x) dx = (π/(2√2))[log|cosec(π/4+x) − cot(π/4+x)|]₀^{π/2}. Hence I = (π/(4√2))·log((√2+1)/(√2−1))."
+     }
     },
     {
      "qno": 12,
@@ -11273,7 +11615,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫(x²+1)/((x²+2)(2x²+1)) dx. Partial fractions: (x²+1)/((x²+2)(2x²+1)) = (1/3)·1/(x²+2) + (1/3)·1/(2x²+1). I = (1/3)·(1/√2)tan⁻¹(x/√2) + (1/3)·(1/√2)tan⁻¹(√2 x) + C = (1/(3√2))(tan⁻¹(x/√2) + tan⁻¹(√2 x)) + C."
+     }
     },
     {
      "qno": 32,
@@ -11291,7 +11636,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Some Properties of Definite Integrals",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "I = ∫₀^π x tan x/(sec x + tan x) dx. Using x → π − x and adding: 2I = π∫₀^π tan x/(sec x + tan x) dx = π∫₀^π (sec x tan x − sec²x + 1) dx = π[sec x − tan x + x]₀^π = π(−1 + π − 1) = π(π − 2). Hence I = (π/2)(π − 2) = π(π/2 − 1)."
+     }
     },
     {
      "qno": 8,
@@ -11470,7 +11818,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integrals of Some Particular Functions"
+     "topic": "Integrals of Some Particular Functions",
+     "answer": {
+      "text": "∫(x+2)/√(9x−x²) dx: write x+2 = A(9−2x) + B ⇒ A = −1/2, B = 13/2. I = −½∫(9−2x)/√(9x−x²) dx + (13/2)∫dx/√((9/2)² − (x−9/2)²) = −√(9x−x²) + (13/2)sin⁻¹((2x−9)/9) + C."
+     }
     },
     {
      "qno": 27,
@@ -11487,7 +11838,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "∫_{π/12}^{5π/12} dx/(1+√cot x) = ∫ √sin x/(√sin x + √cos x) dx. Using ∫ₐᵇf(x)dx = ∫ₐᵇf(a+b−x)dx: I = ∫ √cos x/(√cos x + √sin x) dx. Adding, 2I = ∫_{π/12}^{5π/12} 1·dx = [x] = π/3 ⇒ I = π/6."
+     }
     },
     {
      "qno": 27,
@@ -11505,7 +11859,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫_{−π/6}^{π/2} (sin|x| + cos|x|) dx = ∫_{−π/6}^{0}(−sin x + cos x)dx + ∫_{0}^{π/2}(sin x + cos x)dx = [cos x + sin x]_{−π/6}^{0} + [−cos x + sin x]_{0}^{π/2} = (3/2 − √3/2) + 2 = ½(7 − √3)."
+     }
     },
     {
      "qno": 28,
@@ -11522,7 +11879,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration as an Inverse Process of Differentiation"
+     "topic": "Integration as an Inverse Process of Differentiation",
+     "answer": {
+      "text": "d/dx F(x) = 1/(eˣ+1) ⇒ F(x) = ∫ dx/(eˣ+1) = ∫ e⁻ˣ/(1+e⁻ˣ) dx = −log(1+e⁻ˣ) + C. F(0) = −log2 + C = log(1/2) ⇒ C = 0. Hence F(x) = −log(1+e⁻ˣ) (equivalently x − log(eˣ+1))."
+     }
     },
     {
      "qno": 10,
@@ -11593,7 +11953,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "∫dx/(x^{1/2}+x^{1/3}): put x = t⁶ ⇒ dx = 6t⁵dt. I = 6∫t³/(t+1) dt = 6∫(t²−t+1−1/(t+1))dt = 6(t³/3 − t²/2 + t − log|t+1|) = 2x^{1/2} − 3x^{1/3} + 6x^{1/6} − 6log|x^{1/6}+1| + c."
+     }
     },
     {
      "qno": 26,
@@ -11611,7 +11974,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫tan⁻¹((1−x)/(1+x)) dx = ∫(π/4 − tan⁻¹x) dx = πx/4 − [x tan⁻¹x − ∫x/(1+x²)dx] = πx/4 − x tan⁻¹x + ½log(1+x²) + c."
+     }
     },
     {
      "qno": 27,
@@ -11628,7 +11994,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "I = ∫₀^π sin²⁰²⁶x/(sin²⁰²⁶x + cos²⁰²⁶x) dx = 2∫₀^{π/2} sin²⁰²⁶x/(sin²⁰²⁶x+cos²⁰²⁶x) dx. Using ∫₀ᵃf(x)dx = ∫₀ᵃf(a−x)dx, I = 2∫₀^{π/2} cos²⁰²⁶x/(sin²⁰²⁶x+cos²⁰²⁶x) dx. Adding: 2I = 2∫₀^{π/2}1 dx = π ⇒ I = π/2."
+     }
     },
     {
      "qno": 28,
@@ -11645,7 +12014,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫cos x/((2+sin x)(4+sin x)) dx: put sin x = t ⇒ cos x dx = dt. I = ∫dt/((2+t)(4+t)) = ½∫(1/(2+t) − 1/(4+t))dt = ½log|(2+t)/(4+t)| = ½log|(2+sin x)/(4+sin x)| + c."
+     }
     },
     {
      "qno": 28,
@@ -11663,7 +12035,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrals of Some Particular Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫(x+3)/(x²+4x+5) dx = ½∫(2x+4)/(x²+4x+5)dx + ∫dx/((x+2)²+1) = ½log|x²+4x+5| + tan⁻¹(x+2) + c."
+     }
     },
     {
      "qno": 9,
@@ -11734,7 +12109,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "∫x/((x−1)(x²+4)) dx. Partial fractions: A = 1/5, B = −1/5, C = 4/5. I = (1/5)∫dx/(x−1) − (1/10)∫2x/(x²+4) dx + (4/5)∫dx/(x²+4) = (1/5)log|x−1| − (1/10)log(x²+4) + (2/5)tan⁻¹(x/2) + c."
+     }
     },
     {
      "qno": 32,
@@ -11752,7 +12130,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫₀¹ x tan⁻¹x/(1+x²)^{3/2} dx. Put x = tan t ⇒ dx = sec²t dt; the integral becomes ∫₀^{π/4} t sin t dt = [−t cos t + sin t]₀^{π/4} = −(π/4)(1/√2) + 1/√2 = (−π + 4)/(4√2)."
+     }
     },
     {
      "qno": 10,
@@ -11823,7 +12204,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "∫(x − sin x)/(1 − cos x) dx = ∫x/(2sin²(x/2)) dx − ∫sin x/(1−cos x) dx = ∫(x/2)cosec²(x/2) dx − ∫cot(x/2) dx = −x cot(x/2) + C (the ∫cot(x/2)dx terms cancel)."
+     }
     },
     {
      "qno": 27,
@@ -11841,7 +12225,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "∫₀² dx/√(x²+2x+3) = ∫₀² dx/√((x+1)²+2) = [log|x+1+√(x²+2x+3)|]₀² = log(3+√11) − log(1+√3) = log((3+√11)/(1+√3))."
+     }
     }
    ],
    "topic_order": [
@@ -12168,7 +12555,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "y = |x+3|; area between the curve, x-axis, x = −6 and x = 0 = ∫_{−6}⁰ |x+3| dx = 2∫_{−3}⁰ (x+3) dx (by symmetry about x = −3) = 2[(x+3)²/2]_{−3}⁰ = 2(9/2) = 9 sq units."
+     }
     },
     {
      "qno": 15,
@@ -12215,7 +12605,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Line y = 5x + 2 meets the x-axis at x = −2/5. Area between the line, x-axis, x = −2 and x = 2 = |∫_{−2}^{−2/5}(5x+2)dx| + ∫_{−2/5}^{2}(5x+2)dx = [(5x+2)²/10]_{...} = 64/10 + 144/10 = 104/5 sq units."
+     }
     },
     {
      "qno": 17,
@@ -12259,7 +12652,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Ellipse x²/9 + y²/4 = 1 (a = 3, b = 2). Area (above x-axis, doubled) = 2·(2/3)∫₀³ √(9−x²) dx = (4/3)[(x/2)√(9−x²) + (9/2)sin⁻¹(x/3)]₀³ = (4/3)(9/2·π/2) = 3π sq units."
+     }
     },
     {
      "qno": 13,
@@ -12303,7 +12699,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Area bounded by y = 9, x = 0 and y = x² (first quadrant). Area = ∫₀⁹ √y dy = (2/3)[y^{3/2}]₀⁹ = (2/3)(27) = 18 sq units."
+     }
     },
     {
      "qno": 17,
@@ -12347,7 +12746,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "y = 2 + |x+1|, area between the curve, x-axis, x = −4 and x = 3 = ∫_{−4}^{−1}(2 − (x+1)) dx + ∫_{−1}^{3}(2 + (x+1)) dx = ∫_{−4}^{−1}(1−x) dx + ∫_{−1}^{3}(3+x) dx = 21/2 + 16 = 53/2 sq units."
+     }
     },
     {
      "qno": 33,
@@ -12364,7 +12766,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Circular table x² + y² = 64 (radius 8), scratch line y = x (inclined π/4). Line and circle meet at x = 4√2. Area in first quadrant enclosed by x-axis, the line and the circle = ∫₀^{4√2} x dx + ∫_{4√2}^{8} √(64−x²) dx = 16 + (16π − 8) − 8 = 8π cm²."
+     }
     },
     {
      "qno": 10,
@@ -12458,7 +12863,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Ellipse 9x² + 16y² = 144 (a=4, b=3). (i) y = (3/4)√(16−x²). (ii) ∫y dx = (3/4)∫√(16−x²) dx = (3/4)[(x/2)√(16−x²) + 8 sin⁻¹(x/4)] + C. (iii)(a) Area of the elliptical ground = 4∫₀⁴(3/4)√(16−x²) dx = 3[(x/2)√(16−x²) + 8 sin⁻¹(x/4)]₀⁴ = 3(8·π/2) = 12π. [OR (iii)(b) Outer edge cuts the axes at P(7,0) and Q(0,6); line x/7 + y/6 = 1 ⇒ y = (6/7)(7−x); area of △POQ = ∫₀⁷(6/7)(7−x) dx = 21.]"
+     }
     },
     {
      "qno": 12,
@@ -12508,7 +12916,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Triangular park A(0,4), B(−2,0), C(3,0). (i) Boundary AB: 2x − y + 4 = 0. (ii) Boundary AC: 4x + 3y = 12. (iii)(a) Area of region OAC = ∫₀³ (12−4x)/3 dx = ⅓[12x − 2x²]₀³ = 6 sq units. [OR (iii)(b) Area of region AOB = ∫_{−2}⁰ (2x+4) dx = [x²+4x]_{−2}⁰ = 4 sq units.]"
+     }
     },
     {
      "qno": 11,
@@ -12552,7 +12963,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Area enclosed by y = |x−6|, the x-axis, x = 4 to x = 8 = ∫₄⁸ |x−6| dx = −∫₄⁶(x−6)dx + ∫₆⁸(x−6)dx = [−(x−6)²/2]₄⁶ + [(x−6)²/2]₆⁸ = 2 + 2 = 4 sq units."
+     }
     },
     {
      "qno": 12,
@@ -12596,7 +13010,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "100x² + 25y² = 2500 ⇒ x²/25 + y²/100 = 1: an ellipse with a = 5 (x-axis) and b = 10 (y-axis). Area = 4∫₀⁵ (10/5)√(25−x²) dx = 8[(x/2)√(25−x²) + (25/2)sin⁻¹(x/5)]₀⁵ = 8·(25/2)(π/2) = 50π sq units."
+     }
     }
    ],
    "topic_order": [
@@ -13486,7 +13903,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "2(y+3) − xy·dy/dx = 0 ⇒ y/(y+3) dy = (2/x) dx ⇒ ∫(1 − 3/(y+3)) dy = 2∫dx/x ⇒ y − 3log|y+3| = 2log|x| + C. y(1) = −2 ⇒ −2 − 0 = 0 + C ⇒ C = −2. Particular solution: y − 3log|y+3| = 2log|x| − 2."
+     }
     },
     {
      "qno": 26,
@@ -13504,7 +13924,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(1+x²)dy/dx + 2xy = 4x² ⇒ dy/dx + [2x/(1+x²)]y = 4x²/(1+x²), linear in y. IF = e^{∫2x/(1+x²)dx} = 1 + x². Solution: y(1+x²) = ∫4x² dx = (4/3)x³ + C ⇒ y = 4x³/(3(1+x²)) + C/(1+x²)."
+     }
     },
     {
      "qno": 16,
@@ -13548,7 +13971,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "Cooling: dT/dt = −k(T−25). (i) ∫dT/(T−25) = −k∫dt ⇒ log|T−25| = −kt + C. T(0) = 85 ⇒ C = log 60, so log|T−25| = −kt + log 60 ⇒ T − 25 = 60e^{−kt} ⇒ T(t) = 25 + 60e^{−kt}. (ii) With k = 0.03, T = 40: 15/60 = e^{−0.03t} ⇒ e^{−0.03t} = 1/4 ⇒ 0.03t = log 4 = 1.3863 ⇒ t = 1.3863/0.03 ≈ 46.21 minutes."
+     }
     },
     {
      "qno": 14,
@@ -13619,7 +14045,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "[x sin²(y/x) − y] dx + x dy = 0 ⇒ dy/dx = y/x − sin²(y/x), homogeneous. Put y = vx: v + x·dv/dx = v − sin²v ⇒ −∫cosec²v dv = ∫dx/x ⇒ cot v = log|x| + c ⇒ cot(y/x) = log|x| + c. y = π/4, x = 1 ⇒ cot(π/4) = 0 + c ⇒ c = 1. Hence cot(y/x) = log|x| + 1."
+     }
     },
     {
      "qno": 12,
@@ -13690,7 +14119,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "x²y dx − (x³ + y³) dy = 0 ⇒ dy/dx = yx²/(x³ + y³), homogeneous. Put y = vx ⇒ x·dv/dx = −v⁴/(1+v³) ⇒ ∫(1/v⁴ + 1/v) dv = −∫dx/x ⇒ −1/(3v³) + log|v| = −log|x| + C. Back-substituting v = y/x: −x³/(3y³) + log|y| = C."
+     }
     },
     {
      "qno": 34,
@@ -13708,7 +14140,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(1+x²)dy/dx + 2xy − 4x² = 0 ⇒ dy/dx + [2x/(1+x²)]y = 4x²/(1+x²). IF = e^{∫2x/(1+x²)dx} = 1 + x². Solution: y(1+x²) = ∫4x² dx = (4/3)x³ + C. y(0) = 0 ⇒ C = 0. Hence y(1+x²) = (4/3)x³."
+     }
     },
     {
      "qno": 34,
@@ -13725,7 +14160,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "dy/dx = cos x − 2y ⇒ dy/dx + 2y = cos x. IF = e^{∫2 dx} = e^{2x}. y·e^{2x} = ∫e^{2x}cos x dx = (e^{2x}/5)(2cos x + sin x) + C. Hence y = (1/5)(2cos x + sin x) + Ce^{−2x}."
+     }
     },
     {
      "qno": 37,
@@ -13742,7 +14180,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "text": "Cylindrical camphor tablet, height = radius r, dV/dt = kS with V = πr³, S = 2πr². (i) Order = 1, Degree = 1. (ii) 3πr²·dr/dt = k·2πr² ⇒ dr/dt = (2/3)k ⇒ r = (2/3)kt + C; r(0) = 5 ⇒ C = 5, so r = (2/3)kt + 5. (iii)(a) r = 3 at t = 1: 3 = (2/3)k + 5 ⇒ k = −3, so r = −2t + 5; r = 0 ⇒ t = 5/2 = 2.5 hours. [OR (iii)(b) r = 1 at t = 1: 1 = (2/3)k + 5 ⇒ k = −6, so r = −4t + 5; r = 0 ⇒ t = 5/4 = 1.25 hours.]"
+     }
     },
     {
      "qno": 11,
@@ -13908,7 +14349,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "x·dy/dx = y − x sin²(y/x) ⇒ dy/dx = (y/x) − sin²(y/x). Put y/x = v ⇒ v + x·dv/dx = v − sin²v ⇒ x·dv/dx = −sin²v ⇒ −∫cosec²v dv = ∫dx/x ⇒ cot v = log|x| + C ⇒ cot(y/x) = log|x| + C. y(1) = π/6 ⇒ C = √3. Solution: cot(y/x) = log|x| + √3."
+     }
     },
     {
      "qno": 29,
@@ -13926,7 +14370,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "y log y·dx/dy + x = 2/y ⇒ dx/dy + x/(y log y) = 2/(y² log y). IF = e^{∫dy/(y log y)} = log y. Solution: x·log y = ∫(2/(y² log y))·log y dy = ∫(2/y²) dy = −2/y + C ⇒ x log y = −2/y + C (i.e. xy log y = −2 + Cy)."
+     }
     },
     {
      "qno": 13,
@@ -13999,7 +14446,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "2x²·dy/dx = y² + 2xy ⇒ dy/dx = ½(y/x)² + (y/x). Put y = vx ⇒ v + x·dv/dx = ½v² + v ⇒ ∫dv/v² = ∫dx/(2x) ⇒ −1/v = ½log x + c ⇒ −x/y = ½log x + c."
+     }
     },
     {
      "qno": 29,
@@ -14017,7 +14467,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(x+1)dy/dx = 2e⁻ʸ − 1 ⇒ ∫eʸ/(2−eʸ) dy = ∫dx/(x+1). Put 2 − eʸ = t ⇒ −∫dt/t = log|x+1| ⇒ −log|t| = log|x+1| − log|c| ⇒ (x+1)(2−eʸ) = c. y = 0 at x = 0 ⇒ c = 1. Particular solution: (x+1)(2 − eʸ) = 1."
+     }
     },
     {
      "qno": 12,
@@ -14088,7 +14541,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "ye^y dx = (y³ + 2xe^y)dy ⇒ dx/dy − (2/y)x = y²e^{−y}. IF = e^{∫(−2/y)dy} = 1/y². Solution: x·(1/y²) = ∫(1/y²)y²e^{−y} dy = −e^{−y} + c ⇒ x = y²(−e^{−y} + c). At x = 0, y = 1: 0 = −e^{−1} + c ⇒ c = e^{−1}. Particular solution: x = y²(e^{−1} − e^{−y})."
+     }
     },
     {
      "qno": 34,
@@ -14106,7 +14562,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(x³ − 3xy²)dx = (y³ − 3x²y)dy ⇒ dy/dx = (x³−3xy²)/(y³−3x²y). Homogeneous; put y = vx ⇒ ∫(3v−v³)/(v⁴−1) dv = ∫dx/x ⇒ (3/4)log|(v²−1)/(v²+1)| − (1/4)log|v⁴−1| = log x + c. Back-substituting v = y/x: (3/4)log|(y²−x²)/(y²+x²)| − (1/4)log|(y⁴−x⁴)/x⁴| = log x + c."
+     }
     },
     {
      "qno": 13,
@@ -14177,7 +14636,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "(x + 2y³)dy = y dx ⇒ dx/dy − x/y = 2y². IF = e^{∫(−1/y)dy} = 1/y. Solution: x·(1/y) = ∫2y·(1/y) dy... = ∫2y dy = y² + C ⇒ x/y = y² + C ⇒ x = y³ + Cy."
+     }
     }
    ],
    "topic_order": [
@@ -15209,7 +15671,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Diagonals a = 2î−ĵ+k̂, b = î+3ĵ−k̂. a×b = −2î+3ĵ+7k̂. Area of parallelogram = ½|a×b| = ½√((−2)²+3²+7²) = √62/2 sq units."
+     }
     },
     {
      "qno": 25,
@@ -15226,7 +15691,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Addition of Vectors"
+     "topic": "Addition of Vectors",
+     "answer": {
+      "text": "Kite strings a = 3î+ĵ+2k̂, b = 2î−2ĵ+4k̂. cos θ = a·b/(|a||b|) = (6 − 2 + 8)/(√14·√24) = 12/√336 = 3/√21. Angle between the strings θ = cos⁻¹(3/√21)."
+     }
     },
     {
      "qno": 25,
@@ -15244,7 +15712,10 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Some Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "A(2,1,3), B(8,−1,0). BA = A − B = −6î+2ĵ+3k̂, |BA| = √(36+4+9) = 7. Required vector = 21·(BA/|BA|) = 3(−6î+2ĵ+3k̂) = −18î+6ĵ+9k̂."
+     }
     },
     {
      "qno": 1,
@@ -15315,7 +15786,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Basic Concepts"
+     "topic": "Some Basic Concepts",
+     "answer": {
+      "text": "Vector a makes equal angles α with all three axes ⇒ 3cos²α = 1 ⇒ cos α = 1/√3. Unit vector = (1/√3)(î+ĵ+k̂); since |a| = 5√3, a = 5√3·(1/√3)(î+ĵ+k̂) = 5(î+ĵ+k̂)."
+     }
     },
     {
      "qno": 21,
@@ -15333,7 +15807,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "α, β are the position vectors of P and Q. R lies on QP produced with QR = (3/2)QP, so R divides PQ externally in the ratio 1 : 3. Position vector of R = (1·β − 3·α)/(1 − 3) = (3α − β)/2."
+     }
     },
     {
      "qno": 24,
@@ -15350,7 +15827,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Vectors"
+     "topic": "Types of Vectors",
+     "answer": {
+      "text": "a, b non-collinear. α = (x−2)a + b and β = (3+2x)a − 2b are collinear ⇒ their components are proportional: (x−2)/(3+2x) = 1/(−2) ⇒ −2(x−2) = 3 + 2x ⇒ −2x + 4 = 3 + 2x ⇒ 4x = 1 ⇒ x = 1/4."
+     }
     },
     {
      "qno": 11,
@@ -15394,7 +15874,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Area of a parallelogram with diagonals a, b: sides are ½(a−b) and ½(a+b), so area = |½(a−b) × ½(a+b)| = ¼|2(a×b)| = ½|a×b|. For diagonals 2î−ĵ+k̂ and î+3ĵ−k̂: a×b = −2î+3ĵ+7k̂, |a×b| = √62 ⇒ area = √62/2 sq units."
+     }
     },
     {
      "qno": 17,
@@ -15465,7 +15948,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Vector of magnitude 5 ⟂ both a = 3î−2ĵ+k̂ and b = 4î+3ĵ−2k̂. a×b = î + 10ĵ + 17k̂, |a×b| = √390. Unit vector n̂ = (1/√390)(î+10ĵ+17k̂). Required vector = (5/√390)(î + 10ĵ + 17k̂)."
+     }
     },
     {
      "qno": 24,
@@ -15483,7 +15969,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "a·b = a·c ⇒ a·(b−c) = 0 ⇒ b = c or a ⟂ (b−c). a×b = a×c ⇒ a×(b−c) = 0 ⇒ b = c or a ∥ (b−c). Since a (≠ 0) cannot be both ⟂ and ∥ to (b−c), it follows that b = c."
+     }
     },
     {
      "qno": 30,
@@ -15500,7 +15989,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "a + b + c = 0 with |a| = 3, |b| = 5, |c| = 7. Then |a+b| = |−c| ⇒ |a|² + |b|² + 2a·b = |c|² ⇒ 9 + 25 + 2a·b = 49 ⇒ 2|a||b|cos θ = 15 ⇒ cos θ = 1/2 ⇒ θ = π/3."
+     }
     },
     {
      "qno": 30,
@@ -15518,7 +16010,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Vectors",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "a, b unit vectors, angle θ. |a−b|² = |a|² + |b|² − 2a·b = 1 + 1 − 2cos θ = 2(1 − cos θ) = 2·2sin²(θ/2) = 4sin²(θ/2). Hence |a−b| = 2sin(θ/2), i.e. (1/2)|a−b| = sin(θ/2)."
+     }
     },
     {
      "qno": 16,
@@ -15590,7 +16085,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "a, b are the position vectors of A and B. C lies on BA produced with BC = 3BA, so C divides BA externally in the ratio 3 : 2. Position vector of C = (3a − 2b)/(3 − 2) = 3a − 2b."
+     }
     },
     {
      "qno": 24,
@@ -15608,7 +16106,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "r is equally inclined to the three axes ⇒ its unit vector = (î+ĵ+k̂)/√3. Since |r| = 5√3, r = 5√3·(î+ĵ+k̂)/√3 = 5(î+ĵ+k̂) (or −5î−5ĵ−5k̂)."
+     }
     },
     {
      "qno": 15,
@@ -15679,7 +16180,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "a = î − ĵ + 2k̂; d = b + c = (2+λ)î − 6ĵ + 2k̂, unit vector d̂ = d/√((2+λ)²+40). a·d̂ = 1 ⇒ (2+λ) + 6 + 4 = √((2+λ)²+40) ⇒ (λ+12)² = (2+λ)² + 40 ⇒ λ = −5."
+     }
     },
     {
      "qno": 36,
@@ -15699,7 +16203,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "OA = a, OB = b, OC = 5a − 2b. (i) Complete the figure showing the path plan. (ii) AC = OC − OA = 4a − 2b; BC = OC − OB = 5a − 3b. (iii)(a) With |a| = 1, |b| = 2 and a·b = 1: angle θ between OA and OB = cos⁻¹(a·b/(|a||b|)) = cos⁻¹(1/2) = π/3; |a×b| = |a||b|sin θ = 1·2·(√3/2) = √3. [OR (iii)(b) a = 2î−ĵ+4k̂, b = ĵ−k̂: a+b = 2î+3k̂, a−b = 2î−2ĵ+5k̂; c = (a+b)×(a−b) = 6î−4ĵ−4k̂, |c| = √68 = 2√17. Unit vector ⟂ to both = (1/√17)(3î − 2ĵ − 2k̂).]"
+     }
     },
     {
      "qno": 13,
@@ -15920,7 +16427,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "Take A as origin; AB = ĵ+k̂ and AC = 3î−ĵ+4k̂ are the position vectors of B and C. D is the midpoint of BC ⇒ AD = (AB + AC)/2 (median formula) = (3î + 5k̂)/2. |AD| = ½√(3²+5²) = √34/2."
+     }
     },
     {
      "qno": 14,
@@ -16020,7 +16530,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "|a| = |b| = 1. |a+2b| = |2a−b| ⇒ |a|² + 4|b|² + 4a·b = 4|a|² + |b|² − 4a·b ⇒ 8 a·b = 0 ⇒ a·b = 0. Hence the angle between a and b = π/2."
+     }
     },
     {
      "qno": 16,
@@ -16091,7 +16604,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "Position vectors A = 3î+ĵ, B = 5î+6ĵ−3k̂, C = 4ĵ. AB = 2î+5ĵ−3k̂, BC = −5î−2ĵ+3k̂, CA = 3î−3ĵ. |AB| = |BC| = √38 and |CA| = √18. Since two sides are equal (and the triangle inequality holds), the points form an isosceles triangle."
+     }
     },
     {
      "qno": 25,
@@ -16108,7 +16624,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Rods a = 4î−ĵ+3k̂, b = −2î+ĵ−2k̂. a×b = −î+2ĵ+2k̂, |a×b| = 3. Flag-post (5 m, ⟂ to both) = 5·(a×b)/|a×b| = ±(−5/3 î + 10/3 ĵ + 10/3 k̂)."
+     }
     },
     {
      "qno": 25,
@@ -16126,7 +16645,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Vectors",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Unit vector a makes π/4 with x-axis, π/3 with y-axis, acute θ with z-axis. cos²(π/4) + cos²(π/3) + cos²θ = 1 ⇒ 1/2 + 1/4 + cos²θ = 1 ⇒ cos θ = 1/2 (θ acute) ⇒ θ = π/3. Components of a = (1/√2, 1/2, 1/2)."
+     }
     },
     {
      "qno": 16,
@@ -16197,7 +16719,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Bees a = 2î−3ĵ+k̂, b = 4ĵ−2k̂, c = 3î+2k̂. (a + λb) ⟂ c ⇒ (a + λb)·c = 0 ⇒ a·c + λ(b·c) = 0 ⇒ 8 + λ(−4) = 0 ⇒ λ = 2."
+     }
     },
     {
      "qno": 24,
@@ -16215,7 +16740,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "AB = î+2ĵ−k̂, AC = 2î−3ĵ. Area of △ABC = ½|AB × AC| = ½|−3î − 2ĵ − 7k̂| = ½√(9+4+49) = √62/2 sq units."
+     }
     },
     {
      "qno": 30,
@@ -16232,7 +16760,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "Toys A = 55î−2ĵ, B = 5î+8ĵ, C = aî−52ĵ collinear. AB = −50î+10ĵ, BC = (a−5)î−60ĵ. Collinear ⇒ −50/(a−5) = 10/−60 ⇒ a − 5 = 300 ⇒ a = 305."
+     }
     },
     {
      "qno": 30,
@@ -16250,7 +16781,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Vectors",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "|a| = |b| = |c| = 1. |a−b|² + |b−c|² + |c−a|² = 2(|a|²+|b|²+|c|²) − 2(a·b + b·c + c·a) = 3(|a|²+|b|²+|c|²) − (|a|²+|b|²+|c|² + 2a·b + 2b·c + 2c·a) = 9 − |a+b+c|² ≤ 9. Hence proved."
+     }
     },
     {
      "qno": 30,
@@ -16286,7 +16820,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "B = 2î+8ĵ, W = 6î+12ĵ, F = 12î+18ĵ. Let W divide BF in ratio k:1 ⇒ W = (kF + B)/(k+1) ⇒ 6î+12ĵ = ((12k+2)/(k+1))î + ((18k+8)/(k+1))ĵ ⇒ k = 2/3. Required ratio = 2 : 3."
+     }
     }
    ],
    "topic_order": [
@@ -16338,7 +16875,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Line through (1,2,−4) perpendicular to l₁ with drs ⟨3,−16,7⟩ and l₂ with drs ⟨3,8,−5⟩. b₁×b₂ = 24î+36ĵ+72k̂ ∝ 2î+3ĵ+6k̂. Vector form: r = (î+2ĵ−4k̂) + t(2î+3ĵ+6k̂); Cartesian: (x−1)/2 = (y−2)/3 = (z+4)/6."
+     }
     },
     {
      "qno": 31,
@@ -16356,7 +16896,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Lines r = (2î−ĵ+3k̂) + λ(î−2ĵ+3k̂) and r = (î+4k̂) + μ(3î−6ĵ+9k̂) are parallel (b = î−2ĵ+3k̂). a₂−a₁ = −î+ĵ+k̂; b×(a₂−a₁) = −5î−4ĵ−k̂, |b×(a₂−a₁)| = √42, |b| = √14. Shortest distance = √42/√14 = √3."
+     }
     },
     {
      "qno": 11,
@@ -17465,7 +18008,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "a₁ = î−2ĵ+3k̂, b₁ = −î+ĵ−2k̂; a₂ = î−ĵ−k̂, b₂ = î+2ĵ−2k̂. Direction ratios are not proportional ⇒ not parallel. a₂−a₁ = ĵ−4k̂; b₁×b₂ = 2î−4ĵ−3k̂; (a₂−a₁)·(b₁×b₂) = 8 ≠ 0 ⇒ lines do not intersect, hence skew. Shortest distance = |8|/|b₁×b₂| = 8/√29."
+     }
     },
     {
      "qno": 34,
@@ -17482,7 +18028,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Line x/1 = (y−1)/2 = (z−2)/3 = λ; foot M(λ, 2λ+1, 3λ+2). Drs of AM ⟨λ−1, 2λ−5, 3λ−1⟩ ⟂ ⟨1,2,3⟩ ⇒ (λ−1) + 2(2λ−5) + 3(3λ−1) = 0 ⇒ λ = 1 ⇒ M(1,3,5). M is the midpoint of AA′, so image A′(1, 0, 7). Line AA′: (x−1)/0 = (y−6)/−3 = (z−3)/2."
+     }
     },
     {
      "qno": 34,
@@ -17500,7 +18049,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Line (x+5)/1 = (y+3)/4 = (z−6)/−9 = λ; point P(λ−5, 4λ−3, −9λ+6). PQ = 7 with Q(2,4,−1): (λ−7)² + (4λ−7)² + (−9λ+7)² = 49 ⇒ 98(λ²−2λ+1) = 0 ⇒ λ = 1. P(−4, 1, −3). Line PQ: (x+4)/6 = (y−1)/3 = (z+3)/2."
+     }
     },
     {
      "qno": 6,
@@ -17597,7 +18149,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "a₁ = −î+ĵ+9k̂, b₁ = 2î+ĵ−3k̂; a₂ = 3î−15ĵ+9k̂, b₂ = 2î−7ĵ+5k̂. a₂−a₁ = 4î−16ĵ; b₁×b₂ = −16î−16ĵ−16k̂, |b₁×b₂| = 16√3. Shortest distance = |(4î−16ĵ)·(−16î−16ĵ−16k̂)|/(16√3) = |−64 + 256|/(16√3) = 192/(16√3) = 12/√3 = 4√3."
+     }
     },
     {
      "qno": 34,
@@ -17615,7 +18170,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Image of A(2,1,2) in l: r = 4î+2ĵ+2k̂ + λ(î−ĵ−k̂). Foot P = (λ+4, −λ+2, −λ+2); AP ⟂ l ⇒ (λ+2) − (−λ+1) − (−λ) = 0 ⇒ λ = −1/3 ⇒ P(11/3, 7/3, 7/3). P is the midpoint of AA′ ⇒ image A′(16/3, 11/3, 8/3). Line AA′: (x−2)/(10/3) = (y−1)/(8/3) = (z−2)/(2/3), i.e. 3(x−2)/5 = 3(y−1)/4 = 3(z−2)/1."
+     }
     },
     {
      "qno": 6,
@@ -17659,7 +18217,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Line 1 (x−1)/2 = (y−2)/3 = (z−3)/4 = λ gives (2λ+1, 3λ+2, 4λ+3); Line 2 (x−4)/5 = (y−1)/2 = z = μ gives (5μ+4, 2μ+1, μ). Equating: λ = μ = −1 (checked against 4λ+3 = μ), so point of intersection (−1, −1, −1). Distance from (−1,−5,−10) = √((−1+1)² + (−1+5)² + (−1+10)²) = √(0+16+81) = √97 units."
+     }
     },
     {
      "qno": 37,
@@ -17676,7 +18237,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Line A l₁: (x−2)/3 = (y+1)/−2 = (z−3)/4 (drs ⟨3,−2,4⟩); Line B l₂: (x−1)/2 = (y−3)/1 = (z+2)/−3 (drs ⟨2,1,−3⟩). (i) The drs are not proportional, so l₁ and l₂ are not parallel. (ii) Line parallel to l₁ through (1,−2,−3): (x−1)/3 = (y+2)/−2 = (z+3)/4, i.e. r = (î−2ĵ−3k̂) + λ(3î−2ĵ+4k̂). (iii)(a) Pathway ⟂ to both is parallel to b₁×b₂ = 2î+17ĵ+7k̂; through (3,2,1): r = (3î+2ĵ+k̂) + λ(2î+17ĵ+7k̂). [OR (iii)(b) a₂−a₁ = −î+4ĵ−5k̂; shortest distance = |(−î+4ĵ−5k̂)·(2î+17ĵ+7k̂)|/√(2²+17²+7²) = |−2+68−35|/√342 = 31/√342.]"
+     }
     },
     {
      "qno": 25,
@@ -17693,7 +18257,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "A(4,1,−2), B(6,2,−3); P and Q trisect AB. P divides AB in ratio 1:2 ⇒ P = ((1·6+2·4)/3, (1·2+2·1)/3, (1·(−3)+2·(−2))/3) = (14/3, 4/3, −7/3). Q divides AB in ratio 2:1 ⇒ Q = (16/3, 5/3, −8/3)."
+     }
     },
     {
      "qno": 35,
@@ -17710,7 +18277,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Foot of perpendicular from P(1,1,4) on line (x+2)/5 = (y+1)/2 = (−z+4)/−3 = λ. General point M(5λ−2, 2λ−1, 3λ+4); drs of PM = ⟨5λ−3, 2λ−2, 3λ⟩. PM ⟂ line ⇒ 5(5λ−3) + 2(2λ−2) + 3(3λ) = 0 ⇒ 38λ − 19 = 0 ⇒ λ = 1/2. Foot M = (1/2, 0, 11/2)."
+     }
     },
     {
      "qno": 35,
@@ -17728,7 +18298,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Line (x−1)/3 = (y+1)/2 = (z−4)/3 = λ; general point P(3λ+1, 2λ−1, 3λ+4). Distance from (−1,−1,2) is 2√2 ⇒ (3λ+2)² + (2λ)² + (3λ+2)² = 8 ⇒ 22λ² + 24λ = 0 ⇒ λ = 0 or −12/11. Points: (1, −1, 4) or (−25/11, −35/11, 8/11)."
+     }
     },
     {
      "qno": 25,
@@ -17745,7 +18318,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Lines r = (î+ĵ−k̂) + λ(3î−ĵ) and r = (4î−k̂) + μ(2î+3k̂). b₁ = 3î−ĵ, b₂ = 2î+3k̂; a₂−a₁ = 3î−ĵ. b₁×b₂ = −3î−9ĵ+2k̂. (a₂−a₁)·(b₁×b₂) = (3î−ĵ)·(−3î−9ĵ+2k̂) = −9 + 9 + 0 = 0. Hence the lines intersect (are coplanar)."
+     }
     },
     {
      "qno": 30,
@@ -17762,7 +18338,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Point P(2,4,−1), line (x+5)/1 = (y+3)/4 = (z−6)/−9: a₁ = −5î−3ĵ+6k̂, b = î+4ĵ−9k̂. a₂−a₁ = P − a₁ = 7î+7ĵ−7k̂; (a₂−a₁)×b = −35î+56ĵ+21k̂, |(a₂−a₁)×b| = 49√2, |b| = 7√2. Distance = 49√2/(7√2) = 7."
+     }
     },
     {
      "qno": 30,
@@ -17780,7 +18359,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "A = 3î−ĵ−2k̂, B = î+2ĵ−k̂, C = î+5ĵ+3k̂. BC = C − B = 3ĵ+4k̂. Line through A parallel to BC: vector r = (3î−ĵ−2k̂) + μ(3ĵ+4k̂); Cartesian (x−3)/0 = (y+1)/3 = (z+2)/4."
+     }
     },
     {
      "qno": 35,
@@ -17797,7 +18379,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Mirror along x/1 = (1−y)/−2 = (2z−4)/6, i.e. x/1 = (y−1)/2 = (z−2)/3 = λ. Foot of perpendicular from P(1,6,3): point (λ, 2λ+1, 3λ+2); drs ⟨λ−1, 2λ−5, 3λ−1⟩ ⟂ ⟨1,2,3⟩ ⇒ (λ−1)+2(2λ−5)+3(3λ−1)=0 ⇒ λ = 1 ⇒ foot (1,3,5). Foot is the midpoint of P and its image ⇒ image (1, 0, 7). Distance PP′ = √(0 + 36 + 16) = 2√13."
+     }
     },
     {
      "qno": 35,
@@ -17814,7 +18399,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Line (2x+4)/6 = (y+1)/2 = (−2z+6)/−4, general point (3λ−2, 2λ−1, 2λ+3) = Q. PQ = 3√2 with P(1,2,3) ⇒ (3λ−3)² + (2λ−3)² + (2λ)² = 18 ⇒ 17λ² − 30λ = 0 ⇒ λ = 0 or 30/17. Thus Q(−2, −1, 3) or Q(56/17, 43/17, 111/17)."
+     }
     },
     {
      "qno": 35,
@@ -17832,7 +18420,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Image of A(−1,5,2) in line (x−2)/1 = y/2 = (z−2)/−3. Foot M(λ+2, 2λ, −3λ+2); AM ⟂ line ⇒ 1(λ+3) + 2(2λ−5) − 3(−3λ) = 0 ⇒ λ = 1/2 ⇒ M(5/2, 1, 1/2). M is midpoint of A and image A′ ⇒ A′(6, −3, −1). Length AA′ = √(49 + 64 + 9) = √122."
+     }
     },
     {
      "qno": 16,
@@ -17981,7 +18572,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "r = −ĵ + 3k̂ + λ(2î − 2ĵ + k̂) = 2λî + (−2λ−1)ĵ + (λ+3)k̂. Sum of coordinates = 3 ⇒ 2λ + (−2λ−1) + (λ+3) = 3 ⇒ λ = 1. Required point: (2, −3, 4)."
+     }
     },
     {
      "qno": 35,
@@ -17998,7 +18592,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Line through A(1,2,3), B(5,8,11): l₁ (x−1)/2 = (y−2)/3 = (z−3)/4; given line l₂ (x−4)/5 = (y−1)/2 = z. General points P(2μ+1, 3μ+2, 4μ+3) on l₁ and Q(5λ+4, 2λ+1, λ) on l₂; equating gives μ = λ = −1 ⇒ point of intersection (−1, −1, −1). A line l through (−1,−1,−1) perpendicular to both has drs ⟨2,3,4⟩×⟨5,2,1⟩ ∝ ⟨−5,18,−11⟩; hence l: (x+1)/5 = (y+1)/(−18) = (z+1)/11."
+     }
     },
     {
      "qno": 16,
@@ -18069,7 +18666,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Line 1 drs ⟨1, −1, p⟩, line 2 (2−x)/3 = (y+1)/5 = (z+56)/2p has drs ⟨−3, 5, 2p⟩. Perpendicular ⇒ 1(−3) + (−1)(5) + p(2p) = 0 ⇒ 2p² = 8 ⇒ p = ±2."
+     }
     },
     {
      "qno": 25,
@@ -18087,7 +18687,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Required line passes through the origin and is ⟂ to both lines, so its direction b = (3î+4ĵ+2k̂)×(î−ĵ+k̂) = 6î − ĵ − 7k̂. Vector equation: r = δ(6î − ĵ − 7k̂)."
+     }
     },
     {
      "qno": 35,
@@ -18104,7 +18707,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "l₁: (x+3)/−3 = (y−1)/1 = (z−5)/5 ⇒ r = (−3î+ĵ+5k̂) + λ(−3î+ĵ+5k̂); l₂: (x+1)/−1 = (2−y)/−2 = (z−5)/5 ⇒ r = (−î+2ĵ+5k̂) + μ(−î+2ĵ+5k̂). a₂−a₁ = 2î+ĵ; b₁×b₂ = −5î+10ĵ−5k̂. (a₂−a₁)·(b₁×b₂) = −10+10+0 = 0 ⇒ the lines are intersecting (coplanar)."
+     }
     },
     {
      "qno": 35,
@@ -18122,7 +18728,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Direction Cosines and Direction Ratios of a Line",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Sides along r = î+2ĵ−4k̂+λb and r = 3î+3ĵ−5k̂+μb with b = 2î+3ĵ+6k̂. Side = distance between the parallel lines = |(a₂−a₁)×b|/|b| = √293/7. Area of square = 293/49 sq units. Since adjacent sides are perpendicular, ⟨−3,6,p⟩·⟨2,3,6⟩ = 0 ⇒ −6+18+6p = 0 ⇒ p = −2."
+     }
     },
     {
      "qno": 30,
@@ -18139,7 +18748,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Line (x−2)/3 = (1−y)/2 = (z−3)/2 = k ⇒ P(3k+2, −2k+1, 2k+3), Q = (1,2,3). PQ = √2 ⇒ (3k+1)² + (−2k−1)² + (2k)² = 2 ⇒ 17k² + 10k = 0 ⇒ k = 0 or −10/17. Required points: (2, 1, 3) and (4/17, 37/17, 31/17)."
+     }
     },
     {
      "qno": 30,
@@ -18157,7 +18769,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Lines: a₁ = 4î−ĵ, b₁ = î+2ĵ−3k̂; a₂ = î−ĵ+2k̂, b₂ = 2î+4ĵ−5k̂. a₂−a₁ = −3î+2k̂; b₁×b₂ = 2î−ĵ, |b₁×b₂| = √5. Shortest distance = |(−3î+2k̂)·(2î−ĵ)|/√5 = 6/√5 = 6√5/5."
+     }
     },
     {
      "qno": 35,
@@ -18174,7 +18789,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Point P(2a+1, 3a+2, 4a+3) on the first line and Q(5b+4, 2b+1, b) on the second; equating gives a = b = −1 ⇒ point of intersection (−1, −1, −1). Line through it parallel to 3î+2ĵ−8k̂: Cartesian (x+1)/3 = (y+1)/2 = (z+1)/−8; Vector r = (−î−ĵ−k̂) + λ(3î+2ĵ−8k̂)."
+     }
     },
     {
      "qno": 25,
@@ -18191,7 +18809,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Angle between Two Lines"
+     "topic": "Angle between Two Lines",
+     "answer": {
+      "text": "Lines have drs ⟨3, 2, 6⟩ and ⟨1, 2, 2⟩. cos θ = (3·1 + 2·2 + 6·2)/(√(3²+2²+6²)·√(1²+2²+2²)) = 19/(7·3) = 19/21. Hence θ = cos⁻¹(19/21)."
+     }
     },
     {
      "qno": 35,
@@ -18208,7 +18829,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Line (−x−3)/−5 = (1−y)/−2 = (3z+12)/9 ⇔ (x+3)/5 = (y−1)/2 = (z+4)/3 = λ; foot P(5λ−3, 2λ+1, 3λ−4). Drs of the perpendicular from (0,2,3): ⟨5λ−3, 2λ−1, 3λ−7⟩ ⟂ ⟨5,2,3⟩ ⇒ 5(5λ−3) + 2(2λ−1) + 3(3λ−7) = 0 ⇒ 38λ − 38 = 0 ⇒ λ = 1. Foot of perpendicular (2, 3, −1); length = √((2)²+(1)²+(−4)²) = √21."
+     }
     },
     {
      "qno": 35,
@@ -18226,7 +18850,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "a₁ = î+2ĵ+k̂, b₁ = î−ĵ+k̂; a₂ = pî−ĵ−k̂, b₂ = 2î+ĵ+2k̂. a₂−a₁ = (p−1)î−3ĵ−2k̂; b₁×b₂ = −3î+3k̂, |b₁×b₂| = 3√2. SD = |(a₂−a₁)·(b₁×b₂)|/|b₁×b₂| = |−3(p−1) −6|/(3√2) = |−3p−3|/(3√2) = 3/√2 ⇒ |−3p−3| = 9 ⇒ p = −4 or 2."
+     }
     }
    ],
    "topic_order": [
@@ -18878,7 +19505,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximise Z = x + 2y subject to x − y ≥ 0, x − 2y ≥ −2, x, y ≥ 0. Corner points: O(0,0)→0, A(2,2)→6. The feasible region is unbounded; the open half-plane x + 2y > 6 has points in common with the feasible region, so Z has no maximum value."
+     }
     },
     {
      "qno": 16,
@@ -18951,7 +19581,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Minimise Z = x − 5y subject to x − y ≥ 0, −x + 2y ≥ 2, x ≥ 3, y ≤ 4, y ≥ 0. Corner points and Z: A(3, 2.5)→−9.5, B(3,3)→−12, C(4,4)→−16, D(6,4)→−14. Minimum value of Z = −16, attained at (4, 4)."
+     }
     },
     {
      "qno": 18,
@@ -19024,7 +19657,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximise Z = 100x + 50y subject to 3x + y ≤ 600, x + y ≤ 300, y ≤ x + 200, x, y ≥ 0. Corner points and Z: O(0,0)→0, A(0,200)→10000, B(50,250)→17500, C(150,150)→22500, D(200,0)→20000. Maximum Z = 22500 at (150, 150)."
+     }
     },
     {
      "qno": 16,
@@ -19103,7 +19739,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximise Z = 5x + 10y subject to x + 2y ≤ 120, x + y ≥ 60, x − 2y ≥ 0, x, y ≥ 0. Corner points and Z: A(60,30)→600, B(120,0)→600, C(60,0)→300, D(40,20)→400. Z is maximum (= 600) at both A and B, so every point on segment AB gives the maximum value 600."
+     }
     },
     {
      "qno": 14,
@@ -19180,7 +19819,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Minimise Z = x + 4y subject to 2x + y ≥ 1000, x + 2y ≥ 800, x, y ≥ 0. Corner points and Z: (800,0)→800, (400,200)→1200, (0,1000)→4000. Since x + 4y < 800 has no region common with the feasible region, the minimum value Z = 800 at (800, 0)."
+     }
     },
     {
      "qno": 24,
@@ -19197,7 +19839,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "LPP: maximise Z = 5x + 4y subject to 3x + y ≤ 6, x ≤ 1, x, y ≥ 0. Feasible region is bounded with corner points O(0,0), A(0,6), B(1,3), C(1,0). Z: O→0, A→24, B→17, C→5. Maximum Z = 24 at A(0, 6)."
+     }
     },
     {
      "qno": 30,
@@ -19214,7 +19859,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Minimise Z = 18x + 10y subject to 4x + y ≥ 20, 2x + 3y ≥ 30, x, y ≥ 0. Corner points and Z: A(0,20)→200, B(3,8)→134, C(15,0)→270. Since Z < 134 has no point common with the feasible region, minimum Z = 134 at B(3, 8)."
+     }
     },
     {
      "qno": 17,
@@ -19365,7 +20013,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximize Z = 10500x + 9000y subject to x + y ≤ 50, 2x + y ≤ 80, x, y ≥ 0. Corner points and Z: (0,0)→0, (0,50)→4,50,000, (30,20)→4,95,000, (40,0)→4,20,000. Maximum Z = 4,95,000 at (30, 20)."
+     }
     },
     {
      "qno": 33,
@@ -19382,7 +20033,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximise Z = 600x + 400y subject to x + 2y ≤ 12, 4x + 5y ≥ 20, 2x + y ≤ 12, x, y ≥ 0. Corner points of the feasible region and Z: A(4,4)→4000, B(6,0)→3600, C(5,0)→3000, D(0,4)→1600, E(0,6)→2400. Maximum Z = 4000 at (4, 4)."
+     }
     },
     {
      "qno": 14,
@@ -19456,7 +20110,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximise Z = 200x + 120y subject to x + y ≤ 300, 3x + y ≤ 600, x − y ≥ −100, x, y ≥ 0. Corner points and Z: A(100,200)→44000, B(150,150)→48000, C(0,100)→12000, D(0,0)→0, E(200,0)→40000. Maximum Z = 48000 at (150, 150)."
+     }
     },
     {
      "qno": 15,
@@ -19529,7 +20186,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Maximise Z = 2x/5 + 3y/10 subject to 2x + y ≤ 1000, x + y ≤ 800, x, y ≥ 0. Corner points and Z: (0,0)→0, (500,0)→200, (200,600)→260, (0,800)→240. Maximum Z = 260 at (200, 600)."
+     }
     }
    ],
    "topic_order": [
@@ -20478,7 +21138,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "X: 0, 2, 4, 5 with P(X): p, 2p, 3p, p. (i) ΣP(X) = 1 ⇒ 7p = 1 ⇒ p = 1/7. (ii) Mean = Σx·P(x) = 0(p) + 2(2p) + 4(3p) + 5(p) = 21p = 21(1/7) = 3."
+     }
     },
     {
      "qno": 30,
@@ -20496,7 +21159,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "E₁: applicant male (P = 1/3), E₂: female (P = 2/3); A: distinction. P(A|E₁) = 0.4, P(A|E₂) = 0.35. P(A) = P(E₁)P(A|E₁) + P(E₂)P(A|E₂) = (1/3)(0.4) + (2/3)(0.35) = 11/30."
+     }
     },
     {
      "qno": 38,
@@ -20513,7 +21179,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Loan type probabilities: fixed 1/10, floating 2/10, variable 7/10; default probabilities 5/100, 3/100, 1/100. (i) P(default) = (1/10)(5/100) + (2/10)(3/100) + (7/10)(1/100) = 18/1000 = 9/500. (ii) By Bayes, P(variable rate | default) = [(7/10)(1/100)]/(18/1000) = (7/1000)/(18/1000) = 7/18."
+     }
     },
     {
      "qno": 7,
@@ -20557,7 +21226,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "Biased die: P(2) = 3/10, P(not 2) = 7/10; die thrown twice, X = number of 2's. P(X=0) = 49/100, P(X=1) = 42/100, P(X=2) = 9/100. Mean = Σx·P(x) = 0(49/100) + 1(42/100) + 2(9/100) = 60/100 = 0.6."
+     }
     },
     {
      "qno": 30,
@@ -20575,7 +21247,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Independent Events",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Two dice; A = {x+y = 9} = {(3,6),(4,5),(5,4),(6,3)}, P(A) = 4/36 = 1/9; B = {x ≠ 3}, P(B) = 30/36 = 5/6. A∩B = {(4,5),(5,4),(6,3)}, P(A∩B) = 3/36 = 1/12. P(A)·P(B) = 5/54 ≠ 1/12 ⇒ A and B are not independent; and A∩B ≠ ∅ ⇒ they are not mutually exclusive either."
+     }
     },
     {
      "qno": 37,
@@ -20592,7 +21267,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Amber 60%, Bonzi 30%, Comet 10%; electric fractions 20%, 10%, 5%. (i)(a) P(electric) = (0.6)(0.2) + (0.3)(0.1) + (0.1)(0.05) = 155/1000 = 31/200. [OR (i)(b) P(petrol) = (0.6)(0.8) + (0.3)(0.9) + (0.1)(0.95) = 845/1000 = 169/200.] (ii) By Bayes, P(Comet | electric) = [(0.1)(0.05)]/(31/200) = (50/10000)/(1550/10000) = 1/31. (iii) P(Amber or Bonzi | electric) = 1 − P(Comet | electric) = 1 − 1/31 = 30/31."
+     }
     },
     {
      "qno": 19,
@@ -20638,7 +21316,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "Number of boys X in families with three children, P(boy) = P(girl) = 1/2, X = 0,1,2,3. P(X=0) = (1/2)³ = 1/8, P(X=1) = 3(1/2)(1/2)² = 3/8, P(X=2) = 3(1/2)²(1/2) = 3/8, P(X=3) = (1/2)³ = 1/8."
+     }
     },
     {
      "qno": 29,
@@ -20656,7 +21337,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Coin tossed twice, X = (heads − tails); possible X = −2, 0, 2. P(X=−2) = 1/4, P(X=0) = 2/4 = 1/2, P(X=2) = 1/4. Mean = Σx·P(x) = −2(1/4) + 0(1/2) + 2(1/4) = 0."
+     }
     },
     {
      "qno": 36,
@@ -20701,7 +21385,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "E₁: student has misconception (40%), E₂: no misconception (60%); A: answers 'Bijoy'. P(A|E₁) = 80/100, P(A|E₂) = 10/100. (i) P(answers Bijoy | no misconception) = P(A|E₂) = 10/100 = 1/10. (ii) P(A) = (40/100)(80/100) + (60/100)(10/100) = 38/100 = 19/50. (iii)(a) By Bayes, P(misconception | Bijoy) = [(40/100)(80/100)]/(38/100) = 16/19. [OR (iii)(b) P(no misconception | Bijoy) = [(60/100)(10/100)]/(38/100) = 3/19.]"
+     }
     },
     {
      "qno": 2,
@@ -20745,7 +21432,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "P(colouring book A) = 0.7, P(box of colours B) = 0.2, P(A|B) = 0.3. (i) P(A∩B) = P(A|B)·P(B) = 0.3·0.2 = 0.06 = 3/50. (ii) P(B|A) = P(A∩B)/P(A) = 0.06/0.7 = 3/35 ≈ 0.086."
+     }
     },
     {
      "qno": 31,
@@ -20763,7 +21453,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Box: 6 apples, 4 oranges; 3 draws with replacement. P(orange) = 4/10 = 2/5, P(not) = 3/5. X = number of oranges = 0,1,2,3 with P(X) = 27/125, 54/125, 36/125, 8/125. E(X) = 0·27/125 + 1·54/125 + 2·36/125 + 3·8/125 = 150/125 = 6/5."
+     }
     },
     {
      "qno": 38,
@@ -20780,7 +21473,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Seeds: 10 brinjal, 12 cabbage, 8 radish (total 30); germination rates 25%, 35%, 40%. A = seed germinates; B, C, R = brinjal, cabbage, radish chosen. P(B)=10/30, P(C)=12/30, P(R)=8/30; P(A|B)=25/100, P(A|C)=35/100, P(A|R)=40/100. (i) P(A) = (10/30)(25/100) + (12/30)(35/100) + (8/30)(40/100) = 990/3000 = 33/100. (ii) By Bayes, P(C|A) = [(12/30)(35/100)]/(990/3000) = 42/99 = 14/33."
+     }
     },
     {
      "qno": 18,
@@ -20824,7 +21520,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Independent Events"
+     "topic": "Independent Events",
+     "answer": {
+      "text": "P(wrong selection in I) = 0.03, P(wrong in II) = 0.01. (i) P(correct decision in both) = (1−0.03)(1−0.01) = 0.97·0.99 = 0.9603. (ii) P(correct in only one) = (0.03)(1−0.01) + (1−0.03)(0.01) = 0.0297 + 0.0097 = 0.0394."
+     }
     },
     {
      "qno": 38,
@@ -20841,7 +21540,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Smartphones: A 25%, B 35%, C 40%; defective rates 5%, 4%, 2%. (i) P(defective) = 0.25(0.05) + 0.35(0.04) + 0.40(0.02) = 0.0345. (ii) By Bayes, P(B | defective) = [0.35(0.04)]/0.0345 = 140/345 = 28/69."
+     }
     },
     {
      "qno": 17,
@@ -20912,7 +21614,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "10 blocks with numbers 0 (2 blocks), 1 (3), 2 (4), 3 (1). X = 0,1,2,3 with P = 2/10, 3/10, 4/10, 1/10. Mean = Σx·P = (0 + 3 + 8 + 3)/10 = 14/10 = 7/5 = 1.4."
+     }
     },
     {
      "qno": 25,
@@ -20930,7 +21635,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Village 8000 people; 3000 work outside, 4000 women, 30% of women work outside. A = person is a woman, B = person works outside. P(A) = 4000/8000 = 1/2, P(B) = 3000/8000 = 3/8, P(A∩B) = (0.30·4000)/8000 = 1200/8000 = 3/20. P(A∪B) = 1/2 + 3/8 − 3/20 = 29/40."
+     }
     },
     {
      "qno": 38,
@@ -20947,7 +21655,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Out of 1000: A₁ (good) 700, A₂ (average) 200, A₃ (poor) 100; disease chances 25%, 35%, 50%. (i) P(A) = (7/10)(25/100) + (2/10)(35/100) + (1/10)(50/100) = 295/1000 = 0.295 = 59/200. (ii) P(A₂ | not A) = [(2/10)(65/100)] / [(7/10)(75/100) + (2/10)(65/100) + (1/10)(50/100)] = (2·13)/(7·15 + 2·13 + 1·10) = 26/141."
+     }
     },
     {
      "qno": 19,
@@ -21081,7 +21792,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication Theorem on Probability"
+     "topic": "Multiplication Theorem on Probability",
+     "answer": {
+      "text": "P(not hitting) = p, P(hitting) = 3p; p + 3p = 1 ⇒ p = 1/4, so P(hit) = 3/4, P(miss) = 1/4. Two shots: (i) P(target is hit) = 1 − P(both miss) = 1 − (1/4)² = 15/16. (ii) P(at least one shot misses) = 1 − P(both hit) = 1 − (3/4)² = 7/16."
+     }
     },
     {
      "qno": 31,
@@ -21099,7 +21813,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "M, F, S line up at random; sample space has 6 arrangements. E: Son on one end, F: Father in the middle. P(E∩F) = 2/6, P(F) = 2/6. P(E|F) = P(E∩F)/P(F) = 1 (given the father is in the middle, the son must be at an end)."
+     }
     },
     {
      "qno": 36,
@@ -21116,7 +21833,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "50 smokers: 30 male (M), 20 female (F); P(L|M) = 170/1000 = 17/100, P(L|F) = 120/1000 = 12/100. (i) P(F) = 20/50 = 2/5. (ii) P(not suffering | male) = P(L′|M) = 1 − 17/100 = 83/100. (iii)(a) By Bayes: P(F|L) = [P(F)P(L|F)]/[P(M)P(L|M) + P(F)P(L|F)] = [(2/5)(12/100)]/[(3/5)(17/100) + (2/5)(12/100)] = 24/75 = 8/25. [OR (iii)(b) P(M|L′) = [(3/5)(83/100)]/[(3/5)(83/100) + (2/5)(88/100)] = 249/425.]"
+     }
     },
     {
      "qno": 18,
@@ -21160,7 +21880,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Independent Events"
+     "topic": "Independent Events",
+     "answer": {
+      "text": "P(success) = 9/10, P(failure) = 1/10; three independent robotic surgeries. (i) P(exactly one successful) = (9/10)(1/10)(1/10)·3 = 27/1000. (ii) P(at most two successful) = 1 − P(all three successful) = 1 − (9/10)³ = 1 − 729/1000 = 271/1000."
+     }
     },
     {
      "qno": 37,
@@ -21177,7 +21900,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "40% dropouts, 60% regular; dropouts qualify 5%, regulars qualify 10%. (i) P(regular) = 3/5. (ii) P(not qualify | dropout) = 95/100 = 19/20. (iii)(a) By Bayes, P(not dropout | qualified) = (60/100·10/100)/(40/100·5/100 + 60/100·10/100) = 3/4. [OR (iii)(b) P(regular | not qualified) = (60/100·90/100)/(40/100·95/100 + 60/100·90/100) = 27/46.]"
+     }
     },
     {
      "qno": 18,
@@ -21221,7 +21947,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "P(debate D) = 1/3, P(quiz Q) = 2/3. Team A: 4 girls, 6 boys; Team B: 7 girls, 3 boys; two students chosen, E = one girl and one boy. P(E|D) = 2·(4/10)(6/9) = 8/15, P(E|Q) = 2·(7/10)(3/9) = 7/15. P(E) = (1/3)(8/15) + (2/3)(7/15) = 22/45."
+     }
     },
     {
      "qno": 38,
@@ -21238,7 +21967,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Box I: 30 red; Box II: 20 red + 10 green; Box III: 30 green. P(Bᵢ) = i/6. (i) P(red) = (1/6)(1) + (2/6)(2/3) + (3/6)(0) = 7/18. (ii) P(green) = 1 − 7/18 = 11/18; by Bayes, P(Box II | green) = [(2/6)(1/3)]/(11/18) = (2/18)/(11/18) = 2/11."
+     }
     },
     {
      "qno": 18,
@@ -21282,7 +22014,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Die rolled; A = {1,2,5}, B = {3,5}, C = {2,3,4,5}. (i) P(A|C) = n(A∩C)/n(C) = 2/4 = 1/2; P(C|A) = n(C∩A)/n(A) = 2/3. (ii) P(A∩B|C) = n(A∩B∩C)/n(C) = 1/4; P(A∪B|C) = n((A∪B)∩C)/n(C) = 3/4."
+     }
     },
     {
      "qno": 31,
@@ -21300,7 +22035,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Independent Events",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Cards 1–6, two drawn with replacement. A: sum = 10 = {(4,6),(6,4),(5,5)}, n(A) = 3; B: first card ≠ 4, n(B) = 30. A∩B = {(6,4),(5,5)}, n = 2 ⇒ P(A∩B) = 2/36 = 1/18. P(A) = 3/36 = 1/12, P(B) = 30/36 = 5/6; P(A)·P(B) = 5/72 ≠ 1/18. Hence A and B are not independent."
+     }
     },
     {
      "qno": 37,
@@ -21317,7 +22055,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Vaccines: P(A₁)=0.25, P(A₂)=0.35, P(A₃)=0.40; protection 60%, 55%, 50% (so infection 40%, 45%, 50%). (i) P(A₂ person infected) = 45% = 0.45. (ii) P(protected) = 0.25(0.60) + 0.35(0.55) + 0.40(0.50) = 5425/10000 = 0.5425. (iii)(a) By Bayes, P(A₁ | infected) = [0.25(0.40)]/[0.25(0.40)+0.35(0.45)+0.40(0.50)] = 1000/4575 = 40/183. [OR (iii)(b) P(A₃ | not infected) = [0.40(0.50)]/[0.25(0.60)+0.35(0.55)+0.40(0.50)] = 2000/5425 = 80/217.]"
+     }
     }
    ],
    "topic_order": [
