@@ -44,7 +44,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "(b) Required value = π π π 5π"
+     }
     },
     {
      "qno": 32,
@@ -61,7 +64,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "For reflexive\n(1, 1) ∉R as 12 is rational (or any other counter example)\nR is not reflexive For symmetric\nLet (x, y) ∈R ∴ x.y is an irrational number\n∴ (y.x) is an irrational number\n∴ (y, x) ∈R\n∴ R is symmetric For Transitive\n(1, √2) ∈R, (√2, 2) ∈R            (or any other counter example)\nbut (1, 2) ∉R\n∴ R is not transitive"
+     }
     },
     {
      "qno": 35,
@@ -78,7 +84,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "Onto: Let y x y − ⇒ ≥ Squaring we get, x y x y − ⇒ = ± − For each y ∈−\n, ‘x’ is a real number, f y R Co domain ∴ ≤ ≤ ⇒ − 'f ' ∴\nis an onto function. One-One: ( f f 1 − but 1\n−≠, ∴ ‘f’ is not a one-one function. f a a a ⇒ − ⇒ = ±\n(Question nos. 36 to 38 are source based/case based/passage based/integrated units of assessment\nquestions carrying 4 marks each)"
+     }
     },
     {
      "qno": 32,
@@ -95,7 +104,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "Let x1, x2 ∈R (Domain) such that f(x1) = f(x2) ⇒ 5𝑥1 – 3 5x2 – 3\n⇒ 5x1 = 5x2  ⇒ x1 = x2\n∴ f is one-one.\nLet  𝑦∈𝑅 (co-domain). Then f(x) = y for some x . if,  𝑦= 5𝑥 – 3\n, 𝑖. 𝑒. , 𝑖𝑓,   𝑥= 4𝑦 + 3 , which ∈𝑅(Domain)\nThus, for every y∈𝑅(co −domain), there exists 4𝑦 + 3 ∈𝑅(domain) such that 𝑓( 4𝑦 + 3\n) = 𝑦\n∴ Range of f = R = codomain of f. Hence, f is onto."
+     }
     },
     {
      "qno": 34,
@@ -112,7 +124,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "Reflexive :Here, (a, b) R (a, b) ∀ (a, b) ∈N X N since ab(b + a) = ba(a +\nb) is always true.\nSymmetric: Let (a, b) R (c, d) ∀ (a, b), (c, d) ∈N X N. Then,\nad(b + c) = bc(a + d)\n⇒ bc(a + d) = ad(b + c)\n⇒ (c, d) R (a, b)\nTransitive: Let (a, b) R (c, d) and (c, d) R (e, f) ∀ (a, b), (c, d), (e, f) ∈N X N.\nThen\nad (b + c) = bc (a + d) and cf(d + e) = de(c + f) ⇒ 𝑏 + 𝑐 𝑏𝑐= 𝑎 + 𝑑 𝑎𝑑and 𝑑 + 𝑒\n𝑑𝑒= 𝑐 + 𝑓 𝑐𝑓 𝑐 + 𝑏= 𝑑 + 𝑎⇒ 𝑒 + 𝑑= 𝑓 + 𝑐 Adding, we get 𝑐 + 𝑏 + 𝑒 + 𝑑= 𝑑 + 𝑎 + 𝑓 +\n𝑐 ⇒ 𝑏 + 𝑒= 𝑎 + 𝑓 ⇒ 𝑒 + 𝑏 𝑏𝑒= 𝑓 + 𝑎 𝑎𝑓 (For Sym met- ric) For Tran sit- ive P.T.O.\n⇒ af (b + e) = be(a + f)\n⇒ (a, b) R (e, f)\nHence, R is equivalence relation."
+     }
     },
     {
      "qno": 34,
@@ -130,7 +145,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) For one-one\nLet f(x1) = f(x2) for some x1, x2 ∈ R –{– 3} ⇒ 4𝑥1\n3𝑥1 + 4 = 4𝑥2 3𝑥2 + 4\n⇒ 12x1x2 + 16x1 = 12x1x2 + 16x2\n⇒ 16x1 = 16x2\n⇒ x1 = x2\n⇒ f is one-one\nFor onto                  let y ∈ R, and for some x. Let 𝑦  = 4𝑥 3𝑥 + 4\n⇒ 3xy + 4y = 4x\n⇒ x (3y – 4) = – 4y\n⇒ 𝑥  = – 4𝑦\n3𝑦 – 4 or 𝑥  = 4𝑦 4 – 3𝑦\nx is real if y ≠\n3 . So 𝑅𝑓= 𝑅−{ 3} ≠𝐶𝑜𝑑𝑜𝑚𝑎𝑖𝑛 (𝑓)\nSo, f is not onto. P.T.O."
+     }
     },
     {
      "qno": 1,
@@ -174,7 +192,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "(I) Number of relations = 26 = 64\n(II) Number of possible functions = 23 = 8\n(III) R is an equivalence relation as it is reflexive, symmetric and transitive"
+     }
     },
     {
      "qno": 1,
@@ -218,7 +239,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "Reflexive:\n∵|𝒙𝟐− 𝒙𝟐| < 𝟖 ∀ 𝒙 ∈𝑨 ⇒(𝒙, 𝒙) ∈𝑹   ∴𝑹 is reflexive . (b) Symmetric:\nLet (x,y) ∈𝑹 for some x,y ∈ A\n∴ |𝒙𝟐− 𝒚𝟐| < 𝟖 ⇒ |𝒚𝟐− 𝒙𝟐| < 𝟖 ⇒(𝒚, 𝒙) ∈𝑹\nHence R is symmetric. (c) Transitive:\n(1,2) , (2,3) ∈𝑹 as |𝟏𝟐− 𝟐𝟐| < 𝟖 , |𝟐𝟐− 𝟑𝟐| < 𝟖 respectively\nBut |𝟏𝟐− 𝟑𝟐| ≮𝟖 ⇒(𝟏, 𝟑) ∉𝑹\nHence 𝑹 is not transitive."
+     }
     },
     {
      "qno": 26,
@@ -236,7 +260,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "26(b). P.T.O. Sol.\nf(x) = ax + b\nSolving a+ b = 1 and 2a + b = 3 to get a=2 , b = −1\nf(x) = 2 x – 1\nLet f (𝒙𝟏) = f (𝒙𝟐) for some 𝒙𝟏 , 𝒙𝟐 ∈𝑹\n2 𝒙𝟏−𝟏 = 2 𝒙𝟐−𝟏 ⇒ 𝒙𝟏 = 𝒙𝟐\nHence f is one – one.\nLet y = 2x -1, y ∈𝑹 (Codomain) ⇒ x = 𝒚+𝟏 𝟐 ∈𝑹 (domain)\nAlso, f(x) = f ( 𝒚+𝟏 𝟐) = y\n∴ f is onto."
+     }
     },
     {
      "qno": 2,
@@ -280,7 +307,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "Let 𝑓(𝑥1) = 𝑓(𝑥2) 𝑓𝑜𝑟 𝑠𝑜𝑚𝑒 𝑥1, 𝑥2 ∈𝑅 Then 2𝑥1 1+𝑥12 = 2𝑥2 1+𝑥22 ⟹𝑥1 + 𝑥1𝑥2\n2 = 𝑥2 + 𝑥1 2𝑥2\n⟹(𝑥1 −𝑥2) −𝑥1𝑥2(𝑥1 −𝑥2) = 0\n⟹(𝑥1 −𝑥2)(1 −𝑥1𝑥2) = 0\n⟹𝑥1 −𝑥2 = 0 or 1 −𝑥1𝑥2 = 0\n⟹𝑥1 = 𝑥2 or 𝑥1𝑥2 = 1, so if 𝑥1𝑥2 = 1, 𝑥1 ≠𝑥2\nHence f is not one -one\nLet y = f(x) where 𝑥∈𝑅 Then 𝑦= 2𝑥\n1+𝑥2 . Here, for x = 0, y = 0\nIf 𝑦≠0, then 𝑦= 2𝑥 1+𝑥2\n⟹𝑦𝑥2 −2𝑥+ 𝑦= 0\n⟹𝑥= 2 ± √4 −4𝑦2 2𝑦\nFor x to be real, 4 −4𝑦2 ≥0 ⟹𝑦2 ≤1 ⟹−1 ≤𝑦≤1\nHence, range = [−1,1] ≠𝑐𝑜𝑑𝑜𝑚𝑎𝑖𝑛\nHence, f is not onto.\nFor the given function to become onto, 𝐴= [−1,1]"
+     }
     },
     {
      "qno": 32,
@@ -298,7 +328,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Sol.\nLet (𝑎, 𝑏) ∈𝑁× 𝑁 We have 𝑎−𝑎= 𝑏−𝑏\nThis implies that (a, b) R (a, b) ∀(𝑎, 𝑏) ∈𝑁× 𝑁\nHence R is reflexive\nLet (a, b) R (c, d) for some (𝑎, 𝑏), (𝑐, 𝑑) ∈𝑁× 𝑁 Then 𝑎−𝑐= 𝑏−𝑑 ⟹𝑐−𝑎= 𝑑−𝑏\n⟹(c, d) R (a, b)\nHence, R is symmetric.\nLet (a, b) R (c, d), (c, d) R (e, f) for some (𝑎, 𝑏), (𝑐, 𝑑), (𝑒, 𝑓) ∈𝑁× 𝑁\nThen 𝑎−𝑐= 𝑏−𝑑, 𝑐−𝑒= 𝑑−𝑓\n⟹𝑎−𝑐+ 𝑐−𝑒= 𝑏−𝑑+ 𝑑−𝑓 ⟹𝑎−𝑒= 𝑏−𝑓\n⟹(a, b) R (e, f)\nHence, R is transitive\nThus, R is an equivalence relation."
+     }
     },
     {
      "qno": 2,
@@ -380,7 +413,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "text": "Let ( ),for som , So Let 3, W f x f x x x x x x x x x x f is one o y y x yx y x\ny x y x f x − − ⇒ ⇒ ⇒ − − ⇒ ⇒ − − − ⇒ − − − − − − − e observ So, Range {1} and C\nSince, Range Co-domai Thus,\nis one-one & onto R f − 33(b). Sol. Reflexive: For 2 is irrational\n2 is irrational numbe\nThus, S is Reflexive Rela\nSymmetric : Let ( , ) but\n2 may not be For a S a a a a S a b b a ⇒ ∈ − ⇒ ∈ ∈ ⇒ − example, ( 2,1) as 1\n, So S is NOT S S b a S ∈ ⇒ ∉ − ∴ ∉ me , x x A x one Function y x x ∈ − − −\ne that  is defined for all values of y except Co-domain is Given {1}     [As, in,\nis onto Function. o function. ] f x y R f A B − →"
+     }
     },
     {
      "qno": 33,
@@ -398,7 +434,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "l numbe er ation.\n2 is irrational numbe e irrational numbe r S a b r r ⇒ −\n1 is irrational numb\n1 is not irrational number T Symmetric Relation. ⇒ −+ −\n14 | P a g e ber Transitive : &( , ) 2 i but\n2 may not be example, (1, 3) Let a b S b c S b c a c For S S ∈ ∈ ⇒ −+ −+ ∈ ∈ ⇒\n− But (1, as 1 is NOT\nThus, S is Reflexive But N S a c S So S ∉ − ∴ ∉"
+     }
     },
     {
      "qno": 1,
@@ -442,7 +481,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "(i) Let ( l ,l R ∈\n⇒l1 || l2 ⇒ l2 || l1 ⇒( l ,l R ∈\n, ∴R is a symmetric relation (ii)  Let ( l ,l , l ,l R ∈\n⇒l1 || l2 , l2 || l3  ⇒ l1 || l3 ⇒( l ,l R ∈\n, ∴R is a transitive relation\n(iii) The set is\nl :  l is a line of type y 3x c,c R ∈"
+     }
     },
     {
      "qno": 19,
@@ -1101,7 +1143,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "sin sin cos cos tan − − − π π+ π π + π+ π"
+     }
     },
     {
      "qno": 21,
@@ -1119,7 +1164,10 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Correct Graph Range: π π"
+     }
     },
     {
      "qno": 19,
@@ -1161,7 +1209,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "Given expression = 3𝜋 2𝜋 𝜋 π"
+     }
     },
     {
      "qno": 24,
@@ -1179,7 +1230,10 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Q24(b) Ans (b) Correct graph Here, the points A, B, C and D are respectively 𝜋\n4) , (0, − 𝜋\n√2 , 0) , (− √2 , 0). Range = [– 𝜋 𝜋 4]"
+     }
     },
     {
      "qno": 19,
@@ -1225,7 +1279,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "Domain of sin–1 x is     – 1 ≤ x ≤ 1\n∴ – 1 ≤ x2 – 4 ≤ 1\nor x2 ≥ 3, x2 ≤ 5\n⇒ x ≥ √3 or x ≤ – √3,  x ≤ √5 or x ≥  – √5\n– √5      – √3 √3      √5\n∴ Domain is [– √5, – √3] ∪ [√3, √5]"
+     }
     },
     {
      "qno": 21,
@@ -1243,7 +1300,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) cos–1[𝑐𝑜𝑠(– 7𝜋\n3 )]  = cos–1[𝑐𝑜𝑠( 7𝜋 3 )] = cos–1[𝑐𝑜𝑠(2𝜋  + 𝜋 3)] P.T.O. = cos–1[𝑐𝑜𝑠 𝜋 3] = 𝜋"
+     }
     },
     {
      "qno": 2,
@@ -1287,7 +1347,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "Domain = R ;   Range = (– 𝝅 𝝅"
+     }
     },
     {
      "qno": 38,
@@ -1307,7 +1370,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "[ 𝝅 𝟑𝝅\n𝟐 ] or any other interval corresponding to the domain [-1,1] (ii) 𝐬𝐢𝐧−𝟏( −𝟏 𝟐) − 𝐬𝐢𝐧−𝟏(𝟏)\n−𝝅 𝟔− 𝝅 −𝟒𝝅 𝟔 or −𝟐𝝅 P.T.O. (iii) (a)"
+     }
     },
     {
      "qno": 21,
@@ -1324,7 +1390,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "The given expression = −𝜋 𝜋 3 − 𝜋 = −𝜋"
+     }
     },
     {
      "qno": 21,
@@ -1342,7 +1411,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Sol.\n−1 ⩽𝑥2 −4 ⩽1 ⟹3 ⩽𝑥2 ⩽5\nDomain = [−√5, −√3] ∪[√3, √5] Range = [− 𝜋 𝜋 2]"
+     }
     },
     {
      "qno": 21,
@@ -1376,7 +1448,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "(a). ASON BASED QUSTIONS\ne Assertion (A) and Reason (R) based question\nstatements are given, one labelled Assertion (A s o  R . d R o e a h s o o n e\nA R a r C e n t r D u e s g a v n n d b l Reason n (R) is t t h c e s B a a i m\nd e d e f As e ertion (A).\nd Reason (R) are true and Reason (R) is not the f Assertion (A).\nut Reason (R) is false.\nbut Reason (R) is true.\nut Reason (R) is false.\nbut R is not the correct explanation of A.\nvery short answer type questions of 2 marks e\n6 | P a g e ns A) l w o : e each. Sol. cos tan =tan 1 sin tan 2 tan tan tan 2 x\ny x x y x − − − − −"
+     }
     },
     {
      "qno": 21,
@@ -1394,7 +1469,10 @@
      "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Basic Concepts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "21(b). Sol. tan (1) cos ( ) π π − − − −"
+     }
     },
     {
      "qno": 19,
@@ -1440,7 +1518,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "text": "PTO Ans k tan 2cos sin − π ⇒ k tan 3 π ⇒ k 3 k ∴"
+     }
     },
     {
      "qno": 18,
@@ -2243,7 +2324,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "text": "getting, A2 = [ ]\ngetting, A3 = [ ]\n∴ A3 – 6A2 + 7A + 2I = [ ] – [ ] + [ ] + [ ] = [ ]= O"
+     }
     },
     {
      "qno": 1,
@@ -2422,7 +2506,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "text": "Getting 𝐴2 = [ ]\nGetting 𝐴3 = [ ]\nA3 – 23A – 40I = [ −6 ] −[ −46 ] −[ ] = [ ] = 𝐎"
+     }
     },
     {
      "qno": 2,
@@ -3748,7 +3835,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) cos sin cos sin LHS f f sin cos sin cos α − α β β α −β= α α − β β cos cos sin\nsin cos sin sin cos sin cos cos sin sin sin cos cos α β+ α β α β− α β α β− α β\nα β+ α β cos sin sin cos α−β − α−β α−β α−β f RHS α−β="
+     }
     },
     {
      "qno": 34,
@@ -3833,7 +3923,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Q34(b) Ans\n(b)adj A = [– 7 3]\nA  = – 31 A–1 = 31 [– 7 3]\nGiven system of equations is [𝑥\n𝑦] = [  11 – 3 ]\nwhich is A X = B, where 𝑋= [𝑥\n𝑦] , 𝐵= [  11 – 3 ]\n⇒X = (A )–1B\n⇒X = (A–1) B [  11\n– 3 ] = [2 1]\n∴ x = 2,   y = 1"
+     }
     },
     {
      "qno": 2,
@@ -3904,7 +3997,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "text": "A = [\n], B–1 = [ ] (AB)–1 = B–1A–1\nA  = 1(3) – 2(– 1) – 2(2) = 3 + 2 – 4 = 1 ≠ 0 adj(A) = A–1 = 1\n∴ B–1A–1 = [ ] [ ]"
+     }
     },
     {
      "qno": 33,
@@ -3922,7 +4018,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)Given system is z y x\nA . X = B ⇒ X = A–1B\nA  = 35 ≠ 0\nA11 = 0      A12 = 7       A13 = 7\nA21 = 10   A22 = –11  A23 = 4\nA31 = 5      A32 = 5       A33 = – 5 ∴ A–1 = 35 [ ]\n⇒ X = 35 1  [ ] [ ] = 35 1 [ ]= [ ]\n∴ x = 1   y = 1    z = 1"
+     }
     },
     {
      "qno": 3,
@@ -4020,7 +4119,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "AB B A − ⇒\nThe given system of equations can be written as: T x B X C,X y ,C z ⋅ T T T X B\nC B C A C − − ⋅ ⋅ ⋅ ⇒ X − = − − x y x 1,y 1,z z ⇒ = − ∴ = −"
+     }
     },
     {
      "qno": 2,
@@ -4110,7 +4212,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "A\n|A| = 1(8 – 6) + 1(0 + 9) + 2(0 – 6) = – 1 ≠ 0\n∴ A is invertible.\nadj A = [ ] ⇒ A–1 =\n|𝐴| adj A = [ ]\nThe given system of equation can be written as AX = B, when A=[ −1 −3 −2 ], 𝑋= [\n𝑥 𝑦 𝑧 ], 𝐵= [ ]\n⇒ X = A–1 B P.T.O. ⇒ [ 𝑥 𝑦 𝑧 ] = [ ]  [ ] = [ ]\n⇒ x = 1, y = 2, z = 1"
+     }
     },
     {
      "qno": 5,
@@ -4154,7 +4259,10 @@
      ],
      "bloom": "Create",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "(I) Matrix equation is AX = B, where A = , X = z y x ,  B =\nwhere x is the number of pens bought, y the number of bags and z the\nnumber of instrument boxes.\n(II)   A  = 5(4 – 6) – 3(8 – 3) + 1(4 – 1) = −22\n(III)  adj (A) = [ ] ′ = [ −2 −10 −5 −13 −7 −1 ] ⇒ A–1 ="
+     }
     },
     {
      "qno": 12,
@@ -4227,7 +4335,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "|A| = 1 ≠𝟎 hence 𝑨−𝟏 exists. 𝑨𝒅𝒋 𝑨= [ −𝟑 −𝟐 −𝟒 ] 𝑨−𝟏= [ −𝟑 −𝟐 −𝟒 ]\nAX = B ⇒ [ −𝟐 −𝟏 −𝟏 −𝟐 ] [ 𝒙 𝒚 𝒛 ] = [ ]\nX = 𝑨−𝟏𝑩 ⇒ [ 𝒙 𝒚 𝒛 ] = [ −𝟑 −𝟐 −𝟒 ] [ ] = [ −𝟓 −𝟑 ]\n⇒𝒙= 𝟎, 𝒚= −𝟓, 𝒛= −𝟑"
+     }
     },
     {
      "qno": 32,
@@ -4245,7 +4356,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "32(b). Sol. 𝑨𝑨−𝟏= 𝑰 [ −𝟏 𝒂 𝒙 ] [ −𝟏 −𝟖 −𝟓 𝒃 𝒚 ]  = [ ] [ −𝟏−𝟖𝒂+ 𝟐𝒃 𝟏+ 𝟕𝒂+ 𝟐𝒚 𝟓−𝟓𝒂\n−𝟏𝟓+ 𝒃𝒙 𝟏𝟑+ 𝒙𝒚 𝟑𝒙−𝟗 −𝟓+ 𝒃 𝟒+ 𝒚 ] = [ ]\n-5 + b = 0 ⇒𝒃= 𝟓 ,          𝟓−𝟓𝒂= 𝟎 ⇒𝒂= 𝟏\n4 + y = 0 ⇒𝒚= −𝟒 ,        𝟑𝒙−𝟗= 𝟎 ⇒𝒙= 𝟑\n∴ (a + x) – (b + y) = ( 1 + 3) – (5 - 4) = 3"
+     }
     },
     {
      "qno": 3,
@@ -4289,7 +4403,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Given system of linear equations is equivalent to AX = B, where 𝐴= [ −6 −20 ], 𝑋=\n[ 𝑥 𝑦 𝑧] , 𝐵= [ ]\n|𝐴| = 1200 ≠0\nCofactors of the elements of A are\n𝐴11 = 75,  𝐴12 = 110,  𝐴13 = 72\n𝐴21 = 150,  𝐴22 = −100,  𝐴23 = 0\n𝐴31 = 75,  𝐴32 = 30,  𝐴33 = −24 𝑎𝑑𝑗𝐴= [ −100 −24 ] 𝐴−1 = 𝑎𝑑𝑗𝐴 |𝐴| = 1200 [ −100\n−24 ] 𝑋= 𝐴−1𝐵 = 1200 [ −100 −24 ] [ ] 1200 [ ] = [ 5]\n⸫x = 2, y = 3, z = 5"
+     }
     },
     {
      "qno": 3,
@@ -4375,7 +4492,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Let No. of girl child scholarships = x\nNo. of meritorious achievers = y\nx + y = 50\n3000x + 4000y = 180000   or 3x + 4y = 180 x y Ans(ii) 4 = ≠\n∴ system is consistent. Ans (iii)(a) Let A = , X = y\nx  , B =\nAX = B ⇒ X = A–1B X =\n⇒x = 20, y = 30"
+     }
     },
     {
      "qno": 2,
@@ -4442,7 +4562,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "Matrix  = 3 Thus, A ,Given equation can For A adjA so − − − − − − − − − −\nA        X    =   B x y z − x y z − − − − −\n2 is irrational numbe is irrational numbe e irrational numbe\n2  is irrational number\n3 is irrational nu a b r r r ⇒ − ⇒− mber\n1 is not irrational number T Transitive Relation.\nNeither Symmetric nor Transitive Relation , | |\n0  so, A  exists.\nn be written into a matrix equation as A − − =− ≠ − − − − A . X B − ⇒ x y z − −\n− ⇒ −\n15 | P a g e =−"
+     }
     },
     {
      "qno": 3,
@@ -4513,7 +4636,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Applications of Determinants and Matrices"
+     "topic": "Applications of Determinants and Matrices",
+     "answer": {
+      "text": "PTO Ans (a) A − − = − ≠ , ∴ A−exist adjA − − = − − − A − − − ∴ = − − − −\nThe given system of equations can be written as AX B x X y ,B z x X A B y z − −\n− ⇒ = − − − −\n∴The solution of the given system of equations is: x 2,y ,z"
+     }
     },
     {
      "qno": 32,
@@ -4531,7 +4657,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Applications of Determinants and Matrices",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) − − − − − − − ⇒ − − − − − − − −\nSolution of the system of equations is given by: x y z − − − − − − = − − − − −\nx 3,y 2,z ∴ = − PTO"
+     }
     },
     {
      "qno": 1,
@@ -5332,7 +5461,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "dx dy  = x x x x x x x dx dy x2 = 2y (x2 – 1) dx dy = 4y2"
+     }
     },
     {
      "qno": 15,
@@ -5403,7 +5535,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Second Order Derivative"
+     "topic": "Second Order Derivative",
+     "answer": {
+      "text": "y ax b y ax b ⇒\nDifferentiate with respect to ‘x’, dy 2y a dx =\nDifferentiate with respect to ‘x’, d y dy 2y dx dx d y dy y dx dx ⇒"
+     }
     },
     {
      "qno": 25,
@@ -5421,7 +5556,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) ( )\nf x is differentiable in ( 0,2 ⇒( )\nf x is continuous on ( f x ⇒\nis continuous at x = ∴ x x lim ax b lim 2x x − → → − a b ⇒ Also, ( )\nf x is differentiable at x L.H.D. x R.H.D. x ∴ a a 3&b a ⇒ −∴ − = −\n(Question nos. 26 to 31 are short Answer type questions carrying 3 marks each)"
+     }
     },
     {
      "qno": 15,
@@ -5484,7 +5622,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Logarithmic Differentiation"
+     "topic": "Logarithmic Differentiation",
+     "answer": {
+      "text": "y = x1/x ⇒log y = 𝑥log x ⇒ 𝑦 dy dx = – 𝑙𝑜𝑔 𝑥 𝑥2  + 𝑥2  ⇒ 𝑑𝑦 𝑑𝑥 = 𝑥 𝑥\n(1 – log x) 𝑥2 ⇒( 𝑑𝑦 𝑑𝑥)𝑥=1= 1"
+     }
     },
     {
      "qno": 25,
@@ -5502,7 +5643,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Derivatives of Functions in Parametric Forms",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Q25(b) Ans (b) 𝑑𝑥\n𝑑𝑡 = 2a cos 2t 𝑑𝑦\n𝑑𝑡 = 2a(–  sin 2t + sec2 t\n2 tan t) = 2a 𝑐𝑜𝑠2  2t sin 2t 𝑑𝑦\n𝑑𝑥 = cot 2t"
+     }
     },
     {
      "qno": 6,
@@ -5573,7 +5717,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "(x2 + y2)2 = xy gives\n2(x2 + y2) [𝟐𝒙  +  𝟐𝒚 𝒅𝒚 𝒅𝒙] =  𝒙 𝒅𝒚 𝒅𝒙+ 𝒚\n⇒ [4y(x2 + y2) – x] 𝒅𝒚\n𝒅𝒙 = y – 4x(x2 + y2) ⇒ 𝒅𝒚 𝒅𝒙=\n𝒚 – 𝟒𝒙(𝒙𝟐+ 𝒚𝟐)\n𝟒𝒚(𝒙𝟐+ 𝒚𝟐) – 𝒙."
+     }
     },
     {
      "qno": 36,
@@ -5590,7 +5737,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "R.H.D. of f(x) at x = 1 = lim ℎ→0\n𝑓(1 + ℎ) – 𝑓(1) ℎ =lim 𝒉→𝟎\n|1 + ℎ – 3 | – |– 2| ℎ = lim 𝒉→𝟎\n2 – ℎ – 2 ℎ\n(ii) L.H.D. of f(x) at x = 1 = lim 𝒉→𝟎\n𝒇(𝟏 – 𝐡) – 𝒇(𝟏) – 𝐡 = lim 𝒉→𝟎 [(𝟏 – 𝒉)𝟐\n– 𝟑(𝟏 – 𝒉) 𝟒– 𝟐] −ℎ = lim 𝒉→𝟎[\n𝒉𝟐 – 𝟐𝒉 + 𝟏 – 𝟔 + 𝟔𝒉 + 𝟏𝟑 – 𝟖 – 4h ] = lim 𝒉→𝟎[ 𝒉𝟐 + 𝟒𝒉\n– 4h ] = – 1. P.T.O. (iii)\n(a) Since L.H.D. of f(x) at x = 1\nis same as R.H.D. of f(x) at x = 1,\nf(x) is differentiable at x = 1."
+     }
     },
     {
      "qno": 6,
@@ -5688,7 +5838,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "Here RHD   = 𝑙𝑖𝑚 ℎ → 0\n𝑓(1 + h) – f(1) ℎ LHD =  𝑙𝑖𝑚\nℎ → 0 [\n𝑓(1 – h) – f(1) – h ]= 1 Since RHD ≠LHD\n∴ f is not differentiable at x = 1. 22(b). Sol. 𝑙𝑖𝑚\n𝑥 → 0 f(x) = x lim → 𝑠𝑖𝑛2  𝜆𝑥 𝑥2 x lim → [ 𝑠𝑖𝑛2  𝜆𝑥\n(𝜆𝑥)2  . 𝜆2] = λ2\nSince f(x) is continuous at x = 0 𝑙𝑖𝑚\n𝑥 → 0 f(x) = f(0)\n⇒ λ2 = 1 ⇒ λ = ± 1"
+     }
     },
     {
      "qno": 22,
@@ -5723,7 +5876,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "Let x = sin θ. Then U = sec–1 θ sin = sec–1 θ cos\n= sec–1 (sec θ) = θ = 𝑠𝑖𝑛−1𝑥 ⇒ 𝑑𝑈 𝑑𝑥= √1−𝑥2\nand V = sin–1 {2 sin θ θ sin }\n= sin–1 [2 sin θ cos θ] = 2θ = 2 𝑠𝑖𝑛−1𝑥 ⇒ 𝑑𝑉 𝑑𝑥= √1−𝑥2 ⇒ 𝑑𝑈 𝑑𝑉= 𝑑𝑈/𝑑𝑥 𝑑𝑉/𝑑𝑥=\nNote: If the substitution is made as 𝒙= 𝒄𝒐𝒔 𝜽, answer will be − 27(b). Sol.\ny = tan x + sec x = x cos x sin ⇒ dx dy  =\n𝑐𝑜𝑠 x (cos x) + (sin x + 1) sin x 𝑐𝑜𝑠2  x x cos x sin x sin x cos x sin x sin x\nsin ⇒ dx y d x) sin x) cos x) sin x) sin x cos"
+     }
     },
     {
      "qno": 27,
@@ -5812,7 +5968,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "f(x) = { 𝒙𝟑 ,𝒙 ≥𝟎 −𝒙𝟑 , 𝒙≤𝟎 RHD = 𝐥𝐢𝐦 𝒉→𝟎 𝒇(𝟎+𝒉)−𝒇(𝟎) 𝒉 = 𝐥𝐢𝐦 𝒉→𝟎𝒉𝟐 = 0 LHD = 𝐥𝐢𝐦\n𝒉→𝟎 𝒇(𝟎−𝒉)−𝒇(𝟎) −𝒉 = 𝐥𝐢𝐦 𝒉→𝟎(−𝒉𝟐) = 0 ∵𝑹𝑯𝑫= 𝑳𝑯𝑫= 𝟎,\n𝑺𝒐 𝒇(𝒙) 𝒊𝒔 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕𝒊𝒂𝒃𝒍𝒆 𝒂𝒕 𝒙= 𝟎"
+     }
     },
     {
      "qno": 21,
@@ -5847,7 +6006,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "√𝟏− 𝒙𝟐 + √𝟏− 𝒚𝟐= 𝒂(𝒙−𝒚)\nPut x = sin 𝜽 , y = sin 𝝓\n⇒ cos 𝜽 + cos 𝝓 = a (sin 𝜽 – sin 𝝓 )\n⇒ 2 cos ( 𝜽+ 𝝓 𝟐) cos ( 𝜽− 𝝓\n𝟐) = 2 a sin ( 𝜽− 𝝓 𝟐) cos ( 𝜽+ 𝝓 ⇒ cot ( 𝜽− 𝝓 𝟐)  = a\n⇒ 𝜽− 𝝓 = 2 𝐜𝐨𝐭−𝟏𝒂\n⇒ 𝐬𝐢𝐧−𝟏𝒙− 𝐬𝐢𝐧−𝟏𝒚= 𝟐𝐜𝐨𝐭−𝟏𝒂 ⇒ √𝟏− 𝒙𝟐− √𝟏− 𝒚𝟐 𝒅𝒚 𝒅𝒙 = 0 ⇒ 𝒅𝒚\n𝒅𝒙 = √𝟏− 𝒚𝟐 𝟏− 𝒙𝟐"
+     }
     },
     {
      "qno": 27,
@@ -5865,7 +6027,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "27(b). Sol. y = (𝐭𝐚𝐧𝒙)𝒙\nlog y = x log (tan x) 𝒚 𝒅𝒚\n𝒅𝒙 = x ( 𝒔𝒆𝒄𝟐𝒙 𝐭𝐚𝐧𝒙) + 𝐥𝐨𝐠(𝐭𝐚𝐧𝒙) 𝒅𝒚 𝒅𝒙=  (𝐭𝐚𝐧𝒙)𝒙[( 𝒙 𝒔𝒆𝒄𝟐𝒙 𝐭𝐚𝐧𝒙) + 𝐥𝐨𝐠(𝐭𝐚𝐧𝒙)]"
+     }
     },
     {
      "qno": 4,
@@ -6052,7 +6217,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Logarithmic Differentiation"
+     "topic": "Logarithmic Differentiation",
+     "answer": {
+      "text": "sec tan cos cot tan tan 1 cot cot ec − − − − Ans"
+     }
     },
     {
      "qno": 22,
@@ -6168,7 +6336,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "cos (sec 2 )\n3cos (sec 2 )[ sin\n3cos (sec 2 ).sin\n12cos (sec 2 ) s y t dy t dt dy t dt dy t dt ⇒ − ⇒ =− ∴ =−"
+     }
     },
     {
      "qno": 22,
@@ -6186,7 +6357,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Logarithmic Differentiation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "22(b). Sol. log( log ,Differentiating both (log (log y x y y As x e x y x x y y\nNow x x dy x dx x − ⇒ ⇒ − ⇒ −"
+     }
     },
     {
      "qno": 26,
@@ -6203,7 +6377,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "sin Given that (sin ) . x x y x x Sol. sin sin sin As, (sin ) . where (sin ) .\non differentiating both side (sin ) . [log(s x x x x x x x y x x a u x x du x x\ndx ⇒ ⇒ sin Thus, (sin ) . [log x x dy x x dx =\n10  is strictly decreasing on ("
+     }
     },
     {
      "qno": 7,
@@ -6274,7 +6451,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "text": "x x limf x limx.sin\n0 Finite value in\n1,1  = 0 = f 0 x → → −\n∴f is a continuous function."
+     }
     },
     {
      "qno": 22,
@@ -6292,7 +6472,10 @@
      "bloom": "Analyse",
      "difficulty": "Easy",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) x x x x LHD lim lim x x − − → → − − − − = − − − x x x x RHD lim lim x x → →\n− − − − − LHD RHD, f ≠\n∴ is not differentiable at x"
+     }
     },
     {
      "qno": 26,
@@ -6309,7 +6492,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "Taking ‘log’ on both sides of ( y x cosx cosy , we get ylogcosx xlogcosy PTO ⇒\ndy dy logcosx y tanx logcosy x tany dx dx − − ⇒dy logcosy ytanx dx logcosx xtany"
+     }
     },
     {
      "qno": 26,
@@ -6327,7 +6513,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Let x sinA,y sinB A sin x, B sin y − − ∴ x y a x y − − − ⇒ cosA cosB a sinA\nsinB − ⇒ A B A B A B A B 2cos cos 2acos sin − − ⇒ A B cot a − ⇒ A B 2cot a − −\nsin x sin y 2cot a − − − ∴ − , differentiating with respect to ‘x’. dy dx x y −\n− − ⇒ dy y dx x − −"
+     }
     },
     {
      "qno": 27,
@@ -6344,7 +6533,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Second Order Derivative"
+     "topic": "Second Order Derivative",
+     "answer": {
+      "text": "dx dy 3asin cos , 3bcos sin d d θ θ = − θ θ θ θ ⇒ dy 3bcos sin b cot dx a 3asin\ncos − θ θ = − θ θ θ ⇒ d y b d b b cosec cosec sec  cosec a dx a dx 3asin cos 3a\nθ θ θ⋅ θ θ θ θ ⇒ d y 4 2b dx 3a π θ="
+     }
     },
     {
      "qno": 5,
@@ -7627,7 +7819,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "x) cos x sin x cos x] cos 16[4 x f x) cos x) cos x cos in ( 2\nπ, π), cos x < 0 ⇒ f   (x) < 0\n∴ f(x) in strictly decreasing in ( 2 π, π)\n(Question nos. 26 to 31 are short Answer type questions carrying 3 marks each)"
+     }
     },
     {
      "qno": 37,
@@ -7644,7 +7839,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "((i) v = 3\n1 πr2h = 3\n1 π r3                       [ as θ = 45° gives r = h] (ii) 𝑑𝑣 𝑑𝑡 = πr2𝑑𝑟 𝑑𝑡 ⇒\nr dt dr 4𝜋 cm/sec\n(iii)(a) C = πrl = πr 2 r = 2 πr2 𝑑𝐶 𝑑𝑡 = 2 π 2r 𝑑𝑟 𝑑𝑡 𝑑𝐶 𝑑𝑡) 𝑟 = 2√2\n= – 2 cm2/sec"
+     }
     },
     {
      "qno": 38,
@@ -7661,7 +7859,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "– 1 = a(– 27)    ⇒ a = 27 (ii)f(x) = 27\n1  (x + 9)(x + 1)(x – 3)\n1  (x3 + 7x2 – 21x – 27)\nf (x) = 27\n1  (3x2 + 14x – 21) f (x) = 6𝑥 + 14 f (1) ="
+     }
     },
     {
      "qno": 22,
@@ -7678,7 +7879,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Differentiating equation 3y ax\nwith respect to ‘x’, dy 3ax dx = Taking x = , dy dx = 3a 1 a ⇒"
+     }
     },
     {
      "qno": 36,
@@ -7695,7 +7899,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "r r 2 rh h 2r − π + π π⇒ V r h 75r r π ∴ = π − (ii) dV 3r dr π − (iii) r 5 dV d V\nr 6r dr dr π ⇒ − <\n∴volume is maximum when r"
+     }
     },
     {
      "qno": 38,
@@ -7712,7 +7919,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "For the year 2000, t 0& V 0\n= −and the number of vehicles cannot be negative\n∴the given function V(t) cannot be used. (ii) V t t 5t t − − >\n, ∴V(t) is an increasing function."
+     }
     },
     {
      "qno": 23,
@@ -7729,7 +7939,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "f  (x) = a(sec2 x + cosec2 x)\nAs a > 0  and sec2 x , cosec2 x are squares,  f  (x) > 0\n∴ f(x) is an increasing function in its domain."
+     }
     },
     {
      "qno": 37,
@@ -7746,7 +7959,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "(i) C = 40000h2 + 5000x2\nas x2h = 250 ⇒ C = 𝑥4 +  5000x2 Ans(ii) (ii) dC dx = x5 +  10000x Ans(iii)\n(iii)(a) For minimum cost 𝑑𝐶 𝑑𝑥 = 0\n⇒ 10000x6 = 250 ×250 × 160000\n⇒ x = 10 showing 𝑑2𝐶\n𝑑𝑥2 > 0 at x = 10\n∴ cost is minimum when x = 10"
+     }
     },
     {
      "qno": 38,
@@ -7763,7 +7979,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "(i)h(t) = – 2 𝑡2  +\n2 𝑡 +  1\nClearly h(t) is a polynomial function, hence continuous.\nHence h(t) is a continuous function. Ans(ii)\n(ii)For maximum height , 𝑑ℎ\n𝑑𝑡 = 0 ⇒ – 7t + ⇒ t = 𝑑2ℎ\n𝑑𝑡2 = – 7 < 0   ∴ height is maximum at t ="
+     }
     },
     {
      "qno": 23,
@@ -7780,7 +7999,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "We know that  – 1 ≤ sin 2x ≤ 1\n⇒ 4 ≤ sin 2x + 5 ≤ 1 + 5\n⇒ 4 ≤ sin 2x + 5 ≤ 6\nSo, maximum value is 6 and minimum value is 4"
+     }
     },
     {
      "qno": 38,
@@ -7797,7 +8019,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "(a) 2x + y = 200\n(b) A(x) = xy=x(200-x) x y Brick Wall x y P.T.O.\n(ii) From (a) and (b) of (i) we have\nA(x) = x (200 – 2x)\n= 200x – 2x2\nFrom max./min of A(x) 𝑑𝐴\n𝑑𝑥 = 0            i.e., 200 – 4x = 0\n⇒ x = 50. 𝑑2𝐴 𝑑𝑥2= -4 𝑑2𝐴 𝑑𝑥2) 𝑥=50 < 0\nHence, A(x) is maximum at x = 50\nThus, Max A(x) = 200(50) – 2(50)2 = 5000 sqm."
+     }
     },
     {
      "qno": 9,
@@ -7841,7 +8066,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "In an equilateral triangle, median is same as altitude. Let ‘h’ denote\nthe length of the median (or altitude) and ‘x’ be the side of Δ ABC.\nThen, h = 2\n3 x   or   x = h ________ (i)\nIt is given that dt dh  =\nSo, by (i) we have 𝑑𝑥 𝑑𝑡 = √3 𝑑ℎ 𝑑𝑡 ⇒ 𝑑𝑥 𝑑𝑡 = 4\nThus, the side of Δ ABC is increasing at the rate of 4 cm/sec. 32(b). Sol.\nLet the two numbers be x and y. Then, x + y = 5 or y = 5 – x\nLet S denote the sum of the cubes of these numbers. Then\n𝑆= 𝑥3 + 𝑦3 = 𝑥3 + (5 −𝑥)3 𝑑𝑆\n𝑑𝑥= 3𝑥2 −3(5 −𝑥)2 = 15(2𝑥−5) Now dx\ndS  = 0, gives 𝑥=\nShowing S is minimum at 𝑥=\nSo, the two numbers are 2 and\n⇒ 𝒙𝟐 +  𝒚𝟐 =  𝟐𝟓"
+     }
     },
     {
      "qno": 32,
@@ -7903,7 +8131,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "f ′ (x) = 12𝒙𝟐−𝟑𝟔𝒙+ 𝟐𝟕\n= 3 (2 x -3)2 ≥ 0 for all 𝒙 ∈𝑹\n∴ f is increasing on R .\nHence f(x) does not have maxima or minima. P.T.O."
+     }
     },
     {
      "qno": 36,
@@ -7920,7 +8151,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "tan 𝜽=\n𝒙 ⇒ 𝜽= 𝐭𝐚𝐧−𝟏( 𝒙) (ii) 𝒅𝜽 𝒅𝒙= −𝟓 𝟓𝟐+ 𝒙𝟐 P.T.O. (iii) (𝒂) 𝒅𝜽 𝒅𝒕 = 𝒅𝜽 𝒅𝒙 × 𝒅𝒙 𝒅𝒕=\n−𝟓\n𝟓𝟐+ 𝒙𝟐 × 𝟐𝟎] 𝒙=𝟓𝟎 −𝟏𝟎𝟎 𝟐𝟓𝟐𝟓 or −𝟒 𝟏𝟎𝟏 𝒓𝒂𝒅/𝒔"
+     }
     },
     {
      "qno": 5,
@@ -7964,7 +8198,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "𝑓′(𝑥) = 1 −1\n𝑥2 = 𝑥2 −1 𝑥2 = (𝑥+ 1)(𝑥−1) 𝑥2\n𝑓′(𝑥) = 0 ⟹𝑥= −1,  1 𝑓′′(𝑥) =\n𝑥3 ⟹𝑓′′(−1) = −2 < 0\n⸫ -1 is a point of local maximum\nThe local maximum value = 𝑓(−1) = −2 = 𝑀\n𝑓′′(1) = 2 > 0\n⸫ 1 is point of local minimum\nThe local minimum value = 𝑓(1) = 2 = 𝑚 𝑀−𝑚= −4"
+     }
     },
     {
      "qno": 25,
@@ -7981,7 +8218,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "𝑓′(𝑥) = 𝑒𝑥+ 𝑒−𝑥+ 1 − 1 + 𝑥2 =𝑒𝑥+ 𝑒𝑥+ 𝑥2\n1+𝑥2 > 0 𝑓𝑜𝑟 𝑎𝑙𝑙 𝑥∈𝑅\n⸫ f is strictly increasing over its domain R"
+     }
     },
     {
      "qno": 36,
@@ -7998,7 +8238,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "When V = 40 km/h, F = 36/5 ℓ/100km (ii) 𝑑𝐹 𝑑𝑉= 𝑉 250 −1 (iii)(a) 𝑑𝐹 𝑑𝑉= 0\n⟹V = 62.5 km/h 𝑑2𝐹 𝑑𝑉2 =\n250 > 0 at V = 62.5 km/h\nHence, F is minimum when V = 62.5 km/h"
+     }
     },
     {
      "qno": 5,
@@ -8038,7 +8281,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "cos cos sin cos sin cos .tan cos cos .sec cos .sec cos cos x p y p p y p p y x\nx p p y p y dx p p y dy dy dx p p y dy p p y dx − ⇒ ⇒=− ⇒ =− − ⇒ ⇒ =− ; ; ; ; ;\n; lim , lim and as iscontinousat x x x a x x a x f x a b x f x a b x x b x b x\nx f x a f x b f a b f x a b a b a b − → → − < − − −+ < ⇒ − > > − =−+ ∴−+ ⇒ = −\nlog 1 log ;\nforstrictlyincreasing/decreasing,put for strictlyincreasing,\nand forstrictly decreasing x x f x f x x x x f x x e x e x e − ⇒ > = ⇒ ∈ ∈ ∞ Q27(b)\nAns"
+     }
     },
     {
      "qno": 27,
@@ -8073,7 +8319,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Let isappointedas isappointedas isappointedas\n:companyincreaseprofitsfromprevious year here,P ,P ,P | | | | | | | | E P CEO E\nQ CEO E R CEO A E E E P A E P A E P A E P E P A E P E A P E P A E P E P A E P E\nP A E For reflexive:clearly\ni.e.2 isintegerdivisibleby2. isreflexive. Forsymmetric: isintegerdivisibleby2.\nisintegerdivisibleby2 For transitive: isintegerdivisibleby2. and x x x x x R R\nx y R x y y x y x R x y R x y y z R ⇒ ∈⇒ ∈⇒+ ⇒ ⇒ ∈ ∈⇒+ ∈⇒ isintegerdivisibleby2.\nso,\n2 isintegerdivisibleby2. isintegerdivisibleby2 Equivalenceclass 2 y z x z y x z\nx z R ⇒+ ⇒ ∈ = − − Ans"
+     }
     },
     {
      "qno": 33,
@@ -8131,7 +8380,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "text": "cos sin (cos sin n tan x x x x x x π π − − − − sin ( π π π π − − − − (sec 2 ) n(sec 2 )]\nn(sec 2 ) 2sec2 .sec2 tan 2 .2\nsin(sec 2 ) sec 2 tan 2 . d t t dt t t t t t t t log( 1 log the sides wrt log (1 log )\nx y e x x x x x −\n7 | P a g e Sol. 0 for '( ) 0 for Thus, ( ) '( ) Thu s, f x f x x x f x x x x x\nx x x x f x x x ⇒ < < ⇒ < − < − − −"
+     }
     },
     {
      "qno": 24,
@@ -8148,7 +8400,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Given,\n6 cm / sec. Sin\nNow, Surface Area = S = 6 dV dt dV dx dx x x dt dt dt x ⇒ ⇒"
+     }
     },
     {
      "qno": 36,
@@ -8165,7 +8420,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "A store has been selling calc\nthat a reduction in price ( )\nThe relation between the pri p x p = −\nBased on the above inform\n(i) Determine the number\nthe revenue  ( ) (ii) What rebat R x xp\ne in price o the revenue? Sol.\n(i) Revenue by selling  it\nFor Maxima or Minim (Revenue is maximum x dR x dx d R dx − =−< ( ) At\nSo, Rebate = 350 ii x p − − ∃ ∃\n, 4,2 ,d.r.'s of L\nndicular to both L & L  is given by required line is i j k i − > =<− −> − − − ∃\n∃ ∃ ∃ j k −\ncase-study based questions of 4 marks each.\nculators at Rs. 350 each. A market survey indica\nof calculator increases the number of units ( ) ice and q x\nuantity sold is given by demand functio\nmation, answer the following questions:\nof units ( ) that should be sold to maximise\n( ). Also verify the result. x x\nf calculator should the store give to maximis\ntems = ( ) ma,\nwhen  = 450 units are sold) x R x x p x x dR x dx x − ⇒ Rs.125 per calculator −\n17 | P a g e tes sold. on se"
+     }
     },
     {
      "qno": 9,
@@ -8236,7 +8494,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "text": "Let C 2 r\n= π, be the circumference of the circle, d r dr cm / sec dt dt r π ⇒ = π dC dr\ndt dt r = π cm/sec at r 5cm PTO"
+     }
     },
     {
      "qno": 37,
@@ -8256,7 +8517,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maxima and Minima"
+     "topic": "Maxima and Minima",
+     "answer": {
+      "text": "Let\nA x be the area of the visiting card then, As xy A x x y 2x 3y xy 2x x (ii) A x\nx − and A x x solving A x x ⇒\nis the critical point. A >\n, ∴Area of the card is minimum at x 6,y\nThe dimension of the card with minimum area is Length 9 cm , Breadth 6 cm"
+     }
     },
     {
      "qno": 8,
@@ -9199,7 +9463,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let I = ∫ π2\n[log sin x – log (2cos x)]dx = ∫ π2 log x tan dx Using property ∫ a\nf(x) dx = ∫ a f(a – x)dx\nWe get, I = ∫ π2 log x ot c dx\n∴ 2I = ∫ π2 log x cot x tan dx = ∫ π2 log dx 2I = log x 𝜋/2 log π I = 𝜋 4 𝑙𝑜𝑔 4 OR −\n𝜋 2 𝑙𝑜𝑔 2"
+     }
     },
     {
      "qno": 27,
@@ -9216,7 +9483,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "Let I = ∫ x x x dx Let x  = t, x dx = dt\n∴ I = ∫ (t t( dt = ∫ t t dt\n= 2[log   t + 1  – log   t + 2 ] + C = 2[log (\nx  + 1) – log (\nx  + 2)] + C or 2 log x x + C"
+     }
     },
     {
      "qno": 31,
@@ -9233,7 +9503,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let I = ∫ex sin x dx\n= ex sin x – ∫cos x ex dx\n= ex sin x – cos x ex – I\n∴ I = 2\n1 ex (sin x – cos x) ∴ ∫ π2\nex sin x dx = 2 eπ/2 + 2 or\n2 (eπ/2 + 1)"
+     }
     },
     {
      "qno": 31,
@@ -9251,7 +9524,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)Let I = ∫ b) cos(x – a) (x – cos dx\n𝑠𝑖𝑛(a – b) ∫\n𝑠𝑖𝑛[(𝑥 – b) – (x – a)]\n𝑐𝑜𝑠(𝑥 – a) cos(x –b) dx b) (a sin ∫ b) cos(x – a) x cos( a) sin(x – b) cos(x –\nb) cos(x – a) x cos( a) cos(x – b) (x – sin dx b) (a sin ∫ a)]dx tan(x – b) x [tan(\nb) (a sin\n[log   sec(x – b)  – log   sec(x – a) ] + C\n(Question nos. 32 to 35 are Long Answer type questions carrying 5 marks each)"
+     }
     },
     {
      "qno": 5,
@@ -9322,7 +9598,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "Let I log 1 tanx dx π ∫ ---------- (i) I log 1 tan x dx log dx tanx π π π ⇒ − ∫\n∫ ---------- (ii)\nAdd (i) and (ii), 2I log2 dx log2 x log2 π π π ⋅ ∫ I log 2 π ⇒"
+     }
     },
     {
      "qno": 26,
@@ -9340,7 +9619,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Methods of Integration",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Let cosec x I dx dx sin cos cot x sin xcos x α+ α −α ∫ ∫ Put sin cos cot x\nt cosec xdx dt cos α+ α ⇒ = − α 2 t I dt c cos cos t ∴= − = − α α ∫ I sin cos cot x\nc cos ⇒ = − α+ α α"
+     }
     },
     {
      "qno": 27,
@@ -9357,7 +9639,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "Put cot x t x cott − = ∴= and dx dt x = − cot x t t x x e dx e cott cot t dt e\ncott cosec t dt x − − ∴ = − − − ∫ ∫ ∫ te cott c cot x xe c −"
+     }
     },
     {
      "qno": 28,
@@ -9374,7 +9659,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let log 3 log 3 2x x x x x 2x log 2 log 2 e I dx dx e e e e e − − − − ∫ ∫ Put 2x\n2x e t e dx dt = ⇒\n, Upper limit = 3, Lower Limit = 2 t I dt log t t − ∴= − ∫ I log log log ⇒ −"
+     }
     },
     {
      "qno": 6,
@@ -9437,7 +9725,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let I = ∫ √4 – x\n√𝑥 + √4 – x dx I = ∫ √4−(4−𝑥)\n√4 – x + √4−(4−𝑥) dx 2I = ∫\n√4 – x + √𝑥\n√4 – x + √𝑥 dx = ∫1 dx 2I = 𝑥|1\n⇒ I = 1"
+     }
     },
     {
      "qno": 28,
@@ -9454,7 +9745,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let I = ∫\n√4𝑥2 – (x log x)2 𝑒 dx = ∫\n𝑥√4 – (log x)2 𝑒\ndx         [ Let log x = t  ⇒ 𝑥dx = dt] = ∫ 𝑑𝑡 √4 – t2 t sin 𝜋"
+     }
     },
     {
      "qno": 29,
@@ -9471,7 +9765,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "I = ∫ cos x\n3 sin x – 4 sin3 x dx\nLet sin x = t ⇒ cos x dx = dt I = ∫ dt 3t – 4t3 = ∫ t3( 3 t2 – 4)dt Let\nt2 – 4 = z  ⇒ –\nt3 dt =  dz I = – 6 ∫ dz z\n6log   z  + C\n6log   3 cosec2 x – 4  + C"
+     }
     },
     {
      "qno": 29,
@@ -9489,7 +9786,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integration by Parts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Q29(b) Ans\n(b)Let I = ∫x2 log (x2 + 1)dx\n= log (x2 + 1) . 𝑥3 3 – ∫ 2𝑥\n𝑥2 + 1 . 𝑥3 3 dx 𝑥3\n3 log (x2 + 1) – 3 2 ∫ 𝑥4 𝑥2 + 1dx 𝑥3\n3 log (x2 + 1) –\n2 ∫(𝑥2 – 1 + 𝑥2 + 1)dx 𝑥3\n3 log (x2 + 1) – 2 [ 𝑥3\n3  – x +  tan–1 x] + C"
+     }
     },
     {
      "qno": 8,
@@ -9560,7 +9860,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "Let I=∫\n𝑥2 + 𝑥 + 1\n(𝑥 + 1)2 (𝑥 + 2)  𝒅𝒙 Here\n𝑥2 + 𝑥 + 1\n(𝑥 + 1)2 (𝑥 + 2) = 𝐴\n(𝑥 + 1) + 𝐵\n(𝑥 + 1)2 + 𝐶 𝑥 + 2\n⇒ x2 + x + 1 = A(x + 1) (x + 2) + B(x + 2) + C(x + 1)2\nOn comparing, we get\nA = – 2, B = 1 and C = 3.\n∴ I = ∫ -2 dx 𝑥+1+ ∫ dx\n(𝑥 + 1)2 + 3 ∫ dx 𝑥 + 2\n= – 2 log |x + 1| –\n𝑥 + 1 + 3 log |x + 2| + C"
+     }
     },
     {
      "qno": 27,
@@ -9577,7 +9880,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "I = ∫ 𝒆𝟐𝒙 𝝅/𝟐 𝝅/𝟒\n1 – sin 2x\n𝟏 – 𝒄𝒐𝒔 2x)  dx\nPut 2x = t so that 2 dx = dt P.T.O.\nWhen  x = 𝜋\n2 ,   t = 𝜋   ;  𝑥= 𝜋\n4   , t = 𝜋 Thus I = ∫ 𝑒𝑡 (\n1 – sin t\n1 – 𝑐𝑜𝑠 𝑡) 𝜋 𝜋/2 dt = ∫ 𝑒𝑡 𝜋 𝜋/2\n1– 2 sin t/2 cos t/2 2  𝑠𝑖𝑛2 𝑡/2 dt 2 ∫𝑒𝑡( 2 𝑐𝑜𝑠𝑒𝑐2 𝑡 2 −𝑐𝑜𝑡 𝑡 𝜋 𝜋 𝑑𝑡\n1 | 𝑒𝑡 𝑐𝑜𝑡 𝑡 2 | 𝜋/2 𝜋 2 𝑒𝜋/2."
+     }
     },
     {
      "qno": 27,
@@ -9595,7 +9901,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) I = ∫ 𝑥2 1 + 5𝑥 dx   -----------(1)\nReplacing x by -2+2-x = ∫\n(– 2 + 2 – 𝑥)2\n1 + 5(– 2+2–𝑥) dx I= ∫ 𝑥25𝑥 1 + 5𝑥 dx -------------(2)\nAdding (1) and (2) 2I = ∫ 𝑥2(1 + 5𝑥) 1 + 5𝑥 dx = ∫𝑥2 𝑑𝑥  = | 𝑥3 3 | 2 ⇒ I = 6 or\nP.T.O."
+     }
     },
     {
      "qno": 28,
@@ -9612,7 +9921,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "Let ex = t, so that ex dx = dt. Then, I = t – t dt ∫ =∫ 𝑑𝑡 √32−(𝑡+2)2 = sin–1 (\n𝑡+ 2\n3 ) + C = sin–1 ( 𝑒𝑥 + 2 ) + C"
+     }
     },
     {
      "qno": 28,
@@ -9630,7 +9942,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) I = ∫ √𝑠𝑖𝑛 𝑥 𝜋/2\n. (1 – 𝑠𝑖𝑛2   𝑥)2 cos 𝑥 𝑑𝑥\nPut sin x = 𝑡2\n= ∫√𝑡 (1 – 𝑡2)2 dt =∫(√𝑡 + 𝑡 2 −2𝑡 2) 𝑑𝑡 2𝑡3/2 2𝑡11/2 4𝑡7/2 7 ] 1"
+     }
     },
     {
      "qno": 10,
@@ -9730,7 +10045,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "Let I = ∫\n1 + esin x 2𝜋 𝑑𝑥= ∫\n1 + esin (2𝜋 – x) 2𝜋 𝑑𝑥 =   ∫\n1 + e– sin x 2𝜋 dx = ∫ 𝑒𝑠𝑖𝑛𝑥\n𝑒sin x + 1 2𝜋 dx\n⇒ 2I = ∫ π x sin x sin e e dx = ∫ π\n1 . dx = 2π\n⇒   I = π 28(b). Sol. I = ∫ 1)(x x x dx = ∫ 1)(x (x – x dx x2\n+ x + ∫ (x (x x dx\n(Using partial fractions) x2 + x +\n1  log   x – 1  –\n1  log   x2 + 1  –\n1  tan–1 x + C"
+     }
     },
     {
      "qno": 28,
@@ -9765,7 +10083,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let I = ∫ π2\nsin 2x tan–1 (sin x) dx. = ∫ π2\n2 sin x cos x tan–1 (sin x) dx\nPut sin x = t so that cos x dx = dt\nThus, I = 2∫\nt tan–1 t dt = 2[| 𝑡2 2  tan–1 t| – ∫\n1 + t2  . 𝑡2 2  dt ] 𝜋 4 – ∫ t t dt 𝜋\n4  – ∫[1 – 1 + 𝑡2] dt 𝜋\n4  – | t |0\n1  + |tan–1 t|0 𝜋 𝜋 𝜋 2 −1"
+     }
     },
     {
      "qno": 6,
@@ -9809,7 +10130,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "23(b). Sol. ∫ 𝒔𝒊𝒏√𝒙 √𝒙 𝝅𝟐\n𝒅𝒙                          Put √𝒙= 𝒕  ⇒ 𝒅𝒙= 𝟐𝒕 𝒅𝒕\n2 ∫𝐬𝐢𝐧𝒕 𝒅𝒕= 𝟐 𝝅 [−𝐜𝐨𝐬𝒕]𝟎 𝝅"
+     }
     },
     {
      "qno": 23,
@@ -9844,7 +10168,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "(a). P.T.O. Sol.\nLet I = ∫ 𝒙𝟐 (𝒙𝟐+𝟒)(𝒙𝟐+𝟗)𝒅𝒙 Put 𝒙𝟐= 𝒕 𝒕 (𝒕+𝟒)(𝒕+𝟗) = 𝑨 𝒕+ 𝟒+ 𝑩\n𝒕+𝟗  ⇒ A = −𝟒\n𝟓 ,  B = I  = −𝟒 𝟓∫ 𝟐𝟐+ 𝒙𝟐 𝒅𝒙+ 𝟓∫ 𝟑𝟐+ 𝒙𝟐 𝒅𝒙 −𝟐 𝟓𝐭𝐚𝐧−𝟏( 𝒙 𝟓 𝐭𝐚𝐧−𝟏( 𝒙 𝟑) + 𝑪"
+     }
     },
     {
      "qno": 28,
@@ -9879,7 +10206,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Let I = ∫ 𝒔𝒊𝒏 𝒙+𝒄𝒐𝒔 𝒙 𝟗+𝟏𝟔 𝒔𝒊𝒏 𝟐𝒙𝒅𝒙 𝝅 P.T.O.\nPut sin x – cos x = t,  so that (cos x + sin x) dx = dt\n𝒔𝒊𝒏𝟐𝒙+ 𝒄𝒐𝒔𝟐𝒙−𝒔𝒊𝒏𝟐𝒙= 𝒕𝟐 ⇒𝒔𝒊𝒏𝟐𝒙= 𝟏− 𝒕𝟐 𝑰= ∫ 𝒅𝒕 𝟐𝟓−𝟏𝟔𝒕𝟐 −𝟏 𝟏𝟔∫ 𝒅𝒕 𝟒)𝟐− 𝒕𝟐 −𝟏 𝟒𝟎[𝒍𝒐𝒈|\n𝟓+𝟒𝒕 𝟓−𝟒𝒕|] −𝟏 𝟒𝟎 [𝐥𝐨𝐠𝟏−𝐥𝐨𝐠( 𝟗)] = 𝟒𝟎𝐥𝐨𝐠𝟗 𝒐𝒓 𝟐𝟎𝐥𝐨𝐠𝟑"
+     }
     },
     {
      "qno": 33,
@@ -9897,7 +10227,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "33(b). Sol.\n𝑳𝒆𝒕 𝑰= ∫𝐬𝐢𝐧𝟐𝒙 𝐭𝐚𝐧−𝟏(𝒔𝒊𝒏 𝒙) 𝒅𝒙 𝝅\nPut sin x = t so that cos x dx = dt\nI = 2 ∫𝒕 𝐭𝐚𝐧−𝟏𝒕 𝒅𝒕\n= 2 [𝐭𝐚𝐧−𝟏𝒕 ( 𝒕𝟐 𝟐) − 𝟐∫ 𝒕𝟐 𝟏+ 𝒕𝟐𝒅𝒕] = 2 [( 𝒕𝟐 𝟐) 𝐭𝐚𝐧−𝟏𝒕− 𝟐 𝒕+ 𝟐𝐭𝐚𝐧−𝟏𝒕] 𝝅 𝟒− 𝝅\n𝟐−𝟏"
+     }
     },
     {
      "qno": 6,
@@ -9941,7 +10274,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "Given integral =∫ 𝑒4𝑥−1 𝑒4𝑥+1 𝑑𝑥 =∫ 𝑒2𝑥−𝑒−2𝑥 𝑒2𝑥+𝑒−2𝑥𝑑𝑥 2 ∫ 2(𝑒2𝑥−𝑒−2𝑥) 𝑒2𝑥+𝑒−2𝑥𝑑𝑥\n2 𝑙𝑜𝑔|𝑒2𝑥+ 𝑒−2𝑥| + 𝐶"
+     }
     },
     {
      "qno": 27,
@@ -9958,7 +10294,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "∫ √ 2−𝑥 2+𝑥 −2 𝑑𝑥 = ∫ 2−𝑥 √4−𝑥2 𝑑𝑥 −2 = ∫ √4−𝑥2 𝑑𝑥 −2 −∫ 𝑥 √4−𝑥2 𝑑𝑥 −2 = 2∫ √4−𝑥2 𝑑𝑥−0\n[ √4−𝑥2is even, 𝑥 √4−𝑥2  is odd] = 4∫ √4−𝑥2 𝑑𝑥\n= 4 𝑠𝑖𝑛−1 𝑥 2| = 2𝜋"
+     }
     },
     {
      "qno": 27,
@@ -9976,7 +10315,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Integration",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Sol. Let  𝑙𝑜𝑔𝑥= 𝑡⟹ 𝑥𝑑𝑥= 𝑑𝑡\nThe given integral becomes = ∫ 𝑡2−3𝑡−4 𝑑𝑡 = ∫ (𝑡−3 −(5 2 𝑑𝑥 5 𝑙𝑜𝑔|𝑡−4\n𝑡+ 1| + 𝐶 5 𝑙𝑜𝑔|𝑙𝑜𝑔𝑥−4\n𝑙𝑜𝑔𝑥+ 1| + 𝐶"
+     }
     },
     {
      "qno": 31,
@@ -9993,7 +10335,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Parts"
+     "topic": "Integration by Parts",
+     "answer": {
+      "text": "Let 𝑥 2 = 𝑡 ⟹3 2 𝑥 2𝑑𝑥= 𝑑𝑡\nThe given integral becomes 3 ∫𝑡𝑠𝑖𝑛−1𝑡𝑑𝑡 3 [𝑠𝑖𝑛−1𝑡× 𝑡2 2 −∫ √1−𝑡2 × 𝑡2 2 𝑑𝑡]\n3 [𝑠𝑖𝑛−1𝑡× 𝑡2 + ∫ 1−𝑡2−1 √1−𝑡2 𝑑𝑡]\n3 [𝑠𝑖𝑛−1𝑡× 𝑡2 + ∫√1 −𝑡2 𝑑𝑡−∫ √1−𝑡2 𝑑𝑡] 3 [𝑡2𝑠𝑖𝑛−1𝑡+ 𝑡\n2 √1 −𝑡2 + 2 𝑠𝑖𝑛−1𝑡−𝑠𝑖𝑛−1𝑡]+C 3 [𝑡2𝑠𝑖𝑛−1𝑡+ 𝑡\n2 √1 −𝑡2 −\n2 𝑠𝑖𝑛−1𝑡] + 𝐶 3 [𝑥3𝑠𝑖𝑛−1 (𝑥 2) + 𝑥\n2 √1 −𝑥3 −1 2 𝑠𝑖𝑛−1 (𝑥 2)] + 𝐶"
+     }
     },
     {
      "qno": 6,
@@ -10033,7 +10378,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "Q23(b) log log log log log log x y x x x e x y y x x x dy x x dx x x ⇒ ⇒ − − ⇒\nLHDat lim lim RHDat lim lim asLHD RHD,so\nis not differentiable at h h h h x h f h f h h x h f h f h h f x x → → → → − −\n− − − − − − − =− ≠ sin 2 cos3 sin5 sin 1 cos5 cos I x xdx x x dx x x π π π − −\n=− ∫ ∫ Ans"
+     }
     },
     {
      "qno": 23,
@@ -10085,7 +10433,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "2 ;\nforabsolutemaximum / minimum,put Now, and absolutemaximum value\nandabsoluteminimum value I x f x x x f x x f x x x f f ∈ ⇒ − ⇒ ⇒ ∴ Let ,then Let\nthisgives tan tan x I dx x x x y x y y y x x y A B y y y y A B I dx dx x x x x\nI c − − =− ∴=− ⇒=− ∫ ∫ ∫ Ans"
+     }
     },
     {
      "qno": 29,
@@ -10143,7 +10494,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integrals of Some Particular Functions"
+     "topic": "Integrals of Some Particular Functions",
+     "answer": {
+      "text": "Find: dx x x − ∫ Sol. Put (1 log | (1 ) | dx dx I x x x x t dx x x dt I t x − −\n− =⇒ − ∫ ∫ ∫\nIn this section there are 6 s"
+     }
     },
     {
      "qno": 27,
@@ -10160,7 +10514,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "text": "(a). Evaluate: 1 cos2 s x x π ∫ Sol. cos 2 sin 2 applying we get 1 cos 2 sin\nadding Eq. (1) and (2), w c os sin cos a a x I dx x x On f x dx f x I x On I x\nx x π π π π π − ∫ ∫ ∫ ∫ ∫ (log |1 tan | log I x I π π π 27(b). Sol. Let ( ) '( )\nOn applying '( x x x x x x x f x f x x e f x f x I e c I x e ∫ ∫"
+     }
     },
     {
      "qno": 27,
@@ -10195,7 +10552,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integrals of Some Particular Functions"
+     "topic": "Integrals of Some Particular Functions",
+     "answer": {
+      "text": "Find: x dx x x ∫ Sol. 2log | ( x I dx x x x x x x x I I ∫ ∫ ∫ sin 2 dx x n 2 we get 2\ncos 2 sin 2 sec f a x dx dx x I dx x x dx x π π π π − ∫ ∫1 tan xdx x"
+     }
     },
     {
      "qno": 11,
@@ -10266,7 +10626,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "text": "logsinx cos x e dx\ncos x sinx dx ⋅ ∫ ∫ , Assuming cosx\nt and sinx dx dt = − 3t dt = −∫ t cos x C C = − = −"
+     }
     },
     {
      "qno": 24,
@@ -10284,7 +10647,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrals of Some Particular Functions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) dx dx 4x x x − − − ∫ ∫ x log C x −"
+     }
     },
     {
      "qno": 28,
@@ -10301,7 +10667,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "text": "Let cosx cosx cosx e I dx e e π − ∫ --------- (i) ⇒ cos x cosx cosx cosx cos x\ncos x e e I dx dx e e e e π π π− − − π− − π− ∫ ∫ --------- (ii)\nAdding (i) and (ii), we get 2I dx x I π π π = π∴ ∫"
+     }
     },
     {
      "qno": 28,
@@ -10319,7 +10688,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integration by Partial Fractions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "PTO (b) 2x dx dx dx dx x x x x x = − − − ∫ ∫ ∫ ∫ log x log x C 2 x = − − − or,\nx log C x 2 x − −"
+     }
     },
     {
      "qno": 3,
@@ -11456,7 +11828,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Let Correct Graph :\nx coordinates of point of intersection are – 1, 2\nRequired area = ∫\n(x + 2) dx + ∫ x2 dx x x\n(Question nos. 36 to 38 are source based/case based/passage based/integrated units of assessment\nquestions carrying 4 marks each)"
+     }
     },
     {
      "qno": 34,
@@ -11473,7 +11848,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Shaded region\nPoint of intersection at x ar OAB x dx 3xdx − − ∫ ∫ x 4 x x 2sin x − − − π π −"
+     }
     },
     {
      "qno": 33,
@@ -11490,7 +11868,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "x2 + y2 = 4 and y = mx\n⇒x2 + m2x2 = 4  ⇒ x = √1 + m2\nx- coordinate of the required point of intersection is √1 + m2. According to question,\n∫ 𝑚𝑥 𝑑𝑥 √1 + 𝑚2 + ∫ √4 – 𝑥2 √1 + m2 dx = 𝜋 ⇒ m x m 𝑥\n2 √4 – 𝑥2  +  2 𝑠𝑖𝑛–1 𝑥 2| √1 + m2 𝜋 ⇒ 2𝑚\n1 + m2 + 𝜋 – 2m\n1 + m2 – 2 sin–1\n√1 + m2 = 𝜋 for correct figure ⇒ 𝜋 4  =  sin–1 √1 + m2 ⇒ √2 =\n√1 + m2 ⇒ m2 + 1 = 2\n⇒ m = 1 (as m > 0)"
+     }
     },
     {
      "qno": 33,
@@ -11524,7 +11905,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Required area = ∫\n2 (8 – y)dy 2 |8y – 𝑦2 2 | 𝟐 for correct figure"
+     }
     },
     {
      "qno": 29,
@@ -11541,7 +11925,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Solving y2 = 2x and 𝑦= 𝑥−4, we get\ny = 4 or – 2\nRequired area = ∫\n[(𝑦 +  4) – y2 2 ] 𝑑𝑦 = | 𝑦2\n2  +  4y – 6 𝑦3| 1 mark for correct figure"
+     }
     },
     {
      "qno": 34,
@@ -11558,7 +11945,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Area = 4 ∫𝒚 𝒅𝒙 = 4 [ 𝟐∫√𝟒𝟐− 𝒙𝟐 𝒅𝒙 ] = 2 [ 𝒙\n𝟐√𝟒𝟐− 𝒙𝟐+ 𝟖 𝐬𝐢𝐧−𝟏( 𝒙 𝟒)] = 2 [√𝟏𝟐+ 𝟖𝝅\n𝟔] = 𝟒√𝟑 + 𝟖𝝅 Correct graph-1 P.T.O."
+     }
     },
     {
      "qno": 35,
@@ -11575,7 +11965,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "𝐴1 = Area (region OABO) = ∫2√𝑥\n𝑑𝑥 = 2 [ 𝑥 ]|\n𝐴2 = Area (region ODEO) = 2 ∫2√𝑥\n𝑑𝑥 = 4 × 3 [23] =\n𝐴1: 𝐴2 = 4"
+     }
     },
     {
      "qno": 34,
@@ -11592,7 +11985,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "For correct figure 1 mark asat\nattainslocalmaximum value, now, Criticalpointsare so attainslocalmaximum v f x\nx x ax f x x x a x f f a f x x x x x x x x x x f x x f f f f − + ⇒ − ⇒= − − − −\n− =− − − > < > alueat\n1andlocalminimum valueat x x =− 100 cm\nLet length of rectanglebe cmand breadth be 150 cm.\nLet betheradiusof cylinder 100cm ismaximum when 100cm. Length of x x x x r r x\nr x x x V r h x dV x x dx dV x dx d V V x dx π π π π π π π π π π − ⇒ ⇒= − − − = ⇒=\n=− <⇒\nrectangleis100cmand breadth of rectangleis50cm. Requiredarea 8sin x dx x x x π\n− − − ∫"
+     }
     },
     {
      "qno": 32,
@@ -11609,7 +12005,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "As, | | x y x x x x −\no P(2)=P(4)=P(6) =2 p\n(4) + P(5) + P(6) = 1 9p = 1 p = tting six)= 9 ber of sixe ⇒ ⇒ ,P(X=1)=2 ,P(X=2)=\nibution of number of sixes is s\n, 1 or 2\nong answer type questions of 5 marks each. x x < ≥\n12 | P a g e For correct figure\nArea of the shaded re 32(b). Sol. As, 9 Required Area = x y x − ∫ egion = y dx\ny dx x dx x − ∫ ∫ ∫"
+     }
     },
     {
      "qno": 32,
@@ -11627,7 +12026,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Area under Simple Curves",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "25 sin sin y x x dx x dx x x x − − ⇒ =± − − − − ∫ +15sin −\n13 | P a g e x For correct figure"
+     }
     },
     {
      "qno": 13,
@@ -11671,7 +12073,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "The given equation can be written as: x y\n, which is an ellipse. Correct Graph\nArea of the region bounded by the curve x dx x x x sin − − − ∫ π"
+     }
     },
     {
      "qno": 17,
@@ -12223,7 +12628,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "Let (a) Integrating factor = ∫ dx x sec e = etan x\nSolution is yetan x = ∫tan x sec2 x etan x dx + C\nLet tan x = t   sec2 x dx = dt\n∴ ∫etan x tan x sec2 x dx = ∫et t dt= et (t – 1)\n∴ yetan x = etan x (tan x – 1) + C\ny(0) = 0 gives C = 1\nParticular solution is yetan x = etan x (tan x – 1) + 1or y = tanx -1 + e-tanx"
+     }
     },
     {
      "qno": 28,
@@ -12241,7 +12649,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)Given differential equation can be written as x y x y dx dy --------- (i)\nLet y = vx ⇒ dx\ndv  = v + x dx\ndv  substituting in (i)\nWe get v + x dx\ndv  = v + v ⇒ v dv dx x\nIntegrating both sides, we get log | v\n+ v| =  log   x  + log C y + y x = C x2"
+     }
     },
     {
      "qno": 6,
@@ -12312,7 +12723,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "Given differential equation can be written as y dy y x y dx xy x x − − Put dy du\ny ux, u x dx dx du u du u u x x dx u dx u ∴ ⇒ − −\nSeparating the variables and integrating dx du u x − ∫ ∫ y y u logu log x c log\nlog x c x x ⇒ − ⇒ −"
+     }
     },
     {
      "qno": 29,
@@ -12330,7 +12744,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Rewriting the given differential equation as: dy 2x x y dx x x 2x dx log 1 x 1 x\nIntegrating factor e e x ∫\n∴ solution of the differential equation is x y 1 x x dx c x ⋅ ∫ x 4dx c ∫ x x y 1\nx 2log x x c ∴"
+     }
     },
     {
      "qno": 8,
@@ -12397,7 +12814,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "Given differential equation is 2xy 𝑑𝑦\n𝑑𝑥 + y2 = 2y(1 + x2) ⇒ 𝑑𝑦 𝑑𝑥 + 𝑦 2𝑥 = 𝑥 + x\nIntegrating factor = 𝑒∫1\n2𝑥𝑑𝑥 = 𝑒𝑙𝑜𝑔 √𝑥 = √𝑥\nSolution is given by  y√𝑥 = ∫( √𝑥 +  x 2)dx\n⇒y√𝑥 = 2√𝑥 + 2𝑥\n5  + C ,or y = 2 + 2𝑥2 𝐶 √𝑥"
+     }
     },
     {
      "qno": 26,
@@ -12415,7 +12835,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Q26(b) Ans\n(b) Given differential equation is 𝑑𝑦 𝑑𝑥 = 𝑦 𝑥 – 𝑒 𝑦 𝑥\nLet y = vx  ⇒ 𝑑𝑦\n𝑑𝑥 = v + x 𝑑𝑣 𝑑𝑥\nThe given equation becomes v + x 𝑑𝑣\n𝑑𝑥 = v – ev ⇒– e–vdv = 𝑑𝑥 𝑥\nIntegrating both sides, we get\ne–v = log  x  + C ⇒𝑒– 𝑦\n𝑥 = log  x  + C"
+     }
     },
     {
      "qno": 10,
@@ -12486,7 +12909,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "P.T.O. Sol. (a) 𝒅𝒚 𝒅𝒙 = 𝒙+𝒚 𝒙 ⇒ 𝒅𝒚\n𝒅𝒙 =  1  + 𝒚 𝒙 Let 𝑦\n𝑥 = v. Then x 𝑑𝑣\n𝑑𝑥 + v = 𝑑𝑦 𝑑𝑥\nSo, Differential equation becomes. x 𝑑𝑣\n𝑑𝑥 + v = 1 + v ⇒ dv = 𝑑𝑥 𝑥\n⇒ v = log|𝑥| + c ⇒  y=xlog|𝑥| +cx\n⇒ x = 1, y = 0 ⇒ c = 0, y = x log |x|\n[can also be solved, taking first order linear diff. eqn]"
+     }
     },
     {
      "qno": 29,
@@ -12504,7 +12930,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) The given D.E. is sec2 𝑦\ntan 𝑦dy = – 𝑒𝑥 1 – 𝑒𝑥dx Integrating\n⇒ log | tan y | = log | 1 – ex| + log C\n⇒ tan y = C (1 – ex)"
+     }
     },
     {
      "qno": 12,
@@ -12544,7 +12973,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "(I) (x2 – y2)dx + 2xydy = 0 ⇒ dx dy  = xy x y (𝑦 𝑥) 2 (𝑦 𝑥) = g( 𝑦 𝑥)\n(II) y = vx ⇒ dx\ndy  = v + x dx dy\nv + x dx dv  = 2v v2 – v = v – v ⇒ ∫ v v\ndv = – ∫x x d\n⇒ log   1 + v2  + log   x  = log C or   x x y = C\nor   x2 +  y2 =  Cx"
+     }
     },
     {
      "qno": 8,
@@ -12615,7 +13047,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "𝒅𝒚 𝒅𝒙= 𝒚 𝒙 + 𝒄𝒐𝒔𝟐( 𝒚 𝟐𝒙)\nPut y = vx so that 𝒅𝒚 𝒅𝒙= 𝒗+ 𝒙 𝒅𝒗 𝒅𝒙\n⇒ v + x 𝒅𝒗 𝒅𝒙= 𝒗+ 𝒄𝒐𝒔𝟐( 𝒗 ⇒ ∫𝒔𝒆𝒄𝟐( 𝒗 𝟐)  𝒅𝒗= ∫ 𝒙 𝒅𝒙 ⇒𝟐𝐭𝐚𝐧( 𝒗\n𝟐) = 𝒍𝒐𝒈|𝒙| + 𝑪 ⇒𝟐𝐭𝐚𝐧( 𝒚\n𝟐𝒙) = 𝒍𝒐𝒈|𝒙| + 𝑪 2 tan 𝝅\n𝟒 = log 1 + C ⇒ C = 2  ⇒𝟐𝐭𝐚𝐧( 𝒚\n𝟐𝒙) = 𝒍𝒐𝒈|𝒙| + 𝟐 P.T.O."
+     }
     },
     {
      "qno": 7,
@@ -12686,7 +13121,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "Given differential equation can be written as 𝑑𝑦 𝑑𝑥= 2𝑥𝑦+ 𝑦2 2𝑥2 = 𝑦 𝑥+ 𝑦2 2𝑥2\nLet 𝑦= 𝑣𝑥⟹ 𝑑𝑦 𝑑𝑥= 𝑣+ 𝑥 𝑑𝑣 𝑑𝑥 The equation becomes 𝑥𝑑𝑣 𝑑𝑥= 1 2 𝑣2 ⟹𝑑𝑣 𝑣2 = 1 2 × 𝑑𝑥\n𝑥\nIntegrating both sides, we get −1 𝑣= 1\n2 𝑙𝑜𝑔|𝑥| + 𝐶 ⟹−𝑥 𝑦= 1\n2 𝑙𝑜𝑔|𝑥| + 𝐶\n𝑦= 2, 𝑥= 1 gives  𝐶= −\nThe particular solution is −𝑥 𝑦= 1 2 𝑙𝑜𝑔|𝑥| −1 2  𝑜𝑟, 𝑦= 2𝑥 1 −𝑙𝑜𝑔|𝑥|"
+     }
     },
     {
      "qno": 28,
@@ -12704,7 +13142,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Sol.\nGiven differential equation can be written as 𝑑𝑥 𝑑𝑦−𝑥 𝑦= 2𝑦\nIntegrating Factor = 𝑒 ∫−1 𝑦𝑑𝑦= 𝑦 Solution is 𝑥 𝑦= ∫2𝑑𝑦 ⟹𝑥 𝑦= 2𝑦+ 𝐶\n⟹𝑥= 2𝑦2 + 𝐶𝑦"
+     }
     },
     {
      "qno": 7,
@@ -12744,7 +13185,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "dP dP kP k dt dt P ⇒ ∫ ∫ log"
+     }
     },
     {
      "qno": 9,
@@ -12807,7 +13251,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "log | |\nlog | sin 2 | . sin 2 when ( 2,gives\n2 sin 2  is the requir cot 2 co d y x y c x y c y x y dy y x dx y π ⇒ ⇒ ∴ ∫ ∫ 29(b).\nSol. ( )  so, Let Now, log | | Now, 1 ,gives Thus, log | | y x v v v y x dy y y\ne f dx x x dy d y vx v x dx d dv v x e v dx e dv dx x e x c e x y c x e e − − −\n− ⇒ ⇒ ⇒− +⇒− ∫ ∫"
+     }
     },
     {
      "qno": 29,
@@ -12869,7 +13316,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "text": "Given differential equation is a linear order differential equation with: x P 2x, Q\n3x e = − 2xdx x Integrating Factor e e − − ∫\nThe general solution is: x x x y e e 3x e dx C − − ⋅ ⋅ ∫ x y e x C − ⇒ ⋅ Putting x\n0,y\n, we get, C\n∴ The Particular solution is: x y e x − ⋅"
+     }
     },
     {
      "qno": 29,
@@ -12887,7 +13337,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "x y x 5 e Or (b) x dy y x y dx dy y y dx x x ⇒ = − − Putting y dy dv v y vx, v\nx x dx dx ⇒ dv v x v v dx = −−\nseparating the variable and integrating dv dx v 2v x = − ∫ ∫ ⇒ dv dx x v = − −\n∫ ∫ ⇒1 v C log log v x PTO\nThe solution of the differential equation is, y C y 2x x or x y k y 2x"
+     }
     },
     {
      "qno": 4,
@@ -13779,7 +14232,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Types of Vectors"
+     "topic": "Types of Vectors",
+     "answer": {
+      "text": "Unit vector along ^i  + ^j  + ^k  is ^ i ^ j  + ^ k\nRequired vectors are 3^i  + 3^j  + 3^k  and – 3^i  – 3^j  – 3^k"
+     }
     },
     {
      "qno": 23,
@@ -13799,7 +14255,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "According to question,  → c  – → a  = 4 → b  – → a ) ∴ → c  = → b → a"
+     }
     },
     {
      "qno": 8,
@@ -13897,7 +14356,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "a b a c a b c a 0 ; b c or a b c ⋅ ⋅ ⇒ ⋅ − ⇒ ⊥ − As, a 0 ; b c ≠ ≠\n∴the angle between a and b c − is 2 π"
+     }
     },
     {
      "qno": 10,
@@ -13983,7 +14445,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "(→\nr  × ^j ) . ( → r\n× ^k ) – 12 = (3^k – 6^i ) . (– 3^j – 2^i ) – 12"
+     }
     },
     {
      "qno": 12,
@@ -14054,7 +14519,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Here, [\n(𝑖̂ + 𝑗̂ + 𝑘̂ ) . (𝑝𝑖̂ + 𝑗̂ – 2𝑘̂ )\n√𝑝2 + 1 + 4 ] = ⇒ 𝑝 – 1\n√𝑝2 + 5 =\n⇒ 8p2 – 18p + 4 = 0\n4p2 – 9p + 2 = 0\n4p2 – 8p – p + 2 = 0\n(4p – 1) (p – 2) = 0\n⇒ p = 2 or p = P.T.O."
+     }
     },
     {
      "qno": 13,
@@ -14125,7 +14593,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Let θ be the angle between → a  and → b\nSince 𝑎⃗× 𝑏⃗⃗ is a unit vector, we have |𝑎⃗× 𝑏⃗⃗| = 1\n⇒ |𝑎⃗|  |𝑏⃗⃗| sin 𝜃= 1\n⇒ sin θ =\n2, or θ = 30° (or 𝜋 24(b). Sol. Here 𝑎⃗× 𝑏⃗⃗ = ^ k j^ i^\n= 20^i  + 5^j  – 5^k\n⇒ |𝑎⃗× 𝑏⃗⃗| =\nArea of parallelogram = |𝒂⃗⃗× 𝒃⃗⃗|="
+     }
     },
     {
      "qno": 24,
@@ -14214,7 +14685,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Addition of Vectors"
+     "topic": "Addition of Vectors",
+     "answer": {
+      "text": "(𝒂⃗ + 𝒃⃗ ). 𝒂⃗ = 𝟎 ⇒ |𝒂⃗ |𝟐+ 𝒃.\n⃗⃗⃗ 𝒂⃗ = 𝟎 -----------------(1)\n(𝟐𝒂⃗ + 𝒃⃗ ). 𝒃⃗ = 𝟎 ⇒𝟐𝒂.\n⃗⃗⃗ 𝒃⃗  + |𝒃⃗ |\n2 (-|𝒂⃗ |𝟐) + |𝒃⃗ |\n𝟐= 𝟎  {Using (1) and (2)} |𝒃⃗ |\n𝟐= 2|𝒂⃗ |𝟐⇒ |𝒃⃗ | = √𝟐|𝒂⃗ | P.T.O."
+     }
     },
     {
      "qno": 25,
@@ -14234,7 +14708,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "𝑨𝑫 ⃗⃗⃗⃗⃗⃗ + 𝑫𝑩 ⃗⃗⃗⃗⃗⃗ = 𝑨𝑩 ⃗⃗⃗⃗⃗⃗ 𝑨𝑫\n⃗⃗⃗⃗⃗⃗  = (2 𝒊 ̂ −𝟒  𝒋̂ + 𝟓 𝒌̂)  − (3  𝒊̂ −𝟔 𝒋̂ + 𝟐 𝒌̂)\n=  − 𝒊̂ + 𝟐𝒋 ̂ + 𝟑 𝒌̂ 𝑨𝑫 ⃗⃗⃗⃗⃗⃗⃗ × 𝑨𝑩 ⃗⃗⃗⃗⃗⃗ = | 𝒊̂ 𝒋̂ 𝒌̂ −𝟏 −𝟒\n| = 𝟐𝟐  𝒊̂ + 𝟏𝟏𝒋 ̂ Area = |𝑨𝑫 ⃗⃗⃗⃗⃗⃗  × 𝑨𝑩\n⃗⃗⃗⃗⃗⃗ | = |𝟐𝟐 𝒊 ̂ + 𝟏𝟏 𝒋 ̂|\n= √𝟔𝟎𝟓  𝒐𝒓 𝟏𝟏 √𝟓\nIn this section there are 6 short answer type questions of 3 marks each."
+     }
     },
     {
      "qno": 8,
@@ -14439,7 +14916,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "| → a  ×\n→b | = | → a || →b ||sin θ|\nAs, 0 ≤ |sin θ| ≤ 1 ⇒ | → a ||\n→b | |sin θ| ≤ | → a || →b | ⇒ | → a  ×\n→b | ≤ | → a || →b | Forequality,sin isperpendicular to a b π θ θ = ⇒ ⇒\nQuestions no. 26 to 31 are short answer (SA) type questions, carrying 3 marks each.\nsin when 0gives sin F x dx x x dx x x c x y c F x x − − − − − − ∴ − ∫ ∫ Position vectorof\nˆ ˆ ˆ i.e. ˆ ˆ ˆ Now, ˆ ˆ ˆ b a C r r i j k AB i j k AB BC i j k BC AB BC −→ −→\n−→ −→ −→ −→ − − =− − ⇒ =− − ⇒"
+     }
     },
     {
      "qno": 11,
@@ -14525,7 +15005,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "An instructor at the astrono\nin a particular constellation\nand the three stars have the ∃ ∃ ∃ vectors 2 i j k i j ∃ ∃\nBased on the above infor\n(i) How far is the star V\n(ii) Find a unit vector in\n(iii) Find the measure of"
+     }
     },
     {
      "qno": 15,
@@ -14598,7 +15081,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "text": "Let ˆ ˆ ˆ a 2i j k −+ ˆ ˆ ˆ b i j k + −\nand c be the vector perpendicular to both a&b then, ˆ ˆ ˆ i j k ˆ ˆ c a b 3j 3k\n− −\nLet d the vector perpendicular to both the vectorsa&b and having magnitude 4, ˆ\nˆ ˆ d 4c 2 2j 2 2k"
+     }
     },
     {
      "qno": 2,
@@ -15771,7 +16257,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "(b)\nD.r.s. of lines are < 2, 7, – 3 > and < – 1, 2, 4 >\nNow 2. – 1 + 7·2 + – 3·4 = 0\n∴ given lines are perpendicular"
+     }
     },
     {
      "qno": 35,
@@ -15880,7 +16369,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Vector equation of required line through (1, 2, – 4) is\n𝑟 ⃗⃗ = ^i  + 2^j  – 4 ^k + 𝜆(2^i  + 3^j  + 6 ^k ) and cartesian equation: 𝑥 – 1\ny – 2 z + 4\nEquation of line through A(3, 3, – 5) and B(1, 0, – 11) is\n𝑟 ⃗⃗ =  3^i  + 3^j  – 5 ^k + 𝜇(2^i  + 3^j  + 6 ^k )\nDistance between parallel lines is given by d = |(𝑎2\n⃗⃗⃗⃗ − 𝑎⃗ 1)× 𝑏⃗ | |𝑏⃗ | Here →\nb  = 2^i  + 3^j  + 6 ^k ,  𝑎 1 = ^i  + 2^j  – 4 ^k , →\na  = 3^i  + 3^j  – 5 ^k (→\na  –  𝑎 1) = 2^i  + ^j  – ^k (→ a  – →\na ) × →\nb  = 9^i  – 14^j  + 4 ^k\n∴ d = √293"
+     }
     },
     {
      "qno": 34,
@@ -15898,7 +16390,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)Equation of line AB is 𝑥 – 1 y – 2 z – 3\nLet coordinates of required point on AB be (2λ + 1, 3λ + 2, 6λ + 3) for some λ\nAccording to Question\n(2λ - 2)2 + (3λ - 3)2 + (6λ - 6 )2 = 142   gives   λ2 -2λ -3 = 0\nSolving we get λ= 3 and -1\n∴ required points are (7, 11, 21) and (– 1, – 1, – 3)"
+     }
     },
     {
      "qno": 11,
@@ -15971,7 +16466,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "General point on the curve is ( P k,2k 1,2k − , k R ∈ OP OP ⇒ k 2k 2k k ∴ − ⇒ = ±\n∴ Coordinates of points are ( 1,3,1 &( − − −"
+     }
     },
     {
      "qno": 33,
@@ -15988,7 +16486,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Equation of diagonal PR: x y z − −\nEquation of diagonal QS: x y z − − = −\nGeneral points on PR & QS are ( 8k 4,2k 2,11k − and ( 6t 5,12t 3, 3t − −\nfor real numbers ‘k’ and ‘t’ respectively.\nFor point of intersection of PR and QS: 8k 6t , 2k 12t − Solving, we get k ,t\n∴The point of intersection is −"
+     }
     },
     {
      "qno": 33,
@@ -16006,7 +16507,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Let direction ratios of the required line be a, b, c\nSince it is perpendicular to the two given lines, a 2b 3c 0 ; 3a 2b 5c − Solving together, a\n4k, b 14k, c 8k = −\n∴ Equation of line is: x y z x y z 4k 14k 8k − − ⇒ − − Vector equation: ˆ ˆ ˆ ˆ\nr i 3j 2k 2i 7j 4k = −+ − + λ −\nDistance from origin = ( ˆ ˆ ˆ ˆ ˆ ˆ ˆ ˆ i 3j 2k 2i 7j 4k 2i k ˆ ˆ ˆ ˆ ˆ ˆ 2i 7j\n4k 2i 7j 4k −+ − − − − − or"
+     }
     },
     {
      "qno": 13,
@@ -16071,7 +16575,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Angle between Two Lines"
+     "topic": "Angle between Two Lines",
+     "answer": {
+      "text": "cos 𝜋\n|𝛼 . 1 + 0 + 𝛽|\n√𝛼2 + 𝛽2 + 25 √2 ⇒ √2 = |𝛼 + 𝛽|\n√𝛼2 + 𝛽2 + 25 √2\nSquaring both sides, we get\nα2 + β2 + 2αβ = α2 + β2 + 25 ⇒ αβ ="
+     }
     },
     {
      "qno": 35,
@@ -16088,7 +16595,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "As lines are intersecting, (𝑎2 ⃗⃗⃗⃗ −𝑎1 ⃗⃗⃗⃗ ). ((𝑏1 ⃗⃗⃗ × 𝑏2\n⃗⃗⃗⃗ ) = 0 ⇒| 1 – b | = 0 ⇒b = 2\nAny point on the line 𝑥 – 1 y – 2 z – 3 4  is\n(2λ + 1, 3λ + 2, 4λ + 3),  λ∈R\nFor the point of intersection, this point must lie on the line 𝑥 – 4 y – 1 2  =  z\n⇒\n2𝜆 + 1 – 4\n3𝜆 + 2 – 1\n= 4λ + 3\n⇒λ = – 1\n∴ point of intersection is (– 1, – 1, – 1)"
+     }
     },
     {
      "qno": 35,
@@ -16106,7 +16616,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Q35(b) Ans\n(b)Equation of the line AB : 𝑥 – 4 y – 7 z – 8\nEquation of the line BC : 𝑥 – 2 y – 3 z – 4\nEquation of the line CD : 𝑥 + 1 y + 2 z – 1\nEquation of the line DA : 𝑥 – 4 y – 7 z – 8\nLet P be foot of perpendicular from A to CD.\n∴ Coordinates of P are (λ – 1, 2λ – 2, 2λ + 1) for some λ\nd.r.’s of AP are (λ – 5, 2λ – 9, 2λ – 7) since AP⊥CD\n⇒ 1(λ – 5) + 2(2λ – 9) + 2(2λ – 7) = 0\n⇒ 9λ = 37      ⇒λ =\n∴Coordinates of P are ("
+     }
     },
     {
      "qno": 14,
@@ -16206,7 +16719,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Vector equation of the line passing through (2, 1, 3) is\n→r  = (2𝑖̂ + 𝑗̂ + 3𝑘̂) + λ(a𝑖̂ + b𝑗̂ + c𝑘̂)\nLine →r is perpendicular to the given lines then\na + 2b + 3c = 0 ;   – 3a + 2b + 5c = 0 ⇒ a b c 8 =k’(say)\n⇒ a = 2k, b = – 7 k and c = 4 k.\nThus, the required vector equation is →r\n= (2𝑖̂ + 𝑗̂ + 3𝑘̂ ) + λ (2𝑖̂ – 7𝑗̂ + 4𝑘̂)"
+     }
     },
     {
      "qno": 25,
@@ -16224,7 +16740,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) The equation of the given line is x – 3/5 y + 7/15 z – 3/10\nIts direction ratios are. 〈1\n10〉or 〈6, 2, –  3〉\nDirection cosines are 〈± 7 , ± 7 , ∓ 7〉 P.T.O.\nThe point through which it passes is (\nThis section comprises short answer (SA) type questions of 3 marks each."
+     }
     },
     {
      "qno": 35,
@@ -16241,7 +16760,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Shortest Distance = | −3 −2 −2 |\n√(2 ×−2−5×3)2+(3 ×−2−4×5)2+(3 ×3−2 × 4)2 −3(−19)−2(−26)−2(1) √361+676+1 57+52−2\n√1038 √1038 ≠0\nSo, the line will not intersect each other."
+     }
     },
     {
      "qno": 35,
@@ -16259,7 +16781,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Angle between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) The given lines are 𝑥 – 0 𝑦 – 0 𝑧 – 0 – 1 and 𝑥 – 0 𝑦 – 0 𝑧 – 0 Or 𝑥 𝑦 𝑧 – 6 and\n𝑥 𝑦 𝑧\nLet θ be the angle between the two lines, then.\ncos θ = |\n√9 + 4 + 36 √4 + 144 + 9  | = |\n7 × √157  |\n⇒ θ = 90° P.T.O.\nThis section comprises of 3 case-study based questions of 4 marks each."
+     }
     },
     {
      "qno": 15,
@@ -16330,7 +16855,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "The given line is x y z ,  or x y z\nSo, the required vector equation of the line passing through (1,2,-1) is\n𝑟⃗ = (𝑖̂ + 2𝑗̂ −𝑘̂) +  λ(7𝑖̂ −5𝑗̂ + 𝑘̂)\nCartesian equation of the line is 𝑥−1 𝑦−2 −5 = 𝑧+1\nThis section comprises of Short Answer (SA) type questions of 3 marks each."
+     }
     },
     {
      "qno": 30,
@@ -16347,7 +16875,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "General point on the given line is M (5λ – 3, 2λ + 1, 3λ – 4)\nDirection ratios of PM are 5λ –  3, 2λ−1 , 3λ –  7\nIf this point is the foot of the perpendicular from the point P (0, 2, 3),\nthen PM is perpendicular to the line. Thus,\n(5λ –  3). 5 + (2λ –  1) . 2 + (3λ –  7) . 3 =  0\n⇒ λ = 1\nHence co-ordinates of M are (2, 3, – 1) 30(b). Sol. → a  + → b  +\n→c )2 = 0 ⇒→2 a + →2 b + →2\nc + 2(μ) = 0\n⇒ μ = –"
+     }
     },
     {
      "qno": 31,
@@ -16364,7 +16895,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Here →\na  = ^i  + 2^j  – 4^k , →\nb  = 2^i  + 3^j  + 6^k →\na  = 3^i  + 3^j  – 5^k , →\nb  = 4^i  + 6^j  + 12^k Here, → b  and →\nb  are parallel vectors. 𝑎2 ⃗⃗⃗⃗⃗−𝑎1\n⃗⃗⃗⃗⃗= 2𝑖̂ + 𝑗̂ −𝑘̂,        𝑏⃗⃗= 2𝑖̂ + 3𝑗̂ + 6𝑘̂ Thus, (𝑎2 ⃗⃗⃗⃗⃗−𝑎1\n⃗⃗⃗⃗⃗) × 𝑏⃗⃗ = | 𝑖̂ 𝑗̂ 𝑘̂ −1\n| =  9^i − 14^j +  4^k\nDistance between the lines = | (𝑎2 ⃗⃗⃗⃗⃗⃗−𝑎1 ⃗⃗⃗⃗⃗⃗)×𝑏⃗⃗ |𝑏⃗⃗| | = √293 7  units.\nThis section comprises of Long Answer (LA) type questions of 5 marks each."
+     }
     },
     {
      "qno": 9,
@@ -16464,7 +16998,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "Let foot of the perpendicular on the given line from point P be M (𝝀, 𝟐𝝀+ 𝟏, 𝟑𝝀+ 𝟐)\nD. ratios of  P𝑷′ are 𝝀−𝟏,   𝟐𝝀+ 𝟏,   𝟑𝝀−𝟓\n1(𝝀 -1) + 2 (2𝝀+ 𝟏) + 3 (3𝝀 -5) = 0 ⇒ 𝝀= 𝟏 Coordinates of M(1,3,5) 𝒙+𝟏 𝒚+𝟎 𝒛+𝟕\n⇒𝒙= 𝟏, 𝒚= 𝟔, 𝒛= 𝟑 ⇒𝑷(𝟏, 𝟔, 𝟑)\nIn this section there are 3 case-study based questions of 4 marks each."
+     }
     },
     {
      "qno": 9,
@@ -16562,7 +17099,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Let direction ratios of the required line be a, b, c.\n∵ the required line is perpendicular to both the given lines\n⸫ 3𝑎−16𝑏+ 7𝑐= 0\nand  3𝑎+ 8𝑏−5𝑐= 0 ⟹𝑎 24 = 𝑏 36 = 𝑐 ⟹𝑎 2 = 𝑏 3 = 𝑐\nThe mid-point of the line-segment AB is (3, 4, 6)\nHence, the required equation of the line is 𝑥−3 = 𝑦−4 = 𝑧−6"
+     }
     },
     {
      "qno": 9,
@@ -16625,7 +17165,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "Q35(b) Ans\nd.r’s of CD are < 1, – 2, 2 >\n∴ d.r’s of AB are  < 1, – 2, 2 > ; anypoint on is 2 &anypoint on\nis 1, 3 ,2 If and intersect, 3 and3 1and Point of intersectionof and is 1,3,5 .\nLet d.r.'sof requiredlineb x y z x y z l l l l l l l l λ μ λ λ λ μ μ λ λ μ λ μ\nλ μ − − − − − − + =− + ⇒ = − e .Then, 0and\nRequiredequationof lineis 13 a b c a b c a b c b c x y z < > − ⇒ − − − − − − −\n∴ Equation of AB is x + y z\n∴ Equation of CD is x y + z Let →\na  = – ^i  + 2^j  + ^k , →\na  =  4^i  – 7^j  + 8 ^k  & →b  =  ^i  – 2^j  + 2 ^k Now, → a – →\na  =  5^i  – 9^j  + 7 ^k ( → a – →\na ) × →b  = ^ k ^j ^i\n= – 4^i  – 3^j  – ^k\nDistance between AB and CD is given by a a b d b − d = CD=\nArea of parallelogram ABCD = b × h = 6 ×\nQuestions no. 36 to 38 are case study based questions carrying 4 marks each."
+     }
     },
     {
      "qno": 35,
@@ -16706,7 +17249,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "L : 2 L :\nVector Equation of Lin\nEquation of the given li\nEquation of the line par x y z x y z − − − ∃ ∃ ∃ ∃ ∃ ∃\nL : = (4 Now, | | Thus, distance between S.D. = r i j k a a i j b i j k i j a a\nb b a a b μ − − − − − − − ρ ∃ υυρ υρ ∃ ρ ∃ ∃ υυρ υρ ρ ρ υυρ υρ | | b ρ ρ 35(b).\nL : L : 3 Since  L L , x y z k x y z k k k k − − − − − − − =− ⊥ − − ⇒ ∃ ∃ ∃\nL  & passing through (4, 0, 5)\nnes are L : = (0\nine in standard form is rallel to r i j k i j k λ − ρ ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃\nn the lines is i j k k i j k i j k k i j k μ − − − − − − ∃ ∃ ∃ ∃ 533 units"
+     }
     },
     {
      "qno": 35,
@@ -16724,7 +17270,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "direction ratio's of L\ndirection ratio's of L k k ⇒ =<− > ⇒ =< −> =−\n16 | P a g e ∃ is k ∃ ∃ ∃ ∃ Thus,d.r.'s of L\nNow the vector perpen\nThus, Equation of the r i j k b i r i j k λ =<− =− − − − − ∃ ρ ∃ ρ ∃\nIn this section there are 3 c"
+     }
     },
     {
      "qno": 16,
@@ -16795,7 +17344,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "text": "cos cos cos α= β= γ= ⇒ = ⇒ l l l l l l ∴=\nDirection cosines of the line are 1\n⇒ the direction ratios are 1,1,1\n∴ Vector equation of the line is: ˆ ˆ ˆ ˆ ˆ ˆ r 2i 3j 5k i j k − + λ\n(Question nos. 26 to 31 are short Answer type questions carrying 3 marks each)"
+     }
     },
     {
      "qno": 34,
@@ -16812,7 +17364,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Shortest Distance between Two Lines"
+     "topic": "Shortest Distance between Two Lines",
+     "answer": {
+      "text": "The standard form of the equation of the line is x y z − − − −\nLet foot of the perpendicular from the point A( −\nto the given line be B( −λ+ λ−λ+\nD-ratios of AB is: 2 −λ+ λ− −λ+\nAs AB is perpendicular to the given line: − −λ+ λ− − −λ+ ⇒λ=\n∴ Foot of the perpendicular is: ( B 2,6, 2 −\nPerpendicular distance = AB"
+     }
     },
     {
      "qno": 34,
@@ -16830,7 +17385,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "PTO (b) Equation of L : ˆ ˆ ˆ ˆ ˆ ˆ r 2i j k i j 3k −+ + λ Equation of L : ˆ ˆ\nˆ ˆ ˆ r i j 2k 2j k + − + μ − Taking ˆ ˆ ˆ ˆ ˆ ˆ a 2i j k, b i j 3k ˆ ˆ ˆ ˆ ˆ a\ni j 2k, b 2j k −+ = + − − ˆ ˆ ˆ ˆ ˆ ˆ a a i 2j 3k, b b 7i j 2k − = −+ − = − Shortest Distance\na a b b b b − ⋅"
+     }
     },
     {
      "qno": 29,
@@ -17693,7 +18251,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Correct Graph\nCorner points                                  Value of Z\n(40, 15)                                     (240 + 45 = 285) Maximum"
+     }
     },
     {
      "qno": 17,
@@ -17760,7 +18321,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Correct graph\nCorner points Value of Z A (40,20) B (60,30) C (120,0) D (60,0) 300 (Min)\nMin(Z) = 300 at x = 60; y = 0\n(Question nos. 32 to 35 are Long Answer type questions carrying 5 marks each)"
+     }
     },
     {
      "qno": 17,
@@ -17826,7 +18390,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Corner points\nValue of Z = 500x + 400y 42000 →  Minimum for correct graph"
+     }
     },
     {
      "qno": 15,
@@ -17914,7 +18481,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Corner Points Value of P O (0,0) B (0,4.5) C (3,0)\n210 → Max Value\nMaximum value of P =210 at 𝑥= 3 and y=0 3 for correct figure and shading"
+     }
     },
     {
      "qno": 10,
@@ -17985,7 +18555,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Max z = 500x + 300y\nMax z = 3200 at x = 4, y = 4 Corner Point Z A (0,4) B (0,6) C (4,4) D (6,0) E (5,0)\nCorrect Graph - Correct Table -"
+     }
     },
     {
      "qno": 10,
@@ -18032,7 +18605,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Constraints are 𝑥+ 2𝑦≥10 𝑥+ 𝑦≥6 3𝑥+ 𝑦≥8 𝑥≥0 𝑦≥0 (ii) Corner points\nValue of Z = 16x + 20y A (10, 0) B (2, 4) C (1, 5) D (0, 8)\nThe minimum cost is ₹112"
+     }
     },
     {
      "qno": 10,
@@ -18098,7 +18674,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "sin 2 1 cos2 2sin cos 2cos sec tan .tan x x x x x I e dx x x x e dx x x x e dx\ne x c ∫ ∫ ∫ sin cos cos sin sin cos cos sin log cos cot log 1 or log I dx x x dx\nx x dx ec x dx x ec x x π π π π π π π π π π π − − − ∫ ∫ ∫ ∫ Ans Corner Point Value of\nz x y O A B C D max 2600when z x y For correct graph For correct table"
+     }
     },
     {
      "qno": 16,
@@ -18169,7 +18748,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "ve the following line Maximise\nsubject to the constra int 3,& x y x Z y y x ≤ ≤ ≥ log red Particul o\nar solution of given t 2 D.E x c dx"
+     }
     },
     {
      "qno": 35,
@@ -18186,7 +18768,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Correct Graph\nCorner Points Value of Z 60x 40y A 0,4 B 0,6 C 4,4 D 6,0 E 5,0 Max Z at x 4,y Z\nZ Z Z Z PTO\n(Question nos. 36 to 38 are source based/case based/passage based/integrated units of assessment\nquestions carrying 4 marks each)"
+     }
     },
     {
      "qno": 16,
@@ -18947,7 +19532,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "(i) 𝑘 𝑘 𝑘\nGives k = 1\n(ii) P(1≤ X< 3) = 5𝑘\n(iii)E(X) = Σpi.xi = 5k k 2k k E(X) = 3"
+     }
     },
     {
      "qno": 30,
@@ -18965,7 +19553,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Independent Events",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)P(A) P( –B ) = 4\n1     P( –A ) P(B) = 6\nLet P(A) = x        P(B) = y\nx(1 – y) = 4\n1 ,   (1 – x)y = 6\n1  ⇒ x – y = 12\neliminating y, we get 12x2 – 13x + 3 = 0\ngives x = 3 P(A) =\n3 ⇒ P(B) = P(A) =\n4 ⇒ P(B) ="
+     }
     },
     {
      "qno": 36,
@@ -18985,7 +19576,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "x + 0·21 = 0·44  ⇒ x = 0·23\n(ii) 0·41 + y + 0·44 + 0.11= 1  ⇒ y = 0·04 (iii) (a) B C P B P B) C P Ι\nP(B) = 0·09 + 0·04 + 0·23= 0·36 B C P 0·23 0·36 ="
+     }
     },
     {
      "qno": 12,
@@ -19029,7 +19623,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "X: Number of red balls out of the two balls drawn X P(X) Mean ∴ ⋅ + ⋅ ⋅"
+     }
     },
     {
      "qno": 30,
@@ -19047,7 +19644,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Conditional Probability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) (\nP getting a six\n;P not getting a six P A wins ⋅ ⋅ − P B wins P A wins − −"
+     }
     },
     {
      "qno": 37,
@@ -19064,7 +19664,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "(\nP L | C (ii) (\nP L | A\nP L | A − − or 19 (iii) (\nP A | L"
+     }
     },
     {
      "qno": 14,
@@ -19104,7 +19707,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "Q31(b) Ans\n(b)E1 = Biased coin is selected P E ⇒\nE2 = Fair coin is selected P E ⇒\nA   = Head appeared on tossing a selected coin . A A P P E E\nBy Bayes’ Theorem P( 𝐸1 𝐴) = 𝑃(𝐸1) P( 𝐴 E1) 𝑃(𝐸1) P( 𝐴\nE1) + P(𝐸2) P( 𝐴 E2)"
+     }
     },
     {
      "qno": 31,
@@ -19168,7 +19774,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "(i) 10p2 + 9p = 1 ⇒ p = Ans(ii)\n(ii) P(X > 6) = 9p2 + p Ans(iii)\n(iii)(a) P(X = 3 m) = P(3) + P(6)\n⇒ 2p + p2 ="
+     }
     },
     {
      "qno": 18,
@@ -19212,7 +19821,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "Let X be the random variable which denotes the number of defective bulbs\ndrawn from a sample of 2 bulbs. Here X may take values 0, 1 or 2.\nLet A and B be the event of drawing a defective bulb and non defective bulb respectively\nP(A)  =\n5; P(B) = 1 –\nNow P(X = 0) =\nP(X = 1) = 2 [ 5] =\nP(X = 2) =\nThus P.D. of X is X P(X) XP(X) 2 for correct graph P.T.O.\nMean= Σ X P(X) =\nThis section comprises of Long Answer (LA) type questions of 5 marks each."
+     }
     },
     {
      "qno": 37,
@@ -19229,7 +19841,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "P(E2) = 1 – P(E1) = 1 – 0·65 = 0·35\n(ii)P(E) = P(E1) . 𝑃( 𝐸\n𝐸1) +  P(E2) . 𝑃( 𝐸 𝐸2)\n= 0·65 × 0·35 + 0·35 × 0·8\n= 0·35 × 1·45 = 0·51 P.T.O. (iii) (a) 𝑃( 𝐸1 𝐸) = 𝑃(𝐸1) . 𝑃(𝐸/𝐸1)\n𝑃(𝐸1).𝑃(𝐸/𝐸1)+𝑃(𝐸2).𝑃(𝐸/𝐸2) = 0·65 × 0·35 0·51 = 0·45"
+     }
     },
     {
      "qno": 17,
@@ -19329,7 +19944,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Let events A, B and E be defined as:\nA : Student knows the answer\nB : Student guesses the answer\nE : student answered correctly P(A) =\n3 , P(B) = Here, P A E\n= 1 and P B E  = By Bayes’ Theorem P E A B E P P(B) A E P P(A) A E P A P 35(b).\nSol.\nLet X denote the prize value.\nHere X can take values of 8, 4 and 2.\nP(X = 8) = 10 2 ,  or\nP(X = 4) = 10 5 ,  or\nP(X = 2) = 10 X P(X) XP(X)\nHence, Mean value of X = ∑𝑋 𝑃(𝑋) =\n10 or ₹ 4.20\nThis section comprises of 3 case-study based questions of 4 marks each."
+     }
     },
     {
      "qno": 35,
@@ -19391,7 +20009,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Independent Events"
+     "topic": "Independent Events",
+     "answer": {
+      "text": "P (𝑬̅) = 0.6 ⇒𝑷(𝑬) = 0.4\nP (E ∪ F) = P(E) + P(F) – P(E∩F)\n⇒ 0.6 = 0.4 +P(F) -0.4 P(F) ⇒ P(F) =\nP (𝑬̅ ∪ 𝑭̅) = 𝟏−𝑷 (𝑬 ∩𝑭)\nIn this section there are 4 long answer type questions of 5 marks each. P.T.O."
+     }
     },
     {
      "qno": 37,
@@ -19408,7 +20029,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "Let A denote the event of airplane reaching its destination late\n𝑬𝟏 = severe turbulence\n𝑬𝟐 = moderate turbulence\n𝑬𝟑 = light turbulence\nP(A) = P (𝑬𝟏) 𝑷( 𝑨|𝑬𝟏) + 𝑷(𝑬𝟐)𝑷(𝑨|𝑬𝟐) + 𝑷(𝑬𝟑)𝑷(𝑨|𝑬𝟑) } P.T.O.\n(ii) P (𝑬𝟐|𝑨) = 𝑷(𝑬𝟐)𝑷(𝑨|𝑬𝟐) 𝑷(𝑨)"
+     }
     },
     {
      "qno": 11,
@@ -19469,7 +20093,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "𝑃(𝐸2) = 1 −0.0000001 (ii) 𝑃(𝐴𝐸1 ⁄ ) + 𝑃(𝐴𝐸2 ⁄\n(iii)(a) 𝑃(𝐴) = 𝑃(𝐸1) × 𝑃(𝐴𝐸1 ⁄\n) + 𝑃(𝐸2) × 𝑃(𝐴𝐸2 ⁄"
+     }
     },
     {
      "qno": 11,
@@ -19509,7 +20136,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Questions no. 32 to 35 are long answer (LA) type questions carrying 5 marks each."
+     }
     },
     {
      "qno": 36,
@@ -19526,7 +20156,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "X P(X) k 4k 9k 8k 10k 12k Ans(ii)\nk + 4k + 9k + 8k + 10k + 12k = 1 ⇒k = 44 Ans (iii) (a) Mean = i i x p Σ\n= k + 8k + 27k + 32k + 50k + 72k = 190k"
+     }
     },
     {
      "qno": 17,
@@ -19586,7 +20219,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "be the event of lost\nbe the event of lost\nA be the event of draw Let E E so, P(E )= ,P(E )= , P\nNow, Required probability P(A|E\nP E | A P(A|E ) P(E f 3,& 0 we g\nd common shaded region is the region AB\nthe common shaded region are & (2,0).Thu x y x y x y D ≤ ≥ ≤ ≥ ≥ s, of\nZ is 15 at Z x y x y card is King,\ncard not a King and\nwing a King from remaining P(A |E )= a 51 c rds. P(A|E ) =\ny is P E | A ,\nE ) P(E )\nP(A|E ) P(E )"
+     }
     },
     {
      "qno": 31,
@@ -19604,7 +20240,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Random Variables and its Probability Distributions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "11 | P a g e get BCD. For correct Graph For correct Table 31(b). Sol.\nLet P(1)=P(3)=P(5) = p, so\nAs, P(1) + P(2) + P(3) + P P(Getting 6)= ,P(Not get the Numb Let X represents Now, P(X=0)= 9\nRequired probability distri\nPossible values of X are 0,\nMean of X = i i i X P X X P X =Σ\nIn this section there are 4 lo"
+     }
     },
     {
      "qno": 38,
@@ -19621,7 +20260,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Bayes' Theorem"
+     "topic": "Bayes' Theorem",
+     "answer": {
+      "text": "Rohit, Jaspreet and Alia ap\nsame post. The probability\nand Alia's selection is . T\nomical centre shows three among the brightest\nn. Assume that the telescope is located at O(0,0 ir locations at ∃ ∃ ∃\nthe points D, A and V having po 8  and 11  respectively. k i j k − ∃\nrmation, answer the following questions: from star A? the direction of DA υυυρ\nf VDA. on of vector on vector ? DV DA ∠ υυυρ υυυρ ∃ ∃ ∃ ∃ or of V\nPosition Vector of A 113 units or of A\nPosition Vector of D i j k i j k − − − − =− − ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃ ∃ irection of cos\n|| | i j k i j k i j k DA k V DA V DA − − − ∃ ∃ ∃ υυυρ υρυυυρ ρ υυυρ ∃ on | |"
+     }
     },
     {
      "qno": 18,
@@ -19685,7 +20327,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "E X 2a 3a 5b 5a 5b ip 2a b ⇒ Σ E X 5a 5b ⇒ and,\nsolving the two equations, we get, a ,b P X P X P X a ≥ − − −\n(Question nos. 32 to 35 are Long Answer type questions carrying 5 marks each)"
+     }
     },
     {
      "qno": 38,
@@ -19702,7 +20347,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "text": "PTO Ans (i)  ( P E 0.7, P E (ii) (\nP A | E\n0.8,P A | E (iii) ( ) P A P E\nP A | E P E\nP A | E ⋅ ⋅ or 17"
+     }
     },
     {
      "qno": 7,
