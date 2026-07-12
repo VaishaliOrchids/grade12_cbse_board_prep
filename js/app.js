@@ -118,7 +118,7 @@
   // into a real <ul>, a line that is JUST a sub-part label ("(a)", "(ii)", "(I)")
   // into a small bold heading, and a mark/credit annotation ("(Any two)",
   // "(1 mark for ...)") into a muted note — instead of one long wall of <br>s.
-  var ANS_SUBLABEL = /^\(?([a-z]|[ivx]{1,4}|[IVX]{1,4})\)\.?$/;
+  var ANS_SUBLABEL = /^\(?([a-z]|[ivx]{1,4})\)\.?$/i;
   var ANS_NOTE = /^\((?:any\s+\w[^)]*|[\d½¼¾⅓⅔⅛]+\s*(?:\/\d+|[x×]\d+)?\s*marks?[^)]*|award[^)]*|full\s*(?:marks|credit)[^)]*|note[^)]*)\)\.?$/i;
   var ANS_BULLET = /^[•·]\s*(.*)$/;
   function answerHTML(text) {
