@@ -1266,7 +1266,7 @@
      "difficulty": "Difficult",
      "topic": "Pollination",
      "answer": {
-      "text": "(a) A = geitonogamy;  B = autogamy.\n(b) Conditions for autogamy in a bisexual flower (any two): the anthers and the stigma should lie close to each other; the flower may be cleistogamous (a closed flower); and the pollen release and stigma receptivity should be synchronised (occur at the same time).\n(c)(i) Advantage of autogamy — an assured seed set with no dependence on pollinators, so that a pure breed can be obtained. Disadvantage — no genetic variation (it leads to inbreeding depression)."
+      "text": "(a) A = geitonogamy;  B = autogamy.\n(b) Conditions for autogamy in a bisexual flower (any two): the anthers and the stigma should lie close to each other; the flower may be cleistogamous (a closed flower); and the pollen release and stigma receptivity should be synchronised (occur at the same time).\n(c)(i) Advantage of autogamy — an assured seed set with no dependence on pollinators, so that a pure breed can be obtained. Disadvantage — no genetic variation (it leads to inbreeding depression).\nOR (c)(ii) Examples of plants showing cleistogamy: $Oxalis$ / $Viola$ (the common pansy) / $Commelina$. In these plants, some flowers do not open at all (cleistogamous / closed flowers) and hence show autogamy."
      }
     },
     {
@@ -1313,7 +1313,7 @@
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
-      "text": "(a)\n(i)\nDormancy is crucial for storage (dehydration) of seeds to be used to\nraise the crops in next season / Seeds are  used as source of food / for\ncommercial purpose\n(ii)\nPea seed\nCastor seed\nNon endospermic seed\nEndospermic seed\nNon-albuminous seed\nAlbuminous seed\nNo endosperm is left in the\nseed as it is fully consumed\nduring embryo development.\nIt contains some amount of\nendosperm as it is not\nconsumed completely during\nembryo  development.\n(Any one difference)"
+      "text": "(a)(i) Seed dormancy is crucial for the storage (dehydration) of seeds, so that they can be used to raise the crops in the next season, be used as a source of food, or be used for commercial purposes.\n(ii) Difference between a pea seed and a castor seed (any one): a pea seed is a non-endospermic (non-albuminous) seed — no endosperm is left in it as it is fully consumed during embryo development; a castor seed is an endospermic (albuminous) seed — it contains some endosperm, as it is not completely consumed during embryo development."
      }
     },
     {
@@ -1333,7 +1333,7 @@
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
-      "text": "(a)\n• No\n• -In cereals or rice or wheat pollen grains loose viability within 30\nminutes of their release ,\n-In some members of Rosaceae or Leguminoseae or Solanaceae –they\nmaintain viability for months ,\n- or any other correct example\n(b)\nThey are stored using Cryo-preservation techniques / In liquid nitrogen\nat – 196oC"
+      "text": "(a) No. The viability of pollen grains after their release varies with the species: in cereals such as rice and wheat, the pollen grains lose viability within about 30 minutes of their release, whereas in some members of the Rosaceae, Leguminosae and Solanaceae, they maintain viability for months.\n(b) Pollen grains can be stored for years using cryopreservation techniques — in liquid nitrogen at $-196\\,^{\\circ}$C (this makes it possible to build pollen banks)."
      }
     },
     {
@@ -1353,7 +1353,10 @@
      "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
-      "text": "(Label any six parts)"
+      "text": "Labelled diagram of a typical anatropous ovule (below), showing (any six): the funicle, the hilum, the micropyle, the micropylar pole, the outer integument, the inner integument, the nucellus, the embryo sac, and the chalazal pole.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_1_1_q25_ovule.png"
+      ]
      }
     },
     {
@@ -1432,7 +1435,10 @@
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
-      "text": "Outermost layer: Epidermis helps in protection / in dehiscence of anther to\nrelease the pollens.\nInnermost layer:  Tapetum provides nourishment to the developing pollen\ngrains"
+      "text": "Transverse section of the wall of a microsporangium (anther), showing its four layers (diagram below): the epidermis, the endothecium, the middle layers and the tapetum.\nFunctions: the outermost layer, the epidermis, helps in protection (and in the dehiscence of the anther to release the pollen); the innermost layer, the tapetum, provides nourishment to the developing pollen grains.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_2_1_q24_anther.png"
+      ]
      }
     },
     {
@@ -1499,7 +1505,7 @@
      "difficulty": "Average",
      "topic": "Apomixis and Polyembryony",
      "answer": {
-      "text": "(a)\n• In some species (Asteraceae and grasses) the diploid egg cell is formed\nwithout reduction division and develop into an embryo without\nfertilization\n• Some of the nucellar cells surrounding the embryo sac starts dividing\nand protrude into the embryo sac and develop into an embryo\n(b)  In Apomictic seeds there will be no segregation of the hybrid\ncharacters in the progeny plants so farmers can keep on using the\nhybrid seeds to raise new crop year after year/ If hybrid seeds are made\napomictic the farmer need not to buy hybrid seeds every year hence\nthey are cost effective"
+      "text": "(a) Apomixis is a form of asexual reproduction that mimics sexual reproduction (seeds are produced without fertilisation). It occurs in two main ways: in some species (of the Asteraceae and grasses) the diploid egg cell is formed without reduction division and develops into an embryo without fertilisation; and in some species the nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac and develop into embryos.\n(b) Importance: in apomictic seeds there is no segregation of the hybrid characters in the progeny, so farmers can go on using the hybrid seeds to raise a new crop year after year; if hybrid seeds are made apomictic, the farmer need not buy fresh hybrid seeds every year, so it is cost-effective."
      }
     },
     {
@@ -1519,7 +1525,10 @@
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
-      "text": "(Diagram= ½, Any correct labelling =½×5)"
+      "text": "Labelled longitudinal section of a monocotyledonous (maize/grass) seed (diagram below), showing: the pericarp, the endosperm, the scutellum, the coleoptile, the plumule, the radicle and the coleorhiza.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_3_1_q26_monocotseed.png"
+      ]
      }
     },
     {
@@ -1568,7 +1577,7 @@
      "difficulty": "Average",
      "topic": "Apomixis and Polyembryony",
      "answer": {
-      "text": "(a)\nIn some species (Asteraceae and grasses)  the diploid egg cell is formed\nwithout reduction division and develop into an embryo without fertilization\nsuch are apomictic seeds. / Some of the nucellar cells surrounding the embryo\nsac starts dividing and protrude into the embryo sac and develop into an\nembryo.\n(b)\nIn Apomictic seeds there will be no segregation of the hybrid characters in the\nprogeny plants so farmers can keep on using the hybrid seeds to raise new crop\nyear after year / If hybrid seeds are made apomictic the farmer need not to buy\nhybrid seeds every year hence they are cost effective."
+      "text": "(a) Apomixis is the formation of seeds without fertilisation. In some species (e.g. Asteraceae and grasses) the diploid egg cell is formed without reduction division and develops into an embryo without fertilisation; alternatively, some of the nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac and develop into an embryo.\n(b) In apomictic seeds there is no segregation of the hybrid characters in the progeny, so farmers can keep using the harvested seed to raise a new crop year after year; hybrid seed need not be bought every year, making it cost-effective."
      }
     },
     {
@@ -1588,7 +1597,58 @@
      "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
-      "text": "Wind pollinated flowers\nInsect Pollinated flowers\nFlowers are dull or not colourful.\nFlowers are colourful.\nFlowers do not produce nectar.\nFlowers produce nectar.\nFlowers are not fragrant.\nFlowers are fragrant.\nFlowers are generally of small size.\nFlowers are of large size.\nPollen grains are produced in large\nnumbers.\nPollen grains are not produced in\nlarge numbers.\nPollen grains are light weight and\nnon sticky.\nPollen grains are heavy and sticky.\nOften have feathery stigma to easily\ntrap air borne pollens\nStigma is often non feathery.\nAny other correct difference (Any four)\n· Example :\nWind pollinated flowers\nInsect Pollinated flowers\nMaize, Cannabis, Grasses\nYucca, Sunflower\nAny other correct example (Any one)"
+      "text": "Differences between wind-pollinated and insect-pollinated flowers (any four):",
+      "table": [
+       {
+        "headers": [
+         "Wind-pollinated flowers",
+         "Insect-pollinated flowers"
+        ],
+        "rows": [
+         [
+          "Flowers are dull / not colourful.",
+          "Flowers are colourful."
+         ],
+         [
+          "Flowers do not produce nectar.",
+          "Flowers produce nectar."
+         ],
+         [
+          "Flowers are not fragrant.",
+          "Flowers are fragrant."
+         ],
+         [
+          "Flowers are generally small in size.",
+          "Flowers are large in size."
+         ],
+         [
+          "Pollen grains are produced in large numbers.",
+          "Pollen grains are not produced in large numbers."
+         ],
+         [
+          "Pollen grains are light-weight and non-sticky.",
+          "Pollen grains are heavy and sticky."
+         ],
+         [
+          "Often have a feathery stigma to easily trap air-borne pollen.",
+          "Stigma is often non-feathery."
+         ]
+        ]
+       },
+       {
+        "caption": "Examples (any one)",
+        "headers": [
+         "Wind-pollinated flowers",
+         "Insect-pollinated flowers"
+        ],
+        "rows": [
+         [
+          "Maize, $Cannabis$, grasses",
+          "$Yucca$, sunflower"
+         ]
+        ]
+       }
+      ]
      }
     },
     {
@@ -1638,7 +1698,7 @@
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
-      "text": "(a)\n(i) Award marks if attempted.\n(ii)\nIt provides nourishment to the embryo."
+      "text": "(a)(i) (Any correctly attempted answer is accepted.)\n(a)(ii) The endosperm provides nourishment to the developing embryo."
      }
     },
     {
@@ -1659,7 +1719,7 @@
      "topic": "Apomixis and Polyembryony",
      "figures": [],
      "answer": {
-      "text": "(b) Production of hybrid seed is very costly, If hybrid seeds are made into apomictic\nthere is no segregation of characters of the hybrid progeny, farmers need not to buy\nhybrid seeds every year, use of apomictic seeds would be cost effective, any other\ncorrect reason\n(any two correct reasons)"
+      "text": "(b) The production of hybrid seed is very costly. If the hybrid seeds are made apomictic, there is no segregation of characters in the hybrid progeny, so farmers need not buy hybrid seed every year; hence the use of apomictic seeds would be cost-effective."
      }
     },
     {
@@ -1679,7 +1739,7 @@
      "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
-      "text": "− Self-incompatibility is the genetic mechanism which prevents self-pollination\nby inhibits the germination of pollen from same flower or different flower of\nsame plant on stigma.\n− Unisexual flowers have no chance for self-pollination\n− Receptivity of male and female parts: Pollen release and stigma receptivity are\nnot synchronised.\n− Position of male and female parts: The anther and stigma are placed at different\npositions so that the pollen cannot come in contact with the stigma of the same\nflower.\n− Unisexual plants have no chance of self-pollination.\n− Any other correct outbreeding device.\n(Any three)"
+      "text": "Outbreeding devices that prevent self-pollination (any three):\n– Self-incompatibility: a genetic mechanism that prevents self-pollination by inhibiting the germination of pollen (from the same flower, or a different flower of the same plant) on the stigma.\n– Unisexual flowers have no chance of self-pollination.\n– Receptivity of male and female parts: pollen release and stigma receptivity are not synchronised.\n– Position of male and female parts: the anther and the stigma are placed at different positions so that the pollen cannot come into contact with the stigma of the same flower.\n– Unisexual plants (male and female flowers on different plants) have no chance of self-pollination."
      }
     },
     {
@@ -1810,7 +1870,10 @@
      "topic": "Microsporangium and Pollen Grain",
      "figures": [],
      "answer": {
-      "text": "b)\n(i)\n(ii)\nThree layers\n• Plasma membrane\n• Intine\n• Exine\n(iii)\n• Sporopollenin.\n• It is very resistant/ cannot be degraded by enzymes/ acids/ alkali/\ntemperature.\n(iv)\nOutermost layer is disrupted at some places to form the germ pores\nthrough which pollen germinates to form pollen tube.\n- o O o -"
+      "text": "(b)(i) A mature pollen grain (diagram below) contains two cells: a large vegetative cell (with an abundant food reserve) and a small generative cell.\n(ii) The pollen-grain wall has (up to) three layers: the innermost plasma membrane, the intine (a thin inner layer of cellulose and pectin) and the exine (the hard outer layer).\n(iii) The exine is made of sporopollenin, which is very resistant and cannot be degraded by any enzyme, acid, alkali or high temperature.\n(iv) The exine is not continuous — it is disrupted (absent) at some places to form the germ pores, through which the pollen germinates to form the pollen tube.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_3_1_q33_pollengrain.png"
+      ]
      }
     },
     {
@@ -1831,7 +1894,41 @@
      "topic": "Seed and Fruit Formation",
      "figures": [],
      "answer": {
-      "text": "(b)(i)\n(b)(ii)\nPerisperm\nEndosperm\nIn seeds residual persistent nucellus\nis called perisperm.\nIt is the product formed from the primary\nendosperm cell in the ovule.\nThe cells are diploid (2n).\nCells are triploid (3n).\n(any one)\n· Examples :\nPerisperm\nEndosperm\nEg. Black pepper / beet/ any other\nexample\neg. Castor / Wheat/ Maize/Barley/\nSunflower/ Coconut/any other example"
+      "text": "(b)(i) A labelled longitudinal section of a monocot (maize) seed is shown below (endosperm, coleoptile, plumule, radicle, coleorhiza and scutellum).\n(b)(ii) Differences between perisperm and endosperm:",
+      "table": [
+       {
+        "headers": [
+         "Perisperm",
+         "Endosperm"
+        ],
+        "rows": [
+         [
+          "The residual, persistent nucellus in the seed is called perisperm.",
+          "It is the product formed from the primary endosperm cell in the ovule."
+         ],
+         [
+          "The cells are diploid $(2n)$.",
+          "The cells are triploid $(3n)$."
+         ]
+        ]
+       },
+       {
+        "caption": "Examples",
+        "headers": [
+         "Perisperm",
+         "Endosperm"
+        ],
+        "rows": [
+         [
+          "Black pepper, beet",
+          "Castor, wheat, maize, barley, sunflower, coconut"
+         ]
+        ]
+       }
+      ],
+      "figures": [
+       "assets/answer_figs/bio_2026_57_4_1_q31_monocotseed.png"
+      ]
      }
     },
     {
@@ -2233,7 +2330,7 @@
      "topic": "Gametogenesis",
      "figures": [],
      "answer": {
-      "text": "(b)\n• Tertiary follicle in the ovary\n• Secondary oocyte and 1st polar body."
+      "text": "(b) The structures: a tertiary (Graafian) follicle in the ovary; and, within it, the secondary oocyte together with the first polar body."
      }
     },
     {
@@ -2647,7 +2744,7 @@
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "answer": {
-      "text": "(a) Luteinising hormone (LH) — it helps in ovulation / induces the rupturing of the Graafian follicle.\n(b) Ovary: maturation of the follicles;  Uterus: proliferation of the endometrial lining.\n(c) Q = progesterone; it maintains pregnancy / the endometrium."
+      "text": "(a) Luteinising hormone (LH) — it helps in ovulation / induces the rupturing of the Graafian follicle.\n(b) Ovary: maturation of the follicles;  Uterus: proliferation of the endometrial lining.\n(c) Q = progesterone; it maintains pregnancy / the endometrium.\nOR (d) Corpus luteum — the Graafian follicle transforms into the corpus luteum after ovulation."
      }
     },
     {
@@ -3002,7 +3099,7 @@
      "difficulty": "Difficult",
      "topic": "Fertilisation and Implantation",
      "answer": {
-      "text": "(a)\n• After the entry of sperm into female gamete, it undergoes meiotic\ndivision II, to produce haploid ovum ie ootid, then the nucleus of\nsperm and ootid fuse together to form zygote, zygote moves through\nthe isthmus of oviduct towards uterus and it undergoes mitotic\ndivision or cleavage to form blastomeres, the embryo with 8 to 16\nblastomere is called morula and it further divides and transforms into\nBlastocyst, blastocyst have outer layer trophoblast and inner cell mass\nand the trophoblast layer of blastocyst gets attached to endometrium,\nUterine wall divide rapidly and covers blastocyst and this it gets\nembedded in the endometrium of uterus this is called implantation.\n• The site of fertilization is-\nampullary region of fallopian tube /isthmus ampullary junction of\nfallopian tube."
+      "text": "(a) After the entry of the sperm into the female gamete, the secondary oocyte completes meiotic division II to produce a haploid ovum (ootid); the nucleus of the sperm and that of the ootid then fuse to form the diploid zygote. The zygote moves through the isthmus of the oviduct towards the uterus and undergoes mitotic cleavage to form blastomeres. The embryo with 8–16 blastomeres is called the morula, which divides further and transforms into the blastocyst. The blastocyst has an outer layer (trophoblast) and an inner cell mass; the trophoblast becomes attached to the endometrium, the uterine wall grows over the blastocyst, and it becomes embedded in the endometrium — this is implantation. The site of fertilisation is the ampullary region (the ampullary–isthmic junction) of the fallopian tube."
      }
     },
     {
@@ -3022,7 +3119,7 @@
      "difficulty": "Average",
      "topic": "Female Reproductive System",
      "answer": {
-      "text": "(a)\n(i)\nPlacenta\n(ii)\nNutrition: It facilitates the supply of nutrients to embryo.\nHormonal regulation: Acts as an endocrine gland and produces hCG\n/Human Chorionic Gonadotropin, hPL / Human Placental Lactogen,\nestrogen, progestogens. (Any two hormones)"
+      "text": "(a)(i) The structure is the placenta.\n(ii) Two functions of the placenta: Nutrition — it facilitates the supply of nutrients to the embryo; and Hormonal regulation — it acts as an endocrine gland and produces hormones (any two): hCG (human chorionic gonadotropin), hPL (human placental lactogen), estrogen and progestogens."
      }
     },
     {
@@ -3043,7 +3140,7 @@
      "topic": "Gametogenesis",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nFertilisation can only occur if the ovum and sperms are transported\nsimultaneously to the ampullary region / use of contraceptive devices / low\nsperm count or poor sperm quality / absence of ovulation / lactational\namenorrhea / coitus interruptus / periodic abstinence\n(Any other correct reason)\n(ii)\nMeiosis I in Spermatogenesis\nMeiosis I in Oogenesis\nStarts at puberty\nStarts during embryonic stage\nResults in production of two equal haploid\nsecondary spermatocyte\nResults in production of unequal haploid\nsecondary oocyte and first polar body\n(Any One correct difference)"
+      "text": "(b)(i) Fertilisation can occur only if the ovum and sperms are transported simultaneously to the ampullary region; it may fail because of the use of contraceptive devices, a low sperm count or poor sperm quality, the absence of ovulation, lactational amenorrhoea, coitus interruptus, or periodic abstinence (any one).\n(ii) Difference between Meiosis I in spermatogenesis and in oogenesis (any one): in spermatogenesis it starts at puberty and produces two equal haploid secondary spermatocytes; in oogenesis it starts during the embryonic stage and produces an unequal haploid secondary oocyte and a first polar body."
      }
     },
     {
@@ -3090,7 +3187,10 @@
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "answer": {
-      "text": "(a)\n(i)\n• Oogonia (gamete mother cells) 2n multiply by mitosis during foetal\novary and differentiate into primary oocytes, each primary oocyte gets\nsurrounded by follicle cells to form a primary follicle.\n• The primary oocyte remains arrested in prophase-I till puberty, after\npuberty oocyte inside the tertiary follicle completes meiosis-I to form\na haploid secondary oocyte and a first polar body.\n• Tertiary follicle changes into Graafian follicle.\n• The secondary oocyte starts meiosis-II and then stops, Graafian follicle\nruptures to release secondary oocyte (ovum) from the ovary\n(ovulation).\n(ii)\nLuteinizing hormone (LH) and Follicle stimulating hormone (FSH)"
+      "text": "(a)(i) Oogenesis (diagram below): the oogonia (2n gamete mother cells) multiply by mitosis in the foetal ovary and differentiate into primary oocytes; each primary oocyte gets surrounded by follicle cells to form a primary follicle. The primary oocyte remains arrested in prophase-I until puberty; after puberty, the oocyte inside the tertiary follicle completes meiosis-I to form a haploid secondary oocyte and a first polar body. The tertiary follicle changes into the Graafian follicle. The secondary oocyte starts meiosis-II and then stops; the Graafian follicle ruptures to release the secondary oocyte (the ovum) from the ovary (ovulation).\n(ii) The hormones that increase during the follicular phase are luteinising hormone (LH) and follicle-stimulating hormone (FSH).",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_3_1_q33_oogenesis.png"
+      ]
      }
     },
     {
@@ -3137,7 +3237,7 @@
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "answer": {
-      "text": "(a)\n- Gonadotropin releasing hormone/ GnRH , It stimulates the pituitary gland to\nrelease follicle stimulating hormone or FSH and Luteinising hormone or LH\nboth act on ovary.\n-  FSH/ Follicle stimulating hormone  ,  stimulate follicular development and\nsecretion of estrogen by the follicle cells.\n- LH/ Luteinising hormone , stimulates ovulation/ formation of corpus luteum from\nthe ruptured graafian follicle.\n- Progesterone , Maintenance of endometrium necessary for implantation and other\nevents of pregnancy.\n- Estrogen , responsible for the maturation of primary follicle into graafian follicle/\nregeneration of endometrium lining."
+      "text": "Role of the hormones in the female reproductive cycle:\n– Gonadotropin-releasing hormone (GnRH): stimulates the pituitary gland to release follicle-stimulating hormone (FSH) and luteinising hormone (LH), which both act on the ovary.\n– FSH (follicle-stimulating hormone): stimulates follicular development and the secretion of estrogen by the follicle cells.\n– LH (luteinising hormone): stimulates ovulation and the formation of the corpus luteum from the ruptured Graafian follicle.\n– Progesterone: maintains the endometrium, which is necessary for implantation and other events of pregnancy.\n– Estrogen: responsible for the maturation of the primary follicle into the Graafian follicle and for the regeneration of the endometrial lining."
      }
     },
     {
@@ -3243,7 +3343,7 @@
      "difficulty": "Average",
      "topic": "Fertilisation and Implantation",
      "answer": {
-      "text": "(a)\n· Fertilisation\nFertilisation occurs in the ampulla / ampullary-isthmic junction of the fallopian\ntube, when sperm comes in contact with the ovum, it induces changes in the\nzona pellucida of the ovum that block the entry of additional sperms and thus\nensures only one sperm, the secretions of the acrosome help the sperm to enter\nthe cytoplasm of the ovum by dissolving the zona pellucida and plasma\nmembrane , after the entry of sperm into the cytoplasm of ovum induces\ncompletion of meiosis II (of secondary oocyte), fusion occurs between the\nnucleus of ootid (ovum) and that of sperm to form a diploid zygote\n· Implantation:\n− The trophoblast layer gets attached to the endometrium.\n− The uterine cells divide rapidly and cover the blastocyst as a result the\nblastocyst becomes embedded in the endometrium of uterus"
+      "text": "(a)\n– Fertilisation: fertilisation occurs in the ampulla (the ampullary-isthmic junction) of the fallopian tube. When a sperm comes in contact with the ovum, it induces changes in the zona pellucida that block the entry of additional sperms, ensuring that only one sperm fertilises the ovum. Secretions of the acrosome help the sperm to enter the cytoplasm of the ovum by dissolving the zona pellucida and the plasma membrane. The entry of the sperm induces the completion of meiosis-II of the secondary oocyte; the nucleus of the ovum (ootid) then fuses with that of the sperm to form a diploid zygote.\n– Implantation: the trophoblast layer of the blastocyst gets attached to the endometrium; the uterine cells divide rapidly and cover the blastocyst, so that the blastocyst becomes embedded in the endometrium of the uterus."
      }
     },
     {
@@ -3264,7 +3364,7 @@
      "topic": "Pregnancy and Embryonic Development",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)Hormones in sequence of their secretion in a pregnant woman.\nFSH; LH; hCG; Relaxin.\n(ii)\n− FSH:\nSource: Anterior Pituitary.\nFunction: Stimulates follicular development\n− LH:\nSource: Anterior Pituitary.\nFunction: It causes rupture of Graafian follicle and release of ovum into\nfallopian tube / Ovulation\n− hCG:\nSource: Placenta.\nFunction: It supports foetal growth, metabolic changes in mother and\nmaintenance of pregnancy.\n− Relaxin:\nSource: Ovary.\nFunction: It facilitates parturition."
+      "text": "(b)(i) Hormones in the sequence of their secretion in a pregnant woman: FSH; LH; hCG; relaxin.\n(b)(ii)\n– FSH — Source: anterior pituitary; Function: stimulates follicular development.\n– LH — Source: anterior pituitary; Function: causes rupture of the Graafian follicle and release of the ovum into the fallopian tube (ovulation).\n– hCG — Source: placenta; Function: supports foetal growth, brings about metabolic changes in the mother and maintains pregnancy.\n– Relaxin — Source: ovary; Function: facilitates parturition."
      }
     }
    ],
@@ -3322,7 +3422,7 @@
      "topic": "Contraception and Birth Control",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nCase I\nIn vitro fertilization followed by zygote intra fallopian transfer or ZIFT /\nIn vitro fertilization followed by Intra uterine transfer  or IUT /\nIntra Uterine insemination or IUI / Artificial insemination or AI .\nCase II -\nInvitro fertilization followed by IUT\nCase III -\nIntra Cytoplasmic Sperm Injection  or ICSI / Artificial insemination or\nAI / Intra Uterine insemination or IUI.\n(ii)\n• The copper releasing IUD’s are CUT, Cu7, Multiload 375\n(Any two)\n-Copper releasing IUD’s increases phagocytosis of sperms within\nthe uterus,\n-Cu ions released  suppress sperm motility and the fertilising capacity\nof sperms."
+      "text": "(b)(i) The assisted reproductive technologies:\nCase I — in-vitro fertilisation (IVF) followed by ZIFT (zygote intra-fallopian transfer) or IUT (intra-uterine transfer); or IUI (intra-uterine insemination) / artificial insemination (AI).\nCase II — in-vitro fertilisation followed by IUT.\nCase III — ICSI (intra-cytoplasmic sperm injection) / artificial insemination (AI) / IUI.\n(ii) Copper-releasing IUDs (any two): CuT, Cu7, Multiload 375. They increase the phagocytosis of the sperms within the uterus, and the released $Cu$ ions suppress sperm motility and the fertilising capacity of the sperms."
      }
     },
     {
@@ -4132,7 +4232,7 @@
      "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
-      "text": "(a)\nAmniocentesis\nSome of the amniotic fluid of the developing foetus is taken to analyse\nthe fetal cells and dissolved substances.\nAdvantage:  It tests the presence of certain genetic disorders /down\nsyndrome / haemophilia / sickle cell anaemia / determine the survivability\nof the foetus\nDisadvantage: to determine the sex of unborn child and if found female\nmay lead to female foeticide.\n(b) Saheli is different from other pills in term of:\nComposition: It is non-steroidal.\nAdvantage: Once a week pill / low side effects / high contraceptive value"
+      "text": "(a) The technique is amniocentesis — some of the amniotic fluid of the developing foetus is taken to analyse the foetal cells and dissolved substances. Advantage: it can test for the presence of certain genetic disorders (e.g. Down's syndrome, haemophilia, sickle-cell anaemia) and determine the survivability of the foetus. Disadvantage: it can be misused to determine the sex of the unborn child, and if the foetus is found to be female it may lead to female foeticide.\n(b) Saheli differs from other pills in that its composition is non-steroidal; its advantages are that it is a once-a-week pill, has low side-effects and has a high contraceptive value."
      }
     },
     {
@@ -4152,7 +4252,7 @@
      "difficulty": "Average",
      "topic": "Assisted Reproductive Technologies",
      "answer": {
-      "text": "(a)\nSteps in IVF\nOva from wife/donor female and sperms from husband/donor male, are\ncollected and induced to form a zygote under simulated conditions, in a\nlaboratory.\nThe zygote or early embryos with up to 8 blastomeres could then be\ntransferred in the fallopian tube (ZIFT) / embryos with more than 8\nblastomeres could be transferred in the uterus (IUT)\n(b)\n• No\n• During IVF fertilization takes place in the lab (outside the female\nbody)/ In this case fertilization takes place in female’s body."
+      "text": "(a) Steps in IVF (in-vitro fertilisation): the ova from the wife (or a donor female) and the sperms from the husband (or a donor male) are collected and induced to form a zygote under simulated conditions in the laboratory. The zygote or the early embryo (up to 8 blastomeres) can then be transferred into the fallopian tube (ZIFT), or an embryo with more than 8 blastomeres can be transferred into the uterus (IUT).\n(b) No — in IVF the fertilisation takes place in the laboratory (outside the female body), whereas in this (other) case the fertilisation takes place inside the female's body."
      }
     },
     {
@@ -4199,7 +4299,7 @@
      "difficulty": "Easy",
      "topic": "Contraception and Birth Control",
      "answer": {
-      "text": "· Implants work by inhibiting ovulation / inhibiting implantation /changing the\nquality of cervical mucus to retard entry of  sperms.\n· The effective periods are much longer than those of pills.\n(Any other correct advantage)"
+      "text": "Implants work by inhibiting ovulation, inhibiting implantation and changing (thickening) the quality of the cervical mucus so as to retard the entry of sperms. Their effective period is much longer than that of pills."
      }
     },
     {
@@ -4219,7 +4319,7 @@
      "difficulty": "Easy",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
-      "text": "· Amniocentesis is test or procedure where some foetal cells in the amniotic fluid\nis analysed for certain genetic disorders.\n· Sex determination is done with the help of amniocentesis which may be\nmisused for female foeticide / to legally check increasing menace of female\nfoeticide."
+      "text": "– Amniocentesis is a test/procedure in which some foetal cells present in the amniotic fluid are analysed for certain genetic disorders.\n– Sex determination can be done with the help of amniocentesis, which may be misused for female foeticide; hence it has been legally banned, to check the increasing menace of female foeticide."
      }
     }
    ],
@@ -4311,7 +4411,7 @@
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
-      "text": "(a) It is a recessive trait — both parents in generation I do not express the trait, yet it appears in the progeny.\n(b) It is an autosomal trait — both males and females have an equal chance of getting the trait.\n(c) Child '1': $Aa$ or $AA$;  Child '3': $Aa$."
+      "text": "(a) It is a recessive trait — both parents in generation I do not express the trait, yet it appears in the progeny.\n(b) It is an autosomal trait — both males and females have an equal chance of getting the trait.\n(c) Child '1': $Aa$ or $AA$;  Child '3': $Aa$.\nOR (a) It is a recessive trait — both parents in generation I do not express the trait, yet it appears in the progeny.\n(b) It is a sex-linked trait — comparatively more males are affected.\n(c) Child '1': $XY$;  Child '3': $X'X$ (carrier)."
      }
     },
     {
@@ -6032,7 +6132,7 @@
      "difficulty": "Average",
      "topic": "Sex Determination",
      "answer": {
-      "text": "(a)\nCase 1 –Male heterogamety\nOrganism – Many insects / grasshopper / any correct example.\nCase II–Female heterogamety\nOrganism – Birds  / hen / any correct example."
+      "text": "(a) Case 1 — male heterogamety (the male produces two types of gametes); organism: many insects / the grasshopper (XO type) or humans (XY type).\nCase II — female heterogamety (the female produces two types of gametes); organism: birds / the hen (ZW type)."
      }
     },
     {
@@ -6055,7 +6155,7 @@
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
-      "text": "(a)\n• Pedigree analysis –It is analysis of traits or inheritance of traits in\nseveral generations of a family.\n• Importance : To trace the inheritance of a trait , abnormality or a\ndisease.\n(b)\n(i)\nAutosomal- Recessive\n(ii) Sickle Cell Anaemia / Thalassemia / Phenylketonuria /Any other\ncorrect  example."
+      "text": "(a) Pedigree analysis is the analysis of a trait (the inheritance of traits) across several generations of a family. Its importance: to trace the inheritance of a trait, an abnormality or a disease.\n(b)(i) The trait is autosomal recessive.\n(ii) Example (any one): sickle-cell anaemia / thalassaemia / phenylketonuria."
      }
     },
     {
@@ -6078,7 +6178,7 @@
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
-      "text": "(a)\nCross I – Genotypes TT and tt / TT and Tt / TT and TT\nCross II – Genotypes Tt and Tt."
+      "text": "(a) The genotypes of the parents:\nCross I — $TT$ and $tt$ (or $TT$ and $Tt$, or $TT$ and $TT$).\nCross II — $Tt$ and $Tt$.\nOR (a) It is a monohybrid cross.\n(b) The cross of an F$_1$ hybrid with the homozygous recessive parent is a test cross; it is done to find the genotype of an organism showing the dominant phenotype.\n(c) It shows that the tall trait is dominant over the dwarf trait; the genetic principle illustrated is the Law of Dominance."
      }
     },
     {
@@ -6125,7 +6225,7 @@
      "difficulty": "Average",
      "topic": "Linkage and Recombination",
      "answer": {
-      "text": "(a) Drosophila melanogaster\n(b)\nThey could be grown on simple synthetic medium in the laboratory.\nComplete their life cycle in about two weeks.\nSingle mating produces large number of progeny flies.\nClear differentiation of sexes – male and female flies are easily distinguishable.\nHas many types of hereditary variations that can be seen under low power\nmicroscopes. / (Any other correct reason) (Any four)"
+      "text": "(a) The organism used by Morgan for his genetic studies was the fruit fly, $Drosophila\\ melanogaster$.\n(b) Reasons why it is suitable (any four): it can be grown on a simple synthetic medium in the laboratory; it completes its life cycle in about two weeks; a single mating produces a large number of progeny flies; the sexes are clearly differentiated (males and females are easily distinguishable); and it shows many types of hereditary variations that can be seen under a low-power microscope."
      }
     },
     {
@@ -6145,7 +6245,7 @@
      "difficulty": "Easy",
      "topic": "Sex Determination",
      "answer": {
-      "text": "Henking traced a specific nuclear structure all through spermatogenesis in a\nfew insects, and observed that 50 per cent of the sperm received a special\nstructure after spermatogenesis, whereas the other 50 per cent sperm did not\nreceive it.\nThis observation later helped in sex determination as\n⇒ eggs fertilised by a sperm having X chromosome developed into females.\n⇒  Eggs fertilised by sperms not having X chromosome developed into\nmales."
+      "text": "Henking traced a specific nuclear structure (the X-body) all through spermatogenesis in a few insects, and observed that 50 % of the sperm received this special structure after spermatogenesis whereas the other 50 % did not. This observation later helped in understanding sex determination: the eggs fertilised by a sperm carrying the X chromosome developed into females, while the eggs fertilised by a sperm without the X chromosome developed into males."
      }
     },
     {
@@ -6165,7 +6265,7 @@
      "difficulty": "Average",
      "topic": "Linkage and Recombination",
      "answer": {
-      "text": "(a)\nMorgan hybridised yellow bodied white eyed females with brown bodied red\neyed males and inter-crossed their progeny.\n(b)\nHe observed that the two genes did not segregate independently of each other\nas in Mendelian inheritance pattern\nThe ratio deviated from 9:3:3:1 ratio (expected when genes segregate\nindependently)\n(c)\n• Linkage - He gave this term to describe the physical association of the\ntwo genes present on the same chromosome.\n• Recombination - Generations of nonparental gene combinations."
+      "text": "(a) In his linkage experiment, Morgan hybridised yellow-bodied, white-eyed females with brown-bodied, red-eyed males and then intercrossed their F$_1$ progeny.\n(b) He observed that the two genes did not segregate independently of each other (as expected in the Mendelian pattern); the ratio deviated from the 9:3:3:1 ratio expected when the genes segregate independently.\n(c) The terms he coined: Linkage — to describe the physical association of two genes present on the same chromosome; and Recombination — the generation of non-parental gene combinations."
      }
     },
     {
@@ -6304,7 +6404,49 @@
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
-      "text": "(a)\n· In Pea plants:\nPhenotypic ratio:- violet : white = 3 : 1 (½)\nConclusion: This is the case of dominance (½)\n· In Antirrhinum plant\nPhenotypic ratio:- Red : Pink : white = 1 : 2 : 1 (½)\nConclusion: This is a case of incomplete dominance (½)"
+      "text": "(a) In pea plants, a cross between a homozygous violet-flowered plant ($WW$) and a white-flowered plant ($ww$) gives an all-violet F1 ($Ww$). On selfing the F1, the F2 shows a phenotypic ratio of violet : white = $3:1$ — a case of complete dominance. In $Antirrhinum$ (snapdragon), a cross between a red-flowered plant ($RR$) and a white-flowered plant ($rr$) gives an all-pink F1 ($Rr$); on selfing, the F2 shows a phenotypic ratio of red : pink : white = $1:2:1$ — a case of incomplete dominance. The F2 Punnett squares are:",
+      "table": [
+       {
+        "caption": "Pea (complete dominance): F2 of $Ww \\times Ww$; ratio violet : white = $3:1$",
+        "headers": [
+         "$\\times$",
+         "$W$",
+         "$w$"
+        ],
+        "rows": [
+         [
+          "$W$",
+          "$WW$ (violet)",
+          "$Ww$ (violet)"
+         ],
+         [
+          "$w$",
+          "$Ww$ (violet)",
+          "$ww$ (white)"
+         ]
+        ]
+       },
+       {
+        "caption": "$Antirrhinum$ (incomplete dominance): F2 of $Rr \\times Rr$; ratio red : pink : white = $1:2:1$",
+        "headers": [
+         "$\\times$",
+         "$R$",
+         "$r$"
+        ],
+        "rows": [
+         [
+          "$R$",
+          "$RR$ (red)",
+          "$Rr$ (pink)"
+         ],
+         [
+          "$r$",
+          "$Rr$ (pink)",
+          "$rr$ (white)"
+         ]
+        ]
+       }
+      ]
      }
     },
     {
@@ -6325,7 +6467,7 @@
      "topic": "Genetic Disorders and Pedigree",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nMendelian disorder\nChromosomal disorder\n− Occurs due to mutation /\nalteration in single gene /\nfollow mendelian inheritance\npattern\n− Occurs due to addition or\ndeletion of one or more\nchromosomes / Does not\nfollow mendelian inheritance\npattern\nExample of mendelian disorder: Haemophilia /  Cystic Fibrosis /  Sickle Cell Anaemia\n/  Colour Blindness  /  Phenylketonuria  /  Thalassemia  /  any other correct example.\nExample of chromosomal disorder: Turner’s syndrome  /  Down’s syndrome  /\nKlinefelter’s syndrome  /  any other correct example.\n(ii)\n· Aneuploidy / Monosomy\n· Turner’s syndrome\n· Symptoms:\nlack of secondary sexual characters.\novaries are rudimentary\nsterile\nshort stature\nunderdeveloped feminine characters (any three)\n· Karyotype – 44+XO (45)"
+      "text": "(b)(i) Mendelian disorders occur due to a mutation / alteration in a single gene and follow the Mendelian inheritance pattern (e.g. haemophilia, cystic fibrosis, sickle-cell anaemia, colour blindness, phenylketonuria, thalassemia), whereas chromosomal disorders occur due to the addition or deletion of one or more chromosomes and do not follow the Mendelian inheritance pattern (e.g. Turner's syndrome, Down's syndrome, Klinefelter's syndrome).\n(b)(ii)\n– Chromosomal aberration: aneuploidy (monosomy).\n– Disorder: Turner's syndrome.\n– Symptoms (any three): lack of secondary sexual characters; rudimentary ovaries; sterility; short stature; underdeveloped feminine characters.\n– Karyotype: $44 + XO$ (45)."
      }
     },
     {
@@ -6634,7 +6776,49 @@
      "topic": "Genetic Disorders and Pedigree",
      "figures": [],
      "answer": {
-      "text": "(b)\n(I)\n(II)\n(III)\n(ii) Conclusions\n• Haemophilia is transmitted from unaffected carrier female to some of\nthe male progeny/ The possibility of a female being haemophilic is\nextremely rare because mother of such a female has to be a carrier\nand father haemophilic which is not possible in the later stage of life.\n• Sex linked recessive disorder."
+      "text": "(b) Inheritance of haemophilia (a sex-linked recessive disorder):\n(I) A cross between a normal female ($XX$) and a haemophilic male ($X^h Y$) gives all normal offspring — carrier daughters ($XX^h$) and normal sons ($XY$).\n(II) A cross between a carrier female ($XX^h$) and a normal male ($XY$) gives normal daughters ($XX$), carrier daughters ($XX^h$), normal sons ($XY$) and haemophilic sons ($X^h Y$) — the Punnett squares are shown below.\n(A cross of a carrier female with a haemophilic male can even give a haemophilic daughter.)\n(ii) Conclusions: haemophilia is transmitted from an unaffected carrier female to some of the male progeny; the possibility of a female being haemophilic is extremely rare (as her mother must be a carrier and her father haemophilic). It is a sex-linked recessive disorder.",
+      "table": [
+       {
+        "caption": "(I) Normal female $XX$ × haemophilic male $X^h Y$",
+        "headers": [
+         "×",
+         "$X^h$",
+         "$Y$"
+        ],
+        "rows": [
+         [
+          "$X$",
+          "$XX^h$ (carrier girl)",
+          "$XY$ (normal boy)"
+         ],
+         [
+          "$X$",
+          "$XX^h$ (carrier girl)",
+          "$XY$ (normal boy)"
+         ]
+        ]
+       },
+       {
+        "caption": "(II) Carrier female $XX^h$ × normal male $XY$",
+        "headers": [
+         "×",
+         "$X$",
+         "$Y$"
+        ],
+        "rows": [
+         [
+          "$X$",
+          "$XX$ (normal girl)",
+          "$XY$ (normal boy)"
+         ],
+         [
+          "$X^h$",
+          "$XX^h$ (carrier girl)",
+          "$X^h Y$ (haemophilic boy)"
+         ]
+        ]
+       }
+      ]
      }
     }
    ],
@@ -6757,7 +6941,7 @@
      "topic": "DNA Structure and Packaging",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nDNA nucleotide\nRNA nucleotide\nHas deoxyribose sugar\nHas Ribose sugar\nTypes of nitrogen bases are\nA,G,C,T\nTypes of nitrogen bases are\nA,G,C,U\n(Any one difference)\n(ii)\nBonds in a nucleotide\nN – Glycosidic linkage (between Sugar and Base)\nPhosphoester linkage – (Between Sugar and Phosphate)"
+      "text": "(b)(i) Difference between a DNA nucleotide and an RNA nucleotide (any one): a DNA nucleotide has deoxyribose sugar and the nitrogen bases A, G, C, T; an RNA nucleotide has ribose sugar and the nitrogen bases A, G, C, U.\n(ii) Bonds in a nucleotide: an N-glycosidic linkage (between the sugar and the base) and a phosphoester linkage (between the sugar and the phosphate)."
      }
     },
     {
@@ -7792,7 +7976,7 @@
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
-      "text": "(a) The enzyme is DNA-dependent RNA polymerase.\n(b) B = coding strand;  A = template strand.\n(c) C is the promoter — the sequence of DNA where the enzyme DNA-dependent RNA polymerase binds for the initiation of transcription. D is the terminator — the sequence of DNA where the process of transcription is terminated."
+      "text": "(a) The enzyme is DNA-dependent RNA polymerase.\n(b) B = coding strand;  A = template strand.\n(c) C is the promoter — the sequence of DNA where the enzyme DNA-dependent RNA polymerase binds for the initiation of transcription. D is the terminator — the sequence of DNA where the process of transcription is terminated.\nOR (d) C (the promoter) is located towards the 5' end (upstream) of the coding strand; D (the terminator) is located towards the 3' end (downstream) of the coding strand."
      }
     },
     {
@@ -8320,7 +8504,7 @@
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
-      "text": "(a)\n(i)\n-Maurice Wilkins and Rosalind franklin, – X- ray diffraction studies of\nDNA.\n-Erwin Chargaff ,– For a double stranded DNA the ratios between\nAdenine and Thymine and Guanine and Cytosine are constant and\nequal to one.\n(ii)\nThe salient features of double helix structure of DNA are as follows :\n-It is made of two polynucleotide chains, in which backbone is\nconstituted by sugar phosphate and the bases project inside.\n-The two chains have antiparallel polarity.\n-The bases in two stands are paired through hydrogen bonds forming\nbase pairs(bp). Adenine form double hydrogen bond with thymine\nand Guanine form triple hydrogen bond with cytosine.\n-The two chains are coiled in a right handed fashion.The pitch of\nhelix is 3.4 nm and 10b.p in each turn. Distance between base\npair in a helix is approximately 0.34 nm .\n-The plane of one base pair stacks over the other in double helix.\n(Any three points)"
+      "text": "(a)(i) The scientists: Maurice Wilkins and Rosalind Franklin — for the X-ray diffraction studies of DNA; and Erwin Chargaff — who showed that in double-stranded DNA the ratios of adenine to thymine and of guanine to cytosine are constant and equal to one.\n(ii) Salient features of the double-helix structure of DNA (any three): it is made of two polynucleotide chains, with a sugar–phosphate backbone and the bases projecting inside; the two chains have antiparallel polarity; the bases of the two strands are paired through hydrogen bonds (adenine forms two hydrogen bonds with thymine, and guanine forms three with cytosine); the two chains are coiled in a right-handed fashion, with a pitch of 3.4 nm and about 10 base pairs per turn (the distance between adjacent base pairs being about 0.34 nm); and the plane of one base pair stacks over the next."
      }
     },
     {
@@ -8341,7 +8525,7 @@
      "topic": "Transcription",
      "figures": [],
      "answer": {
-      "text": "(b)(i)\nTemplate strand\n3' – TAC TGG CAT AAA AGA CAT CAC GGG CAT GAA GTC\nCGT AAT – 5'\nm – RNA\n5' – AUG ACC GUA UUU UCU GUA GUG CCC GUA CUU CAG\nGCA UUA – 3'\n(ii)\n(1) In a bacterium\n5' – AUG ACC GUA UUU UCU GUA GUG CCC GUA CUU CAG\nGCA UUA – 3'\n(2) In humans\n5' – mGppp AUG ACC UUU UCU GUG CCC CUU CAG GCA UUA\n– poly A tail 3'\n(iii) It will have 10 amino acids ."
+      "text": "(b)(i) For the template strand $3'-TAC\\,TGG\\,CAT\\,AAA\\,AGA\\,CAT\\,CAC\\,GGG\\,CAT\\,GAA\\,GTC\\,CGT\\,AAT-5'$, the mRNA transcribed is $5'-AUG\\,ACC\\,GUA\\,UUU\\,UCU\\,GUA\\,GUG\\,CCC\\,GUA\\,CUU\\,CAG\\,GCA\\,UUA-3'$.\n(ii)(1) In a bacterium, the mRNA is used as such: $5'-AUG\\,ACC\\,GUA\\,UUU\\,UCU\\,GUA\\,GUG\\,CCC\\,GUA\\,CUU\\,CAG\\,GCA\\,UUA-3'$.\n(2) In humans, the mRNA is processed (capped, tailed and spliced): $5'-mGppp\\,AUG\\,ACC\\,UUU\\,UCU\\,GUG\\,CCC\\,CUU\\,CAG\\,GCA\\,UUA-polyA\\,3'$.\n(iii) The processed (human) mRNA will code for 10 amino acids."
      }
     },
     {
@@ -8418,7 +8602,7 @@
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
-      "text": "(a)\n(i) Substitution of Glutamic acid by Valine at the sixth position of beta globin\nchain of haemoglobin molecule / Polymerisation of haemoglobin molecule under\nlow oxygen tension\n(ii)\nSickle cell anaemia\nChange in shape of the RBC from biconcave to elongated sickle like\nstructure / Oxygen carrying capacity of haemoglobin reduces."
+      "text": "(a)(i) The molecular basis of sickle-cell anaemia: the substitution of glutamic acid by valine at the sixth position of the beta-globin chain of the haemoglobin molecule, leading to the polymerisation of haemoglobin under low oxygen tension.\n(ii) The disease is sickle-cell anaemia; the RBC changes shape from biconcave to an elongated sickle-like structure, and the oxygen-carrying capacity of the haemoglobin is reduced."
      }
     },
     {
@@ -8439,7 +8623,7 @@
      "difficulty": "Average",
      "topic": "Search for Genetic Material",
      "answer": {
-      "text": "(b)\nDNA is double stranded and the two strands being complimentary make it\nmore stable than RNA\nThe presence of thymine at the place of uracil confers additional stability to\nDNA.\n2’-OH group in RNA is reactive group and makes it labile and easily\ndegradable therefore DNA chemically is less reactive\nDNA being more stable mutate at slower rate than RNA (Any Two)"
+      "text": "(b) Reasons why DNA is more stable than RNA (any two): DNA is double-stranded, and its two complementary strands make it more stable than the single-stranded RNA; the presence of thymine in place of uracil confers additional stability on DNA; the 2'-OH group in RNA is a reactive group that makes RNA labile and easily degradable, so DNA is chemically less reactive; and, being more stable, DNA mutates at a slower rate than RNA."
      }
     },
     {
@@ -8459,7 +8643,7 @@
      "difficulty": "Average",
      "topic": "Genetic Code and Translation",
      "answer": {
-      "text": "(a) Genetic Code: It is the sequence of three nitrogenous bases (codon) on mRNA that\ndirects the sequence of amino acids during synthesis of proteins.\n(b) To provide complementarity between nucleotides and amino acids / to support the\nnotion that change in nucleic acids was responsible for change in amino acids in\nproteins / to establish the correlation between genetic information and protein\nsynthesis / to constitute a combination of four bases to code twenty amino acids.\n(c) As a codon from bacteria to human code for the same amino acid."
+      "text": "(a) The genetic code is the sequence of three nitrogenous bases (a codon) on the mRNA that directs the sequence of amino acids during the synthesis of proteins.\n(b) The importance of establishing the genetic code (any one): to provide the complementarity between the nucleotides and the amino acids; to support the notion that a change in the nucleic acid is responsible for a change in the amino acids of a protein; and to establish the correlation between the genetic information and protein synthesis (a combination of the four bases codes for the twenty amino acids).\n(c) The genetic code is nearly universal — a given codon codes for the same amino acid from bacteria to humans."
      }
     },
     {
@@ -8588,7 +8772,7 @@
      "difficulty": "Average",
      "topic": "Genetic Code and Translation",
      "answer": {
-      "text": "(a)\nIt is the process of polymerisation of amino acids to form a polypeptide\nas per the sequence coded in mRNA\n(b)\nAmino acids are activated in the presence of ATP and then linked to\ntheir corresponding cognate tRNA.\nImportance -The formation of peptide bond is favoured energetically."
+      "text": "(a) Translation is the process of polymerisation of amino acids to form a polypeptide, as per the sequence coded in the mRNA.\n(b) The amino acids are first activated in the presence of ATP and then linked to their corresponding cognate tRNA — this is the charging (aminoacylation) of the tRNA. Its importance: the formation of the peptide bond is then favoured energetically."
      }
     },
     {
@@ -8608,7 +8792,7 @@
      "difficulty": "Difficult",
      "topic": "Search for Genetic Material",
      "answer": {
-      "text": "(a)\n(i) Griffith worked on Streptococcus pneumoniae bacteria having two strains:\nS strain (Smooth) with mucous (polysaccharide) coat was virulent/ pathogenic\nR strain (Rough) has no coat and was non virulent/non pathogenic\nGriffith took a Mice and injected these bacteria in a series of experiments\nS strain → Inject into Mice → Mice Died\nR strain → Inject into Mice → Mice live\nHe killed S strain bacteria with heat\nS strain (heat killed) → Inject into Mice → Mice live\nS strain (heat killed) + R strain (live) → Inject into mice → Mice die\nHe recovered living S bacteria from the body of dead mice.\nConclusion: Griffith concluded that some “transforming principle” transferred\nfrom the heat-killed S strain, had enabled the R strain to synthesise a smooth\npolysaccharide coat and become virulent due to the transfer of the genetic\nmaterial.\n(ii)\nMacLeod, MacCarty & Avery\nThey worked to determine the biochemical nature of “transforming\nprinciple” in Griffith’s experiment.\nThey purified biochemical (DNA, RNA, protein etc) from heat killed S cells\nto see which could transform live R cells into S cells.\nThey discovered that DNA alone from S cells transformed R cells.\nThey also discovered that protein digesting Proteases and RNA digesting\nRNases did not affect transformation.\nBut when DNA was digested by DNase there was no transformation So DNA\nis hereditary material."
+      "text": "(a)(i) Griffith's experiment: Griffith worked on $Streptococcus\\ pneumoniae$, which had two strains — the S (smooth) strain, with a mucous (polysaccharide) coat, which was virulent, and the R (rough) strain, without a coat, which was non-virulent. When live S bacteria were injected into a mouse, the mouse died; with live R bacteria, it lived; with heat-killed S bacteria, it lived; but with heat-killed S + live R bacteria, the mouse died, and living S bacteria were recovered from it. Griffith concluded that some 'transforming principle', transferred from the heat-killed S strain, had enabled the R strain to synthesise the smooth coat and become virulent — i.e. genetic material had been transferred.\n(ii) MacLeod, McCarty and Avery worked to determine the biochemical nature of this 'transforming principle'. They purified the biochemicals (DNA, RNA, protein, etc.) from the heat-killed S cells to see which could transform the live R cells into S cells. They found that DNA alone could bring about the transformation; protein-digesting proteases and RNA-digesting RNases did not affect the transformation, but DNase (which digests DNA) did stop it. Hence they concluded that DNA is the hereditary material."
      }
     },
     {
@@ -8655,7 +8839,11 @@
      "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
-      "text": "(a)\n(b)\nThe RNA transcribed is\n5′A U G C A U G C A U A G 3′\n(a)\n(b) The RNA transcribed as\n5 'G A U A C G U A C G U A 3'"
+      "text": "(a) The transcription unit is shown below (first diagram), with the promoter, the coding strand, the template strand and the terminator marked.\n(b) The RNA transcribed is $5'\\text{-}AUGCAUGCAUAG\\text{-}3'$.\nOR (if the other strand is the template, as in the second diagram, where the terminator, coding strand, template strand and promoter are marked):\n(b) The RNA transcribed is $5'\\text{-}GAUACGUACGUA\\text{-}3'$.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_4_1_q23_transcription.png",
+       "assets/answer_figs/bio_2026_57_4_1_q23or_transcription.png"
+      ]
      }
     },
     {
@@ -8675,7 +8863,7 @@
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
-      "text": "(a)\nIt is necessary for the entry of lactose into the cell .\n(b)(i) In the presence of lactose the repressor is inactivated by the interaction with\nthe inducer that allow RNA polymerase access to promoter and transcription\nproceeds."
+      "text": "(a) Permease is necessary for the entry of lactose into the cell.\n(b)(i) In the presence of lactose, the repressor is inactivated by its interaction with the inducer, which allows RNA polymerase to access the promoter and transcription proceeds.\nOR (b)(ii) It is called negative regulation because the operon is switched off (transcription is prevented) in the absence of the inducer.\n(c) In the absence of the inducer, the repressor binds to the operator and prevents transcription of the structural gene. When the inducer (lactose) is present, it prevents the repressor from binding to the operator; hence the regulation is at the transcriptional level."
      }
     },
     {
@@ -8751,7 +8939,10 @@
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
-      "text": "· Replication of DNA occurs in small replication fork because DNA being a long\nmolecule separation of the two strands along its entire length requires a very\nhigh amount of energy."
+      "text": "The process of DNA replication at the replication fork is shown below: the two strands of the template (parental) DNA separate; on one template continuous synthesis occurs (the leading strand), while on the other template discontinuous synthesis occurs (the lagging strand), the newly synthesised strands growing in the $5'\\rightarrow 3'$ direction.\nReplication of DNA occurs within a small replication fork (and not by opening up the whole molecule at once) because, DNA being a very long molecule, separation of the two strands along its entire length would require a very high amount of energy.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_5_1_q23_replication.png"
+      ]
      }
     },
     {
@@ -8771,7 +8962,7 @@
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
-      "text": "(a)\nBecause RNA polymerase carries out polymerisation in 5' → 3' direction only.\n(b)\n(i) Since hnRNA contains both exons or coding sequence and introns or non\ncoding seqeunce undergo splicing to remove the introns or non-coding sequence\n/ for the removal of introns."
+      "text": "(a) Because RNA polymerase carries out polymerisation only in the $5'\\rightarrow 3'$ direction.\n(b)(i) Since hnRNA contains both exons (coding sequences) and introns (non-coding sequences), it undergoes splicing to remove the introns.\nOR (b)(ii) Other processing of hnRNA:\n– Capping: an unusual nucleotide, methyl guanosine triphosphate ($^{m}G_{ppp}$), is added to the $5'$ end of the hnRNA.\n– Tailing: adenylate residues (about 200-300) are added at the $3'$ end as a poly-A tail.\n(c)\n– If a segment of DNA were to produce two polypeptides, the genetic-information machinery would become complicated; two different polypeptides would be formed, one of which may not be useful for the cell.\n– The two complementary RNA molecules produced simultaneously would form a double-stranded RNA that would not be translated into a polypeptide."
      }
     },
     {
@@ -9450,7 +9641,7 @@
      "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
-      "text": "(a)(i) Human and macaque — divergent evolution; (ii) human and frog — divergent evolution.\n(b) The biochemical similarities in the haemoglobin suggest a common ancestry.\n(c)(i) The macaque is more closely related to humans than the lamprey is, because the number of amino-acid differences between human and macaque is smaller (i.e. human and macaque have more biochemical similarity in the structure of haemoglobin than human and lamprey)."
+      "text": "(a)(i) Human and macaque — divergent evolution; (ii) human and frog — divergent evolution.\n(b) The biochemical similarities in the haemoglobin suggest a common ancestry.\n(c)(i) The macaque is more closely related to humans than the lamprey is, because the number of amino-acid differences between human and macaque is smaller (i.e. human and macaque have more biochemical similarity in the structure of haemoglobin than human and lamprey).\nOR (c)(ii) The dog is more closely related to humans than the frog is, because the number of amino-acid differences between human and dog is smaller (i.e. dog and human have more biochemical similarity in the structure of haemoglobin than human and frog)."
      }
     },
     {
@@ -9521,7 +9712,7 @@
      "difficulty": "Difficult",
      "topic": "Evidences for Evolution",
      "answer": {
-      "text": "(a)(iii) Greater, greater.\n(b)(i) Divergent evolution; (ii) divergent evolution — both indicate a common ancestry, as in both cases cytochrome C is the respiratory pigment.\n(c)(i) Convergent evolution — different structures evolving for the same function and hence coming to have similarities."
+      "text": "(a)(iii) Greater, greater.\n(b)(i) Divergent evolution; (ii) divergent evolution — both indicate a common ancestry, as in both cases cytochrome C is the respiratory pigment.\n(c)(i) Convergent evolution — different structures evolving for the same function and hence coming to have similarities.\nOR (c)(ii) Divergent evolution — the same structure developing along different directions due to adaptations to different needs."
      }
     },
     {
@@ -9644,7 +9835,29 @@
      "difficulty": "Difficult",
      "topic": "Evidences for Evolution",
      "answer": {
-      "text": "(a) Mutation.\n(b) A: the greater the evolutionary distance, the greater are the differences in the nitrogenous bases; D: the lesser the evolutionary distance, the lesser are the differences in the nitrogenous bases.\n(c)(i) Divergent evolution — as both of them diverge from the same ancestor and possess homologous structures."
+      "text": "(a) Mutation.\n(b) A: the greater the evolutionary distance, the greater are the differences in the nitrogenous bases; D: the lesser the evolutionary distance, the lesser are the differences in the nitrogenous bases.\n(c)(i) Divergent evolution — as both of them diverge from the same ancestor and possess homologous structures.\nOR (c)(ii) Difference between divergent and convergent evolution (any two):",
+      "table": [
+       {
+        "headers": [
+         "Divergent evolution",
+         "Convergent evolution"
+        ],
+        "rows": [
+         [
+          "They have a common ancestor.",
+          "They have different ancestors."
+         ],
+         [
+          "They possess homologous structures.",
+          "They possess analogous structures."
+         ],
+         [
+          "The organs have the same basic structure but different functions.",
+          "The organs have different structures but the same function."
+         ]
+        ]
+       }
+      ]
      }
     },
     {
@@ -9791,7 +10004,7 @@
      "difficulty": "Average",
      "topic": "Mechanism of Evolution (Hardy-Weinberg)",
      "answer": {
-      "text": "(a)\nAccording to Hardy Weinberg principle –\nSum total of all the Allelic frequencies in a population  = 1.\nLet there be two alleles A and a in the population. Let their frequencies be\n‘p’ and ‘q’ respectively.\np + q = 1\nThe frequency of AA will be p2 because - the probability that an allele A\nwith frequency ‘p’ would appear on both the chromosomes of a\ndiploid individual will be product of probabilities i.e. p2.\nSimilarly frequency of ‘a’ will be q2 ,\nand Aa is 2pq\nHence p² + 2pq + q² = 1\n(b)\nGene migration or Gene flow, Genetic drift, Mutation, Genetic\nRecombination, Natural selection\n(Any two factors)"
+      "text": "(a) According to the Hardy–Weinberg principle, the sum total of all the allelic frequencies in a population is 1. Let there be two alleles, A and a, with frequencies p and q respectively, so that $p + q = 1$. The frequency of the homozygous AA genotype is $p^2$ (the probability that an allele A of frequency p appears on both chromosomes of a diploid individual is $p \\times p = p^2$); similarly, the frequency of aa is $q^2$, and that of the heterozygote Aa is $2pq$. Hence $p^2 + 2pq + q^2 = 1$.\n(b) Factors that disturb the Hardy–Weinberg equilibrium (any two): gene migration (gene flow), genetic drift, mutation, genetic recombination, and natural selection."
      }
     },
     {
@@ -9838,7 +10051,7 @@
      "difficulty": "Average",
      "topic": "Origin of Life",
      "answer": {
-      "text": "(a) To prove that formation of life was preceded by chemical evolution/ organic\nmolecules can form spontaneously from inorganic molecules\n(b)\nGases used: CH4, NH3, H2, Water vapours.\nSource of energy - Electric discharge"
+      "text": "(a) The aim of the Miller–Urey experiment was to prove that the formation of life was preceded by chemical evolution — i.e. that organic molecules can form spontaneously from inorganic molecules.\n(b) The gases used were methane ($CH_4$), ammonia ($NH_3$), hydrogen ($H_2$) and water vapour; the source of energy was an electric discharge."
      }
     },
     {
@@ -9912,7 +10125,7 @@
      "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
-      "text": "(a)\n(i)\n• Brain size was 1400 cc\n• They used hides to protect their bodies\n• They buried their dead bodies\n(Any two)\n(ii) Ι Homo erectus\n(II)  Homo habilis"
+      "text": "(a)(i) Features of the Neanderthal man / $Homo\\ neanderthalensis$ (any two): the brain size was about 1400 cc; they used hides to protect their bodies; and they buried their dead.\n(ii)(I) $Homo\\ erectus$ (with a brain capacity of about 900 cc); (II) $Homo\\ habilis$ (the first tool-maker)."
      }
     },
     {
@@ -9933,7 +10146,7 @@
      "topic": "Mechanism of Evolution (Hardy-Weinberg)",
      "figures": [],
      "answer": {
-      "text": "(b)\nGiven:\n(i)\nFrequency of blue-eyed individuals (bb) = 36%\nAs per Hardy-Weinberg equilibrium\nif q2 =0.36\nthen q = 0.6\nAcc. to Hardy- Weinberg equilibrium (p +q) =1\nTherefore p=1-0.6=0.4\nFrequency of allele B (p) = 0.4\n(ii)\nHeterozygous individuals (2pq)\n2pq= 2×0.4×0.6=0.48=48%\n(iii) Homozygous dominant (p2)\np2= (0.4) × (0.4) =0.16=16%"
+      "text": "(b) Given: the frequency of blue-eyed individuals (bb) = 36 %, so $q^2 = 0.36$ and $q = 0.6$. By the Hardy–Weinberg equilibrium $p + q = 1$, so $p = 1 - 0.6 = 0.4$ (the frequency of allele B).\n(ii) The frequency of the heterozygous individuals $= 2pq = 2 \\times 0.4 \\times 0.6 = 0.48 = 48\\%$.\n(iii) The frequency of the homozygous dominant individuals $= p^2 = 0.4 \\times 0.4 = 0.16 = 16\\%$."
      }
     },
     {
@@ -10010,7 +10223,10 @@
      "difficulty": "Average",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
-      "text": "Stabilising – more individuals acquire the mean character value i.e variation is\nmuch reduced.\nDirectional – more individuals acquire value other than the mean character\nvalue.\nDisruptive – more individuals acquire peripheral character value at both ends\nof the distribution curve two peaks are formed."
+      "text": "Types of natural selection:\n– Stabilising selection: more individuals acquire the mean character value, so variation is much reduced (the peak of the distribution becomes higher and narrower).\n– Directional selection: more individuals acquire a value other than the mean character value (the peak shifts in one direction).\n– Disruptive selection: more individuals acquire the peripheral character values at both ends of the distribution curve, so two peaks are formed.",
+      "figures": [
+       "assets/answer_figs/bio_2025_57_2_1_q25_selection.png"
+      ]
      }
     },
     {
@@ -10084,7 +10300,7 @@
      "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
-      "text": "(a)\nPsilophyton\n(b)\nSeed ferns\n(c)\nChlorophyte ancestors\n(d)\nFerns, Conifers, Seed ferns\n(e)\nTracheophyte ancestors\n(f)\nChlorophyte ancestors"
+      "text": "(a) $Psilophyton$\n(b) Seed ferns\n(c) Chlorophyte ancestors\n(d) Ferns, conifers, seed ferns\n(e) Tracheophyte ancestors\n(f) Chlorophyte ancestors"
      }
     }
    ],
@@ -11233,7 +11449,25 @@
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
-      "text": "(a) B-lymphocytes and T-lymphocytes.\n(b) Because the antibodies are found in the blood (humour), antibody-mediated immunity is also called the humoral immune response.\n(c)(i) Our immune system is able to distinguish between 'self' and 'non-self' cells / molecules.\n(ii) The cell-mediated immune response, in which the T-lymphocytes are involved."
+      "text": "(a) B-lymphocytes and T-lymphocytes.\n(b) Because the antibodies are found in the blood (humour), antibody-mediated immunity is also called the humoral immune response.\n(c)(i) Our immune system is able to distinguish between 'self' and 'non-self' cells / molecules.\n(ii) The cell-mediated immune response, in which the T-lymphocytes are involved.\nOR (d) Difference between active and passive immunity:",
+      "table": [
+       {
+        "headers": [
+         "Active immunity",
+         "Passive immunity"
+        ],
+        "rows": [
+         [
+          "Antibodies are produced by the B-cells within the body.",
+          "Preformed antibodies are injected into the body for defence."
+         ],
+         [
+          "Produces a comparatively slow response.",
+          "Provides a quick response."
+         ]
+        ]
+       }
+      ]
      }
     },
     {
@@ -11350,7 +11584,7 @@
      "difficulty": "Difficult",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
-      "text": "(a) Opioids are generally taken intravenously, and the use of contaminated needles or contaminated injections increases the chances of hepatitis B (a liver disease).\n(b) A direct drug-related death means a death due to an overdose of the opioids (a fatal overdose).\n(c)(i) The source plant is $Papaver\\ somniferum$ (the opium poppy), and the drug is obtained from its latex."
+      "text": "(a) Opioids are generally taken intravenously, and the use of contaminated needles or contaminated injections increases the chances of hepatitis B (a liver disease).\n(b) A direct drug-related death means a death due to an overdose of the opioids (a fatal overdose).\n(c)(i) The source plant is $Papaver\\ somniferum$ (the opium poppy), and the drug is obtained from its latex.\nOR (c)(ii) Warning signs of drug/alcohol abuse (any two): a drop in academic performance, unexplained absence from school or college, lack of interest in personal hygiene, withdrawal and isolation, depression, fatigue, aggressive and rebellious behaviour, deteriorating relationships with family and friends, loss of interest in hobbies, change in sleeping and eating habits, and fluctuations in weight and appetite."
      }
     },
     {
@@ -11441,7 +11675,7 @@
      "difficulty": "Difficult",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
-      "text": "(a) 15–16 years / the adolescence period (12–18 years of age).\n(b) Clearing of forests / deforestation (narco-deforestation) / extinction of species / it promotes monoculture, which will further lead to a loss of biodiversity.\n(c)(i) The parts of the $Cannabis$ plant used: the inflorescence / flower tops / leaves / resin. Its effect: it affects the cardiovascular system of the body."
+      "text": "(a) 15–16 years / the adolescence period (12–18 years of age).\n(b) Clearing of forests / deforestation (narco-deforestation) / extinction of species / it promotes monoculture, which will further lead to a loss of biodiversity.\n(c)(i) The parts of the $Cannabis$ plant used: the inflorescence / flower tops / leaves / resin. Its effect: it affects the cardiovascular system of the body.\nOR (c)(ii) The source plant of cocaine is $Erythroxylum\\ coca$; cocaine causes hallucinations."
      }
     },
     {
@@ -11520,7 +11754,7 @@
      "difficulty": "Difficult",
      "topic": "AIDS",
      "answer": {
-      "text": "(a) Observations from the data (any two): the number of men taking treatment was higher than that of women (1 woman out of 18 was treated, while 1 man out of 7 was treated); 1 in 11 persons was addicted to $Cannabis\\ sativa$ or $Papaver\\ somniferum$; the number of drug users had increased by 20 %; and 292 million people were consuming drugs in 2022.\n(b) The sharing of contaminated needles among drug addicts transmits diseases such as hepatitis-B and HIV/AIDS; both diseases are primarily caused by viruses.\n(c)(i) The source plant of cannabinoids (marijuana / hashish) is $Cannabis\\ sativa$."
+      "text": "(a) Observations from the data (any two): the number of men taking treatment was higher than that of women (1 woman out of 18 was treated, while 1 man out of 7 was treated); 1 in 11 persons was addicted to $Cannabis\\ sativa$ or $Papaver\\ somniferum$; the number of drug users had increased by 20 %; and 292 million people were consuming drugs in 2022.\n(b) The sharing of contaminated needles among drug addicts transmits diseases such as hepatitis-B and HIV/AIDS; both diseases are primarily caused by viruses.\n(c)(i) The source plant of cannabinoids (marijuana / hashish) is $Cannabis\\ sativa$.\nOR (c)(ii) The source plant of opioids (morphine / heroin) is $Papaver\\ somniferum$ (the opium poppy)."
      }
     },
     {
@@ -11682,7 +11916,7 @@
      "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
-      "text": "(a)\nAn immune response where the B-lymphocytes produce an army of\nproteins in response to pathogens into our blood to fight with them.\n(b)\nAntibodies – IgA, IgE, IgM, IgG\n(Any two)"
+      "text": "(a) Humoral (antibody-mediated) immunity is an immune response in which the B-lymphocytes produce an army of proteins (antibodies) in response to pathogens and release them into the blood to fight the pathogens.\n(b) Two types of antibodies (any two): IgA, IgE, IgM, IgG."
      }
     },
     {
@@ -11702,7 +11936,7 @@
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
-      "text": "(a)\nSource plant - Papaver somniferum\nPart - latex of the plant\n(b)\n• Heroin is formed by acetylation of morphine.\n• Morphine →It is effective sedative/ used as pain killer/ useful in\npatient who have undergone surgery\nHeroin is a depressant / slows down body function"
+      "text": "(a) The source plant is $Papaver\\ somniferum$ (the opium poppy), and the part used is its latex.\n(b) Heroin is formed by the acetylation of morphine. Morphine is an effective sedative / painkiller (useful in patients who have undergone surgery), whereas heroin is a depressant and slows down body functions."
      }
     },
     {
@@ -11722,7 +11956,7 @@
      "difficulty": "Difficult",
      "topic": "Common Human Diseases",
      "answer": {
-      "text": "(a)(i) Plasmodium falciparum\n(ii)\n• Female Anopheles Mosquito\n-Mosquito picks up gametocytes from the infected person.\n-Fertilization and development takes place in mosquito gut.\n-Sporozoites from gut migrate to salivary glands of mosquito.\n(iii) After entering the blood stream they enter liver, and then into red blood\ncells and reproduce asexually, RBCs rupture and a toxic substance\nhaemozoin is released causing chills and high fever.\n(iv) -Avoiding stagnation of water in and around residential areas.\n-Regular cleaning of household coolers.\n-Use of mosquito nets.\n-Introduce fishes like Gambusia in ponds – they feed on mosquito\nlarval.\n-Spraying insecticides in ditches of doors and windows to have\nwire mesh.\n-Any other appropriate preventive measures.\n(Any two)"
+      "text": "(a)(i) The parasite is $Plasmodium\\ falciparum$.\n(ii) The vector is the female $Anopheles$ mosquito. In it: the mosquito picks up the gametocytes from an infected person; fertilisation and development take place in the mosquito's gut; and the sporozoites from the gut migrate to the salivary glands of the mosquito.\n(iii) After entering the bloodstream, the parasites enter the liver and then the red blood cells and reproduce asexually; the RBCs rupture and release the toxic substance haemozoin, which causes the recurring chills and high fever.\n(iv) Preventive measures (any two): avoiding the stagnation of water in and around residential areas; regular cleaning of household coolers; the use of mosquito nets; introducing larvivorous fishes such as $Gambusia$ into ponds; and spraying insecticides and fixing wire mesh on doors and windows."
      }
     },
     {
@@ -11769,7 +12003,7 @@
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
-      "text": "(a) Due to immune response shown by the body / due to ability of  the body to fight\nagainst foreign agents (pathogens)\n(b) Physical barrier, Skin on our body prevents entry of pathogens / Mucus coating\n(of respiratory, gastrointestinal, urinogenital tract) help in trapping microbes\nentering our body.\nPhysiological barrier, Acid from stomach / saliva in the mouth / tears from eyes –\nall prevent microbial growth.\nCellular barrier, Neutrophils and monocytes in the blood as well as macrophages\nin tissues can phagocytose and destroy microbes.\nCytokine barrier, Virus infected cell secrete proteins interferons that protect non-\ninfected cells from further viral infection (Any Two)"
+      "text": "(a) An 'immune' individual does not fall ill, owing to the immune response of the body — its ability to fight against foreign agents (pathogens).\n(b) Innate immune barriers (any two):\n• Physical barrier — the skin prevents the entry of pathogens; the mucus coating of the respiratory, gastrointestinal and urinogenital tracts helps to trap the microbes entering the body.\n• Physiological barrier — the acid in the stomach, the saliva in the mouth and the tears from the eyes all prevent microbial growth.\n• Cellular barrier — neutrophils and monocytes in the blood, and macrophages in the tissues, can phagocytose and destroy the microbes.\n• Cytokine barrier — virus-infected cells secrete proteins called interferons that protect the non-infected cells from further viral infection."
      }
     },
     {
@@ -11789,7 +12023,10 @@
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
-      "text": "(a)\n(i)\n• Disease : Acquired Immuno  Deficiency Syndrome /AIDS\n• Causative Agent : Human Immuno deficiency Virus / HIV\n(ii)\nAfter getting the entry into the body of the person virus enters macrophages\nRNA genome of the virus replicates to form viral DNA with the help of\nenzyme reverse transcriptase\nThe viral DNA gets incorporated into the host cell’s DNA and directs the\ninfected cells to produce virus particles.\nSimultaneously HIV enters into helper T-lymphocytes (TH) and produce\nprogeny viruses which attack other T-lymphocytes leading to weakened\nimmune system.\n(iii)\nBy Sexual contact with infected person.\nTransfusion of contaminated blood and blood products.\nSharing of infected needles by intravenous drug abusers.\nInfected mother to her child through placenta. (Any Two)"
+      "text": "(a)(i) The disease is Acquired Immuno-Deficiency Syndrome (AIDS); the causative agent is the Human Immunodeficiency Virus (HIV) — a retrovirus (replication cycle shown below).\n(ii) After gaining entry into the body, the virus enters the macrophages; the RNA genome of the virus replicates to form viral DNA with the help of the enzyme reverse transcriptase; the viral DNA gets incorporated into the host cell's DNA and directs the infected cell to produce virus particles; simultaneously, HIV enters the helper T-lymphocytes ($T_H$) and produces progeny viruses that attack the other T-lymphocytes, leading to a weakened immune system.\n(iii) Modes of transmission of HIV (any two): by sexual contact with an infected person; by the transfusion of contaminated blood and blood products; by the sharing of infected needles among intravenous drug abusers; and from an infected mother to her child through the placenta.",
+      "figures": [
+       "assets/answer_figs/bio_2026_57_2_1_q33_hiv.png"
+      ]
      }
     },
     {
@@ -11863,7 +12100,7 @@
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
-      "text": "(a)\n(i)\nRingworm\n(ii)\nEpidermophyton, Trichophyton, Microsporum\n(Any two)\n(iii) From soil/ using towels/ clothes/ comb of infected person (Any one)"
+      "text": "(a)(i) The disease caused by dermatophytes is ringworm.\n(ii) The causative genera (any two): $Epidermophyton$, $Trichophyton$, $Microsporum$.\n(iii) It spreads from the soil or by using the towels, clothes or comb of an infected person (any one)."
      }
     },
     {
@@ -11884,7 +12121,7 @@
      "topic": "Immunity",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nAllergy\n(ii)\nIg E  antibodies\n(iii) Histamine, Serotonin\n(Any one)\n(iv) Anti histamine, adrenaline, Steroids\n(Any one)"
+      "text": "(b)(i) The condition is an allergy.\n(ii) The antibodies involved are IgE antibodies.\n(iii) The chemicals released (any one): histamine, serotonin.\n(iv) Drugs used to reduce the symptoms (any one): antihistamines, adrenaline, steroids."
      }
     },
     {
@@ -11907,7 +12144,7 @@
      "difficulty": "Difficult",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
-      "text": "(a)\n(i) Maximum / 45mg per cm3 at 10 minutes."
+      "text": "(a)(i) The maximum absorption of nicotine is 45 mg per cm$^3$, at 10 minutes.\n(b) Nicotine stimulates the adrenal gland, which releases adrenaline / noradrenaline into the blood, resulting in an increase in blood pressure and heart rate.\n(c) Nicotine is an alkaloid. Other examples of alkaloid drugs: cocaine (coke/crack), morphine, cannabinoids.\nOR (a)(ii) With smoking, the concentration of carbon monoxide increases and the concentration of haem-bound oxygen decreases (because CO binds to haemoglobin more strongly than oxygen)."
      }
     },
     {
@@ -11954,7 +12191,7 @@
      "difficulty": "Average",
      "topic": "Cancer",
      "answer": {
-      "text": "(a)\nThe cancer causing viruses called oncogenic viruses have genes called viral\noncogenes which transform normal cell into cancerous cells.\n(b)\n· When the cells of a benign tumour acquire the property of metastasis under\ncertain conditions.\n· These cells damage the surrounding normal cells of the body / They compete\nwith the normal cells and starve them of vital nutrients."
+      "text": "(a) The cancer-causing viruses, called oncogenic viruses, have genes called viral oncogenes which transform a normal cell into a cancerous cell.\n(b) When the cells of a benign tumour acquire the property of metastasis under certain conditions, they spread to distant sites. These cells damage the surrounding normal cells of the body; they compete with the normal cells and starve them of vital nutrients."
      }
     },
     {
@@ -11974,7 +12211,31 @@
      "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
-      "text": "(a)\nB – lymphocytes /B cells ,  and T – lymphocytes/ T Cells\n(b)\n(i) Physical barrier , physiological barriers , Cellular barriers , Cytokine barriers\n(any two)"
+      "text": "(a) The two types of lymphocytes are B-lymphocytes (B-cells) and T-lymphocytes (T-cells).\n(b)(i) The types of innate-immunity barriers are physical barriers, physiological barriers, cellular barriers and cytokine barriers (any two).\nOR (b)(ii) Our immune system has the ability to distinguish between 'self' and 'non-self' cells or tissues.\n(c) Differences between active and passive immunity (any two):",
+      "table": {
+       "headers": [
+        "Active immunity",
+        "Passive immunity"
+       ],
+       "rows": [
+        [
+         "Antibodies are produced in our own body in response to an antigen.",
+         "Preformed antibodies are injected into the body for protection."
+        ],
+        [
+         "It is slow and takes time to give its full effective response.",
+         "It gives a quick response."
+        ],
+        [
+         "It lasts for a longer period.",
+         "It lasts for a shorter period."
+        ],
+        [
+         "Memory cells are formed.",
+         "Memory cells are not formed."
+        ]
+       ]
+      }
      }
     },
     {
@@ -11994,7 +12255,7 @@
      "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
-      "text": "· Spleen.\n· acts as a filter of the blood by trapping blood-borne microorganism."
+      "text": "– The organ is the spleen.\n– It acts as a filter of the blood by trapping blood-borne microorganisms."
      }
     },
     {
@@ -12014,7 +12275,34 @@
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
-      "text": "(a)\n(i)\n(Any four labellings)\n(ii)\nActive Immunity\nPassive Immunity\n− When antibodies are produced\nin our body in response to an\nantigen then it is called active\nimmunity\n− When preformed antibodies\n(readymade) are injected into\nthe body for protection then it is\ncalled passive immunity.\n− It is slow and take time to give\nits full effective response\n− It gives quick response\n− It lasts for longer period\n− It lasts for shorter period\n− Memory cells are formed\n− Memory cells are not formed\n(any three correct difference)"
+      "text": "(a)(i) Structure of an antibody (labelled diagram below): it is a Y-shaped molecule made of four polypeptide chains — two light (L) chains and two heavy (H) chains held together by di-sulphide bonds (represented as $H_2L_2$). The tips of the two arms bear the antigen-binding sites.\n(a)(ii) Differences between active and passive immunity (any three):",
+      "table": {
+       "headers": [
+        "Active immunity",
+        "Passive immunity"
+       ],
+       "rows": [
+        [
+         "Antibodies are produced in our own body in response to an antigen.",
+         "Preformed (ready-made) antibodies are injected into the body for protection."
+        ],
+        [
+         "It is slow and takes time to give its full effective response.",
+         "It gives a quick response."
+        ],
+        [
+         "It lasts for a longer period.",
+         "It lasts for a shorter period."
+        ],
+        [
+         "Memory cells are formed.",
+         "Memory cells are not formed."
+        ]
+       ]
+      },
+      "figures": [
+       "assets/answer_figs/bio_2025_57_5_1_q17_antibody.png"
+      ]
      }
     },
     {
@@ -12035,7 +12323,7 @@
      "topic": "Common Human Diseases",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\n(I)\nWuchereria bancrofti , and Wuchereria malayi\n(II) Chronic inflammation of the organs /  swelling in lower limbs  /  gross\ndeformities in genital organs.\n(III) Transmitted by the bite of female mosquito vector.\n(ii)\n(I)\nMast cells, cause allergy\n(II)\nVirus infected cells, Protect the non-infected cells of our body from viral\ninfections"
+      "text": "(b)(i)\n(I) The disease is filariasis (elephantiasis), caused by the filarial worms $Wuchereria\\ bancrofti$ and $Wuchereria\\ malayi$.\n(II) Symptoms: chronic inflammation of the organs, swelling of the lower limbs (elephantiasis) and gross deformities of the genital organs.\n(III) It is transmitted by the bite of a female mosquito vector.\n(b)(ii)\n(I) Mast cells — they cause allergy.\n(II) Interferons — secreted by virus-infected cells; they protect the non-infected cells of the body from viral infection."
      }
     },
     {
@@ -12207,7 +12495,7 @@
      "topic": "Microbes in Industrial Products",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nBio fertilizers – Organisms that enrich the nutrient quality of soil. e.g.\nbacteria fungi and cyanobacteria.\n(ii)\n-Bacteria / Rhizobium / Azotobacter / Azospirillum\nRhizobium forms symbiotic association with roots of leguminous plants\nand fix atmospheric nitrogen into organic forms to be used by the plant,\nAzotobacter or Azospirillum fix atmospheric nitrogen while free living\nin the soil.\n-Fungi /genus Glomus .\nFungi breakdown organic matter to release nutrients,\nGlomus form mycorrhiza with roots of the plants.This association helps to\nabsorb phosphorous from soil and pass to the plant,\nplants show resistance to root-borne pathogens,\nplants show tolerance to salinity and drought,\nThere is increase in plant growth.\n(Any one)\n-Cyanobacteria / Anabaena / Nostoc / Oscillatoria\nFix atmospheric Nitrogen , serve as important biofertilizers in paddy fields\n(Any one)\n(iii)-Bio fertilizers do not pollute our environment (soil, ground water).\n-They conserve the beneficial soil microbes.\n-Do  not cause contamination and harm human health.\n(Any two)"
+      "text": "(b)(i) Biofertilisers are organisms that enrich the nutrient quality of the soil — e.g. bacteria, fungi and cyanobacteria.\n(ii) Examples and contributions (any one each):\n• Bacteria — $Rhizobium$ forms a symbiotic association with the roots of leguminous plants and fixes atmospheric nitrogen into organic forms usable by the plant; $Azotobacter$ / $Azospirillum$ fix atmospheric nitrogen while free-living in the soil.\n• Fungi — the genus $Glomus$ forms mycorrhiza with plant roots, helping the plant to absorb phosphorus from the soil (and conferring resistance to root pathogens and tolerance to salinity and drought).\n• Cyanobacteria — $Anabaena$ / $Nostoc$ / $Oscillatoria$ fix atmospheric nitrogen and serve as important biofertilisers in paddy fields.\n(iii) Advantages of biofertilisers over chemical fertilisers (any two): they do not pollute the environment (soil and groundwater); they conserve the beneficial soil microbes; and they do not cause contamination or harm to human health."
      }
     },
     {
@@ -12228,7 +12516,7 @@
      "topic": "Biocontrol Agents",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i) They reduce our dependence on toxic chemicals and pesticides / They create\na system where insects called pests are not eradicated but kept at manageable\nlevel by complex system of checks and balances / No negative impact on plants\nmammals birds fish or non – target insects (Any other correct reason)\n(ii)\n(1) A Bacterium: Bacillus thuringenesis, controls butterfly caterpillars, larvae eat the\nspores and toxin is released in the gut of larvae thus killing it\n(2) A Fungi:  Trichoderma are free living fungi common in root ecosystem, effective\nbiocontrol agents against several plant pathogens.\n(3) Virus: Baculoviruses under genus Nucleopolyhedrovirus , shows species specific\n, narrow spectrum insecticidal application."
+      "text": "(b)(i) Advantages of biological control (any): it reduces our dependence on toxic chemicals and pesticides; and it creates a system in which the pest insects are not eradicated but kept at a manageable level by a complex system of checks and balances, with no negative impact on plants, mammals, birds, fishes or non-target insects.\n(ii) Examples of biocontrol agents:\n(1) A bacterium — $Bacillus\\ thuringiensis$ controls butterfly caterpillars; the larvae eat the spores and the toxin is released in the gut of the larvae, killing them.\n(2) A fungus — $Trichoderma$, a free-living fungus common in the root ecosystem, is an effective biocontrol agent against several plant pathogens.\n(3) A virus — the baculoviruses (genus $Nucleopolyhedrovirus$) show a species-specific, narrow-spectrum insecticidal application."
      }
     },
     {
@@ -12839,7 +13127,7 @@
      "difficulty": "Difficult",
      "topic": "Sewage Treatment",
      "answer": {
-      "text": "(a) The plant is the sewage-treatment plant, used to treat sewage water before it can be released into a water body.\n(b) Air (oxygen) helps in the growth of the flocs (aerobic bacteria along with fungal filaments), which decompose the organic matter in the sewage using oxygen.\n(c)(i) The bacterial 'flocs' settle down (in the settling tank) to form the activated sludge."
+      "text": "(a) The plant is the sewage-treatment plant, used to treat sewage water before it can be released into a water body.\n(b) Air (oxygen) helps in the growth of the flocs (aerobic bacteria along with fungal filaments), which decompose the organic matter in the sewage using oxygen.\n(c)(i) The bacterial 'flocs' settle down (in the settling tank) to form the activated sludge.\nOR (c)(ii) BOD (Biochemical Oxygen Demand) is directly related to the amount of organic matter present in the water; the greater the BOD, the more is the polluting potential of the water."
      }
     },
     {
@@ -12917,7 +13205,7 @@
      "difficulty": "Easy",
      "topic": "Sewage Treatment",
      "answer": {
-      "text": "The effluent from aeration tank is passed into settling tanks where\nflocs settle down forming activated sludge\nA small part of activated sludge is pumped back into the aeration tank\nto serve as inoculum and major remaining part is pumped into large\ntanks called anaerobic sludge digesters\nAnaerobic bacteria digest the sludge and produce a mixture of gases\nas methane hydrogen sulphide and carbon dioxide or biogas\n• Biogas  produced can be used as a source of energy / Effluent from secondary\ntreatment plant is generally released into natural water bodies like rivers and\nstreams."
+      "text": "Later steps of sewage treatment:\n• The effluent from the aeration tank is passed into settling tanks, where the flocs settle down to form the activated sludge.\n• A small part of the activated sludge is pumped back into the aeration tank to serve as inoculum, while the major remaining part is pumped into large tanks called anaerobic sludge digesters.\n• The anaerobic bacteria digest the sludge and produce a mixture of gases — methane, hydrogen sulphide and carbon dioxide — i.e. biogas.\nThe biogas produced can be used as a source of energy; the effluent from the secondary treatment plant is generally released into natural water bodies such as rivers and streams."
      }
     },
     {
@@ -12966,7 +13254,7 @@
      "difficulty": "Average",
      "topic": "Biogas Production",
      "answer": {
-      "text": "(a)\nYes, there is no need of inoculum as the cow dung contains a lot of\nmethanogens.\n(b)\nInside the digester the biowaste is digested by anaerobic bacteria\n(methanogens) present in the cow dung.\n(c)\nUseful By-products\n• Biogas, used for cooking and lighting/\n• Slurry, used as fertiliser / manure"
+      "text": "(a) Yes — there is no need for a separate inoculum, because the cow dung already contains a lot of methanogens.\n(b) Inside the digester, the biowaste is digested by the anaerobic bacteria (methanogens) present in the cow dung.\n(c) Useful by-products (any one, with its use): biogas — used for cooking and lighting; and the spent slurry — used as a fertiliser / manure."
      }
     },
     {
@@ -13042,7 +13330,7 @@
      "difficulty": "Easy",
      "topic": "Sewage Treatment",
      "answer": {
-      "text": "(a)\nSample C is most polluted (Highest BOD)\n(b)\nSample A – River water\nSample B – Secondary effluent (Least BOD)\nSample C – Untreated sewage water (Highest BOD)"
+      "text": "(a) Sample C is the most polluted, because it has the highest BOD.\n(b) Sample A – river water; Sample B – secondary effluent (least BOD); Sample C – untreated sewage water (highest BOD)."
      }
     },
     {
@@ -13118,7 +13406,7 @@
      "difficulty": "Average",
      "topic": "Microbes in Industrial Products",
      "answer": {
-      "text": "(a)\nBeverages / Ethanol / Bakery products / Bread\n(b)\nSwiss Cheese\n(c)\nCitric acid\n(d)\nCyclosporin-A / Immunosuppressive agent\n(e)\nAcetic acid\n(f)\nStreptokinase / Clot buster enzyme"
+      "text": "(a) Beverages / ethanol / bakery products / bread\n(b) Swiss cheese\n(c) Citric acid\n(d) Cyclosporin-A (an immunosuppressive agent)\n(e) Acetic acid\n(f) Streptokinase (a clot-buster enzyme)"
      }
     }
    ],
@@ -14333,7 +14621,7 @@
      "difficulty": "Easy",
      "topic": "Principles of Biotechnology",
      "answer": {
-      "text": "(a)\n• Palindromic sequences\n• Restriction endonuclease / EcoRI.\n(b)\nRestriction endonucleases cut the strands of DNA a little away from\nthe centre of the palindrome sites to form sticky end on each strand /\nRestriction endonucleases cut at specific recognition site between two\nsame bases in opposite strands to produce sticky ends / EcoRI cuts\nthe DNA between bases G and A in both the strand in the sequence\n5’-GAATTC-3’\n3’-CTTAAG-5’"
+      "text": "(a) The recognition sites of restriction enzymes are palindromic sequences; the enzyme itself is a restriction endonuclease (e.g. EcoRI).\n(b) Restriction endonucleases cut the strands of DNA a little away from the centre of the palindrome, between the same two bases on the opposite strands, so as to leave single-stranded overhangs called sticky ends. For example, EcoRI cuts the DNA between the bases G and A on both strands of the sequence $5'-GAATTC-3'$ / $3'-CTTAAG-5'$."
      }
     },
     {
@@ -14357,7 +14645,7 @@
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
-      "text": "(a)\n• No bands will be seen in agarose gel.\n• DNA fragments being negatively charged will not move towards\nnegative end or cathode / DNA being negatively charged will remain\npositioned at anode or positive end.\n(b)\n• Position of positive terminal or anode and negative terminal or\ncathode has been interchanged.\n• Band at X being the smallest fragment of DNA move farthest\ntowards the anode."
+      "text": "(a) If the electrodes are connected wrongly, no bands will be seen in the agarose gel (in the expected region), because the DNA fragments, being negatively charged, will not move towards the negative electrode (cathode); instead they remain positioned at the anode (positive end).\n(b) To obtain a proper separation, the position of the positive terminal (anode) and the negative terminal (cathode) has to be interchanged. Then the band at X, being the smallest DNA fragment, will move the farthest towards the anode."
      }
     },
     {
@@ -14433,7 +14721,7 @@
      "difficulty": "Easy",
      "topic": "Cloning and Bioreactor",
      "answer": {
-      "text": "Microinjection: Recombinant DNA is directly injected into the nucleus of\nan animal cell.\nGene gun: Plant cells are bombarded with high velocity micro particles of\ngold or tungsten coated with DNA."
+      "text": "Two methods of directly introducing recombinant DNA into a host cell:\n• Micro-injection — the recombinant DNA is directly injected into the nucleus of an animal cell.\n• Gene gun (biolistics) — the cells are bombarded with high-velocity micro-particles of gold or tungsten coated with DNA."
      }
     },
     {
@@ -14453,7 +14741,7 @@
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
-      "text": "(a) Genetic Engineering / Recombinant DNA Technology\n(b)\n• Plasmid is an autonomously replicating circular extra chromosomal DNA.\n• It is used as a vector to transfer foreign genes into host cells.\n(c) Antibiotic resistant gene, Salmonella typhimurium"
+      "text": "(a) The technology is genetic engineering / recombinant DNA technology.\n(b) A plasmid is an autonomously replicating, circular, extra-chromosomal DNA; it is used as a vector to transfer foreign genes into a host cell.\n(c) A selectable marker on a vector is an antibiotic-resistance gene; a bacterium used as a source of such a marker / of restriction enzymes is $Salmonella\\ typhimurium$.\nOR (c) Difference between an exonuclease and an endonuclease: an exonuclease removes the nucleotides from the ends of a DNA strand, whereas an endonuclease makes cuts at specific positions within the DNA strand."
      }
     },
     {
@@ -14532,7 +14820,7 @@
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
-      "text": "(a)\n(i)\n(I)\nAnode end is at S\n(II) Lightest/Smallest DNA is shown as R\n(ii)\nAgarose gel is made from a natural polymer extracted from sea\nweeds.\nAgarose gel provides sieving effect due to which DNA fragments\nseparate according to their size."
+      "text": "(a)(i)(I) The anode end is at S (where the smallest fragment has moved farthest).\n(II) The lightest / smallest DNA fragment is shown as R.\n(ii) The agarose gel is made from a natural polymer extracted from sea weeds; it provides a sieving effect, owing to which the DNA fragments separate according to their size."
      }
     },
     {
@@ -14553,7 +14841,7 @@
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
-      "text": "(b)\n(i)\nDNA fragments might not be stained or exposed to UV rays,\nThey can be seen only after staining with ethidium bromide followed by\nexposure to UV radiation  when DNA bands appear orange in colour.\n(ii)\nThe desired DNA fragment is cut from the gel and extracted by\nelution."
+      "text": "(b)(i) The DNA fragments in the gel may not be stained or exposed to UV rays; they can be seen only after staining with ethidium bromide followed by exposure to UV radiation, when the DNA bands appear orange in colour.\n(ii) The desired DNA fragment is cut out from the gel and extracted by elution."
      }
     },
     {
@@ -14573,7 +14861,7 @@
      "difficulty": "Average",
      "topic": "Principles of Biotechnology",
      "answer": {
-      "text": "(a)\n(i)\n• Genetic Engineering\nTechnique to alter the chemistry of genetic material (DNA and RNA) to\nintroduce these into host organisms and thus change the phenotype of\nthe host organism.\n• Bioprocess Engineering\nMaintenance of sterile ambience in chemical engineering process to\nenable growth of only the desired microbe/eukaryotic cell in large\nquantities for the manufacture of biotechnological/ biological products\nlike antibiotics, vaccines, enzymes etc.\n(ii)\n• Restriction Enzymes\n(Molecular Scissors)\nCut DNA at specific point on sugar phosphate backbone /They cut DNA\nat specific recognition sequences, called palindromes\nThey create sticky ends\n• Cloning vectors\nThese are DNA molecules used to carry foreign genes into a host cell.\n• Competent host\nThese are living organisms in which recombinant DNA is introduced"
+      "text": "(a)(i) Two techniques of biotechnology:\n• Genetic engineering — the technique of altering the chemistry of the genetic material (DNA and RNA) to introduce it into a host organism and thus change the phenotype of the host.\n• Bioprocess (chemical) engineering — the maintenance of a sterile ambience in a chemical-engineering process, to enable the growth of only the desired microbe or eukaryotic cell in large quantities for the manufacture of biotechnological products such as antibiotics, vaccines and enzymes.\n(ii) The tools of recombinant DNA technology:\n• Restriction enzymes (the 'molecular scissors') — they cut the DNA at a specific point on the sugar–phosphate backbone, at specific recognition sequences called palindromes, and create sticky ends.\n• Cloning vectors — DNA molecules used to carry the foreign gene into a host cell.\n• Competent host — a living organism into which the recombinant DNA is introduced."
      }
     },
     {
@@ -14593,7 +14881,7 @@
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
-      "text": "(a)\n(i)\n(I)\nNaming of restriction enzymes (EcoRI):\n-First letter ‘E’ of the name comes from genes (Escherichia)\n- The second two letters ‘co’come from the species (coli)\n-The letter ‘R’ derived from the name of the strain\n- Roman number (1) indicate the order in which the enzymes were isolated from the\nstrain of the bacteria.\n(II) The restriction enzyme EcoRI recognised the palindromic sequence\n5′ – G↓AATTC – 3′\n3′ – CTTAA↑G – 5′\n(a)\n(ii)\n· These overhanging stretches are called ‘Sticky ends’\n· They form hydrogen bond with their complementary cut counterpart that\nfacilitates the action of enzyme DNA ligase."
+      "text": "(a)(i) Naming of the restriction enzyme EcoRI:\n– The first letter 'E' comes from the genus ($Escherichia$).\n– The next two letters 'co' come from the species ($coli$).\n– The letter 'R' is derived from the name of the strain.\n– The Roman numeral 'I' indicates the order in which the enzyme was isolated from that strain of the bacterium.\nEcoRI recognises and cuts the palindromic sequence as shown:\n$5'\\text{-}G{\\downarrow}AATTC\\text{-}3'$\n$3'\\text{-}CTTAA{\\uparrow}G\\text{-}5'$\n(a)(ii) The overhanging single-stranded stretches produced are called 'sticky ends'. They form hydrogen bonds with their complementary cut counterpart, which facilitates the action of the enzyme DNA ligase."
      }
     },
     {
@@ -14614,7 +14902,7 @@
      "topic": "Restriction Enzymes and Vectors",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\n- When the alien DNA is inserted within the coding sequence of the enzyme β -\ngalactosidase it results in inactivation of the enzyme which is referred as insertional\ninactivation.\n- The presence of chromogenic substrate gives blue coloured colonies if the plasmid\nin the bacteria does not have insert or is non recombinant.\n- Colonies which do not produce any colour are identified as recombinants as their\ngene for enzyme is inactivated due to an insert.\n(ii)\nAgrobacterium tumefaciens.\n(iii) When this Agrobacterium infects a plant cell it delivers ‘T’-DNA or Ti tumor-\ninducing plasmid into the plant cell and transforms it into a tumor cell."
+      "text": "(b)(i) When the alien DNA is inserted within the coding sequence of the enzyme $\\beta$-galactosidase, it results in inactivation of the enzyme, which is referred to as insertional inactivation. In the presence of a chromogenic substrate, colonies carrying a plasmid with no insert (non-recombinant) produce blue-coloured colonies, whereas colonies that do not produce any colour are identified as recombinants, as their gene for the enzyme is inactivated by the insert.\n(ii) $Agrobacterium\\ tumefaciens$.\n(iii) When this $Agrobacterium$ infects a plant cell, it delivers the 'T'-DNA of its Ti (tumour-inducing) plasmid into the plant cell and transforms it into a tumour cell."
      }
     },
     {
@@ -14693,7 +14981,7 @@
      "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
-      "text": "(a)\nPlasmids and bacteriophages have the ability to replicate / They multiply within\nthe bacterial cells independently of the chromosomal DNA / an alien piece of\nDNA can be ligated to them / They can be multiplied equal to their specific copy\nnumbers.\n(b)(i)\n(I)\nori\n(II)\nPvu II"
+      "text": "(a) Plasmids and bacteriophages can be used as cloning vectors because they have the ability to replicate (they multiply within the bacterial cell independently of the chromosomal DNA); an alien piece of DNA ligated to them is also multiplied, in keeping with their specific copy number.\n(b)(i)(I) ori (the origin of replication)\n(II) Pvu II\nOR (b)(ii) G: $amp^{R}$ (the ampicillin-resistance gene); H: $tet^{R}$ (the tetracycline-resistance gene).\n(c) Pst I, Pvu I, BamH I, Sal I"
      }
     },
     {
@@ -14828,7 +15116,7 @@
      "topic": "Cloning and Bioreactor",
      "figures": [],
      "answer": {
-      "text": "(b)\n− Treat the bacterial cells with a specific concentration of a divalent cation such\nas Ca ++.\n− Incubating bacteria (host) with recombinant DNA on ice.\n− Place them at 420C / give heat shock at 420C\n− Put them back on ice this enables the bacteria to take up the recombinant DNA."
+      "text": "(b) Making bacterial cells competent to take up recombinant DNA:\n– Treat the bacterial cells with a specific concentration of a divalent cation such as $Ca^{2+}$.\n– Incubate the bacteria (host) with the recombinant DNA on ice.\n– Place them at $42\\,^{\\circ}\\text{C}$ (give a brief heat shock at $42\\,^{\\circ}\\text{C}$).\n– Put them back on ice; this enables the bacteria to take up the recombinant DNA."
      }
     }
    ],
@@ -14967,7 +15255,7 @@
      "topic": "Applications in Medicine",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nUrine analysis/ stool analysis/ sputum analysis/ Serum Analysis\nDisadvantages: Early detection not possible/ Detect the disease when it\nhas spread/ shows symptoms\n(Any other method with its disadvantages)\n(ii)\nThree molecular diagnostic techniques:\n• Polymerase chain Reaction (PCR)\nAmplifies specific DNA sequences from very small samples.\n• ELISA (Enzyme Linked Immuno Sorbent Assay)\nBased on antigen - antibody interaction infection by pathogen can be\ndetected by the presence of antigen / by detecting the antibodies\nsynthesised against the pathogen.\n• A single stranded DNA or RNA tagged with radioactive molecule\n(probe) is created it binds to its complementary DNA in a clone of cells\nfollowed by detection using autoradiography,\nClone having mutated gene will not appears on photographic film as it\ndoes not have complementarity."
+      "text": "(b)(i) A conventional diagnostic method (any one): urine analysis / stool analysis / sputum analysis / serum analysis. Disadvantage: early detection is not possible — the disease is detected only after it has spread or shows symptoms.\n(ii) Three molecular diagnostic techniques:\n• PCR (Polymerase Chain Reaction) — it amplifies specific DNA sequences from very small samples, allowing very early detection.\n• ELISA (Enzyme-Linked Immuno-Sorbent Assay) — based on the antigen–antibody interaction; an infection can be detected by the presence of the antigen, or by detecting the antibodies synthesised against the pathogen.\n• Molecular (DNA/RNA) probe — a single-stranded DNA or RNA tagged with a radioactive molecule is created; it binds to its complementary DNA in a clone of cells and is then detected by autoradiography (a clone with a mutated gene will not appear on the film, as it lacks complementarity)."
      }
     },
     {
@@ -15893,7 +16181,7 @@
      "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
-      "text": "(a)\nCry I Ab\n(b)\nThe spores of Bt were mixed with water and sprayed in field A where these\nare eaten by the insect larvae, in the gut of the insect toxins are released, and\ninsect get killed.\n(c)\nThe genetically modified plants (GM) express Bt gene /produce Bt toxin\nwhich when ingested will kill the pest."
+      "text": "(a) The insecticidal protein produced by $Bacillus\\ thuringiensis$ is Cry protein (e.g. CryIAb).\n(b) The spores of Bt were mixed with water and sprayed on field A, where they were eaten by the insect larvae; in the alkaline gut of the insect the toxins were released (activated), and the insect was killed.\n(c) The genetically modified (GM) plants express the Bt gene / produce the Bt toxin, which — when ingested by the pest — kills it."
      }
     },
     {
@@ -15940,7 +16228,7 @@
      "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
-      "text": "(a) Propagation of large number of plants in short duration, new plants are\ngenetically identical to the original plants from which they have grown,\nproduction of disease free plants. (Any two)\n(b) Tomato, Banana, Apple (Any other two correct examples)"
+      "text": "(a) Advantages of micropropagation (any two): a large number of plants can be propagated in a short duration; the new plants are genetically identical to the original plant from which they are grown (somaclones); and disease-free plants can be produced.\n(b) Examples of plants produced on a commercial scale by tissue culture (any two): tomato, banana, apple."
      }
     },
     {
@@ -15987,7 +16275,7 @@
      "difficulty": "Easy",
      "topic": "Ethical Issues and Biopiracy",
      "answer": {
-      "text": "(a) Genetic Engineering Approval Committee\n(b)\n• To make decisions regarding validity of GM Research.\n• Safety of introducing GM organisms for public services."
+      "text": "(a) The full form of GEAC is the Genetic Engineering Approval (Appraisal) Committee.\n(b) Two purposes of GEAC: to make decisions regarding the validity of GM research; and to ensure the safety of introducing GM organisms for public services."
      }
     },
     {
@@ -16061,7 +16349,7 @@
      "difficulty": "Average",
      "topic": "Applications in Medicine",
      "answer": {
-      "text": "(a)\nProinsulin contains an extra stretch called the C-peptide in addition to chain A and\nB / C-peptide is not present in the (mature) insulin.\n(b)\nSteps to produce insulin through rDNA technology.\n- Eli Lilly an American Company prepared two DNA sequences corresponding to\nA and B chain of human insulin.\n- These chains A and B were then introduced in plasmid E.coli to produce multiple\ncopies.\n- These chains were extracted of separately.\n- Chain A and B were combined by creating disulphide bonds to form human\ninsulin."
+      "text": "(a) Proinsulin contains an extra stretch called the C-peptide, in addition to the A and B chains; this C-peptide is not present in the mature insulin.\n(b) Steps to produce insulin by rDNA technology:\n– Eli Lilly (an American company) prepared two DNA sequences corresponding to the A and B chains of human insulin.\n– These A and B chains were then introduced into plasmids of $E.\\ coli$ to produce multiple copies.\n– The chains A and B were then extracted separately.\n– Chains A and B were combined by creating disulphide bonds to form human insulin."
      }
     },
     {
@@ -16108,7 +16396,7 @@
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
-      "text": "(a) The meristem is removed from a diseased plant, and grown in-vitro / by tissue\nculture method plant produced is virus free."
+      "text": "(a) The meristem is removed from a diseased plant and grown in vitro by tissue-culture methods; the plant so produced is virus-free."
      }
     },
     {
@@ -16128,7 +16416,7 @@
      "difficulty": "Average",
      "topic": "Transgenic Animals",
      "answer": {
-      "text": "− Normal physiology and development: to study how genes are regulated /\nhow genes affect normal body function and its development / study of complex\nfactors involved in growth such as insulin-like growth factor.\n− Study of disease: to study how genes contribute to the development of a\ndisease / model animals help us to study many diseases such as cancer or cystic\nfibrosis or rheumatoid arthritis or Alzheimer’s / help us to investigate new\ntreatment methods.\n− Biological products: To produce specific biological products / medicines /\nMedicines required to treat certain human diseases / produce human protein α-\n1-antitrypsin (which treat emphysema) / treatment of phenylketonuria /\nmedicine required for the treatment of cystic fibrosis / produce human protein\n(alpha lactalbumin) rich milk by Rosie cow (it is nutritionally more balanced\nfor human babies)\n− Vaccine safety: transgenic mice being developed for use in testing safety of\nvaccines before they are used on humans / Transgenic mice are being used to\ntest the safety of the polio vaccine / after testing on transgenic animals is\nsuccessful and found reliable they could replace use of monkeys to test the\nsafety of batches of vaccine.\n− Chemical safety testing: Transgenic animals are made to carry genes which\nmake them more sensitive to toxic substances than non-transgenic animals.\nThey are then exposed to the toxic substances and the effects studied.\n(Any three with correct explanation)"
+      "text": "Uses of transgenic animals (any three, with explanation):\n– Normal physiology and development: to study how genes are regulated and how they affect normal body functions and development (e.g. the role of complex factors such as insulin-like growth factor).\n– Study of disease: to study how genes contribute to the development of a disease; such model animals help us study diseases such as cancer, cystic fibrosis, rheumatoid arthritis and Alzheimer's, and to investigate new treatments.\n– Biological products: to produce useful biological products / medicines (e.g. the human protein $\\alpha$-1-antitrypsin used to treat emphysema; treatment of phenylketonuria and cystic fibrosis; the transgenic cow Rosie produced human-protein-enriched milk).\n– Vaccine safety: transgenic mice are used to test the safety of vaccines (e.g. the polio vaccine) before they are used on humans, and could replace the use of monkeys.\n– Chemical safety testing: transgenic animals made more sensitive to toxic substances are exposed to those substances and the effects are studied."
      }
     }
    ],
@@ -16504,7 +16792,7 @@
      "difficulty": "Difficult",
      "topic": "Population Interactions",
      "answer": {
-      "text": "(a) The butterfly acquires this chemical during its caterpillar stage by feeding on a poisonous weed.\n(b) Using $N_{t+1} = N_t + [(B + I) - (D + E)]$:\n$800 = N_t + [(200 + 200) - (150 + 100)] = N_t + (400 - 250) = N_t + 150$, so $N_t = 800 - 150 = 650$.\nComment: as the population density is increasing with time, the age pyramid would be that of an expanding population.\n(c) A single huge banyan tree — measured in terms of biomass or percent cover; carrot grass — measured in terms of percent cover."
+      "text": "(a) The butterfly acquires this chemical during its caterpillar stage by feeding on a poisonous weed.\n(b) Using $N_{t+1} = N_t + [(B + I) - (D + E)]$:\n$800 = N_t + [(200 + 200) - (150 + 100)] = N_t + (400 - 250) = N_t + 150$, so $N_t = 800 - 150 = 650$.\nComment: as the population density is increasing with time, the age pyramid would be that of an expanding population.\n(c) A single huge banyan tree — measured in terms of biomass or percent cover; carrot grass — measured in terms of percent cover.\nOR (d) The tiger is counted using indirect signs such as pug marks and faecal pellets."
      }
     },
     {
@@ -16660,7 +16948,7 @@
      "difficulty": "Difficult",
      "topic": "Population Interactions",
      "answer": {
-      "text": "(a)\n-Competitive release.\n-A species whose distribution is restricted to small geographical area due to\nthe presence of competitively superior species expands its distributional\nrange when competing superior species is removed."
+      "text": "(a) Competitive release. It is the phenomenon in which a species whose distribution is restricted to a small geographical area (because of the presence of a competitively superior species) expands its distributional range when the competing superior species is removed.\nOR (a) Gause's competitive exclusion principle states that two closely related species competing for the same resources cannot co-exist indefinitely, and the competitively inferior one will be eliminated eventually.\n(b) Example: in the shallow South American lakes, the visiting flamingos and the resident fishes compete for their common food, zooplankton.\n(c) By 'resource partitioning' — the competing species choose different times for feeding or different foraging patterns. E.g. five closely related species of warblers avoid competition and co-exist owing to behavioural differences in their foraging activities."
      }
     },
     {
@@ -16707,7 +16995,7 @@
      "difficulty": "Average",
      "topic": "Population Attributes",
      "answer": {
-      "text": "(a)\nPercent cover / biomass, In an area if there are 200 carrot grass or Parthenium\nplants but only single huge banyan tree with a large canopy stating that\npopulation density of banyan is low amounts to underestimating the enormous\nrole of Banyan.\nRelative density, laboratory culture in a petri dish / fish caught per trap\nIndirect estimate, tiger census in national parks and tiger reserves is often based\non pug marks and fecal pellets. (Any two)"
+      "text": "Measures of population density (any two):\n• Percent cover / biomass — e.g. in an area with 200 carrot-grass ($Parthenium$) plants but a single huge banyan tree with a large canopy, stating that the population density of the banyan is low would grossly underestimate its enormous role, so biomass or percent cover is a more meaningful measure.\n• Relative density — e.g. a laboratory culture in a petri dish, or the number of fish caught per trap.\n• Indirect estimate — e.g. the tiger census in national parks and reserves, which is often based on pug marks and faecal pellets."
      }
     },
     {
@@ -16727,7 +17015,10 @@
      "difficulty": "Average",
      "topic": "Population Growth",
      "answer": {
-      "text": "(a)\nCarrying capacity\nIt denotes the limit of the maximum number of individuals of a species\n(population) that a habitat can support with the available resources.\n(b)\nGrowth Curve is called Verhulst Pearl Logistic Growth\nA population growing in a habitat with limited resources shows a lag\nphase initially, it is followed by acceleration and deceleration and finally\nan asymptote.\nWe get a Sigmoid Curve\nN= Population at time t\nr = Intrinsic rate of natural increase\nK= Carrying capacity\nVerhulst Pearl Logistic Growth\nLag phase = ½, Asymptote = ½, K= ½, Equation = ½"
+      "text": "(a) Carrying capacity (K) denotes the limit — the maximum number of individuals of a species (population) that a given habitat can support with its available resources.\n(b) The growth curve is called the Verhulst–Pearl logistic growth curve. A population growing in a habitat with limited resources shows an initial lag phase, followed by phases of acceleration and deceleration, and finally an asymptote when the population density reaches the carrying capacity — giving a sigmoid (S-shaped) curve (below). It is described by $\\dfrac{dN}{dt} = rN\\left(\\dfrac{K-N}{K}\\right)$, where N = the population at time t, r = the intrinsic rate of natural increase, and K = the carrying capacity.",
+      "figures": [
+       "assets/answer_figs/bio_2025_57_4_1_q33_logistic.png"
+      ]
      }
     },
     {
@@ -16777,7 +17068,7 @@
      "difficulty": "Difficult",
      "topic": "Population Interactions",
      "answer": {
-      "text": "(a)\n(i)\n· Curve (a) – The food and space are unlimited.\n· Curve (b)- The food and space are limited.\n(ii)\nCurve ‘a’\n(iii) It represents the carrying capacity which means the maximum number of\nindividuals that a given environment can support and beyond which further\ngrowth is not possible."
+      "text": "(a)(i) Curve (a) – the food and space are unlimited (exponential growth); Curve (b) – the food and space are limited (logistic growth).\n(ii) Curve 'a' (the J-shaped curve).\n(iii) It represents the carrying capacity, which means the maximum number of individuals that a given environment can support and beyond which further growth is not possible."
      }
     },
     {
@@ -16798,7 +17089,7 @@
      "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
-      "text": "(b)\n(i)\nPredation is the interspecific interaction in which a large animal called predator\nkills and consumes a smaller animals called prey.\n(ii)\n- It keeps the prey population under control.\n- It helps in maintaining species diversity in a community by reducing the intensity\nof competition among competing prey species.\n- It acts as conduit for energy transfer across trophic level.\n- Biological control methods adopted in agricultural pest control are based on the\nability of the predator to regulate prey population.\n(any two)\n(iii) If a predator is too efficient and over exploits its prey then the prey might\nbecome extinct and following it the predator will also become extinct for lack\nof food."
+      "text": "(b)(i) Predation is the interspecific interaction in which a larger animal, called the predator, kills and consumes a smaller animal, called the prey.\n(ii) Roles of predators (any two):\n– They keep the prey population under control.\n– They help in maintaining species diversity in a community by reducing the intensity of competition among competing prey species.\n– They act as a conduit for energy transfer across trophic levels.\n– Biological control methods used in agricultural pest control are based on the ability of a predator to regulate the prey population.\n(iii) If a predator is too efficient and over-exploits its prey, the prey may become extinct and, following that, the predator will also become extinct for lack of food."
      }
     },
     {
@@ -16845,7 +17136,7 @@
      "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
-      "text": "− Gause’s competitive exclusion principle states that two closely related species\ncompeting for the same limited resources cannot co-exist indefinitely, and\ncompetitively inferior one will be eliminated eventually / If resources are\nlimited the stronger competitor will dominate, driving the weaker one to\nextinction.\n− Example: In some shallow American lakes visiting flamingoes and resident\nfishes compete for their common food i.e. zooplankton in the lake  /  The\nAbingdon tortoise in Galapagos islands became extinct within a decade after\nthe goats were introduced into the island probably due to the greater browsing\nefficiency of the goat or the feeding efficiency of one species (tortoise) is\nreduced by the interfering presence of the other species (goat) / any other\ncorrect example."
+      "text": "– Gause's competitive exclusion principle states that two closely related species competing for the same limited resources cannot co-exist indefinitely, and the competitively inferior one will eventually be eliminated (if resources are limited, the stronger competitor dominates and drives the weaker one to extinction).\n– Example: in some shallow American lakes, visiting flamingoes and resident fishes compete for their common food, i.e. zooplankton; or, the Abingdon tortoise in the Galapagos Islands became extinct within a decade after goats were introduced, probably because of the greater browsing efficiency of the goats."
      }
     },
     {
@@ -17533,7 +17824,7 @@
      "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
-      "text": "(a)\n(i)\n• Inverted Pyramid of Biomass\n• Such pyramids are seen in-\nAquatic Conditions where a small standing crop of phytoplanktons\nsupports a large standing crop of zooplankton or fish /\nIn terrestrial ecosystem – when a large number of insects are feeding on a\nsingle tree / or any other correct example\n(ii)\n-Ecological pyramids does not take into account the same species\nbelonging to two or more trophic levels.\n-It does not accommodate a food web.\n-Saprophytes are not given any place in ecological pyramids even\nthough they play a vital role in the ecosystem.\n(Any two)"
+      "text": "(a)(i) It is an inverted pyramid of biomass.\n(ii) Such pyramids are seen in aquatic ecosystems, where a small standing crop of phytoplankton supports a large standing crop of zooplankton or fish; or in a terrestrial ecosystem where a large number of insects feed on a single tree."
      }
     },
     {
@@ -17586,7 +17877,19 @@
      "difficulty": "Difficult",
      "topic": "Energy Flow and Food Chains",
      "answer": {
-      "text": "(a) Water, Soil, sunlight, temperature, organic substances, inorganic\nsubstances (Any two)\n(b)\nRole of producers\nRole of decomposers\nConversion of inorganic molecules into\norganic material with the help of\nsunlight through the process of\nphotosynthesis\nBreak down of dead and decayed\norganic material into simpler inorganic\nsubstances through the process of\ndecomposition\n(c) Food Chain : Phytoplanktons → zooplanktons → Fish\nTrophic Levels :  producers/ Primary consumer/ Secondary consumer/\n1st trophic level 2nd trophic level 3rd trophic level"
+      "text": "(a) Abiotic components of an ecosystem (any two): water, soil, sunlight, temperature, organic substances, inorganic substances.\n(b) Roles of the producers and the decomposers (see table).\nOR (c) A food chain in an aquatic ecosystem: phytoplankton $\\rightarrow$ zooplankton $\\rightarrow$ fish. The trophic levels are: phytoplankton = producers (1st trophic level); zooplankton = primary consumers (2nd trophic level); fish = secondary consumers (3rd trophic level). Only about 10 % of the energy is transferred to the next trophic level, because at each step some energy is dissipated and lost as heat to the environment.",
+      "table": {
+       "headers": [
+        "Role of producers",
+        "Role of decomposers"
+       ],
+       "rows": [
+        [
+         "Conversion of inorganic molecules into organic material with the help of sunlight, through the process of photosynthesis.",
+         "Breakdown of dead and decayed organic material into simpler inorganic substances, through the process of decomposition."
+        ]
+       ]
+      }
      }
     },
     {
@@ -17740,7 +18043,7 @@
      "topic": "Energy Flow and Food Chains",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i) ‘Standing crop’ of a trophic level represents the mass of living matter or biomass\nat a given time.\n(ii) Measured as\nbiomass i.e mass of living organisms (dry weights) in an unit area.\nnumber per unit area.\nSECTION – C"
+      "text": "(i) The 'standing crop' of a trophic level represents the mass of living matter (biomass) present at a given time.\n(ii) It is measured as the biomass (mass of living organisms, i.e. dry weight) per unit area, or as the number per unit area."
      }
     }
    ],
@@ -17822,7 +18125,7 @@
      "topic": "Levels and Patterns of Biodiversity",
      "figures": [],
      "answer": {
-      "text": "(b)\nAmazonian Rain Forests in South America has remained relatively undisturbed for\nmillions of years.\nIt is less seasonal more constant and predictable.\nMore solar energy available in tropical areas that contributes to higher\nproductivity and more diversity (Any two)"
+      "text": "Reasons why the tropics show greater biodiversity than the temperate regions (any two): tropical latitudes (e.g. the Amazonian rainforests) have remained relatively undisturbed for millions of years; the tropical environment is less seasonal, more constant and predictable; and more solar energy is available in the tropics, which contributes to higher productivity and, in turn, to greater diversity."
      }
     },
     {
@@ -17864,7 +18167,7 @@
      "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
-      "text": "(b)\n(i)\n-Decline in plant production.\n-Lowered resistance to environmental perturbations as drought.\n-Increased variability in certain ecosystem processes  such as water\nuse and pest and disease cycles\n- Any  other correct point\n(Any two points)\n(ii)\n-Habitat loss and fragmentation.\n-Alien species invasion.\n-Over exploitation\n-Co-extinction\n(Any two)"
+      "text": "Limitations of ecological pyramids (any two): they do not take into account a species that belongs to two or more trophic levels; they do not accommodate a food web; and the saprophytes (decomposers) are not given any place, even though they play a vital role in the ecosystem."
      }
     },
     {
@@ -17907,7 +18210,7 @@
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
-      "text": "(a) Species diversity decreases as we move from region A to region B.\nReasons (any two): a lower constant mean annual temperature; less habitable land area; lower availability of solar energy; lower productivity in region B.\n(b) India has more than 1200 species of birds, the Indian land mass lying largely in the tropical latitudes."
+      "text": "(a) Species diversity decreases as we move from region A to region B.\nReasons (any two): a lower constant mean annual temperature; less habitable land area; lower availability of solar energy; lower productivity in region B.\n(b) India has more than 1200 species of birds, the Indian land mass lying largely in the tropical latitudes.\nOR The Amazonian rainforest (in South America) shows the greatest biodiversity, mainly because it lies in the tropical region."
      }
     },
     {
@@ -18512,7 +18815,23 @@
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
-      "text": "(a)\nWild life sanctuaries conserve highest number of species, In-situ\nconservation.\n(b)\nZoological Parks and Botanical Gardens are different, They are ex-situ\nIn situ Conservation\nEx- Situ Conservation\n1) Conserves the whole ecosystem\nand biodiversity at all levels is\nprotected.\nConserves animals or plants that are\nendangered/threatened and given\nurgent measures to save them from\nextinction.\n2) Organisms are protected in their\nnatural habitat.\nOrganisms are taken out from their\nnatural habitat and placed in special\nsettings where they can be protected\nand given special care.\n(Any one difference)\n(Any other relevant difference)\n(c)\n(i)High level of species richness, high degree of endemism"
+      "text": "(a) Wildlife sanctuaries conserve the highest number of species; this is a form of in-situ conservation.\n(b) Zoological parks and botanical gardens are different — they are examples of ex-situ conservation (see table).\nOR (c)(i) The two features that make a region a biodiversity hotspot: a high level of species richness and a high degree of endemism.\n(ii) The conservation of sacred groves is an example of in-situ conservation — tracts of forest were set aside, and all the trees and wildlife within them were venerated and given total protection.",
+      "table": {
+       "headers": [
+        "In-situ conservation",
+        "Ex-situ conservation"
+       ],
+       "rows": [
+        [
+         "Conserves the whole ecosystem, so biodiversity at all levels is protected.",
+         "Conserves the particular animals or plants that are endangered/threatened, which are given urgent measures to save them from extinction."
+        ],
+        [
+         "The organisms are protected in their natural habitat.",
+         "The organisms are taken out of their natural habitat and placed in a special setting where they can be protected and given special care."
+        ]
+       ]
+      }
      }
     },
     {
@@ -18532,7 +18851,7 @@
      "difficulty": "Average",
      "topic": "Why Conserve Biodiversity",
      "answer": {
-      "text": "(a)\n-  20% of the total oxygen in the earth’s atmosphere produced by Amazon forest.\n- Pollination without which plants cannot give us fruits and seeds is another service\nwhich ecosystem provides through honeybees or bumblebees or birds or and\nbats.\n- Provide aesthetic cultural and spiritual values.\n- Provide wildlife habitat and help in their sustenance.\n- Maintain balance in various components of ecosystem through photosynthesis\ncycling of nutrients or generating fertile soil or mitigating droughts or\ncontrolling flood.\n-Obtaining products of economic importance.\n(Any two)"
+      "text": "Ecosystem services (any two):\n– The Amazon forest produces about 20% of the total oxygen in the Earth's atmosphere.\n– Pollination, without which plants cannot give us fruits and seeds, is provided through honeybees, bumblebees, birds and bats.\n– Provides aesthetic, cultural and spiritual values.\n– Provides wildlife habitat and helps in their sustenance.\n– Maintains balance in the various components of the ecosystem through photosynthesis, cycling of nutrients, generating fertile soil, mitigating droughts and controlling floods.\n– Provides products of economic importance."
      }
     },
     {
@@ -18552,7 +18871,7 @@
      "difficulty": "Average",
      "topic": "Ex-situ Conservation",
      "answer": {
-      "text": "(a)\nEx-situ conservation.\n(b)\n-Cryopreservation – (–1960C) sperms or eggs or animal tissues or gametes and\nembryos of threatened species can be stored  .\n-In vitro using tissue culture methods plants can be propagated\n-Seed banks in which seeds of different genetic strains of commercially important\nplants can be kept.\n- Botanical Gardens in which threatened plants can be conserved in special settings.\n-Any other correct option with explanation. (Any two)\n(c)\nBotanical Gardens , Wildlife safari parks (Any one)"
+      "text": "(a) Ex-situ conservation.\n(b) Methods (any two):\n– Cryopreservation: at $-196\\,^{\\circ}\\text{C}$, gametes (sperms or eggs), animal tissues, or embryos of threatened species can be stored.\n– In vitro: using tissue-culture methods, plants can be propagated.\n– Seed banks: seeds of different genetic strains of commercially important plants can be stored.\n– Botanical gardens: threatened plants can be conserved in special settings.\n(c) Botanical gardens, wildlife safari parks (any one)."
      }
     },
     {
@@ -18599,7 +18918,7 @@
      "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
-      "text": "− Genetic diversity - It refers to the high diversity of a species at the genetic\nlevel over its distributional range, e.g. India has more than 50,000 genetically\ndifferent strains of rice / The genetic variation shown by the medicinal plant\nRauwolfia vomitoria growing in different Himalayan ranges might be in terms\nof the potency and concentration of the active chemical (reserpine) that the\nplant produces / India has about 1000 varieties of mango / any other correct\nexample.\n− Species diversity - Diversity at species level  /  the number of different species\nin a given region, e.g. Western Ghats have a greater amphibian species\ndiversity than Eastern Ghats / any other correct example.\n− Ecological diversity - Diversity at the ecosystem level  /  presence of different\ntypes of ecosystems in a particular area.\ne.g. India has a number of ecosystems like rain forests, coral reefs, deserts  /\nany other correct example."
+      "text": "– Genetic diversity: the diversity shown by a single species at the genetic level over its distributional range, e.g. India has more than 50,000 genetically different strains of rice; the medicinal plant $Rauwolfia\\ vomitoria$ growing in different Himalayan ranges varies in the potency and concentration of the active chemical (reserpine) it produces.\n– Species diversity: the diversity at the species level, i.e. the number of different species in a given region, e.g. the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.\n– Ecological diversity: the diversity at the ecosystem level, i.e. the presence of different types of ecosystems in a particular area, e.g. India, with its rain forests, coral reefs, deserts, etc., has a great ecosystem diversity."
      }
     }
    ],
