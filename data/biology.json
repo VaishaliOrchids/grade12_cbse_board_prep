@@ -206,7 +206,7 @@
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
-      "text": "(a) Cells of sporogenous tissue/Microspore mother cell/ Pollen mother cell\n(PMC) in anther undergoes meiotic division, to form microspore tetrad which\nmature and dissociate to form pollen grains or male gametophyte.\n(b) Because its generative cell divides, to form two male gametes."
+      "text": "(a) The cells of the sporogenous tissue / microspore mother cells (pollen mother cells, PMC) in the anther undergo meiotic division to form microspore tetrads, which mature and dissociate into pollen grains (the male gametophyte).\n(b) Because its generative cell divides to form two male gametes."
      }
     },
     {
@@ -256,7 +256,7 @@
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
-      "text": "Emasculation : Removal of the anther from the flower bud before the\nanther dehisces.\nBagging : Covering the emasculated flower with a bag of suitable size to\nprevent contamination of its stigma with unwanted pollen.\nDusting of desired pollen on the stigma and re-bagging."
+      "text": "Steps in artificial hybridisation:\n• Emasculation — removal of the anthers from the flower bud before the anther dehisces.\n• Bagging — covering the emasculated flower with a bag of suitable size to prevent contamination of its stigma with unwanted pollen.\n• Dusting the desired pollen on the stigma and re-bagging."
      }
     },
     {
@@ -276,7 +276,10 @@
      "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
-      "text": "(a)\n(i)\n(Meiosis)\nMegaspore mother cell\nTetrad\n(2n) (n)\n3 Mitosis without cell wall formation / Degeneration of 3 cells\nFree Nuclear division (one functional\nmegaspore left)\n(n)\n(Cell wall formation)\n8 nuclear stage Embryo sac (7 celled 8 nucleated stage)\n(ii)\n(Any four parts labelling)"
+      "text": "Megasporogenesis and the development of the embryo sac:\nThe megaspore mother cell (2n) undergoes meiosis to form a tetrad of four megaspores (n). Three of these degenerate, leaving one functional megaspore. This functional megaspore undergoes three successive mitotic divisions without cell-wall formation (free-nuclear division) to give an 8-nucleate stage. Cell walls then form, organising it into the 7-celled, 8-nucleate embryo sac shown below (with three antipodals at the chalazal end, two synergids and one egg at the micropylar end, and a central cell with two polar nuclei).",
+      "figures": [
+       "assets/answer_figs/bio_2023_57_5_1_q31_embryosac.png"
+      ]
      }
     },
     {
@@ -1663,7 +1666,7 @@
      "difficulty": "Average",
      "topic": "Double Fertilisation",
      "answer": {
-      "text": "(b)\n(i)\n• Double fertilisation is the occurrence of two types of fusion\nsyngamy and triple fusion in an embryo sac of the angiosperm.\n• Syngamy- Fusion of one of the male gamete and the egg cell\nresulting in formation of a zygote (diploid).\n• Triple fusion - Fusion of another male gamete with two haploid\npolar nuclei to produce a (triploid) primary endosperm nucleus.\n(ii)\n(1) Some of the nucellar cells surrounding the embryo start dividing and\nprotrude into the embryo sac to form embryos.\n(2) In case of Cashew thalamus also contribute in fruit formation along\nwith ovary /development of fruit after fertilisation from the part other\nthan ovary, Guava fruit develops only from the ovary after fertilisation."
+      "text": "(i) Double fertilisation is the occurrence of two types of fusion — syngamy and triple fusion — within the embryo sac of an angiosperm.\n• Syngamy: fusion of one male gamete with the egg cell, forming the (diploid) zygote.\n• Triple fusion: fusion of the other male gamete with the two polar nuclei, producing the (triploid) primary endosperm nucleus.\n(ii)(1) In apomixis, some of the nucellar cells surrounding the embryo sac start dividing and protrude into the embryo sac to form embryos.\n(2) In cashew, the thalamus also contributes to fruit formation along with the ovary (a false fruit develops from a part other than the ovary), whereas guava fruit develops only from the ovary after fertilisation."
      }
     },
     {
@@ -1914,7 +1917,10 @@
      "topic": "Female Reproductive System",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i) After implantation finger like projections appear on the trophoblast called\nchorionic villi which are surrounded by the uterine tissue and maternal blood,\nthese tissues become interdigitated with each other, and jointly form a structural\nand functional unit between developing embryo and maternal body called\nplacenta.\n(ii)\n(Any four parts labelling)"
+      "text": "Formation of the placenta:\nAfter implantation, finger-like projections appear on the trophoblast, called chorionic villi, which are surrounded by the uterine tissue and maternal blood. These tissues become interdigitated with each other and jointly form a structural and functional unit between the developing embryo and the maternal body, called the placenta (labelled below).",
+      "figures": [
+       "assets/answer_figs/bio_2023_57_5_1_q31or_placenta.png"
+      ]
      }
     },
     {
@@ -2226,7 +2232,7 @@
      "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
-      "text": "(a)\n(i) ‘b’ (secondary spermatocytes) formed after first meiotic division/\nMeiosis -I in ‘a’ (primary spermatocytes)\n(ii) ‘e’ (sperms) formed via a process called spermiogenesis/\ndifferentiation from ‘d’ (spermatids)\n(iii) ‘d’ (Spermatids) formed after second meiotic division/ Meiosis- II from\n‘b’ (secondary spermatocyte).\n(b) a – Primary spermatocyte\nb – Secondary spermatocyte\nc – Sertoli cell"
+      "text": "(a)(i) 'b' (secondary spermatocytes) are formed after the first meiotic division (Meiosis I) of 'a' (primary spermatocytes).\n(ii) 'e' (sperms) are formed by spermiogenesis (differentiation) of 'd' (spermatids).\n(iii) 'd' (spermatids) are formed after the second meiotic division (Meiosis II) of 'b' (secondary spermatocytes).\n(b) a — primary spermatocyte;  b — secondary spermatocyte;  c — Sertoli cell."
      }
     },
     {
@@ -2249,7 +2255,7 @@
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "answer": {
-      "text": "(a)\n(i)\na- Cells of corona radiata.\nb- Zona pellucida /Perivitelline space\nc- Haploid nucleus\n(ii)\n• Once the sperm enters the cytoplasm of the ovum\n• The whole process is completed within the fallopian tube.\n• Entry of sperm in the cytoplasm of the ovum induces the\ncompletion of the 2nd meiotic division of the secondary oocyte,\nit is unequal division and results in formation of a second polar\nbody and a haploid ovum(ootid).\n(iii) During fertilisation as the sperm comes in contact with the zona\npellucida layer of the ovum, it induces changes in the membrane, that\nblock the entry of any additional sperms."
+      "text": "(a)(i) a — cells of the corona radiata;  b — zona pellucida / perivitelline space;  c — haploid nucleus.\n(ii) Fertilisation: once the sperm enters the cytoplasm of the ovum, the whole process is completed within the fallopian tube. The entry of the sperm induces the completion of the second meiotic division of the secondary oocyte — an unequal division that produces a second polar body and a haploid ovum (ootid).\n(iii) As the sperm comes in contact with the zona pellucida of the ovum, it induces changes in the membrane (the zona/cortical reaction) that block the entry of any additional sperms."
      }
     },
     {
@@ -3264,7 +3270,7 @@
      "difficulty": "Average",
      "topic": "Assisted Reproductive Technologies",
      "answer": {
-      "text": "(a) Gamete Intra Fallopian Transfer, transfer of an ovum collected from a\ndonor into the fallopian tube of another female who cannot produce an ovum\nbut can provide suitable environment for fertilization and further development\n/ It has no role in test tube baby program.\n(b) Zygote Intra Fallopian Transfer, zygote or early embryo up to 8 blastomeres\ntransferred into fallopian tube.\n(c) Intra Uterine Insemination, semen collected either from husband or a\nhealthy donor is artificially introduced either into vagina or uterus of the\nfemale  / It has no role in test tube baby program ."
+      "text": "(a) GIFT (Gamete Intra-Fallopian Transfer): an ovum collected from a donor is transferred into the fallopian tube of a female who cannot produce an ovum but can provide a suitable environment for fertilisation and further development; it has no role in the test-tube-baby programme.\n(b) ZIFT (Zygote Intra-Fallopian Transfer): a zygote or early embryo (up to 8 blastomeres) is transferred into the fallopian tube.\n(c) IUI (Intra-Uterine Insemination): semen collected from the husband or a healthy donor is artificially introduced into the vagina or uterus; it has no role in the test-tube-baby programme."
      }
     },
     {
@@ -3343,7 +3349,7 @@
      "difficulty": "Average",
      "topic": "Sexually Transmitted Infections",
      "answer": {
-      "text": "(a) Accept all values within 47+2 (years of age)\n(b) Accept all values from 6-8 years of age"
+      "text": "(a) Accept all values within $47 \\pm 2$ years of age.\n(b) Accept all values from 6–8 years of age."
      }
     },
     {
@@ -3363,7 +3369,7 @@
      "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
-      "text": "• Vasectomy\n• A small part of the vas deferens is cut / removed, tied-up to block sperm\ntransport"
+      "text": "Vasectomy: a small part of the vas deferens is cut or removed and tied up to block the transport of sperms."
      }
     },
     {
@@ -4223,7 +4229,7 @@
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
-      "text": "(i)\n• Sex linked disorder\n• More males are affected in the family as males have only one X\nchromosome which if affected expresses\n(ii)\nRecessive disorder\n(iii) C -XXc;  D- XXc; H-  XXc\n‘c’ is affected allele, accept other symbols used for the same\n(iv)\n(a)  Probability 0%"
+      "text": "(i) It is a sex-linked disorder; more males are affected in the family because males have only one X chromosome, which — if it carries the affected allele — is expressed.\n(ii) It is a recessive disorder.\n(iii) C — $X X^c$;  D — $X X^c$;  H — $X X^c$  ('c' is the affected allele).\n(iv) Probability of an affected child: 0% (or 50%, depending on the cross given)."
      }
     },
     {
@@ -4272,7 +4278,49 @@
      "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
-      "text": "Case I -Homozygous dominant\nGG × gg\nGreen Pods Yellow Pods\nG\nG\ng\nGg\nGg\ng\nGg\nGg\nPhenotype: All green coloured pod\nCase II- Heterozygous dominant\nGg × gg\nGreen Pods Yellow Pods\nG\ng\ng\nGg\ngg\ng\nGg\ngg\nPhenotype: 50% green & 50% yellow colour pod"
+      "text": "Case I — homozygous dominant parent: green-pod $GG$ × yellow-pod $gg$ gives all $Gg$ offspring, i.e. all green-coloured pods.\nCase II — heterozygous dominant parent: green-pod $Gg$ × yellow-pod $gg$ gives $Gg$ and $gg$ offspring in equal numbers, i.e. 50% green and 50% yellow pods.",
+      "table": [
+       {
+        "caption": "Case I: $GG \\times gg$",
+        "headers": [
+         "×",
+         "$G$",
+         "$G$"
+        ],
+        "rows": [
+         [
+          "$g$",
+          "$Gg$ (green)",
+          "$Gg$ (green)"
+         ],
+         [
+          "$g$",
+          "$Gg$ (green)",
+          "$Gg$ (green)"
+         ]
+        ]
+       },
+       {
+        "caption": "Case II: $Gg \\times gg$",
+        "headers": [
+         "×",
+         "$G$",
+         "$g$"
+        ],
+        "rows": [
+         [
+          "$g$",
+          "$Gg$ (green)",
+          "$gg$ (yellow)"
+         ],
+         [
+          "$g$",
+          "$Gg$ (green)",
+          "$gg$ (yellow)"
+         ]
+        ]
+       }
+      ]
      }
     },
     {
@@ -4292,7 +4340,7 @@
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
-      "text": "(a)  Gain or loss of chromosome due to failure of segregation of chromatids during\ncell division cycle is known as aneuploidy.\n(b) 22 + XY, 22 + 0\n(c) Klinefelter’s syndrome\nGynaecomastia/ feminine development, sterile individual, tall stature, overall\nmasculine development (Any two)"
+      "text": "(a) Aneuploidy: the gain or loss of a chromosome due to the failure of segregation of chromatids during the cell-division cycle.\n(b) $22 + XY$ and $22 + O$.\n(c) Klinefelter's syndrome — gynaecomastia / feminine development, a sterile individual, tall stature, with overall masculine development (any two).\n(Down's syndrome shows a short stature with a small round head, a furrowed tongue, a partially open mouth, a broad palm with a palm crease, physical / psychomotor / mental retardation, a flat back of the head, and congenital heart disease.)"
      }
     },
     {
@@ -5935,7 +5983,47 @@
      "topic": "Mendel's Laws and Dihybrid Cross",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i) Phenotype – Tall plant with Yellow seeds\nGenotype – TtYy\n(ii)\n• Law of Dominance: Out of two contrasting traits only one trait\nwill appear in F1 generation and is called dominant trait while\nthe one which remain unexpressed is called recessive trait.\n• Law of segregation: In a hybrid union trait simply remain\ntogether and segregate at the time of gamete formation.\n(iii) Phenotypic ratio of F2\nTall yellow : Tall green : Dwarf yellow : Dwarf green\n(iv)\nMale gametes of F1 TY  Ty  tY  ty\nFemale gametes of F1 TY Ty  tY  ty"
+      "text": "(i) Phenotype — tall plant with yellow seeds; genotype — $TtYy$.\n(ii) Law of Dominance: of two contrasting traits, only one (the dominant) appears in the $F_1$ generation, while the other (recessive) remains unexpressed.\nLaw of Segregation: the alleles of a pair remain together in the hybrid and segregate at the time of gamete formation.\n(iii) $F_2$ phenotypic ratio = 9 Tall Yellow : 3 Tall Green : 3 Dwarf Yellow : 1 Dwarf Green.\n(iv) Gametes of the $F_1$ ($TtYy$): $TY$, $Ty$, $tY$, $ty$ (both male and female).",
+      "table": {
+       "caption": "$F_2$ of $TtYy \\times TtYy$",
+       "headers": [
+        "×",
+        "$TY$",
+        "$Ty$",
+        "$tY$",
+        "$ty$"
+       ],
+       "rows": [
+        [
+         "$TY$",
+         "$TTYY$",
+         "$TTYy$",
+         "$TtYY$",
+         "$TtYy$"
+        ],
+        [
+         "$Ty$",
+         "$TTYy$",
+         "$TTyy$",
+         "$TtYy$",
+         "$Ttyy$"
+        ],
+        [
+         "$tY$",
+         "$TtYY$",
+         "$TtYy$",
+         "$ttYY$",
+         "$ttYy$"
+        ],
+        [
+         "$ty$",
+         "$TtYy$",
+         "$Ttyy$",
+         "$ttYy$",
+         "$ttyy$"
+        ]
+       ]
+      }
      }
     },
     {
@@ -5956,7 +6044,27 @@
      "topic": "Inheritance of One Gene",
      "figures": [],
      "answer": {
-      "text": "(b) Incomplete Dominance\nSnapdragon flower / Dog flower /Antirrhinum\nRR\nX  rr\n(Red)\n(White)\nRr  (Pink)\nSelfing\nRR\nRed\nRr\nPink\nRr\nPink\nRr\nWhite\nPhenotype - Red : Pink : White\nGenotype - RR :  Rr : rr"
+      "text": "Incomplete dominance in the snapdragon (dog flower, $Antirrhinum$):\nRed $RR$ × white $rr$ gives $Rr$, which is pink (a blend). On selfing ($Rr \\times Rr$), the $F_2$ (below) shows a phenotypic ratio of 1 Red : 2 Pink : 1 White and a genotypic ratio of $RR : Rr : rr = 1 : 2 : 1$.",
+      "table": {
+       "caption": "$F_2$ of $Rr \\times Rr$",
+       "headers": [
+        "×",
+        "$R$",
+        "$r$"
+       ],
+       "rows": [
+        [
+         "$R$",
+         "$RR$ (Red)",
+         "$Rr$ (Pink)"
+        ],
+        [
+         "$r$",
+         "$Rr$ (Pink)",
+         "$rr$ (White)"
+        ]
+       ]
+      }
      }
     },
     {
@@ -6400,7 +6508,7 @@
      "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
-      "text": "(a)\n(i)\n• 3 types\n• RNA Polymerase –II\n(ii) Splicing /Introns are removed and exons are joined in a definite order,\nundergoes capping /at 5' end where unusual nucleotide (methyl guanosine\ntriphosphate) is added , tailing/ at 3' end where (200-300) adenylate residues\nare added."
+      "text": "(i) 3 types; RNA polymerase II.\n(ii) Splicing — introns are removed and exons are joined in a definite order; capping — an unusual nucleotide (methyl guanosine triphosphate) is added at the $5'$ end; tailing — 200–300 adenylate residues are added at the $3'$ end."
      }
     },
     {
@@ -6421,7 +6529,7 @@
      "topic": "DNA Structure and Packaging",
      "figures": [],
      "answer": {
-      "text": "(b) A set of positively charged proteins called histones, due to presence of\nlysine and arginine(basic amino acids), holds the negatively charged DNA\naround it in a coiled manner, histones are organised to form a unit of eight\nmolecules (histone octamer), a typical nucleosome contains 200 bp of DNA\nhelix, Nucleosomes constitute repeating units of a structure in nucleus called\nchromatin thread (like bodies as “beads on string” structure in a nucleus)."
+      "text": "Histones are positively charged proteins, rich in the basic amino acids lysine and arginine, which hold the negatively charged DNA coiled around them. Eight histone molecules form a unit called the histone octamer; a typical nucleosome contains about 200 bp of DNA helix. Nucleosomes are the repeating units of chromatin, giving a 'beads-on-a-string' appearance."
      }
     },
     {
@@ -6441,7 +6549,7 @@
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
-      "text": "(a)tRNA – Act as adaptor molecule, with amino acid binding site and\nanticodon loop, brings specific amino acid to the amino acid binding site on\nthe ribosome, initiator t-RNA starts the process of translation.\nmRNA- Act as a template for protein synthesis, carries information in the form\nof codon, It has the initiator codon /start codon /AUG to initiate the process,  it\nhas the stop codon/UAA/UAG/UGA for termination of the protein synthesis\n(Any two)\nrRNA- rRNA organizes itself into ribosomes, there are two sites in the large\nsubunit in which one site is for binding the incoming t-RNA with the\ncorresponding amino acid second site for peptide bond formation, when the\nsmall subunit of rRNA (ribosomes) encounters the mRNA the process of\ntranslation begins, ribosome also acts as a catalyst for the formation of\npeptide bond."
+      "text": "tRNA — acts as an adaptor molecule, having an amino-acid binding site and an anticodon loop; it brings a specific amino acid to the ribosome, and the initiator tRNA starts translation.\nmRNA — acts as the template for protein synthesis; it carries the information as codons and has the initiator/start codon (AUG) and the stop codons (UAA / UAG / UGA).\nrRNA — organises itself into ribosomes; the large subunit has one site to bind the incoming tRNA–amino-acid and another for peptide-bond formation; rRNA also acts as a catalyst (ribozyme) for peptide-bond formation."
      }
     },
     {
@@ -6487,7 +6595,7 @@
      "difficulty": "Average",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
-      "text": "(a)\n(i) Identify all the approximately 20,000 – 25,000 genes in human DNA\n(ii) Determine the sequences of the 3 billion chemical base pairs that make up\nhuman DNA.\n(iii) Store this information in databases.\n(iv) Improve tools for data analysis.\n(v) Transfer related technologies to other sectors, such as industries.\n(vi) Address the ethical / legal / social issues (ELSI) that may arise from the\nproject.\n(Any four)\n(b) Caenorhabditis elegans / Drosophila (or any other correct example)"
+      "text": "(a) Goals of the Human Genome Project (any four):\n(i) identify all the approximately 20,000–25,000 genes in human DNA;\n(ii) determine the sequences of the 3 billion chemical base pairs that make up human DNA;\n(iii) store this information in databases;\n(iv) improve the tools for data analysis;\n(v) transfer related technologies to other sectors, such as industries;\n(vi) address the ethical, legal and social issues (ELSI) that may arise.\n(b) $Caenorhabditis\\ elegans$ / $Drosophila$ (or any other correct example)."
      }
     },
     {
@@ -6507,7 +6615,7 @@
      "difficulty": "Average",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
-      "text": "(a) DNA fingerprinting\nSteps\ni) Isolation of DNA\nii) Digestion of DNA by restriction endonuclease enzyme\niii) Separation of DNA fragments, by electrophoresis\niv) Transferring of separated DNA fragments to synthetic membrane such as\nnitrocellulose or nylon.\nv) Hybridization, using labelled VNTR probe.\nvi) Detection of hybridized DNA fragments by autoradiography"
+      "text": "Steps in DNA fingerprinting:\n(i) Isolation of DNA;\n(ii) digestion of the DNA by a restriction endonuclease enzyme;\n(iii) separation of the DNA fragments by electrophoresis;\n(iv) transfer of the separated fragments to a synthetic membrane, such as nitrocellulose or nylon;\n(v) hybridisation using a labelled VNTR probe;\n(vi) detection of the hybridised DNA fragments by autoradiography."
      }
     },
     {
@@ -8380,7 +8488,7 @@
      "difficulty": "Average",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
-      "text": "(a)\nDarwin’s theory could not explain how the variations arose.\n(b)\n• Synthetic theory of evolution\n• Origin of species is based on the interaction of genetic variation and\nnatural selection.\n(c)Mutation, recombinants formed during meiosis / crossing over\n/hybridization /sexual reproduction"
+      "text": "(a) Darwin's theory could not explain how the variations arose.\n(b) The synthetic theory of evolution — the origin of species is based on the interaction of genetic variation and natural selection.\n(c) Sources of variation: mutation; recombinants formed during meiosis / crossing over; hybridisation; sexual reproduction."
      }
     },
     {
@@ -8427,7 +8535,7 @@
      "difficulty": "Average",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
-      "text": "Before industrialization thick growth of almost white lichens covered tree trunks and\nwalls, from the mixed population of white and black winged moths white winged moth\nsurvived and increased in number due to camouflaging, dark coloured moth were\npicked out by predators and thus decreased in their numbers.\nAfter industrialization tree trunks became dark due to industrial smoke and soot /\nabsence of lichen, dark coloured moth survived and increased in number due to\ncamouflaging, white winged moths were picked out by predators and thus decreased in\ntheir numbers."
+      "text": "Industrial melanism (the peppered moth):\nBefore industrialisation, a thick growth of almost-white lichens covered the tree trunks and walls. From the mixed population of white- and black-winged moths, the white-winged moths survived and increased in number due to camouflage, while the dark-coloured moths were picked out by predators and decreased.\nAfter industrialisation, the tree trunks became dark due to industrial smoke and soot (and the absence of lichens). Now the dark-coloured moths survived and increased due to camouflage, while the white-winged moths were picked out by predators and decreased."
      }
     },
     {
@@ -9679,7 +9787,7 @@
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
-      "text": "(a) Opioids / Morphine\n(b) Diacetylmorphine / Smack\n(c) Papaver somniferum / Poppy plant\n(d) Slows down body function, act as depressant"
+      "text": "(a) Opioids / Morphine.\n(b) Diacetylmorphine / Smack.\n(c) $Papaver\\ somniferum$ / the poppy plant.\n(d) It slows down body functions and acts as a depressant."
      }
     },
     {
@@ -9702,7 +9810,7 @@
      "difficulty": "Difficult",
      "topic": "Common Human Diseases",
      "answer": {
-      "text": "(i) Sporozoites.\n(ii)Undergoes Asexual reproduction\n(iii) The number increase asexually, parasites ultimately change into\ngametocytes/ undergoes gametogenesis\n(iv)(a) Fertilisation and development takes place in host ‘X’, ultimately\nforming the infective stage sporozoites."
+      "text": "(i) Sporozoites.\n(ii) It undergoes asexual reproduction.\n(iii) The parasites multiply asexually and ultimately change into gametocytes (undergo gametogenesis).\n(iv) Fertilisation and development take place in host 'X', ultimately forming the infective stage — the sporozoites.\n(Alternatively: the bursting of RBCs releases haemozoin and causes the symptoms of malaria.)"
      }
     },
     {
@@ -9781,7 +9889,10 @@
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
-      "text": "(a) Sporozoites (infectious form of Plasmodium) enter in the blood of human\nthrough female Anopheles mosquito’s bite, sporozoites multiply asexually\n(asexual phase) in liver, Red Blood Cells (RBCs), and form gametocytes in\nRBCs of human host which are taken by female Anopheles mosquito with blood\nmeal, fertilization and further development take place in the mosquito’s gut\nleading to formation of sporozoites (sexual phase), that are stored in its salivary\nglands hence needs both host for its continuity."
+      "text": "The sporozoites (the infective form of $Plasmodium$) enter the human blood through the bite of a female $Anopheles$ mosquito. They multiply asexually (the asexual phase) in the liver and then in the red blood cells, and form gametocytes in the RBCs. These gametocytes are taken up by a female $Anopheles$ mosquito during a blood meal; fertilisation and further development take place in the mosquito's gut (the sexual phase), leading to the formation of sporozoites, which are stored in its salivary glands. Hence $Plasmodium$ needs both hosts for its continuity.",
+      "figures": [
+       "assets/answer_figs/bio_2023_57_5_1_q26_plasmodium.png"
+      ]
      }
     },
     {
@@ -9802,7 +9913,7 @@
      "topic": "Common Human Diseases",
      "figures": [],
      "answer": {
-      "text": "(b) Balanced diet, personal hygiene, regular exercise / yoga, vaccination, proper\ndisposal of waste, control of vectors, maintenance of hygienic food and water, any\nother relevant point\n(Any Six)"
+      "text": "Prevention of malaria (any six): a balanced diet; personal hygiene; regular exercise / yoga; vaccination; proper disposal of waste; control of vectors (mosquitoes); and maintenance of hygienic food and water."
      }
     },
     {
@@ -9825,7 +9936,10 @@
      "difficulty": "Difficult",
      "topic": "Common Human Diseases",
      "answer": {
-      "text": "(a)\n• Incubation period\n• Infected person may not take precautions during this period as there are\nno symptoms of the diseases.\n• Period of illness\n• Number of microorganisms is high and can be transmitted via droplet\ninfection.\n(b)\n• Time period between infection and appearance of its symptoms.\n• AIDS/any other correct example\n• T lymphocytes"
+      "text": "(a) Incubation period — the infected person may not take precautions during this period, as there are no symptoms of the disease; the number of microorganisms is high and the disease can be transmitted (e.g. via droplet infection).\n(b) The time period between infection and the appearance of symptoms (e.g. in AIDS); the immune response involves T-lymphocytes.\n(c) Period of illness; antibodies are produced by the B-lymphocytes (B-cells). The structure of an antibody is shown below.",
+      "figures": [
+       "assets/answer_figs/bio_2023_57_5_1_q29or_antibody.png"
+      ]
      }
     },
     {
@@ -11394,7 +11508,7 @@
      "topic": "Cancer",
      "figures": [],
      "answer": {
-      "text": "(b) Malignant tumor grows very rapidly, and starves the normal cells by competing\nfor vital nutrients, invades and damages surrounding normal tissue , shows\nmetastasis / spread to other body parts or tissues.\n(Any Two)"
+      "text": "A malignant tumour grows very rapidly and starves the normal cells by competing for vital nutrients; it invades and damages the surrounding normal tissue and shows metastasis (spread to other body parts / tissues) (any two)."
      }
     }
    ],
@@ -11662,7 +11776,7 @@
      "difficulty": "Easy",
      "topic": "Sewage Treatment",
      "answer": {
-      "text": "(a) Primary effluent passes to aeration tank/ it is constantly agitated\nmechanically and air is pumped into it, this allows vigorous growth of flocs\n(masses of bacteria associated with fungal filaments to form mesh like\nstructure)/ to consume organic matter/to reduce BOD level of primary effluents\n(b) It is a measure of organic matter /polluting potential in the water, greater\nBOD more is polluting potential."
+      "text": "(a) The primary effluent passes to the aeration tank, where it is constantly agitated mechanically and air is pumped in. This allows the vigorous growth of flocs (masses of bacteria associated with fungal filaments, forming a mesh-like structure), which consume the organic matter and reduce the BOD of the primary effluent.\n(b) BOD is a measure of the organic matter / polluting potential in the water — the greater the BOD, the greater the polluting potential."
      }
     },
     {
@@ -11709,7 +11823,7 @@
      "difficulty": "Average",
      "topic": "Biocontrol Agents",
      "answer": {
-      "text": "(a)\n(i) Nucleopolyhedrovirus\n(ii) Species specific, no negative impact on other plants / mammals / birds / fish /\nnon target insects, beneficial insects are conserved, useful for ecologically sensitive\narea.\n(Any Two)"
+      "text": "(i) Nucleopolyhedrovirus (NPV).\n(ii) It is species-specific, with no negative impact on other plants, mammals, birds, fish or non-target insects; beneficial insects are conserved; and it is useful for ecologically sensitive areas (any two)."
      }
     },
     {
@@ -12615,7 +12729,7 @@
      "difficulty": "Easy",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
-      "text": "(a) Recombinant DNA/Desired DNA is inserted into the coding sequence of\nan enzyme β-galactosidase, this results into inactivation of the gene for the\nsynthesis of this enzymes, presence of chromogenic substrate gives blue\ncoloured colonies if the plasmid in bacteria does not have the insert (Non\nrecombinants), but presence of insert (Recombinants) leads to the growth\nof bacterial colonies with no colour."
+      "text": "Insertional inactivation: the recombinant (desired) DNA is inserted into the coding sequence of the enzyme $\\beta$-galactosidase, which inactivates the gene for this enzyme. In the presence of a chromogenic substrate, bacteria whose plasmid has no insert (non-recombinants) produce blue colonies, whereas those carrying the insert (recombinants) produce colourless colonies."
      }
     },
     {
@@ -12635,7 +12749,7 @@
      "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
-      "text": "(a)(i)\n• Can act as vector/can self-replicate to form multiple copies/ have\nselectable markers/ small in size will facilitate insertion / presence of\n‘Ori’\n• E. coli, Agrobacterium tumefaciens, Salmonella typhi, Bacteria , any\nother correct example (any two)\n(ii)\n• ‘Ori’ – this is a sequence from where replication starts / any piece\nof DNA when linked to this sequence can be made to replicate\nwith in the host cells/controls copy number of linked DNA.\n• Selectable marker helps in identifying and eliminating non-\ntransformants, and selectively permitting the growth of\ntransformants during recombinant DNA technology.\n(iii) Restriction endonuclease identifies a specific palindromic sequence\nof DNA and cut the DNA at the specific sites in both the host as well in\ndesired/foreign DNA, thereby creates “sticky ends” facilitating\nligation to form a recombinant DNA."
+      "text": "(i) A good cloning vector can act as a vector / self-replicate to form multiple copies / carry selectable markers / be small in size (to facilitate insertion) / possess an origin of replication ('Ori'). Examples: E. coli, $Agrobacterium\\ tumefaciens$, $Salmonella\\ typhi$, bacteria (any two).\n(ii) 'Ori' — the sequence from where replication starts; any piece of DNA linked to it can be replicated within the host cell, and it controls the copy number of the linked DNA. A selectable marker helps in identifying and eliminating non-transformants, selectively permitting the growth of transformants.\n(iii) A restriction endonuclease recognises a specific palindromic sequence and cuts the DNA at specific sites in both the host and the foreign DNA, creating 'sticky ends' that facilitate ligation to form recombinant DNA."
      }
     },
     {
@@ -12711,7 +12825,7 @@
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
-      "text": "(a) Thermus aquaticus\n(b) Thermostable DNA polymerase remains active during the high temperature\ninduced denaturation of double stranded DNA / It is not required to be added every\ntime after denaturation in every cycle."
+      "text": "(a) $Thermus\\ aquaticus$.\n(b) Its thermostable DNA polymerase (Taq polymerase) remains active during the high-temperature denaturation of the double-stranded DNA, so it need not be added again after every denaturation cycle."
      }
     },
     {
@@ -12731,7 +12845,7 @@
      "difficulty": "Average",
      "topic": "Cloning and Bioreactor",
      "answer": {
-      "text": "(a)\n(i) Optimum growth conditions :\nTemperature , pH , Substrate , Salts , Vitamins , Oxygen\n(Any four)\n(ii) Log phase / Exponential phase\n(iii)\n• No\n• it needs separation and purification / down-streaming process / quality\ncontrol testing / needs to be formulated with suitable preservatives /\nclinical trials."
+      "text": "(i) Conditions required for the optimum growth of a micro-organism (any four): temperature, pH, substrate, salts, vitamins and oxygen.\n(ii) The log (exponential) phase.\n(iii) No — the product still needs separation and purification (down-streaming), quality-control testing, formulation with suitable preservatives, and clinical trials before it can be marketed."
      }
     },
     {
@@ -12752,7 +12866,7 @@
      "topic": "Restriction Enzymes and Vectors",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\n(I) E - Genus\nco – Species\nR – Strain\nI – Order of isolation of enzyme\nR\nr\nR\nr\n(II) Recognition site – 5’GAATTC 3’\n3’CTTAAG 5’\nCleavage site – Between G and A from both sides\n5’GAATTC 3’\n3’CTTAAG 5’\n\n(ii)\n• Sticky ends\n• Sticky ends form hydrogen bonds with their complimentary cut\ncounterparts, this stickiness facilitates the action of the enzyme DNA\nligase."
+      "text": "(i) The name EcoRI: E — genus ($Escherichia$); co — species ($coli$); R — strain; I — the order in which the enzyme was isolated.\nRecognition site: $5'$-GAATTC-$3'$ / $3'$-CTTAAG-$5'$; the cleavage site lies between G and A on both strands.\n(ii) The cut produces 'sticky ends' — single-stranded overhangs that form hydrogen bonds with their complementary cut counterparts; this stickiness facilitates the action of the enzyme DNA ligase."
      }
     },
     {
@@ -14158,7 +14272,7 @@
      "topic": "Applications in Agriculture",
      "figures": [],
      "answer": {
-      "text": "(b) A single stranded DNA or RNA tagged with a radioactive molecule\n(probe), is allowed to hybridize with its complementary DNA in a clone\nof cells, followed by detection using autoradiography, the clone having the\nmutated gene will hence not appear on the photographic film.\nPolymerase Chain Reaction/PCR is used to detect a disease even before\nany clinical symptoms appears, involves denaturation, annealing, to\namplify DNA of the pathogen using pathogen specific primers"
+      "text": "A single-stranded DNA or RNA tagged with a radioactive molecule (a probe) is allowed to hybridise with its complementary DNA in a clone of cells, followed by detection using autoradiography; the clone carrying the mutated gene will not appear on the photographic film.\n(Alternatively, PCR is used to detect a disease even before any clinical symptoms appear — it involves denaturation and annealing to amplify the pathogen's DNA using pathogen-specific primers.)"
      }
     },
     {
@@ -14179,7 +14293,7 @@
      "topic": "Applications in Agriculture",
      "figures": [],
      "answer": {
-      "text": "(b)(i) Bt cotton crop is pest resistant /insect resistant/ with increase\nproductivity\n(ii)\nCotton bollworms/corn borer/tobacco budworm/army worm/\ncoleopterans (beetles)/dipterans (flies, mosquitoes)\n(Any two)\n(iii) BT toxin protein exists as an inactive protoxin in the bacterium, but\nonce the insect ingests this toxin it is converted into an active form, due\nto the alkaline pH of the gut ,which solubilizes inactive crystals of toxic\ninsecticide the activated toxin binds to the surface of the midgut\nepithelial cells of the insect, creates pores, that cause cell swelling and\nlysis and eventually the death of the insect."
+      "text": "(i) Bt cotton is pest-resistant / insect-resistant and gives increased productivity.\n(ii) Cotton bollworms / corn borer / tobacco budworm / army worm / coleopterans (beetles) / dipterans (flies, mosquitoes) (any two).\n(iii) The Bt toxin exists as an inactive protoxin in the bacterium. Once ingested by the insect it is converted to the active form, because the alkaline pH of the gut solubilises the inactive crystals. The activated toxin binds to the surface of the midgut epithelial cells and creates pores, causing cell swelling and lysis and, eventually, the death of the insect."
      }
     },
     {
@@ -14359,7 +14473,7 @@
      "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
-      "text": "(a)\n• Meloidegyne incognitia\n• Roots\n(b) By using Agrobacterium vector, Nematode specific genes were introduced\ninto host plant, introduction of DNA produced both sense and anti-sense RNA\nin the host cells this two RNAs being complementary to each other form a\ndouble stranded RNA (ds RNA), that initiated RNAi and thus silenced the\nspecific mRNA of the nematode hence parasite could not survive in transgenic\nhost."
+      "text": "(a) $Meloidogyne\\ incognita$; it infects the roots.\n(b) Using an $Agrobacterium$ vector, nematode-specific genes were introduced into the host plant. The introduced DNA produced both sense and anti-sense RNA in the host cells; being complementary, these two RNAs formed a double-stranded RNA (dsRNA), which triggered RNA interference (RNAi) and silenced the specific mRNA of the nematode. Hence the parasite could not survive in the transgenic host."
      }
     },
     {
@@ -14379,7 +14493,7 @@
      "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
-      "text": "In bacteria toxin is produced in inactive form/protoxin, insect ingests it, protoxin/inactive\nprotein becomes active due to alkaline pH of gut (solubilize), toxin binds to epithelial\ncells (of midgut) and creates pores, causes swelling, lysis and death."
+      "text": "In the bacterium the Bt toxin is produced in an inactive form (a protoxin). When an insect ingests it, the protoxin becomes active due to the alkaline pH of the gut (which solubilises the inactive crystals). The activated toxin binds to the epithelial cells of the midgut and creates pores, causing swelling, lysis and, eventually, the death of the insect."
      }
     },
     {
@@ -15543,7 +15657,7 @@
      "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
-      "text": "(a) Parasitic bird lays resembling eggs in the nest of host bird\nCuckoo (Koel) lay eggs in the nest of crow\nEggs of cuckoo (Koel) have evolved in time to resemble the eggs of the\ncrow, koel  lays eggs in the nest of the crow and lets them be hatched there,\ncuckoo is the parasitic bird here exhibiting brood parasitism.\n(Any other correct example)\n(b) When evolution of one species is tightly linked with the evolution of\nother species\nPlant pollinator interaction / fig species and wasp / any other relevant\nexample"
+      "text": "(a) Brood parasitism: a parasitic bird lays eggs resembling the host bird's eggs in the host's nest. For example, the cuckoo (koel) lays its eggs in the crow's nest; the koel's eggs have evolved to resemble the crow's eggs, and the koel lets the crow hatch them.\n(b) Co-evolution: when the evolution of one species is tightly linked with the evolution of another species; e.g. plant–pollinator interaction, or the fig species and its specific wasp."
      }
     },
     {
@@ -15617,7 +15731,7 @@
      "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
-      "text": "Calotropis plant produces highly poisonous, cardiac glycosides."
+      "text": "The $Calotropis$ plant produces a highly poisonous white latex containing cardiac glycosides, which defends it against grazing / herbivory."
      }
     },
     {
@@ -16322,7 +16436,7 @@
      "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
-      "text": "(a)\n• Producers: 1/2/3\n• Carnivores: 6/7/8/9\n\n(b)\n• No\n• Pyramid does not accommodate food web\n• Yes\n• In the given food web no organism occupy more than\none trophic level"
+      "text": "(a) Producers: 1, 2, 3.  Carnivores: 6, 7, 8, 9.\n(b) No — a pyramid of numbers does not accommodate a food web.\n(Alternatively, if no organism in the given food web occupies more than one trophic level, a pyramid can be drawn.)"
      }
     },
     {
@@ -17175,7 +17289,7 @@
      "difficulty": "Easy",
      "topic": "Loss of Biodiversity",
      "answer": {
-      "text": "Introduction of Nile perch introduced into Lake Victoria, led eventually to the\nextinction of more than 200 species of Cichlid fish\nAfrican catfish / Clarias gariepinus, causes threat to indigenous catfish\nParthenium/ carrot grass/ Lantana/ Water hyacinth/ Eicchornia sp.,causes\nthreat to native species"
+      "text": "Examples of alien species causing a threat to native species (any):\n• The Nile perch introduced into Lake Victoria led to the extinction of more than 200 species of Cichlid fish.\n• The African catfish ($Clarias\\ gariepinus$) poses a threat to indigenous catfish.\n• $Parthenium$ (carrot grass) / $Lantana$ / water hyacinth ($Eichhornia$) pose a threat to native species."
      }
     },
     {
@@ -17222,7 +17336,7 @@
      "difficulty": "Average",
      "topic": "Why Conserve Biodiversity",
      "answer": {
-      "text": "(a) Oxygen production, pollination, aesthetic pleasure of thick woods and flowers,\nbird watching, mitigate droughts and floods, cycle nutrients, generate fertile soils,\nprovide wildlife habitat, maintain biodiversity, provide storage site for carbon,\nprovide aesthetic/ cultural/ spiritual values, any other relevant point\n(Any two)\n(b) Philosophical or spiritual realisation that every species has an intrinsic value /\nMoral duty to care for their well-being / pass on our biological legacy in good order\nto future generations."
+      "text": "(a) Ecosystem services (any two): production of oxygen; pollination; the aesthetic pleasure of thick woods and flowers; bird-watching; mitigation of droughts and floods; cycling of nutrients; generation of fertile soils; provision of wildlife habitat; maintenance of biodiversity; carbon storage; and aesthetic, cultural or spiritual values.\n(b) The philosophical or spiritual realisation that every species has an intrinsic value; it is our moral duty to care for their well-being and to pass on our biological legacy in good order to future generations."
      }
     },
     {
