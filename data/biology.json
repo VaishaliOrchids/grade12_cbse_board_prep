@@ -107,7 +107,7 @@
      "difficulty": "Easy",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
-      "text": "(a) From micropylar end, through the synergids (filiform apparatus)/filiform (within\nsynergids) apparatus  guides the entry of pollen tube\n(b) One male nucleus fuses with two polar nuclei to form Primary endosperm nucleus\nand termed triple fusion, other male nucleus fuses with egg cell nucleus to form\nzygote i.e. undergoes Syngamy"
+      "text": "(a) The pollen tube enters the ovule from the micropylar end and passes into a synergid, guided by the filiform apparatus.\n(b) Double fertilisation: one male gamete fuses with the two polar nuclei to form the primary endosperm nucleus (triple fusion); the other male gamete fuses with the egg cell to form the zygote (syngamy)."
      }
     },
     {
@@ -130,7 +130,7 @@
      "difficulty": "Difficult",
      "topic": "Pollination",
      "answer": {
-      "text": "(a)\n(i)\n(1)  Autogamy\n(2) Geitonogamy\n(3) Xenogamy\n(ii)\n(1) Water lily: pollinated by insects/wind.\n(2) Vallisneria : Female flowers on long stalks reach water surface male flowers or\npollen released on water and carried by water current to female flowers to achieve\npollination.\n(iii) Genetic : Self-incompatibility / prevents self-pollen (same flower or other flowers\nof same plant) from fertilizing the ovules by inhibiting pollen germination, pollen\ntube growth in pistil.\nPhysiological : Pollen release and stigma receptivity are not synchronized, either\npollen matures earlier and stigma later or pollen matures later than stigma."
+      "text": "(i) (1) Autogamy; (2) Geitonogamy; (3) Xenogamy.\n(ii) (1) Water lily — pollinated by insects or wind.\n(2) Vallisneria — the female flowers reach the water surface on long stalks; the male flowers or pollen are released onto the water and carried by the water current to the female flowers to achieve pollination.\n(iii) Genetic (self-incompatibility): prevents the self-pollen of the same flower or plant from fertilising the ovules, by inhibiting pollen germination and pollen-tube growth in the pistil.\nPhysiological: pollen release and stigma receptivity are not synchronised — either the pollen matures earlier and the stigma later, or the pollen matures later than the stigma."
      }
     },
     {
@@ -1793,7 +1793,48 @@
      "topic": "Seed and Fruit Formation",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nPerisperm\nPericarp:\nPersistent nucellus in some\nseeds\nThe wall of ovary develops into\nwall of fruit.\n(ii)\nSyncarpous\nApocarpous\nfused pistils.\nfree pistils.\niii)\nPlumule :\nRadicle :\nFuture stem/ terminal part\nof epicotyl / shoot tip of\nembryonal axis\nFuture root/ terminal\npart of hypocotyl /\nroot tip of embryonal\naxis"
+      "text": "Differences:",
+      "table": [
+       {
+        "caption": "(i)",
+        "headers": [
+         "Perisperm",
+         "Pericarp"
+        ],
+        "rows": [
+         [
+          "The persistent nucellus present in some seeds.",
+          "The wall of the ovary that develops into the wall of the fruit."
+         ]
+        ]
+       },
+       {
+        "caption": "(ii)",
+        "headers": [
+         "Syncarpous",
+         "Apocarpous"
+        ],
+        "rows": [
+         [
+          "Fused pistils.",
+          "Free pistils."
+         ]
+        ]
+       },
+       {
+        "caption": "(iii)",
+        "headers": [
+         "Plumule",
+         "Radicle"
+        ],
+        "rows": [
+         [
+          "The future stem — the terminal part of the epicotyl (shoot tip of the embryonal axis).",
+          "The future root — the terminal part of the hypocotyl (root tip of the embryonal axis)."
+         ]
+        ]
+       }
+      ]
      }
     },
     {
@@ -1852,7 +1893,7 @@
      "difficulty": "Difficult",
      "topic": "Menstrual Cycle",
      "answer": {
-      "text": "(b)\n(i)\n(1) Menstrual period\n(2)  Follicular phase/proliferative phase\n(3)  Luteal phase/secretory phase\n(4)  Ovulatory phase\n(ii)\nDays\nOvarian\nhormones\nPituitary hormones\nFollicular\ngrowth /\nproliferation\nof\nendometrial\ncells.\nSimulates follicular\nDevelopment/ secretion of\nestrogen by growing follicles\nMaturation of\novarian\nfollicles/\nformation of\ngraafian\nfollicles /\nthickening of\nendometrium.\nRupture of graafian follicle to\nrelease ovum.\nMaintenance\nof\nendometrium\nSecretion of progesterone\nfrom corpus luteum."
+      "text": "(i) (1) Menstrual phase; (2) Follicular / proliferative phase; (3) Luteal / secretory phase; (4) Ovulatory phase.\n(ii) During the follicular phase, FSH from the pituitary stimulates follicular development and the secretion of estrogen by the growing follicle; a mid-cycle surge of LH triggers ovulation; in the luteal phase the corpus luteum secretes progesterone, which maintains the endometrium in readiness for implantation."
      }
     },
     {
@@ -2135,7 +2176,7 @@
      "difficulty": "Easy",
      "topic": "Pregnancy and Embryonic Development",
      "answer": {
-      "text": "(a) Blastocyst\n(b)  Uterine wall/endometrium/innermost layer of uterine wall.\n(c)\n(Outer layer/trophoblast) ‘X’- helps in implantation in uterus/attachment to\nendometrium.\n(Inner cell mass) ‘Y’- gets differentiated into embryo."
+      "text": "(a) Blastocyst.\n(b) The uterine wall / endometrium (the innermost layer of the uterine wall).\n(c) 'X' (outer layer / trophoblast) helps in implantation — attachment of the blastocyst to the endometrium.\n'Y' (inner cell mass) gets differentiated into the embryo."
      }
     },
     {
@@ -3173,7 +3214,7 @@
      "difficulty": "Average",
      "topic": "Assisted Reproductive Technologies",
      "answer": {
-      "text": "(a)\n(i)\n(1) ZIFT : Zygote intrafallopian transfer.\n(2) ICSI : Intracytoplasmic sperm injection.\n(3) IUT : Intra uterine transfer.\n(4) GIFT : Gamete intrafallopian transfer.\n(ii)\n• GIFT\n• GIFT allows the eggs to fertilize and develop in the fallopian tube/ IVF places\na directly fertilized egg (zygote) into the uterus/ in vivo fertilisation is involved in\nGIFT."
+      "text": "(i) Full forms:\n(1) ZIFT — Zygote Intra-Fallopian Transfer.\n(2) ICSI — Intra-Cytoplasmic Sperm Injection.\n(3) IUT — Intra-Uterine Transfer.\n(4) GIFT — Gamete Intra-Fallopian Transfer.\n(ii) In GIFT the eggs are allowed to fertilise and develop in the fallopian tube, whereas in IVF a fertilised egg (zygote) is placed directly into the uterus; i.e. fertilisation is in vivo in GIFT."
      }
     },
     {
@@ -4103,7 +4144,7 @@
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
-      "text": "(a) Recessive trait, both the parents in generation I do not express the trait yet it\nappears in the progeny.\n(b) Autosomal trait, both male and females have equal chances of getting the trait.\n(c) Child ‘1’ : Aa/AA ,  Child ‘3’ : Aa\n(a) Recessive trait, both the parents in generation I do not express the trait, yet it\nappears in the progeny.\n(b) Sex linked trait, comparatively more male are getting affected.\n(c) Child ‘1’  : XY, Child ‘3’:  X’ X(carrier)"
+      "text": "(a) It is a recessive trait — both parents in generation I do not express the trait, yet it appears in the progeny.\n(b) It is an autosomal trait — both males and females have an equal chance of getting the trait.\n(c) Child '1': $Aa$ or $AA$;  Child '3': $Aa$."
      }
     },
     {
@@ -5833,7 +5874,47 @@
      "topic": "Mendel's Laws and Dihybrid Cross",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i) TTRR ttrr\nTall round seeds Dwarf wrinkled seeds\nParents\nGametes TR\ntr\nF1 generation TrRr (All tall round)\nSelfing\nTtRr  X  TtRr\nF2 gen. Tall Round Dwarf\nRound\nTall\nwrinkled\nDwarf\nWrinkled\n(ii) ‘when two pairs of traits are combined in a hybrid, segregation of one pair\nof characters is independent of the other pair of characters’(law of independent\nassortment)."
+      "text": "Dihybrid cross — tall round ($TTRR$) × dwarf wrinkled ($ttrr$):\nThe $F_1$ generation is $TtRr$ (all tall and round). On selfing ($TtRr \\times TtRr$), the $F_2$ Punnett square (below) gives the phenotypic ratio 9 Tall Round : 3 Tall Wrinkled : 3 Dwarf Round : 1 Dwarf Wrinkled.\n\nLaw of Independent Assortment: when two pairs of traits are combined in a hybrid, the segregation of one pair of characters is independent of the other pair of characters.",
+      "table": {
+       "caption": "$F_2$ of $TtRr \\times TtRr$",
+       "headers": [
+        "×",
+        "$TR$",
+        "$Tr$",
+        "$tR$",
+        "$tr$"
+       ],
+       "rows": [
+        [
+         "$TR$",
+         "$TTRR$",
+         "$TTRr$",
+         "$TtRR$",
+         "$TtRr$"
+        ],
+        [
+         "$Tr$",
+         "$TTRr$",
+         "$TTrr$",
+         "$TtRr$",
+         "$Ttrr$"
+        ],
+        [
+         "$tR$",
+         "$TtRR$",
+         "$TtRr$",
+         "$ttRR$",
+         "$ttRr$"
+        ],
+        [
+         "$tr$",
+         "$TtRr$",
+         "$Ttrr$",
+         "$ttRr$",
+         "$ttrr$"
+        ]
+       ]
+      }
      }
     },
     {
@@ -6222,7 +6303,7 @@
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
-      "text": "(a) In presence of lactose repressor protein dose not bind to the operator region (O)\nand allow RNA polymerase to transcribe the operon.\nIn absence of lactose repressor protein bind to the operator region (O) and prevent\nRNA polymerase from transcribing the operon.\n(b) Presence of Permease enzyme coded by gene ‘y’ is required that allows lactose to\nenter the cell for switching on the operon / so that lactose enter inside the cell.\n(c) ‘i’ stands for ‘inhibitor/ this gene transcribes repressor protein which binds to\nthe ‘operator’ site and switch off the operon.\n(d)"
+      "text": "(a) In the presence of lactose the repressor protein does not bind to the operator region (O), so RNA polymerase is able to transcribe the operon.\nIn the absence of lactose the repressor protein binds to the operator region (O) and prevents RNA polymerase from transcribing the operon.\n(b) The permease enzyme, coded by gene 'y', is required to let lactose enter the cell, so that the operon can be switched on.\n(c) 'i' stands for the inhibitor (regulatory) gene; it transcribes the repressor protein, which binds to the operator site and switches the operon off.\n(d) In the absence of an inducer: the i-gene forms repressor mRNA and then the repressor protein, which binds the operator and blocks RNA polymerase, so the structural genes z, y and a are not transcribed.\nIn the presence of an inducer: the inducer inactivates the repressor; RNA polymerase transcribes z, y and a into lac mRNA, which is translated into $\\beta$-galactosidase, permease and transacetylase."
      }
     },
     {
@@ -6242,7 +6323,7 @@
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
-      "text": "(a)(i)  Normal nitrogen/ 14N, heavy nitrogen/ 15N\nto produce two types of DNA / light and heavy DNA respectively.\n(ii) E. coli has generation time of 20 minutes so the samples taken at intervals of 20\nminutes, to understand the mode of replication when E.coli with 15N DNA was\ncultured in medium 14N (normal) nitrogen.\n(iii) To distinguish or separate heavy DNA from light DNA on the basis of density.\n(iv) Mode of DNA replication is semiconservative."
+      "text": "Meselson and Stahl's experiment:\n(i) Two types of DNA were produced — DNA with normal nitrogen ($^{14}$N, light) and DNA with heavy nitrogen ($^{15}$N, heavy).\n(ii) E. coli has a generation time of about 20 minutes, so samples were taken at 20-minute intervals to follow the mode of replication after $^{15}$N-labelled E. coli was transferred to a $^{14}$N (normal) medium.\n(iii) Centrifugation in a caesium chloride density gradient was used to distinguish/separate heavy DNA from light DNA on the basis of density.\n(iv) The experiment showed that DNA replication is semiconservative."
      }
     },
     {
@@ -8199,7 +8280,23 @@
      "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
-      "text": "(a) Dryopithecus, Ramapithecus\n(b) Time period : 2 million years ago\nPlace : East African grasslands\n(c)\nHomo habilis\nHomo erectus\nBrain capacity\nbetween 650 – 800 cc\nBrain capacity 900 cc\nprobably did not eat\nmeat.\nprobably ate meat"
+      "text": "(a) $Dryopithecus$ and $Ramapithecus$.\n(b) Time period: about 2 million years ago;  Place: the East African grasslands.\n(c) Comparison of $Homo\\ habilis$ and $Homo\\ erectus$ — see the table below.",
+      "table": {
+       "headers": [
+        "$Homo\\ habilis$",
+        "$Homo\\ erectus$"
+       ],
+       "rows": [
+        [
+         "Brain capacity between 650–800 cc.",
+         "Brain capacity about 900 cc."
+        ],
+        [
+         "Probably did not eat meat.",
+         "Probably ate meat."
+        ]
+       ]
+      }
      }
     },
     {
@@ -9442,7 +9539,24 @@
      "difficulty": "Average",
      "topic": "Cancer",
      "answer": {
-      "text": "(a)\nS.\nNo.\nMalignant tumor\nBenign tumor\nCells grow very rapidly and\ninvade and damage the\nsurrounding normal tissue.\nComparatively slow growth and remain\nconfined to their original location and do\nnot spread to other parts of the body\nShow metastasis\nDo not show metastasis\n(Any one difference)\n(b)\n• Metastasis\n• Cells from these tumors slough off and reach distant sites through blood,\nwherever they get lodged in the body they start a new tumor there."
+      "text": "(a) Difference between a malignant and a benign tumour — see the table below.\n\n(b) Metastasis: cells slough off from a malignant tumour and travel through the blood to distant sites, where they get lodged and start a new tumour.",
+      "table": {
+       "caption": "Malignant vs benign tumour",
+       "headers": [
+        "Malignant tumour",
+        "Benign tumour"
+       ],
+       "rows": [
+        [
+         "Cells grow very rapidly and invade and damage the surrounding normal tissue.",
+         "Grows comparatively slowly and remains confined to its original location; does not spread to other parts of the body."
+        ],
+        [
+         "Shows metastasis.",
+         "Does not show metastasis."
+        ]
+       ]
+      }
      }
     },
     {
@@ -9465,7 +9579,7 @@
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
-      "text": "(a)\n(i) The vaccine contains the antigen, which stimulates or activates immune cells to\nproduce antibodies (by B lymphocytes) / which generates primary response or\nhumoral immune response.\n(ii)  Memory cells generate, amnestic response/secondary response\n(iii)\nP = Yes\nQ = Catching an infection/getting infected\nR = No\nS = Yes\nT = No"
+      "text": "(i) A vaccine contains the antigen, which stimulates the immune cells to produce antibodies (by B-lymphocytes) — it generates the primary (humoral) immune response.\n(ii) Memory cells generated on first exposure produce a rapid anamnestic (secondary) response on subsequent exposure.\n(iii) P = Yes;  Q = catching an infection / getting infected;  R = No;  S = Yes;  T = No."
      }
     },
     {
@@ -9486,7 +9600,7 @@
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
-      "text": "(b)\n(i)\n• Diacetylmorphine\n• as it is highly addictive, and being a depressant it slows down body functions.\n(ii)\n(1) Cannabis sativa, affects the cardiovascular system of the body.\n(2) Erythroxylum coca /coca plant , interferes with the transport of\nneurotransmitter dopamine / produces sense of euphoria  /  increased energy.\n(3)  Papaver somniferum, acts as depressant/ slows down body function/ reduces\npain/sedative"
+      "text": "(i) Diacetylmorphine (heroin) — it is highly addictive and, being a depressant, slows down body functions.\n(ii) (1) $Cannabis\\ sativa$ — affects the cardiovascular system of the body.\n(2) $Erythroxylum\\ coca$ (coca plant) — interferes with the transport of the neurotransmitter dopamine, producing a sense of euphoria and increased energy.\n(3) $Papaver\\ somniferum$ — acts as a depressant, slows down body functions and relieves pain (sedative)."
      }
     },
     {
@@ -11502,7 +11616,7 @@
      "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
-      "text": "(a)  Primary Sludge: All the solids that settle down, during the primary treatment of\nsewage water.\n(b) Activated Sludge: Produced during the secondary treatment or biological\ntreatment of sewage, primary effluent + aerobic microbes flocs (bacteria and\nfungus) – get converted to a sediment whose BOD has reduced significantly.\n(c) Anaerobic sludge digesters: Large tanks where activated sludge is treated with\nanaerobic bacteria which digest the bacteria and fungi, and produce a mixture of CH4,\nH2S and CO2/ Biogas"
+      "text": "(a) Primary sludge: all the solids that settle down during the primary treatment of sewage water.\n(b) Activated sludge: the sediment produced during the secondary (biological) treatment — the primary effluent together with aerobic microbial flocs (bacteria and fungi), whose BOD has been reduced significantly.\n(c) Anaerobic sludge digesters: large tanks in which the activated sludge is digested by anaerobic bacteria, producing a mixture of $CH_4$, $H_2S$ and $CO_2$ (biogas)."
      }
     },
     {
@@ -12410,7 +12524,7 @@
      "difficulty": "Average",
      "topic": "Principles of Biotechnology",
      "answer": {
-      "text": "(a)\n(i) ‘A; Circular DNA/Plasmid\n‘B’ Bacteriophage\n(ii)(Plasmid)-Can carry foreign gene into the host cell/acts as cloning vector/has\nselectable marker/ independent of the control of chromosomal DNA/ high\ncopy number\n(Bacteriophage) -Cloning vector have the ability to replicate in bacterial cells /\nindependent of the control of chromosomal DNA / high copy number per cell."
+      "text": "(i) A — circular DNA / plasmid; B — bacteriophage.\n(ii) Plasmid: can carry a foreign gene into the host cell (acts as a cloning vector), carries a selectable marker, replicates independently of the chromosomal DNA, and gives a high copy number.\nBacteriophage: can replicate within bacterial cells, independent of the control of the chromosomal DNA, giving a high copy number per cell."
      }
     },
     {
@@ -12431,7 +12545,7 @@
      "difficulty": "Average",
      "topic": "Cloning and Bioreactor",
      "answer": {
-      "text": "(b) Treating bacteria with specific concentration of calcium (ions)which increases the\nefficiency with which DNA enters the bacteria through pores in its cell\nwall ,recombinant DNA can then be forced into such cells by incubating the cells\nwith recombinant DNA on ice, followed by placing them briefly at 420C (heat shock),\nthen putting them back on ice."
+      "text": "Bacteria are treated with a specific concentration of calcium ions, which increases the efficiency with which DNA enters the bacterium through pores in its cell wall. The recombinant DNA is then forced in by incubating the cells with the DNA on ice, briefly placing them at $42^\\circ$C (heat shock), and putting them back on ice."
      }
     },
     {
@@ -12451,7 +12565,7 @@
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
-      "text": "(Schematic diagram — 3 steps)\n• Step 1: The restriction endonuclease EcoRI cuts both the source (foreign) DNA and the vector DNA at its recognition sequence 5'-G↓AATTC-3', producing fragments with complementary single-stranded 'sticky' (cohesive) ends.\n• Step 2: The sticky ends of the foreign DNA fragment base-pair (anneal) with the complementary sticky ends of the cut vector DNA.\n• Step 3: DNA ligase seals the sugar-phosphate backbones, joining the two pieces into a recombinant DNA molecule."
+      "text": "Formation of recombinant DNA using the restriction enzyme EcoRI:\n• EcoRI cuts both the vector DNA and the foreign DNA at the same palindromic recognition sequence, $5'$-GAATTC-$3'$, between G and A on each strand.\n• This staggered cut leaves complementary single-stranded 'sticky ends' (AATT overhangs) on both DNA molecules.\n• The sticky end of the foreign DNA base-pairs with the complementary sticky end of the vector DNA.\n• DNA ligase then seals the joins to produce the recombinant DNA molecule."
      }
     },
     {
@@ -14225,7 +14339,7 @@
      "difficulty": "Average",
      "topic": "Applications in Medicine",
      "answer": {
-      "text": "(a) They have the ability of self-renewal / to divide, and differentiate into any\nkind of cell/tissue/organ.\n(b) – Inner cell mass of blastocyst / umbilical cord / Bone marrow\n(or any other correct source)\n(Any one)\n(c)  Diabetes treatment via forming islets of Langerhans,\nRestoration of vision by injecting stem cells, to treat rheumatoid arthritis, reduces\npancreatic cancer, to treat genetic disorder like cystic fibrosis, spinal cord injurie,\nheart disease, any other correct application\n(Any two)"
+      "text": "(a) Stem cells have the ability of self-renewal (to divide) and can differentiate into any kind of cell, tissue or organ.\n(b) Sources: the inner cell mass of the blastocyst / umbilical cord / bone marrow (or any other correct source).\n(c) Uses (any two): treating diabetes by forming islets of Langerhans; restoring vision; treating rheumatoid arthritis; pancreatic cancer; genetic disorders such as cystic fibrosis; spinal-cord injury; heart disease."
      }
     },
     {
@@ -16185,7 +16299,7 @@
      "difficulty": "Easy",
      "topic": "Ecological Pyramids",
      "answer": {
-      "text": "• Doesn’t take into account same species belonging to two or more trophic levels.\n• Assumes a simple food chain which never exists in nature/does not accommodate a\nfood web.\n• Saprophytes are not given any place though they play an important ecological role.\n(Any two points)"
+      "text": "Limitations of the pyramid of numbers (any two):\n• It does not take into account the same species belonging to two or more trophic levels.\n• It assumes a simple food chain, which never exists in nature; it does not accommodate a food web.\n• Saprophytes are not given any place, even though they play an important ecological role."
      }
     },
     {
@@ -16991,7 +17105,7 @@
      "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
-      "text": "2·4 percent\n8·1 percent share of the global species diversity"
+      "text": "(a) $2{\\cdot}4$ percent.\n(b) $8{\\cdot}1$ percent — India's share of the global species diversity."
      }
     },
     {
@@ -17014,7 +17128,7 @@
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
-      "text": "(a) Species diversity decreases as we move from region A to region B.\nReasons : less Constant mean annual temperature, lesser habitable land\narea, availability of lesser solar energy, lesser productivity, any other correct\nreason in ‘B’ region.\n(Any two)\n(b) More the 1200 species of birds, Indian land mass being largely in the tropical\nlatitudes."
+      "text": "(a) Species diversity decreases as we move from region A to region B.\nReasons (any two): a lower constant mean annual temperature; less habitable land area; lower availability of solar energy; lower productivity in region B.\n(b) India has more than 1200 species of birds, the Indian land mass lying largely in the tropical latitudes."
      }
     },
     {
