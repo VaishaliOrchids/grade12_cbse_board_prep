@@ -262,7 +262,13 @@
     var rows = (t.rows || []).map(function (r) {
       return "<tr>" + r.map(function (c) { return "<td>" + mathHTML(c) + "</td>"; }).join("") + "</tr>";
     }).join("");
-    return '<table class="qtable">' + h + rows + "</table>";
+    return '<table class="qtable">' + (t.caption ? '<caption>' + mathHTML(t.caption) + "</caption>" : "") + h + rows + "</table>";
+  }
+  // An answer may carry no table, one table object, or a list of tables
+  // (e.g. two Punnett squares for a genetic cross), each optionally captioned.
+  function ansTablesHTML(t) {
+    if (!t) return "";
+    return (Array.isArray(t) ? t : [t]).map(tableHTML).join("");
   }
   function optionsHTML(opts) {
     if (!opts || !opts.length) return "";
@@ -319,7 +325,7 @@
         (a.opt
           ? '<span class="qans-opt">(' + esc(a.opt) + ")</span> " + mathHTML(a.text || "")
           : '<div class="ans-body">' + answerHTML(a.text || "") +
-            tableHTML(a.table) + figHTML(a.figures) + "</div>") +
+            ansTablesHTML(a.table) + figHTML(a.figures) + "</div>") +
         '<span class="qans-src">· official CBSE marking scheme</span></div></details>';
     }
     return '<article class="qcard">' +

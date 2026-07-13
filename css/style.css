@@ -125,6 +125,7 @@ a:hover { text-decoration: underline; }
 .ans-body table { border-collapse: collapse; margin: 8px 0; font-size: 13px; }
 .ans-body th, .ans-body td { border: 1px solid #86c9a6; padding: 5px 10px; text-align: left; vertical-align: top; color: #14532d; }
 .ans-body th { background: #d7f2e3; font-weight: 700; }
+.ans-body table caption { caption-side: top; text-align: left; font-weight: 700; font-size: 12px; color: #047857; padding: 2px 0 4px; }
 .ans-body .figs { margin: 8px 0 2px; }
 .ans-body .fig-wrap { background: #fff; border: 1px solid #bbf7d0; border-radius: 6px; padding: 6px; display: inline-block; }
 .ans-body .fig-wrap img { max-width: 100%; height: auto; }

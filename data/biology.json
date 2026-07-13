@@ -2085,7 +2085,7 @@
      "topic": "Gametogenesis",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)\nDuring menstrual phase in the menstrual cycle of human female endometrium\nlining of the uterus and its blood vessels which forms liquid comes out\nthrough vagina and flow lasts for 3-5 days.\n(ii)\nAs the regeneration of endometrium through proliferation takes place.\n(iii)\nGraafian follicle ruptures to release secondary oocyte, remaining part of\ngraafian follicle transforms into corpus luteum\n(iv)\n1+1`"
+      "text": "(i) Menstrual phase: the endometrial lining of the uterus, along with its blood vessels, breaks down and is discharged as the menstrual flow through the vagina; the flow lasts about 3–5 days.\n\n(ii) The follicular phase is also called the proliferative phase because during it the endometrium regenerates by the proliferation of its cells.\n\n(iii) At ovulation the Graafian follicle ruptures and releases the secondary oocyte; the remaining part of the Graafian follicle is transformed into the corpus luteum.\n\n(iv) Draw a labelled diagram of a Graafian follicle, clearly labelling the Antrum and the Secondary oocyte."
      }
     },
     {
@@ -5728,7 +5728,23 @@
      "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
-      "text": "(a)\n· Types and location of gene:\n−α- Thalassemia  is under the control of two genes  HBA1 and HBA2 , both located\non chromosome-16\n−β- Thalassemia is the control of a single gene HBB , present on chromosomes -11\n· Causes:\nIt is due to mutation / deletion of one or more of the four alleles of the genes\ncontrolling the disease.\n· Symptoms:\nAnaemia/ extreme tiredness / pale skin/ Breathlessness/ any other correct symptom\nThalassemia\nSickle cell anaemia\nIt is quantitative where less amount of\nhaemoglobin is synthesised.\nIt is qualitative where defective\nhaemoglobin is synthesised.\nBoth α and β chain are affected\nOnly β chain is affected\n(Any one)"
+      "text": "Types and location of the gene:\n• $\\alpha$-Thalassemia is controlled by two genes, HBA1 and HBA2, both located on chromosome 16.\n• $\\beta$-Thalassemia is controlled by a single gene, HBB, located on chromosome 11.\n\nCause: mutation or deletion of one or more of the four alleles of the genes controlling the disease.\n\nSymptoms: anaemia, extreme tiredness, pale skin or breathlessness (any other correct symptom).\n\nHow sickle-cell anaemia differs from thalassemia:",
+      "table": {
+       "headers": [
+        "Thalassemia",
+        "Sickle-cell anaemia"
+       ],
+       "rows": [
+        [
+         "It is quantitative — a smaller amount of (normal) haemoglobin is synthesised.",
+         "It is qualitative — a defective haemoglobin is synthesised."
+        ],
+        [
+         "Both the $\\alpha$ and $\\beta$ globin chains can be affected.",
+         "Only the $\\beta$ globin chain is affected."
+        ]
+       ]
+      }
      }
     },
     {
@@ -5922,7 +5938,49 @@
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
-      "text": "(b)\n(i) Co-dominance, as two different alleles for a genetic trait are able to express /\nboth characters are expressed equally.\n(1) Red is dominant over white\nif pure breeding red coat cattle are represented as ‘RR’ and pure breeding white coat\ncattle as ‘rr’. Then\nRR\nX rr\n(Red coat) (White coat)\nGametes\nR R\nr r\nF1 generation Rr\nF2 phenotypic ratio: 3 Red Coat : 1 White Coat\n(2)  Red is incompletely dominant\nRR\nX rr\n(Red coat) (White coat)\nGametes\nR R\nr\nr\nF1 generation\nRr\n(All with red coat)\nRr X Rr\nR\nr\nF2 generation\nR RR\nRed coat\nRr\nRed coat\nr\nRr\nRed coat\nrr\nWhite coat\n(All with Pink coat)\nRr X Rr\nR\nr\nR\nRR\nRed coat\nRr\nPink coat\nr\nRr\nPink coat\nrr\nWhite coat\nF2 phenotypic ratio: 1 Red  : 2 Pink : 1 White"
+      "text": "(i) Co-dominance means two different alleles of a gene are both able to express themselves fully, so both characters appear equally in the heterozygote.\n\n(1) If red is completely dominant over white:\nPure-breeding red $RR$ × pure-breeding white $rr$ gives $F_1$ all $Rr$ (red coat). Selfing the $F_1$ ($Rr \\times Rr$) gives the $F_2$ shown below.\n$F_2$ phenotypic ratio = 3 Red : 1 White.\n\n(2) If red is incompletely dominant over white:\n$RR$ × $rr$ gives $F_1$ all $Rr$ (pink coat — a blend). Selfing the $F_1$ ($Rr \\times Rr$) gives the $F_2$ shown below.\n$F_2$ phenotypic ratio = 1 Red : 2 Pink : 1 White.",
+      "table": [
+       {
+        "caption": "$F_2$ — red completely dominant",
+        "headers": [
+         "×",
+         "$R$",
+         "$r$"
+        ],
+        "rows": [
+         [
+          "$R$",
+          "$RR$ (Red)",
+          "$Rr$ (Red)"
+         ],
+         [
+          "$r$",
+          "$Rr$ (Red)",
+          "$rr$ (White)"
+         ]
+        ]
+       },
+       {
+        "caption": "$F_2$ — red incompletely dominant",
+        "headers": [
+         "×",
+         "$R$",
+         "$r$"
+        ],
+        "rows": [
+         [
+          "$R$",
+          "$RR$ (Red)",
+          "$Rr$ (Pink)"
+         ],
+         [
+          "$r$",
+          "$Rr$ (Pink)",
+          "$rr$ (White)"
+         ]
+        ]
+       }
+      ]
      }
     },
     {
