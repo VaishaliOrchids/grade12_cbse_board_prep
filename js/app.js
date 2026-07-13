@@ -312,13 +312,14 @@
       (q.topic ? '<span class="qsub-sep">›</span><span class="qsub-topic">' + esc(q.topic) + "</span>" : "") +
       "</div>";
     var ansHtml = "";
-    if (q.answer && (q.answer.text || q.answer.opt)) {
+    if (q.answer && (q.answer.text || q.answer.opt || q.answer.table || (q.answer.figures && q.answer.figures.length))) {
       var a = q.answer;
       ansHtml = '<details class="qans"><summary><span class="qans-lbl">Show answer</span></summary>' +
         '<div class="qans-body"><span class="qans-tag">Answer</span>' +
         (a.opt
           ? '<span class="qans-opt">(' + esc(a.opt) + ")</span> " + mathHTML(a.text || "")
-          : '<div class="ans-body">' + answerHTML(a.text || "") + "</div>") +
+          : '<div class="ans-body">' + answerHTML(a.text || "") +
+            tableHTML(a.table) + figHTML(a.figures) + "</div>") +
         '<span class="qans-src">· official CBSE marking scheme</span></div></details>';
     }
     return '<article class="qcard">' +
