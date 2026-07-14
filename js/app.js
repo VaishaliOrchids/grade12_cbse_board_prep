@@ -1016,19 +1016,38 @@
     var kind = h1 ? h1.textContent : "";
     return subTxt + (kind ? "  —  " + kind : "");
   }
-  // Break a case-study body (.qbody.cb) into ordered print "atoms": the passage is
-  // its own atom (it may break away from the sub-parts), and every sub-part (.cb-q)
-  // is an atom that carries any immediately-preceding "OR" divider, so an atom never
-  // splits internally and "OR" never strands at a page foot. Lets the paginator flow
-  // a long case across pages sub-part by sub-part instead of moving it whole.
-  function caseAtoms(cb) {
+  // Break a question body (.qbody) into ordered print "atoms" so a long question can
+  // flow across pages like a board paper — each atom is kept whole; the paginator
+  // fills the current page, then continues the next atom on the following page.
+  //  • Case study (.qbody.cb): the passage is its own atom, and every sub-part
+  //    (.cb-q) is an atom carrying any immediately-preceding "OR" divider (so "OR"
+  //    never strands at a page foot).
+  //  • Ordinary question: each direct child (stem paragraph, figure, table, options
+  //    list, OR-block) is an atom. Figures / tables / option-lists keep themselves
+  //    whole via CSS, so no question is ever cut mid-unit.
+  function blockAtoms(body) {
+    var kids = Array.prototype.slice.call(body.children);
+    var hasParts = kids.some(function (n) { return n.classList && n.classList.contains("cb-q"); });
+    if (!hasParts) {                                                             // ordinary question
+      // Break only before an OR-block (the natural alternative boundary); keep the
+      // stem with its figure/table/options so a figure is never orphaned onto the
+      // next page. Most questions become a single atom (kept whole); an OR question
+      // may continue its alternative on the following page.
+      var out = [], cur = [];
+      kids.forEach(function (n) {
+        if (n.classList && n.classList.contains("or-block")) { if (cur.length) { out.push(cur); cur = []; } out.push([n]); }
+        else cur.push(n);
+      });
+      if (cur.length) out.push(cur);
+      return out;
+    }
     var atoms = [], prefix = [], seenPart = false;
-    Array.prototype.slice.call(cb.children).forEach(function (node) {
+    kids.forEach(function (node) {
       if (node.classList && node.classList.contains("cb-q")) {
-        if (!seenPart && prefix.length) { atoms.push(prefix); prefix = []; }   // passage = its own atom
-        atoms.push(prefix.concat(node)); prefix = []; seenPart = true;         // [OR?] + sub-part
+        if (!seenPart && prefix.length) { atoms.push(prefix); prefix = []; }    // passage = its own atom
+        atoms.push(prefix.concat(node)); prefix = []; seenPart = true;          // [OR?] + sub-part
       } else {
-        prefix.push(node);                                                      // passage / figure / table / OR
+        prefix.push(node);                                                       // passage / figure / table / OR
       }
     });
     if (prefix.length) { if (atoms.length) atoms[atoms.length - 1] = atoms[atoms.length - 1].concat(prefix); else atoms.push(prefix); }
@@ -1071,26 +1090,27 @@
       }
       function wouldOverflow() { return fillBottom() > cur.body.clientHeight - SAFE; }
       function exceedsFullPage() { return fillBottom() > cur.body.clientHeight + 2; }
-      // Place a case-study block sub-part by sub-part: it may START on the current
-      // page (filling the gap a prior question left) and flow across the boundary,
-      // each sub-part kept whole. The number & marks ride the first fragment; the
-      // rest continue with an empty gutter. Returns false if it isn't splittable.
-      function placeCaseBlock(clone) {
-        var qc = clone.querySelector(".ws-qc"), cb = qc && qc.querySelector(".cb");
-        if (!cb) return false;
-        var atoms = caseAtoms(cb);
+      // Place a question atom by atom (board-paper flow): it may START on the current
+      // page — filling the gap a prior question left — and continue onto the next
+      // page, each atom (stem paragraph / figure / table / options / case sub-part)
+      // kept whole. The number & marks ride the first fragment; continuations get an
+      // empty gutter. Returns false if it can't usefully be split.
+      function placeBlock(clone) {
+        var qc = clone.querySelector(".ws-qc"), body = qc && qc.querySelector(".qbody");
+        if (!body) return false;
+        var atoms = blockAtoms(body);
         if (atoms.length < 2) return false;                 // one atom: nothing to gain
         var qnEl = clone.querySelector(".ws-qn"), metaEl = clone.querySelector(".ws-qmeta");
         var qnHTML = qnEl ? qnEl.outerHTML : "", metaHTML = metaEl ? metaEl.outerHTML : "";
-        var wsqCls = clone.className, qcCls = qc.className, cbCls = cb.className;
+        var wsqCls = clone.className, qcCls = qc.className, bodyCls = body.className;
         function newFrag(withNum, withMeta) {
           var shell = document.createElement("div"); shell.className = wsqCls;
           if (withNum && qnHTML) shell.insertAdjacentHTML("beforeend", qnHTML);
           var qcEl = document.createElement("div"); qcEl.className = qcCls;
-          var cbEl = document.createElement("div"); cbEl.className = cbCls;
-          qcEl.appendChild(cbEl); shell.appendChild(qcEl);
+          var bodyEl = document.createElement("div"); bodyEl.className = bodyCls;
+          qcEl.appendChild(bodyEl); shell.appendChild(qcEl);
           if (withMeta && metaHTML) shell.insertAdjacentHTML("beforeend", metaHTML);
-          return { shell: shell, cb: cbEl };
+          return { shell: shell, cb: bodyEl };
         }
         var frag = newFrag(true, true);                     // first fragment: number + marks
         cur.body.appendChild(frag.shell);
@@ -1108,7 +1128,7 @@
             cur = addPage(false, headText, isTest); prevOverflowed = false;
             cur.body.appendChild(frag.shell);
           }
-          // a single sub-part taller than a whole page: let its page grow.
+          // a single atom taller than a whole page: let its page grow.
           if (exceedsFullPage()) { cur.page.classList.add("pp-tall"); prevOverflowed = true; }
         });
         return true;
@@ -1120,13 +1140,15 @@
         var clone = block.cloneNode(true);
         cur.body.appendChild(clone);
         if (!wouldOverflow()) return;                       // fits on the current page as-is
-        // A case study may be split between its sub-parts so it fills the page it
-        // starts on. Everything else (MCQ / A-R / short & long answers) stays whole.
-        var splittable = !clone.classList.contains("ws-q-keep") &&
-          clone.querySelector(".ws-qc > .cb") && clone.querySelector(".cb > .cb-q");
+        // Board-paper flow: a standalone question (case study or ordinary) fills the
+        // page it starts on and continues onto the next, atom by atom. MCQ / A-R stay
+        // whole (ws-q-keep); a sub-topic heading group (ws-topgrp) also stays whole so
+        // its heading isn't stranded.
+        var splittable = clone.classList.contains("ws-q") &&
+          !clone.classList.contains("ws-q-keep") && clone.querySelector(".ws-qc > .qbody");
         if (splittable) {
           cur.body.removeChild(clone);
-          if (placeCaseBlock(clone)) return;
+          if (placeBlock(clone)) return;
           cur.body.appendChild(clone);                      // couldn't split → fall through to whole-block move
         }
         if (cur.body.children.length > 1) {
