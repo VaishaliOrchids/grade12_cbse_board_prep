@@ -1022,8 +1022,9 @@
   function eagerImages(scope) {
     if (!scope) return;
     Array.prototype.forEach.call(scope.querySelectorAll("img"), function (im) {
+      // Flipping lazy→eager starts the fetch even while off-screen. Do NOT re-assign
+      // src — that restarts an in-flight load and can leave it unfinished at print.
       if (im.getAttribute("loading") === "lazy") im.setAttribute("loading", "eager");
-      if (!im.complete) { var s = im.getAttribute("src"); if (s) im.setAttribute("src", s); } // kick off the fetch now
     });
   }
   // Break a question body (.qbody) into ordered print "atoms" so a long question can
@@ -1287,14 +1288,19 @@
     // on a page, then grow once the image paints and bleed onto the next page.
     function whenImagesReady(cb, scope) {
       scope = scope || wrap;
-      eagerImages(scope);
-      var imgs = Array.prototype.slice.call(scope.querySelectorAll("img"))
-        .filter(function (im) { return !im.complete || !im.naturalHeight; });
+      var imgs = Array.prototype.slice.call(scope.querySelectorAll("img"));
+      imgs.forEach(function (im) { if (im.getAttribute("loading") === "lazy") im.setAttribute("loading", "eager"); });
       if (!imgs.length) return cb();
       var left = imgs.length, done = false;
       function one() { if (!done && --left <= 0) { done = true; cb(); } }
-      imgs.forEach(function (im) { im.addEventListener("load", one); im.addEventListener("error", one); });
-      setTimeout(function () { if (!done) { done = true; cb(); } }, 2000); // safety cap
+      imgs.forEach(function (im) {
+        if (im.complete && im.naturalWidth > 0) return one();
+        // decode() forces the load AND waits until the bitmap is ready to paint, so
+        // no figure prints half-loaded; it resolves or rejects, either way we count it.
+        if (im.decode) im.decode().then(one, one);
+        else { im.addEventListener("load", one); im.addEventListener("error", one); }
+      });
+      setTimeout(function () { if (!done) { done = true; cb(); } }, 10000); // generous fallback only
     }
     function afterMath() { whenImagesReady(go); }
     if (window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([wrap]).then(afterMath).catch(afterMath);
