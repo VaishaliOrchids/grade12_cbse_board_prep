@@ -1060,18 +1060,116 @@
     };
   }
 
+  /* ---- Brand + answer-key helpers (both schools always generated) ----
+     Only the printed header differs between the two schools; the questions are
+     identical, so any edit (replace / delete / reshuffle) applies to both.
+     Downloads are built fresh from st.sets at click time, so they always reflect
+     the latest edits and stay in sync across both schools. ---- */
+  function brandInner(school) {
+    return school.logoHasName
+      ? '<div class="ws-brand ws-brand-full"><img class="ws-logo-full" src="' + school.logo + '" alt="' + esc(school.name) + '"></div>'
+      : '<div class="ws-brand"><img class="ws-logo" src="' + school.logo + '" alt=""><div class="ws-school">' + esc(school.name) + "</div></div>";
+  }
+  function schoolShort(s) { return s.id === "intl" ? "OIS" : "OCSE"; }
+  function ansBlock(q) {
+    var a = q.answer;
+    var has = a && (a.text || a.opt || (a.table && (a.table.length === undefined || a.table.length)) || (a.figures && a.figures.length));
+    if (!has) return '<div class="ws-ans ws-ans-none"><span class="ws-ans-tag">Answer</span> <span class="ws-ans-na">not available in the bank</span></div>';
+    var inner = a.opt
+      ? '<span class="ws-ans-opt">(' + esc(a.opt) + ")</span> " + mathHTML(a.text || "")
+      : '<div class="ans-body">' + answerHTML(a.text || "") + ansTablesHTML(a.table) + figHTML(a.figures) + "</div>";
+    return '<div class="ws-ans"><span class="ws-ans-tag">Answer</span>' + inner + "</div>";
+  }
+  function paperRowAns(q, n) {
+    var keep = (q.type === "MCQ" || q.type === "Assertion-Reason") ? " ws-q-keep" : "";
+    return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
+      '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + ansBlock(q) + "</div>" +
+      '<div class="ws-qmeta">' + diffBadge(q) +
+        (cbseYears(q) ? '<span class="ws-qyear">' + esc(cbseYears(q)) + "</span>" : "") +
+        '<span class="ws-qm">[' + (q.marks || 0) + "]</span></div></div>";
+  }
+  function testRowsHTML(set, si, opts) {
+    var out = "", tn = 0;
+    set.test.questions.forEach(function (q) {
+      tn++;
+      out += opts.answers ? paperRowAns(q, tn)
+        : paperRow(q, tn, opts.edit ? { replace: { si: si, qid: qId(q) }, del: { si: si, qid: qId(q) } } : {});
+    });
+    return out;
+  }
+  function wsRowsHTML(set, si, opts) {
+    var out = "", wn = 0;
+    set.topics.forEach(function (t) {
+      var head = '<div class="ws-topic"><span class="ws-topic-n">' + esc(t.topic) + '</span><span class="ws-topic-c">' + t.count + " q</span></div>";
+      var first = true;
+      t.sections.forEach(function (sec) {
+        sec.questions.forEach(function (q) {
+          wn++;
+          var row = opts.answers ? paperRowAns(q, wn) : paperRow(q, wn, opts.edit ? { del: { si: si, qid: qId(q) } } : {});
+          if (first) { out += '<div class="ws-topgrp">' + head + row + "</div>"; first = false; }
+          else { out += row; }
+        });
+      });
+    });
+    return out;
+  }
+  function wsSheetShell(id, brand, title, subj, chapter, metaBlock, instr, body) {
+    return '<div class="ws-sheet" id="' + id + '"><div class="ws-paper">' +
+      printFrame('<div class="ws-ph">' + brand + "<h1>" + esc(title) + "</h1>" +
+        '<div class="ws-subttl">' + subj + " · Class XII · " + esc(chapter) + "</div>" +
+        metaBlock + (instr || "") + "</div>" + body) + "</div></div>";
+  }
+  // Build a print-ready sheet (no edit buttons) for a given school, with or
+  // without the marking-scheme answers baked in.
+  function buildSheetHTML(st, set, si, kind, school, answers, id) {
+    var brand = brandInner(school), subj = esc(st.data.subject);
+    if (kind === "test") {
+      var meta = '<div class="ws-pmeta"><span>Time: ' + (set.test.marks * MIN_PER_MARK) + " Minutes</span><span>Maximum Marks: " + set.test.marks + "</span></div>";
+      var instr = answers ? "" : '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div>';
+      return wsSheetShell(id, brand, answers ? "Chapter Test — Answer Key" : "Chapter Test", subj, set.chapter, meta, instr, testRowsHTML(set, si, { answers: answers, edit: false }));
+    }
+    var wmeta = '<div class="ws-pmeta"><span>' + set.wsCount + " questions</span><span>" + set.topics.length + " sub-topics</span></div>";
+    return wsSheetShell(id, brand, answers ? "Worksheet — Answer Key" : "Worksheet", subj, set.chapter, wmeta, "", wsRowsHTML(set, si, { answers: answers, edit: false }));
+  }
+  // Print one or more freshly-built sheets. They are inserted inside #app (so the
+  // print CSS's `body.pp-active #app{display:none}` hides the raw source while the
+  // paginator's .pp-root prints), MathJax-typeset, then paginated and printed.
+  function printSheets(htmlList, fname) {
+    var host = document.getElementById("app");
+    var wrap = document.createElement("div");
+    wrap.className = "ws-print-src";
+    wrap.style.cssText = "position:absolute;left:-99999px;top:0;width:210mm";
+    wrap.innerHTML = htmlList.join("");
+    host.appendChild(wrap);
+    var sheets = Array.prototype.slice.call(wrap.querySelectorAll(".ws-sheet"));
+    function go() {
+      var old = document.title; document.title = fname;
+      var cleanup = paginateForPrint(sheets);
+      window.print();
+      setTimeout(function () { cleanup(); document.title = old; if (wrap.parentNode) wrap.parentNode.removeChild(wrap); }, 800);
+    }
+    if (window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([wrap]).then(go).catch(go);
+    else setTimeout(go, 30);
+  }
+
   function renderWorksheetResult(st) {
     var host = document.getElementById("ws-result");
     if (!st.sets) { host.innerHTML = ""; return; }
-    var school = SCHOOLS.filter(function (s) { return s.id === st.school; })[0] || SCHOOLS[0];
-    var brandHtml = school.logoHasName
-      ? '<div class="ws-brand ws-brand-full"><img class="ws-logo-full" src="' + school.logo + '" alt="' + esc(school.name) + '"></div>'
-      : '<div class="ws-brand"><img class="ws-logo" src="' + school.logo + '" alt=""><div class="ws-school">' + esc(school.name) + "</div></div>";
+    var previewBrand = brandInner(SCHOOLS[0]);
     var nChap = st.sets.length;
+    function genBtns(kind, si, ans) {
+      return SCHOOLS.map(function (s) {
+        return '<button class="btn-sm ' + (ans ? "ws-keybtn" : "bp-dl") + ' ws-genbtn" type="button" data-kind="' + kind + '" data-si="' + si + '" data-school="' + s.id + '" data-ans="' + (ans ? 1 : 0) + '" title="' + esc(s.name) + '">' +
+          (ans ? "🔑 Answer key — " : "⤓ ") + schoolShort(s) + "</button>";
+      }).join("");
+    }
     var html = '<div class="bp-head"><div><h2>Worksheets &amp; Chapter Tests <span class="bp-meta">' + esc(st.data.subject) + " · " +
       nChap + " chapter" + (nChap !== 1 ? "s" : "") + '</span></h2>' +
-      '<div class="bp-note">Each chapter gives two PDFs: a <b>Chapter Test</b> (' + TEST_MARKS + " marks · " + TEST_MINUTES + " min · 2 min per mark, aiming for a 30–40–30 easy/average/difficult mix) and a <b>Worksheet</b> of the remaining questions, organised sub-topic → question-type → difficulty. Every question shows its difficulty and CBSE year.<br><b>To save:</b> a button opens your browser’s print window — pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu at the bottom-left). You don’t need a printer.</div></div>" +
-      '<div class="bp-actions"><button class="btn-sm" id="ws-undo"' + (UNDO.length ? "" : " disabled") + ' title="Undo your recent changes (delete / replace / restore), one step at a time">↶ Undo' + (UNDO.length ? " (" + UNDO.length + ")" : "") + '</button><button class="btn-sm" id="ws-reroll">↻ Reshuffle tests</button><button class="btn-sm bp-dl" id="ws-dl-all">⤓ Save all as PDF</button></div></div>';
+      '<div class="bp-note">Each chapter yields <b>four PDFs</b> — a <b>Chapter Test</b> and a <b>Worksheet</b>, each branded for <b>OIS</b> (Orchids The International School) and <b>OCSE</b> (Orchids Central School of Excellence). Both schools share the same questions, so any edit (replace / delete / reshuffle) applies to both. Each sheet also has an <b>Answer key</b> button (same layout, with the marking-scheme answers). <b>To save:</b> the button opens your browser’s print window — pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu, bottom-left).</div></div>' +
+      '<div class="bp-actions"><button class="btn-sm" id="ws-undo"' + (UNDO.length ? "" : " disabled") + ' title="Undo your recent changes, one step at a time">↶ Undo' + (UNDO.length ? " (" + UNDO.length + ")" : "") + '</button>' +
+      '<button class="btn-sm" id="ws-reroll">↻ Reshuffle tests</button>' +
+      '<button class="btn-sm bp-dl ws-genbtn" type="button" data-kind="all" data-school="intl" data-ans="0">⤓ Save all — OIS</button>' +
+      '<button class="btn-sm bp-dl ws-genbtn" type="button" data-kind="all" data-school="central" data-ans="0">⤓ Save all — OCSE</button></div></div>';
 
     st.sets.forEach(function (set, si) {
       var code = setCode(st.subId, set.chapter, st.seed || 0, st.data.chapter_order || []);
@@ -1079,82 +1177,74 @@
       var restoreBtn = removed
         ? '<button class="btn-sm ws-restore" data-si="' + si + '" title="Bring back the questions you removed from this chapter (they return to the worksheet)">⟲ Restore ' + removed + ' removed</button>'
         : "";
-      // ---------- chapter test ----------
       var dm = set.test.dmarks, tot = set.test.marks || 1;
       var mixNote = WS_DIFF_ORDER.map(function (d) { return d + " " + Math.round(dm[d] / tot * 100) + "%"; }).join(" · ");
-      // questions are already ordered by type then difficulty; marks convey the type
-      var tn = 0, testBody = "";
-      set.test.questions.forEach(function (q) { tn++; testBody += paperRow(q, tn, { replace: { si: si, qid: qId(q) }, del: { si: si, qid: qId(q) } }); });
+
+      // ---------- chapter test (preview, editable, OIS brand) ----------
       var testId = "ws-test-" + si;
       var testSheet = '<div class="ws-sheet" id="' + testId + '">' +
         '<div class="ws-sheet-bar"><span class="ws-sheet-t">Chapter Test <em>· ' + set.test.marks + " marks · " + (set.test.marks * MIN_PER_MARK) + " min · " + set.test.questions.length + " q · " + esc(mixNote) + "</em></span>" + restoreBtn +
-          '<button class="btn-sm bp-dl ws-dl-one" data-id="' + testId + '" data-name="' + esc(set.chapter) + ' Chapter Test">⤓ Save test as PDF</button></div>' +
-        '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandHtml +
+          '<span class="ws-btnset">' + genBtns("test", si, false) + "</span></div>" +
+        '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + previewBrand +
           "<h1>Chapter Test</h1>" +
           '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII · " + esc(set.chapter) + "</div>" +
           '<div class="ws-pmeta"><span>Time: ' + (set.test.marks * MIN_PER_MARK) + " Minutes</span><span>Maximum Marks: " + set.test.marks + "</span></div>" +
           '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div></div>' +
-          testBody) + "</div></div>";
+          testRowsHTML(set, si, { answers: false, edit: true })) + "</div>" +
+        '<div class="ws-sheet-bar ws-botbar"><span class="ws-sheet-t2">🔑 Answer key — same paper, with marking-scheme answers</span><span class="ws-btnset">' + genBtns("test", si, true) + "</span></div>" +
+        "</div>";
 
       // ---------- worksheet (the rest) ----------
-      var wn = 0, wsBody = "";
-      set.topics.forEach(function (t) {
-        var head = '<div class="ws-topic"><span class="ws-topic-n">' + esc(t.topic) + '</span><span class="ws-topic-c">' + t.count + " q</span></div>";
-        var first = true;
-        t.sections.forEach(function (sec) {
-          sec.questions.forEach(function (q) {
-            wn++;
-            var row = paperRow(q, wn, { del: { si: si, qid: qId(q) } });
-            // bind the heading to its first question (in a no-break group) so the
-            // heading can't be left stranded at the bottom of a page
-            if (first) { wsBody += '<div class="ws-topgrp">' + head + row + "</div>"; first = false; }
-            else { wsBody += row; }
-          });
-        });
-      });
       var wsId = "ws-work-" + si;
       var wsSheet = set.wsCount === 0
         ? '<div class="ws-sheet ws-sheet-empty"><div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet</span>' + restoreBtn + "</div>" +
             '<div class="ws-empty-note">' + (removed ? "You removed every worksheet question for this chapter." : "All bank questions for this chapter went into the test — no separate worksheet.") + "</div></div>"
         : '<div class="ws-sheet" id="' + wsId + '">' +
           '<div class="ws-sheet-bar"><span class="ws-sheet-t">Worksheet <em>· ' + set.wsCount + " q · " + set.topics.length + " sub-topics</em></span>" + restoreBtn +
-            '<button class="btn-sm bp-dl ws-dl-one" data-id="' + wsId + '" data-name="' + esc(set.chapter) + ' Worksheet">⤓ Save worksheet as PDF</button></div>' +
-          '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandHtml +
+            '<span class="ws-btnset">' + genBtns("work", si, false) + "</span></div>" +
+          '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + previewBrand +
             "<h1>Worksheet</h1>" +
             '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII · " + esc(set.chapter) + "</div>" +
-            '<div class="ws-pmeta"><span>' + set.wsCount + " questions</span><span>" + set.topics.length + " sub-topics</span></div>" +
-            "</div>" +
-            wsBody) + "</div></div>";
+            '<div class="ws-pmeta"><span>' + set.wsCount + " questions</span><span>" + set.topics.length + " sub-topics</span></div></div>" +
+            wsRowsHTML(set, si, { answers: false, edit: true })) + "</div>" +
+          '<div class="ws-sheet-bar ws-botbar"><span class="ws-sheet-t2">🔑 Answer key — same paper, with marking-scheme answers</span><span class="ws-btnset">' + genBtns("work", si, true) + "</span></div>" +
+          "</div>";
 
       html += '<div class="ws-cset"><div class="ws-cset-h">' + esc(set.chapter) +
         '<span class="ws-cset-code" title="Reopen this exact paper later with this code — it is not printed on the sheet">Set Code: ' + code + "</span>" +
         (set.edited ? '<span class="ws-edited" title="You manually replaced one or more questions. The Set Code reproduces the original auto-generated test, not these swaps.">✏︎ edited</span>' : "") +
-        "</div>" +
-        testSheet + wsSheet + "</div>";
+        "</div>" + testSheet + wsSheet + "</div>";
     });
 
     host.innerHTML = html;
     typeset(host);
 
-    function printOne(id, fname) {
-      var el = document.getElementById(id); if (!el) return;
-      var old = document.title; document.title = fname;
-      var cleanup = paginateForPrint([el]);
-      window.print();
-      setTimeout(function () { cleanup(); document.title = old; }, 600);
-    }
-    Array.prototype.forEach.call(host.querySelectorAll(".ws-dl-one"), function (btn) {
-      btn.addEventListener("click", function () {
-        printOne(btn.getAttribute("data-id"),
-          (st.data.subject + " " + btn.getAttribute("data-name")).replace(/[^A-Za-z0-9]+/g, "_"));
+    // Per-button binding (innerHTML was just replaced, so old buttons/listeners
+    // are gone — no stacking across re-renders).
+    Array.prototype.forEach.call(host.querySelectorAll(".ws-genbtn"), function (b) {
+      b.addEventListener("click", function () {
+        var kind = b.getAttribute("data-kind"), schoolId = b.getAttribute("data-school"), ans = b.getAttribute("data-ans") === "1";
+        var school = SCHOOLS.filter(function (s) { return s.id === schoolId; })[0] || SCHOOLS[0];
+        var subjSlug = st.data.subject.replace(/[^A-Za-z0-9]+/g, "_");
+        if (kind === "all") {
+          var list = [];
+          st.sets.forEach(function (set, si) {
+            list.push(buildSheetHTML(st, set, si, "test", school, false, "ws-test-a" + si));
+            if (set.wsCount > 0) list.push(buildSheetHTML(st, set, si, "work", school, false, "ws-work-a" + si));
+          });
+          if (!list.length) return;
+          printSheets(list, subjSlug + "_Worksheets_" + schoolShort(school));
+          return;
+        }
+        var si = parseInt(b.getAttribute("data-si"), 10), set = st.sets[si];
+        if (!set) return;
+        var id = (kind === "test" ? (ans ? "ws-testkey-" : "ws-test-") : (ans ? "ws-workkey-" : "ws-work-")) + "gen";
+        var label = (kind === "test" ? "Chapter_Test" : "Worksheet") + (ans ? "_Answer_Key" : "");
+        var fname = (subjSlug + "_" + set.chapter + "_" + label + "_" + schoolShort(school)).replace(/[^A-Za-z0-9]+/g, "_");
+        printSheets([buildSheetHTML(st, set, si, kind, school, ans, id)], fname);
       });
     });
-    document.getElementById("ws-dl-all").addEventListener("click", function () {
-      var old = document.title; document.title = st.data.subject.replace(/[^A-Za-z0-9]+/g, "_") + "_Worksheets";
-      var sheets = Array.prototype.slice.call(host.querySelectorAll(".ws-sheet:not(.ws-sheet-empty)"));
-      var cleanup = paginateForPrint(sheets);
-      window.print(); setTimeout(function () { cleanup(); document.title = old; }, 800);
-    });
+
     var rr = document.getElementById("ws-reroll");
     if (rr) rr.addEventListener("click", function () { st.seed = (st.seed || 0) + 1; buildChapterSets(st); renderWorksheetResult(st); });
     var un = document.getElementById("ws-undo");
@@ -1348,15 +1438,11 @@
       app.innerHTML =
         '<div class="wrap"><div class="bp-wrap">' +
         '<aside class="bp-panel" id="ws-panel"><h1>Worksheet generator</h1>' +
-        '<p class="bp-sub">Pick a subject and chapters. Each chapter yields two PDFs — a <b>Chapter Test</b> (15 marks · 30 min · 2 min/mark, 30–40–30 mix) and a <b>Worksheet</b> of the remaining questions, grouped sub-topic → type → difficulty, with difficulty and CBSE year on each.</p>' +
+        '<p class="bp-sub">Pick a subject and chapters. Each chapter yields <b>four PDFs</b> — a <b>Chapter Test</b> and a <b>Worksheet</b>, each branded for both <b>OIS</b> and <b>OCSE</b> (the two schools share the same questions). Every sheet also has an <b>Answer key</b> button. Test = 15 marks · 30 min · 2 min/mark, 30–40–30 mix.</p>' +
         '<div class="bp-field"><label>Subject</label><select id="ws-sub">' + subOpts + "</select></div>" +
         '<div class="bp-field"><label>Chapters</label>' +
           '<div class="bp-chaptools"><button type="button" id="ws-all">Select all</button><button type="button" id="ws-none">Clear</button></div>' +
           '<div class="bp-chaps" id="ws-chaps"></div></div>' +
-        '<div class="bp-field"><label>School (shown on the worksheet)</label>' +
-          '<div class="ws-schools" id="ws-schools">' +
-          SCHOOLS.map(function (s) { return '<label class="ws-schradio"><input type="radio" name="wsschool" value="' + s.id + '"' + (s.id === st.school ? " checked" : "") + "><span>" + esc(s.name) + "</span></label>"; }).join("") +
-          "</div></div>" +
         '<button class="bp-gen" id="ws-gen">Generate worksheet</button>' +
         '<div class="ws-reopen"><div class="ws-reopen-h">Reopen a saved test</div>' +
           '<div class="ws-code-row"><input type="text" id="ws-code" placeholder="Set Code — e.g. MAT-02-S03" autocomplete="off" spellcheck="false">' +
@@ -1386,9 +1472,6 @@
       document.getElementById("ws-none").addEventListener("click", function () {
         st.chapters = [];
         Array.prototype.forEach.call(document.querySelectorAll("#ws-chaps input"), function (b) { b.checked = false; });
-      });
-      Array.prototype.forEach.call(document.querySelectorAll("#ws-schools input"), function (r) {
-        r.addEventListener("change", function () { st.school = r.value; if (st.sets) renderWorksheetResult(st); });
       });
       document.getElementById("ws-gen").addEventListener("click", function () {
         if (!st.chapters.length) { document.getElementById("ws-result").innerHTML = '<div class="bp-empty">Select at least one chapter.</div>'; return; }

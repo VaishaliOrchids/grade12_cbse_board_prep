@@ -270,9 +270,21 @@ table.qtable th { background: #f3f4f6; }
 .ws-sec { font-weight: 700; font-size: 14px; text-align: center; margin: 22px 0 10px; text-transform: uppercase; letter-spacing: .04em; }
 .ws-sec span { font-weight: 500; text-transform: none; letter-spacing: 0; color: var(--muted); }
 .ws-sheet { margin-top: 22px; }
-.ws-sheet-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 8px; }
+.ws-sheet-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 8px; flex-wrap: wrap; }
 .ws-sheet-t { font-weight: 700; font-size: 14px; color: #1d4ed8; }
 .ws-sheet-t em { color: var(--muted); font-weight: 500; font-style: normal; font-size: 12.5px; }
+.ws-btnset { display: inline-flex; gap: 8px; flex-wrap: wrap; }
+.ws-botbar { margin-top: 10px; margin-bottom: 0; padding-top: 10px; border-top: 1px dashed var(--line); }
+.ws-sheet-t2 { font-weight: 600; font-size: 12.5px; color: #b45309; }
+.ws-keybtn { background: #fff7ed; color: #b45309; border-color: #fdba74; }
+.ws-keybtn:hover { background: #ffedd5; color: #92400e; }
+/* Answer block shown on the answer-key PDFs (same green scheme as the browse card) */
+.ws-ans { margin-top: 8px; padding: 8px 12px; background: #f0fdf4; border: 1px solid #bbf7d0; border-left: 3px solid #10b981; border-radius: 7px; font-size: 13.5px; color: #14532d; line-height: 1.5; }
+.ws-ans-tag { display: inline-block; font-weight: 800; font-size: 10.5px; letter-spacing: .04em; text-transform: uppercase; color: #047857; margin-right: 6px; }
+.ws-ans-opt { font-weight: 800; }
+.ws-ans .ans-body { display: block; margin-top: 4px; }
+.ws-ans-none { background: #f8fafc; border-color: #e2e8f0; border-left-color: #cbd5e1; color: #64748b; }
+.ws-ans-na { font-style: italic; }
 .ws-subttl { font-size: 16px; font-weight: 600; color: #4b5563; margin: 0 0 10px; }
 .bp-chaptools { display: flex; gap: 8px; margin-bottom: 8px; }
 .bp-chaptools button { font-size: 12px; padding: 3px 11px; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: #374151; cursor: pointer; }
@@ -492,6 +504,9 @@ table.qtable th { background: #f3f4f6; }
   .ws-cset-h { display: none !important; }        /* the on-screen chapter divider */
   .ws-brand { break-inside: avoid; }
   .ws-logo, .ws-logo-full, .ws-qyear, .ws-diff { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  /* Answer-key answer blocks: keep their colour on the printout */
+  .ws-ans, .ws-ans-tag { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .ws-ans { break-inside: avoid; page-break-inside: avoid; }
   /* The Chapter Test hides the difficulty pill on the PRINTOUT only (teacher sees
      it on screen to review the mix; students don't). The worksheet keeps it. */
   [id^="ws-test-"] .ws-diff { display: none !important; }

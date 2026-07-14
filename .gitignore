@@ -5,3 +5,6 @@
 # editor temp files
 *.swp
 *.tmp
+
+# local dev tooling (Claude Code preview server config)
+.claude/
