@@ -489,10 +489,13 @@ table.qtable th { background: #f3f4f6; }
   body { background: #fff; margin: 0; }
   body.pp-active #app { display: none !important; }
   .pp-root { position: static; left: auto; }
-  .pp-page { break-after: page; break-inside: avoid; }
-  /* Oversized blocks: let the page grow and break across sheets in normal flow
-     (no fixed height to overflow), so nothing bleeds onto the following page. */
-  .pp-page.pp-tall { height: auto; min-height: 297mm; break-inside: auto; }
+  /* Every printed page can GROW past 297mm if its content is taller than a sheet
+     (a single question longer than a page), so the content flows onto the next
+     sheet in normal flow instead of overflowing a fixed-height box and bleeding on
+     top of the following page. `min-height` keeps a normally-packed page a full
+     sheet; `break-inside:auto` lets an over-long one span sheets. (Screen keeps the
+     fixed 297mm height so the off-screen paginator measures/packs correctly.) */
+  .pp-page { break-after: page; break-inside: auto; height: auto; min-height: 297mm; }
   .pp-page:last-child { break-after: auto; }
   .topbar, .sidebar, .footer, .toolbar-print-hide, .bp-panel, .bp-actions, .bp-view, .bp-head, .bp-warn { display: none !important; }
   .layout, .bp-wrap { display: block; }
