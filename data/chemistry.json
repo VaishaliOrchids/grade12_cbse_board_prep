@@ -1079,7 +1079,7 @@
      "difficulty": "Average",
      "topic": "Vapour Pressure of Liquid Solutions",
      "answer": {
-      "text": "(A) (a) Due to high pressure inside the pressure cooker, higher is the boiling point and\nfaster is the cooking.\n(b)\nNegative deviation\nTemperature increases."
+      "text": "(a) Due to the high pressure inside the pressure cooker, the boiling point is higher, so the cooking is faster.\n(b) The mixture shows negative deviation from Raoult's law; on mixing, the temperature increases (mixing is exothermic)."
      }
     },
     {
@@ -1100,7 +1100,7 @@
      "topic": "Ideal and Non-ideal Solutions",
      "figures": [],
      "answer": {
-      "text": "(B)\nSame composition in liquid and in vapour phase and boil at a constant temperature.\nMaximum Boiling Azeotrope\n68% HNO3 + 32% H2O (Or any other correct example)  (Percentage can be ignored)"
+      "text": "(B) An azeotrope is a binary mixture that has the same composition in the liquid and vapour phases and boils at a constant temperature. Example of a maximum-boiling azeotrope: 68% $HNO_3$ + 32% $H_2O$."
      }
     },
     {
@@ -1120,7 +1120,7 @@
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass",
      "answer": {
-      "text": "Tb of glucose solution = 100.20°C\nΔ Tb =Tb - Tob\n= 100.20 o – 100 oC = 0.20 oC or 0.20 K\n△Tb = Kb .m\nm = 0.20   = 0.390 mol/kg\nOr -0.725 oC"
+      "text": "$T_b$ of the glucose solution = 100.20 °C, so $\\Delta T_b = T_b - T_b^0 = 100.20 - 100 = 0.20\\ \\text{K}$.\n$\\Delta T_b = K_b\\,m \\Rightarrow m = \\dfrac{0.20}{0.512} = 0.390\\ \\text{mol/kg}$.\n$\\Delta T_f = K_f\\,m = 1.86 \\times 0.390 = 0.725\\ \\text{K}$.\nFreezing point of the solution $= 273.15 - 0.725 = 272.425\\ \\text{K}$ (i.e. $-0.725\\ ^{\\circ}\\text{C}$)."
      }
     },
     {
@@ -1140,7 +1140,7 @@
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass",
      "answer": {
-      "text": "/ 23.64 mm Hg\n(Deduct ½ mark for no or incorrect unit)."
+      "text": "$\\dfrac{p_1^0 - p_1}{p_1^0} = \\dfrac{w_2\\times M_1}{M_2\\times w_1}$\n$\\dfrac{24 - p_1}{24} = \\dfrac{5\\times18}{60\\times95} = \\dfrac{3}{190}$, so $24 - p_1 = \\dfrac{3\\times24}{190}$, giving $p_1 = 23.62\\ \\text{mm Hg}$."
      }
     },
     {
@@ -1160,7 +1160,7 @@
      "difficulty": "Average",
      "topic": "Colligative Properties and Determination of Molar Mass",
      "answer": {
-      "text": "(a)\n•\nWhen external pressure is larger than the osmotic pressure, then the movement of\nsolvent is from solution to solvent side through semi permeable membrane. / The\ndirection of osmosis can be reversed if a pressure larger than the osmotic pressure is\napplied to the solution side.\n•\nCellulose acetate / Or any other suitable example.\n(b) (i) RBC swells up / Cells swell and may even burst due to endo-osmosis."
+      "text": "(a) Reverse osmosis: when the external pressure applied to the solution is larger than the osmotic pressure, the solvent moves from the solution to the solvent side through the semipermeable membrane (the direction of osmosis is reversed). Example: cellulose acetate membrane (desalination of sea water).\n(b)(i) The RBCs swell up (the cells swell and may even burst) due to endosmosis.\n(c) (The property) depends only on the number of solute particles in the solution.\nOR (b)(ii) The 1 M KCl solution has the higher osmotic pressure, because $i = 2$ for KCl (it dissociates into ions), whereas urea does not dissociate ($i = 1$)."
      }
     },
     {
@@ -1207,7 +1207,7 @@
      "difficulty": "Average",
      "topic": "Abnormal Molar Masses",
      "answer": {
-      "text": "i=Normal molar mass/Abnormal molar mass\ni=40/25\nα= i-1/n-1\n=0.6 x100\n=60%                                         (Any other suitable method)"
+      "text": "$i = \\dfrac{\\text{normal molar mass}}{\\text{abnormal molar mass}} = \\dfrac{40}{25} = 1.6$.\nDegree of dissociation $\\alpha = \\dfrac{i-1}{n-1} = \\dfrac{1.6-1}{2-1} = 0.6$ (i.e. 60%)."
      }
     },
     {
@@ -1227,7 +1227,7 @@
      "difficulty": "Average",
      "topic": "Ideal and Non-ideal Solutions",
      "answer": {
-      "text": "(a)Chloroform and Acetone                                                                     (or Any other correct example)\nA-B interactions are stronger than A-A and B-B interaction.\n(b)(i) For any solution the partial vapour pressure of each volatile component is directly\nproportional to its mole fraction."
+      "text": "(a) Chloroform and acetone (or any other correct example) — the A–B interactions are stronger than the A–A and B–B interactions (negative deviation).\n(b)(i) Raoult's law: for a solution, the partial vapour pressure of each volatile component is directly proportional to its mole fraction.\n(c) Characteristics of an ideal solution (any two): the enthalpy of mixing is zero ($\\Delta_{mix}H = 0$); the volume of mixing is zero ($\\Delta_{mix}V = 0$).\nOR (b)(ii) Henry's law and Raoult's law become identical when the pure-component vapour pressure equals the Henry constant: $p = p^0\\chi$ and $p = K_H\\chi$, so when $p^0 = K_H$, $p \\propto \\chi$ for both laws."
      }
     },
     {
@@ -1303,7 +1303,7 @@
      "difficulty": "Average",
      "topic": "Abnormal Molar Masses",
      "answer": {
-      "text": "Tb = iKb m\ni=3\n Tb =3 0·52 3x 1000\n=0.162K"
+      "text": "For elevation of boiling point, $\\Delta T_b = i\\,K_b\\,m = i\\times\\dfrac{K_b\\times 1000\\times w_2}{M_2\\times w_1}$.\nFor the given electrolyte $i = 3$, so\n$\\Delta T_b = \\dfrac{3\\times 0.52\\times 3\\times 1000}{111\\times 260} = 0.162\\ \\text{K}$."
      }
     },
     {
@@ -1324,7 +1324,7 @@
      "topic": "Ideal and Non-ideal Solutions",
      "figures": [],
      "answer": {
-      "text": "Given nX = nY\nχX = χy=0.5\nT\nP   = pX 𝑥\n0 𝑥+pY 𝑥\n0 𝑌 /\n= 120 x 0.5 +160 x 0.5\n=140mm Hg"
+      "text": "Given $n_X = n_Y$, so the mole fractions are $x_X = x_Y = 0.5$.\nBy Raoult's law the total vapour pressure is\n$P_T = p^\\circ_X x_X + p^\\circ_Y x_Y = 120\\times 0.5 + 160\\times 0.5 = 60 + 80 = 140\\ \\text{mm Hg}$."
      }
     },
     {
@@ -1344,7 +1344,7 @@
      "difficulty": "Average",
      "topic": "Types of Solutions",
      "answer": {
-      "text": "(a)\n(i) The solution is non ideal, shows positive deviation from Raoult’s law / A-B interactions are\nweaker than A-A and B-B interactions\n(ii)Decrease in temperature\n(iii) Ethanol and acetone                                                         (or any other suitable example)"
+      "text": "(a)(i) The solution is non-ideal and shows a positive deviation from Raoult's law, because the A--B interactions are weaker than the A--A and B--B interactions.\n(ii) A decrease in temperature.\n(iii) Ethanol and acetone (or any other suitable example)."
      }
     },
     {
@@ -1365,7 +1365,7 @@
      "topic": "Colligative Properties and Determination of Molar Mass",
      "figures": [],
      "answer": {
-      "text": "(b)\n(i)Salt lowers the freezing point of water and prevents formation of ice and hence its easy to\nclean.\n(ii)-Red blood cells swell up\n-As the solution is hypotonic, water will flow into the cell/ As the solution is hypotonic,\nendosmosis occurs.\n(iii) Desalination of sea water"
+      "text": "(b)(i) The salt lowers the freezing point of water (depression of freezing point) and prevents the formation of ice, which makes the roads easy to clean.\n(ii) The red blood cells swell up, because the solution is hypotonic, so water flows into the cells (endosmosis occurs).\n(iii) Desalination of sea water."
      }
     },
     {
@@ -1439,7 +1439,7 @@
      "difficulty": "Easy",
      "topic": "Solubility",
      "answer": {
-      "text": "•\nAt a constant temperature, the solubility of a gas in a liquid is directly proportional\nto the partial pressure of the gas present above the surface of liquid or solution/\nthe partial pressure of the gas in vapour phase (p) is proportional to the mole\nfraction of the gas (x) in the solution\n•\nBecause the solubility of oxygen increases with decrease in temperature/ Because\nof low solubility of O2 in warm water."
+      "text": "(a) Henry's law: at a constant temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the surface of the liquid ($p = K_H\\,x$).\n(b) Because the solubility of oxygen increases with a decrease in temperature (there is low solubility of $O_2$ in warm water)."
      }
     },
     {
@@ -1459,7 +1459,7 @@
      "difficulty": "Average",
      "topic": "Vapour Pressure of Liquid Solutions",
      "answer": {
-      "text": "m= ΔTf/ Kf\nm= 0.3/1.86\n= 0.16m\nm =\n𝑥2 X 1000\n𝑀𝐴\nx2=\n0.16 𝑋 18\n1000  = 2.88 X 10-3\n24.8−𝑝1\n24.8  = 2.88 X 10-3\n= 2.88 X 10-3 × 24.8 mm Hg\n= 0.07 mm Hg"
+      "text": "$\\Delta T_f = K_f\\,m \\Rightarrow m = \\dfrac{\\Delta T_f}{K_f} = \\dfrac{0.3}{1.86} = 0.16\\ \\text{m}$.\n$m = \\dfrac{x_2\\times1000}{M_A} \\Rightarrow x_2 = \\dfrac{0.16\\times18}{1000} = 2.88\\times10^{-3}$.\n$\\dfrac{p_1^0 - p_1}{p_1^0} = x_2$; the lowering $p_1^0 - p_1 = x_2\\,p_1^0 = 2.88\\times10^{-3}\\times24.8 = 0.07\\ \\text{mm Hg}$."
      }
     },
     {
@@ -1535,7 +1535,7 @@
      "difficulty": "Average",
      "topic": "Ideal and Non-ideal Solutions",
      "answer": {
-      "text": "When vapour pressure of the solution is higher than expected from the ideal\nbehaviour.\nExample : ethanol and acetone/ carbon disulphide and acetone (or any other suitable\nexample)\nMinimum boiling azeotrope"
+      "text": "Positive deviation from Raoult's law is shown when the vapour pressure of the solution is higher than expected from ideal behaviour. Example: ethanol and acetone (or carbon disulphide and acetone). Such mixtures form minimum-boiling azeotropes."
      }
     },
     {
@@ -3127,7 +3127,7 @@
      "difficulty": "Average",
      "topic": "Corrosion",
      "answer": {
-      "text": "(a) (i) The limiting molar conductivity of an electrolyte can be represented as the sum of the\nindividual contributions of the anion and cation of the electrolyte.\n(ii) The amount of chemical reaction which occurs at any electrode during electrolysis by a\ncurrent is proportional to the quantity of electricity passed through the electrolyte.\n(b) ‘X’ is better, as X has more negative electrode potential than Fe / X has more oxidation\npotential than Fe."
+      "text": "(a)(i) Kohlrausch's law: the limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of its anion and cation.\n(ii) Faraday's law: the amount of chemical reaction occurring at any electrode during electrolysis is proportional to the quantity of electricity passed through the electrolyte.\n(b) 'X' is the better choice, as X has a more negative electrode potential (a higher oxidation potential) than Fe, so it is preferentially oxidised and protects the iron."
      }
     },
     {
@@ -3147,7 +3147,7 @@
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis",
      "answer": {
-      "text": "(A) (a) The cell reaction is\nSn(s)+2H+(aq)→Sn2+(aq)+H2(g)\nECell = (𝐸𝑜𝑐– 𝐸𝑜𝑎) -\n0⋅059\n2 log\n[𝑆𝑛2+ ]\n[𝐻+ ].2\n= [(0) −(−0 ⋅14)]–\n0⋅059\n𝑙𝑜𝑔\n0⋅004\n(0⋅02).2\n=   0.14   -   0.0295 log 10\n= 0.1105 V\nb) (i) overpotential of O2\n(ii) Number of ions carrying current per unit volume decreases on dilution"
+      "text": "(A)(a) Cell reaction: $Sn(s) + 2H^+(aq) \\rightarrow Sn^{2+}(aq) + H_2(g)$.\n$E_{cell} = (E^\\circ_c - E^\\circ_a) - \\dfrac{0.059}{2}\\log\\dfrac{[Sn^{2+}]}{[H^+]^2} = [0 - (-0.14)] - \\dfrac{0.059}{2}\\log\\dfrac{0.004}{(0.02)^2} = 0.14 - 0.0295\\log 10 = 0.1105\\ \\text{V}$.\n(b)(i) Because of the overpotential of $O_2$ (oxygen has a high overvoltage).\n(ii) On dilution, the number of ions carrying the current per unit volume decreases."
      }
     },
     {
@@ -3168,7 +3168,7 @@
      "topic": "Batteries",
      "figures": [],
      "answer": {
-      "text": "B) a) At anode:\nPb+SO4−2→PbSO4+2e−\nAt cathode:\nPbO2+ SO4−2+4H++2e−→PbSO4+2H2O\nOverall reaction:\nPb+PbO2+2 SO4−2+4H+ →2PbSO4+2H2O\nb)\nECell = EoCell -\n𝟎⋅𝟎𝟓𝟗\n𝐧\n𝒍𝒐𝒈[\n[𝑪𝒓𝟑+]𝟐\n[𝑪𝒓𝟐𝑶𝟕𝟐−] [𝑯+]𝟏𝟒]\nEcell = 1.33 –\n6  log (10-2)2 /(10-2)( 1 X10-4 )14\n6  (54) log 10\n= 1.33 – 0.059 x 9\n= 0.799 V"
+      "text": "(B)(a) Lead storage battery (during discharge):\nAnode: $Pb + SO_4^{2-} \\rightarrow PbSO_4 + 2e^-$.\nCathode: $PbO_2 + SO_4^{2-} + 4H^+ + 2e^- \\rightarrow PbSO_4 + 2H_2O$.\nOverall: $Pb + PbO_2 + 2H_2SO_4 \\rightarrow 2PbSO_4 + 2H_2O$.\n(b) $E_{cell} = E^\\circ_{cell} - \\dfrac{0.059}{n}\\log\\dfrac{[Cr^{3+}]^2}{[Cr_2O_7^{2-}][H^+]^{14}} = 1.33 - \\dfrac{0.059}{6}\\log\\dfrac{(10^{-2})^2}{(10^{-2})(1\\times10^{-4})^{14}} = 1.33 - \\dfrac{0.059}{6}(54)\\log 10 = 1.33 - 0.059\\times9 = 1.33 - 0.531 = 0.799\\ \\text{V}$."
      }
     },
     {
@@ -3244,7 +3244,7 @@
      "difficulty": "Average",
      "topic": "Conductance of Electrolytic Solutions",
      "answer": {
-      "text": "Cell constant = l/A = 40/0.8 = 50 cm⁻¹.\nResistivity ρ = R·A/l = (5 × 10³ × 0.8) / 40 = 100 Ω·cm.\nConductivity κ = 1/ρ = 1 × 10⁻² S cm⁻¹.\nMolar conductivity Λm = κ × 1000 / C = (10⁻² × 1000) / 0.05 = 200 S cm² mol⁻¹."
+      "text": "Resistivity $\\rho = \\dfrac{RA}{\\ell} = \\dfrac{(5\\times10^3)\\times0.8}{40} = 100\\ \\Omega\\,\\text{cm}$.\nConductivity $k = \\dfrac{1}{\\rho} = \\dfrac{1}{100} = 10^{-2}\\ \\text{S cm}^{-1}$.\n$\\Lambda_m = \\dfrac{k\\times1000}{C} = \\dfrac{10^{-2}\\times1000}{0.05} = 2\\times10^2\\ \\text{S cm}^2\\text{mol}^{-1}$."
      }
     },
     {
@@ -3264,7 +3264,7 @@
      "difficulty": "Difficult",
      "topic": "Electrolytic Cells and Electrolysis",
      "answer": {
-      "text": "(A)\n(a) Eocell= Eocathode−Eoanode\n= - 2.87  − 1.5 V\n=  - 4.37 V\n△G0 = - nF Eocell\n= -6 x 96500 X (-4.37)\n=  2530.230 kJ/mol\nReaction is non-spontaneous.\n(b) Yes, the tarnish can be removed.\nAluminium has more negative standard electrode potential than silver so will reduce silver\nsulphide to silver, tarnish will be removed. /\nEocell= Eocathode−Eoanode\n= - 0.71  −(-1.66) V\n=  0.95 V\nThis indicates that the reaction is feasible and tarnish can be removed.\n8 | P a g e"
+      "text": "(A)(a) $E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode} = -2.87 - 1.5 = -4.37\\ \\text{V}$.\n$\\Delta G^\\circ = -nFE^\\circ_{cell} = -6\\times96500\\times(-4.37) = 2530230\\ \\text{J/mol} = 2530.23\\ \\text{kJ/mol}$. Since $\\Delta G^\\circ$ is positive, the reaction is non-spontaneous.\n(b) Yes, the tarnish can be removed. Aluminium has a more negative standard electrode potential than silver, so it reduces silver sulphide back to silver: $3\\,Ag^+ + Al \\rightarrow 3\\,Ag + Al^{3+}$; $E^\\circ_{cell} = -0.71 - (-1.66) = 0.95\\ \\text{V}$ (positive), so the reaction is feasible and the tarnish is removed."
      }
     },
     {
@@ -3285,7 +3285,7 @@
      "topic": "Fuel Cells",
      "figures": [],
      "answer": {
-      "text": "(B)\n(a) (i) Potential difference between two electrodes of a galvanic cell.\n(ii) The galvanic cell in which combustion energy of fuels is directly converted into electrical\nenergy.\nb)\nn =2\nEocell= Eocathode−Eoanode\n= - 0.40  −(-0.76) V\n=  0.36 V\nECell = Eoceli -\n𝟎⋅𝟎𝟓𝟗\n𝒍𝒐𝒈[\n𝒁𝒏𝟐+\n𝑪𝒅\n𝟐+]\n= [𝟎. 𝟑𝟔]–\n𝟎⋅𝟎𝟓𝟗\n𝒍𝒐𝒈\n𝟎⋅𝟏\n𝟎⋅𝟎𝟏\n= (𝟎⋅𝟑𝟔– 𝟎⋅𝟎𝟐𝟗𝟓)\n= 03305 V                                                                (Deduct ½ mark for no or incorrect unit)\n(A) A = CH3CH2OH / Ethanol / Ethyl alcohol,\nB = CH3CHO / Ethanal / Acetaldehyde,\nC = CHI3 / Iodoform / Triiodomethane,\nD = CH3CH2O CH2 CH3 / Ethoxyethane / Diethyl ether,\nE = CH3CH2I / Ethyl iodide / Iodoethane.\nOR"
+      "text": "(B)(a)(i) The e.m.f. of a cell is the potential difference between the two electrodes of a galvanic cell (when no current is drawn).\n(ii) A fuel cell is a galvanic cell in which the combustion energy of a fuel is directly converted into electrical energy.\n(b) $E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode} = -0.40 - (-0.76) = 0.36\\ \\text{V}$; $n = 2$.\n$E_{cell} = E^\\circ_{cell} - \\dfrac{0.059}{2}\\log\\dfrac{[Zn^{2+}]}{[Cd^{2+}]} = 0.36 - \\dfrac{0.059}{2}\\log\\dfrac{0.1}{0.01} = 0.36 - 0.0295 = 0.3305\\ \\text{V}$."
      }
     },
     {
@@ -3388,7 +3388,7 @@
      "difficulty": "Easy",
      "topic": "Fuel Cells",
      "answer": {
-      "text": "Galvanic cell which converts the energy of combustion of fuels directly into electrical\nenergy.\nAdvantages  1.High efficiency\n2.Pollution free                                        (or any other two correct advantages)\n½ x2=1"
+      "text": "A fuel cell is a galvanic cell that converts the energy of combustion of a fuel directly into electrical energy.\nAdvantages (any two): (1) high efficiency; (2) pollution-free."
      }
     },
     {
@@ -3408,7 +3408,7 @@
      "difficulty": "Average",
      "topic": "Galvanic Cells",
      "answer": {
-      "text": "2Al + 3 Ni2+  → 2Al3+  + 3Ni\nE°cell=E°Ni2+/Ni - E°Al3+/Al    ; E°cell=-0.25-(-1.66)=1.41V\nn=6\nEcell=E°cell-2.303RT log [Al3+]2\nnF           [Ni2+]3\nEcell=1.41-0.059 log [0.001]2\n6         [0.1]3\nEcell=1.41-0.059 log [10]-6\n6         [10]-3\nEcell=1.41-0.059  log 10-3\nEcell=1.41-(-0.0295)\nEcell=1.41+0.0295\nEcell=1.439V/1.44V                  (Deduct ½ mark for no or incorrect unit)"
+      "text": "Cell reaction: $2\\,Al + 3\\,Ni^{2+} \\rightarrow 2\\,Al^{3+} + 3\\,Ni$; $E^\\circ_{cell} = E^\\circ_{Ni^{2+}/Ni} - E^\\circ_{Al^{3+}/Al} = -0.25 - (-1.66) = 1.41\\ \\text{V}$; $n = 6$.\n$E_{cell} = E^\\circ_{cell} - \\dfrac{0.059}{n}\\log\\dfrac{[Al^{3+}]^2}{[Ni^{2+}]^3} = 1.41 - \\dfrac{0.059}{6}\\log\\dfrac{(0.001)^2}{(0.1)^3} = 1.41 - \\dfrac{0.059}{6}\\log 10^{-3} = 1.41 + 0.0295 = 1.439\\ \\text{V}$."
      }
     },
     {
@@ -3508,7 +3508,7 @@
      "difficulty": "Average",
      "topic": "Conductance of Electrolytic Solutions",
      "answer": {
-      "text": "Conductivity decreases with decrease in concentration\nDue to decrease in number of current carrying ions per unit volume.\nMolar conductivity increases with decrease in concentration\nDue to decrease in inter-ionic attraction or increase in dissociation or increase in number of\nions."
+      "text": "Conductivity decreases with decrease in concentration, because the number of current-carrying ions per unit volume decreases.\nMolar conductivity increases with decrease in concentration, because dilution reduces inter-ionic attraction and increases the degree of dissociation (number of ions)."
      }
     },
     {
@@ -3528,7 +3528,7 @@
      "difficulty": "Average",
      "topic": "Galvanic Cells",
      "answer": {
-      "text": "(a)\n(i) (II) will remain as reduction reaction / (II)\n(I) will be reversed to become an oxidation reaction\nDue to low reduction potential of Cr\n(ii) Cell representation Mg(s)/Mg2+ (aq,0.100M)‖Ag+(aq,0.001M)/Ag(s)\nn=2\nEcell = E°cell −\n2.303R⊤\nnF\nlog\n[Mg2+]\n[Ag+]2\n= 3.17 −\nlog\n= 3.17 −\nlog 105\n= 3.17 −0.0295 × 5\n= 3.17 −0.1475\n= 3.0225 V or  3.02 V"
+      "text": "(a)(i) Reaction (II) will remain a reduction reaction, while reaction (I) will be reversed to become an oxidation reaction. This is because of the low reduction potential of Cr, so Cr is oxidised (acts as the anode).\n(ii) The cell is represented as $Mg(s)\\,|\\,Mg^{2+}(aq,\\,0.100\\ M)\\,\\|\\,Ag^+(aq,\\,0.001\\ M)\\,|\\,Ag(s)$, with $n = 2$.\n$E_{cell} = E^\\circ_{cell} - \\dfrac{2.303RT}{nF}\\log\\dfrac{[Mg^{2+}]}{[Ag^+]^2} = 3.17 - \\dfrac{0.059}{2}\\log\\dfrac{0.100}{(0.001)^2}$\n$= 3.17 - \\dfrac{0.059}{2}\\log 10^{5} = 3.17 - 0.0295\\times 5 = 3.17 - 0.1475 = 3.0225\\ \\text{V} \\approx 3.02\\ \\text{V}$."
      }
     },
     {
@@ -3549,7 +3549,7 @@
      "topic": "Conductance of Electrolytic Solutions",
      "figures": [],
      "answer": {
-      "text": "(b)(i)Limiting molar conductivity of an electrolyte can be represented as the sum of the\nindividual contributions of the anion and cation of the electrolyte.\nTo determine -1. Limiting molar conductivity of an electrolyte.\n2.Dissociation constant of a weak electrolyte\n(or any other two suitable applications)\n(ii)Λ°mNH4OH =  Λ°mNH4Cl +Λ°mNaOH −Λ°mNaCl\n= 129.8 + 217.4 −108.9\n=238.3 Scm2mol-1\n𝛼=\nΛ𝑚𝑐\nΛ°𝑚\n7 | P a g e"
+      "text": "(b)(i) Kohlrausch's law of independent migration of ions: the limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of the anion and the cation of the electrolyte. It is used to determine (1) the limiting molar conductivity of a weak electrolyte, and (2) the dissociation constant of a weak electrolyte (or any other two suitable applications).\n(ii) $\\Lambda^\\circ_m(NH_4OH) = \\Lambda^\\circ_m(NH_4Cl) + \\Lambda^\\circ_m(NaOH) - \\Lambda^\\circ_m(NaCl) = 129.8 + 217.4 - 108.9 = 238.3\\ \\text{S cm}^2\\text{mol}^{-1}$.\n$\\alpha = \\dfrac{\\Lambda_m^c}{\\Lambda^\\circ_m} = \\dfrac{9.33}{238.3} = 0.039$ (i.e. $3.9\\%$)."
      }
     },
     {
@@ -3596,7 +3596,7 @@
      "difficulty": "Average",
      "topic": "Batteries",
      "answer": {
-      "text": "a) Because of the formation of NaOH / Due to the formation of OH- ions.\nb) Because the overall reaction does not involve any ion in solution whose\nconcentration can change during its life time.\nc) Because the number of ions per unit volume that carry current in a solution\ndecreases."
+      "text": "(a) Because of the formation of NaOH (the formation of $OH^-$ ions) at the cathode.\n(b) Because the overall reaction does not involve any ion in solution whose concentration can change during its lifetime (so the e.m.f. stays constant).\n(c) Because the number of ions per unit volume that carry the current in the solution decreases (on dilution)."
      }
     },
     {
@@ -3616,7 +3616,7 @@
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis",
      "answer": {
-      "text": "(a) (i)\nECell = (𝐸𝑜𝑐– 𝐸𝑜𝑎) -\n0⋅059\n𝑙𝑜𝑔[\n𝑍𝑛2+\n𝑃𝑏2+]\n= [(–  0 ⋅13) −(−0 ⋅76)]–\n0⋅059\n𝑙𝑜𝑔\n0⋅1\n0⋅02\n= 0.63 – 0.0295 log 5\n=0.63-0.0295 X 0.699\n= 0.61V                            (Deduct ½ mark for no or incorrect unit)\n7 | P a g e\n(ii)\nThe amount of chemical reaction which occurs at any electrode during electrolysis\nby a current is proportional to the quantity of electricity passed through the\nelectrolyte.\n5F"
+      "text": "(A)(i) $E_{cell} = (E^\\circ_c - E^\\circ_a) - \\dfrac{0.059}{2}\\log\\dfrac{[Zn^{2+}]}{[Pb^{2+}]} = [(-0.13) - (-0.76)] - \\dfrac{0.059}{2}\\log\\dfrac{0.1}{0.02} = 0.63 - 0.0295\\log 5 = 0.63 - 0.0295\\times0.699 = 0.61\\ \\text{V}$.\n(ii) Faraday's law: the amount of chemical reaction occurring at any electrode during electrolysis is proportional to the quantity of electricity passed through the electrolyte. (The charge required is 5 F.)"
      }
     },
     {
@@ -3637,7 +3637,7 @@
      "topic": "Conductance of Electrolytic Solutions",
      "figures": [],
      "answer": {
-      "text": "(b) (i)\nk= G*/R\nG* = k X R =0.125 X 10-3 X 1000\n=0.125 cm-1\n(ii)  E Mg2+/Mg = E0 Mg2+/Mg –\n0⋅059\n2 log\n[𝑀𝑔2+ ]\n= 2.36 V –\n0⋅059\n2  log\n10−4\n= 2.36– 0·0295 X 4 log 10\n= 2.242 V\n(iii) It decreases with increase in temperature"
+      "text": "(B)(i) $k = \\dfrac{G^*}{R}$, so $G^* = k\\times R = (0.125\\times10^{-3})\\times1000 = 0.125\\ \\text{cm}^{-1}$.\n(ii) $E_{Mg^{2+}/Mg} = E^\\circ_{Mg^{2+}/Mg} - \\dfrac{0.059}{2}\\log\\dfrac{1}{[Mg^{2+}]} = 2.36 - \\dfrac{0.059}{2}\\log\\dfrac{1}{10^{-4}} = 2.36 - 0.0295\\times4 = 2.242\\ \\text{V}$.\n(iii) It decreases with an increase in temperature."
      }
     },
     {
@@ -3684,7 +3684,7 @@
      "difficulty": "Average",
      "topic": "Galvanic Cells",
      "answer": {
-      "text": "(a)  Lead storage battery"
+      "text": "(a) Lead storage battery (during discharge):\nAnode: $Pb(s) + SO_4^{2-}(aq) \\rightarrow PbSO_4(s) + 2e^-$.\nCathode: $PbO_2(s) + SO_4^{2-}(aq) + 4H^+(aq) + 2e^- \\rightarrow PbSO_4(s) + 2H_2O(l)$."
      }
     },
     {
@@ -3705,7 +3705,7 @@
      "topic": "Electrolytic Cells and Electrolysis",
      "figures": [],
      "answer": {
-      "text": "(b)Because at cathode the reaction with higher value of Eo is preferred and therefore, the\nreduction of H2O to H2 gas is preferred\nwhereas at anode water should get oxidised in preference to Cl– (aq), however, on account of\noverpotential of oxygen, oxidation of Cl- to Cl2 gas is preferred."
+      "text": "(b) In the electrolysis of aqueous NaCl: at the cathode, the reaction with the higher $E^\\circ$ is preferred, so the reduction of $H_2O$ to $H_2$ occurs; at the anode, although water should be oxidised in preference to $Cl^-$, because of the overpotential of oxygen the oxidation of $Cl^-$ to $Cl_2$ is preferred:\n$NaCl(aq) + H_2O(l) \\rightarrow Na^+(aq) + OH^-(aq) + \\tfrac{1}{2}H_2(g) + \\tfrac{1}{2}Cl_2(g)$."
      }
     },
     {
@@ -3725,7 +3725,7 @@
      "difficulty": "Average",
      "topic": "Electrolytic Cells and Electrolysis",
      "answer": {
-      "text": "(a) (i)\nECell = (𝐸𝑜𝑐– 𝐸𝑜𝑎) -\n0⋅059\n2 log\n[𝑍𝑛2+ ]\n[𝐻+ ].2\n8 | P a g e\n= [(0) −(−0 ⋅76)]–\n0⋅059\n𝑙𝑜𝑔\n0⋅1\n(0⋅01).2\n=   0.76          -     0.0295 log 103\n= 0.6715 V        or 0.67 V                            (Deduct ½ mark for no or incorrect unit)\n(ii) The amounts of different substances liberated by the same quantity of electricity\npassing through the electrolytic solution are proportional to their chemical equivalent\nweights.\n6F"
+      "text": "(a)(i) $E_{cell} = (E^\\circ_c - E^\\circ_a) - \\dfrac{0.059}{2}\\log\\dfrac{[Zn^{2+}]}{[H^+]^2} = [0 - (-0.76)] - \\dfrac{0.059}{2}\\log\\dfrac{0.1}{(0.01)^2} = 0.76 - 0.0295\\log 10^3 = 0.76 - 0.0885 = 0.6715\\ \\text{V}$ ($\\approx 0.67\\ \\text{V}$).\n(ii) Faraday's second law: the amounts of different substances liberated by the same quantity of electricity passing through the electrolytic solution are proportional to their chemical equivalent weights. (The charge required is 6 F.)"
      }
     },
     {
@@ -3746,7 +3746,7 @@
      "topic": "Batteries",
      "figures": [],
      "answer": {
-      "text": "(b) (i)\n𝛬𝑚 =\n𝐾\n𝐶× 1000\n𝛬𝑚    =\n2.48 × 10−2\n= 124 S cm2 mol–1\n= 150 S cm2 mol–1\n(ii) E0cell= E0cathode- E0 anode\n=2.71V\nΔ rG0= -nFE0cell\n= -2 X 96500 X 2.71\n= -523030 Jmol-1 or -523.03 kJmol-1\n(iii)\nPrimary cell\nMaintains constant potential throughout its usage/ longer lifespan\n9 | P a g e"
+      "text": "(b)(i) $\\Lambda_m = \\dfrac{k}{C}\\times1000 = \\dfrac{2.48\\times10^{-2}}{0.2}\\times1000 = 124\\ \\text{S cm}^2\\text{mol}^{-1}$; $\\Lambda_m^\\circ = \\lambda^\\circ_{K^+} + \\lambda^\\circ_{Cl^-} = 73.5 + 76.5 = 150\\ \\text{S cm}^2\\text{mol}^{-1}$; $\\alpha = \\dfrac{\\Lambda_m}{\\Lambda_m^\\circ} = \\dfrac{124}{150} = 0.827$.\n(ii) $E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode} = 0.34 - (-2.37) = 2.71\\ \\text{V}$; $\\Delta_rG^\\circ = -nFE^\\circ_{cell} = -2\\times96500\\times2.71 = -523030\\ \\text{J mol}^{-1} \\approx -523.03\\ \\text{kJ mol}^{-1}$.\n(iii) A primary cell (it maintains a constant potential throughout its usage / has a longer lifespan)."
      }
     },
     {
@@ -5267,7 +5267,7 @@
      "difficulty": "Average",
      "topic": "Temperature Dependence of the Rate of a Reaction",
      "answer": {
-      "text": "t1/2=\n𝑘\nk1=\n20   = 0.03465 / 3.465 × 10-2 min-1\nk2=\n5   = 0.1386 / 1.386 × 10-1 min-1\nlog\n𝐸𝑎\n[350−300]\n[350 ×300]\nlog 4 =\n𝐸𝑎\n[50]\n[350 ×300]\nEa = 24209  J  mol-1  or  24.209 kJ mol-1                 (Deduct ½ mark for no or incorrect unit)\n5 | P a g e"
+      "text": "$t_{1/2} = \\dfrac{0.693}{k}$, so $k_1 = \\dfrac{0.693}{20} = 3.465\\times10^{-2}\\ \\text{min}^{-1}$ and $k_2 = \\dfrac{0.693}{5} = 1.386\\times10^{-1}\\ \\text{min}^{-1}$.\n$\\log\\dfrac{k_2}{k_1} = \\dfrac{E_a}{2.303\\,R}\\left[\\dfrac{T_2 - T_1}{T_1T_2}\\right]$\n$\\log\\dfrac{0.1386}{0.03465} = \\dfrac{E_a}{2.303\\times8.314}\\left[\\dfrac{350-300}{350\\times300}\\right]$, i.e. $\\log 4 = \\dfrac{E_a}{19.15}\\left[\\dfrac{50}{350\\times300}\\right]$.\n$E_a = 24209\\ \\text{J mol}^{-1} \\approx 24.209\\ \\text{kJ mol}^{-1}$."
      }
     },
     {
@@ -5287,7 +5287,7 @@
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "(a) (i) Slowest step.\n(ii) Series of elementary reactions / Reactions involving two or more steps.\n(b) Increases with increase in temperature."
+      "text": "(a)(i) The rate-determining step is the slowest step of the mechanism.\n(ii) A complex reaction is a series of elementary reactions (a reaction involving two or more steps).\n(b) The rate constant increases with an increase in temperature.\n(c) The rate becomes 9 times (for a second-order dependence, tripling the concentration gives $3^2 = 9$).\nOR (b) Molecularity is defined only for elementary reactions, whereas order is determined experimentally and so is applicable to both. (The molecularity of each elementary step in a complex reaction may differ, so it is meaningless for the overall reaction, whereas the order of a complex reaction is fixed by its slowest step.)"
      }
     },
     {
@@ -5390,7 +5390,7 @@
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "Rate =\n−𝟏 ∆[𝑵𝑯𝟑]\n𝟐     ∆𝒕  =\n∆[𝑵𝟐]\n∆𝒕  =\n+1  ∆[𝑯𝟐]\n𝟑     ∆𝒕\n−𝟏 ∆[𝑵𝑯𝟑]\n𝟐     ∆𝒕  =\n∆[𝑵𝟐]\n∆𝒕  =\n+ 𝟏 ∆[𝑯𝟐]\n𝟑     ∆𝒕  = k\n∆[𝑵𝟐]\n∆𝒕  = 2.5 x 10-4 mol L-1 s-1\n∆[𝑯𝟐]\n∆𝒕  = 3 x 2.5 x 10-4\n= 7.5 x 10-4 mol L-1 s-1"
+      "text": "For a zero-order reaction, $k = \\dfrac{[R]_0 - [R]}{t}$.\n$t = \\dfrac{0.10 - 0.075}{0.0030} = \\dfrac{0.025}{0.0030} = 8.33\\ \\text{s}$."
      }
     },
     {
@@ -5409,7 +5409,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(B) For $2NH_3 \\to N_2 + 3H_2$, the rate is:\n$-\\dfrac{1}{2}\\dfrac{\\Delta[NH_3]}{\\Delta t} = \\dfrac{\\Delta[N_2]}{\\Delta t} = \\dfrac{1}{3}\\dfrac{\\Delta[H_2]}{\\Delta t}$.\nGiven $\\dfrac{\\Delta[N_2]}{\\Delta t} = 2.5\\times10^{-4}\\ \\text{mol L}^{-1}\\text{s}^{-1}$, the rate of formation of $H_2$ is $\\dfrac{\\Delta[H_2]}{\\Delta t} = 3\\times2.5\\times10^{-4} = 7.5\\times10^{-4}\\ \\text{mol L}^{-1}\\text{s}^{-1}$."
+     }
     },
     {
      "qno": 18,
@@ -5428,7 +5431,7 @@
      "difficulty": "Easy",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "(a) The reaction that seems to be of higher order but under certain conditions is of first\norder.\n(b) The time in which the concentration of a reactant is reduced to one half of its initial\nconcentration / The time in which half of the reaction is completed."
+      "text": "(a) A pseudo-first-order reaction is one that seems to be of higher order but, under certain conditions, is actually of first order.\n(b) Half-life: the time in which the concentration of a reactant is reduced to one half of its initial value (the time in which half of the reaction is completed)."
      }
     },
     {
@@ -5472,7 +5475,7 @@
      "difficulty": "Average",
      "topic": "Rate of a Chemical Reaction",
      "answer": {
-      "text": "Order of the reaction =1 / First\nRate =k[A]"
+      "text": "Order of the reaction = 1 (first order); rate = $k[A]$."
      }
     },
     {
@@ -5493,7 +5496,7 @@
      "topic": "Integrated Rate Equations",
      "figures": [],
      "answer": {
-      "text": "Rate of the reaction will increase.\nRate constant remains same."
+      "text": "(B) On raising the temperature, the rate of the reaction increases, but the rate constant of the (given) step... the rate of the reaction will increase while the rate constant remains the same (for the change described)."
      }
     },
     {
@@ -5513,7 +5516,7 @@
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "(a)\n(i)\nk =\n2⋅303\n𝑡\nlog\n[R] o\n[R]\nk =\n2⋅303\n60  log\n1.2 𝑥 10−2\n0.2 𝑥 10−2\n2⋅303\n60   log 6\n2⋅303\n60  x 0.778\nk= 2.98 x 10 -2 min-1   / 0.0298 min-1                   (Deduct ½ mark for incorrect or no unit.)\n(ii)\n(I) Order is determined experimentally.\n(II) If one of the reactants is taken in excess."
+      "text": "(a)(i) $k = \\dfrac{2.303}{t}\\log\\dfrac{[R]_0}{[R]} = \\dfrac{2.303}{60}\\log\\dfrac{1.2\\times10^{-2}}{0.2\\times10^{-2}} = \\dfrac{2.303}{60}\\log 6 = \\dfrac{2.303}{60}\\times0.778 = 2.98\\times10^{-2}\\ \\text{min}^{-1}$.\n(ii)(I) The order of a reaction is determined experimentally.\n(II) A reaction becomes pseudo-first-order when one of the reactants is taken in excess."
      }
     },
     {
@@ -5534,7 +5537,7 @@
      "topic": "Temperature Dependence of the Rate of a Reaction",
      "figures": [],
      "answer": {
-      "text": "(b)(i)\nlog\n𝑘2\n𝑘1=\n𝐸𝑎\n2⋅303𝑅[\n𝑇1 –\n𝑇2]\n7 | P a g e\nlog\n2𝑘1\n𝑘1 =\n𝐸𝑎\n19⋅15 [\n308]\n03 =\nEa\n19⋅15 [\n298×308]\nEa =\n0⋅3×19⋅15×298×308\nEa= 52729 Jmol–1 or 52.729 kJmol-1                            (Deduct ½ mark for incorrect or no unit.)\n(ii)\n(1). Rate= k[H2O2] [I-]\n(2) Overall order : 2/ Second\nMolecularity : 2 / Bimolecular"
+      "text": "(b)(i) $\\log\\dfrac{k_2}{k_1} = \\dfrac{E_a}{2.303\\,R}\\left[\\dfrac{1}{T_1} - \\dfrac{1}{T_2}\\right]$. With $k_2 = 2k_1$, $T_1 = 298\\ \\text{K}$, $T_2 = 308\\ \\text{K}$:\n$\\log 2 = \\dfrac{E_a}{19.15}\\left[\\dfrac{10}{298\\times308}\\right]$, so $E_a = \\dfrac{0.3\\times19.15\\times298\\times308}{10} = 52729\\ \\text{J mol}^{-1} \\approx 52.729\\ \\text{kJ mol}^{-1}$.\n(ii)(1) Rate $= k[H_2O_2][I^-]$.\n(2) Overall order = 2 (second order); molecularity = 2 (bimolecular)."
      }
     },
     {
@@ -5611,7 +5614,7 @@
      "difficulty": "Average",
      "topic": "Factors Influencing Rate of a Reaction",
      "answer": {
-      "text": "(a) Rate=k[HI]0 =k\n(b) Increases with increase in temperature\nk =A e-Ea/RT   /   lnk = lnA - Ea/RT\n4 | P a g e"
+      "text": "(a) For the decomposition of HI on a gold surface the reaction is zero order, so $\\text{Rate} = k[HI]^0 = k$.\n(b) The rate constant increases with increase in temperature, as given by the Arrhenius equation $k = A\\,e^{-E_a/RT}$ (i.e. $\\ln k = \\ln A - \\dfrac{E_a}{RT}$)."
      }
     },
     {
@@ -5659,7 +5662,7 @@
      "difficulty": "Average",
      "topic": "Rate of a Chemical Reaction",
      "answer": {
-      "text": "Rate=k[A]x[B]y\nEq.1 Rate1=k(0.1)x(0.1)y=5.0 x 10-2\nEq.2 Rate2=k(0.2)x(0.1)y=1.0 x 10-1\nEq.3 Rate3=k(0.1)x(0.2)y=5.0 x 10-2\n𝑘 × 0.2𝑥 × 0.1𝑦\n𝑘 × 0.1𝑥 × 0.1𝑦\nHence x=1\n𝑘 × 0.1𝑥 × 0.2𝑦\n𝑘 × 0.1𝑥 × 0.1𝑦\nHence y= 0\nRate=k[A]1[B]0\nOverall order=1"
+      "text": "Let $\\text{Rate} = k[A]^x[B]^y$. From the data:\nExp 1: $k(0.1)^x(0.1)^y = 5.0\\times10^{-2}$\nExp 2: $k(0.2)^x(0.1)^y = 1.0\\times10^{-1}$\nExp 3: $k(0.1)^x(0.2)^y = 5.0\\times10^{-2}$\nDividing Exp 2 by Exp 1: $\\dfrac{0.1}{0.05} = \\dfrac{k(0.2)^x(0.1)^y}{k(0.1)^x(0.1)^y}$, hence $x = 1$.\nDividing Exp 3 by Exp 1: $\\dfrac{0.05}{0.05} = \\dfrac{k(0.1)^x(0.2)^y}{k(0.1)^x(0.1)^y}$, hence $y = 0$.\nTherefore $\\text{Rate} = k[A]^1[B]^0$ and the overall order $= 1$."
      }
     },
     {
@@ -5738,7 +5741,7 @@
      "difficulty": "Average",
      "topic": "Rate of a Chemical Reaction",
      "answer": {
-      "text": "a) First order\nb) Slope= k/ 2.303"
+      "text": "(a) First order (from the given plot).\n(b) The slope of the plot of $\\log[R]$ vs t is $-\\dfrac{k}{2.303}$ (so $k = -2.303\\times\\text{slope}$)."
      }
     },
     {
@@ -5786,7 +5789,7 @@
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "Rate = k [ A]p [B]q\n5·0  10–3= k [ 0.01]p [0.01]q………Eq 1\n1·0  10–2= k [ 0.02]p [0.01]q………Eq 2\n5·0  10–3= k [ 0.01]p [0.02]q………Eq 3\nOn Comparing (eq1) and (eq3)\n1= (2)q\nq = 0\nOn Comparing (eq1) and (eq2)\n(2)1= (2)p\np = 1\nOrder w·r·t A = 1\n5 | P a g e\nOrder w·r·t B= 0\nFrom eq 1\n5·0  10–3= k [ 0.01]1 [0.01]0\nk =0.5 min–1"
+      "text": "Rate $= k[A]^p[B]^q$.\n$5.0\\times10^{-3} = k[0.01]^p[0.01]^q$ (Eq.1); $1.0\\times10^{-2} = k[0.02]^p[0.01]^q$ (Eq.2); $5.0\\times10^{-3} = k[0.01]^p[0.02]^q$ (Eq.3).\nEq.1 ÷ Eq.3: $1 = 2^q \\Rightarrow q = 0$. Eq.1 ÷ Eq.2: $\\dfrac{1}{2} = \\dfrac{1}{2^p} \\Rightarrow p = 1$.\nSo order w.r.t. A = 1 and order w.r.t. B = 0.\nFrom Eq.1: $5.0\\times10^{-3} = k[0.01]^1[0.01]^0 \\Rightarrow k = 0.5\\ \\text{min}^{-1}$."
      }
     },
     {
@@ -5860,7 +5863,7 @@
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "When one of the reactant is present in excess\nHydrolysis of an ester/ sucrose                                  (or any other suitable example)\nFor elementary reaction, which takes place in a single step."
+      "text": "(a) A reaction is pseudo-first-order when one of the reactants is present in large excess. Example: the hydrolysis of an ester (or of sucrose).\n(b) Molecularity is defined for an elementary reaction, which takes place in a single step."
      }
     },
     {
@@ -5899,7 +5902,7 @@
      "difficulty": "Average",
      "topic": "Integrated Rate Equations",
      "answer": {
-      "text": "Pt= Pi – 2x +2x +x = Pi+x\nx= = Pt- Pi\npA= Pi – 2x\n= Pi- 2(Pt- Pi)\n= 3Pi – 2 Pt\nWhere pi=0.5 atm,\npA= 3pi-2pt\n= (3X 0.5)-(2x0.625)\n=0.25atm\n= 6.93 X 10-3 s-1\n5 | P a g e"
+      "text": "For $2N_2O_5(g) \\to 2N_2O_4(g) + O_2(g)$: at time t, $p_A = p_i - 2x$ and total $P_t = p_i + x$, so $x = P_t - p_i$ and $p_A = 3p_i - 2P_t$.\n$k = \\dfrac{2.303}{t}\\log\\dfrac{p_i}{p_A}$, with $p_i = 0.5$ atm and $p_A = 3(0.5) - 2(0.625) = 0.25$ atm:\n$k = \\dfrac{2.303}{100}\\log\\dfrac{0.5}{0.25} = \\dfrac{2.303}{100}\\times0.3010 = 6.93\\times10^{-3}\\ \\text{s}^{-1}$."
      }
     },
     {
@@ -7377,7 +7380,7 @@
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)",
      "answer": {
-      "text": "(a)\n(b)"
+      "text": "(a) $10\\,I^- + 2\\,MnO_4^- + 16\\,H^+ \\longrightarrow 2\\,Mn^{2+} + 8\\,H_2O + 5\\,I_2$.\n(b) $Cr_2O_7^{2-} + 14\\,H^+ + 6\\,Fe^{2+} \\longrightarrow 2\\,Cr^{3+} + 6\\,Fe^{3+} + 7\\,H_2O$."
      }
     },
     {
@@ -7397,7 +7400,7 @@
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)",
      "answer": {
-      "text": "(a) Its high\nand low\n(b)\nCr\nCr3+ (d4 to d3) / stable half-filled t2g level\n(c) Fully-filled d-orbitals hence no d-d transition / due to the absence of unpaired electron."
+      "text": "(a) The $E^\\circ_{(M^{2+}/M)}$ for Cu is positive because of its high $\\Delta_aH^\\circ$ (enthalpy of atomisation) and low $\\Delta_{hyd}H^\\circ$ (hydration enthalpy).\n(b) $Cr^{3+}$ is stable because $Cr^{3+}$ ($d^4 \\to d^3$) attains the stable half-filled $t_{2g}^3$ level.\n(c) (The ion, e.g. $Zn^{2+}$, is colourless) because of its fully filled d-orbitals — hence there is no d–d transition (absence of unpaired electrons)."
      }
     },
     {
@@ -7444,7 +7447,7 @@
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)",
      "answer": {
-      "text": "(a) Due to the presence of unpaired electron in d sub shell/ due to d-d transition.\n(b) Due to the presence of fully filled d- subshell in ground state and oxidized state."
+      "text": "(a) (The ion is coloured) due to the presence of unpaired electrons in the d-subshell / due to d–d transition.\n(b) (The ion is colourless) due to the presence of a fully filled d-subshell in both the ground state and the oxidised state (so there is no d–d transition)."
      }
     },
     {
@@ -7464,7 +7467,7 @@
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)",
      "answer": {
-      "text": "(a)\n(b)\n(c)\n5 | P a g e"
+      "text": "(a) $5\\,C_2O_4^{2-} + 2\\,MnO_4^- + 16\\,H^+ \\longrightarrow 2\\,Mn^{2+} + 8\\,H_2O + 10\\,CO_2$.\n(b) $2\\,KMnO_4 \\xrightarrow{\\Delta} K_2MnO_4 + MnO_2 + O_2$.\n(c) $Cr_2O_7^{2-} + 8\\,H^+ + 3\\,H_2S \\longrightarrow 2\\,Cr^{3+} + 3\\,S + 7\\,H_2O$."
      }
     },
     {
@@ -7594,7 +7597,7 @@
      "difficulty": "Average",
      "topic": "The Actinoids",
      "answer": {
-      "text": "(a)Change from Mn3+  to Mn2+  results in extra stable half filled d5 configuration.\nCr2+ is reducing as its configuration changes from d4 to d3 which is stable half filled t2g3\nconfiguration.\n(b)Due to poorer shielding offered by 5f electrons than 4f.\n(c)H, B, C and N atoms being small in size get trapped inside the crystal lattices of\ntransition metals."
+      "text": "(a) $Mn^{3+} \\to Mn^{2+}$ is favourable because $Mn^{2+}$ has the extra-stable half-filled $d^5$ configuration; $Cr^{2+}$ is a reducing agent because its configuration changes from $d^4$ to the stable half-filled $t_{2g}^3$ ($Cr^{3+}$).\n(b) Due to the poorer shielding offered by 5f electrons than by 4f electrons (giving the actinoid contraction).\n(c) H, B, C and N atoms, being small in size, get trapped inside the crystal lattices of transition metals (forming interstitial compounds)."
      }
     },
     {
@@ -7668,7 +7671,7 @@
      "difficulty": "Average",
      "topic": "The Actinoids",
      "answer": {
-      "text": "(a)(i)\n(I) A - K2MnO4         B- KMnO4\n(II)\n(ii) (I) Gets reduced to +3 common oxidation state.\n(II) Due to poorer shielding offered by 5f electrons than 4f.\n(III) Due to completely filled d- subshell (d10) in zinc whereas in Cu, due to high enthalpy of\natomization and low enthalpy of hydration."
+      "text": "(a)(i)(I) $A = K_2MnO_4$ (potassium manganate); $B = KMnO_4$ (potassium permanganate).\n(I)(II) $MnO_4^- + 5Fe^{2+} + 8H^+ \\longrightarrow Mn^{2+} + 5Fe^{3+} + 4H_2O$.\n(ii)(I) It gets reduced to the $+3$ common (stable) oxidation state.\n(ii)(II) Due to the poorer shielding offered by 5f electrons than by 4f electrons.\n(ii)(III) Zinc has a completely filled d-subshell ($3d^{10}$), so it has weak metallic bonding; in Cu the higher enthalpy of atomisation and low enthalpy of hydration make it comparatively less reactive."
      }
     },
     {
@@ -7689,7 +7692,7 @@
      "topic": "General Properties of the Transition Elements (d-Block)",
      "figures": [],
      "answer": {
-      "text": "(b)(i)\n(I) Lanthanoid contraction.\nThe steady decrease in atomic and ionic radii in lanthanoid series.\n(II) Decrease in basic character from left to right in lanthanoid series.\n(any other correct consequence)\n8 | P a g e\n(ii)\n(I)They have the ability to exhibit variable oxidation states/  tendency to form complex\ncompounds/ large surface area.\n(II) Due to involvement of (n-1) d and ns electrons which results in strong metallic bond and\nstrong interatomic bonding.\n(III) Sc has incompletely filled d orbital (3d1) in its ground state whereas Zn has completely filled\nd orbital (3d10) in ground state as well as in its oxidized state."
+      "text": "(b)(i)(I) Lanthanoid contraction — the steady decrease in atomic and ionic radii with increasing atomic number across the lanthanoid series.\n(b)(i)(II) A consequence: a decrease in the basic character of the hydroxides from left to right (from $La(OH)_3$ to $Lu(OH)_3$) in the lanthanoid series (any other correct consequence).\n(b)(ii)(I) Transition metals act as good catalysts because they have the ability to exhibit variable oxidation states / a tendency to form complex compounds / a large surface area.\n(b)(ii)(II) Due to the involvement of $(n-1)d$ and $ns$ electrons, which results in strong metallic bonding and strong interatomic bonding.\n(b)(ii)(III) Sc has an incompletely filled d-orbital ($3d^1$) in its ground state, whereas Zn has a completely filled d-orbital ($3d^{10}$) both in its ground state and in its oxidised state, so Zn is not regarded as a typical transition element."
      }
     },
     {
@@ -7770,7 +7773,7 @@
      "difficulty": "Average",
      "topic": "General Properties of the Transition Elements (d-Block)",
      "answer": {
-      "text": "(a) (i)\n(I) Due to formation of chromate /CrO42- ion\n(II) Due to completely filled d-orbitals in ground state as well as oxidised state.\n(III) Because Mn2+ is more stable due to stable 3d5 configuration whereas Cr3+ is more stable due\nto stable t2g3 configuration.\n(ii)\n(I) it changes to permanaganate ion / MnO4- is formed /\n(II) Potassium manganate/ K2MnO4 is formed /"
+      "text": "(a)(i)(I) (The colour change) is due to the formation of the chromate ion ($CrO_4^{2-}$).\n(II) Due to completely filled d-orbitals in both the ground state and the oxidised state.\n(III) $Mn^{2+}$ is more stable due to its stable $3d^5$ configuration, whereas $Cr^{3+}$ is more stable due to its stable $t_{2g}^3$ configuration.\n(ii)(I) The manganate ion changes to the permanganate ion: $3\\,MnO_4^{2-} + 4\\,H^+ \\rightarrow 2\\,MnO_4^- + MnO_2 + 2\\,H_2O$.\n(II) Potassium manganate ($K_2MnO_4$) is formed: $2\\,KMnO_4 \\xrightarrow{\\Delta} K_2MnO_4 + MnO_2 + O_2$."
      }
     },
     {
@@ -7791,7 +7794,7 @@
      "topic": "Some Important Compounds of Transition Elements",
      "figures": [],
      "answer": {
-      "text": "(b) i)\n•\nAn alloy of lanthanoid / an alloy of lanthanoid and iron with traces of S, C, Ca and Al.\n•\nused in making bullets/shells/ lighter flint\nii) CrO42-/ Cr2O72-\niii) variable oxidation state of vanadium / large surface area /Complex formation\niv) Because of large number of unpaired electrons in their atoms they have stronger interatomic\ninteraction or strong metallic bonding\nv) by acidification of Na2CrO4/\n(a) (i)\nA=\nB=\nC=\n(ii)\n(I) Because carbon of carboxyl group is less electrophilic due to resonance with -OH group.\n(II) Because ethanoate ion is more stable than ethoxide ion due to resonance.\n8 | P a g e\nOR"
+      "text": "(b)(i) Mischmetal is an alloy of a lanthanoid (a lanthanoid + iron, with traces of S, C, Ca and Al); it is used in making bullets/shells and lighter flints.\n(ii) $CrO_4^{2-} / Cr_2O_7^{2-}$.\n(iii) Due to the variable oxidation states of vanadium / large surface area / complex formation.\n(iv) Because of the large number of unpaired electrons in their atoms, they have stronger interatomic interactions (strong metallic bonding).\n(v) By acidification of $Na_2CrO_4$: $2\\,Na_2CrO_4 + 2\\,H^+ \\rightarrow Na_2Cr_2O_7 + 2\\,Na^+ + H_2O$."
      }
     },
     {
@@ -7867,7 +7870,7 @@
      "difficulty": "Average",
      "topic": "The Actinoids",
      "answer": {
-      "text": "(a) (i)\n(I) Because Mn2+ is more stable than Mn3+  due to extra stable half-filled d5 configuration.\n(II) Due to comparable energies of 5f, 6d and 7s orbitals\n(III) Due to the involvement of greater number of electrons from (n-1)d in addition to the ns\nelectrons in the inter-atomic metallic bonding.\n(ii)\n(I)\n(II)"
+      "text": "(a)(i)(I) Because $Mn^{2+}$ is more stable than $Mn^{3+}$, due to the extra-stable half-filled $d^5$ configuration.\n(II) Due to the comparable energies of the 5f, 6d and 7s orbitals (so the actinoids show many oxidation states).\n(III) Due to the involvement of a greater number of electrons from the (n–1)d subshell, in addition to the ns electrons, in interatomic metallic bonding.\n(ii)(I) $5\\,SO_3^{2-} + 2\\,MnO_4^- + 6\\,H^+ \\longrightarrow 2\\,Mn^{2+} + 3\\,H_2O + 5\\,SO_4^{2-}$.\n(II) $2\\,MnO_4^- + H_2O + I^- \\longrightarrow 2\\,MnO_2 + 2\\,OH^- + IO_3^-$."
      }
     },
     {
@@ -7888,7 +7891,7 @@
      "topic": "The Lanthanoids",
      "figures": [],
      "answer": {
-      "text": "b)\n(i) Mn, Zn, Ni, Cu ( any two)\n(ii) K2MnO4, due to presence of one unpaired electron\n(iii) Similar radii of 4d and 5d series elements/ similar properties/ difficulty in\nseparation of lanthanoids                  (or any other relevant consequence)\n7 | P a g e\n(iv) It is prepared by fusion of MnO2 with an alkali metal hydroxide and an oxidising\nagent /\n(v) because of the ability of oxygen to form multiple bonds with metal"
+      "text": "(b)(i) Mn, Zn, Ni, Cu (any two).\n(ii) $K_2MnO_4$ (potassium manganate), due to the presence of one unpaired electron.\n(iii) The similar radii of the 4d and 5d series elements / their similar properties / the difficulty in the separation of the lanthanoids (a consequence of the lanthanoid contraction).\n(iv) $KMnO_4$ is prepared by the fusion of $MnO_2$ with an alkali-metal hydroxide and an oxidising agent: $2\\,MnO_2 + 4\\,KOH + O_2 \\rightarrow 2\\,K_2MnO_4 + 2\\,H_2O$.\n(v) Because of the ability of oxygen to form multiple bonds with the metal."
      }
     },
     {
@@ -9246,7 +9249,7 @@
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds",
      "answer": {
-      "text": "A)a) The orbital splitting energies are not sufficiently large for forcing paring of electrons.\nb) In the presence of strong field ligand, d7 is converted into more stable d6\nconfiguration / Strong field effect stabilises higher oxidation state.\nc) Co-ordination isomerism.\nd) [Ni(H2O)6]2+  has unpaired electrons whereas [Ni(CN)4]2-  has no unpaired electron.\ne) Pentaamminecarbonatocobalt(III) chloride"
+      "text": "(A)(a) (The complex is tetrahedral) because the orbital-splitting energies are not sufficiently large to force the pairing of electrons.\n(b) In the presence of a strong-field ligand, $d^7$ is converted into the more stable $d^6$ configuration / the strong-field effect stabilises the higher oxidation state.\n(c) Coordination isomerism.\n(d) $[Ni(H_2O)_6]^{2+}$ has unpaired electrons (paramagnetic), whereas $[Ni(CN)_4]^{2-}$ has no unpaired electron (diamagnetic).\n(e) Pentaamminecarbonatocobalt(III) chloride."
      }
     },
     {
@@ -9267,7 +9270,7 @@
      "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
      "figures": [],
      "answer": {
-      "text": "B)(a) The higher stability of complexes involving chelating ligands as compare to\ncomplexes having non-chelating ligand.\nExample: [Co(en)3]3+                            (or any other correct example)\n(b) d2sp3 , diamagnetic\n(c) [Pt (NH3)2 Cl2]\n8 | P a g e"
+      "text": "(B)(a) The chelate effect: complexes with chelating (didentate/polydentate) ligands are more stable than those with non-chelating (unidentate) ligands. Example: $[Co(en)_3]^{3+}$.\n(b) $d^2sp^3$, diamagnetic.\n(c) $[Pt(NH_3)_2Cl_2]$."
      }
     },
     {
@@ -9341,7 +9344,7 @@
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds",
      "answer": {
-      "text": "(a) Tetraammineaquachloridocobalt(III) chloride\n(b) Dichloridobis(ethane-1,2-diamine)chromium(III) chloride\n4 | P a g e"
+      "text": "(a) Tetraammineaquachloridocobalt(III) chloride.\n(b) Dichloridobis(ethane-1,2-diamine)chromium(III) chloride."
      }
     },
     {
@@ -9361,7 +9364,7 @@
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds",
      "answer": {
-      "text": "(a)\nHybridization: d2sp3\nMagnetic character: Diamagnetic.\n(b)\nHybridization: sp3\nMagnetic character: Diamagnetic."
+      "text": "(a) $[Co(NH_3)_6]^{3+}$: $Co^{3+}$ is $3d^6$; $NH_3$ (a strong-field ligand) pairs the electrons, leaving two inner d-orbitals vacant → hybridisation $d^2sp^3$; magnetic character: diamagnetic.\n(b) $[Ni(CO)_4]$: $Ni$ becomes effectively $3d^{10}$ (all electrons paired by CO); hybridisation $sp^3$; magnetic character: diamagnetic."
      }
     },
     {
@@ -9381,7 +9384,7 @@
      "difficulty": "Average",
      "topic": "Nomenclature of Coordination Compounds",
      "answer": {
-      "text": "Structural formula:  K2[PtCl6]\nIUPAC Name:  Potassium hexachloridoplatinate(IV)"
+      "text": "Structural formula: $K_2[PtCl_6]$.\nIUPAC name: potassium hexachloridoplatinate(IV)."
      }
     },
     {
@@ -9401,7 +9404,7 @@
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds",
      "answer": {
-      "text": "(a)(i)\n(I)CO being a strong field ligand, causes pairing of electrons therefore, there is no unpaired\nelectron.\n6 | P a g e\nWhereas Cl- is a weak field ligand, does not cause pairing, therefore presence of unpaired\nelectrons.\n(II) CO can form both sigma (σ) and pi (π)bond with central metal atom/Metal to ligand bonding\ncreates synergic effect between CO and the Metal.\n(III) Mirror images are superimposable/ Presence of plane of symmetry.\n(ii)\n(I)∆O>P, causes pairing of electrons, therefore 1 unpaired electron\n(II) ∆O<P, No pairing of electrons therefore 5 unpaired electrons"
+      "text": "(a)(i)(I) In $[Ni(CO)_4]$, CO (a strong-field ligand) causes pairing of the electrons, so there is no unpaired electron (diamagnetic); whereas $Cl^-$ (a weak-field ligand) does not cause pairing, so unpaired electrons are present (paramagnetic).\n(II) CO can form both a sigma ($\\sigma$) and a pi ($\\pi$) bond with the central metal atom; the metal-to-ligand back-bonding creates a synergic effect between CO and the metal.\n(III) The mirror images are superimposable / there is a plane of symmetry (so the complex is optically inactive).\n(ii)(I) $\\Delta_o > P$: pairing of electrons occurs, so there is 1 unpaired electron.\n(II) $\\Delta_o < P$: no pairing occurs, so there are 5 unpaired electrons."
      }
     },
     {
@@ -9422,7 +9425,7 @@
      "topic": "Isomerism in Coordination Compounds",
      "figures": [],
      "answer": {
-      "text": "(b)(i)\n(I)Coordination Isomerism / [Cr(NH3)6] [Co(CN)6]\n(II)Optical Isomerism /\n(III)Geometrical isomerism /\n(ii) Weak field ligands produce weak field and leads to small splitting of d-orbitals whereas\nstrong field ligands produce strong field leading to large splitting of d-orbitals.\nStrong field ligands cause pairing of electrons/a smaller number of unpaired electrons hence\nproduces low spin complexes and weak field ligands causes no pairing of electrons/ a greater\nnumber of unpaired electrons hence produces high spin complexes."
+      "text": "(b)(i)(I) Coordination isomerism, e.g. $[Cr(NH_3)_6][Co(CN)_6]$.\n(II) Optical isomerism (the complex exists as non-superimposable l- and d-forms).\n(III) Geometrical (cis–trans) isomerism.\n(ii) Weak-field ligands produce a weak field and lead to small splitting of the d-orbitals, whereas strong-field ligands produce a strong field and lead to large splitting. Strong-field ligands cause pairing (fewer unpaired electrons), giving low-spin complexes; weak-field ligands cause no pairing (more unpaired electrons), giving high-spin complexes."
      }
     },
     {
@@ -9442,7 +9445,7 @@
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds",
      "answer": {
-      "text": "(a)The difference of energy between the two sets of d-orbitals t2g and eg due to the presence\nof ligands in a definite geometry. / The energy required to split the degenerate d-orbitals\ninto two sets of orbitals.\n(i) t32g e1g\n(ii) t42g e0g\n(b)Orbital splitting energy is not sufficiently large for causing pairing of electrons\n5 | P a g e"
+      "text": "(a) The crystal field splitting energy ($\\Delta_o$) is the difference of energy between the two sets of d-orbitals ($t_{2g}$ and $e_g$) that arises due to the presence of ligands in a definite geometry (i.e. the energy required to split the degenerate d-orbitals into these two sets).\n(i) $t_{2g}^{3}\\,e_g^{1}$\n(ii) $t_{2g}^{4}\\,e_g^{0}$\n(b) In the second case the orbital splitting energy is not sufficiently large to cause pairing of electrons, so the configuration remains high-spin."
      }
     },
     {
@@ -9462,7 +9465,23 @@
      "difficulty": "Average",
      "topic": "Werner's Theory of Coordination Compounds",
      "answer": {
-      "text": "(a)\n(i) [Cr(H2O)4Cl2]Cl\n(ii) 6\n(b) Double salts dissociate into simple ions while complex compounds do not dissociate\ncompletely into ions when dissolved in water.  (Or any other suitable difference)\n(c)\n(i) [Cr(NH3)3Cl3]  < [Cr(NH3)5Cl]Cl2 < [Cr(NH3)6]Cl3"
+      "text": "(a)(i) The complex is $[Cr(H_2O)_4Cl_2]Cl$.\n(ii) Its coordination number is 6.\n(b) Double salts dissociate into their constituent simple ions when dissolved in water, whereas complex (coordination) compounds do not dissociate completely into their ions in solution (or any other suitable difference).\n(c)(i) Increasing order of molar conductivity (number of ions):\n$[Cr(NH_3)_3Cl_3] < [Cr(NH_3)_5Cl]Cl_2 < [Cr(NH_3)_6]Cl_3$.\nOR (c)(ii) Difference between primary and secondary valency (any two):",
+      "table": {
+       "headers": [
+        "Primary valency",
+        "Secondary valency"
+       ],
+       "rows": [
+        [
+         "Ionisable",
+         "Non-ionisable"
+        ],
+        [
+         "Satisfied by negative ions",
+         "Satisfied by negative ions or neutral molecules"
+        ]
+       ]
+      }
      }
     },
     {
@@ -9536,7 +9555,7 @@
      "difficulty": "Average",
      "topic": "Nomenclature of Coordination Compounds",
      "answer": {
-      "text": "a) i) Dichloridobis(ethane-1,2-diamine)cobalt(IV) sulphate\nii) Potassium trioxalatoferrate(III)"
+      "text": "(a)(i) Dichloridobis(ethane-1,2-diamine)cobalt(IV) sulphate.\n(ii) Potassium trioxalatoferrate(III)."
      }
     },
     {
@@ -9557,7 +9576,7 @@
      "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
      "figures": [],
      "answer": {
-      "text": "b) i) Double salts dissociate into simple ions while complex compounds do not\ndissociate completely into ions when dissolved in water.  (Or any other suitable\ndifference)\nii) When a ligand binds through two donor atoms is called a didentate ligand\nwhile a unidentate ligand which has two different donor atoms and either of the two\nligates in the complex is called ambidentate ligand."
+      "text": "(b)(i) Double salts dissociate completely into simple ions when dissolved in water, whereas coordination (complex) compounds do not dissociate completely into ions.\n(ii) A didentate ligand binds through two donor atoms; an ambidentate ligand is a unidentate ligand that has two different donor atoms, either of which can ligate to the metal."
      }
     },
     {
@@ -9577,7 +9596,7 @@
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds",
      "answer": {
-      "text": "a) [FeF6]3–      -sp3d2\n[Fe(CN)6]4– - d2sp3\nb) [FeF6]3–      -outer orbital complex\n[Fe(CN)6]4– - inner orbital complex\nc) [FeF6]3–      - paramagnetic\n[Fe(CN)6]4- -diamagnetic"
+      "text": "(a) Hybridisation: $[FeF_6]^{3-}$ — $sp^3d^2$; $[Fe(CN)_6]^{4-}$ — $d^2sp^3$.\n(b) $[FeF_6]^{3-}$ is an outer-orbital complex; $[Fe(CN)_6]^{4-}$ is an inner-orbital complex.\n(c) $[FeF_6]^{3-}$ is paramagnetic; $[Fe(CN)_6]^{4-}$ is diamagnetic."
      }
     },
     {
@@ -9598,7 +9617,7 @@
      "topic": "Bonding in Coordination Compounds",
      "figures": [],
      "answer": {
-      "text": "a) It becomes colourless/ colour slowly fades away\nb) t2g3eg2\nc) sp3, diamagnetic"
+      "text": "(B — alternative) (a) The colour becomes colourless / the colour slowly fades away.\n(b) $t_{2g}^3\\,e_g^2$.\n(c) $sp^3$, diamagnetic."
      }
     },
     {
@@ -9645,7 +9664,7 @@
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds",
      "answer": {
-      "text": "a) Dichloridobis(ethane-1,2-diamine)platinum(IV) ion"
+      "text": "(a) Dichloridobis(ethane-1,2-diamine)platinum(IV) ion, $[Pt(en)_2Cl_2]^{2+}$."
      }
     },
     {
@@ -9666,7 +9685,7 @@
      "topic": "Isomerism in Coordination Compounds",
      "figures": [],
      "answer": {
-      "text": "i) [Co(NH3)5(CO3)]Cl\nii) Pentaamminenitrito-O-cobalt(III) chloride"
+      "text": "(b)(i) $[Co(NH_3)_5(CO_3)]Cl$.\n(ii) Pentaamminenitrito-O-cobalt(III) chloride."
      }
     },
     {
@@ -9686,7 +9705,7 @@
      "difficulty": "Average",
      "topic": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
      "answer": {
-      "text": "a) Due to presence of one unpaired electron in t2g which gets excited to eg / Due to\nexcitation energy t2g 1→ eg1, it gives colour. (d-d transition)\nWhen heated, water is lost therefore crystal field splitting does not occur and it becomes\ncolourless.\nb) The energy required to split the degenerate d-orbitals into two sets of orbitals (t2g and\neg). /The difference of energy between the two sets of d-orbitals t2g and eg due to the\npresence of ligands in a definite geometry ."
+      "text": "(a) (The complex is coloured) due to the presence of one unpaired electron in the $t_{2g}$ level, which gets excited to the $e_g$ level ($t_{2g}^1 \\to e_g^1$, a d–d transition). When heated, the water ligand is lost, so crystal-field splitting no longer occurs and it becomes colourless.\n(b) Crystal-field splitting energy: the energy required to split the degenerate d-orbitals into two sets ($t_{2g}$ and $e_g$) due to the presence of ligands in a definite geometry.\n(c) Because the orbital-splitting energies are not sufficiently large to force pairing / due to the low crystal-field splitting energy.\nOR (b)(ii) $\\Delta_o < P$: a weak-field ligand (no pairing). $\\Delta_o > P$: a strong-field ligand (pairing occurs)."
      }
     },
     {
@@ -11084,7 +11103,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(A) (a)\n(b)\n(c)"
+      "text": "(A)(a) 1-(1-bromoethyl)-4-chlorobenzene: a benzene ring bearing $-CHBr{-}CH_3$ and, at the para position, $-Cl$.\n(b) 1-bromo-1-methylcyclohexane (a cyclohexane ring bearing $-Br$ and $-CH_3$ on the same carbon).\n(c) 4-(chloromethyl)phenol: a phenol ring bearing $-CH_2Cl$ at the para position."
      }
     },
     {
@@ -11105,7 +11124,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(B)\n(a)\n(b)\n(c)\n(or any other suitable method of conversion)"
+      "text": "(B)(a) Fittig reaction: $2\\,C_6H_5Cl + 2Na \\xrightarrow[-2NaCl]{\\text{ether}} C_6H_5{-}C_6H_5$ (biphenyl).\n(b) $CH_3CH{=}CH_2 + HBr \\xrightarrow{\\text{peroxide}} CH_3CH_2CH_2Br \\xrightarrow[\\text{acetone}]{NaI} CH_3CH_2CH_2I$ (anti-Markovnikov, then Finkelstein).\n(c) $CH_3{-}CHBr{-}CH_2{-}CH_3 \\xrightarrow[\\Delta]{\\text{ethanolic }KOH} CH_3{-}CH{=}CH{-}CH_3 + HBr$ (but-2-ene, by dehydrohalogenation)."
      }
     },
     {
@@ -11158,7 +11177,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a)\n, due to the formation of more stable tertiary carbocation.\n(b) 2-Bromo-2-methylbutane < 2-Bromopentane < 1-Bromopentane."
+      "text": "(a) 2-chloro-2-methylpropane (tert-butyl chloride), $(CH_3)_3C{-}Cl$ — due to the formation of a more stable tertiary carbocation (fastest $S_N1$).\n(b) Increasing order of reactivity towards $S_N2$: 2-bromo-2-methylbutane < 2-bromopentane < 1-bromopentane."
      }
     },
     {
@@ -11178,7 +11197,7 @@
      "difficulty": "Easy",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a) (i) The stereoisomers related to each other as non-superimposable mirror images.\n(ii) A mixture containing dextro and laevo enantiomers in equal proportions.\n(b) C—Cl bond acquires a partial double bond character due to resonance / the carbon atom of\nbenzene attached to halogen is sp2-hybridised / Explanation through resonating structures."
+      "text": "(a)(i) Enantiomers are stereoisomers that are related to each other as non-superimposable mirror images.\n(ii) A racemic mixture is a mixture containing the dextro (+) and laevo (–) enantiomers in equal proportions (it is optically inactive).\n(b) The C–Cl bond in an aryl halide acquires partial double-bond character due to resonance / the carbon of the benzene ring attached to the halogen is $sp^2$-hybridised — so the C–Cl bond is stronger and shorter (making aryl halides unreactive towards nucleophilic substitution)."
      }
     },
     {
@@ -11281,7 +11300,7 @@
      "difficulty": "Average",
      "topic": "Classification",
      "answer": {
-      "text": "(a)\n(i) Greater stability of allylic carbocation due to resonance.\n(ii)Being covalent in nature, only nitrogen is free to donate electron pair in AgCN.\n(iii)Less sterically hindered carbon in Methyl chloride/ greater steric hinderance on tertiary\ncarbon of t-butyl chloride."
+      "text": "(a)(i) Due to the greater stability of the allylic carbocation (resonance stabilisation).\n(ii) AgCN is covalent in nature, so only the nitrogen is free to donate its lone pair — hence the isocyanide (R–NC) is the main product.\n(iii) There is less steric hindrance at the carbon of methyl chloride than at the tertiary carbon of tert-butyl chloride (so methyl chloride reacts faster by $S_N2$)."
      }
     },
     {
@@ -11302,7 +11321,7 @@
      "topic": "Chemical Reactions",
      "figures": [],
      "answer": {
-      "text": "22(b)\n(i) A =CH3CH2CH2Br        B = CH3CH2CH2OH\n(ii) A = CH3CH=CHCH3    B= CH3CH2CH(Br)CH3\n½ x\n4 | P a g e\n(iii)A = CH3CH2Cl      B= CH3CH3"
+      "text": "(b)(i) $A = CH_3CH_2CH_2Br$; $B = CH_3CH_2CH_2OH$.\n(ii) $A = CH_3CH{=}CHCH_3$; $B = CH_3CH_2CH(Br)CH_3$.\n(iii) $A = CH_3CH_2Cl$; $B = CH_3CH_3$."
      }
     },
     {
@@ -11405,7 +11424,7 @@
      "difficulty": "Average",
      "topic": "Nature of C-X Bond",
      "answer": {
-      "text": "(a)Due to resonance in chlorobenzene leading to partial double bond character of C-Cl bond but\nthere is no resonance in CH3Cl / sp2 hybridised carbon atom having shorter bond length\nbetween C-Cl in chlorobenzene than sp3 hybridized carbon in methyl chloride.\n(b)Grignard reagent react with water to form corresponding hydrocarbon\n(c)Due to the formation of planar carbocation, nucleophile may attack from either side of\ncarbocation."
+      "text": "(a) In chlorobenzene there is resonance, which gives the C--Cl bond a partial double-bond character; the carbon bonded to Cl is $sp^2$ hybridised, giving a shorter C--Cl bond than in $CH_3Cl$, where the carbon is $sp^3$ hybridised. Hence chlorobenzene is less reactive.\n(b) The Grignard reagent reacts with water to form the corresponding hydrocarbon, so it must be prepared and handled under anhydrous conditions.\n(c) In an $S_N1$ reaction a planar carbocation is formed as an intermediate, and the nucleophile may attack from either side of this planar carbocation, giving a racemic mixture."
      }
     },
     {
@@ -11456,7 +11475,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "a)\nb)\n4 | P a g e"
+      "text": "(a) 1-iodo-1-methylcyclohexane (a cyclohexane ring bearing $-I$ and $-CH_3$ on the same carbon).\n(b) Bromobenzene ($C_6H_5Br$)."
      }
     },
     {
@@ -11479,7 +11498,28 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "SN1\nSN2\nUnimolecular\nBimolecular\nIt follows first order kinetics\nIt follows second order kinetics\nRetention of configuration\nInversion of configuration\nRacemisation occurs\nNo racemisation is seen\nTakes place through formation of\ncarbocation\nTakes place through formation of\ntransition state\nOccurs in polar protic solvent\nOccurs in polar aprotic solvent\nRate is independent of the\nconcentration of the nucleophile.\nRate is dependent on the\nconcentration of the nucleophile.\n(Any TWO )\n, because of the stability of benzyl carbocation"
+      "text": "(a) Difference between $S_N1$ and $S_N2$ (any two, see the table).\n(b) Benzyl chloride, $C_6H_5{-}CH_2{-}Cl$, undergoes $S_N1$ most readily because of the resonance stability of the benzyl carbocation.",
+      "table": {
+       "caption": "(a) $S_N1$ vs $S_N2$ (any two)",
+       "headers": [
+        "$S_N1$",
+        "$S_N2$"
+       ],
+       "rows": [
+        [
+         "Unimolecular; follows first-order kinetics.",
+         "Bimolecular; follows second-order kinetics."
+        ],
+        [
+         "Proceeds through a carbocation intermediate; racemisation occurs.",
+         "Proceeds through a transition state; inversion of configuration occurs."
+        ],
+        [
+         "The rate is independent of the concentration of the nucleophile.",
+         "The rate depends on the concentration of the nucleophile."
+        ]
+       ]
+      }
      }
     },
     {
@@ -11526,7 +11566,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "-Because C—X bond acquires a partial double bond character due to resonance/ sp2\nhybridized carbon of C-X bond leading to shorter bond length (Or any other suitable\nreason).\n-Nitro group withdraws the electron density from the benzene ring and thus facilitates\nthe attack of the nucleophile on haloarene / -NO2 group being electron withdrawing\nstabilises the intermediate carbanion."
+      "text": "(a) Because the C–X bond acquires partial double-bond character due to resonance / the carbon of the C–X bond is $sp^2$-hybridised, leading to a shorter bond length (so aryl halides are unreactive towards nucleophilic substitution).\n(b) The nitro group withdraws electron density from the benzene ring and thus facilitates the attack of a nucleophile on the haloarene ($-NO_2$, being electron-withdrawing, stabilises the intermediate carbanion)."
      }
     },
     {
@@ -11546,7 +11586,7 @@
      "difficulty": "Difficult",
      "topic": "Classification",
      "answer": {
-      "text": "A=\nB=\nC=\nD="
+      "text": "$A = (CH_3)_2CH{-}CH_2{-}I$ (1-iodo-2-methylpropane / isobutyl iodide); $B = (CH_3)_2C{=}CH_2$ (2-methylprop-1-ene); $C = (CH_3)_2CH{-}I$ (2-iodopropane); $D = $ 2,5-dimethylhexane (Wurtz product).\nElimination: $(CH_3)_2CH{-}CH_2{-}I \\xrightarrow[\\Delta]{KOH\\,(\\text{alc.})} (CH_3)_2C{=}CH_2 + KI + H_2O$."
      }
     },
     {
@@ -12833,7 +12873,7 @@
      "difficulty": "Average",
      "topic": "Nomenclature",
      "answer": {
-      "text": "(a)\n(i)\n/ 2-Bromophenol and 4-Bromophenol is formed.\n(ii)\n/ 2,4,6-Trinitrophenol / Picric acid is formed.\nb)Due to resonance, the lone pair of electrons on oxygen is not easily available for\nprotonation.\nc)\nPhenol\nDue to electron releasing effect (+I effect) of methyl group/ phenoxide ion formed is less stable\nin cresol."
+      "text": "(a)(i) $C_6H_5OH \\xrightarrow[273\\ K]{Br_2\\ \\text{in }CS_2}$ 2-bromophenol + 4-bromophenol.\n(ii) $C_6H_5OH \\xrightarrow{\\text{conc. }HNO_3}$ 2,4,6-trinitrophenol (picric acid).\n(b) In aniline, due to resonance, the lone pair of electrons on nitrogen is not easily available for protonation (so aniline is a weak base).\n(c) Phenol is more acidic than cresol, because the electron-releasing (+I) effect of the methyl group in cresol makes the cresoxide ion less stable than the phenoxide ion.\nOR (c) The product is 2-hydroxybenzaldehyde (2-hydroxybenzenecarbaldehyde, i.e. salicylaldehyde) — from the Reimer–Tiemann reaction of phenol."
      }
     },
     {
@@ -12907,7 +12947,7 @@
      "difficulty": "Average",
      "topic": "Alcohols and Phenols",
      "answer": {
-      "text": "(B) (a)\n(i)\n(ii)\n(iii)\n9 | P a g e\n(b) On heating with NaOH + I2, Butan-2-ol gives yellow ppt. Of iodoform (CHI3 ) whereas Butan-1-\nol does not.\n(Or any other suitable chemical test)\n(c) Ethanol < Water < Phenol."
+      "text": "(A) $A = CH_3CH_2OH$ (ethanol); $B = CH_3CHO$ (ethanal); $C = CHI_3$ (iodoform); $D = CH_3CH_2OCH_2CH_3$ (diethyl ether); $E = CH_3CH_2I$ (iodoethane).\nReactions: $CH_3CH_2OH \\xrightarrow{CrO_3} CH_3CHO \\xrightarrow{NaOH + I_2} CHI_3$; $CH_3CH_2OH \\xrightarrow[413\\ K]{\\text{conc. }H_2SO_4} CH_3CH_2OCH_2CH_3 \\xrightarrow{HI\\ (\\text{excess})} CH_3CH_2I$."
      }
     },
     {
@@ -12926,7 +12966,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Alcohols and Phenols",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(B)(a)(i) $C_6H_5OH \\xrightarrow{\\text{conc. }HNO_3}$ 2,4,6-trinitrophenol (picric acid).\n(ii) Hydroboration–oxidation: $3\\,CH_3{-}CH{=}CH_2 + (BH_3)_2 \\rightarrow (CH_3CH_2CH_2)_3B \\xrightarrow{H_2O_2,\\ OH^-} 3\\,CH_3CH_2CH_2OH$ (propan-1-ol).\n(iii) Williamson synthesis: $(CH_3)_3C{-}O^-Na^+ + CH_3Cl \\rightarrow (CH_3)_3C{-}O{-}CH_3 + NaCl$.\n(b) Distinguish butan-2-ol from butan-1-ol — iodoform test: on heating with $NaOH + I_2$, butan-2-ol gives a yellow ppt of iodoform, whereas butan-1-ol does not.\n(c) Increasing order of acidity: ethanol < water < phenol."
+     }
     },
     {
      "qno": 12,
@@ -12975,7 +13018,7 @@
      "difficulty": "Average",
      "topic": "Alcohols and Phenols",
      "answer": {
-      "text": "(a)\n(b)"
+      "text": "(a) The product is a methyl ester — a cyclohexane ring bearing an $-OH$ group and a $-CH_2CH_2{-}CO{-}O{-}CH_3$ chain (methyl 3-(2-hydroxycyclohexyl)propanoate).\n(b) Aluminium tert-butoxide, $[(CH_3)_3C{-}O]_3Al$."
      }
     },
     {
@@ -12995,7 +13038,7 @@
      "difficulty": "Average",
      "topic": "Ethers",
      "answer": {
-      "text": "(a)No\nSodium ethoxide is a strong nucleophile as well as a strong base so elimination reaction of t-\nbutyl chloride predominates over substitution.\nChloroethane and Sod.tert-butoxide   /  C2H5Cl and (CH3)3CONa\n(b)2-Ethoxy-2-methylpropane"
+      "text": "(a) No. Sodium ethoxide is a strong nucleophile as well as a strong base, so the elimination reaction of tert-butyl chloride predominates over substitution. (To make the ether by Williamson synthesis, use chloroethane and sodium tert-butoxide instead: $C_2H_5Cl + (CH_3)_3CONa$.)\n(b) 2-ethoxy-2-methylpropane."
      }
     },
     {
@@ -13042,7 +13085,7 @@
      "difficulty": "Average",
      "topic": "Alcohols and Phenols",
      "answer": {
-      "text": "Acid-catalysed hydration of ethene (mechanism):\nStep 1 — Protonation of the alkene: CH₂=CH₂ + H⁺ → CH₃–CH₂⁺ (carbocation).\nStep 2 — Nucleophilic attack of water on the carbocation: CH₃–CH₂⁺ + H₂O → CH₃–CH₂–OH₂⁺.\nStep 3 — Loss of a proton: CH₃–CH₂–OH₂⁺ → CH₃–CH₂–OH + H⁺ (catalyst regenerated)."
+      "text": "Acid-catalysed hydration of an alkene to an alcohol proceeds through three steps:\nStep 1 — Protonation of the alkene to form a carbocation by electrophilic attack of $H_3O^+$ (formed by $H_2O + H^+ \\rightarrow H_3O^+$).\nStep 2 — Nucleophilic attack of water on the carbocation to give a protonated alcohol (an oxonium ion).\nStep 3 — Deprotonation of the protonated alcohol by water to form the alcohol and regenerate $H_3O^+$."
      }
     },
     {
@@ -13062,7 +13105,7 @@
      "difficulty": "Average",
      "topic": "Ethers",
      "answer": {
-      "text": "(a) 4-methylphenol < Phenol < 3,5-dinitrophenol < 2,4,6-trinitrophenol\n(b)\n(i)\n(ii)"
+      "text": "(a) Increasing order of acidity:\n4-methylphenol $<$ phenol $<$ 3,5-dinitrophenol $<$ 2,4,6-trinitrophenol.\n(b)(i) Phenol on heating with zinc dust gives benzene:\n$C_6H_5OH \\xrightarrow{\\text{Zn dust}} C_6H_6 + ZnO$.\n(ii) Anisole reacts with HBr to give phenol and methyl bromide:\n$C_6H_5{-}OCH_3 + HBr \\longrightarrow C_6H_5{-}OH + CH_3Br$."
      }
     },
     {
@@ -13138,7 +13181,7 @@
      "difficulty": "Average",
      "topic": "Alcohols and Phenols",
      "answer": {
-      "text": "a) i)\n/ 2,4,6-Tribromophenol is formed\nii)\n/ 2,4,6-Trinitrophenol / Picric acid is formed.\nb) (i)"
+      "text": "(a)(i) The product is 2,4,6-tribromophenol (a phenol ring bearing $-Br$ at the 2, 4 and 6 positions).\n(ii) The product is 2,4,6-trinitrophenol (picric acid).\n(b)(i) Acid-catalysed formation of an ether from an alcohol (mechanism): the oxygen lone pair of the alcohol attacks the electrophilic carbon (carbocation) to form a protonated ether, which then loses a proton: $R{-}\\overset{..}{O}H + \\overset{+}{C}< \\rightarrow R{-}\\overset{+}{O}H{-}C< \\rightarrow R{-}O{-}C< + H^+$.\n(c) 2-methylpropan-2-ol (a tertiary alcohol) gives immediate turbidity with Lucas reagent, whereas butan-1-ol (a primary alcohol) does not react (readily).\nOR (b)(ii) Due to $sp^2$ hybridisation of the carbon attached to $-OH$, leading to a shorter bond length / due to resonance giving partial double-bond character to the C–OH bond (so the C–O bond is stronger)."
      }
     },
     {
@@ -13241,7 +13284,7 @@
      "difficulty": "Average",
      "topic": "Alcohols and Phenols",
      "answer": {
-      "text": "a) CH3I +\nb)\nc)"
+      "text": "(a) $CH_3I + C_6H_5OH$ (phenol) $\\xrightarrow{NaOH}$ anisole (methoxybenzene) — Williamson synthesis.\n(b) 2,4,6-trinitrophenol (picric acid).\n(c) Cyclohexylmethanol (a cyclohexane ring bearing a $-CH_2OH$ group)."
      }
     },
     {
@@ -14653,7 +14696,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "•\nLess reactive,\n•\nThe carbon atom of the carbonyl group of benzaldehyde is less electrophilic than carbon\natom of the carbonyl group present in propanal. / The polarity of the carbonyl group is\nreduced in benzaldehyde due to resonance."
+      "text": "Benzaldehyde is less reactive (towards nucleophilic addition) than propanal, because the carbonyl carbon of benzaldehyde is less electrophilic than that of propanal / the polarity of the carbonyl group is reduced in benzaldehyde due to resonance (conjugation with the ring)."
      }
     },
     {
@@ -14673,7 +14716,7 @@
      "difficulty": "Average",
      "topic": "Preparation of Aldehydes and Ketones",
      "answer": {
-      "text": "(A) (a) (i)\n(ii)\n(b) A = (CH3)2CH=CHCH3 / 2-Methylbut-2-ene\nB = CH3CHO / Ethanal\nC = CH3COCH3/ Acetone/ Propanone"
+      "text": "(A)(a)(i) Aldol condensation of acetaldehyde: $2\\,CH_3CHO \\xrightarrow{OH^-} CH_3{-}CH(OH){-}CH_2{-}CHO \\xrightarrow{\\Delta} CH_3{-}CH{=}CH{-}CHO$ (but-2-enal).\n(ii) Decarboxylation (soda-lime): $CH_3CH_2COOH + NaOH + CaO \\xrightarrow{\\Delta} CH_3{-}CH_3$ (ethane).\n(b) $A = (CH_3)_2C{=}CH{-}CH_3$ (2-methylbut-2-ene); $B = CH_3CHO$ (ethanal); $C = CH_3COCH_3$ (acetone / propanone)."
      }
     },
     {
@@ -14694,7 +14737,7 @@
      "topic": "Chemical Reactions",
      "figures": [],
      "answer": {
-      "text": "A= C3H7COOC4H9 / Butyl butanoate\nB= C3H7COOH / Butanoic acid\nC= C4H9OH / Butan-1-ol\nC3H7COOC4H9+ dil.H2SO4 → C3H7COOH  + C4H9OH\nC4H9OH + Conc. Sulphuric acid + Heat→CH3CH2CH=CH2"
+      "text": "(B) $A = C_3H_7COOC_4H_9$ (butyl butanoate); $B = C_3H_7COOH$ (butanoic acid); $C = C_4H_9OH$ (butan-1-ol).\nReactions: $C_3H_7COOC_4H_9 + \\text{dil. }H_2SO_4 \\rightarrow C_3H_7COOH + C_4H_9OH$ (hydrolysis); $C_4H_9OH \\xrightarrow[\\Delta]{\\text{conc. }H_2SO_4} CH_3CH_2CH{=}CH_2$ (dehydration to but-1-ene); $C_4H_9OH \\xrightarrow{CrO_3/CH_3COOH} C_3H_7COOH$ (oxidation to butanoic acid)."
      }
     },
     {
@@ -14714,7 +14757,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(A)\n(a) The carbonyl group of aldehydes and ketones is reduced to CH2 group on treatment with\nhydrazine followed by heating with sodium or potassium hydroxide in high boiling solvent such\nas ethylene glycol\n(b) Chromyl chloride oxidises methyl group of toluene to a chromium complex, which on\nhydrolysis gives corresponding benzaldehyde.\n(c) Aldehydes which do not have α-hydrogen atom, undergo self-oxidation and reduction\nreaction on heating with concentrated alkali gives salt of carboxylic acid and alcohol\n(Or any other example)"
+      "text": "(A)(a) Wolff–Kishner reduction: the carbonyl group of an aldehyde/ketone is reduced to a $-CH_2-$ group on treatment with hydrazine, followed by heating with NaOH/KOH in a high-boiling solvent (ethylene glycol):\n$>C{=}O \\xrightarrow[-H_2O]{NH_2NH_2} >C{=}NNH_2 \\xrightarrow[\\text{heat}]{KOH/\\text{ethylene glycol}} >CH_2 + N_2$.\n(b) Étard reaction: chromyl chloride oxidises the methyl group of toluene to a chromium complex, which on hydrolysis gives benzaldehyde: $C_6H_5CH_3 \\xrightarrow[\\;2.\\ H_3O^+,\\ \\Delta\\;]{\\;1.\\ CrO_2Cl_2,\\ CS_2\\;} C_6H_5CHO$.\n(c) Cannizzaro reaction: an aldehyde with no $\\alpha$-hydrogen, on heating with conc. alkali, undergoes disproportionation to give the salt of a carboxylic acid and an alcohol: $2\\,C_6H_5CHO \\xrightarrow{\\text{conc. }NaOH} C_6H_5CH_2OH + C_6H_5COONa$."
      }
     },
     {
@@ -14735,7 +14778,7 @@
      "topic": "Chemical Reactions",
      "figures": [],
      "answer": {
-      "text": "(B)\n(a) A = CH3COCl                   (b) CH3CHO                                          (c) CH3CH=NNH2\n6 | P a g e\n(b) A = CH3CHO                   (b) CH3CH(OH)CH2CHO                       (c) CH3CH=CHCHO"
+      "text": "(B) First set: $A = CH_3COCl$ (acetyl chloride); $B = CH_3CHO$ (ethanal); $C = CH_3CH{=}NNH_2$ (the hydrazone of ethanal).\nSecond set: $A = CH_3CHO$ (ethanal); $B = CH_3CH(OH)CH_2CHO$ (aldol, 3-hydroxybutanal); $C = CH_3CH{=}CHCHO$ (but-2-enal)."
      }
     },
     {
@@ -14755,7 +14798,7 @@
      "difficulty": "Difficult",
      "topic": "Nomenclature and Structure of Carbonyl Group",
      "answer": {
-      "text": "(a) But-2-enal\n(b) On heating with NaOH + I2, propanone gives yellow ppt. Of iodoform (CHI3 ) whereas\npropanal does not.\n(Or any other suitable chemical test)\n(c)\n(i)\n(ii)\n7 | P a g e\n(iii)\n(Or any other correct method)"
+      "text": "(A)(a) But-2-enal, $CH_3{-}CH{=}CH{-}CHO$.\n(b) Distinguish propanone from propanal — iodoform test: on heating with $NaOH + I_2$, propanone gives a yellow ppt of iodoform ($CHI_3$), whereas propanal does not.\n(c)(i) Toluene to benzoic acid: $C_6H_5CH_3 \\xrightarrow[\\text{heat}]{KMnO_4{-}KOH} C_6H_5COOK \\xrightarrow{H_3O^+} C_6H_5COOH$.\n(ii) Ethanol to propan-2-ol: $CH_3CH_2OH \\xrightarrow{PCC} CH_3CHO \\xrightarrow[\\;2.\\ H_3O^+\\;]{\\;1.\\ CH_3MgBr\\;} CH_3CH(OH)CH_3$.\n(iii) Propanal to lactic acid: $CH_3CH_2CHO \\xrightarrow{KMnO_4/H^+} CH_3CH_2COOH \\xrightarrow{Cl_2,\\ \\text{Red P}} CH_3CH(Cl)COOH \\xrightarrow{NaOH(aq)} CH_3CH(OH)COOH$ (2-hydroxypropanoic acid)."
      }
     },
     {
@@ -14782,7 +14825,7 @@
       "assets/figures/chem_2025_z2_q31e.png"
      ],
      "answer": {
-      "text": "(B)\n(a)\n(b)\n(c)\n(d)\n(e) CH3COCl / Anhy. AlCl3 or (CH3CO)2O/ Anhy. AlCl3"
+      "text": "(B)(a) Cyclopentanone oxime (a cyclopentane ring with $=N{-}OH$).\n(b) Cyclohexylidenecyclohexane (two cyclohexane rings joined by a C=C double bond).\n(c) Benzene-1,2-dicarbonyl dichloride (phthaloyl chloride): a benzene ring bearing two $-COCl$ groups at adjacent positions.\n(d) The cyanohydrin of 2-formylbenzoic acid: a benzene ring bearing $-CH(OH)(CN)$ and $-COOH$.\n(e) $CH_3COCl$ with anhydrous $AlCl_3$, or $(CH_3CO)_2O$ with anhydrous $AlCl_3$ (Friedel–Crafts acylation)."
      }
     },
     {
@@ -14802,7 +14845,7 @@
      "difficulty": "Average",
      "topic": "Nomenclature and Structure of Carbonyl Group",
      "answer": {
-      "text": "A:  C6H5COCH3                    Acetophenone\nB : CHI3                                Triiodomethane\nC : C6H5COOH                     Benzoic acid"
+      "text": "$A = C_6H_5COCH_3$ (acetophenone); $B = CHI_3$ (triiodomethane / iodoform); $C = C_6H_5COOH$ (benzoic acid)."
      }
     },
     {
@@ -14825,7 +14868,7 @@
      "difficulty": "Difficult",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a)(i) (I)\n(II) CH3COCH3\n(III)\n(ii) (I)Benzoic acid with Sodium bicarbonate gives brisk effervescence. No reaction with\nEthyl benzoate\n(ii)Propanal, when heated with ammoniacal solution of silver nitrate (Tollens’ reagent)\ngives silver mirror. No reaction with propanone\n(or any other suitable chemical test)"
+      "text": "(a)(i)(I) The product is cyclohexanone semicarbazone (cyclohexanone $=N{-}NH{-}CO{-}NH_2$).\n(II) $CH_3COCH_3$ (propanone / acetone).\n(III) Benzaldehyde ($C_6H_5CHO$).\n(ii)(I) Distinguish benzoic acid from ethyl benzoate: benzoic acid gives brisk effervescence with sodium bicarbonate, whereas ethyl benzoate does not.\n(II) Distinguish propanal from propanone: propanal, on heating with Tollens' reagent, gives a silver mirror, whereas propanone does not."
      }
     },
     {
@@ -14849,7 +14892,7 @@
      "difficulty": "Difficult",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(b)(i)(I)\n(II)1.(BH3)2,  2.H2O2/OH- ,  3.PCC\n(III)\n(b)(ii)\n(I)\n(II) C6H5CHO         CH3CHO, dil NaOH ,∆       C6H5CH=CHCHO       H2/Ni         C6H5CH2CH2CH2OH\n(Or any other suitable method)"
+      "text": "(b)(i)(I) Benzoic acid ($C_6H_5COOH$).\n(II) Reagents: 1. $(BH_3)_2$; 2. $H_2O_2/OH^-$; 3. PCC.\n(III) 4-oxocyclohexane-1-carboxylate (a cyclohexanone ring bearing $-COO^-$).\n(b)(ii)(I) $C_6H_5CHO \\xrightarrow{K_2Cr_2O_7} C_6H_5COOH \\xrightarrow{SOCl_2} C_6H_5COCl \\xrightarrow[\\text{anhyd. }AlCl_3]{C_6H_6}$ benzophenone ($C_6H_5{-}CO{-}C_6H_5$).\n(II) $C_6H_5CHO \\xrightarrow[\\Delta]{CH_3CHO,\\ \\text{dil. }NaOH} C_6H_5CH{=}CHCHO \\xrightarrow{H_2/Ni} C_6H_5CH_2CH_2CH_2OH$ (3-phenylpropan-1-ol)."
      }
     },
     {
@@ -14952,7 +14995,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a)Acetyl chloride is hydrogenated over catalyst, palladium-barium sulphate to prepare\nacetaldehyde /\n(b)Due to less steric hinderance and greater electrophilicity of carbonyl carbon in propanal than\npropanone. / Due to more steric hinderance and less electrophilicity of carbonyl carbon in\npropanone than propanal"
+      "text": "(a) Acetaldehyde is prepared by the Rosenmund reduction, in which acetyl chloride is hydrogenated over the poisoned catalyst palladium on barium sulphate:\n$CH_3COCl \\xrightarrow[\\text{Pd--BaSO}_4]{H_2} CH_3CHO$.\n(b) Propanal is more reactive than propanone towards nucleophilic addition. This is because of the lesser steric hindrance and the greater electrophilicity of the carbonyl carbon in propanal (an aldehyde) than in propanone (a ketone, which has two electron-releasing alkyl groups and greater steric crowding)."
      }
     },
     {
@@ -14972,7 +15015,7 @@
      "difficulty": "Difficult",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "A=Acetophenone/C6H5COCH3\nB= Iodoform/CHI3,\nC=Benzoic acid/C6H5COOH"
+      "text": "$A = $ Acetophenone, $C_6H_5COCH_3$.\n$B = $ Iodoform, $CHI_3$.\n$C = $ Benzoic acid, $C_6H_5COOH$.\nAcetophenone with 2,4-dinitrophenylhydrazine gives the corresponding 2,4-DNP derivative; with $I_2$/NaOH it gives the iodoform test (yellow $CHI_3$, $B$, and sodium benzoate); and on oxidation with $KMnO_4/H^+$ it gives benzoic acid ($C$)."
      }
     },
     {
@@ -14992,7 +15035,7 @@
      "difficulty": "Difficult",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "A= CH3CH=CHCN   /  But-2-ene nitrile\nB= CH3CH=CHCHO / But-2-enal\nCH3CH=CHCN\nCH3CH=CHCHO"
+      "text": "$A = CH_3CH{=}CHCN$ (but-2-enenitrile); $B = CH_3CH{=}CHCHO$ (but-2-enal).\n$CH_3CH{=}CHCN \\xrightarrow[\\;2.\\ H_2O\\;]{\\;1.\\ DIBAL\\text{-}H\\;} CH_3CH{=}CHCHO$ (partial reduction of the nitrile to the aldehyde)."
      }
     },
     {
@@ -15012,7 +15055,7 @@
      "difficulty": "Average",
      "topic": "Nomenclature and Structure of Carbonyl Group",
      "answer": {
-      "text": "(b) i)\n(I)\n/  (CH3CO)2O\n(II)\n(III)\n(ii)\n(I)\n(II)"
+      "text": "(A)(i) $A = C_6H_5CH(OCOCH_3)_2$ (benzylidene diacetate); $B = C_6H_5CHO$ (benzaldehyde); $C = C_6H_5CH_2OH$ (benzyl alcohol).\n(ii)(I) Because the carbon of the carboxyl group is less electrophilic, due to resonance with the $-OH$ group.\n(II) Because the ethanoate (acetate) ion is more stable than the ethoxide ion, due to resonance (so ethanoic acid is more acidic than ethanol)."
      }
     },
     {
@@ -15031,7 +15074,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chemical Reactions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(B)(i)(I) Acetic anhydride, $(CH_3CO)_2O$.\n(II) Acetophenone, $C_6H_5{-}CO{-}CH_3$.\n(III) Phthalimide (a benzene ring fused to a five-membered ring containing $-CO{-}NH{-}CO-$).\n(ii)(I) Wolff–Kishner reduction: $>C{=}O \\xrightarrow[-H_2O]{NH_2NH_2} >C{=}NNH_2 \\xrightarrow[\\text{heat}]{KOH/\\text{ethylene glycol}} >CH_2 + N_2$.\n(II) Decarboxylation: $R{-}COONa \\xrightarrow[\\text{heat}]{NaOH\\ \\&\\ CaO} R{-}H + Na_2CO_3$."
+     }
     },
     {
      "qno": 27,
@@ -15050,7 +15096,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "a) Because the carboxyl group is deactivating and the catalyst aluminium chloride (Lewis acid)\ngets bonded to the carboxyl group.(forms salt)\nb) Because carbonyl carbon of HCHO is more electrophilic than CH3CHO/ due to +I effect of\nmethyl group/ steric effect of methyl group, CH3CHO is less reactive.\nc) Because of greater electronegativity of sp2 hybridised carbon to which carboxyl carbon is\nattached."
+      "text": "(a) Because the carboxyl group is deactivating, and the catalyst aluminium chloride (a Lewis acid) gets bonded to the carboxyl group (forms a salt) — so a carboxylic acid does not undergo the Friedel–Crafts reaction.\n(b) Because the carbonyl carbon of HCHO is more electrophilic than that of $CH_3CHO$ / due to the +I effect and the steric effect of the methyl group, $CH_3CHO$ is less reactive.\n(c) Because of the greater electronegativity of the $sp^2$-hybridised carbon to which the carboxyl carbon is attached."
      }
     },
     {
@@ -15070,7 +15116,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a) (i)\n(I) (CH3)3C-CHO\n(II)\n(III) CH3-CO-CH2CH2CH3\n(ii)\n(I)\n(II)"
+      "text": "(a)(i)(I) $(CH_3)_3C{-}CHO$ (2,2-dimethylpropanal / pivaldehyde).\n(II) 2-methylbutanal, $CH_3CH_2{-}CH(CH_3){-}CHO$.\n(III) $CH_3{-}CO{-}CH_2CH_2CH_3$ (pentan-2-one).\n(ii)(I) Clemmensen reduction: $>C{=}O \\xrightarrow{Zn{-}Hg,\\ HCl} >CH_2 + H_2O$.\n(II) Étard reaction: $C_6H_5CH_3 + CrO_2Cl_2 \\xrightarrow{CS_2}$ (chromium complex) $\\xrightarrow{H_3O^+}$ benzaldehyde ($C_6H_5CHO$)."
      }
     },
     {
@@ -15093,7 +15139,7 @@
       "assets/figures/chem_2025_z7_q32biv.png"
      ],
      "answer": {
-      "text": "(b)\ni)\nii) Because semicarbazide undergoes resonance involving only one of the two - NH2 groups,\nwhich is attached directly to the carbonyl-carbon atom.\niii)\niv)\nv)"
+      "text": "(b)(i) The product is methoxymethanol, $H{-}CH(OH)(OCH_3)$ (the hemiacetal of formaldehyde with methanol).\n(ii) Because semicarbazide undergoes resonance involving only one of its two $-NH_2$ groups (the one attached directly to the carbonyl carbon), so only the other $-NH_2$ acts as a nucleophile.\n(iii) Aldol reaction: $CH_3CH_2OH \\xrightarrow{CrO_3} CH_3CHO$; then $2\\,CH_3CHO \\xrightarrow{\\text{dil. }NaOH} CH_3{-}CH(OH){-}CH_2{-}CHO$ (aldol, 3-hydroxybutanal).\n(iv) Cyclohexanone (a cyclohexane ring with a $=O$).\n(v) Phthalimide (a benzene ring fused to a five-membered $-CO{-}NH{-}CO-$ ring)."
      }
     },
     {
@@ -16413,7 +16459,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a) A = CH3CH2CN           ;             B= CH3CH2 CH2NH2\n(b) A = C6H5N+2Cl-  ;\nB =\n4 | P a g e"
+      "text": "(a) $A = CH_3CH_2CN$ (propanenitrile); $B = CH_3CH_2CH_2NH_2$ (propan-1-amine).\n(b) $A = C_6H_5N_2^+Cl^-$ (benzenediazonium chloride); $B = $ p-aminoazobenzene ($C_6H_5{-}N{=}N{-}C_6H_4{-}NH_2$, a yellow azo dye)."
      }
     },
     {
@@ -16433,7 +16479,7 @@
      "difficulty": "Average",
      "topic": "Preparation of Amines",
      "answer": {
-      "text": "(a) (CH₃)₂NH < CH₃CH2NH₂ < CH₃CH2OH\n(b) (i) aromatic halides do not undergo nucleophilic substitution with the anion formed by\nphthalimide.\n(ii)\n/Due to resonance the lone pair on\nnitrogen is less available for donation/ Due to +R effect lone pair of electrons is not easily\navailable on N of -NH2 group/ Due to -R effect of carbonyl group, electron density on N atom of -\nNH2 group decreases.\n6 | P a g e"
+      "text": "(a) Increasing order of boiling point: $(CH_3)_2NH < CH_3CH_2NH_2 < CH_3CH_2OH$ (a secondary amine H-bonds more weakly than a primary amine, and an alcohol H-bonds more strongly than an amine).\n(b)(i) Aryl (aromatic) halides do not undergo nucleophilic substitution with the anion formed by phthalimide, so aryl amines cannot be prepared by the Gabriel synthesis.\n(ii) An amide is a weaker base than an amine because, due to resonance, the lone pair on nitrogen is delocalised onto the carbonyl group and is therefore less available for donation: $>N{-}CO{-}CH_3 \\leftrightarrow >\\overset{+}{N}{=}C(O^-){-}CH_3$ (the $-R$ effect of the carbonyl decreases the electron density on N)."
      }
     },
     {
@@ -16485,7 +16531,7 @@
      "difficulty": "Average",
      "topic": "Classification",
      "answer": {
-      "text": "(a)\n/ Award full marks if attempted because of\nprinting error.\n(b) Due to resonance in aniline the lone pair of electrons are less available while they are\neasily available in methyl amine.\n(c) (i) NH3 < (CH3)3N < CH3NH2 < (CH3)2NH"
+      "text": "(a) [The question had a printing error; the marking scheme awards full marks for any attempt. The intended answer is the increasing order of basic strength of substituted anilines — the electron-withdrawing $-NO_2$ group decreases basicity, so a nitro-aniline is a weaker base than aniline.]\n(b) Aniline is a weaker base than methylamine because, due to resonance in aniline, the lone pair of electrons on nitrogen is less available (for protonation), whereas in methylamine the lone pair is easily available.\n(c)(i) Increasing order of basic strength (in water): $NH_3 < (CH_3)_3N < CH_3NH_2 < (CH_3)_2NH$.\nOR (c)(ii) The ammonolysis of an alkyl halide gives a mixture of primary, secondary and tertiary amines, along with a quaternary ammonium salt (so it does not give a pure primary amine)."
      }
     },
     {
@@ -16588,7 +16634,7 @@
      "difficulty": "Average",
      "topic": "Physical Properties",
      "answer": {
-      "text": "(a)C6H5NH2> C6H5NHCH3> C2H5NH2>(C2H5)2NH\n(b) (CH3)2NH< C2H5NH2<C2H5OH\n(c) C6H5NH2<(C2H5)2NH< C2H5NH2"
+      "text": "(a) $C_6H_5NH_2 > C_6H_5NHCH_3 > C_2H_5NH_2 > (C_2H_5)_2NH$.\n(b) $(CH_3)_2NH < C_2H_5NH_2 < C_2H_5OH$.\n(c) $C_6H_5NH_2 < (C_2H_5)_2NH < C_2H_5NH_2$."
      }
     },
     {
@@ -16635,7 +16681,7 @@
      "difficulty": "Difficult",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "(a)(i) Amine ‘X’ react with C6H5SO2Cl to give a  compound ,soluble in NaOH  so amine ‘X’ is\nprimary amine, CH3CH2NH2/Ethanamine/Ethyl amine\n(ii) (CH3)2NH <CH3NH2 < (CH3)3N <  NH3 <C6H5NH2\n(iii) In the strongly acidic medium, aniline is protonated to anilinium ion, which is meta-\ndirecting.\n(iv)(I)\n(II)"
+      "text": "(a)(i) Amine 'X' reacts with $C_6H_5SO_2Cl$ (Hinsberg's reagent) to give a product that is soluble in NaOH, so 'X' is a primary amine: $CH_3CH_2NH_2$ (ethanamine / ethylamine).\n(ii) Increasing order of basic strength:\n$(CH_3)_2NH < CH_3NH_2 < (CH_3)_3N < NH_3 < C_6H_5NH_2$.\n(iii) In a strongly acidic medium, aniline is protonated to the anilinium ion, which is meta-directing (so nitration gives an appreciable amount of the m-product).\n(iv)(I) Aniline $\\xrightarrow[\\text{pyridine}]{(CH_3CO)_2O}$ acetanilide $\\xrightarrow[CH_3COOH]{Br_2}$ p-bromoacetanilide $\\xrightarrow{OH^-\\ \\text{or}\\ H^+}$ p-bromoaniline.\n(iv)(II) $C_6H_5NH_2 + NaNO_2 + 2HCl \\xrightarrow{0-5^\\circ C} C_6H_5N_2^+Cl^- \\xrightarrow[283\\,K]{H_2O} C_6H_5OH$."
      }
     },
     {
@@ -16656,7 +16702,7 @@
      "topic": "Chemical Reactions",
      "figures": [],
      "answer": {
-      "text": "(b)(i)\n(ii)A =\nB  =\n(iii)\n(I)\n(II)"
+      "text": "(b)(i) Carbylamine reaction of ethanamine (a primary amine):\n$CH_3CH_2NH_2 + CHCl_3 + 3KOH(\\text{EtOH}) \\xrightarrow{\\Delta} C_2H_5NC + 3KCl + 3H_2O$.\n(ii) $A = $ nitrobenzene ($C_6H_5NO_2$); $B = $ benzamide ($C_6H_5CONH_2$).\n(iii)(I) $C_6H_5NH_2 + NaNO_2 + 2HCl \\xrightarrow{0-5^\\circ C} C_6H_5N_2^+Cl^- \\xrightarrow{CH_3CH_2OH} C_6H_6$.\n(iii)(II) Aniline with $H_2SO_4$ forms anilinium hydrogen sulphate ($C_6H_5NH_3^+HSO_4^-$), which on heating at 453--473 K gives sulphanilic acid (p-aminobenzenesulphonic acid)."
      }
     },
     {
@@ -16759,7 +16805,7 @@
      "difficulty": "Average",
      "topic": "Chemical Reactions",
      "answer": {
-      "text": "a)\nb)\n6 | P a g e\nc)"
+      "text": "(a) Aniline, on treatment with $H_2SO_4$ and heating (453–473 K), gives sulphanilic acid (via the anilinium hydrogensulphate): $C_6H_5NH_2 \\xrightarrow{H_2SO_4} C_6H_5\\overset{+}{N}H_3\\,HSO_4^- \\xrightarrow{453{-}473\\ K}$ p-aminobenzenesulphonic acid (sulphanilic acid).\n(b) Carbylamine reaction: $C_6H_5NH_2 + CHCl_3 + 3\\,KOH\\,(\\text{alc.}) \\xrightarrow{\\Delta} C_6H_5NC + 3\\,KCl + 3\\,H_2O$.\n(c) Acetylation: $C_6H_5NH_2 \\xrightarrow[\\text{pyridine}]{(CH_3CO)_2O}$ acetanilide ($C_6H_5{-}NH{-}CO{-}CH_3$)."
      }
     },
     {
@@ -16833,7 +16879,7 @@
      "difficulty": "Average",
      "topic": "Method of Preparation of Diazonium Salts",
      "answer": {
-      "text": "a) (i)\n(ii)\n(or by any other method)\nb)  Aniline undergoes resonance and as a result the electrons on the N-atom are less\navailable for donation.\nc) (i)  (CH3)3N < CH3NH2< (CH3)2NH"
+      "text": "(a)(i) $CH_3COOH \\xrightarrow[\\text{heat}]{NH_3} CH_3CONH_2 \\xrightarrow{Br_2/NaOH} CH_3NH_2$ (Hofmann bromamide degradation).\n(ii) $CH_3CH_2{-}C{\\equiv}N \\xrightarrow{H_2/Pt} CH_3CH_2CH_2NH_2$ (reduction of the nitrile to propan-1-amine).\n(b) Aniline undergoes resonance, and as a result the electrons on the N-atom are less available for donation (so aniline is a weaker base).\n(c)(i) Increasing order of basic strength (in water): $(CH_3)_3N < CH_3NH_2 < (CH_3)_2NH$.\nOR (c)(ii) $A = C_6H_5NH_2$ (aniline); $B = C_6H_5N_2^+Cl^-$ (benzenediazonium chloride)."
      }
     },
     {
@@ -18292,7 +18338,7 @@
      "difficulty": "Easy",
      "topic": "Carbohydrates",
      "answer": {
-      "text": "(a) With HCN: the aldehyde group of glucose undergoes nucleophilic addition to form glucose cyanohydrin — CH₂OH(CHOH)₄CHO + HCN → CH₂OH(CHOH)₄CH(OH)CN.\n(b) With bromine water (mild oxidising agent): the –CHO group is oxidised to –COOH giving gluconic acid — CH₂OH(CHOH)₄CHO + [O] → CH₂OH(CHOH)₄COOH (D-gluconic acid)."
+      "text": "(a) Glucose + HCN forms the cyanohydrin: $CH_2OH{-}(CHOH)_4{-}CHO \\xrightarrow{HCN} CH_2OH{-}(CHOH)_4{-}CH(OH)(CN)$.\n(b) Glucose + bromine water gives gluconic acid: $CH_2OH{-}(CHOH)_4{-}CHO \\xrightarrow{Br_2/H_2O} CH_2OH{-}(CHOH)_4{-}COOH$."
      }
     },
     {
@@ -18312,7 +18358,20 @@
      "difficulty": "Average",
      "topic": "Vitamins",
      "answer": {
-      "text": "(a)\nNative protein\nDenatured protein\nThree-dimensional structure is intact.\nBiologically active\nThree-dimensional structure is destroyed.\nBiologically inactive\n(Or any other one correct difference)\n(b) Lactose\n(c) Vitamin K"
+      "text": "(a) Difference between a native and a denatured protein (see the table).\n(b) Lactose.\n(c) Vitamin K.",
+      "table": {
+       "caption": "(a) Native vs denatured protein (any one difference)",
+       "headers": [
+        "Native protein",
+        "Denatured protein"
+       ],
+       "rows": [
+        [
+         "Its three-dimensional structure is intact; it is biologically active.",
+         "Its three-dimensional structure is destroyed; it is biologically inactive."
+        ]
+       ]
+      }
      }
     },
     {
@@ -18442,7 +18501,7 @@
      "difficulty": "Easy",
      "topic": "Carbohydrates",
      "answer": {
-      "text": "(a) The oxide linkage between two monosaccharides.\n(b) Hydrolysis of sucrose brings about a change in the sign of rotation, from dextro (+) to laevo\n(–) and the product is named as invert sugar.\n(c) Carbohydrates that yield two to ten monosaccharide units, on hydrolysis."
+      "text": "(a) A glycosidic linkage is the oxide (ether) linkage formed between two monosaccharide units.\n(b) The hydrolysis of sucrose brings about a change in the sign of the optical rotation, from dextro (+) to laevo (–); the product is named invert sugar.\n(c) Oligosaccharides are carbohydrates that yield two to ten monosaccharide units on hydrolysis."
      }
     },
     {
@@ -18492,7 +18551,7 @@
      "difficulty": "Average",
      "topic": "Proteins",
      "answer": {
-      "text": "•\nAmino-acids which cannot be synthesized in the body and must be obtained through\ndiet.\n•\nIn zwitter ionic form, amino-acids react both with acids and bases./ Due to the presence\nof both carboxylic group and amino group."
+      "text": "(a) Essential amino acids: amino acids which cannot be synthesised in the body and must be obtained through the diet.\n(b) In the zwitterionic form, amino acids react both with acids and with bases (because of the presence of both a carboxylic $-COOH$ group and an amino $-NH_2$ group)."
      }
     },
     {
@@ -18512,7 +18571,7 @@
      "difficulty": "Average",
      "topic": "Nucleic Acids",
      "answer": {
-      "text": "(a)2-Deoxyribose, Phosphoric acid, Nitrogenous base.\nDNA\nRNA\n1.Double stranded helix\nSingle stranded helix\n(or any other  suitable structural difference)\n(b)\nNucleotide\nNucleoside\n1.Pentose sugar+ Nitrogenous base +\nPhosphate\n1.Pentose sugar+ Nitrogenous base\n(c)\n(i) To preserve genetic information and Protein synthesis"
+      "text": "(a) The components of a nucleotide (in DNA) are 2-deoxyribose, phosphoric acid and a nitrogenous base. Difference between DNA and RNA (any one): DNA is a double-stranded helix, whereas RNA is single-stranded.\n(b) Nucleotide = pentose sugar + nitrogenous base + phosphate; nucleoside = pentose sugar + nitrogenous base (no phosphate).\n(c)(i) The functions of DNA are to preserve the genetic information and to direct protein synthesis.\nOR (c)(ii) The linkage joining the nucleotides is the phosphodiester linkage. The base present in RNA (in place of thymine) is uracil."
      }
     },
     {
@@ -18532,7 +18591,31 @@
      "difficulty": "Easy",
      "topic": "Nucleic Acids",
      "answer": {
-      "text": "(a) Peptide linkage\n(b)\nDNA\nRNA\nDouble stranded\nSingle stranded\nSugar is deoxyribose\nSugar is ribose\nThymine base is present\nUracil base is present\nIt replicates\nIt does not replicate\n(or any two suitable differences)"
+      "text": "(a) The linkage that joins two amino acid units in a protein is the peptide linkage ($-CO-NH-$), an amide bond formed between the $-COOH$ group of one $\\alpha$-amino acid and the $-NH_2$ group of the next.\n(b) Differences between DNA and RNA (any two):",
+      "table": {
+       "headers": [
+        "DNA",
+        "RNA"
+       ],
+       "rows": [
+        [
+         "Double stranded",
+         "Single stranded"
+        ],
+        [
+         "Sugar is deoxyribose",
+         "Sugar is ribose"
+        ],
+        [
+         "Thymine base is present",
+         "Uracil base is present"
+        ],
+        [
+         "It replicates",
+         "It does not replicate"
+        ]
+       ]
+      }
      }
     },
     {
@@ -18552,7 +18635,7 @@
      "difficulty": "Average",
      "topic": "Carbohydrates",
      "answer": {
-      "text": "(a)\n(b)(i)Cyclic structures of glucose differ only in configuration of -OH group at C1. / Stereoisomers\nwhich differ in configuration of  -OH group at C1 or C2"
+      "text": "(a) Glucose on oxidation with bromine water gives gluconic acid:\n$CHO{-}(CHOH)_4{-}CH_2OH \\xrightarrow{Br_2\\text{ water}} COOH{-}(CHOH)_4{-}CH_2OH$.\nOn prolonged heating with HI, glucose is reduced to n-hexane:\n$CHO{-}(CHOH)_4{-}CH_2OH \\xrightarrow{HI,\\ \\Delta} CH_3{-}CH_2{-}CH_2{-}CH_2{-}CH_2{-}CH_3$.\n(b)(i) The two cyclic structures of glucose differ only in the configuration of the $-OH$ group at $C_1$; such isomers are called anomers.\nOR Stereoisomers which differ in the configuration of the $-OH$ group at $C_1$ or $C_2$ are called epimers.\n(b)(ii) The cyclic structure is that of $\\beta$-D-(+)-glucopyranose (a six-membered pyranose ring with the anomeric $-OH$ at $C_1$ in the equatorial / $\\beta$ position).\n(c) Hydrolysis of dextrorotatory sucrose brings about a change in the sign of rotation, inverting the optical rotation from dextro to laevo; the product of hydrolysis is therefore called invert sugar."
      }
     },
     {
@@ -18599,7 +18682,7 @@
      "difficulty": "Average",
      "topic": "Carbohydrates",
      "answer": {
-      "text": "a) Glucose gets oxidised to six carbon carboxylic acid (gluconic acid) on reaction with a mild\noxidising agent like bromine water. This indicates the presence as an aldehydic group /\nb) Acetylation of glucose with acetic anhydride gives glucose pentaacetate which confirms\nthe presence of five –OH groups /"
+      "text": "(a) On reaction with a mild oxidising agent (bromine water), glucose is oxidised to the six-carbon carboxylic acid, gluconic acid: $CH_2OH{-}(CHOH)_4{-}CHO \\xrightarrow{Br_2\\ \\text{water}} CH_2OH{-}(CHOH)_4{-}COOH$. This indicates the presence of an aldehydic group.\n(b) Acetylation of glucose with acetic anhydride gives glucose pentaacetate, which confirms the presence of five $-OH$ groups."
      }
     },
     {
@@ -18619,7 +18702,7 @@
      "difficulty": "Average",
      "topic": "Nucleic Acids",
      "answer": {
-      "text": "a) (i) A linkage which joins amino acids through -CO-NH- bond\n(ii) When a protein in its native form, is subjected to physical change like change in\ntemperature or chemical change like change in pH, it loses its biological activity.\nb) Due to zwitter ion formation which can react with both acids and bases./ Due to\nthe presence of both carboxylic group and amino group.\nc) (i) Fibrous protein: parallel polypeptide chain structure / insoluble in water\nGlobular protein: spherical polypeptide chain structure/ soluble in water\n(Any one difference)"
+      "text": "(a)(i) Peptide linkage: a linkage that joins amino acids through a $-CO{-}NH-$ bond.\n(ii) When a protein in its native form is subjected to a physical change (temperature) or a chemical change (pH), it loses its biological activity (denaturation).\n(b) Due to zwitterion formation, which can react with both acids and bases (because of the presence of both a carboxylic and an amino group).\n(c)(i) Fibrous protein: parallel polypeptide-chain structure / insoluble in water. Globular protein: spherical polypeptide-chain structure / soluble in water (any one difference).\nOR (c)(ii) The two common secondary structures of proteins are the $\\alpha$-helix and the $\\beta$-pleated sheet."
      }
     },
     {
@@ -18695,7 +18778,7 @@
      "difficulty": "Average",
      "topic": "Nucleic Acids",
      "answer": {
-      "text": "Because the hydrogen bonds are formed between specific pairs of bases\n2-deoxyribose sugar , base and phosphoric acid\n4 | P a g e"
+      "text": "(a) Because the hydrogen bonds are formed only between specific pairs of bases (A with T, and C with G) — this gives complementary base pairing.\n(b) A nucleotide (of DNA) consists of a 2-deoxyribose sugar, a nitrogenous base and phosphoric acid."
      }
     },
     {
@@ -18715,7 +18798,7 @@
      "difficulty": "Easy",
      "topic": "Carbohydrates",
      "answer": {
-      "text": "a)\nb)\n6 | P a g e\nc)"
+      "text": "(a) Glucose + HCN forms the cyanohydrin: $CH_2OH{-}(CHOH)_4{-}CHO \\xrightarrow{HCN} CH_2OH{-}(CHOH)_4{-}CH(OH)(CN)$.\n(b) Glucose + bromine water gives gluconic acid: $CH_2OH{-}(CHOH)_4{-}CHO \\xrightarrow{Br_2\\ \\text{water}} CH_2OH{-}(CHOH)_4{-}COOH$.\n(c) Glucose + acetic anhydride gives glucose pentaacetate (confirming five $-OH$ groups)."
      }
     },
     {
