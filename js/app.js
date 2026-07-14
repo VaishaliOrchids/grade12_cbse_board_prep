@@ -1016,6 +1016,16 @@
     var kind = h1 ? h1.textContent : "";
     return subTxt + (kind ? "  —  " + kind : "");
   }
+  // Un-lazy every image in a subtree so it loads even while rendered off-screen
+  // (the print source and paginator .pp-root sit at left:-99999px, where a
+  // loading="lazy" image never enters the viewport and would print blank).
+  function eagerImages(scope) {
+    if (!scope) return;
+    Array.prototype.forEach.call(scope.querySelectorAll("img"), function (im) {
+      if (im.getAttribute("loading") === "lazy") im.setAttribute("loading", "eager");
+      if (!im.complete) { var s = im.getAttribute("src"); if (s) im.setAttribute("src", s); } // kick off the fetch now
+    });
+  }
   // Break a question body (.qbody) into ordered print "atoms" so a long question can
   // flow across pages like a board paper — each atom is kept whole; the paginator
   // fills the current page, then continues the next atom on the following page.
@@ -1138,6 +1148,7 @@
         // grow), start the next block on a fresh page so it can't pile on top.
         if (prevOverflowed) { cur = addPage(false, headText, isTest); prevOverflowed = false; }
         var clone = block.cloneNode(true);
+        eagerImages(clone);                                 // cloned <img>s are lazy; load them so heights measure and pages render
         cur.body.appendChild(clone);
         if (!wouldOverflow()) return;                       // fits on the current page as-is
         // Board-paper flow: a standalone question (case study or ordinary) fills the
@@ -1254,18 +1265,30 @@
     wrap.style.cssText = "position:absolute;left:-99999px;top:0;width:210mm";
     wrap.innerHTML = htmlList.join("");
     host.appendChild(wrap);
+    // Figures are lazy-loaded in the on-screen views, but the print source (and the
+    // paginator's .pp-root) live off-screen at left:-99999px, where a lazy <img>
+    // never enters the viewport and so never loads — it would print BLANK. Force
+    // every image in the print pipeline to load eagerly.
+    eagerImages(wrap);
     var sheets = Array.prototype.slice.call(wrap.querySelectorAll(".ws-sheet"));
     function go() {
       var old = document.title; document.title = fname;
       var cleanup = paginateForPrint(sheets);
-      window.print();
-      setTimeout(function () { cleanup(); document.title = old; if (wrap.parentNode) wrap.parentNode.removeChild(wrap); }, 800);
+      // Wait for the images in the ACTUAL printed pages (the .pp-root clones) to
+      // finish loading before printing, so no diagram comes out blank.
+      var root = document.querySelector(".pp-root");
+      whenImagesReady(function () {
+        window.print();
+        setTimeout(function () { cleanup(); document.title = old; if (wrap.parentNode) wrap.parentNode.removeChild(wrap); }, 800);
+      }, root || wrap);
     }
     // Figures must be fully loaded before we measure heights for pagination —
     // an unloaded <img> reports height 0, so a block would be under-measured, fit
     // on a page, then grow once the image paints and bleed onto the next page.
-    function whenImagesReady(cb) {
-      var imgs = Array.prototype.slice.call(wrap.querySelectorAll("img"))
+    function whenImagesReady(cb, scope) {
+      scope = scope || wrap;
+      eagerImages(scope);
+      var imgs = Array.prototype.slice.call(scope.querySelectorAll("img"))
         .filter(function (im) { return !im.complete || !im.naturalHeight; });
       if (!imgs.length) return cb();
       var left = imgs.length, done = false;
