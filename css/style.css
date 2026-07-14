@@ -342,6 +342,9 @@ table.qtable th { background: #f3f4f6; }
    question layout (below) so measurement == print. ---------- */
 .pp-root { position: absolute; left: -99999px; top: 0; width: 210mm; }
 .pp-page { width: 210mm; height: 297mm; padding: 20mm 15mm; box-sizing: border-box; background: #fff; display: flex; flex-direction: column; }
+/* A block taller than one page gets a growable page (measured at fixed height,
+   then allowed to expand) so it flows across sheets instead of bleeding over. */
+.pp-page.pp-tall { height: auto; min-height: 297mm; }
 .pp-head { flex: none; min-height: 0; font-size: 12px; font-weight: 600; color: #334155; padding-bottom: 8px; margin-bottom: 10px; border-bottom: 1px solid #e5e7eb; }
 .pp-page.pp-first .pp-head { display: none; }
 .pp-body { flex: 1 1 auto; min-height: 0; overflow: visible; }
@@ -487,6 +490,9 @@ table.qtable th { background: #f3f4f6; }
   body.pp-active #app { display: none !important; }
   .pp-root { position: static; left: auto; }
   .pp-page { break-after: page; break-inside: avoid; }
+  /* Oversized blocks: let the page grow and break across sheets in normal flow
+     (no fixed height to overflow), so nothing bleeds onto the following page. */
+  .pp-page.pp-tall { height: auto; min-height: 297mm; break-inside: auto; }
   .pp-page:last-child { break-after: auto; }
   .topbar, .sidebar, .footer, .toolbar-print-hide, .bp-panel, .bp-actions, .bp-view, .bp-head, .bp-warn { display: none !important; }
   .layout, .bp-wrap { display: block; }

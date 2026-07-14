@@ -1028,7 +1028,7 @@
       var ft = document.createElement("div"); ft.className = "pp-foot";
       pg.appendChild(hd); pg.appendChild(bd); pg.appendChild(ft);
       root.appendChild(pg);
-      var rec = { body: bd, foot: ft };
+      var rec = { body: bd, foot: ft, page: pg };
       pages.push(rec);
       return rec;
     }
@@ -1039,15 +1039,38 @@
       var isTest = /^ws-test-/.test(sheet.id || "");
       var headText = ppTitleOf(sheet);
       var cur = addPage(true, headText, isTest);
+      var prevOverflowed = false;
+      // The body is a flex child that fills the page, so scrollHeight is clamped to
+      // the page height and can't tell us how FULL a page is. Measure the real
+      // content extent instead: the bottom edge of the last block relative to the
+      // body top (this includes the margins BETWEEN blocks, which per-block heights
+      // miss). SAFE reserves a few px so rounding never bleeds onto the next sheet.
+      var SAFE = 18;
+      function fillBottom() {
+        var last = cur.body.lastElementChild;
+        if (!last) return 0;
+        return last.getBoundingClientRect().bottom - cur.body.getBoundingClientRect().top;
+      }
+      function wouldOverflow() { return fillBottom() > cur.body.clientHeight - SAFE; }
+      function exceedsFullPage() { return fillBottom() > cur.body.clientHeight + 2; }
       Array.prototype.slice.call(cell.children).forEach(function (block) {
+        // If the previous block was taller than a page (its page was allowed to
+        // grow), start the next block on a fresh page so it can't pile on top.
+        if (prevOverflowed) { cur = addPage(false, headText, isTest); prevOverflowed = false; }
         var clone = block.cloneNode(true);
         cur.body.appendChild(clone);
-        // overflow? move this block to a fresh continuation page (never leave a
-        // page empty — a block taller than a page stays on its own page).
-        if (cur.body.scrollHeight > cur.body.clientHeight + 2 && cur.body.children.length > 1) {
-          cur.body.removeChild(clone);
-          cur = addPage(false, headText, isTest);
-          cur.body.appendChild(clone);
+        if (wouldOverflow()) {
+          if (cur.body.children.length > 1) {
+            // move this block to a fresh continuation page of its own
+            cur.body.removeChild(clone);
+            cur = addPage(false, headText, isTest);
+            cur.body.appendChild(clone);
+          }
+          // A block taller than a WHOLE page can't be split further here. Let its
+          // page GROW (pp-tall: height:auto + break-inside:auto) so the browser
+          // paginates it across sheets in normal flow — instead of overflowing a
+          // fixed-height page and bleeding onto (overwriting) the next one.
+          if (exceedsFullPage()) { cur.page.classList.add("pp-tall"); prevOverflowed = true; }
         }
       });
     });
@@ -1148,8 +1171,21 @@
       window.print();
       setTimeout(function () { cleanup(); document.title = old; if (wrap.parentNode) wrap.parentNode.removeChild(wrap); }, 800);
     }
-    if (window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([wrap]).then(go).catch(go);
-    else setTimeout(go, 30);
+    // Figures must be fully loaded before we measure heights for pagination —
+    // an unloaded <img> reports height 0, so a block would be under-measured, fit
+    // on a page, then grow once the image paints and bleed onto the next page.
+    function whenImagesReady(cb) {
+      var imgs = Array.prototype.slice.call(wrap.querySelectorAll("img"))
+        .filter(function (im) { return !im.complete || !im.naturalHeight; });
+      if (!imgs.length) return cb();
+      var left = imgs.length, done = false;
+      function one() { if (!done && --left <= 0) { done = true; cb(); } }
+      imgs.forEach(function (im) { im.addEventListener("load", one); im.addEventListener("error", one); });
+      setTimeout(function () { if (!done) { done = true; cb(); } }, 2000); // safety cap
+    }
+    function afterMath() { whenImagesReady(go); }
+    if (window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([wrap]).then(afterMath).catch(afterMath);
+    else setTimeout(afterMath, 30);
   }
 
   function renderWorksheetResult(st) {
