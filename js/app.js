@@ -1317,7 +1317,16 @@
       });
       setTimeout(function () { if (!done) { done = true; cb(); } }, 10000); // generous fallback only
     }
-    function afterMath() { whenImagesReady(go); }
+    // Bake any re-crops into the print source deterministically BEFORE pagination —
+    // don't rely on the background MutationObserver's debounced applyStoredCrops
+    // (that's a race: whichever school's pipeline ran before the 60ms timer fired
+    // printed the un-cropped figure, so crops appeared for one school but not the
+    // other). applyStoredCrops swaps every img[data-fig] in the document, wrap included.
+    function afterMath() {
+      var cropsReady = (typeof applyStoredCrops === "function" && Object.keys(CROPS).length)
+        ? applyStoredCrops() : Promise.resolve();
+      cropsReady.then(function () { whenImagesReady(go); }, function () { whenImagesReady(go); });
+    }
     if (window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([wrap]).then(afterMath).catch(afterMath);
     else setTimeout(afterMath, 30);
   }
