@@ -1027,6 +1027,20 @@
       if (im.getAttribute("loading") === "lazy") im.setAttribute("loading", "eager");
     });
   }
+  // Stamp each decoded image's intrinsic width/height as HTML attributes so the
+  // browser reserves its aspect-ratio-correct height BEFORE the bitmap paints. This
+  // makes pagination deterministic: page heights no longer depend on whether an
+  // image happened to be decoded at the instant we measured (which made the same
+  // worksheet paginate to a different number of pages depending on cache warmth).
+  function stampIntrinsicSizes(scope) {
+    if (!scope) return;
+    Array.prototype.forEach.call(scope.querySelectorAll("img"), function (im) {
+      if (im.naturalWidth > 0 && im.naturalHeight > 0 && !im.hasAttribute("height")) {
+        im.setAttribute("width", im.naturalWidth);
+        im.setAttribute("height", im.naturalHeight);
+      }
+    });
+  }
   // Break a question body (.qbody) into ordered print "atoms" so a long question can
   // flow across pages like a board paper — each atom is kept whole; the paginator
   // fills the current page, then continues the next atom on the following page.
@@ -1274,6 +1288,7 @@
     var sheets = Array.prototype.slice.call(wrap.querySelectorAll(".ws-sheet"));
     function go() {
       var old = document.title; document.title = fname;
+      stampIntrinsicSizes(wrap);   // freeze image aspect ratios so pagination is deterministic (cache-independent)
       var cleanup = paginateForPrint(sheets);
       // Wait for the images in the ACTUAL printed pages (the .pp-root clones) to
       // finish loading before printing, so no diagram comes out blank.
