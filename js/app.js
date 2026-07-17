@@ -264,6 +264,11 @@
     }).join("");
     return '<table class="qtable">' + (t.caption ? '<caption>' + mathHTML(t.caption) + "</caption>" : "") + h + rows + "</table>";
   }
+  // Text that belongs AFTER a table (e.g. a Balance Sheet followed by the
+  // adjustments / "prepare ..." instructions in Accountancy questions).
+  function afterHTML(t) {
+    return t ? '<p class="q-after">' + mathHTML(t) + "</p>" : "";
+  }
   // An answer may carry no table, one table object, or a list of tables
   // (e.g. two Punnett squares for a genetic cross), each optionally captioned.
   function ansTablesHTML(t) {
@@ -302,12 +307,12 @@
     }
     var body =
       "<div class=\"qbody\"><p>" + mathHTML(q.text) + "</p>" +
-      tableHTML(q.table) + figHTML(q.figures) +
+      tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after) +
       arHTML(q) + optionsHTML(q.options);
     if (q.or) {
       body += '<div class="or-block"><span class="or-tag">OR</span>' +
         "<p>" + mathHTML(q.or.text) + "</p>" + tableHTML(q.or.table) +
-        figHTML(q.or.figures) + optionsHTML(q.or.options) + "</div>";
+        figHTML(q.or.figures) + afterHTML(q.or.text_after) + optionsHTML(q.or.options) + "</div>";
     }
     body += "</div>";
     var appeared = q.papers.length > 1
@@ -785,8 +790,8 @@
   function bpQuestionHTML(q, opts) {
     if (!q) return '<div class="bp-noq">Not enough questions — this slot has no matching board question in the bank. Choose your own.</div>';
     if (q.type === "Case-based" || q.type === "Case Study") return caseHTML(q);
-    var h = '<div class="qbody"><p>' + mathHTML(q.text, opts) + "</p>" + tableHTML(q.table) + figHTML(q.figures) + arHTML(q) + optionsHTML(q.options);
-    if (q.or) h += '<div class="or-block"><span class="or-tag">OR</span><p>' + mathHTML(q.or.text, opts) + "</p>" + tableHTML(q.or.table) + figHTML(q.or.figures) + optionsHTML(q.or.options) + "</div>";
+    var h = '<div class="qbody"><p>' + mathHTML(q.text, opts) + "</p>" + tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after) + arHTML(q) + optionsHTML(q.options);
+    if (q.or) h += '<div class="or-block"><span class="or-tag">OR</span><p>' + mathHTML(q.or.text, opts) + "</p>" + tableHTML(q.or.table) + figHTML(q.or.figures) + afterHTML(q.or.text_after) + optionsHTML(q.or.options) + "</div>";
     return h + "</div>";
   }
 

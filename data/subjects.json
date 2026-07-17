@@ -31,6 +31,14 @@
    "klass": "XII",
    "data": "data/biology.json",
    "description": "CBSE Class 12 Biology board exam questions, 2023–2026, organised by NCERT chapter."
+  },
+  {
+   "id": "accountancy",
+   "name": "Accountancy",
+   "code": "055",
+   "klass": "XII",
+   "data": "data/accountancy.json",
+   "description": "CBSE Class 12 Accountancy board exam questions, 2023–2026, organised by NCERT chapter."
   }
  ]
 }
