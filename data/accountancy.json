@@ -5,7 +5,7 @@
  "years": [
   2023
  ],
- "total_questions": 137,
+ "total_questions": 183,
  "chapter_order": [
   "Accounting for Partnership Firms — Fundamentals",
   "Reconstitution of a Partnership Firm — Change in Profit Sharing Ratio",
@@ -23,7 +23,7 @@
  "chapters": [
   {
    "chapter": "Accounting for Partnership Firms — Fundamentals",
-   "count": 23,
+   "count": 31,
    "questions": [
     {
      "qno": 1,
@@ -493,13 +493,165 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Vijay and Ajay are partners in a firm. The partnership agreement provides for interest on drawings @ 12% per annum. Which of the following account will be debited to transfer interest on drawings to Profit and Loss Appropriation A/c ?",
+     "options": [
+      "Interest on Drawings Account",
+      "Bank Account",
+      "Partners' Current Account",
+      "Partners' Capital Account"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On 1st October 2020, Amit, a partner, advanced a loan of ₹ 1,20,000 to the firm. In the absence of partnership deed, the amount of interest on loan to be paid on 31st March, 2021 will be :",
+     "options": [
+      "₹ 3,600",
+      "₹ 7,200",
+      "₹ 12,000",
+      "₹ 6,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Vijay, Ajay and Sanjay are partners in a firm sharing profits and losses in the ratio of 7 : 5 : 8. Sanjay died on 28th August, 2021. His share in the profits of the firm till the date of his death was determined at ₹ 75,000. It will be debited to which of the following accounts ?",
+     "options": [
+      "Profit and Loss Suspense Account",
+      "Profit and Loss Account",
+      "Profit and Loss Appropriation Account",
+      "Profit and Loss Adjustment Account"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "4-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 13,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Keshav, Krishna and Murari were in partnership sharing profits and losses in the ratio of 3 : 2 : 1. Their fixed capitals were : ₹ 12,00,000, ₹ 10,00,000 and ₹ 8,00,000 respectively. It was agreed that interest on capital will be allowed at 10% per annum. Partners were entitled to salaries as follows : Keshav ₹ 5,000 per month and Krishna ₹ 3,000 per quarter. Profit of the firm for the year ended 31st March, 2022 was ₹ 6,72,000. Amount credited to the Partners' Current Accounts on account of 'interest on capital' and 'salary' was :",
+     "options": [
+      "Keshav ₹ 1,20,000, Krishna ₹ 1,00,000 and Murari ₹ 80,000",
+      "Keshav ₹ 1,80,000, Krishna ₹ 1,12,000 and Murari ₹ 80,000",
+      "Keshav ₹ 60,000, Krishna ₹ 12,000 and Murari ₹ Nil",
+      "Keshav ₹ 3,30,000, Krishna ₹ 2,12,000 and Murari ₹ 1,30,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Keshav, Krishna and Murari were in partnership sharing profits and losses in the ratio of 3 : 2 : 1. Their fixed capitals were : ₹ 12,00,000, ₹ 10,00,000 and ₹ 8,00,000 respectively. It was agreed that interest on capital will be allowed at 10% per annum. Partners were entitled to salaries as follows : Keshav ₹ 5,000 per month and Krishna ₹ 3,000 per quarter. Profit of the firm for the year ended 31st March, 2022 was ₹ 6,72,000. Amount of profit transferred to Partners' Current Accounts was :",
+     "options": [
+      "Keshav ₹ 1,00,000, Krishna ₹ 1,50,000 and Murari ₹ 50,000",
+      "Keshav ₹ 50,000, Krishna ₹ 1,50,000 and Murari ₹ 1,00,000",
+      "Keshav ₹ 1,50,000, Krishna ₹ 1,00,000 and Murari ₹ 50,000",
+      "Keshav ₹ 1,51,500, Krishna ₹ 1,01,000 and Murari ₹ 50,500"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Monika, Bhoomika and Kamolika are partners sharing profits in the ratio of 6 : 4 : 1. Kamolika is guaranteed a minimum amount of ₹ 3,00,000 as her share in profits. The firm earned a net profit of ₹ 22,00,000 for the year ended 31st March 2022. Prepare Profit and Loss Appropriation Account of the firm for the year ended 31st March, 2022.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Ananya, Bhavi and Chandni were partners in a firm with capitals of ₹ 3,00,000, ₹ 2,00,000 and ₹ 1,00,000 respectively. According to the provisions of the partnership deed : (i) Ananya and Chandni were each entitled to a monthly salary of ₹ 1,500. (ii) Bhavi was entitled to a salary of ₹ 4,000 per annum. The profit for the year ended 31st March, 2022, ₹ 80,000 was divided between the partners in their profit sharing ratio of 3 : 3 : 2 without providing for the above adjustments. Pass the necessary adjustment entry to rectify the above omissions in the books of the firm. Show your working notes clearly.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "18-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Accounting for Partnership Firms — Fundamentals",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "A, B and C were partners in a firm sharing profits and losses equally. Their respective capitals were ₹ 10,00,000, ₹ 9,00,000 and ₹ 8,00,000. The partnership deed provided for the following : (1) Interest on capital @ 9% per annum. (2) Interest on drawings @ 12% per annum. (3) Interest on partners loan to the firm @ 10% per annum. During the year, B had withdrawn ₹ 20,000 for his personal use. On 30.9.2021, A had given a loan of ₹ 70,000 to the firm. Pass the necessary journal entries in the books of the firm for the following for the year ended 31st March, 2022 : (i) Allowing interest on C's Capital. (ii) Providing interest on A's Loan. (iii) Charging interest on B's Drawings. Also give transfer entries in the Profit and Loss Account/Profit and Loss Appropriation Account, as the case may be.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Reconstitution of a Partnership Firm — Change in Profit Sharing Ratio",
-   "count": 4,
+   "count": 6,
    "questions": [
     {
      "qno": 17,
@@ -566,13 +718,56 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Reconstitution of a Partnership Firm — Change in Profit Sharing Ratio",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Ria and Surbhi were partners in a firm sharing profits and losses in the ratio of 3 : 2. With effect from 1st April, 2022, they agreed to share profits equally. The goodwill of the firm was valued at ₹ 3,00,000. The adjustment will be done by which of the following transaction ?",
+     "options": [
+      "Debiting Surbhi's account by ₹ 30,000 and crediting Ria's account by ₹ 30,000.",
+      "Debiting Ria's account by ₹ 30,000 and crediting Surbhi's account by ₹ 30,000.",
+      "Debiting Surbhi's account by ₹ 3,000 and crediting Ria's account by ₹ 3,000.",
+      "Debiting Ria's account by ₹ 3,000 and crediting Surbhi's account by ₹ 3,000."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Reconstitution of a Partnership Firm — Change in Profit Sharing Ratio",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Naman, Suman and Mohit were partners in a firm sharing profits in the ratio 8 : 5 : 3. With effect from 1st April, 2022, they decided that in future, they will share the profits in the ratio 5 : 6 : 5. Identify the gain or sacrifice by the partners due to change in profit sharing ratio, from the following :",
+     "options": [
+      "Naman's gain $\\frac{3}{16}$, Suman's sacrifice $\\frac{1}{16}$, Mohit's sacrifice $\\frac{2}{16}$",
+      "Naman's sacrifice $\\frac{3}{16}$, Suman's gain $\\frac{1}{16}$, Mohit's gain $\\frac{2}{16}$",
+      "Naman's sacrifice $\\frac{3}{16}$, Suman's gain $\\frac{2}{16}$, Mohit's gain $\\frac{1}{16}$",
+      "Naman's gain $\\frac{3}{16}$, Suman's sacrifice $\\frac{2}{16}$, Mohit's sacrifice $\\frac{1}{16}$"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "9-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
-   "count": 19,
+   "count": 25,
    "questions": [
     {
      "qno": 10,
@@ -1232,13 +1427,214 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Select the correct alternative from the following :",
+     "assertion": "Increase in the value of liabilities on reconstitution of a firm is debited to Revaluation Account.",
+     "reason": "Increase in the value of liabilities is a loss.",
+     "ar_options": [
+      "Assertion (A) is correct, but Reason (R) is wrong.",
+      "Assertion (A) is wrong, but Reason (R) is correct.",
+      "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are wrong."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The goodwill of a firm was valued on the basis of 3 years purchase of average profits for the last four years. The profits of last four years ending 31st March were as follows : 2018–19 (14,500); 2019–20 15,400; 2020–21 32,900; 2021–22 16,800. The value of goodwill of the firm was :",
+     "options": [
+      "₹ 8,885",
+      "₹ 37,950",
+      "₹ 58,950",
+      "₹ 20,690"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Niva, Naman and Nityam were partners sharing profits in the ratio of 4 : 3 : 2. Niva and Naman each give $\\frac{1}{9}$ from their share to Nityam on reconstitution of the firm. The new profit sharing ratio among Niva, Naman and Nityam will be :",
+     "options": [
+      "3 : 4 : 2",
+      "2 : 3 : 4",
+      "4 : 2 : 3",
+      "3 : 2 : 4"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Rohit and Mohit were partners in a firm sharing profits and losses in the ratio of 3 : 2. Rahul was admitted into partnership for $\\frac{1}{3}$ share in profits. Goodwill of the firm was valued at ₹ 30,000. Rahul brought ₹ 40,000 as capital and ₹ 5,000 out of his share of goodwill premium in cash. At the time of Rahul's admission, goodwill was appearing in the books of the firm at ₹ 15,000. Pass necessary journal entries for the above transactions in the books of the firm on Rahul's admission.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Bhumi and Chavi were partners in a firm sharing profits and losses in the ratio of 5 : 3. They admitted Aditi in the firm on 1st April, 2022. On that date their Balance Sheet was as follows :",
+     "table": {
+      "caption": "Balance Sheet of Bhumi and Chavi as at 1st April, 2022",
+      "headers": [
+       "Liabilities",
+       "Amount (₹)",
+       "Assets",
+       "Amount (₹)"
+      ],
+      "rows": [
+       [
+        "Capitals : Bhumi 3,20,000; Chavi 3,40,000",
+        "6,60,000",
+        "Machinery",
+        "3,80,000"
+       ],
+       [
+        "General Reserve",
+        "80,000",
+        "Furniture",
+        "50,000"
+       ],
+       [
+        "Bank loan",
+        "60,000",
+        "Debtors",
+        "2,30,000"
+       ],
+       [
+        "Creditors",
+        "60,000",
+        "Stock",
+        "1,50,000"
+       ],
+       [
+        "",
+        "",
+        "Cash",
+        "50,000"
+       ],
+       [
+        "",
+        "8,60,000",
+        "",
+        "8,60,000"
+       ]
+      ]
+     },
+     "text_after": "Aditi was admitted in the firm with $\\frac{1}{3}$ share in profits on the following terms : (i) Aditi will bring ₹ 3,00,000 as her capital. (ii) Aditi will bring her share of goodwill premium in cash. Goodwill of the firm was valued on the basis of two years purchase of average profits of the last three years. Average profits of the last three years were ₹ 60,000. (iii) Machinery was revalued at ₹ 4,60,000. (iv) The capitals of Bhumi and Chavi were adjusted on the basis of Aditi's capital by opening current accounts. Prepare Revaluation Account and Partners' Capital Accounts.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Reconstitution of a Partnership Firm — Admission of a Partner",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Anna, Bina and Teena were partners sharing profits and losses in the ratio of 5 : 3 : 2. Their Balance Sheet on 31st March, 2022 was as follows :",
+     "table": {
+      "caption": "Balance Sheet of Anna, Bina and Teena as at 31st March, 2022",
+      "headers": [
+       "Liabilities",
+       "Amount (₹)",
+       "Assets",
+       "Amount (₹)"
+      ],
+      "rows": [
+       [
+        "Creditors",
+        "66,000",
+        "Furniture",
+        "1,12,000"
+       ],
+       [
+        "Bills Payable",
+        "59,000",
+        "Stock",
+        "1,77,000"
+       ],
+       [
+        "Capitals : Anna 2,00,000; Bina 2,00,000; Teena 1,00,000",
+        "5,00,000",
+        "Debtors 2,80,000; Less – provision for bad debts 7,000",
+        "2,73,000"
+       ],
+       [
+        "",
+        "",
+        "Cash",
+        "63,000"
+       ],
+       [
+        "",
+        "6,25,000",
+        "",
+        "6,25,000"
+       ]
+      ]
+     },
+     "text_after": "On the above date, Anna retired on the following terms : (i) Goodwill of the firm was valued at ₹ 60,000 and Anna's share of goodwill was adjusted through the capital accounts of remaining partners. (ii) Furniture was depreciated by ₹ 10,000. (iii) Anna was to be paid through cash brought in by Bina and Teena in such a way as to make their capitals proportionate to their new profit sharing ratio of 1 : 1. Prepare Revaluation and Partners' Capital Accounts.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Reconstitution of a Partnership Firm — Retirement/Death of a Partner",
-   "count": 11,
+   "count": 14,
    "questions": [
     {
      "qno": 8,
@@ -1573,13 +1969,125 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Reconstitution of a Partnership Firm — Retirement/Death of a Partner",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Anu, Monu and Sonu were partners in a firm sharing profits in the ratio of 5 : 3 : 2. Monu died on 1st January, 2022. Anu and Sonu will acquire Monu's share in the ratio of :",
+     "options": [
+      "1 : 1",
+      "3 : 2",
+      "5 : 3",
+      "5 : 2"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Reconstitution of a Partnership Firm — Retirement/Death of a Partner",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Vidit, Sumit and Mita were partners in a firm sharing profits in the ratio of 4 : 3 : 1. Mita died and her entire share was taken up by Vidit. The new profit sharing ratio of Vidit and Sumit will be :",
+     "options": [
+      "1 : 1",
+      "5 : 3",
+      "3 : 5",
+      "5 : 2"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Reconstitution of a Partnership Firm — Retirement/Death of a Partner",
+     "type": "Long Answer",
+     "marks": 4,
+     "text": "Prakash, Aakash and Vikas were partners in a business sharing profits in the ratio of 2 : 2 : 1. Their Balance Sheet as at 31st March, 2022 was as follows:",
+     "table": {
+      "caption": "Balance Sheet of Prakash, Aakash and Vikas as at 31st March, 2022",
+      "headers": [
+       "Liabilities",
+       "Amount (₹)",
+       "Assets",
+       "Amount (₹)"
+      ],
+      "rows": [
+       [
+        "Creditors",
+        "2,00,000",
+        "Bank",
+        "40,000"
+       ],
+       [
+        "General Reserve",
+        "1,00,000",
+        "Stock",
+        "60,000"
+       ],
+       [
+        "Capitals : Prakash 1,20,000; Aakash 2,00,000; Vikas 80,000",
+        "4,00,000",
+        "Debtors",
+        "1,60,000"
+       ],
+       [
+        "",
+        "",
+        "Investments",
+        "1,40,000"
+       ],
+       [
+        "",
+        "",
+        "Furniture",
+        "70,000"
+       ],
+       [
+        "",
+        "",
+        "Building",
+        "2,30,000"
+       ],
+       [
+        "",
+        "7,00,000",
+        "",
+        "7,00,000"
+       ]
+      ]
+     },
+     "text_after": "Vikas died on 30th September, 2022. On the death of a partner the partnership deed provided for the following : (i) Deceased partner will be entitled to his share of profit up to the date of death calculated on the basis of previous year's profit. (ii) His share in the Goodwill of the firm, calculated on the basis of 3 years purchase of average profits of last four years. Profits for last four years ended 31st March were as follows : 2018–19, ₹ 1,60,000; 2019–20, ₹ 1,00,000; 2020–21, ₹ 80,000 and 2021–22, ₹ 60,000. (iii) Drawings of the deceased partner up to the date of death were ₹ 20,000. (iv) Interest on capital was allowed @ 12% per annum. Prepare Vikas's Capital account to be rendered to his executors.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Dissolution of Partnership Firm",
-   "count": 7,
+   "count": 10,
    "questions": [
     {
      "qno": 15,
@@ -1806,13 +2314,70 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Dissolution of Partnership Firm",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On dissolution of the firm of Ramesh, Suresh and Naresh, Naresh had agreed to bear all realisation expenses for which he was paid ₹ 14,500. Actual expenses on realisation amounted to ₹ 11,000 which were paid by Naresh. The amount to be credited to Naresh's capital account will be :",
+     "options": [
+      "₹ 11,000",
+      "₹ 3,500",
+      "₹ 14,500",
+      "₹ 25,500"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Dissolution of Partnership Firm",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On dissolution of a partnership firm, furniture appearing in the Balance Sheet was ₹ 2,00,000. 50% of the furniture was taken over by a partner at ₹ 65,000 and balance 50% was sold at 20% less than the book value. The amount debited to bank account was :",
+     "options": [
+      "₹ 1,45,000",
+      "₹ 80,000",
+      "₹ 65,000",
+      "₹ 1,85,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Dissolution of Partnership Firm",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Pass the necessary journal entries for the following transactions on dissolution of the firm of Varun and Vivek after various assets (other than cash) and outside liabilities were transferred to Realisation Account : (i) Varun paid creditors ₹ 18,500 in full settlement of their claim of ₹ 20,000. (ii) Vivek agreed to pay his wife's loan of ₹ 70,000. (iii) The firm had unrecorded investments of ₹ 2,00,000, which were sold at a loss of 20%. (iv) The firm had stock of ₹ 1,00,000. Varun took over the stock at a discount of 10%. (v) Reema, a debtor whose account for ₹ 2,000 was written off as a bad debt in the previous year, paid 70% of the amount. (vi) Expenses of realisation ₹ 4,900 were paid by partner, Vivek.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Accounting for Share Capital",
-   "count": 27,
+   "count": 34,
    "questions": [
     {
      "qno": 3,
@@ -2323,13 +2888,144 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "Accounting for Share Capital",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Manmohan Ltd. invited applications for issuing 50,000 equity shares of ₹ 10 each at par. The amount payable per share was as follows : On application ₹ 3; on allotment ₹ 4 and on first and final call ₹ 3. Applications were received for 1,45,000 equity shares. Applications for 20,000 equity shares were rejected and remaining applicants were allotted shares on a pro-rata basis. Excess application money received with application was adjusted towards sums due on allotment and first and final call. Amount credited to calls-in-advance account was :",
+     "options": [
+      "₹ 2,25,000",
+      "₹ 25,000",
+      "₹ 1,75,000",
+      "Nil"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Accounting for Share Capital",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statement is correct regarding subscribed capital ?",
+     "options": [
+      "It is the amount of share capital which a company is authorised to issue by its Memorandum of Association.",
+      "It is that part of authorised capital which is actually issued to the public for subscription.",
+      "It is that part of the issued capital which has been actually subscribed by the public.",
+      "It is that part of the called-up capital which has been actually received from shareholders."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "3-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 8,
+     "chapter": "Accounting for Share Capital",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Part of the uncalled share capital that can be called up only at the time of winding up of the company is called :",
+     "options": [
+      "Issued capital",
+      "Paid-up capital",
+      "Reserve capital",
+      "Un-issued capital"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Accounting for Share Capital",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Chavi Ltd. forfeited 5,000 equity shares of ₹ 10 each issued at a premium of ₹ 5 per share for non-payment of first and final call of ₹ 4 per share. On forfeiture, 'Share Forfeiture Account' will be credited by :",
+     "options": [
+      "₹ 20,000",
+      "₹ 30,000",
+      "₹ 50,000",
+      "₹ 55,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Accounting for Share Capital",
+     "type": "Long Answer",
+     "marks": 4,
+     "text": "Sunstar Ltd. has an authorised capital of ₹ 20,00,000 divided into equity shares of ₹ 10 each. The company invited applications for issuing 60,000 shares. Applications were received for 58,000 shares. All calls were made and were duly received except the final call of ₹ 3 per share on 2,000 shares. These shares were forfeited. Present the 'Share Capital' in the Balance Sheet of the Company as per Schedule III, Part I of the Companies Act, 2013. Also prepare 'Notes to Accounts' for the same.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Accounting for Share Capital",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Yash Ltd. invited applications for 50,000 equity shares of ₹ 10 each at a premium of 10%. The amount was payable as follows : On application ₹ 3 per share; on allotment (including premium) ₹ 3 per share and on first and final call, the balance amount. Applications were received for 1,20,000 shares and shares were allotted on pro-rata basis to all applicants. The excess money received on application was to be adjusted towards sums due on allotment. Application money in excess of sums due on allotment was refunded. A shareholder who applied for 6,000 shares could not pay the first and final call money and his shares were forfeited. The forfeited shares were reissued for ₹ 60,000 fully paid up. Pass necessary journal entries for the above transactions in the books of Yash Ltd.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Accounting for Share Capital",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Ajanta Ltd. issued a prospectus inviting applications for issuing 5,00,000 equity shares of ₹ 10 each issued at a premium of 10%. The amount was payable as follows : On application – ₹ 3 per share; On allotment (including premium) – ₹ 5 per share; On first and final call – ₹ 3 per share. Applications were received for 6,00,000 shares and pro-rata allotment was made to all applicants. Excess money received on application was adjusted towards sums due on allotment. All amounts were duly received except from Sumit, who was the holder of 1,000 shares, and failed to pay the allotment and first and final call. His shares were forfeited. Pass journal entries for the above transactions in the books of Ajanta Ltd. Open calls-in-arrears account wherever necessary.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Issue and Redemption of Debentures",
-   "count": 13,
+   "count": 19,
    "questions": [
     {
      "qno": 7,
@@ -2570,13 +3266,123 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Issue and Redemption of Debentures",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Anuradha Ltd. issued 2,00,000, 7% debentures of ₹ 100 each at a discount of 5% redeemable at a premium of 5%. Discount on issue and premium on redemption were accounted for through 'Loss on Issue of Debentures Account.' On issue of debentures, 'Loss on Issue of Debentures Account' will be :",
+     "options": [
+      "Credited by ₹ 10,00,000",
+      "Debited by ₹ 10,00,000",
+      "Debited by ₹ 20,00,000",
+      "Credited by ₹ 20,00,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Issue and Redemption of Debentures",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Diksha Ltd. issued 4,000, 9% Debentures of ₹ 100 each at a discount of 10%, redeemable at a premium. 'Discount on Issue of Debentures' and 'Premium on Redemption of Debentures' were accounted for through 'Loss on Issue of Debentures Account'. If the amount of 'Loss on Issue of Debentures Account' was ₹ 60,000, then the amount of premium on redemption was :",
+     "options": [
+      "₹ 60,000",
+      "₹ 40,000",
+      "₹ 20,000",
+      "₹ 80,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "5-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 10,
+     "chapter": "Issue and Redemption of Debentures",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Sujata Ltd. issued 5,000, 7% Debentures of ₹ 100 each at a premium of 10%. According to the terms of issue, 40% of the amount was payable on application and the balance on allotment. The issue was fully subscribed and all amounts were duly received. The amounts received on application and allotment respectively were :",
+     "options": [
+      "₹ 2,50,000 and ₹ 3,00,000",
+      "₹ 2,00,000 and ₹ 3,00,000",
+      "₹ 2,00,000 and ₹ 3,50,000",
+      "₹ 2,00,000 and ₹ 2,50,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Issue and Redemption of Debentures",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "On 1st April, 2021, Hitesh Ltd. took over assets of ₹ 8,00,000 and liabilities of ₹ 40,000 of Pranjal Ltd. at an agreed value of ₹ 8,30,000. Hitesh Ltd. paid the amount to Pranjal Ltd. as follows : (i) Gave an acceptance payable after 3 months for ₹ 2,00,000, and (ii) Issued 10% Debentures of ₹ 100 each at a discount of 10% to Pranjal Ltd. in satisfaction of the balance amount of purchase consideration. Pass the necessary journal entries to record the above transaction in the books of Hitesh Ltd.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Issue and Redemption of Debentures",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Disha Ltd. forfeited 500 shares of ₹ 100 each issued at 10% premium, ₹ 90 called up, on which the shareholders did not pay ₹ 30 per share on allotment (including premium) and first call of ₹ 20 per share. Out of these, 300 shares were reissued for ₹ 80 per share, fully paid up. Pass necessary journal entries for forfeiture and reissue of shares.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "Issue and Redemption of Debentures",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Pass necessary journal entries for issue of 12% debentures in the books of Ghanshyam Ltd. in the following cases : (i) Issued 1,000, 12% debentures of ₹ 100 each at a premium of 10%, redeemable at a premium of 5%. (ii) Issued 5,000, 12% debentures of ₹ 100 each at a premium of 10%, redeemable at par. (iii) Issued 2,000, 12% debentures of ₹ 100 each at a discount of 10%, redeemable at a premium of 5%.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Financial Statements of a Company",
-   "count": 3,
+   "count": 4,
    "questions": [
     {
      "qno": 31,
@@ -2622,13 +3428,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Financial Statements of a Company",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Classify the following items under major heads and sub-heads (if any) in the Balance Sheet of a company as per Schedule III, Part I of the Companies Act, 2013 : (i) Patents (ii) Capital work-in-progress (iii) Unpaid dividend",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Analysis of Financial Statements",
-   "count": 5,
+   "count": 7,
    "questions": [
     {
      "qno": 27,
@@ -2730,13 +3551,56 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Analysis of Financial Statements",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If revenue from operations is ₹ 10,00,000 and gross profit is 25% on cost, cost of revenue from operations will be :",
+     "options": [
+      "₹ 2,50,000",
+      "₹ 12,50,000",
+      "₹ 2,00,000",
+      "₹ 8,50,000"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Analysis of Financial Statements",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If the operating ratio of Aman Ltd. is 60%, its operating profit ratio will be :",
+     "options": [
+      "100%",
+      "60%",
+      "40%",
+      "160%"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Accounting Ratios",
-   "count": 14,
+   "count": 18,
    "questions": [
     {
      "qno": 28,
@@ -2988,13 +3852,80 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 30,
+     "chapter": "Accounting Ratios",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is $\\textbf{\\textit{not}}$ a Solvency Ratio ?",
+     "options": [
+      "Return on Investment",
+      "Interest Coverage Ratio",
+      "Proprietary Ratio",
+      "Total Assets to Debt Ratio"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Accounting Ratios",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "'These ratios are calculated for measuring the efficiency of operations of business based on effective utilisation of resources.' (a) Identify the types of ratios being discussed above. (b) Explain any two ratios of the types of ratios identified in (a) above.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Accounting Ratios",
+     "type": "Long Answer",
+     "marks": 4,
+     "text": "(a) Y Ltd. has a Current Ratio of $3{\\cdot}5$ : 1 and Quick Ratio of 2 : 1. If excess of current assets over quick assets represented by inventory is ₹ 48,000, calculate current assets and current liabilities. (b) Calculate Debt to Equity Ratio : Shareholder Funds ₹ 2,00,000; Reserves and Surplus ₹ 1,00,000; Total Debt ₹ 4,00,000; Current Liabilities ₹ 1,00,000.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Accounting Ratios",
+     "type": "Long Answer",
+     "marks": 4,
+     "text": "The Current Ratio of a company is 2 : 1. State giving reasons which of the following transactions would improve, reduce or not change the ratio : (a) Purchase of goods for cash ₹ 60,000 (b) Purchase of fixed assets for cash ₹ 2,00,000 (c) Sale of goods costing ₹ 20,000 for ₹ 23,000 on credit (d) Issue of shares ₹ 10,00,000",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Cash Flow Statement",
-   "count": 11,
+   "count": 15,
    "questions": [
     {
      "qno": 29,
@@ -3578,6 +4509,217 @@
       {
        "year": 2023,
        "set": "67/3/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Cash Flow Statement",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "While preparing Cash Flow Statement, 'Interest received' by a finance company is classified as :",
+     "options": [
+      "Financing activity",
+      "Operating activity",
+      "Investing activity",
+      "Cash and cash equivalents"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Cash Flow Statement",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following will result in flow of cash ?",
+     "options": [
+      "Cash withdrawn from the bank ₹ 50,000",
+      "₹ 2,00,000, 9% debentures issued to vendors of machinery",
+      "₹ 30,000 received from debtors",
+      "Cheques of ₹ 20,000 deposited in the bank"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Cash Flow Statement",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "An investment normally qualifies as cash equivalent only when it has a short maturity, of say, _____ from the date of acquisition.",
+     "options": [
+      "Three months or more",
+      "Six months or less",
+      "One year or less",
+      "Three months or less"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Cash Flow Statement",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Read the following hypothetical text and answer the given question on this basis : Madhav is a young entrepreneur. On 1st April, 2019, he formed a partnership firm with two of his friends, Mohan and Sohan. They started their business of exporting dry fruits. Their business was a successful business. Now they wanted to expand the business in many other countries. For meeting the financial requirements, they changed the form of business organisation and formed Madhav Ltd. The Balance Sheet of Madhav Ltd. as at 31.3.2022 was as follows :",
+     "table": {
+      "caption": "Balance Sheet of Madhav Ltd. as at 31st March, 2022",
+      "headers": [
+       "Particulars",
+       "Note No.",
+       "31.3.2022 (₹)",
+       "31.3.2021 (₹)"
+      ],
+      "rows": [
+       [
+        "I – Equity and Liabilities :",
+        "",
+        "",
+        ""
+       ],
+       [
+        "1. Shareholders' Funds",
+        "",
+        "",
+        ""
+       ],
+       [
+        "(a) Share Capital",
+        "",
+        "35,00,000",
+        "25,00,000"
+       ],
+       [
+        "(b) Reserves and Surplus (Statement of P & L)",
+        "",
+        "12,50,000",
+        "10,00,000"
+       ],
+       [
+        "2. Non-Current Liabilities",
+        "",
+        "",
+        ""
+       ],
+       [
+        "Long-term Borrowings (10% Debentures)",
+        "",
+        "12,50,000",
+        "3,50,000"
+       ],
+       [
+        "3. Current Liabilities",
+        "",
+        "",
+        ""
+       ],
+       [
+        "(a) Short-term Borrowings (Bank Overdraft)",
+        "",
+        "50,000",
+        "75,000"
+       ],
+       [
+        "(b) Trade Payables",
+        "",
+        "2,50,000",
+        "1,50,000"
+       ],
+       [
+        "(c) Short-term Provisions",
+        "1",
+        "1,50,000",
+        "75,000"
+       ],
+       [
+        "Total",
+        "",
+        "64,50,000",
+        "41,50,000"
+       ],
+       [
+        "II – Assets :",
+        "",
+        "",
+        ""
+       ],
+       [
+        "1. Non-Current Assets — Fixed Assets",
+        "",
+        "",
+        ""
+       ],
+       [
+        "(a) Tangible Assets",
+        "2",
+        "40,00,000",
+        "22,50,000"
+       ],
+       [
+        "(b) Intangible Assets (Goodwill)",
+        "",
+        "3,50,000",
+        "5,00,000"
+       ],
+       [
+        "2. Current Assets",
+        "",
+        "",
+        ""
+       ],
+       [
+        "(a) Inventories",
+        "",
+        "6,25,000",
+        "5,00,000"
+       ],
+       [
+        "(b) Trade Receivables",
+        "",
+        "12,50,000",
+        "7,50,000"
+       ],
+       [
+        "(c) Cash and Cash Equivalents",
+        "",
+        "2,25,000",
+        "1,50,000"
+       ],
+       [
+        "Total",
+        "",
+        "64,50,000",
+        "41,50,000"
+       ]
+      ]
+     },
+     "text_after": "Notes to Accounts : Note 1 (Short term Provisions — Provision for Tax) : 31.3.2022 ₹ 1,50,000, 31.3.2021 ₹ 75,000. Note 2 (Tangible Assets — Plant and Machinery 31.3.2022 ₹ 44,00,000, 31.3.2021 ₹ 25,00,000; Less Accumulated Depreciation 31.3.2022 (₹ 4,00,000), 31.3.2021 (₹ 2,50,000); net 31.3.2022 ₹ 40,00,000, 31.3.2021 ₹ 22,50,000). Additional Information : (i) A part of the machine costing ₹ 1,25,000 accumulated depreciation thereon being ₹ 50,000 was sold for ₹ 45,000 during the year. (ii) Interest of ₹ 1,25,000 was paid on Debentures. Calculate cash flows from 'Investing activities' and 'Financing activities' of Madhav Ltd. from the information provided above.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "67/4/1",
        "qno": 34
       }
      ],
