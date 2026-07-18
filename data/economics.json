@@ -1,0 +1,1010 @@
+{
+ "subject": "Economics",
+ "code": "030",
+ "klass": "XII",
+ "years": [
+  2023
+ ],
+ "total_questions": 46,
+ "chapter_order": [
+  "National Income and Related Aggregates",
+  "Money and Banking",
+  "Determination of Income and Employment",
+  "Government Budget and the Economy",
+  "Balance of Payments",
+  "Indian Economy on the Eve of Independence",
+  "Indian Economy 1950–1990",
+  "Liberalisation, Privatisation and Globalisation: An Appraisal",
+  "Human Capital Formation in India",
+  "Rural Development",
+  "Employment: Growth, Informalisation and Other Issues",
+  "Infrastructure",
+  "Environment and Sustainable Development",
+  "Comparative Development Experiences of India and its Neighbours"
+ ],
+ "chapters": [
+  {
+   "chapter": "National Income and Related Aggregates",
+   "count": 5,
+   "questions": [
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The difference between National Income at market price and National Income at factor cost is _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "net indirect taxes",
+      "net factor income from abroad",
+      "consumption of fixed capital",
+      "market price"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following represents only the real flow (in a two-sector circular flow between Firms and Households) :",
+     "options": [
+      "Goods and Services (Firms → Households) and Factor payments (Households → Firms)",
+      "Goods and Services (Firms → Households) and Factor services (Households → Firms)",
+      "Factor payments (Firms → Households) and Consumption Expenditure (Households → Firms)",
+      "Goods and Services (Firms → Households) and Consumption Expenditure (Households → Firms)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "2-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Distinguish between ‘Value Addition’ and ‘Final Value of Output’.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Find the Value Added by Firm A, from the following information :",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": [],
+     "table": {
+      "headers": [
+       "S. No.",
+       "Particulars",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Purchase of factor inputs by Firm A",
+        "5"
+       ],
+       [
+        "(ii)",
+        "Purchase of non-factor inputs by Firm A",
+        "2"
+       ],
+       [
+        "(iii)",
+        "Sales by Firm A to other firms in the domestic economy",
+        "10"
+       ],
+       [
+        "(iv)",
+        "Import of raw materials by firm A from rest of the world",
+        "50"
+       ],
+       [
+        "(v)",
+        "Excess of opening stock over closing stock",
+        "3"
+       ]
+      ]
+     }
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) “National Income is always greater than Domestic Income.” Do you agree with the given statement ? Support your answer with a valid reason. (b) “In the estimation of Gross Domestic Product (GDP) using expenditure method, focus lies only on expenditure by the residents of the country.” Do you agree with the given statement ? Give valid reasons for your answer.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Money and Banking",
+   "count": 6,
+   "questions": [
+    {
+     "qno": 1,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Primary deposits are the cash deposits by general public with commercial banks. Statement 2 : Secondary deposits are those deposits which arise on account of credit provided by the commercial banks to the people. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The rate at which commercial banks borrow from the Reserve Bank of India to meet their long term requirements is known as _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Margin requirement",
+      "Bank rate",
+      "Repo rate",
+      "Reverse repo rate"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following news report carefully : “The central bank has imposed fine on Hisar Urban Cooperative Bank Ltd. and Andaman and Nicobar State Cooperative Bank Ltd. for violation of banking norms.” According to the given report, identify the function of the central bank.",
+     "options": [
+      "Issue of currency",
+      "Banker to the public",
+      "Banker to the Government",
+      "Banker’s Bank"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Read the following news published on September 26, 2022 : “The central bank has increased the benchmark lending rate by 140 basis points.” Identify the likely cause and consequences behind this action taken by the Reserve Bank of India.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Explain the ‘Government’s Bank’ function of the central bank.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Using a hypothetical numerical example, explain the effect of rise in Reserve Ratio on credit creation by the commercial banks.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "15-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Determination of Income and Employment",
+   "count": 6,
+   "questions": [
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If the value of investment multiplier $= 4$ and Dissavings $= (-)\\,60$, identify the correct Saving function from the following :",
+     "options": [
+      "$S = (-)\\,60 + 0{\\cdot}25\\,Y$",
+      "$S = (-)\\,60 + 0{\\cdot}75\\,Y$",
+      "$S = (-)\\,60 + 0{\\cdot}20\\,Y$",
+      "$S = (-)\\,60 + 0{\\cdot}60\\,Y$"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "For the given Consumption function, $C = 205 + 0{\\cdot}9\\,Y$, the value of investment multiplier would be _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "$0{\\cdot}09$",
+      "$10{\\cdot}0$",
+      "$0{\\cdot}9$",
+      "$9{\\cdot}0$"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "6-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 7,
+     "chapter": "Determination of Income and Employment",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative given below : Assertion (A) : Before reaching the Break-Even level of income, the value of Average Propensity to Consume (APC) is greater than one. Reason (R) : The Average Propensity to Consume (APC) is the ratio of the total consumption and total income.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following equations is true. (Choose the correct alternative)",
+     "options": [
+      "$MPC + MPS = 0$",
+      "$MPC + MPS = 1$",
+      "$MPC + MPS > 1$",
+      "$MPC + MPS < 1$"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "A situation in which an able bodied person is not willing to work at the existing wage rate, is referred to as _____ situation. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Full employment",
+      "Involuntary unemployment",
+      "Voluntary unemployment",
+      "Disguised unemployment"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Describe the adjustment mechanism, if ex-ante savings are less than ex-ante investments.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Government Budget and the Economy",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) From the information given below (‘Where India gets its money from’ — for every ₹ 1 that the Govt. earns : Corporation tax 21 paise, GST and other taxes 19 paise, Income tax 16 paise, Borrowings and other liabilities 20 paise, Non-tax revenue 9 paise, Excise duties 8 paise, Customs 4 paise, Recovery of loan 3 paise), categorize the items into revenue receipts and capital receipts, stating valid reasons. (ii) Distinguish between Revenue deficit and Fiscal deficit.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) From the following data, calculate the primary deficit : Revenue deficit ₹ 40 crore; Non-debt creating capital receipts ₹ 190 crore; Tax revenue ₹ 125 crore; Capital expenditure ₹ 220 crore; Interest payments ₹ 20 crore. (ii) Elaborate ‘Economic stability’ function of the Government Budget.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "17-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Balance of Payments",
+   "count": 4,
+   "questions": [
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Borrowings by a nation from the World Bank to finance Balance of Payment (BoP) deficit will be recorded in the capital account. Statement 2 : Autonomous transactions are independent of the condition of Balance of Payment (BoP) account. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose that, the Balance of Trade of a nation exhibits a deficit of ₹ 50,000 crore. The import of visible items are five times of the exports of visible items. The value of exports of visible items would be ₹ _____ crore. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "20,000",
+      "10,000",
+      "12,500",
+      "20,300"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Gifts and remittances sent abroad are recorded on the _____ side of the _____ account in Balance of Payment. (Choose the correct alternative to fill up the blanks)",
+     "options": [
+      "credit, capital",
+      "debit, capital",
+      "credit, current",
+      "debit, current"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "8-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 12,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“There exists a positive relation between foreign exchange rate and supply of foreign exchange.” Do you agree with the given statement ? Justify your answer with valid arguments.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Indian Economy on the Eve of Independence",
+   "count": 1,
+   "questions": [
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Commercialization of agriculture under the British rule was responsible for frequent famines between 1875 and 1900. Statement 2 : During British rule, India began to export food grains. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Indian Economy 1950–1990",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 19,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : The purchase of food grains made by the Government on the Minimum Support Price (MSP) is maintained as buffer stock. Statement 2 : Minimum Support Price safeguards the farmers against any sharp fall in farm product prices. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement from the following :",
+     "options": [
+      "Import substitution was the strategy used to save foreign exchange.",
+      "License policy ensured regional equality.",
+      "Russian economic model was the base for the Indian economic system.",
+      "Small Scale Industries are one of the essential tools for employment generation."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain briefly the rationale behind the ‘License Raj’ under the Industrial Policy Resolution, 1956. (b) Define Multilateral trade.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Human Capital Formation in India",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 22,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Skill India’ programme launched by the Government is not an attempt to increase _____ in India. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "human capital formation",
+      "efficient utilisation of inputs",
+      "increase in GDP growth",
+      "inadequate spread of vocational education"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Human Capital Formation in India",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) Why are less women found in regular salaried employment ? (ii) Distinguish between human capital and physical capital.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Human Capital Formation in India",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) State and discuss any one strategy involved in attaining sustainable development in India. (ii) Discuss briefly the importance of micro credit programme in rural India.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Rural Development",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 26,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Production of diverse varieties of crops rather than one specialized crop is called _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "diversification of crops",
+      "diversification of agricultural production",
+      "diversification in sectors",
+      "diversification of employment"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Critically evaluate the role of rural banking system in the process of rural development in India.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Dr. Khurana, a dentist, ran his clinic in an economically backward area. He was earning a comparatively low income. So, he decided to move to a city and spent a huge amount for the same.” Identify and explain the type of expenditure incurred by Dr. Khurana, which directly contributed to the process of human capital formation.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Employment: Growth, Informalisation and Other Issues",
+   "count": 4,
+   "questions": [
+    {
+     "qno": 25,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Workers who are on the permanent pay-roll of their employer are called _____ workers. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "self-employed",
+      "casual",
+      "regular",
+      "hired"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Jobless growth leads to unemployment because _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Labour refuses to migrate",
+      "Labour is very expensive",
+      "Growth rate is low",
+      "Growth is due to technological development"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "State and elaborate whether the following statement is true or false, with valid arguments : “Indian economy has showed satisfactory progress towards formalization of workforce in the recent past.”",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“In India, the self-employed constitute around 60% employees. The possible incidence of under employment is the highest among the self-employed.” As an economist, suggest and elaborate any two measures that may be taken to ensure more productive employment for the self-employed.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Infrastructure",
+   "count": 1,
+   "questions": [
+    {
+     "qno": 34,
+     "chapter": "Infrastructure",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : According to NITI Aayog, India has a technological advantage to facilitate digital banks. There is a need for creating a regulatory framework for promoting this. NITI Aayog, in its report titled “Digital Banks : A Proposal for Licensing and Regulatory Regime for India”, offers a template and roadmap for a digital bank licensing and regulatory regime for a country. India’s public digital infrastructure, especially Unified Payments Interface (UPI) has successfully faced this. With Aadhar, India is at the cusp of operationalizing its own open banking framework. This demonstrates that India has the technology stock to fully facilitate digital banks. Digital banking allows a user to set up automatic payments for regular utility bills. Digital banking enables fund transfers to reduce the risk of counterfeit currency. By promoting a cashless society, digital banking restricts the circulation of black money. On the basis of the given text and common understanding, answer the following questions : (a) Which institution has been replaced by NITI Aayog in India ? Who is the ex-officio Chairman of NITI Aayog ? (b) State and discuss any two main advantages of digital banking.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Environment and Sustainable Development",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 20,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Mini-hydel plants are good for the environment because : (i) they generate electricity only for local areas. (ii) they do not change the land use pattern. (iii) they rely on the perennial streams. (Choose the correct alternative)",
+     "options": [
+      "(i), (ii) and (iii)",
+      "(ii) and (iii)",
+      "(i) only",
+      "(i) and (ii)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Interpret the given picture, on account of current environmental challenges. [Picture: a hillside forest being felled — freshly cut logs and tree stumps in the foreground with a partly deforested slope behind.] (Note : For Visually Impaired Candidates only, in lieu of this question — Explain any one current environmental challenge.)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Comparative Development Experiences of India and its Neighbours",
+   "count": 6,
+   "questions": [
+    {
+     "qno": 21,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The Great Leap Forward (GLF) campaign in China focused on _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Widespread industrialisation",
+      "New agricultural strategy",
+      "Privatisation",
+      "Economic reforms"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "India is not a member of which of the following regional / global economic groups ?",
+     "options": [
+      "European Union",
+      "BRICS",
+      "G20",
+      "SAARC"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the correct alternative with reference to the following statement : “Between 1966 – 76, Mao introduced this movement under which professionals and students were asked to work and learn from real life situations prevailing in the countryside of China.”",
+     "options": [
+      "Commune System",
+      "Great Leap Forward",
+      "Open Door Policy",
+      "Great Proletarian Cultural Revolution"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : In both India and Pakistan, the service sector has been emerging as a major source of development. Statement 2 : Amongst the neighbours of India, China has the highest life expectancy rate. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : India announced its First Five Year Plan in 1951. Statement 2 : India, Pakistan and China adopted economic planning as the core development strategy. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Explain valid reasons for the slow growth and re-emergence of poverty in Pakistan.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  }
+ ]
+}
