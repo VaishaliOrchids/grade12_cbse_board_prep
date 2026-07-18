@@ -5,7 +5,7 @@
  "years": [
   2023
  ],
- "total_questions": 139,
+ "total_questions": 183,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -25,7 +25,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 15,
+   "count": 19,
    "questions": [
     {
      "qno": 2,
@@ -376,13 +376,86 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In the circular flow diagram between Household and Firms, the upper flow is labelled ‘(i) _____ Income’ together with ‘Factors of Production’ (flowing from Household to Firms), and the lower flow is ‘Goods and Services’ together with ‘(ii) _____ Expenditure’ (flowing from Firms to Household). Choose the correct alternative to fill in the blanks (i) and (ii) :",
+     "options": [
+      "National, Production",
+      "Factor, Production",
+      "Factor, Consumption",
+      "National, Consumption"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Operating Surplus does not include _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Interest",
+      "Rent",
+      "Profit",
+      "Compensation of employees"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "5-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Suppose, the Gross Domestic Product (GDP) at market price of a country in a particular year was ₹ 1,100 crore. Net Factor Income from abroad was ₹ 100 crore. The value of Net Indirect Taxes was ₹ 150 crore and the National Income was ₹ 850 crore. Calculate the value of depreciation for the economy.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) “Machine purchased by a firm is always a capital good.” Do you agree with the given statement ? Give valid reasons for your answer. (b) Define the following : (i) Net Exports (ii) Externalities (iii) Problem of Double Counting.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 16,
+   "count": 19,
    "questions": [
     {
      "qno": 1,
@@ -674,13 +747,70 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The Reserve Bank of India (RBI) _____ government securities in a bid to _____ the stock of money in the economy. (Choose the correct alternative to fill up the blanks)",
+     "options": [
+      "sells, decrease",
+      "purchases, decrease",
+      "sells, increase",
+      "purchases, not change"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Demand Deposits include _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Currency and coins held with the public",
+      "Other deposits with the Government",
+      "Savings Account Deposits and Fixed Deposits",
+      "Current Account Deposits and Fixed Deposits"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Case-based",
+     "marks": 4,
+     "text": "Read the following text carefully : “After setting up a working group to study the possibility of a Central Bank Digital Currency (CBDC) in India in 2020, the RBI revealed a concept note on digital rupee (e-Rupee) on 7th October, 2022.” “The e-Rupee will provide an additional option to the currency available forms of money. It is substantially not different from bank notes, but being digital it is likely to be easier, faster and cheaper.” RBI said that it broadly defines CBDC as the legal tender issued by a central bank in a digital form. It is akin to paper currency in a different form. On the basis of the above text and common understanding, answer the following questions : (a) Identify and discuss the function of central bank indicated in the above text. (b) State any two advantages of digital rupee.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 17,
+   "count": 24,
    "questions": [
     {
      "qno": 6,
@@ -1018,13 +1148,149 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Investment is defined as addition to the physical capital and changes in the inventory. Statement 2 : At equilibrium level of income, ex-post investments and ex-post savings are always equal. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If the Marginal Propensity to Save (MPS) is 0·5, what will be the value of investment multiplier ? (Choose the correct alternative)",
+     "options": [
+      "1",
+      "2",
+      "1·6",
+      "1·45"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "An increase in National Income occurs by ₹ 3,000 crore, as investments increased by ₹ 1,200 crore. The value of investment multiplier would be _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "2",
+      "2·5",
+      "4",
+      "5"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "6-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative given below. Assertion (A) : Excess demand does not lead to any increase in the level of real output. Reason (R) : Excess demand creates a gap between actual demand and desired demand corresponding to full employment level.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Determination of Income and Employment",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative given below. Assertion (A) : Rich people have lower Marginal Propensity to Consume (MPC) as compared to poor people. Reason (R) : Consumption curve makes an intercept on the y-axis at a point above the origin.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Suppose consumption function for an economy is $C = 80 + 0{\\cdot}75\\,Y$ (where C = consumption function and Y = national income) and the investment expenditure is ₹ 200 crore. Estimate the following : (a) Equilibrium level of income (b) Values of consumption and saving at equilibrium level of income.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Discuss briefly, how the government can control the situation of deflation using the following : (a) Taxation Policy (b) Government Expenditure Policy.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 7,
+   "count": 9,
    "questions": [
     {
      "qno": 17,
@@ -1144,13 +1410,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “Government provides essential items like food grains almost free to the families below poverty line.” Identify and explain the objective of the government budget indicated. (ii) Define the following : (1) Revenue deficit (2) Primary deficit.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "State whether the following statements are true or false, with valid reasons : (i) High tax on higher income groups aims to achieve the ‘reallocation of resources’ objective of the Government. (ii) Borrowings are a revenue receipt of the government. (iii) Fiscal deficit always leads to inflation.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "17-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 14,
+   "count": 20,
    "questions": [
     {
      "qno": 4,
@@ -1424,13 +1721,129 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "An Indian company receives a loan from a company located abroad. This transaction would be recorded on the _____ side of _____ account in India’s Balance of Payment. (Choose the correct alternative to fill up the blanks)",
+     "options": [
+      "Credit, Current",
+      "Debit, Current",
+      "Credit, Capital",
+      "Debit, Capital"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Balance of Payment account is always balanced in accounting sense. Statement 2 : Autonomous transactions, restore balance in Balance of Payment account. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Depreciation of domestic currency may lead to a rise in exports. Statement 2 : Due to the depreciation of Indian National Rupee (₹), purchasing power of US Dollar ($) may increase. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which one of the following is an intangible item in Balance of Payment (BoP).",
+     "options": [
+      "Export of food grains",
+      "Imports of crude oil",
+      "Export of Information Technology (IT) services to U.S.A.",
+      "Import of coal by steel company in India"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "8-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 12,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“The central bank needs to intervene under the managed floating system.” Do you agree with the given statement ? Support your answer with valid reasons.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Differentiate between Surplus in Balance of Trade and Current Account Surplus.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "12-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 3,
+   "count": 4,
    "questions": [
     {
      "qno": 18,
@@ -1494,13 +1907,34 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Under the British Rule, commercialisation of agriculture resulted in shifting of agricultural production from _____ crops to _____ crops. (Choose the correct alternative to fill up the blanks)",
+     "options": [
+      "Cash, Food",
+      "Cotton, Jute",
+      "Food, Cash",
+      "Jute, Food"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 8,
+   "count": 12,
    "questions": [
     {
      "qno": 19,
@@ -1653,13 +2087,87 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following alternative is not associated with goals of economic planning in India.",
+     "options": [
+      "Ensuring equitable standard of living",
+      "Technological advancement",
+      "Increase in economic growth",
+      "Promoting imports of luxury goods"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In 1951, agricultural contribution to India’s National Income was _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Highest among the three sectors",
+      "Lowest among the three sectors",
+      "Lower than the industrial sector",
+      "Lower than the service sector"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) Explain the need and types of land reforms implemented in the agriculture sector. (ii) Why was public sector given a leading role in industrial development during the planning period ? Explain.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) Explain the reasons why the industrial sector has performed poorly in the reform period. (ii) Distinguish between the Bilateral and Multilateral trade.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 3,
+   "count": 4,
    "questions": [
     {
      "qno": 34,
@@ -1706,13 +2214,28 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Discuss any two liberalisation measures pertaining to the financial sector, introduced by the Government of India during the economic reform process of 1991.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 10,
+   "count": 11,
    "questions": [
     {
      "qno": 22,
@@ -1891,13 +2414,34 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Economic growth means the increase in real national income of a country. Statement 2 : Human capital formation and Human development are one and the same concepts. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 11,
+   "count": 14,
    "questions": [
     {
      "qno": 26,
@@ -2103,13 +2647,64 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "_____ markets were organised to protect the farmers from malpractices in mandis. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Regulated",
+      "Periodic",
+      "Daily",
+      "Weekly"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“Self-Help Groups provide stimulus for institutionalised lending, employment generation and women empowerment in the rural areas.” Justify the given statement with valid explanation.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Rural Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : Adoption of Village by Parliamentarians — In October, 2014, the Government of India introduced a new scheme called Saansad Adarsh Gram Yojana (SAGY). Under this scheme, Members of India’s Parliament need to identify and develop one village from their constituencies. To begin with, MPs can develop one village as a model village by 2016, and two more by 2019, covering over 2,500 villages in India. According to the scheme, the village can have a population of 3,000 – 5,000 in the plains and 1,000 – 3,000 in the hills and should not be the MP’s own or their spouse’s village. MPs are expected to facilitate a village development plan, motivate villagers to take up activities and build infrastructure in the areas of health, nutrition and education. On the basis of the given text and common understanding, answer the following questions : (a) State and discuss, any two objectives which the Government of India wanted to achieve through ‘Saansad Adarsh Gram Yojana (SAGY)’. (b) State the yardsticks for selecting villages under the SAGY Scheme.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 10,
+   "count": 13,
    "questions": [
     {
      "qno": 25,
@@ -2282,6 +2877,58 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative given below. Assertion (A) : The nature of unemployment problem in India is multi-faceted. Reason (R) : Worker-Population ratio is an indicator used for analysing the employment situation in a country.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“It is necessary to create employment in the formal sector rather than in the informal sector.” Defend or refute the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Discuss briefly, why agricultural diversification is essential for sustainable livelihoods.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
@@ -2310,7 +2957,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 6,
+   "count": 9,
    "questions": [
     {
      "qno": 20,
@@ -2426,13 +3073,71 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 25,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Carrying Capacity implies that _____. (i) Resource extraction should remain below the rate of regeneration. (ii) Resource extraction should remain above the rate of regeneration. (iii) Generation of waste should remain within the absorption capacity of the environment. (iv) Generation of waste should be more than the absorption capacity of the environment. (Choose the correct alternative)",
+     "options": [
+      "(i) and (iv)",
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(ii) and (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "_____ system restores, maintains and enhances the ecological balance. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "Chemical farming",
+      "Organic farming",
+      "Conventional farming",
+      "Multi-layered farming"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Interpret the given picture with reference to current environmental challenges. [Picture: a cartoon Earth surrounded by children using renewable energy sources labelled Sun, Wind, Water and Geothermal Heat.] (Note : For Visually Impaired Candidates only, in lieu of this question — Discuss any one current environmental challenge.)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 18,
+   "count": 24,
    "questions": [
     {
      "qno": 21,
@@ -2908,6 +3613,156 @@
       {
        "year": 2023,
        "set": "58/3/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Economic reforms were introduced in the year _____ in India and in the year _____ in Pakistan. (Choose the correct alternative to fill up the blanks)",
+     "options": [
+      "1978, 1988",
+      "1988, 1978",
+      "1978, 1991",
+      "1991, 1988"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Pakistan is ahead of India in the case of _____. (Choose the correct alternative to fill up the blank)",
+     "options": [
+      "HDI value",
+      "Per capita income",
+      "Access to sanitation facilities",
+      "Life expectancy at birth"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": "20-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 22,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events of China in chronological order and choose the correct alternative : (i) Great Proletarian Cultural Revolution (ii) Great Leap Forward Campaign (iii) Introduction of Economic Reforms (iv) First Five Year Plan",
+     "options": [
+      "(ii), (iv), (iii), (i)",
+      "(iv), (ii), (i), (iii)",
+      "(ii), (iv), (i), (iii)",
+      "(iv), (i), (ii), (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : ‘Liberty indicators’ measure the extent of constitutional protection given to the citizens. Statement 2 : India provides fair constitutional protection to its citizens. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative given below. Assertion (A) : China adopted the ‘Open Door Policy’ as a major economic reform initiative. Reason (R) : It aimed at industrialising the country on a massive scale.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "From the data given below, compare and contrast India’s and China’s sectoral contribution towards GVA / GDP (Sectoral Contribution to GVA/GDP in % (2018 – 19)) :",
+     "table": {
+      "headers": [
+       "Sector",
+       "India",
+       "China"
+      ],
+      "rows": [
+       [
+        "Agriculture",
+        "16",
+        "7"
+       ],
+       [
+        "Industry",
+        "30",
+        "41"
+       ],
+       [
+        "Services",
+        "54",
+        "52"
+       ],
+       [
+        "Total",
+        "100",
+        "100"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2023,
+       "set": "58/4/1",
        "qno": 30
       }
      ],
