@@ -6,7 +6,7 @@
   2023,
   2024
  ],
- "total_questions": 308,
+ "total_questions": 347,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -26,7 +26,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 31,
+   "count": 36,
    "questions": [
     {
      "qno": 2,
@@ -755,13 +755,150 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following statements is incorrect with reference to an economy.",
+     "options": [
+      "Excess of Gross National Product (GNP) over Gross Domestic Product (GDP) is possible.",
+      "Excess of Gross Domestic Product (GDP) over Gross National Product (GNP) is possible.",
+      "Equality between Gross National Product (GNP) and Gross Domestic Product (GDP) is possible.",
+      "Sum of Gross National Product (GNP) and Gross Domestic Product (GDP) is always equal to zero (0)."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "On the basis of the given data, estimate the value of National Income :",
+     "table": {
+      "headers": [
+       "S.No.",
+       "Items",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Government Final Consumption Expenditure",
+        "110"
+       ],
+       [
+        "(ii)",
+        "Private Final Consumption Expenditure",
+        "200"
+       ],
+       [
+        "(iii)",
+        "Gross Domestic Fixed Capital Formation",
+        "30"
+       ],
+       [
+        "(iv)",
+        "Net Exports",
+        "(–) 40"
+       ],
+       [
+        "(v)",
+        "Increase in Stock",
+        "20"
+       ],
+       [
+        "(vi)",
+        "Consumption of Fixed Capital",
+        "15"
+       ],
+       [
+        "(vii)",
+        "Indirect Taxes",
+        "60"
+       ],
+       [
+        "(viii)",
+        "Subsidies",
+        "15"
+       ],
+       [
+        "(ix)",
+        "Net Factor Income from Abroad",
+        "(–) 40"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "State any three precautions to be taken while estimating National Income by Expenditure Method.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) Explain the concept of circular flow of income in a two-sector economy. (ii) “Gross Domestic Product (GDP) and sum of Gross Value Added (GVA) in an economy are always equal.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “Gross Domestic Product (GDP) Deflator is represented by the ratio of Real GDP and Nominal GDP.” Do you agree with the given statement ? Justify your answer with valid arguments and a hypothetical numerical example. (ii) State the meaning of ‘Income from Property and Entrepreneurship’.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 31,
+   "count": 35,
    "questions": [
     {
      "qno": 1,
@@ -1327,13 +1464,127 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Reserve ratio and Credit creation process are inversely related. Statement 2 : Central Bank of an economy performs the vital function of controlling the credit creation process. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct alternative to complete the given schedule :",
+     "table": {
+      "headers": [
+       "Round",
+       "Deposits",
+       "Loans (90%)",
+       "Reserve Ratio (10%)"
+      ],
+      "rows": [
+       [
+        "I",
+        "2000",
+        "1800",
+        "200"
+       ],
+       [
+        "II",
+        "...(i)...",
+        "...(ii)...",
+        "180"
+       ],
+       [
+        "...",
+        "...",
+        "...",
+        "..."
+       ],
+       [
+        "...",
+        "...",
+        "...",
+        "..."
+       ],
+       [
+        "Total",
+        "...(iii)...",
+        "...(iv)...",
+        "2000"
+       ]
+      ]
+     },
+     "text_after": "Alternatives :",
+     "options": [
+      "2000, 1620, 20000, 18000",
+      "1800, 180, 2000, 18000",
+      "1620, 180, 2000, 18000",
+      "1800, 1620, 20000, 18000"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“Open market operations by Reserve Bank of India (RBI) help in regulating money supply in the economy.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Elaborate the ‘Government's Bank and Advisor’ function of the Central Bank of a nation.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": "14-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 43,
+   "count": 49,
    "questions": [
     {
      "qno": 6,
@@ -2173,13 +2424,129 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative from those given below :",
+     "assertion": "Voluntarily unemployed people are those able bodied people who are not willing to work at the prevailing wage rate.",
+     "reason": "There exists zero involuntary unemployment at full employment level of equilibrium.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Inflationary gap in an economy may exist when _________ at full employment level. (Choose the correct alternative to fill in the blank)",
+     "options": [
+      "Actual Aggregate Demand $>$ Potential Aggregate Demand",
+      "Actual Aggregate Demand $<$ Potential Aggregate Demand",
+      "Actual Aggregate Demand $\\leq$ Potential Aggregate Demand",
+      "Actual Aggregate Demand $=$ Potential Aggregate Demand"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In order to discourage any fall in Aggregate Demand, the Government of India may _________ the _________. (Choose the correct alternative to fill in the blanks)",
+     "options": [
+      "decrease, repo rate",
+      "increase, reverse repo rate",
+      "decrease, government expenditure",
+      "decrease, tax rate"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Constant rate of change of consumption (∆C) with respect to change in income (∆Y), is the reason for the straight line consumption curve. Statement 2 : Marginal rate of change between consumption and income is defined as Average Propensity to Consume (APC). In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Elaborate the two components of Aggregate Supply in a two-sector economy.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) For a hypothetical economy, the government incurs an additional investment expenditure of ₹ 5,000 crore. Assuming that the Marginal Propensity to Save (MPS) becomes half from its present level of 20%, estimate the change in income due to this fall in Marginal Propensity to Save (MPS). (b) State the meaning of autonomous investment.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 14,
+   "count": 15,
    "questions": [
     {
      "qno": 17,
@@ -2407,13 +2774,63 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) On the basis of the given information, calculate the values of the following : (i) Fiscal Deficit (ii) Primary Deficit",
+     "table": {
+      "headers": [
+       "S.No.",
+       "Items",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Capital Expenditure",
+        "30"
+       ],
+       [
+        "(ii)",
+        "Revenue Receipts",
+        "20"
+       ],
+       [
+        "(iii)",
+        "Revenue Deficit",
+        "20"
+       ],
+       [
+        "(iv)",
+        "Interest Payments",
+        "10"
+       ],
+       [
+        "(v)",
+        "Non-Debt Creating Capital Receipts",
+        "50% of Revenue Receipts"
+       ]
+      ]
+     },
+     "text_after": "(b) State any two examples of private goods. (c) Distinguish between ‘Public Provision’ and ‘Public Production’.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 35,
+   "count": 39,
    "questions": [
     {
      "qno": 4,
@@ -2520,7 +2937,7 @@
      "chapter": "Balance of Payments",
      "type": "MCQ",
      "marks": 1,
-     "text": "As per the Reserve Bank of India (RBI) press report, dated 22nd June, 2022 : “Net Foreign Portfolio Investment (FPI) recorded an outflow of US$15.2 billion mainly from the equity market.” The above transaction will be recorded in the _____ account on _____ side of Balance of payments account of India. (Choose the correct alternative)",
+     "text": "As per the Reserve Bank of India (RBI) press report, dated 22nd June, 2022 : “Net Foreign Portfolio Investment (FPI) recorded an outflow of US\\$15.2 billion mainly from the equity market.” The above transaction will be recorded in the _____ account on _____ side of Balance of payments account of India. (Choose the correct alternative)",
      "options": [
       "current, credit",
       "current, debit",
@@ -2735,7 +3152,7 @@
      "chapter": "Balance of Payments",
      "type": "MCQ",
      "marks": 1,
-     "text": "Read the following statements carefully : Statement 1 : Depreciation of domestic currency may lead to a rise in exports. Statement 2 : Due to the depreciation of Indian National Rupee (₹), purchasing power of US Dollar ($) may increase. In light of the given statements, choose the correct alternative from the following :",
+     "text": "Read the following statements carefully : Statement 1 : Depreciation of domestic currency may lead to a rise in exports. Statement 2 : Due to the depreciation of Indian National Rupee (₹), purchasing power of US Dollar (\\$) may increase. In light of the given statements, choose the correct alternative from the following :",
      "options": [
       "Statement 1 is true and Statement 2 is false.",
       "Statement 1 is false and Statement 2 is true.",
@@ -3091,13 +3508,128 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "According to the Reserve Bank of India's (RBI's) Statistical Supplement released on 19th May, 2023 : “India's foreign exchange reserves grew for the third straight week and reached near an approximate level of \\$ 600 billion.” The above situation will _________ the __________ side of Balance of Payments account of India. (Choose the correct alternative to fill in the blanks)",
+     "options": [
+      "Increase, Credit",
+      "Decrease, Credit",
+      "Decrease, Debit",
+      "Increase, Debit"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the correct pair of statements given in Column I with the related terms in Column II :",
+     "table": {
+      "headers": [
+       "",
+       "Column I",
+       "",
+       "Column II"
+      ],
+      "rows": [
+       [
+        "1.",
+        "Remittances from abroad to the nation",
+        "(i)",
+        "Accommodating Transaction"
+       ],
+       [
+        "2.",
+        "Government's policy of decreasing the value of the nation's currency against foreign currencies",
+        "(ii)",
+        "Devaluation"
+       ],
+       [
+        "3.",
+        "Difference between visible exports and visible imports of a nation",
+        "(iii)",
+        "Balance of Payments"
+       ],
+       [
+        "4.",
+        "Government as sole authority of determining foreign exchange rates",
+        "(iv)",
+        "Flexible Exchange Rate System"
+       ]
+      ]
+     },
+     "text_after": "Alternatives :",
+     "options": [
+      "1 → (i)",
+      "2 → (ii)",
+      "3 → (iii)",
+      "4 → (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Balance of Payments",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative from those given below :",
+     "assertion": "In case of an unfavourable Balance of Trade, the Current Account of the nation may be in surplus.",
+     "reason": "Net invisible receipts of a nation can exceed the Net visible receipts.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Discuss any two factors which directly affect the demand for foreign exchange of a nation.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 11,
+   "count": 12,
    "questions": [
     {
      "qno": 18,
@@ -3307,13 +3839,36 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative from those given below :",
+     "assertion": "The agricultural sector under the British rule was primarily the base of the sectoral growth of India.",
+     "reason": "British rulers wanted to take maximum advantage of the Indian agricultural output, for growth of industries in England.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 17,
+   "count": 18,
    "questions": [
     {
      "qno": 19,
@@ -3640,13 +4195,34 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Land ceiling was one of the Government policies to promote equity in the agriculture sector. Statement 2 : Land reforms resulted in abolition of the Zamindari system in the post independence period. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 10,
+   "count": 13,
    "questions": [
     {
      "qno": 34,
@@ -3806,13 +4382,67 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 22,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative given below :",
+     "assertion": "Goods and Services Tax (GST) was implemented by the Government of India on 8th November, 2016.",
+     "reason": "GST was introduced to implement a unified indirect tax system in India.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Trade and Investment Policy of India had undergone comprehensive changes in the post reforms period of 1991.” Do you agree with the given statement ? Justify your answer with any two valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Discuss any two salient features of Indian industrial sector during the period of 1950 – 1990.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 16,
+   "count": 18,
    "questions": [
     {
      "qno": 22,
@@ -4060,6 +4690,11 @@
        "year": 2024,
        "set": "58/1/1",
        "qno": 29
+      },
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 29
       }
      ],
      "topic": "General"
@@ -4099,13 +4734,55 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following is not a Human Development Indicator (HDI).",
+     "options": [
+      "Life Expectancy at Birth",
+      "Adult Literacy Rate",
+      "Maternal Mortality Rate",
+      "Unemployment"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Human development is based on the idea that education and health are integral to human well-being. Statement 2 : Human capital treats humans as a means to an end. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 23,
+   "count": 27,
    "questions": [
     {
      "qno": 26,
@@ -4518,13 +5195,86 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is/are not an objective of regulated agricultural market ? (i) To discourage improvement of marketing infrastructure for farmers. (ii) To make marketing systems efficient and effective for farmers to get best price for their products. (iii) To discourage farmers to improve the quantity and quality of their produce. Alternatives :",
+     "options": [
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(i) only",
+      "(ii) only"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Production of varied forms of crops against one specialised crop is called diversification of ___________. (Choose the correct alternative to fill in the blank)",
+     "options": [
+      "sectoral occupation",
+      "employment structure",
+      "crops",
+      "industrial production"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "State and elaborate whether the following statements are true or false, with valid arguments : (i) Organic Farming has essentially become the need of the hour. (ii) In the recent past, the Government of India has taken crucial steps, like Jan-Dhan Yojana, for efficient allocation of financial resources.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(i) Define worker – population ratio and describe its usefulness. (ii) State the meaning of ‘Disguised Unemployment’.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 21,
+   "count": 22,
    "questions": [
     {
      "qno": 25,
@@ -4895,13 +5645,28 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Study the given image carefully : (the image shows a crowded, congested street market with numerous vendors squatting on the ground selling produce from baskets and sacks, alongside passers-by and children — depicting informal sector employment). Identify the situation depicted in the image and suggest the impact of the indicated situation in the Indian economy. (Note : For Visually Impaired Candidates only, in lieu of Q. No. 32 — “It is necessary to generate employment in the formal sector rather than in the informal sector.” Justify the given statement.)",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Infrastructure",
-   "count": 1,
+   "count": 3,
    "questions": [
     {
      "qno": 34,
@@ -4917,13 +5682,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Infrastructure",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “The real motive behind infrastructural development in India was to strengthen the British interests.” Do you agree with the given statement ? Justify your answer with valid arguments. (ii) “Navratna policy has facilitated the maintenance, promotion and disinvestment of Public Sector Undertakings (PSUs).” Justify the given statement with valid explanation.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Infrastructure",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “Every coin has two sides — debate over farm subsidies is one such classic example of the same.” Justify the given statement with two arguments each in favour of and against the continuation of the farm subsidies. (ii) State the importance of “Growth with equity” as the objective of Indian economic planning.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 15,
+   "count": 16,
    "questions": [
     {
      "qno": 20,
@@ -5199,13 +5995,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : In the contemporary world with a lot of sustainable development concerns, green growth and net zero emissions are two important concepts which are generally discussed together. These two concepts are essential for the future of the Earth, as by working together on them we can create a more sustainable future for ourselves and for the generations to come. Green growth refers to, the economic growth that is achieved in a way that minimizes environmental impact, whereas, net zero emission is the state of achieving balance between anthropogenic emission of greenhouse gases and removal of such gases from the atmosphere. There exists a robust connection between the two concepts : (1) Green growth can help to reduce greenhouse gas emissions, which is essential for achieving net zero emissions. (2) Green growth can help to create jobs and boost economic growth, which can help to make it more affordable for countries to invest in net zero emissions technology. A nation can do a lot to promote these two factors together, like : (a) Investing in renewable energy sources which do not produce greenhouse gases. (b) Adopting energy efficient measures, such as insulation and other such appliances which can help to reduce energy consumption. (c) Altering transportation habits, like adopting walking, biking and using public transportation as they are lower-carbon ways to travel. On the basis of the given text and common understanding, answer the following questions : (i) State the meaning of green growth and net zero emissions. (ii) Discuss briefly the interconnection between green growth and net zero emissions. (iii) Illustrate any one factor to promote net zero emission.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 40,
+   "count": 44,
    "questions": [
     {
      "qno": 21,
@@ -5473,7 +6284,7 @@
         "5.2"
        ],
        [
-        "Gross National Income per capita (PPP US$)",
+        "Gross National Income per capita (PPP US\\$)",
         "6,681",
         "16,057",
         "5,005"
@@ -6221,6 +7032,160 @@
        "year": 2024,
        "set": "58/2/1",
        "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following alternatives are not true with reference to the Chinese economy. (i) In 1958, communes were established. (ii) In the foreign sector, Special Economic Zones (SEZ) were set up. (iii) Better health facilities reduced mortality rate in China. Alternatives :",
+     "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(i), (ii) and (iii)",
+      "(i) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following is not a member nation of G20.",
+     "options": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Bangladesh"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On the basis of the data given below, identify the incorrect statement with reference to annual growth of GDP (%) :",
+     "table": {
+      "caption": "Annual Growth of Gross Domestic Product (%), 1980 – 2017",
+      "headers": [
+       "Country",
+       "1980 – 90",
+       "2015 – 2017"
+      ],
+      "rows": [
+       [
+        "India",
+        "5.7",
+        "7.3"
+       ],
+       [
+        "China",
+        "10.3",
+        "6.8"
+       ],
+       [
+        "Pakistan",
+        "6.3",
+        "5.3"
+       ]
+      ]
+     },
+     "text_after": "Alternatives :",
+     "options": [
+      "Pakistan and China experienced a fall in growth rate during 2015 – 2017.",
+      "China achieved double-digit growth rate in 1980 – 1990.",
+      "GDP of India accelerated moderately in 2015 – 2017 period.",
+      "Pakistan was ahead of India during 1980 – 2017 in terms of GDP."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "From the given data, compare and analyse India and China's sectoral contribution towards Gross Value Added (GVA).",
+     "table": {
+      "caption": "Sectoral Share of Employment and GVA (%) in 2018 – 2019",
+      "headers": [
+       "Sector",
+       "GVA India",
+       "GVA China",
+       "GVA Pakistan",
+       "Workforce India",
+       "Workforce China",
+       "Workforce Pakistan"
+      ],
+      "rows": [
+       [
+        "Agriculture",
+        "16",
+        "7",
+        "24",
+        "43",
+        "26",
+        "41"
+       ],
+       [
+        "Industry",
+        "30",
+        "41",
+        "19",
+        "25",
+        "28",
+        "24"
+       ],
+       [
+        "Services",
+        "54",
+        "52",
+        "57",
+        "32",
+        "46",
+        "35"
+       ],
+       [
+        "Total",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/3/1",
+       "qno": 30
       }
      ],
      "topic": "General"
