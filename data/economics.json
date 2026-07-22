@@ -7,7 +7,7 @@
   2024,
   2025
  ],
- "total_questions": 592,
+ "total_questions": 633,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -27,7 +27,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 63,
+   "count": 68,
    "questions": [
     {
      "qno": 2,
@@ -1571,13 +1571,140 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following items will not be included in estimating National Income of India. (Choose the correct option)",
+     "options": [
+      "Salary to Indian residents working at the Russian Embassy in India",
+      "Income generated from smuggling",
+      "Payments to farm workers in the form of foodgrains",
+      "Interest paid by a firm to a bank"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Calculate Domestic Income ($NDP_{FC}$) from the data given below :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Particulars",
+       "Amount (in ₹ lakh)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Gross National Product at market price",
+        "2,500"
+       ],
+       [
+        "(ii)",
+        "Consumption of fixed capital",
+        "200"
+       ],
+       [
+        "(iii)",
+        "Goods and Services Tax",
+        "20"
+       ],
+       [
+        "(iv)",
+        "Subsidies",
+        "50"
+       ],
+       [
+        "(v)",
+        "Net Factor Income from Abroad",
+        "50"
+       ],
+       [
+        "(vi)",
+        "Changes in Stocks",
+        "30"
+       ],
+       [
+        "(vii)",
+        "Unexpected loss of a fixed asset",
+        "500"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Define Net Factor Income from Abroad (NFIA) and discuss its components.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "12-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) Suppose, there are only three firms in a hypothetical economy, viz. A, B and C. During a given period of time, the following transactions were undertaken by them : (I) Firm A sold goods worth ₹ 2,000 to firm B and ₹ 1,200 to Firm C. (II) Firm B sold goods worth ₹ 1,100 to Firm A and ₹ 3,500 to Firm C. (III) Firm C sold to households for final consumption, goods worth ₹ 5,700. Estimate the value of Net Domestic Product at Market Price ($NDP_{MP}$) assuming depreciation to be ₹ 120. (ii) Explain the likely impact of construction of 2000 new schools providing high-quality education in a nation on Gross Domestic Product and welfare in an economy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) Distinguish between Real Gross Domestic Product (GDP) and Nominal Gross Domestic Product. (ii) As per a news dated April 11, 2023 : “Electric Vehicle sales crossed one million mark in FY 2023.” Analyse its impact on Gross Domestic Product (GDP) and economic welfare. (Note : For Visually Impaired Candidates only, in lieu of Q. 17(b)(ii) — Explain how ‘non-monetary transactions’ in an economy act as a limitation of using GDP as an indicator of welfare.)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "17-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 54,
+   "count": 57,
    "questions": [
     {
      "qno": 1,
@@ -2603,13 +2730,70 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Central Bank can decrease the money supply in the economy by ______. (Choose the correct option to fill in the blank)",
+     "options": [
+      "lowering the cash reserve",
+      "increasing the bank rate",
+      "lowering the bank rate",
+      "purchase of G-Secs (Government Securities)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If the total credit created by the banks is ₹ 500 and Reserve Ratio is 20%, the value of primary deposits would be ______. (Choose the correct option to fill in the blank)",
+     "options": [
+      "₹ 200",
+      "₹ 300",
+      "₹ 100",
+      "₹ 500"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“In the 1990s, on the advice of Reserve Bank of India (RBI), the Government of India took a decision of hypothecation of gold reserves to different nations.” In the light of above statement, discuss briefly the role of Central Bank as Banker, Agent and Adviser to the Government.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 83,
+   "count": 90,
    "questions": [
     {
      "qno": 6,
@@ -4228,13 +4412,178 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If the value of Investment Multiplier (K) is 5, the relevant saving function would be ______. (Choose the correct option to fill in the blank)",
+     "options": [
+      "$S = (-)\\,60 + 0{\\cdot}25\\,Y$",
+      "$S = (-)\\,60 + 0{\\cdot}75\\,Y$",
+      "$S = (-)\\,60 + 0{\\cdot}20\\,Y$",
+      "$S = (-)\\,60 + 0{\\cdot}60\\,Y$"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If an upward sloping straight line consumption function makes an intercept at the Y-axis at a positive coordinate, it implies that Marginal Propensity to Consume (MPC) ______ and Average Propensity to Consume (APC) ______ as the income increases. (Choose the correct option to fill in the blanks)",
+     "options": [
+      "remains constant, rises",
+      "rises, rises",
+      "remains constant, falls",
+      "falls, falls"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Using the given information, complete the following table : (Choose the correct option)",
+     "table": {
+      "headers": [
+       "Income (Y) (in ₹ crore)",
+       "Savings (in ₹ crore)",
+       "Consumption (in ₹ crore)",
+       "Average Propensity to Consume (APC)"
+      ],
+      "rows": [
+       [
+        "0",
+        "...(i)...",
+        "30",
+        ""
+       ],
+       [
+        "100",
+        "0",
+        "...(ii)...",
+        "1"
+       ],
+       [
+        "200",
+        "30",
+        "170",
+        "0·85"
+       ],
+       [
+        "300",
+        "60",
+        "240",
+        "0·8"
+       ]
+      ]
+     },
+     "text_after": "Options :",
+     "options": [
+      "(–) 30, 120",
+      "30, 120",
+      "0, 70",
+      "(–) 30, 100"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose in an economy, planned spendings are greater than planned outputs. Identify the correct option with respect to effects on the economy : (i) Decrease in planned inventories in the economy (ii) Rise in National Income (iii) Decrease in real output level in the economy (iv) Decrease in employment level in the economy Options :",
+     "options": [
+      "Only (i)",
+      "(i) and (ii)",
+      "(iii) and (iv)",
+      "(ii), (iii) and (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Estimate the value of Aggregate Demand (AD) in an imaginary economy : (i) Autonomous Investment ($I_0$) $=$ ₹ 100 crore (ii) Marginal Propensity to Save (MPS) $= 0{\\cdot}2$ (iii) Level of Income (Y) $=$ ₹ 4,000 crore (iv) Autonomous Consumption Expenditure ($\\bar{c}$) $=$ ₹ 50 crore (b) State the meaning of propensity to consume.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“An economy is operating at under-employment level of income.” What does this situation indicate ? Discuss any one fiscal measure to tackle this situation.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Elaborate using a hypothetical numerical example, how a given initial increase in investment affects the level of final income of the economy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "14-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 35,
+   "count": 36,
    "questions": [
     {
      "qno": 17,
@@ -4881,13 +5230,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "Read the following text carefully : Government provides certain goods and services which cannot be provided by the market mechanism. Examples of such goods are national defence, roads, government administration etc. which are referred to as public goods. There are two major differences between public and private goods. One, the benefits of public goods are available to all and are not only restricted to one particular consumer. For example, if a person wears a shirt, it will not be available to others. It is said that this person's consumption stands in rival relationship to the consumption of others. However, if we consider a public park or measures to reduce air pollution, the benefits will be available to all. One person's consumption of a good does not reduce the amount available for consumption for others and so several people can enjoy the benefits, that is, the consumption of many people is not ‘rivalrous’. Two, in case of private goods, anyone who does not pay for the goods can be excluded from enjoying its benefits. If you do not buy a ticket, you will not be allowed to watch a movie at a local cinema hall. However, in case of public goods, there is no feasible way of excluding anyone from enjoying the benefits of the good. That is why public goods are called non-excludable. Even if some users do not pay, it is difficult and sometimes impossible to collect fees for the public good. These non-paying users are known as ‘free-riders’. Consumers will not voluntarily pay for what they can get for free and for which there is no exclusive title to the property being enjoyed. The link between the producer and consumer which occurs through the payment process is broken and the government must step in to provide for such goods. On the basis of the given text and common understanding, answer the following questions : (a) Describe how the Government's role in providing public goods impacts community welfare. (b) Define free-riders. Explain the challenges posed by the free-riders in the context of public goods.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 60,
+   "count": 64,
    "questions": [
     {
      "qno": 4,
@@ -6077,13 +6441,91 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R) carefully. Choose the correct option from those given below : Assertion (A) : Other things remaining constant, devaluation of domestic currency may lead to rise in National Income of the nation. Reason (R) : Devaluation of domestic currency refers to reduction in the value of domestic currency by the government with respect to foreign currency under the fixed exchange rate system.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following is not a source of demand for foreign exchange. (Choose the correct option)",
+     "options": [
+      "Imports of goods and services",
+      "Gifts by Indians to their families living abroad",
+      "Indian tourists visiting foreign countries",
+      "Loans from Rest of the World"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : The price of a given currency in terms of another is known as bank rate. Statement 2 : Demand curve for foreign exchange is a downward sloping curve. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Distinguish between autonomous transactions and accommodating transactions in the Balance of Payments of the economy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 23,
+   "count": 26,
    "questions": [
     {
      "qno": 18,
@@ -6508,13 +6950,65 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R) carefully. Choose the correct alternative from those given below : Assertion (A) : The year 1921 is called as the Year of Great Divide. Reason (R) : After the year 1921, India experienced a sharp rise in its population growth rate.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“During the British rule, contribution of industrial sector to the Gross Domestic Product (GDP) remained very low.” Justify the given statement with valid arguments in support of your answer.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“The real motive behind infrastructural development under the British rule was not to provide basic amenities to the people of India but to subserve various colonial interests.” Do you agree with the given statement ? Give valid reasons in support of your answer.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 32,
+   "count": 33,
    "questions": [
     {
      "qno": 19,
@@ -7131,13 +7625,34 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“The Indian Government adopted a policy of fixing maximum land holding limit (ownership) for an individual.” It is commonly known as ______. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Green Revolution",
+      "Land Ceiling",
+      "Marketable Surplus",
+      "Golden Revolution"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 24,
+   "count": 27,
    "questions": [
     {
      "qno": 34,
@@ -7532,13 +8047,65 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 22,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following correctly defines liberalization. (Choose the correct option)",
+     "options": [
+      "Outright sale of part of shares of Public Sector Undertakings (PSUs)",
+      "Increased integration with the rest of the world",
+      "Removal of restrictions imposed by government on different sectors of the economy",
+      "Focus on import substitution"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “Globalisation has been a process for India with only positive results.” Defend or refute the given statement with valid explanation. (ii) “The goal of equity was served by ‘Abolition of Intermediaries’ in agriculture in the post independence period.” Do you agree with the given statement ? Support your answer with valid explanation.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “Farm subsidies put a huge burden on the government finances, but are necessary for poor and marginal farmers.” Justify the given statement with valid explanation. (ii) Discuss briefly the role of small scale industries in generating of employment and equity in India under the planning period.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 33,
+   "count": 34,
    "questions": [
     {
      "qno": 22,
@@ -8125,13 +8692,28 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "On the basis of the given image, explain the source of human capital formation which may contribute to the economic growth in India. (The image shows a young student writing at a desk in a classroom, with other children studying in the background — depicting investment in education / schooling.) (Note : For Visually Impaired Candidates only, in lieu of Q. No. 29 — Explain ‘Investment in Education’ as a source of human capital formation.)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 49,
+   "count": 54,
    "questions": [
     {
      "qno": 26,
@@ -9041,13 +9623,108 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Study the following image and identify the measure adopted by the Government to improve agricultural marketing. (The image shows a large open wholesale grain market yard, with numerous heaps of grain laid out in rows and traders, workers and buyers moving among them.) (Choose the correct option)",
+     "options": [
+      "Cooperative credit societies",
+      "Regulated markets",
+      "Transportation facilities",
+      "Dissemination of information"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates only, in lieu of Q. No. 21 :) Identify, which of the following measure is not adopted by the government to improve agricultural marketing.",
+     "options": [
+      "Cooperative credit societies",
+      "Unregulated markets",
+      "Better transportation facilities",
+      "Dissemination of information"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 24,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "White Revolution is associated with ______. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Horticulture",
+      "Fisheries",
+      "Dairy Production",
+      "Animal Husbandry"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“IT can play a critical role in achieving sustainable development and food security in the 21st century in the country.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Explain the importance of credit availability in rural development.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 38,
+   "count": 40,
    "questions": [
     {
      "qno": 25,
@@ -9729,6 +10406,42 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Employment is an activity which enables a person to earn means of livelihood for his/her family. Statement 2 : A worker is the one who contributes to the process of Gross Domestic Product (GDP) by rendering his productive services. In the light of given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“It is necessary to generate more employment in the formal sector rather than in the informal sector.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -9819,7 +10532,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 26,
+   "count": 27,
    "questions": [
     {
      "qno": 20,
@@ -10297,13 +11010,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : Growing carbon footprint of industries have put power and steel sector in the spotlight as the major contributor to the climate crisis. The challenge of climate change can be tackled only by making our industries and businesses follow practices and processes that reduce their carbon footprint. It can be possible only with green financing. Green financing aims to increase the level of financial flows (from banking, micro-credit, insurance and investment) from the public, private and not-for-profit sectors to sustainable development priorities. Global green finance has also started chasing Indian companies. Global development finance institutions and funds are ready to offer long-term support (both equity and debt) at cheap rates to projects like solar energy and hydropower. Green finance can positively affect environment quality, economic development and financial issues that promote the green economy, such as reducing greenhouse gas emissions, improving energy efficiency or enhancing the organic economy. On the basis of the given text and common understanding, answer the following questions : (a) State the meaning and objective of green finance. (b) Discuss any two benefits of green financing.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 67,
+   "count": 72,
    "questions": [
     {
      "qno": 21,
@@ -12050,6 +12778,105 @@
       {
        "year": 2025,
        "set": "58/5/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Mao initiated the ‘Great Leap Forward’ movement in the year ______. (Choose the correct option to fill in the blank)",
+     "options": [
+      "1951",
+      "1955",
+      "1958",
+      "1962"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In China, under ______, peasants were provided with pooled land to create larger fields that could yield greater output and they shared farm implements. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Joint Farming System",
+      "Commune System",
+      "Great Proletarian Cultural Revolution",
+      "Green Revolution"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "______ indicator may be defined as the measure of the extent of demographic participation in social and political decision-making. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Economic",
+      "Liberty",
+      "Health",
+      "Demographic"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following country/countries followed the Five Year Planning structure of economic development ? (Choose the correct option) (i) India (ii) China (iii) Pakistan (iv) USA Options :",
+     "options": [
+      "(i), (ii) and (iii)",
+      "(ii) and (iii)",
+      "(i) and (iv)",
+      "Only (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Evaluate any two factors that led to the rapid growth in economic development in China.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/6/1",
        "qno": 30
       }
      ],
