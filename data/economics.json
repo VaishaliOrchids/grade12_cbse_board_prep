@@ -6,7 +6,7 @@
   2023,
   2024
  ],
- "total_questions": 387,
+ "total_questions": 429,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -26,7 +26,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 40,
+   "count": 44,
    "questions": [
     {
      "qno": 2,
@@ -1015,13 +1015,119 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following is not considered as ‘Normal Resident’ of India ?",
+     "options": [
+      "An Indian citizen working in U.S.A. embassy located at New Delhi.",
+      "An Indian officials working in Indian embassy in China.",
+      "An Indian diplomats visiting Canada for a summit.",
+      "An Indian working in an American Company located in New York for a period of more than 1 year."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Calculate Net Value Added at Factor Cost ($NVA_{FC}$) from the following data :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Particulars",
+       "Amount (in ₹ lakh)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Fixed capital goods (expected life span – 5 years)",
+        "15"
+       ],
+       [
+        "(ii)",
+        "Domestic Sales",
+        "200"
+       ],
+       [
+        "(iii)",
+        "Change in stock",
+        "(−) 10"
+       ],
+       [
+        "(iv)",
+        "Exports",
+        "10"
+       ],
+       [
+        "(v)",
+        "Single use producer goods",
+        "120"
+       ],
+       [
+        "(vi)",
+        "Net indirect taxes",
+        "20"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "From the following data, estimate the value of Net Indirect Taxes (NIT) : Net National Product at Market Price ($NNP_{MP}$) ₹ 1,400 crore; Net Factor Income from abroad ₹ (−)20 crore; Gross National Product at Factor Cost ($GNP_{FC}$) ₹ 1,300 crore; Consumption of fixed capital ₹ 100 crore.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) As per The Economic Times report, dated April 11, 2023 : “Electric Vehicle sales cross 10 Lakh mark in financial year 2022-23.” Analyse the likely impacts of this news on Gross Domestic Product (GDP) and Welfare. (b) Discuss briefly, the circular flow of income in a two sector economy model.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 38,
+   "count": 41,
    "questions": [
     {
      "qno": 1,
@@ -1758,13 +1864,70 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“Mr. Sahotra borrowed funds from bank for purchasing a new house”. From the above statement, identify the indicated function of money :",
+     "options": [
+      "Medium of exchange",
+      "Store of value",
+      "Unit of account",
+      "Standard of deferred payments"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If in an economy the initial deposits are ₹ 4,000 crore and Reserve Ratio (RR) is 10%. The value of total deposit created would be ₹ _____ crore. (Fill up the blank with correct alternative.)",
+     "options": [
+      "4,000",
+      "40,000",
+      "2,000",
+      "20,000"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“Open Market Operation by the Reserve Bank of India (RBI) helps in regulating money supply in the economy.” Justify the given statement.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 56,
+   "count": 64,
    "questions": [
     {
      "qno": 6,
@@ -2873,13 +3036,165 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Ex-post savings and Ex-post investments are equal at all levels of income. Statement 2 : Under the effective demand principle, the equilibrium output is equal to ex-ante Aggregate Demand (AD). In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In a hypothetical economy, if entire additional income is consumed, the value of investment multiplier would be _____. (Fill up the blank with correct alternative.)",
+     "options": [
+      "One (1)",
+      "Zero (0)",
+      "Between zero (0) and one (1)",
+      "Infinity (∞)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "From the given table, identify that level of income, where Average Propensity to Save (APS) becomes zero : (Choose the correct alternative.) [Income (₹ crore): 0, 50, 100, 200, 300, 400; Consumption (₹ crore): 50, 75, 100, 150, 200, 250.]",
+     "options": [
+      "50",
+      "100",
+      "200",
+      "0"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, what does the shaded area ($\\Delta EFG$), in the given figure indicate ? [Figure: a 45° line (Y = C) and a consumption function $C = \\bar{c} + bY$; the two lines cross at E, and the shaded triangle EFG lies where the consumption line is below the 45° line, to the right of E.] I. Consumption > Income. II. Saving = Zero (0). III. Consumption < Income. IV. Saving < Zero (0).",
+     "options": [
+      "I and II",
+      "II and III",
+      "III and IV",
+      "I and IV"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates) Marginal Propensity to Save (MPS) is the slope of _____ function. (Choose the correct alternative.)",
+     "options": [
+      "Consumption",
+      "Cost",
+      "Saving",
+      "Investment"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "9-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 13,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Suppose, an economy is in equilibrium. From the following data, calculate investment expenditure in the economy : (a) National Income (Y) = ₹ 10,000 crore (b) Marginal Propensity to Consume (MPC) = 0·8 (c) Autonomous Consumption ($\\bar{c}$) = ₹ 100 crore.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a)(i) “With an objective to reduce inflation, government may reduce public Expenditure.” Discuss the rationale behind such a step which may be taken by the Government. (ii) Define Effective Demand Principle.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b)(i) State the meaning of ‘unintended accumulation of inventories’. (ii) “In an economy, Aggregate Demand (AD) is more than Aggregate Supply (AS).” Elaborate the possible impacts of the same, on the level of output, income and employment.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "14-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 17,
+   "count": 19,
    "questions": [
     {
      "qno": 17,
@@ -3188,13 +3503,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 16,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) Distinguish between Revenue Expenditure and Capital Expenditure of a government, with suitable example. (ii) “Under the ‘Production Linked Incentive’ scheme, the Government of India offers various benefits like reduced import-export duties, incentives to investors, tax-rebates etc.” In the light of above statement, identify and explain the Budget objective and its likely consequences.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “Under ‘Zero Defect, Zero Effect’ (ZED) scheme, the government of India provides up to 80% subsidy to Mini, Small and Medium Enterprises (MSMEs).” Identify and explain the objective of government budget, highlighted in the above text. (ii) Distinguish between Direct tax and Indirect tax with suitable examples.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 43,
+   "count": 47,
    "questions": [
     {
      "qno": 4,
@@ -4067,13 +4413,91 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If in an economy the Balance of Trade is showing a deficit of ₹ 200 crore and the value of import is ₹ 900 crore, then the value of exports would be ₹ _____ crore. (Fill up the blank with correct alternative.)",
+     "options": [
+      "200",
+      "1100",
+      "700",
+      "900"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "From the following, identify the correct reasons that may affect the supply of foreign exchange in an economy : I. Purchase of land in England by an Indian. II. Foreign tourists visiting Taj Mahal. III. Donation of \\$ 500 million from Microsoft. IV. Indian students going to Australia for studies.",
+     "options": [
+      "I and II",
+      "II and IV",
+      "II and III",
+      "I and IV"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The measurement of Balance of Payments deficit is based on _____ transactions. (Fill up the blank with correct alternative.)",
+     "options": [
+      "Autonomous",
+      "Accommodating",
+      "Current account",
+      "Capital account"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Trade Deficit must exist, if a country is facing situation of Current Account Deficit (CAD).” Defend or refute the above mentioned statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 13,
+   "count": 16,
    "questions": [
     {
      "qno": 18,
@@ -4327,13 +4751,65 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative from those given below : Assertion (A) : India could not develop a sound Industrial-base during the British rule. Reason (R) : Britishers followed restrictive trade policies, which strengthened Indian handicraft industries.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Opening up of Suez Canal helped in establishing the British monopoly control over India’s foreign trade”. Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Development of Railways during British rule encouraged colonial exploitation of the Indian resources.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 20,
+   "count": 21,
    "questions": [
     {
      "qno": 19,
@@ -4719,13 +5195,34 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "After independence, the rationale behind choosing Modernization as a planning objectives for the Indian economy were _____. I. To bring positive changes in the social outlook. II. Equitable distribution of income. III. Technological Upgradation. IV. Increase in Economic Divide.",
+     "options": [
+      "I and II",
+      "II and III",
+      "I and III",
+      "I and IV"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 14,
+   "count": 17,
    "questions": [
     {
      "qno": 34,
@@ -4954,13 +5451,65 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Outsourcing is one of the important outcome of globalization process. Statement 2 : Owing to globalization, many Indian companies have expanded their operation abroad. In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both statement 1 and 2 are true.",
+      "Both statement 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “Indian economy has certain advantages, which have made it a favourite outsourcing destination.” Do you agree with the given statement ? Give valid reasons in support of your answer. (ii) “In the post-reform period the government of India decided to privatise profit making Public Sector Undertakings (PSUs).” Do you agree with the given statement ? Give valid arguments in support of your answer.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) Explain the need and type of land reforms implemented in the agriculture sector. (ii) “Industrial sector performed poorly in the economic reform period.” Elucidate the given statement.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 21,
+   "count": 22,
    "questions": [
     {
      "qno": 22,
@@ -5340,13 +5889,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain the role of affordable healthcare facilities in promoting human capital in a country.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 33,
+   "count": 36,
    "questions": [
     {
      "qno": 26,
@@ -5936,13 +6500,77 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Study the following picture (a pie chart of livestock showing Cattle and Buffalos, Sheeps and Goats, Pigs, Poultry and Others). Identify the kind of activities, which may be envisaged under _____ as diversification activity. (Fill up the blank with correct alternative.)",
+     "options": [
+      "Animal Husbandry",
+      "Fisheries",
+      "Horticulture",
+      "Organic farming"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates) _____ farming is a system that is helpful in restoring, maintaining and enhancing the ecological balance. (Choose the correct alternative to fill in the blank.)",
+     "options": [
+      "Multi layered",
+      "Chemical",
+      "Organic",
+      "Conventional"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The scheme of ‘Micro Finance’ is extended through _____ credit provision. (Fill up the blank with correct alternative.)",
+     "options": [
+      "Self help groups",
+      "Land Development Banks",
+      "Regional Rural Banks",
+      "Commercial Banks"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 23,
+   "count": 25,
    "questions": [
     {
      "qno": 25,
@@ -6349,13 +6977,49 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Casual workers are hired on a permanent basis and also get social security benefits. Statement 2 : Workforce comprises, both employed and unemployed person. In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Study the following chart of Employment and Gross Domestic Product. Analyse the trend of the two variables between 1990-2012. [Chart: ‘Growth of Employment and Gross Domestic Product, 1951-2012 (%)’ — GDP rises from 3·6 (1951-56) to 8·7 (2005-10) then 7·8 (2010-12), while Employment stays low, around 0·28–2·28 across the same periods.] (For Visually Impaired Candidates : Explain why are regular salaried employees more in urban areas than in rural areas.) (b) Define Worker – Population Ratio.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Infrastructure",
-   "count": 3,
+   "count": 5,
    "questions": [
     {
      "qno": 34,
@@ -6402,13 +7066,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Infrastructure",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a)(i) “Infrastructural development is an essential element to obtain the full potential of the rural sector in India”. Justify the given statement with valid arguments. (ii) State the meaning of ‘Human Development’.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Infrastructure",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) “In a nation like India, self employment provides an important avenue for employment generation.” Defend or refute the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 18,
+   "count": 19,
    "questions": [
     {
      "qno": 20,
@@ -6735,13 +7430,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : India has aimed to reduce the country’s carbon intensity by approximately 45% by 2030. To achieve this ‘Green finance’ plays a vital role. At the initial stages, green finance needs a big push from the government. The Indian government has identified projects worth ₹ 25,000 crore that will be financed by proceeds from Sovereign Green Bonds. According to the framework approved by finance ministry, the sovereign green bonds will focus on financing public projects including renewable energy, climate change, clean transportation, sustainable water and waste management and pollution control. Businesses that take green finance can get benefit in various ways. It can help them follow different environmental norms and regulations and thus avoid possible fines. Adopting sustainable developmental practices enhances brand value of businesses. Customers tend to prefer brands that adopt clear sustainable development practices. The energy-efficient and other sustainable development practices promoted by green finance also often help in saving cost, boosting profitability of businesses etc. (– The Economic Times, April 22, 2023 (Modified)) On the basis of given text and common understanding, answer the following questions : (a) Define sustainable development. (b) State the public project areas, where Sovereign Green Bond are focussed. (c) How can businesses get benefit from green finance ?",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 48,
+   "count": 53,
    "questions": [
     {
      "qno": 21,
@@ -7997,6 +8707,146 @@
        "year": 2024,
        "set": "58/4/1",
        "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "From the events given in Column-I and facts given in Column-II about China, choose the correct pair : [Column I: (a) Structural transformation, (b) Great leap forward campaign, (c) Less stress of usage on natural resources, (d) Slowdown in GDP, since 2014. Column II: (i) Limited Urbanisation, (ii) Reduced global demand for Chinese products, (iii) Low density of population, (iv) Aimed at massive industrialisation.]",
+     "options": [
+      "(a) – (i)",
+      "(b) – (ii)",
+      "(c) – (iii)",
+      "(d) – (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Introduction of Economic Reforms in Pakistan took place in year _____. (Fill up the blank with correct alternative.)",
+     "options": [
+      "1978",
+      "1980",
+      "1988",
+      "1991"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : China has used Market system mechanism without loosing political commitment to create additional social and economic opportunities. Statement 2 : India, Pakistan and China have similar physical endowments but totally different Political systems.",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "_____ indicator may be defined as the measure of the extent of demographic participation in Social and Political decision making in a Country. (Fill up the blank with correct alternative.)",
+     "options": [
+      "Economic",
+      "Health",
+      "Demographic",
+      "Liberty"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "From the given data compare and analyse the Population Density and Fertility Rate of China and Pakistan, with valid reasons :",
+     "table": {
+      "caption": "Demographic Indicators, 2017-18",
+      "headers": [
+       "Country",
+       "Estimated Population (in million)",
+       "Annual Growth of Population",
+       "Population Density (per sq. km)",
+       "Sex Ratio",
+       "Fertility Rate",
+       "Urbanisation"
+      ],
+      "rows": [
+       [
+        "India",
+        "1352",
+        "1.03",
+        "455",
+        "924",
+        "2.2",
+        "34"
+       ],
+       [
+        "China",
+        "1393",
+        "0.46",
+        "148",
+        "949",
+        "1.7",
+        "59"
+       ],
+       [
+        "Pakistan",
+        "212",
+        "2.05",
+        "275",
+        "943",
+        "3.6",
+        "37"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2024,
+       "set": "58/5/1",
+       "qno": 30
       }
      ],
      "topic": "General"
