@@ -1,0 +1,819 @@
+{
+ "subject": "Business Studies",
+ "code": "054",
+ "klass": "XII",
+ "years": [
+  2023
+ ],
+ "total_questions": 39,
+ "chapter_order": [
+  "Nature and Significance of Management",
+  "Principles of Management",
+  "Business Environment",
+  "Planning",
+  "Organising",
+  "Staffing",
+  "Directing",
+  "Controlling",
+  "Financial Management",
+  "Financial Markets",
+  "Marketing Management",
+  "Consumer Protection"
+ ],
+ "chapters": [
+  {
+   "chapter": "Nature and Significance of Management",
+   "count": 5,
+   "questions": [
+    {
+     "qno": 1,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Coordination integrates the efforts of different departments and at different levels.’ Identify the characteristic of coordination highlighted in the above statement.",
+     "options": [
+      "Coordination ensures unity of action.",
+      "Coordination is an all pervasive function.",
+      "Coordination is a deliberate function.",
+      "Coordination is the responsibility of all managers."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement I : Management is multi-dimensional. Statement II : The activities involved in managing an enterprise are common to all organisations whether economic, social or political. Choose the correct option from the options given below :",
+     "options": [
+      "Statement I is true and II is false.",
+      "Statement II is true and I is false.",
+      "Both the statements are false.",
+      "Both the statements are true."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Management has its own vocabulary of terms and concepts. Managers need to communicate with one another with the help of a common vocabulary for the better understanding of their work situation.’ Which characteristic of ‘Management as a Science’ is highlighted in the above statement ?",
+     "options": [
+      "Principles based on experimentation",
+      "Systematised body of knowledge",
+      "Universal validity",
+      "Personalised application"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Alfanzo Ltd.’ is achieving all its objectives in an effective and efficient manner. It is earning enough revenue to cover costs and the risks of the business. Now the company wants to increase the sales volume, the capital investment, the number of employees and the number of products also. By doing this, the management wants to achieve its following objective :",
+     "options": [
+      "Survival",
+      "Profit",
+      "Personal",
+      "Growth"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Hitesh is the Chief Executive Officer of ‘Kids Garments Ltd.’ Due to festive season, Hitesh got an additional order of 10,000 garments which he had to supply within two days. Due to his goodwill in the market, he did not want to lose the order. So, he decided to achieve the target by operating on double shifts. He achieved the target and supplied the order within two days. But due to double shifts, his cost of production was higher than the regular production cost. Identify and give the meaning of the two concepts of management discussed in the above para.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Principles of Management",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 9,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Sangeeta visited ‘Smile Dental Clinic’ for treatment of toothache. She observed that the receptionist was seated at the reception desk, the place fixed for her. Dental instruments were laid neatly in dental instrument trays and the used instruments were placed in the sterilisation area. There was a fixed place for everything and it was present there. There was no hindrance in the work of the dentist and she was working with her maximum efficiency. The principle of management followed at the ‘Smile Dental Clinic’ was :",
+     "options": [
+      "Equity",
+      "Discipline",
+      "Order",
+      "Initiative"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following principles of management : (i) Discipline (ii) Unity of Command (iii) Unity of Direction",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following techniques of Scientific Management : (i) Fatigue study (ii) Motion study (iii) Time study",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Business Environment",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 2,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following are the examples of Legal Environment ? (i) Advertisement of alcoholic beverages is prohibited (ii) Decrease in interest rate on loans (iii) Increase in demand for organic foods (iv) Digilockers for storing documents (v) In 1993, the Supreme Court passed an order to close the iron foundries around ‘Taj Mahal’ at Agra",
+     "options": [
+      "(i) and (iv)",
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(i) and (v)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the various characteristics of Business environment given in Column I with their respective explanations in Column II : Column I — A. Dynamic nature; B. Complexity; C. Relativity. Column II — (i) Environment is a phenomenon that is relatively easier to understand in parts but difficult to grasp in its totality. (ii) Business environment differs from country to country and even region to region. (iii) Business environment keeps on changing, whether in terms of technological improvement or shifts in consumer preferences.",
+     "options": [
+      "A–(iii), B–(ii), C–(i)",
+      "A–(ii), B–(iii), C–(i)",
+      "A–(iii), B–(i), C–(ii)",
+      "A–(i), B–(ii), C–(iii)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Planning",
+   "count": 1,
+   "questions": [
+    {
+     "qno": 32,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "‘Setting objectives is the first step in the process of one of the significant functions of management.’ (a) Identify the function of management referred above. (b) State the next five steps of the process.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Organising",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 3,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "____________ refers to retention of decision-making authority by higher management levels.",
+     "options": [
+      "Decentralisation",
+      "Departmentalisation",
+      "Span of Control",
+      "Centralisation"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The process of defining and grouping the activities of the enterprise and establishing authority relationship among them is :",
+     "options": [
+      "Directing",
+      "Staffing",
+      "Management",
+      "Organising"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Organising",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Sweets and More’ is one of India’s most popular brand for snacks and sweets. It offers a wide range of sweets, namkeens, cookies and frozen foods. Its organisational structure comprises of separate business units in each of the above categories. Each of these units have a manager responsible for performance, having authority over the unit. Moreover, each of these units is multi-functional as within each unit, different functions like production, marketing, finance, etc. are performed. Though this kind of organisational structure leads to increased cost because of duplication of activities across products, but it provides a proper basis for performance measurement as revenues and costs related to each of these business units can be easily identified. (a) Identify the organisational structure of ‘Sweets and More’. (b) State three advantages and two disadvantages of the organisational structure identified in (a) above which are not discussed in the above case.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Staffing",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 22,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘The attitudes, skills and abilities of employees to perform specific jobs are increased by adopting a specific process.’ This process benefits the organisation in many ways. State any three benefits of this process to the organisation.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Identify and give the meaning of the concepts highlighted in the following statements : (a) The process of finding possible candidates for a job. (b) An assessment of the number and types of human resources necessary for the performance of various jobs. (c) Introducing the selected employees to other employees and familiarising them with the rules and policies of the organisation. (d) It ensures that the organisation gets the best employees amongst the employees available.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Directing",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 25,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Nitya is a student of class XII of a well-known school. She has a preconceived notion that her teacher always finds fault in her work. One day while checking the project work of class XII, her teacher wanted to appreciate Nitya for her hard work and good performance, but before she could complete her sentence, Nitya left the room without listening to her teacher. (a) Identify the ‘barrier to communication’ and also the type/category of barrier to which it is related. (b) Explain two other communication barriers of the type/category identified in (a) above.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Zeto Ltd.’ offers its employees shares at a price which is less than the market price. (a) Identify the incentive offered by the company and state the type of incentive discussed above. (b) State two other incentives of the type of incentive identified in (a) above.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Controlling",
+   "count": 4,
+   "questions": [
+    {
+     "qno": 4,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Umang was working as a ‘Production Manager’ at ‘LG Papers Ltd.’ The company had launched new eco-friendly paper straws in the market. He was given a target of producing 5,000 straws a day, by the General Manager. In spite of making the employees work overtime, Umang could not meet the target. On investigation, it was found that the employees had not received the right training to manufacture these eco-friendly paper straws. So the employees were sent for special training. The function of management which helped Umang in identifying that he could not meet the target is :",
+     "options": [
+      "Planning",
+      "Organising",
+      "Directing",
+      "Controlling"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not a step in the process of ‘Controlling’ function of management ?",
+     "options": [
+      "Setting performance standards",
+      "Assignment of duties",
+      "Taking corrective action",
+      "Comparing actual performance with standards"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the following as points of importance of ‘Controlling’ function of management : (i) Judging accuracy of standards (ii) Making efficient use of resources",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the relationship between ‘Planning’ and ‘Controlling’ with the help of any three points.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Financial Management",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 13,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "During the Covid-19 pandemic, the restaurant industry faced many challenges. The slowdown led to huge decrease in demand. From April 2022, the effect of Covid started reducing. The economy started picking up and a boom was noticed in the restaurant industry. As a result, larger amount of working capital was required with increased production and sales. The factor affecting the working capital requirement discussed above is :",
+     "options": [
+      "Seasonal factor",
+      "Production cycle",
+      "Operating efficiency",
+      "Business cycle"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements does not highlight the importance of financial planning ?",
+     "options": [
+      "Detailed plans of action prepared under financial planning increase waste, duplication of efforts and gaps in planning.",
+      "It helps in forecasting what may happen in future under different business situations.",
+      "It provides a link between investment and financing decisions on a continuous basis.",
+      "It helps in avoiding business shocks and surprises and helps the company in preparing for the future."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘X Ltd.’ issued 14% Debentures of ₹ 4,00,000 and 10,000 Equity shares of ₹ 60 each. This investment resulted in a net profit of ₹ 2,00,000 before interest and tax. The tax rate was 50%. (a) Calculate the ‘Return on Investment’ and ‘Earning per Share’ of ‘X Ltd.’ (b) State with reason whether the above example is that of favourable or unfavourable financial leverage.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Financial Markets",
+   "count": 6,
+   "questions": [
+    {
+     "qno": 14,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Adapting to a change in consumer preference towards online shopping, ‘Fast-Service’ started a grocery delivery app. It is a platform that ensures 10-minute deliveries of groceries. Because of this service, ‘Fast-Service’ earned huge profit within a year. It planned to expand its operations and decided to raise funds by directly issuing its securities to investors. The market through which ‘Fast-Service’ has decided to raise funds for its expansion is :",
+     "options": [
+      "Money market",
+      "Primary market",
+      "Secondary market",
+      "Both Primary and Secondary markets"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Capital Market instruments are riskier both with respect to returns and principal repayment as compared to Money Market instruments.’ This highlights the following point of difference between ‘Capital Market’ and ‘Money Market’ :",
+     "options": [
+      "Instruments",
+      "Duration",
+      "Safety",
+      "Liquidity"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) (i) Name the process of holding securities in an electronic form. (ii) Name any two participants of Money Market. (iii) Name the depositories that hold securities in electronic form.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three factors affecting the dividend decision.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) ‘Stock Exchange not only provides liquidity and marketability to existing securities, but performs many other functions.’ Explain any two such functions of Stock Exchange.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Distinguish between primary market and secondary market on any four bases.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Marketing Management",
+   "count": 6,
+   "questions": [
+    {
+     "qno": 7,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "___________ as an element of marketing mix includes the activities that make the firm’s products available to the target customers.",
+     "options": [
+      "Promotion",
+      "Place",
+      "Product",
+      "Price"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Roma Ltd.’ identified the needs of the customers for the successful marketing of their products. This was important for making an analysis of the available opportunities, threats, weaknesses and strengths of the organisation and help in deciding what opportunities can best be pursued by it. By doing so, which of the following functions of marketing is being performed by ‘Roma Ltd.’ ?",
+     "options": [
+      "Standardisation and grading",
+      "Product designing and development",
+      "Marketing planning",
+      "Gathering and analysing market information"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "[Picture: the front of a white ‘Elegant’ car showing a circular globe-like symbol on the grille above a nameplate reading ‘ELEGANT’.] The symbol which appears on all the ‘Elegant’ cars and which is not utterable is known as its :",
+     "options": [
+      "Brand",
+      "Brand name",
+      "Brand mark",
+      "Trade mark"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘A good physical distribution system should provide for an accurate and speedy processing of orders in the absence of which goods will reach the customers late or in wrong quantity.’ The component of physical distribution highlighted above is :",
+     "options": [
+      "Warehousing",
+      "Order Processing",
+      "Transportation",
+      "Inventory Control"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "________ involves a variety of programmes designed to promote or protect a company’s image and its individual products in the eyes of the public.",
+     "options": [
+      "Personal selling",
+      "Public relations",
+      "Sales promotion",
+      "Advertising"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Marketing Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘X Ltd.’ is engaged in the manufacturing of cars. The company surveyed the market and found that customers need a car which runs on eco-friendly fuel instead of petrol or diesel. Keeping the needs of customers as well as social, ethical and ecological aspects of marketing in mind, the company launched a new model of car that runs on bio-diesel. The launch event was covered by the top news channels and newspapers. This was done to disseminate information about the car and build goodwill of the business. ‘X Ltd.’ understands that it is imperative to manage public opinion and company’s relations with the public on a regular basis. (a) Identify and explain the marketing philosophy involved in the above case. (b) Identify and explain the communication tool that was used by the company. (c) Explain any two other promotional tools that can be used by ‘X Ltd.’ to achieve its objectives.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Consumer Protection",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 30,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State the role of consumer organisations and non-governmental organisations for the protection and promotion of consumers interests on the basis of any four points.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four reliefs available to the consumers if the consumer court is satisfied about the genuineness of the complaint.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "66/1/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  }
+ ]
+}

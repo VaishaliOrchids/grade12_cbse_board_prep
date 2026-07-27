@@ -47,6 +47,14 @@
    "klass": "XII",
    "data": "data/economics.json",
    "description": "CBSE Class 12 Economics board exam questions, 2023–2026, organised by NCERT chapter."
+  },
+  {
+   "id": "business-studies",
+   "name": "Business Studies",
+   "code": "054",
+   "klass": "XII",
+   "data": "data/business_studies.json",
+   "description": "CBSE Class 12 Business Studies board exam questions, 2023–2026, organised by NCERT chapter."
   }
  ]
 }
