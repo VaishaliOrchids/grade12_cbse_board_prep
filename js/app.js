@@ -490,6 +490,7 @@
   var BP = { p: "bp", subId: null, data: null, chapters: [], marks: 20, type: "trend",
              mix: { Easy: 20, Average: 60, Difficult: 20 }, slots: null, rows: null, warn: [], note: "" };
   var WS = { p: "ws", subId: null, data: null, chapters: [], school: "intl", sets: null, seed: 0 };
+  var PP = { subId: null, data: null, chapters: [] };   // Question Paper builder
   var _subCache = {};
 
   function getSubjectDataCached(s) {
@@ -1702,6 +1703,86 @@
     });
   }
 
+  /* ---------------- Question Paper builder (steps 1-3) ---------------- */
+  function renderPaper() {
+    crumbs.innerHTML = '<a href="#/">Home</a> › Question Paper';
+    document.title = "Question Paper — CBSE Class 12";
+    getSubjectsIndex().then(function (subs) {
+      var st = PP;
+      if (!st.subId || !subs.some(function (s) { return s.id === st.subId; })) st.subId = subs[0].id;
+      var tabs = subs.map(function (s) {
+        return '<button class="dash-tab' + (s.id === st.subId ? " on" : "") + '" data-sub="' +
+          esc(s.id) + '">' + esc(s.name) + "</button>";
+      }).join("");
+      app.innerHTML =
+        '<div class="wrap">' +
+          '<section class="hero"><h1>Question Paper</h1>' +
+            '<p class="pp-lead">Build a question paper from the board question bank. Pick a subject, then choose the chapters (syllabus) this test should cover.</p></section>' +
+          '<div class="pp-tabwrap"><div class="pp-tablabel">Subject</div><div class="dash-tabs">' + tabs + "</div></div>" +
+          '<div class="pp-body" id="pp-body"></div>' +
+        "</div>";
+
+      function updateCount() {
+        var el = document.getElementById("pp-count");
+        if (el) el.textContent = st.chapters.length + " chapter" + (st.chapters.length === 1 ? "" : "s") + " selected";
+      }
+      function wireChaps() {
+        document.getElementById("pp-chaps").addEventListener("change", function (e) {
+          if (e.target.tagName !== "INPUT") return;
+          var v = e.target.value;
+          if (e.target.checked) { if (st.chapters.indexOf(v) === -1) st.chapters.push(v); }
+          else st.chapters = st.chapters.filter(function (c) { return c !== v; });
+          updateCount();
+        });
+        document.getElementById("pp-all").addEventListener("click", function () {
+          st.chapters = st.data.chapters.map(function (c) { return c.chapter; });
+          Array.prototype.forEach.call(document.querySelectorAll("#pp-chaps input"), function (b) { b.checked = true; });
+          updateCount();
+        });
+        document.getElementById("pp-none").addEventListener("click", function () {
+          st.chapters = [];
+          Array.prototype.forEach.call(document.querySelectorAll("#pp-chaps input"), function (b) { b.checked = false; });
+          updateCount();
+        });
+        document.getElementById("pp-next").addEventListener("click", function () {
+          var note = document.getElementById("pp-note");
+          if (!st.chapters.length) { note.innerHTML = '<div class="bp-empty">Select at least one chapter to continue.</div>'; return; }
+          note.innerHTML = '<div class="pp-ok"><b>' + st.chapters.length + " chapter" +
+            (st.chapters.length === 1 ? "" : "s") + " selected</b> for " + esc(st.data.subject) + ".<br>" +
+            "Next step — choosing questions and generating the Word paper — is coming soon.</div>";
+        });
+        updateCount();
+      }
+      function loadSub(id) {
+        st.subId = id; st.chapters = [];
+        Array.prototype.forEach.call(document.querySelectorAll(".dash-tab[data-sub]"), function (b) {
+          b.classList.toggle("on", b.getAttribute("data-sub") === id);
+        });
+        var s = subs.filter(function (x) { return x.id === id; })[0];
+        var body = document.getElementById("pp-body");
+        body.innerHTML = '<div class="bp-empty">Loading…</div>';
+        getSubjectDataCached(s).then(function (d) {
+          st.data = d;
+          body.innerHTML =
+            '<div class="pp-panel">' +
+              '<div class="pp-step"><span class="pp-stepn">1</span> Syllabus for this paper — select the chapters to include</div>' +
+              '<div class="bp-chaptools"><button type="button" id="pp-all">Select all</button><button type="button" id="pp-none">Clear</button></div>' +
+              '<div class="bp-chaps" id="pp-chaps">' + chaptersHTML(st) + "</div>" +
+              '<div class="pp-foot"><span class="pp-count" id="pp-count"></span>' +
+                '<button class="bp-gen" id="pp-next">Continue →</button></div>' +
+            "</div>" +
+            '<div class="pp-note" id="pp-note"></div>';
+          wireChaps();
+        });
+      }
+      Array.prototype.forEach.call(document.querySelectorAll(".dash-tab[data-sub]"), function (b) {
+        b.addEventListener("click", function () { loadSub(b.getAttribute("data-sub")); });
+      });
+      loadSub(st.subId);
+      window.scrollTo(0, 0);
+    });
+  }
+
   /* ================= Figure re-cropping ================= */
   function saveCrops() { try { localStorage.setItem("qbank_crops", JSON.stringify(CROPS)); } catch (e) {} }
   function saveSizes() { try { localStorage.setItem("qbank_figsize", JSON.stringify(SIZES)); } catch (e) {} }
@@ -2134,7 +2215,8 @@
   }
 
   function setTab(h) {
-    var tab = h.indexOf("#/worksheet") === 0 ? "worksheet"
+    var tab = h.indexOf("#/paper") === 0 ? "paper"
+      : h.indexOf("#/worksheet") === 0 ? "worksheet"
       : h.indexOf("#/dashboard") === 0 ? "dashboard"
       : (h.indexOf("#/browse") === 0 || h.indexOf("#/subject") === 0) ? "browse"
       : "";
