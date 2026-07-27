@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 794,
+ "total_questions": 835,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -28,7 +28,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 92,
+   "count": 97,
    "questions": [
     {
      "qno": 2,
@@ -2363,13 +2363,167 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "To arrive at the value of National Income ($NNP_{FC}$), ___________ must be added to ___________ at factor cost. (Choose the correct option to fill in the blanks)",
+     "text_after": "Options :",
+     "options": [
+      "Depreciation, Net Domestic Product",
+      "Depreciation, Gross Domestic Product",
+      "Net Factor Income from Abroad, Net Domestic Product",
+      "Net Indirect Taxes, Gross Domestic Product"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Investment is defined as addition to the ___________. (i) Stock of physical capital (ii) Changes in the inventory (iii) Consumption. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Only (i)",
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(i), (ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) On the basis of the given data, estimate the value of Gross Domestic Product at Factor Cost ($GDP_{FC}$) :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Items",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Private final consumption expenditure",
+        "800"
+       ],
+       [
+        "(ii)",
+        "Government final consumption expenditure",
+        "700"
+       ],
+       [
+        "(iii)",
+        "Net imports",
+        "200"
+       ],
+       [
+        "(iv)",
+        "Gross public investment",
+        "100"
+       ],
+       [
+        "(v)",
+        "Inventory investment",
+        "50"
+       ],
+       [
+        "(vi)",
+        "Gross residential construction investment",
+        "300"
+       ],
+       [
+        "(vii)",
+        "Net indirect taxes",
+        "70"
+       ],
+       [
+        "(viii)",
+        "Gross business fixed investment",
+        "130"
+       ],
+       [
+        "(ix)",
+        "Consumption of fixed capital",
+        "20"
+       ],
+       [
+        "(x)",
+        "Interest",
+        "150"
+       ],
+       [
+        "(xi)",
+        "Net factor income paid to abroad",
+        "100"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain any two precautions to be kept in mind while estimating National Income by the Income method.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following passage carefully : The domestic product measures the value of all goods and services arising out of economic activity within a country over a specific period, while National Income is the sum total of income earned by all factors of production as a result of the economic activities during a period of time. National Income includes only those incomes which are derived directly from the current production of goods and services, which are called Factor Incomes. When National Income is measured at current prices over a number of years, the changes in National Income would include the effect of the changes in production along with the changes in prices. This estimate compared over the period would not be an accurate measure of the overall real increase in production of the country or the economic welfare of the people of the economy. Therefore, it would be necessary to eliminate the effect of prices, in other words, to recompute the whole series at given prices of one particular base year. National Income, thus computed, is termed as National Income at constant prices. On the basis of the above passage and common understanding, answer the following questions : (i) Differentiate between Domestic Product and National Product. (ii) ‘National Income measured at constant prices is a better measure of the overall real increase in production of the country.’ Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 74,
+   "count": 79,
    "questions": [
     {
      "qno": 1,
@@ -3762,13 +3916,107 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : The measurement of value makes it easier to compare the relative worth of two commodities. Statement II : Money facilitates the act of sale and purchase of goods and services. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose, a banking system received primary deposits of ₹ 1,000 and as a result commercial banks created credit worth ₹ 5,000. The value of Reserve Ratio in the given situation would be ___________ percent. (Choose the correct option to fill in the blank)",
+     "options": [
+      "10",
+      "20",
+      "25",
+      "40"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Reserve Bank of India (RBI) performs the function of Banker to the Banks by acting as a : (i) Clearing House (ii) Custodian of Cash Reserves (iii) Lender to the Government (iv) Periodic inspection of Banks.",
+     "text_after": "Options :",
+     "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(i), (ii) and (iv)",
+      "(i) and (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Define Money Supply. (b) Explain any one component of money supply.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Read the following passage carefully : “The Reserve Bank of India (RBI) Governor announced a 50 basis points reduction in the Cash Reserve Ratio (CRR) to 4% during the Monetary Policy Committee (MPC) address on December 6. The Governor noted that this move reflects a balanced approach towards managing liquidity while ensuring economic stability.” Based on the above passage and common understanding, answer the following questions : (i) Explain the rationale and the likely impact of the decision taken by the Monetary Policy Committee (MPC) of Reserve Bank of India (RBI). (ii) Define Cash Reserve Ratio (CRR).",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 109,
+   "count": 115,
    "questions": [
     {
      "qno": 6,
@@ -5947,13 +6195,130 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Assuming for an imaginary economy, consumption at zero level of income and break-even level of income is ₹ 50 and ₹ 200 respectively. Choose the correct value of Marginal Propensity to Consume (MPC), from the following :",
+     "options": [
+      "$0{\\cdot}8$",
+      "$0{\\cdot}9$",
+      "$0{\\cdot}75$",
+      "$0{\\cdot}85$"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Study the given image carefully : The line LK represents _________ curve. (The graph has ‘Consumption, Investment’ on the Y-axis and ‘Income’ on the X-axis. An upward-sloping line LK rises from intercept L to K and is labelled $C = \\bar{C} + cY$; a horizontal line is labelled $I = \\bar{I}$; O is the origin and M a point on the Y-axis below L.) (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Consumption",
+      "Aggregate Supply",
+      "Aggregate Demand",
+      "Investment"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates only, in lieu of Q. No. 7 :) ___________ refers to that consumption, which is independent of the level of income. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Autonomous Consumption",
+      "Induced Consumption",
+      "Break-even level",
+      "Autonomous Investment and Consumption"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "7-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 8,
+     "chapter": "Determination of Income and Employment",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Government can control the situation of deficient demand through its taxation policy. Reason (R) : Reduction in tax rates by the government leads to increase in the disposable income of the people.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the adjustment mechanism, if in an economy, ex-ante Aggregate Demand (AD) is more than ex-ante Aggregate Supply (AS).",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the process of working of Investment Multiplier, for a hypothetical economy with Marginal Propensity to Consume (MPC) as $0{\\cdot}8$ and Incremental Investment as ₹ 2,000 crore.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "14-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 43,
+   "count": 45,
    "questions": [
     {
      "qno": 17,
@@ -6734,13 +7099,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 16,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “The Credit Linked Subsidy Scheme (CLSS) is a key component of the Pradhan Mantri Awas Yojana (PMAY), aimed at providing affordable housing for the Economically Weaker Sections (EWS), Lower-income Groups (LIG), and Middle-income Groups (MIG) in India.” Identify and explain the government budget objective highlighted in the above statement. (ii) Differentiate between the two types of tax revenue sources of the government.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Government Budget and the Economy",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) Medha, an economics student, was studying about the expenditure on defence incurred by the government in the form of acquiring new platforms (jets, submarines etc.), and salaries and pensions of armed forces personnel. She classified both the expenditures as capital expenditure. Do you agree with Medha's views ? Give valid explanation in support of your answer. (ii) If, for an economy, Primary Deficit is ₹ 1,000 crore and interest payments are 20% of total borrowings of the government, then calculate the value of fiscal deficit.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 78,
+   "count": 81,
    "questions": [
     {
      "qno": 4,
@@ -8275,13 +8671,72 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Under ___________ exchange rate system, the competent authority may devalue currency to increase exports. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Fixed",
+      "Floating",
+      "Managed",
+      "Fixed floating"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Purchase of a property by an Indian resident abroad can be recorded on the ___________ side of ___________ account of Balance of Payments. (Choose the correct option to fill in the blanks)",
+     "text_after": "Options :",
+     "options": [
+      "Credit, Capital",
+      "Credit, Current",
+      "Debit, Current",
+      "Debit, Capital"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Define Accommodating Items under Balance of Payments (BoP). (b) “Economic transactions that are recorded in the current account can be classified in two parts — merchandise and invisibles. Net inflows from both the transactions are referred to as Trade Surplus.” Do you agree with the given statement ? Give valid arguments in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 36,
+   "count": 38,
    "questions": [
     {
      "qno": 18,
@@ -8930,13 +9385,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) “Infrastructural upliftment of India was one of the key features of the British rule in India.” State and discuss any two such developments, in the light of the given statement, with self-serving interests of the British.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) “In the post-independence era, India adopted a protective tariff policy.” Do you agree with the given statement ? Justify your answer with any two valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 38,
+   "count": 39,
    "questions": [
     {
      "qno": 19,
@@ -9658,13 +10144,35 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not an advantage of Green Revolution ?",
+     "text_after": "Options :",
+     "options": [
+      "Increased marketed surplus",
+      "Increase in prices of food grains",
+      "Self-sufficiency in food grains",
+      "Creation of buffer stock"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 36,
+   "count": 39,
    "questions": [
     {
      "qno": 34,
@@ -10275,13 +10783,65 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 26,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "___________ was the successor organisation to General Agreement on Trade and Tariff (GATT). (Choose the correct option to fill in the blank)",
+     "options": [
+      "International Bank for Reconstruction and Development (IBRD)",
+      "International Monetary Fund (IMF)",
+      "Reserve Bank of India (RBI)",
+      "World Trade Organisation (WTO)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “As per a few scholars, fertilizer subsidies should now be phased out, as they have served their purpose.” Do you agree with the given statement ? Justify your answer with valid arguments. (ii) State any two ways by which the government can execute the step of disinvestment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “During the 1991 economic reforms, the Government undertook a range of financial sector reforms which made a significant impact in the years to follow.” Justify the given statement with valid arguments. (ii) State the name of any one Maharatna and any one Navratna company.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 42,
+   "count": 46,
    "questions": [
     {
      "qno": 22,
@@ -11036,13 +11596,87 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Capital Formation in India",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Education is one of the important factors for economic growth of a country. Reason (R) : A healthy person could provide uninterrupted labour supply for a longer period of time.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Human Development is based on the idea that ___________ and ___________ are integral to human wellbeing. (Choose the correct option to fill in the blanks)",
+     "text_after": "Options :",
+     "options": [
+      "Education, Wealth",
+      "Health, Wealth",
+      "Education, Health",
+      "Health, Housing"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Anaya and Rohan owned separate farms. Anaya focused on learning modern farming techniques, training workers in crop rotation, soil management, and pest control. On the other hand, Rohan invested in advanced machinery, irrigation systems, HYV seeds. “Both Anaya and Rohan invested in human capital.” Do you agree with the given statement ? Give valid argument in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) “Expenditure on preventive medicine, curative and social medicine helps in building human capital and economic development.” Do you agree with the given statement ? Give valid argument in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 65,
+   "count": 67,
    "questions": [
     {
      "qno": 26,
@@ -12261,13 +12895,56 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement from the following.",
+     "text_after": "Options :",
+     "options": [
+      "Expansion of rural credit has helped the Indian farmers to increase their production and productivity.",
+      "The expansion and promotion of the rural banking sector has taken a backseat after the economic reforms.",
+      "It is an accepted fact that if, farmers sell their produce directly to consumers, their profitability increases.",
+      "Farmers who have the required information on prevailing prices often sell their produce at low prices."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Diversification in agriculture relates to change in cropping pattern and shift in workforce to allied activities. Statement II : Agricultural marketing is a process that involves the assembling, storage, processing, transportation, packaging, grading and distribution of agro-products. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 56,
+   "count": 59,
    "questions": [
     {
      "qno": 25,
@@ -13322,6 +13999,64 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Worker Population Ratio is used for analyzing the overall employment situation of a country. Statement II : A garment company has hired two workers on daily wage basis. Such a situation is considered as a formal sector employment. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Based on the given image, choose the incorrect option : (The image shows an illustration of a worker in an apron hammering at a workbench, captioned ‘WORKING CONDITIONS — Unsafe environment, Irregular hours’, depicting the unorganised/informal sector.)",
+     "text_after": "Options :",
+     "options": [
+      "Information related to employment is collected by Union Ministry of Labour.",
+      "International Labour Organization (ILO) has initiated modernization of this enterprise and the provision of social security measures to workers.",
+      "Highly vulnerable to uncertainties of the market.",
+      "An enterprise hires 10 or less than 10 workers."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Elaborate, how the efforts of various governments in India have helped in generation of employment, directly or indirectly, in the nation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -13412,7 +14147,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 33,
+   "count": 35,
    "questions": [
     {
      "qno": 20,
@@ -14028,13 +14763,49 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Population explosion, affluent consumption and production have placed a huge stress on the environment. Statement II : Carrying capacity is the largest size of a density-dependent population for which the population growth rate is zero. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : According to the 2021 World Air Quality Report, India is home to 63 of the 100 most polluted cities. The study also found that PM 2.5 concentration (tiny particles in the air that are 2.5 micrometres or smaller in length) in 48% of the country's cities are more than 10 times higher than the WHO's air quality guidelines level. Undoubtedly, this has made air pollution as one of the most pressing environmental issues in India. Vehicular emission, industrial waste, cooking smoke, the construction sector, crop burning and power generation are among the biggest sources of air pollution in India. The country's dependence on coal, oil and gas due to rampant electrification makes it the world's the largest polluter, contributing over 265 billion metric tonnes of carbon to the atmosphere every year. In 2021, India was among the world's most polluted countries, second only to Bangladesh. The annual average PM 2.5 level in India was about 58.1 µg/m³ in 2021. Scientists have linked persistent exposure to PM 2.5 to many long-term health issues including heart and lung disease, as well as 7.5 million premature deaths each year. On the basis of the above passage and common understanding, answer the following questions : (a) State any four sources of air pollution in India. (b) Discuss briefly the adverse impacts of rising levels of PM 2.5 particles in the air. (c) State the full form of CPCB.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 87,
+   "count": 90,
    "questions": [
     {
      "qno": 21,
@@ -16191,6 +16962,107 @@
        "year": 2026,
        "set": "58/3/1",
        "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the correct option with reference to the following statement : “Farmers and industrial units were required to transact fixed quantities of raw materials and finished goods on the basis of prices fixed by the government, while the rest were purchased and sold at market price.”",
+     "text_after": "Options :",
+     "options": [
+      "Great Leap Forward",
+      "Dual Pricing Policy",
+      "Special Economic Zones (SEZs)",
+      "Commune System"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Define Liberty Indicator and mention its significance.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "On the basis of the given data, outline and compare the share of Employment and Gross Value Added (GVA) of the sector that emerges to be a prospective employer in India and China. (Sectoral Share of Employment and GDP (%) in 2021)",
+     "table": {
+      "headers": [
+       "Sector",
+       "GVA : India",
+       "GVA : China",
+       "GVA : Pakistan",
+       "Workforce : India",
+       "Workforce : China",
+       "Workforce : Pakistan"
+      ],
+      "rows": [
+       [
+        "Agriculture",
+        "19",
+        "8",
+        "24",
+        "46",
+        "23",
+        "37"
+       ],
+       [
+        "Industry",
+        "29",
+        "39",
+        "20",
+        "25",
+        "32",
+        "25"
+       ],
+       [
+        "Services",
+        "52",
+        "53",
+        "56",
+        "29",
+        "45",
+        "38"
+       ],
+       [
+        "Total",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/4/1",
+       "qno": 32
       }
      ],
      "topic": "General"
