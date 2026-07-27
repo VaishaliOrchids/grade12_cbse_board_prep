@@ -7,7 +7,7 @@
   2024,
   2025
  ],
- "total_questions": 633,
+ "total_questions": 673,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -27,7 +27,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 68,
+   "count": 73,
    "questions": [
     {
      "qno": 2,
@@ -1698,13 +1698,170 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Using the given information, complete the following table : (Choose the correct option)",
+     "table": {
+      "headers": [
+       "",
+       "2014 – 2015",
+       "2016 – 2017"
+      ],
+      "rows": [
+       [
+        "Nominal GDP",
+        "6·5",
+        "9"
+       ],
+       [
+        "Real GDP",
+        "...(i)...",
+        "7·2"
+       ],
+       [
+        "GDP deflator",
+        "100",
+        "...(ii)..."
+       ]
+      ]
+     },
+     "text_after": "Options :",
+     "options": [
+      "125, 100",
+      "125, 110",
+      "6·5, 125",
+      "100, 6·5"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Calculate the value of ‘Sales’ from the following data :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Particulars",
+       "Amount (in ₹ lakh)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Subsidies",
+        "200"
+       ],
+       [
+        "(ii)",
+        "Operating surplus",
+        "500"
+       ],
+       [
+        "(iii)",
+        "Opening stock",
+        "100"
+       ],
+       [
+        "(iv)",
+        "Closing stock",
+        "600"
+       ],
+       [
+        "(v)",
+        "Intermediate consumption",
+        "3,000"
+       ],
+       [
+        "(vi)",
+        "Consumption of fixed capital",
+        "700"
+       ],
+       [
+        "(vii)",
+        "Profits",
+        "750"
+       ],
+       [
+        "(viii)",
+        "Net Value Added at Factor Cost ($NVA_{FC}$)",
+        "2,000"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "State and explain any two precautions that must be taken while estimating national income by income method.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “Domestic income is always less than national income.” Do you agree with the given statement ? Support your answer with valid arguments. (ii) Distinguish between positive externalities and negative externalities with suitable examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “In a two-sector economy, consumption expenditure by households is always equal to aggregate expenditure on goods and services produced by the firms.” Do you agree with the given statement ? Support your answer with valid explanation. (ii) “Problem of Double Counting leads to overestimation of output in an economy.” Justify the given statement with the help of suitable example.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 57,
+   "count": 62,
    "questions": [
     {
      "qno": 1,
@@ -2787,13 +2944,106 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "_____________ releases data of money supply in India. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Corporation Bank",
+      "Reserve Bank of India",
+      "Commercial Banks",
+      "State Bank of India"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Commercial banks are regarded as money creators because : (Choose the correct option)",
+     "options": [
+      "they purchase securities from the Central Bank.",
+      "loans provided by them create deposits.",
+      "they act as a banker to the government.",
+      "they regulate the lending rate in the economy."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Open Market Operations refers to purchase/sale of Government Securities (G-Sec) by the Central Bank. Statement 2 : To decrease money supply, Central Bank will sell the Government Securities to commercial banks. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Identify and explain any one function of Central Bank as indicated in the image given below : (The image is titled ‘FUNCTIONS OF RESERVE BANK OF INDIA’ and shows the RBI emblem at the centre with four arrows pointing to icons of currency notes, a government building, a money bag with a currency symbol, and a commercial bank.) (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 12 — Explain any one function of Central Bank.)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“Margin requirements are extremely helpful in correcting the situation of deflationary gap in an economy”. Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 90,
+   "count": 95,
    "questions": [
     {
      "qno": 6,
@@ -4577,13 +4827,112 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose, the consumption function is given as : $C = 205 + 0{\\cdot}9\\,Y$ (where C = Total Consumption and Y = National Income). The value of Investment Multiplier (K) would be _____________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "$0{\\cdot}09$",
+      "$10{\\cdot}0$",
+      "$0{\\cdot}9$",
+      "$9{\\cdot}0$"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Marginal Propensity to Consume (MPC) exhibits the slope of __________ function. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Saving",
+      "Consumption",
+      "Production",
+      "Cost"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Aggregate expenditure in the economy during an accounting year is also known as __________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Autonomous investment",
+      "Aggregate supply",
+      "Aggregate demand",
+      "Induced investment"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The 45° line in Keynesian economics indicates ___________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Income > Consumption",
+      "Savings > Investments",
+      "Consumption > Income",
+      "Income = Consumption"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(i) “In an economy, ex-ante investment (I) exceeds ex-ante savings (S).” Explain the likely impact of the given situation on output, employment and income. (ii) Define excess demand.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 36,
+   "count": 37,
    "questions": [
     {
      "qno": 17,
@@ -5245,13 +5594,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : The Union Budget 2025-26 introduces a series of measures aimed at strengthening the Micro, Small and Medium Enterprises (MSME) sector. It recognises the role of MSMEs as one of the key engines in India's journey of development, along with agriculture, investment and exports. As a vital contributor to India's industrial landscape, the MSME sector plays a crucial role in manufacturing sector, exports and employment generation. The new budgetary provisions aim to build on this strong foundation by fostering innovation, enhancing competitiveness and ensuring better access to resources. Furthermore, the Government's ongoing initiatives like Udyam registration portal, PM Vishwakarma, PMEGP, SFURTI, and the Public Procurement Policy continue to demonstrate a combined effort towards integrating and empowering MSMEs. On the basis of given text and common understanding, answer the following questions : (a) “MSMEs play a pivotal role in the India's journey of development.” Do you agree with the given statement ? Give valid reason in support of your answer. (b) Explain key measures initiated by the Government for strengthening MSMEs.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 64,
+   "count": 68,
    "questions": [
     {
      "qno": 4,
@@ -6519,13 +6883,86 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Keeping other things constant, there exists positive correlation between the price of foreign exchange and its demand. Statement 2 : The foreign exchange rate indicates a country's purchasing power in international markets. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R) carefully. Choose the correct option from those given below : Assertion (A) : Shipping service provided by an Indian company to foreign companies will be recorded in current account of Balance of Payments (BOP). Reason (R) : Current account of Balance of Payments (BOP) does not alter the status of the asset or liabilities of the residents of India.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a)(i) Distinguish between Balance of Payments and Balance of Trade. (ii) Define Current Account Surplus.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b)(i) Using suitable example, distinguish between Foreign Direct Investments (FDI) and Foreign Institutional Investments (FII). (ii) State one example of External Assistance as a component of capital account.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": "14-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 26,
+   "count": 28,
    "questions": [
     {
      "qno": 18,
@@ -7002,13 +7439,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) “Many economists believe that India paid a very heavy price for the British industrialisation, by becoming their feeder economy.” Justify the given statement with any one valid argument.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Critically appraise, infrastructural development in India during the British rule.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 33,
+   "count": 36,
    "questions": [
     {
      "qno": 19,
@@ -7646,13 +8114,66 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Modernization is an important economic planning objective that focuses on ___________. (i) Adoption of innovative technology (ii) Bringing positive change in social outlook (iii) Equal distribution of income and wealth (iv) Abolition of intermediaries. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "(i) and (iv)",
+      "(i) and (iii)",
+      "(i), (iii) and (iv)",
+      "(i) and (ii)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State and explain any two steps undertaken by the Government of India for the protection and promotion of Small-scale Industries between 1950 – 1990.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Elaborate the role of land ceiling as an institutional reform in agricultural sector during the planning period of India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 27,
+   "count": 29,
    "questions": [
     {
      "qno": 34,
@@ -8099,13 +8620,49 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 26,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Outsourcing from India has become more intensified in recent times due to the expansion of the ___________ sector. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Agriculture",
+      "Manufacturing",
+      "Information Technology",
+      "Construction"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Some economists argue that : “Post-1991 economic reforms, globalisation played a major role in poor performance of the industrial sector.” Present your arguments to justify the given statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 34,
+   "count": 36,
    "questions": [
     {
      "qno": 22,
@@ -8707,13 +9264,50 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following is not a feature of physical capital. (i) Tangibility (ii) Tradability (iii) Immobility. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(i) and (iii)",
+      "(i), (ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Argue in favour of the need for different forms of government intervention in education and health sectors.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 54,
+   "count": 56,
    "questions": [
     {
      "qno": 26,
@@ -9718,13 +10312,49 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 19,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Prime beneficiary of the Minimum Support Price (MSP) fixed by the government is _____________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Labourer",
+      "Consumer",
+      "Trader (Buyer)",
+      "Farmer"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Rural Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : The National-Level Multi-State Cooperative Society recently approved by the Union Cabinet for promoting organic production and exports, will help the farmers to increase their income manifold. The arrangements for testing of land and selection of natural form of products will be set up in each district in the coming five years. Government has also decided to setup a cooperative society in all Panchayats, which will ensure that the Central Government schemes reach the farmers. Wide use of urea has spoiled farm land, and lakhs of farmers have moved towards organic farming. To get better prices, there is a need for marketing and certification of such produce. Furthermore, steps must be taken to ensure that fake organic products do not hit the market. On the basis of given text and common understanding, answer the following questions : (a) Define organic farming. (b) State any two benefits of organic farming. (c) Explain the steps taken by the government to promote organic products.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 40,
+   "count": 44,
    "questions": [
     {
      "qno": 25,
@@ -10442,6 +11072,85 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, the incorrect feature associated with the formal sector of employment in any economy. (Choose the correct option)",
+     "options": [
+      "Job security",
+      "Social security benefits",
+      "Irregular payments",
+      "Fixed working hours"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Under ___________ unemployment the marginal productivity of a worker is equal to zero. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Seasonal",
+      "Structural",
+      "Involuntary",
+      "Disguised"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose the percentage of casual workers rises in an economy as compared to the regular workers. This situation may be known as ___________ of workforce. (i) Formalisation (ii) Casualisation (iii) Unemployment. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "only (ii)",
+      "only (i)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Compare and analyse the following information related to distribution of employment in India : (The bar graph titled ‘Distribution of Employment (Male-Female) in Different Sectors’ shows, for Male Workers : Primary Sector 40·7%, Secondary Sector 26·5%, Tertiary Sector 32·8%; and for Female Workers : Primary Sector 57·1%, Secondary Sector 17·7%, Tertiary Sector 25·2%.) (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 30 — “Compared to urban women, more rural women are found working.” Justify the given statement with valid explanation.)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -10532,7 +11241,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 27,
+   "count": 28,
    "questions": [
     {
      "qno": 20,
@@ -11025,13 +11734,34 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : In order to address the problem of water and air pollution in India, the Government of India had established the Central Pollution Control Board (CPCB). Statement 2 : Deforestation leads to the permanent destruction of indigenous forests. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 72,
+   "count": 76,
    "questions": [
     {
      "qno": 21,
@@ -12881,6 +13611,79 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Recently, India hosted and chaired the summit of ___________ one of the regional and economic groupings. (Choose the correct option to fill in the blank)",
+     "options": [
+      "SAARC",
+      "G8",
+      "ASEAN",
+      "G20"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "____________ is one of the demographic indicators in which Pakistan is ahead of India and China. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Urbanisation",
+      "Fertility rate",
+      "Population density",
+      "Sex ratio"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) Explain any two similar developmental strategies followed by India and Pakistan in post 1947 era. (ii) State and discuss any two reasons for slow economic growth in Pakistan.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “China used the tool of Special Economic Zones for its economic development very effectively.” Justify the given statement with valid explanation. (ii) Mention and discuss any two indicators of human development, where China has performed well.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "58/7/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
