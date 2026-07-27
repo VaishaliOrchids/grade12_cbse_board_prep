@@ -1745,12 +1745,23 @@
           Array.prototype.forEach.call(document.querySelectorAll("#pp-chaps input"), function (b) { b.checked = false; });
           updateCount();
         });
-        document.getElementById("pp-next").addEventListener("click", function () {
+        document.getElementById("pp-gen").addEventListener("click", function () {
           var note = document.getElementById("pp-note");
-          if (!st.chapters.length) { note.innerHTML = '<div class="bp-empty">Select at least one chapter to continue.</div>'; return; }
-          note.innerHTML = '<div class="pp-ok"><b>' + st.chapters.length + " chapter" +
-            (st.chapters.length === 1 ? "" : "s") + " selected</b> for " + esc(st.data.subject) + ".<br>" +
-            "Next step — choosing questions and generating the Word paper — is coming soon.</div>";
+          if (!st.chapters.length) { note.innerHTML = '<div class="bp-empty">Select at least one chapter.</div>'; return; }
+          var f = document.getElementById("pp-file").files[0];
+          if (!f) { note.innerHTML = '<div class="bp-empty">Choose your <b>.docx</b> template first.</div>'; return; }
+          if (typeof JSZip === "undefined") { note.innerHTML = '<div class="bp-empty">The document engine is still loading — try again in a moment.</div>'; return; }
+          note.innerHTML = '<div class="pp-ok">Filling your template…</div>';
+          var pick = buildPicker(st.data, st.chapters);
+          f.arrayBuffer().then(function (buf) { return fillDocx(buf, pick); }).then(function (res) {
+            downloadBlob(res.blob, st.data.subject.replace(/[^A-Za-z0-9]+/g, "_") + "_Question_Paper.docx");
+            note.innerHTML = '<div class="pp-ok"><b>Done.</b> Filled ' + res.filled + " question" + (res.filled === 1 ? "" : "s") +
+              (res.blank ? "; left <b>" + res.blank + "</b> slot" + (res.blank === 1 ? "" : "s") + " blank (no matching question in the selected chapters)." : ".") +
+              "<br>Your filled Word file has been downloaded.</div>";
+          }).catch(function (e) {
+            note.innerHTML = '<div class="bp-empty">Couldn’t fill this template — ' + esc(String((e && e.message) || e)) +
+              ". Check that it has the Q. No. / Questions / Marks / Metadata Info table.</div>";
+          });
         });
         updateCount();
       }
@@ -1766,13 +1777,20 @@
           st.data = d;
           body.innerHTML =
             '<div class="pp-panel">' +
-              '<div class="pp-step"><span class="pp-stepn">1</span> Syllabus for this paper — select the chapters to include</div>' +
+              '<div class="pp-step"><span class="pp-stepn">1</span> Syllabus — select the chapters to include</div>' +
               '<div class="bp-chaptools"><button type="button" id="pp-all">Select all</button><button type="button" id="pp-none">Clear</button></div>' +
               '<div class="bp-chaps" id="pp-chaps">' + chaptersHTML(st) + "</div>" +
-              '<div class="pp-foot"><span class="pp-count" id="pp-count"></span>' +
-                '<button class="bp-gen" id="pp-next">Continue →</button></div>' +
+              '<div class="pp-count" id="pp-count"></div>' +
             "</div>" +
-            '<div class="pp-note" id="pp-note"></div>';
+            '<div class="pp-panel">' +
+              '<div class="pp-step"><span class="pp-stepn">2</span> Upload your Word template (.docx)</div>' +
+              '<p class="pp-hint">Your template must use a table with columns <b>Q. No. · Questions · Marks · Metadata Info</b> ' +
+                '(metadata rows <b>Ch:</b> / <b>Topic:</b> / <b>(type / difficulty / Bloom)</b>), an <b>(A)–(D)</b> grid for MCQs, ' +
+                'and <b>OR</b> rows for internal choice. Each slot is filled with the best-matching question ' +
+                '(<b>recent + higher-order</b>) from your chosen chapters; a slot with no match is left blank.</p>' +
+              '<div class="pp-uprow"><input type="file" id="pp-file" accept=".docx"><button class="bp-gen" id="pp-gen">Generate &amp; download</button></div>' +
+              '<div class="pp-note" id="pp-note"></div>' +
+            "</div>";
           wireChaps();
         });
       }
@@ -1783,6 +1801,140 @@
       window.scrollTo(0, 0);
     });
   }
+
+  /* ---------------- Question Paper: .docx fill engine ---------------- */
+  // Build a "picker": ranks the selected chapters' questions by
+  // higher-order Bloom + recency, returns the best unused match per slot.
+  function buildPicker(subjectData, chapters) {
+    var all = [];
+    subjectData.chapters.forEach(function (c) {
+      if (chapters.indexOf(c.chapter) === -1) return;
+      c.questions.forEach(function (q) {
+        // clean fills only: skip questions carrying a table/figure
+        if (q.table || q.figures || (q.or && (q.or.table || q.or.figures))) return;
+        all.push(q);
+      });
+    });
+    var BR = { Create: 4, Evaluate: 4, Analyse: 3, Apply: 2, Understand: 1, Remember: 0 };
+    function score(q) {
+      var b = BR[q.bloom] == null ? 1 : BR[q.bloom];
+      var yr = Math.max.apply(null, q.papers.map(function (p) { return p.year; })) - 2022;
+      return b * 10 + yr;   // Bloom first, recency as tie-break
+    }
+    function byScore(a, b) { return score(b) - score(a); }
+    var mcq = {}, byMark = {};
+    [1, 2].forEach(function (m) {
+      mcq[m] = all.filter(function (q) { return q.marks === m && q.type === "MCQ" && (q.options || []).length === 4; }).sort(byScore);
+    });
+    [1, 2, 3, 4, 5, 6].forEach(function (m) {
+      byMark[m] = all.filter(function (q) { return q.marks === m && q.type !== "MCQ"; }).sort(byScore);
+    });
+    var used = {};
+    function key(q) { var p = q.papers[0]; return p.year + "|" + p.set + "|" + p.qno; }
+    return function (marks, isMCQ) {
+      var pool = isMCQ ? (mcq[marks] || []) : (byMark[marks] || []);
+      for (var i = 0; i < pool.length; i++) { if (!used[key(pool[i])]) { used[key(pool[i])] = 1; return pool[i]; } }
+      return null;
+    };
+  }
+
+  var WNS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main";
+  function wEls(el, tag) { return el.getElementsByTagNameNS(WNS, tag); }
+  function cellText(tc) { var ts = wEls(tc, "t"), s = ""; for (var i = 0; i < ts.length; i++) s += ts[i].textContent; return s.trim(); }
+  function isVMergeCont(tc) {
+    var pr = wEls(tc, "tcPr")[0]; if (!pr) return false;
+    var vm = null, kids = pr.childNodes;
+    for (var i = 0; i < kids.length; i++) if (kids[i].localName === "vMerge") { vm = kids[i]; break; }
+    if (!vm) return false;
+    var val = vm.getAttributeNS(WNS, "val") || vm.getAttribute("w:val");
+    return !val || val === "continue";
+  }
+  function ensureP(doc, tc) { var ps = wEls(tc, "p"); if (ps.length) return ps[0]; var p = doc.createElementNS(WNS, "w:p"); tc.appendChild(p); return p; }
+  function addRun(doc, p, text) {
+    var r = doc.createElementNS(WNS, "w:r"), t = doc.createElementNS(WNS, "w:t");
+    t.setAttribute("xml:space", "preserve"); t.textContent = text; r.appendChild(t); p.appendChild(r);
+  }
+  function appendCell(doc, tc, text) { addRun(doc, ensureP(doc, tc), text); }
+  function setCell(doc, tc, text) {
+    var ps = wEls(tc, "p");
+    for (var i = 0; i < ps.length; i++) { var rs = wEls(ps[i], "r"); for (var j = rs.length - 1; j >= 0; j--) rs[j].parentNode.removeChild(rs[j]); }
+    addRun(doc, ps[0] || ensureP(doc, tc), text);
+  }
+  function rowCells(tr) {
+    // direct-child cells only (avoid any nested-table cells)
+    var out = []; for (var i = 0; i < tr.childNodes.length; i++) if (tr.childNodes[i].localName === "tc") out.push(tr.childNodes[i]); return out;
+  }
+  function tableRows(tbl) {
+    var out = []; for (var i = 0; i < tbl.childNodes.length; i++) if (tbl.childNodes[i].localName === "tr") out.push(tbl.childNodes[i]); return out;
+  }
+
+  function fillDocx(arrayBuffer, pick) {
+    return JSZip.loadAsync(arrayBuffer).then(function (zip) {
+      var docFile = zip.file("word/document.xml");
+      if (!docFile) throw new Error("not a Word .docx");
+      return docFile.async("string").then(function (xml) {
+        var doc = new DOMParser().parseFromString(xml, "application/xml");
+        var tbls = wEls(doc.documentElement, "tbl");
+        var filled = 0, blank = 0;
+        for (var ti = 0; ti < tbls.length; ti++) {
+          var rows = tableRows(tbls[ti]);
+          if (!rows.length) continue;
+          var hdr = rowCells(rows[0]).map(cellText).join(" | ").toLowerCase();
+          if (hdr.indexOf("q. no.") === -1 || hdr.indexOf("questions") === -1) continue; // not a question table
+          // group rows into blocks, each starting at a row that has a "Ch:" cell
+          var block = null;
+          for (var ri = 1; ri < rows.length; ri++) {
+            var cells = rowCells(rows[ri]);
+            var hasCh = cells.some(function (c) { return /^ch\s*:/i.test(cellText(c)); });
+            if (hasCh) { if (block) fillBlock(doc, block, pick, function (b) { b ? blank++ : filled++; }); block = []; }
+            if (block) block.push.apply(block, cells);
+          }
+          if (block) fillBlock(doc, block, pick, function (b) { b ? blank++ : filled++; });
+        }
+        var out = new XMLSerializer().serializeToString(doc);
+        zip.file("word/document.xml", out);
+        return zip.generateAsync({ type: "blob", mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document" })
+          .then(function (blob) { return { blob: blob, filled: filled, blank: blank }; });
+      });
+    });
+  }
+
+  function fillBlock(doc, cells, pick, done) {
+    var marks = null, isMCQ = false, isOR = false;
+    var qCells = [], opt = {}, chCell = null, topicCell = null, typeCell = null;
+    cells.forEach(function (tc) {
+      if (isVMergeCont(tc)) return;               // skip merged continuations
+      var txt = cellText(tc), m;
+      if (/^q\.\s*\d/i.test(txt)) return;         // Q.No
+      if ((m = txt.match(/(\d+)\s*marks?/i))) { marks = parseInt(m[1], 10); return; }
+      if (/^ch\s*:/i.test(txt)) { chCell = tc; return; }
+      if (/^topic\s*:/i.test(txt)) { topicCell = tc; return; }
+      if (/^\(\s*question\s*type/i.test(txt)) { typeCell = tc; return; }
+      if ((m = txt.match(/^\(\s*([A-D])\s*\)/))) { opt[m[1]] = tc; isMCQ = true; return; }
+      if (/^or$/i.test(txt)) { isOR = true; return; }
+      if (txt === "") qCells.push(tc);            // empty Questions-column cell
+    });
+    var q = pick(marks, isMCQ);
+    if (!q) {
+      if (typeCell) setCell(doc, typeCell, "— no matching question —");
+      done(true); return;
+    }
+    if (qCells[0]) setCell(doc, qCells[0], q.text);
+    if (isMCQ && q.options) ["A", "B", "C", "D"].forEach(function (L, i) { if (opt[L]) appendCell(doc, opt[L], " " + (q.options[i] == null ? "" : q.options[i])); });
+    if (isOR && qCells[1]) { var q2 = pick(marks, false); if (q2) setCell(doc, qCells[1], q2.text); }
+    if (chCell) appendCell(doc, chCell, " " + (q.chapter || ""));
+    if (topicCell) appendCell(doc, topicCell, " " + (q.topic || ""));
+    if (typeCell) setCell(doc, typeCell, [q.type, q.difficulty, q.bloom].filter(Boolean).join(" / "));
+    done(false);
+  }
+
+  function downloadBlob(blob, name) {
+    var url = URL.createObjectURL(blob), a = document.createElement("a");
+    a.href = url; a.download = name; document.body.appendChild(a); a.click();
+    setTimeout(function () { document.body.removeChild(a); URL.revokeObjectURL(url); }, 1500);
+  }
+
+  window.__pp = { fillDocx: fillDocx, buildPicker: buildPicker };   // TEMP test hook
 
   /* ================= Figure re-cropping ================= */
   function saveCrops() { try { localStorage.setItem("qbank_crops", JSON.stringify(CROPS)); } catch (e) {} }
