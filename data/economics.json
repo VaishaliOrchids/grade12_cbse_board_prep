@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 755,
+ "total_questions": 794,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -28,7 +28,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 86,
+   "count": 92,
    "questions": [
     {
      "qno": 2,
@@ -2169,13 +2169,207 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the variable(s) which may add to the future productive capacity of an economy : I. Raw material II. Fixed investment III. Inventories with producers. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Only I",
+      "Only II",
+      "II and III",
+      "I, II and III"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On the basis of the given table, estimate the value added by the Baker. (Choose the correct option)",
+     "table": {
+      "headers": [
+       "(Amount in ₹ crore)",
+       "Farmer",
+       "Baker"
+      ],
+      "rows": [
+       [
+        "Total Production",
+        "100",
+        "200"
+       ],
+       [
+        "Intermediate Consumption",
+        "0",
+        "50"
+       ],
+       [
+        "Value Added",
+        "100",
+        "...(i)..."
+       ]
+      ]
+     },
+     "text_after": "Options :",
+     "options": [
+      "200",
+      "250",
+      "100",
+      "150"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) State the meaning and any two components of Gross Domestic Capital formation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) “It is not the nature of a good, rather the economic nature of its use, which determines whether it is a final good or not.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Calculate the values of Operating Surplus and Gross Domestic Product at Market Price ($GDP_{MP}$) from the following data :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Particulars",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Rent",
+        "120"
+       ],
+       [
+        "(ii)",
+        "Profits",
+        "200"
+       ],
+       [
+        "(iii)",
+        "Domestic Income",
+        "720"
+       ],
+       [
+        "(iv)",
+        "Mixed Income",
+        "70"
+       ],
+       [
+        "(v)",
+        "Wages and Salaries",
+        "300"
+       ],
+       [
+        "(vi)",
+        "Indirect Taxes",
+        "150"
+       ],
+       [
+        "(vii)",
+        "Subsidies",
+        "50"
+       ],
+       [
+        "(viii)",
+        "Consumption of fixed capital",
+        "200"
+       ],
+       [
+        "(ix)",
+        "Interest",
+        "30"
+       ],
+       [
+        "(x)",
+        "Dividend",
+        "120"
+       ],
+       [
+        "(xi)",
+        "Net factor income from abroad",
+        "20"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) Distinguish between Real Gross Domestic Product and Nominal Gross Domestic Product using a numerical example. (ii) Define the concept of ‘Externalities’.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 72,
+   "count": 74,
    "questions": [
     {
      "qno": 1,
@@ -3538,13 +3732,43 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“The Reserve Bank of India (RBI) has decided to increase the loan amount to 90% of the security value, from the prior rate of 80%.” In the light of above statement, identify the type of monetary measure exercised by the Reserve Bank of India (RBI) and its likely impacts on the Aggregate Demand of the economy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Money and Banking",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following passage carefully : Any institution which accepts deposits from the public and advances loans is a bank. Banks are broadly categorised into : Commercial Banks, and Central Bank. Commercial banks accept deposits from public and use these deposits for giving loans. Banks keep a fraction of deposits as reserves. Generally, all depositors do not demand their money at the same time. The Central Bank of a country is responsible for controlling credit creation. The Reserve Bank of India (RBI) regulates the money supply in India through its monetary policy. On the basis of the above passage and common understanding, answer the following questions : (i) State the meaning of a Bank. (ii) Mention any two traits that distinguish Central Bank from Commercial Banks. (iii) “Open market operation is the tool used by Reserve Bank of India (RBI) to regulate money supply in the economy.” Justify the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 105,
+   "count": 109,
    "questions": [
     {
      "qno": 6,
@@ -5644,13 +5868,92 @@
       ]
      },
      "text_after": "(II) Identify the monetary measures being referred to in the following statements. Discuss whether the tool would be used during a situation of excess demand or deficient demand. (i) Selling off government securities (G-Sec) to public by the central bank. (ii) Encourage commercial banks to park their surplus funds with the Reserve Bank of India (RBI)."
+    },
+    {
+     "qno": 5,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Select the correct formula to calculate the value of Marginal Propensity to Save (MPS) : I. $\\dfrac{\\text{Change in Savings }(\\Delta S)}{\\text{Change in Consumption }(\\Delta C)}$ II. $\\dfrac{\\text{Change in Savings }(\\Delta S)}{\\text{Change in Income }(\\Delta Y)}$ III. 1 – Marginal Propensity to Consume (MPC) IV. $\\dfrac{\\text{Change in Income }(\\Delta Y)}{\\text{Change in Savings }(\\Delta S)}$",
+     "text_after": "Options :",
+     "options": [
+      "I, II, III and IV",
+      "II and III",
+      "Only III",
+      "Only II"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose in a hypothetical economy, $Y = 50 + 0{\\cdot}8Y + 100$, where Y = National Income. The value of Investment Multiplier (K) would be ___________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "5",
+      "$0{\\cdot}2$",
+      "50",
+      "$0{\\cdot}8$"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : At the break-even level of income, the value of slope of the consumption curve is zero. Statement II : Marginal Propensity to Consume (MPC) refers to the change in consumption per unit change in income. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Estimate the value of incremental investment if, equilibrium level of income increases by ₹ 50,000 crore and half of additional income is always saved in the economy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 39,
+   "count": 43,
    "questions": [
     {
      "qno": 17,
@@ -6357,13 +6660,87 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Government Budget and the Economy",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Borrowing requirements of the government include interest obligations on debt as well. Reason (R) : The goal of measuring primary deficit is to correct the prevailing fiscal imbalances.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Government Budget and the Economy",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“Consumption of a good by a person does not reduce the amount available for consumption by others. Consumers consuming such goods are known as free-riders.” Identify the type of goods indicated in the above text.",
+     "text_after": "Options :",
+     "options": [
+      "Public goods",
+      "Private goods",
+      "Joint venture goods",
+      "Self-consumption goods"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Government Budget and the Economy",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Distinguish between Revenue Expenditure and Capital Expenditure with the help of suitable examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Government Budget and the Economy",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Using suitable examples, distinguish between Revenue Receipts and Capital Receipts.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": "13-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 74,
+   "count": 78,
    "questions": [
     {
      "qno": 4,
@@ -7818,13 +8195,93 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, the factor which influences the demand for foreign exchange in a country. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Investments made by Indians in Japan",
+      "Indian producers exporting fabrics to United States of America (USA)",
+      "Remittances by Indian workers from Gulf countries",
+      "An Indian software company providing services to clients abroad"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Trade in services includes both factor income and non-factor income transactions. Statement II : Current Account includes transactions related to goods, services and unilateral transfers. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Under the fixed exchange rate system, if the government decreases the value of domestic currency with respect to a foreign currency, it is known as __________ of currency. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Devaluation",
+      "Depreciation",
+      "Appreciation",
+      "Revaluation"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“US administration has recently imposed tariff to the magnitude of 50%.” In the light of given statement, explain the likely impact of this step on the exports of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 34,
+   "count": 36,
    "questions": [
     {
      "qno": 18,
@@ -8437,6 +8894,42 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Inland waterways proved to be uneconomical as in the case of Coast Canal on the Orissa coast. Statement II : British government followed an effective and efficient administrative set-up leaving a legacy of effective work culture. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Study the given image carefully and answer the questions that follow. (The image is a world map showing two shipping routes between London and Mumbai — a shorter route of about 7,200 miles passing from the Mediterranean Sea into the Red Sea via an artificial canal, and a longer route of about 12,300 miles going around Africa via the Atlantic Ocean.) (i) Identify the artificial waterway during colonial rule that served as a highway between India and Britain. (ii) In which year was this artificial maritime route officially opened for international navigation ? (iii) Describe the economic significance of artificial waterways between the Mediterranean and the Red Sea. (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 32 — “The real motive behind infrastructural development under the British rule was not to provide basic amenities to the people of India, but to subserve various colonial interests.” Do you agree with the given statement ? Give valid reasons in support of your answer.)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -9171,7 +9664,7 @@
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 33,
+   "count": 36,
    "questions": [
     {
      "qno": 34,
@@ -9729,13 +10222,66 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The primary outcome of the efforts initiated by the Indian Government (Liberalisation and Privatisation) under the New Economic Policy of 1991 was __________. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Fiscal policy reforms",
+      "Globalization",
+      "Monetary policy reforms",
+      "Reservation of products"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Describe the role which India has played as an important member of World Trade Organisation (WTO).",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Critically appraise the Industrial Licensing policy initiated by the government during the planning period of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 40,
+   "count": 42,
    "questions": [
     {
      "qno": 22,
@@ -10429,6 +10975,11 @@
        "year": 2026,
        "set": "58/2/1",
        "qno": 20
+      },
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 26
       }
      ],
      "topic": "General"
@@ -10454,13 +11005,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Describe the role of government in improving the efficiency of human capital formation in India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Human Capital Formation in India",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) “Traditional knowledge and practices are still applicable in ensuring sustainable development.” Do you agree with the given statement ? Support your answer with valid reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 62,
+   "count": 65,
    "questions": [
     {
      "qno": 26,
@@ -11621,13 +12203,71 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Minimum Support Price is fixed by the Government to safeguard the interests of the ___________. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Consumers",
+      "Farmers",
+      "Wholesalers",
+      "Middlemen"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Livestock provides alternative livelihood options to small and marginal farmers. Statement II : In rural areas, animal husbandry provides stable employment opportunities throughout the year. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Rural Development",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Some economists argue that once a technology proves to be profitable and becomes widely adopted, subsidies should be gradually withdrawn.” Defend or refute the given statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 53,
+   "count": 56,
    "questions": [
     {
      "qno": 25,
@@ -12630,6 +13270,58 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : The unemployment problem in India is multifaceted. Reason (R) : Some individuals work round the year, while others work only a few months in a year.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “Information Technology plays a very significant role in achieving sustainable development and food security.” Justify the given statement with valid arguments. (ii) State the meaning of ‘self-employed worker’ with suitable example.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) Distinguish between formal and informal sector with suitable examples. (ii) Define worker population ratio with its significance.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
@@ -12720,7 +13412,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 32,
+   "count": 33,
    "questions": [
     {
      "qno": 20,
@@ -13321,13 +14013,28 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following passage carefully : In the present times, green investment and sustainability are priorities in public policy. India has emerged as a global leader at the front of the climate change. India has pledged to seek solutions for the future. The government has contributed to maintain economic growth by implementing various policies and measures relating to sustainable development. Pradhan Mantri Ujjwala Scheme has actively contributed to cleaner air. The Jal Jeevan Mission was launched with the objective of achieving water security. The greenhouse effect is a natural process that warms the Earth's surface, where certain atmospheric gases, known as greenhouse gases, trap heat from the sun and re-emit it, keeping the planet warm enough to support life. In the present times, the issue of greenhouse gases and rising temperature of the Earth are a global concern. On basis of the above passage and common understanding, answer the following questions : (a) Discuss any two steps involved in attaining sustainable development in India. (b) Mention any two factors which challenged the carrying capacity of the environment. (c) Define Greenhouse effect.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 82,
+   "count": 87,
    "questions": [
     {
      "qno": 21,
@@ -15351,6 +16058,139 @@
        "year": 2026,
        "set": "58/2/1",
        "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events of Pakistan in correct chronological order : I. Nationalisation of capital goods industries II. Establishment of Pakistan III. Introduction of economic reforms IV. Announcement of First Five Year Plan. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "III, IV, I, II",
+      "III, II, I, IV",
+      "IV, III, II, I",
+      "II, IV, I, III"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following text carefully : “Between 1966 – 67, Mao introduced this movement under which professionals and students were asked to work and learn from the countryside of China.” Identify the correct option with reference to the aforesaid text.",
+     "options": [
+      "Commune System",
+      "Great Leap Forward",
+      "Open Door Policy",
+      "Great Proletarian Cultural Revolution"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Nations worldwide typically establish Regional and Global economic groups in order to _____________. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Strengthen their economies",
+      "Ensure liberty",
+      "Promote judicial independence",
+      "Gain control over other countries"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following is an income indicator. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Mortality rate",
+      "Malnourishment",
+      "GDP per capita",
+      "Morbidity rate"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "On the basis of the given data, comment on trends of output growth in different sectors (1980 – 2018), between India and Pakistan.",
+     "table": {
+      "headers": [
+       "Country",
+       "1980–90 : Agriculture",
+       "1980–90 : Industry",
+       "1980–90 : Services",
+       "2014–18 : Agriculture",
+       "2014–18 : Industry",
+       "2014–18 : Services"
+      ],
+      "rows": [
+       [
+        "India",
+        "3·1",
+        "7·4",
+        "6·9",
+        "3·1",
+        "6·9",
+        "7·6"
+       ],
+       [
+        "Pakistan",
+        "4",
+        "7·7",
+        "6·8",
+        "1·7",
+        "4·8",
+        "5·0"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/3/1",
+       "qno": 30
       }
      ],
      "topic": "General"
