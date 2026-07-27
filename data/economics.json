@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 835,
+ "total_questions": 876,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -28,7 +28,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 97,
+   "count": 103,
    "questions": [
     {
      "qno": 2,
@@ -2517,13 +2517,177 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘‘The Ministry of Statistics and Programme Implementation (MoSPI) is underway to revise the base year of Gross Domestic Product (GDP). The base year is revised periodically to better capture the structural changes happening in the economy. The proposed new base year for the GDP is 2022 – 23.’’ The step taken by the Government of India is for revision of ___________ Gross Domestic Product (GDP), as it is measured at ___________ prices. (Choose the correct option to fill in the blanks)",
+     "options": [
+      "Real, constant",
+      "Nominal, current",
+      "Real, current",
+      "Nominal, constant"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Following are the steps to measure National Income ($NNP_{FC}$) by Value Added method : (i) Calculate Domestic Income ($NDP_{FC}$) by subtracting Depreciation and Net Indirect Taxes from $GDP_{MP}$. (ii) Estimate $GDP_{MP}$ by adding GVA of each firm. (iii) Estimate and add Net Factor Income from Abroad to $NDP_{FC}$ to arrive at $NNP_{FC}$. (iv) Identify and classify the production units into primary, secondary and tertiary sector. The correct order of arrangement of steps would be : (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "(ii), (iii), (i), (iv)",
+      "(iv), (ii), (i), (iii)",
+      "(iv), (ii), (iii), (i)",
+      "(iii), (iv), (ii), (i)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Positive externalities refer to the benefits a firm/an individual provides to another for which they are paid. Statement II : In case of positive externalities, Gross Domestic Product (GDP) of an economy might lead to an overestimation of the actual welfare. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Estimate the value of ‘Income from Property and Entrepreneurship’ on the basis of the given data :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Items",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Wages and salaries",
+        "1,300"
+       ],
+       [
+        "(ii)",
+        "Rent",
+        "700"
+       ],
+       [
+        "(iii)",
+        "Employer's contribution to social security schemes",
+        "300"
+       ],
+       [
+        "(iv)",
+        "Royalty",
+        "200"
+       ],
+       [
+        "(v)",
+        "Corporate tax",
+        "100"
+       ],
+       [
+        "(vi)",
+        "Interest",
+        "350"
+       ],
+       [
+        "(vii)",
+        "Consumption of fixed capital",
+        "50"
+       ],
+       [
+        "(viii)",
+        "Dividends",
+        "150"
+       ],
+       [
+        "(ix)",
+        "Savings of private corporate sector",
+        "200"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) A company named Tech Info Ltd. manufactures printers. The company purchases machinery from Germany to manufacture printers. These printers are sold in the domestic and foreign markets to households and dealers. The machinery purchased and printers manufactured, both can be classified as final goods. Do you agree with the given statement ? Give valid arguments in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b)(i) Define Gross Investments. (ii) Identify any two components of Gross Investments indicated in the given image. (The image titled ‘GROSS INVESTMENTS’ has three panels — PANEL A: a construction crane erecting a structure; PANEL B: residential houses; PANEL C: a warehouse stacked with boxes/inventory.) (iii) Briefly explain any one component of Gross Investments. (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 14(b) — Explain any two components of Gross Investments.)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "14-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 79,
+   "count": 85,
    "questions": [
     {
      "qno": 1,
@@ -4010,13 +4174,124 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Money supply is a ___________ variable, as it refers to the total volume of money held by the ___________ at a particular point of time. (Choose the correct option to fill in the blanks)",
+     "options": [
+      "stock, banks",
+      "flow, banks",
+      "stock, public",
+      "flow, public"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Suppose, for a hypothetical economy, Reserve Ratio (RR) decreases from 25% to 20%, the total deposits would ___________ to ₹ ___________, if primary deposits are ₹ 1,000. (Choose the correct option to fill in the blanks)",
+     "text_after": "Options :",
+     "options": [
+      "increase, 5,000",
+      "decrease, 5,000",
+      "increase, 4,000",
+      "decrease, 4,000"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Liabilities for any firm are its debt/what it owes to others. Contrary to that, for a bank ___________ are the main liability. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "loans",
+      "reserves",
+      "deposits",
+      "assets"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) “Repo Rate and Bank Rate are two different measures, but a change in either of them may have the similar implication on the money supply in an economy.” Defend or refute the given statement, giving valid explanation in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) “The Reserve Bank of India (RBI) is the sole authority for issuing currency notes in India, with an exception of ₹ 1 denomination that is issued by the Ministry of Finance.” Do you agree with the given statement ? Explain the rationale behind the monopoly enjoyed by the Reserve Bank of India (RBI) on this front.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "12-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Read the following text carefully : “With an objective to improve the growth momentum by stimulating domestic private consumption and investment, the Reserve Bank of India (RBI) announced a reduction in Cash Reserve Ratio (CRR) by 100 basis points (1%).” Based on the above text and common understanding, answer the following questions : (i) Explain the likely cause behind the step taken by the Reserve Bank of India (RBI). (ii) Briefly explain the impact of the step taken by the Reserve Bank of India (RBI) on the Aggregate Demand (AD).",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 115,
+   "count": 120,
    "questions": [
     {
      "qno": 6,
@@ -6312,13 +6587,145 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "With reference to the given diagram, OL indicates ___________. (The graph has ‘Consumption, Investments’ on the Y-axis and ‘Level of Income’ on the X-axis. It shows an upward-sloping AD line at the top, an upward-sloping consumption line labelled $C = \\bar{C} + MPC(Y)$ with intercept at L, and a horizontal investment line labelled I at level J; O is the origin and M a point on the Y-axis below J.) (i) Autonomous Consumption (ii) Autonomous Investment (iii) Induced Consumption (iv) Induced Investment. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Only (i)",
+      "Only (ii)",
+      "Sum of (i) and (ii)",
+      "Sum of (i) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates only, in lieu of Q. No. 2 :) ___________ refers to that consumption, which is independent of the level of income. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Autonomous Consumption",
+      "Induced Consumption",
+      "Break-even level",
+      "Autonomous Investment and Consumption"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "2-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "An economy may operate at a level below full employment due to a deficiency in Aggregate Demand (AD) leading to a/an ___________ employment equilibrium. (i) Full (ii) Over (iii) Under. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Only (i)",
+      "Only (ii)",
+      "Only (iii)",
+      "(ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Determination of Income and Employment",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Assume, for a hypothetical economy, the following data is given :",
+     "table": {
+      "headers": [
+       "Income (Y)",
+       "Consumption (C)",
+       "Investment (I)",
+       "Aggregate Demand (AD)"
+      ],
+      "rows": [
+       [
+        "0",
+        "40",
+        "20",
+        "60"
+       ],
+       [
+        "100",
+        "120",
+        "20",
+        "–"
+       ],
+       [
+        "200",
+        "200",
+        "20",
+        "–"
+       ],
+       [
+        "300",
+        "280",
+        "20",
+        "300"
+       ]
+      ]
+     },
+     "text_after": "(i) Calculate the missing values in the given schedule. (ii) Define the term ‘Effective Demand’. (iii) On the basis of the given data, it can be said that the equilibrium level of income is 200. Do you agree ? If not, explain the adjustment mechanism that may take place to attain equilibrium level of income.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Determination of Income and Employment",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Suppose, in an economy, every ₹ 1 increase in investment expenditure leads to an increase of ₹ 4 in the National Income. Calculate the following : (i) Value of Investment Multiplier (K). (ii) Change in consumption expenditure, if the income changes from ₹ 400 to ₹ 500. (iii) “Sum of Marginal Propensity to Consume (MPC) and Marginal Propensity to Save (MPS) is always equal to one.” Justify the given statement with the help of a suitable argument.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 45,
+   "count": 46,
    "questions": [
     {
      "qno": 17,
@@ -7130,13 +7537,28 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following passage carefully : According to the Economic Survey 2024 – 25, the government's budget projections for the fiscal year 2025 – 26 indicate that gross direct tax revenue will rise by 12.7%, while gross indirect tax collections are expected to grow by 8.3% relative to FY 2024 – 25. Direct taxes include income tax and corporate tax, reflecting earnings and profits of households and firms. It plays a key role in revenue growth of the government. Indirect taxes encompass Goods and Service Tax (GST), custom duties and other transaction-based levies. Higher growth rate projected for direct taxes suggests a push to enhance tax buoyancy through improved compliance and reforms. On the other hand, indirect taxes are expected to benefit from consumption trends and Goods and Services Tax (GST) administration improvements. The balance tax strategy aims to mobilise resources while supporting fiscal consolidation and sustainable economic growth. On the basis of the above passage and common understanding, answer the following questions : (i) Differentiate between the two types of taxes indicated in the above text, with suitable examples. (ii) Elaborate the likely consequences of the tax projections made by the government.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 81,
+   "count": 84,
    "questions": [
     {
      "qno": 4,
@@ -8730,13 +9152,71 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Under the flexible exchange rate system, the exchange rate is determined by the ___________. (i) Government (ii) Demand and supply (iii) Intervention of the Central Bank. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Only (i)",
+      "Only (ii)",
+      "Only (iii)",
+      "(ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Balance of Payments",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Transfers from Abroad (remittances) are to be recorded on the credit side of capital account of Balance of Payments (BoP). Reason (R) : All the transactions that lead to inflow of foreign currency from the rest of the world are recorded on the credit side of Balance of Payments (BoP).",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Define Balance of Payments (BoP) Account. (b) Differentiate between autonomous transactions and accommodating transactions in Balance of Payments (BoP).",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 38,
+   "count": 40,
    "questions": [
     {
      "qno": 18,
@@ -9416,13 +9896,56 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 19,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : The colonial government had dual objectives behind the systematic deindustrialization of India. Statement II : The British reduced India to a mere importer of raw materials for the its modern industries. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statements I and II are true.",
+      "Both Statements I and II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The export surplus during the colonial rule was used by the Britishers to _________. (i) Bring gold and silver to India (ii) Incur expenses on war (iii) Import invisible items. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Only (i)",
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 39,
+   "count": 41,
    "questions": [
     {
      "qno": 19,
@@ -10166,13 +10689,50 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "___________ was set up by the Government of India in 1950 to formulate plans for the most effective and balanced utilisation of resources. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "NITI Aayog",
+      "Planning Commission",
+      "Karve Committee",
+      "World Trade Organisation"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain the Planning objective of “Growth with Equity”.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 39,
+   "count": 41,
    "questions": [
     {
      "qno": 34,
@@ -10835,13 +11395,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a)(i) “The Industrial Policy Resolution (IPR), 1956 classified all the industries based on state ownership and control in various categories.” Do you agree with the above statement ? Give valid reasons in support of your answer. (ii) “The economic reforms of 1991 adversely affected the Indian agriculture sector.” Do you agree with the above statement ? Give valid reasons in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b)(i) “The Government of India may further divest its stake in Life Insurance Corporation (LIC) in the current financial year.” In the light of economic reforms since 1991, identify the policy and define the step taken by the government. (ii) ‘‘India adopted an inward-looking trade strategy during the planning period.’’ (I) State any two reasons behind the adoption of this policy. (II) Briefly describe any two ways in which the government implemented this policy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 46,
+   "count": 47,
    "questions": [
     {
      "qno": 22,
@@ -11670,13 +12261,35 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In 2009, the Government of India came up with the ________ to make free education, a fundamental right for all children in the age group of 6 – 14 years. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Mid-Day Meal Scheme",
+      "Jan Dhan Yojana",
+      "Tapas Majumdar Committee",
+      "Right to Education Act"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 67,
+   "count": 70,
    "questions": [
     {
      "qno": 26,
@@ -12938,13 +13551,72 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In the rural areas, diversification towards new areas such as livestock, fisheries and other non-agricultural activities is necessary to __________. (i) Reduce the risk from agricultural sector (ii) Provide unsustainable livelihood options (iii) Provide supplementary employment. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Only (i)",
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(i), (ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Self-Help Groups (SHGs) have emerged to fill the gap in the formal credit system as they ____________. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Provide loan after obtaining suitable collateral",
+      "Lend at a high rate of interest",
+      "Promote thrift in larger proportions",
+      "Generally provide collateral-free credit to their members"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Rural Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following passage carefully : Paramparagat Krishi Vikas Yojana (PKVY) Paramparagat Krishi Vikas Yojana (PKVY) aims at promoting organic farming, in turn resulting in improvement of soil health. It promotes Participatory Guarantee System – India (PGS – India), a simple certification system, where farmers and consumers participate directly in the process. The scheme proposes to cover additional 6,00,000 hectare area under organic farming till 2025 – 26. The objective is to produce agricultural products free from chemicals and pesticide residues by adopting eco-friendly, low-cost technologies. Key focus areas of Paramparagat Krishi Vikas Yojana (PKVY) : • Promote natural resource based integrated and climate resilient sustainable farming systems that ensure maintenance and increase of soil fertility, natural resource conservation, on farm nutrients recycling and minimising dependence on external inputs. • Reduce farming costs and increase farmers' income through sustainable organic practices. • Chemical-free and nutritious food for human consumption. • Protect the environment by using low-cost, traditional and farmer-friendly technologies. • Help farmers become entrepreneurs through direct market linkages with local and national markets. On the basis of the above passage and common understanding, answer the following questions : (i) Define Organic Farming. Explain any two merits of organic farming. (ii) Explain any two thrust areas of Paramparagat Krishi Vikas Yojana (PKVY) in organic farming.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 59,
+   "count": 63,
    "questions": [
     {
      "qno": 25,
@@ -14057,6 +14729,95 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Working persons engaged in various industrial divisions can be classified into three major sectors — Primary sector, secondary sector and tertiary sector. Identify, which of the following option demonstrates the primary sector.",
+     "text_after": "Options :",
+     "options": [
+      "Agriculture",
+      "Agriculture, mining and quarrying",
+      "Agriculture, electricity, gas and water supply",
+      "Transport and storage"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The following table shows the distribution of population and workers in a village :",
+     "table": {
+      "headers": [
+       "Total population",
+       "Number of people who are willing and able to work",
+       "Number of people who are employed"
+      ],
+      "rows": [
+       [
+        "2000",
+        "1200",
+        "800"
+       ]
+      ]
+     },
+     "text_after": "The Worker – Population ratio for village would be __________%. (Choose the correct option to fill in the blank)",
+     "options": [
+      "80",
+      "40",
+      "60",
+      "20"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Rayansh works as a teacher in a school. He receives a fixed monthly salary, social security benefits, paid leave and medical allowances. His friend Mohan works at a small toy shop. He has very little income, he does not have access to provident fund, paid leave or health insurance. Classify the types of sectors Rayansh and Mohan are working in and highlight the distinction between the two sectors.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b)(i) Define ‘Human Capital Formation’. (ii) Explain ‘Expenditure on migration’ as a source of human capital formation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
@@ -14147,7 +14908,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 35,
+   "count": 37,
    "questions": [
     {
      "qno": 20,
@@ -14799,13 +15560,50 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following is not a strategy of sustainable development. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Use of Solar Panels",
+      "Use of Bio-Pests",
+      "Use of coal to produce electricity",
+      "Use of Mini-Hydel Plants"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Environment and Sustainable Development",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Study the following image carefully : (The image is an infographic titled ‘TRIPLE PLANETARY CRISES’ showing three icons — CLIMATE CHANGE (a warming globe with a thermometer), BIODIVERSITY LOSS (barren trees with fleeing birds and an elephant), and POLLUTION (a factory emitting smoke).) Interpret the given image and comment upon the phenomenon of environmental crisis as a result of changed production and consumption patterns. (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 30 — “Environmental crisis is a recent phenomenon, which is a result of changing production and consumption patterns.” Justify the statement giving valid arguments.)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 90,
+   "count": 94,
    "questions": [
     {
      "qno": 21,
@@ -17063,6 +17861,101 @@
        "year": 2026,
        "set": "58/4/1",
        "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : India is a member of various regional and economic groupings such as BRICS, G20, etc. Reason (R) : Membership of economic and regional groupings helps a nation to understand their strengths and weaknesses in comparison to other nations.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) ‘‘At the time of independence, both India and Pakistan inherited similar colonial economic structures. Both the nations adopted many similar economic planning strategies.’’ Explain any two such similarities in the developmental path of India and Pakistan.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) ‘‘In 1958, China launched the Great Leap Forward (GLF) campaign with a definite aim.’’ (i) State the rationale behind the introduction of the Great Leap Forward (GLF) campaign. (ii) State any two failures of the Great Leap Forward (GLF) campaign.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "On the basis of the given data, comment upon the annual growth of Gross Domestic Product (GDP) of India and China. (Annual Growth of Gross Domestic Product (%), 1980 – 2017)",
+     "table": {
+      "headers": [
+       "Country",
+       "1980 – 90",
+       "2015 – 2017",
+       "2022"
+      ],
+      "rows": [
+       [
+        "India",
+        "5·7",
+        "7·3",
+        "7·0"
+       ],
+       [
+        "China",
+        "10·3",
+        "6·8",
+        "3·0"
+       ],
+       [
+        "Pakistan",
+        "6·3",
+        "5·3",
+        "4·8"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/5/1",
+       "qno": 31
       }
      ],
      "topic": "General"
