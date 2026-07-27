@@ -5,9 +5,10 @@
  "years": [
   2023,
   2024,
-  2025
+  2025,
+  2026
  ],
- "total_questions": 673,
+ "total_questions": 713,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -27,7 +28,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 73,
+   "count": 80,
    "questions": [
     {
      "qno": 2,
@@ -1855,13 +1856,173 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In a two sector economy, the flow of factor payments moves from __________ to __________. (Choose the correct option to fill in the blanks)",
+     "options": [
+      "firms, households",
+      "firms, government",
+      "banks, households",
+      "households, firms"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In an economy, exclusion of ___________ may lead to under estimation of the value of Gross Domestic Product (GDP). (i) Barter Transactions (ii) Services provided by family members (iii) Illegal activities (iv) Depreciation of Assets. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(iii) and (iv)",
+      "(i), (ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Final goods are those goods which normally lose their identity in the production process. Statement 2 : Final goods may get transformed during the consumption process by a consumer. (Choose the correct option)",
+     "options": [
+      "Statement 1 is true and statement 2 is false.",
+      "Statement 1 is false and statement 2 is true.",
+      "Both statements 1 and 2 are true.",
+      "Both statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(A) Meera and Shahid are two classmates, who were comparing India's economic growth over the years. Meera referred to the increase in Gross Domestic Product (GDP) at current prices prevailing in market, while Sahid insisted on considering GDP after adjusting for inflation. Their debate on which of the two measures gives a true picture of people's well-being, remained inconclusive. Considering the above mentioned situation, elaborate with valid reason, which of the two variables is considered a better indicator of welfare and why ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(B) Two friends, Ravi and Harry were discussing whether the money received from sale of an old car should be included in India's National income. Ravi was of the view that it should be included in India's National income while Harry did not agree with him. They also had difference of opinion on the treatment of brokerage paid to the car dealer. As their Economics teacher, state the treatments with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": "11-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 13,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(A) For a hypothetical economy, assuming there are only two firms (X and Y) with equal values of Gross Value Added (GVA). On the basis of the following data, estimate the value of Domestic Sales of both the firms (X and Y) :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Items",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Value of Output of firm Y",
+        "700"
+       ],
+       [
+        "(ii)",
+        "Purchases by firm X from firm Y",
+        "200"
+       ],
+       [
+        "(iii)",
+        "Exports by firm X",
+        "100"
+       ],
+       [
+        "(iv)",
+        "Purchases by firm Y from firm X",
+        "150"
+       ],
+       [
+        "(v)",
+        "Additions to Stock of firm X",
+        "50"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(B) Ms. Reeta D'Costa, retired from the post of Income Tax Commissioner in the year 2023. Apart from her pension, she also receives the following from various sources : • Rental income from a flat she owns. • Interest income from her fixed deposits. • Money sent by her children settled abroad. Identify and classify, her monthly incomes into ‘factor income’ and ‘transfer income’, with valid reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": "13-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 62,
+   "count": 66,
    "questions": [
     {
      "qno": 1,
@@ -3037,13 +3198,91 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Money and Banking",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Money is of perishable nature and is generally accepted by all at any point of time. Reason (R) : Money serves as a store of value, facilitating individuals to transfer purchasing power from the present to the future.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“In the Indian Banking System, the Statutory Liquidity Ratio (SLR) plays a vital role in controlling the credit creation capacity of the Commercial Banks, as it __________.” (Choose the correct option to fill in the blank)",
+     "options": [
+      "ensures that all the deposits are converted into liquid assets.",
+      "requires banks to maintain a percentage of deposits in the form of liquid assets.",
+      "sets the maximum interest rate which the banks can charge on loans.",
+      "promote banks from lending beyond a specific proportion of their total reserves."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘In an economy, the currency held by the public, Net Demand Deposits with Commercial Banks and Net Time Deposits with Commercial Banks stand at ₹ 1,42,000 crore, ₹ 22,000 crore and ₹ 86,000 crore respectively. The value of Money Supply ($M_1$) would be ₹ __________ crore. (Choose the correct option to fill in the blank)",
+     "options": [
+      "2,50,000",
+      "86,000",
+      "1,64,000",
+      "1,42,000"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Under the provisions stated in the Section 20 and Section 21 of the Reserve Bank of India (RBI) Act, 1934, the RBI is mandated to handle the banking operations of the Government of India.” In the light of the given statement, elaborate the indicated function of the Reserve Bank of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 95,
+   "count": 100,
    "questions": [
     {
      "qno": 6,
@@ -4926,13 +5165,102 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In an economy, when __________ is insufficient to achieve the level of output corresponding to the full employment, the difference is termed a deflationary gap. (Choose the correct option to fill in the blank)",
+     "options": [
+      "ex-ante Aggregate Demand",
+      "ex-post Aggregate Demand",
+      "ex-ante Aggregate Supply",
+      "ex-post Aggregate Supply"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following is true at the Break Even level of Income. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Slope of Consumption Curve = Slope of Saving Curve",
+      "Average Propensity to Consume (APC) = Average Propensity to Save (APS)",
+      "Slope of Saving Curve = Unity (1)",
+      "Average Propensity to Consume (APC) = Unity (1)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Determination of Income and Employment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Refer the given image carefully : (The image shows a weighing balance : the pan labelled ‘Value of Money’ carries two downward arrows while the pan labelled ‘General Price level’ carries two upward arrows, the beam tilting to indicate that as the general price level rises, the value of money falls.) Explain any two measures that can be taken by the Central Bank to control the indicated macroeconomic problem. (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 15 — State and explain any two measures that can be taken by the Central Bank to control the situation of deficient demand.)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Determination of Income and Employment",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(A) “Income of an economy increased from ₹ 20,000 to ₹ 50,000 crore. Savings of the economy increased from ₹ 2,000 crore to ₹ 10,000 crore.” (i) Calculate Average Propensity to Consume (APC) and Average Propensity to Save (APS), before and after the rise in income. (ii) Draw appropriate conclusion regarding the behaviour of Average Propensity to Consume (APC) as his income increases.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Determination of Income and Employment",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(B) “Under a study, examining the spending habits of a hypothetical economy, it was observed that even households with zero income managed to consume basic necessities. As the income of people increased, their consumption also increased, but not as rapidly as income.” Based on the given text and common understanding, answer the following questions : (i) Identify and elaborate the type of consumption indicated in the first para of the above text. (ii) Explain, the reason behind the positive slope of Aggregate Demand Curve.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 37,
+   "count": 38,
    "questions": [
     {
      "qno": 17,
@@ -5609,13 +5937,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Refer the given text carefully : According to the Economic Survey 2024-25, the government budget's projections for the fiscal year 2025-26 indicate that gross direct tax revenue will rise by 12.7%, while gross indirect tax collections are expected to grow by 8.3% relative to FY 2024-25. Direct taxes include income tax and corporate tax, reflecting earnings and profits of households and firms. It plays a key role in revenue growth of the government. Indirect taxes encompass Goods and Services Tax (GST), custom duties and other transaction-based levies. Higher growth rate projected for direct taxes suggests a push to enhance tax buoyancy through improved compliance and reforms. On the other hand, indirect taxes are expected to benefit from consumption trends and Goods and Services Tax (GST) administration improvements. The balance tax strategy aims to mobilise resources while supporting fiscal consolidation and sustainable economic growth. On the basis of the above passage and common understanding, answer the following questions : (i) Differentiate between the two types of taxes indicated in the above text, with suitable examples. (ii) Elaborate the likely consequences of the tax projections made by the government.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 68,
+   "count": 71,
    "questions": [
     {
      "qno": 4,
@@ -6956,13 +7299,70 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Depreciation of currency is an economic action undertaken by the government of a nation under the fixed exchange rate system. Statement 2 : Under the floating exchange Rate system, authorities actively intervene in the foreign exchange market by way of maintaining foreign exchange reserves. In the light of the given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and statement 2 is false.",
+      "Statement 1 is false and statement 2 is true.",
+      "Both statements 1 and 2 are true.",
+      "Both statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Balance of Payments",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Unilateral Transfers are recorded in the Current Account of the Balance of Payments (BoP) of a nation. Reason (R) : Capital account records transactions which cause a change in the assets or liabilities of the country.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Michel, an entrepreneur of Country Zeta, borrowed \\$ 5 million from an overseas bank to expand his textile business. During the same financial year, the Government of Country Zeta secured a loan of \\$ 30 Billion from an International Financial Institution to manage the ongoing Balance of Payments. Samuel, an Economics student categorised both of these transactions as ‘autonomous transactions’ in the BoP account of the country. Do you agree with his classification ? Justify your answer with valid reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 28,
+   "count": 31,
    "questions": [
     {
      "qno": 18,
@@ -7466,6 +7866,58 @@
        "year": 2025,
        "set": "58/7/1",
        "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : During the British rule in India, the export surplus was utilised to import of invisible items from Britain. Statement 2 : Indians paid for the expenses incurred by an office set up by the colonial government in Britain. In the light of above statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and statement 2 is false.",
+      "Statement 1 is false and statement 2 is true.",
+      "Both statements 1 and 2 are true.",
+      "Both statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(A) State and explain any two changes which were observed in India's occupational structure during the British Rule.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(B) “The British sought to achieve their vested interest through their policies of infrastructural development in India.” Do you agree with the given statement ? Justify your answer with valid explanation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": "30-OR"
       }
      ],
      "topic": "General",
@@ -8173,7 +8625,7 @@
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 29,
+   "count": 32,
    "questions": [
     {
      "qno": 34,
@@ -8656,13 +9108,66 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following text carefully : “In the recent times, the Government of India, has introduced several measures to encourage greater public participation in the capital market, including both primary and secondary stock markets.” Under which sector have the above mentioned reforms been introduced ? (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Industrial",
+      "Financial",
+      "Taxation",
+      "Foreign Trade"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(A)(i) Mr. Ravi, an IT entrepreneur from Bengaluru, observed that several MNC's prefer India as their outsourcing Hub for services like software development, customer support, data management etc. His friend Priya believes this is due to certain inherent advantages of the Indian economy. In your opinion, state and explain any two factors that make India a preferred outsourcing destination. (ii) “In the post-independence era, India adopted a protective tariff policy.” Do you agree with the given statement ? Justify your answer with any two valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(B)(i) ‘Strategic sale of a public sector undertaking and minority sale of their shares are methods of disinvestment.’ Defend or refute the given statement with valid argument. (ii) Discuss briefly, how bilateral trade agreements are different from multilateral trade agreements ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 36,
+   "count": 38,
    "questions": [
     {
      "qno": 22,
@@ -9301,13 +9806,49 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Human Capital Formation in India",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R), Choose the correct option from those given below : Assertion (A) : Education facilitates the assimilation of knowledge and competencies. It also fosters inventive capacities and enhances the aptitude to integrate advance technology. Reason (R) : Education plays a pivotal role in transforming cognitive perspectives and serves as a catalyst for the economic advancement of a nation.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Human Capital Formation in India",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : To ensure inclusive and quality education for all, the Indian government has launched several important schemes. These schemes aimed at improving access, equity and learning outcomes, especially among disadvantaged group. The Right to Education (RTE) Act, passed by the India Parliament on August 4, 2009, guarantees free and compulsory education to every child between 6-14 years of age. It ensures that all children have access to education in neightbourhood schools, until they complete elementary education. Another key initiative is Sarva Siksha Abhiyan (SSA). It was introduced in 2001. It is one of India's flagship programmes for the Universalisation of Elementary Education. Digital India Campaign, launched on July 1, 2015, focuses on transforming India into a digitally empowered society by improving mobile and internet connectivity, particularly in rural and remote regions. This initiative supports digital learning & access to educational resources. Through these initiatives, the government strives to create an equitable, accessible & quality driven educational environment for all children, laying a strong foundation for national development. On the basis of the given text and common understanding, answer the following questions : (i) Identify, which law guarantees free and compulsory education upto the age of 14 years. Explain, how does it help in enhancing access to education. (ii) In your opinion, how has the increase in public spending on education contributed to India's social and economic transformation ? Support your answer with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 56,
+   "count": 58,
    "questions": [
     {
      "qno": 26,
@@ -10348,13 +10889,55 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Rural Development",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R), Choose the correct option from those given below : Assertion (A) : The notion of rural development encompasses a far wider spectrum than agricultural advancement. Reason (R) : Government interventions in the agricultural sector remain imperative, as it constitutes the primary means of sustanance for the rural population.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Rural Development",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R), Choose the correct option from those given below : Assertion (A) : The Government of India adopted the measure of regulation of markets to improve marketing conditions for agricultural products. Reason (R) : Regulation of market ensured transparent pricing, fair trade practices, and protection for farmers against exploitation in agricultural marketing.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 44,
+   "count": 49,
    "questions": [
     {
      "qno": 25,
@@ -11151,6 +11734,120 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which of the following, highlights a highly relevant issue associated with evolving employment trends in India's labour market ? (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Progressive increase in the share of permanent salaried employees.",
+      "Increase in the proportion of casually employed individuals.",
+      "Expansion of self-employment avenues in all regions.",
+      "Significant rise in job opportunities within the formal sector."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the terms given in Column-I with their respective meaning in Column-II. Select the correct option :",
+     "table": {
+      "headers": [
+       "Column-I",
+       "Column-II"
+      ],
+      "rows": [
+       [
+        "(i) Seasonal Unemployment",
+        "(a) Private enterprises hiring less than 10 employees"
+       ],
+       [
+        "(ii) Self-employed",
+        "(b) Workers using their own resources to earn livelihood"
+       ],
+       [
+        "(iii) Unorganised sector",
+        "(c) Unemployment occurring in specific season"
+       ],
+       [
+        "(iv) Disguised Unemployment",
+        "(d) Zero Marginal Productivity"
+       ]
+      ]
+     },
+     "text_after": "Options :",
+     "options": [
+      "(i)-(d); (ii)-(a); (iii)-(b); (iv)-(c)",
+      "(i)-(b); (ii)-(a); (iii)-(c); (iv)-(d)",
+      "(i)-(c); (ii)-(b); (iii)-(a); (iv)-(d)",
+      "(i)-(c); (ii)-(d); (iii)-(a); (iv)-(b)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(A) “Employment in the formal sector guarantees better income and social benefits compared to informal sector job.” Defend or refute the above statement with valid reason and example.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(B) During the ‘Mann ki Baat’ program aired on 29th June, 2025, Prime Minister shared that World Health Organisation (WHO) has declared India as a Trachoma free (an eye disease). This achievement, he shared, is a result of sustained efforts in health care, sanitation, awareness and medical access. In the light of the above statement, explain how investments in health care contributes to a nation's development. Support your answer with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(A) State the meaning of ‘Disguised Unemployment’. (B) (The grouped bar chart titled ‘Sector-wise Gender Distribution of Workers (%)’ compares the percentage of Male Workers and Female Workers across nine sectors — Manufacturing, Construction, Trade, Transport, Education, Health, Accommodation & Restaurant, IT/BPOs and Financial Services. Male workers dominate most sectors, e.g., Transport (~86%), Construction (~83%), Manufacturing (~77%), Trade (~76%) and Accommodation & Restaurant (~75%); the female share is highest in Health (~50%, roughly at par with males) and Education (~44%), and is about 37% in IT/BPOs and Financial Services.) In the light of the given chart, analyse the gender-wise sectoral distribution of workers. (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 32 (B) — Elaborate any two reasons behind more women employed in economic activities in Rural areas as compared to Urban areas.)",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -11241,7 +11938,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 28,
+   "count": 30,
    "questions": [
     {
      "qno": 20,
@@ -11755,13 +12452,56 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The Montreal Protocol was signed in the year 1987 committing nations to __________. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "protect biodiversity from any further losses.",
+      "reduce the impact of global warming.",
+      "protect ozone layer from depletion incurred due to chlorofluoro carbons.",
+      "reduce the impact of deforestation."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“Sustainable development refers to the development that meets the need of the present generation without compromising the ability of the future generations, to meet their own needs.” The above mentioned definition has been given by __________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "United Nations Conference on Environment and Development",
+      "United Nations Committee on Environment and Development",
+      "United Nations Committee on Protection of Environment",
+      "United Nations Conference on Protection of Environment"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 76,
+   "count": 79,
    "questions": [
     {
      "qno": 21,
@@ -13684,6 +14424,58 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events in China's economic development history in correct chronological sequence and select the correct option : I. Great Proletarian Cultural Revolution. II. Great leap forward. III. Introduction of Economic Reforms. IV. Launch of the First Five Year Plan.",
+     "text_after": "Options :",
+     "options": [
+      "II, IV, III, I",
+      "IV, II, I, III",
+      "II, IV, I, III",
+      "IV, I, II, III"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“In the late 1970's China's population growth rate has sharply declined as compared to India.” Elucidate the reasons and impacts of this situation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "“At the time of independence, both India and Pakistan inherited similar colonial economic structures. Both the nations adopted many similar economic planning strategies.” Explain any two such similarities in the developmental path of India and Pakistan.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/1/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
