@@ -2012,7 +2012,7 @@
     crumbs.innerHTML = '<a href="#/">Home</a> › Dashboard';
     document.title = "Dashboard — Board-Exam Weightage";
     getSubjectsIndex().then(function (subs) {
-      var TRIAL = { mathematics: 1, physics: 1, chemistry: 1, biology: 1, economics: 1 };   // all subjects live (economics NCERT-tagged 2026-07-26)
+      var TRIAL = { mathematics: 1, physics: 1, chemistry: 1, biology: 1, economics: 1, accountancy: 1 };   // all subjects live (economics + accountancy NCERT-tagged 2026-07-26)
       if (!TRIAL[DASH.sub]) DASH.sub = "mathematics";
       var tabs = subs.map(function (s) {
         var live = !!TRIAL[s.id], on = s.id === DASH.sub && live;
