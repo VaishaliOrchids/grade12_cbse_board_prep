@@ -1934,8 +1934,6 @@
     setTimeout(function () { document.body.removeChild(a); URL.revokeObjectURL(url); }, 1500);
   }
 
-  window.__pp = { fillDocx: fillDocx, buildPicker: buildPicker };   // TEMP test hook
-
   /* ================= Figure re-cropping ================= */
   function saveCrops() { try { localStorage.setItem("qbank_crops", JSON.stringify(CROPS)); } catch (e) {} }
   function saveSizes() { try { localStorage.setItem("qbank_figsize", JSON.stringify(SIZES)); } catch (e) {} }
