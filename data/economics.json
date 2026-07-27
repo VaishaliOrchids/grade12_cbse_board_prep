@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 713,
+ "total_questions": 755,
  "chapter_order": [
   "National Income and Related Aggregates",
   "Money and Banking",
@@ -28,7 +28,7 @@
  "chapters": [
   {
    "chapter": "National Income and Related Aggregates",
-   "count": 80,
+   "count": 86,
    "questions": [
     {
      "qno": 2,
@@ -2016,13 +2016,166 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Income generated from Aircrafts of Air India operating between Canada and England would be added to the domestic income ($NDP_{FC}$) of ________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Canada",
+      "England",
+      "Both Canada and England",
+      "India"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following Flow chart carefully and choose the correct option : (The flow chart shows ‘Goods’ branching into ‘Final Goods’ and ‘Intermediate Goods’; ‘Final Goods’ further branches into ‘Consumption Goods’ and a blank box (________) to be identified.)",
+     "options": [
+      "Transfer goods",
+      "Capital goods",
+      "Non-durable goods",
+      "Semi-durable goods"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "National Income and Related Aggregates",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Brokerage earned by a dealer of second hand cars is included in the estimation of National Income. Statement 2 : Imputed value of production for self-consumption is included in National Income. In the light of the above given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Calculate compensation of employees from the data given below :",
+     "table": {
+      "headers": [
+       "S. No.",
+       "Particulars",
+       "Amount (in ₹ crore)"
+      ],
+      "rows": [
+       [
+        "(i)",
+        "Interest",
+        "45"
+       ],
+       [
+        "(ii)",
+        "Profits after tax",
+        "20"
+       ],
+       [
+        "(iii)",
+        "Consumption of fixed capital",
+        "50"
+       ],
+       [
+        "(iv)",
+        "Gross Domestic Product at market price ($GDP_{MP}$)",
+        "200"
+       ],
+       [
+        "(v)",
+        "Rent",
+        "25"
+       ],
+       [
+        "(vi)",
+        "Corporate tax",
+        "5"
+       ],
+       [
+        "(vii)",
+        "Goods and Services tax",
+        "10"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(A) Read the following text carefully : “A country's total National Income (NI) at the end of the year is ₹ 80,000 crore. During the same year, the Gross Domestic Product (GDP) increased by ₹ 10,000 crore. The depreciation on capital goods was ₹ 2,000 crore and National savings at the end of year is ₹ 15,000 crore. Additionally, country invested ₹ 8,000 crore in new capital goods industries.” In the light of above text, categorise the items as ‘stock’ or ‘flow’ variables with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "National Income and Related Aggregates",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(B) The value of Nominal Gross National Product (GNP) of an economy was ₹ 2,500 crore in a particular year. The value of Gross National Product (GNP) of that country during the same year, estimated at the prices of base year was ₹ 3,000 crore. (i) Estimate the value of Gross National Product (GNP) deflator (in percentage). (ii) “The price level has risen between the base year and the year under consideration.” Defend or refute the statement with suitable argument.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "13-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Money and Banking",
-   "count": 66,
+   "count": 72,
    "questions": [
     {
      "qno": 1,
@@ -3276,13 +3429,122 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, that function of money, which has effectively solved the problem of ‘double coincidence of wants’ in a transaction.",
+     "options": [
+      "Standard of deferred payments",
+      "Store of value",
+      "Measure of value",
+      "Medium of exchange"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Sumit deposited ₹ 10 lakh in his savings account. The deposits made by him is a part of ________ in the $M_1$ measure of money supply. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Currency held by public",
+      "Interbank deposits",
+      "Demand deposits with commercial banks",
+      "Term deposits with Reserve Bank of India (RBI)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Money and Banking",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify, which one of the following is not a function of Reserve Bank of India as a bank, agent and advisor to the government.",
+     "options": [
+      "Carries out banking business of the government.",
+      "Manages national debt.",
+      "Advises on financial matters.",
+      "Conducts periodic inspections."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(A) “When initial deposits in the credit creation process remains same, the total amount of credit created rises as the value of money multiplier increases.” Defend or refute the above statement with the help of hypothetical numerical example.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(B) “The Central Bank maintains reserves of all commercial banks and use to settle interbank claims.” Do you agree with the given statement ? Give valid explanation in support of your answer.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "12-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 15,
+     "chapter": "Money and Banking",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Read the following text carefully : “The Reserve Bank of India (RBI) announced a 50 basis point Repo Rate cut to 5.50% from 6%.” In the light of the given text and common understanding, answer the following questions : (i) Identify the economic issue indicated in the above text. (ii) Explain the likely causes and consequences of this step of RBI on the economy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Determination of Income and Employment",
-   "count": 100,
+   "count": 105,
    "questions": [
     {
      "qno": 6,
@@ -5254,13 +5516,141 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct consumption function from the options given below with reference to the illustrated given diagram. (The diagram is a Keynesian-cross graph with Income on the X-axis and Consumption on the Y-axis, showing a 45° ‘Income Line’ from the origin and a consumption function line ‘C’ having a positive vertical intercept of 100; the two lines intersect at equilibrium point E, and the consumption line passes through C = 280 at income 200 and C = 700 at income 800.)",
+     "options": [
+      "C = 100 + 0.7Y",
+      "C = 100 + 0.8Y",
+      "C = 100 – 0.7Y",
+      "C = 100 – 0.8Y"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates only, in lieu of Q. No. 1 :) If the value of Marginal Propensity to Consume (MPC) is 0.6 and dissavings are 100, the relevant saving function would be : (Choose the correct option)",
+     "options": [
+      "S = – 100 + 0.6Y",
+      "S = 100 + 0.6Y",
+      "S = – 100 + 0.4Y",
+      "S = – 100 – 0.4Y"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "1-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Determination of Income and Employment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The Aggregate Demand (AD) curve lies parallel to consumption curve, indicating that both have _________. (Choose the correct option to fill in the blank)",
+     "options": [
+      "same components",
+      "different slope",
+      "same slope",
+      "inverse relationship"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Determination of Income and Employment",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(A)(I) Estimate the value of subsistence level of consumption expenditure from the following data about an economy which is in equilibrium : (i) National Income (Y) = ₹ 1,200 crore (ii) Marginal Propensity to Save (MPS) = 0.20 (iii) Investment Expenditure ($\\bar{I}$) = ₹ 100 crore. (II) “An economy facing an increase in unintended accumulation of inventories would try to reduce Aggregate Demand.” Defend or refute the above statement with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Determination of Income and Employment",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(B)(I) Complete the following table :",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": [],
+     "table": {
+      "headers": [
+       "Situation",
+       "Change in Investment (I)",
+       "Change in Income (Y)",
+       "Marginal Propensity to Consume (MPC)",
+       "Investment Multiplier (K)"
+      ],
+      "rows": [
+       [
+        "(a)",
+        "200",
+        "(i) -------",
+        "0.8",
+        "(ii) -------"
+       ],
+       [
+        "(b)",
+        "(iii) -------",
+        "2000",
+        "(iv) -------",
+        "4"
+       ],
+       [
+        "(c)",
+        "1000",
+        "(v) -------",
+        "0.5",
+        "(vi) -------"
+       ]
+      ]
+     },
+     "text_after": "(II) Identify the monetary measures being referred to in the following statements. Discuss whether the tool would be used during a situation of excess demand or deficient demand. (i) Selling off government securities (G-Sec) to public by the central bank. (ii) Encourage commercial banks to park their surplus funds with the Reserve Bank of India (RBI)."
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Government Budget and the Economy",
-   "count": 38,
+   "count": 39,
    "questions": [
     {
      "qno": 17,
@@ -5952,13 +6342,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Government Budget and the Economy",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : The government has allocated ₹ 15.27 lakh crore for major sectors, ranging from defence to rural development to social welfare to commerce and so on. Government expenditure goes to paying states' share of taxes and duties. Around 19% is spent on interest payments and 16% on central sector schemes, with subsidies, pension and other payments contributing 19%. Government revenue is divided between borrowings and other liabilities, which account for massive 27% of the incoming cash, Income tax revenue of around 19%, Goods and Services Taxes (GST) and other taxes of around 18%; Corporation taxes account for around 17%. The next highest provision on this list is ₹ 2.66 lakh crore for rural development. This will include expenditure on rural infrastructure project and increased outlay for the popular MGNREGA scheme. On the basis of given text and common understanding, answer the following questions : (i) Identify the major sources of government revenue and state what percentage does each one of them contribute. (ii) Discuss the need to allocate funds among different sectors of the economy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Balance of Payments",
-   "count": 71,
+   "count": 74,
    "questions": [
     {
      "qno": 4,
@@ -7356,13 +7761,70 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Balance of Payments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : Under the flexible exchange rate system, a deficit / surplus in the Balance of Payments is automatically corrected. Statement 2 : Under the flexible exchange rate system, there is always a possibility of over/under valuation of currency. In the light of the above given statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both Statements 1 and 2 are true.",
+      "Both Statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Balance of Payments",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : Increase in exchange rate implies that the price of foreign currency in terms of domestic currency has increased. Reason (R) : Balance of trade records the inflows and outflows of foreign exchange.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Balance of Payments",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the likely impacts of the ‘Make in India’ policy initiated by Government of India on the Balance of Payments (BoP) of India (assuming all other factors constant). (b) State the meaning of Balance of Payment (BoP) surplus and deficit.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy on the Eve of Independence",
-   "count": 31,
+   "count": 34,
    "questions": [
     {
      "qno": 18,
@@ -7922,13 +8384,66 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "_________ estimates India's national and per capita income during the colonial era was considered very significant. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "William Digby",
+      "V.K.R.V. Rao",
+      "Findlay Shirras",
+      "R.C. Desai"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(A) “The Restrictive policies under the colonial government adversely affected the structure, composition and volume of India's foreign trade.” Justify the above statement with valid explanation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Indian Economy on the Eve of Independence",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(B) Explain the main objectives and impacts of land settlement policies implemented under the British government rule.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indian Economy 1950–1990",
-   "count": 36,
+   "count": 38,
    "questions": [
     {
      "qno": 19,
@@ -8619,13 +9134,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(A) Read the following text carefully and answer the questions given below : “In India, high-yielding seed varieties were initially brought to the State of Punjab, Haryana and portions of western Uttar Pradesh.” (i) Identify the approach initiated by Indian Government in 1966. (ii) State the primary goal of this approach. (iii) Describe any two impacts of this approach.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Indian Economy 1950–1990",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(B) Read the following text carefully and answer the questions given below : “It is an arrangement in which a firm hires some specialized firm(s) to carry out some of its activities (which were earlier being performed by itself). These service hirings could be from local / international markets.” (i) Identify the indicated outcome of the globalisation process. (ii) State any two factors responsible for making India as an important source of these activities. (iii) Explain examples of services that have expanded due to advancements in information technology.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
-   "count": 32,
+   "count": 33,
    "questions": [
     {
      "qno": 34,
@@ -9161,13 +9707,35 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Liberalisation, Privatisation and Globalisation: An Appraisal",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“In the formative stages of reforms development of credit markets, administrative intervention in interest rates is both necessary and desirable.” Identify the sector under which the aforesaid reform was introduced. (Choose the correct option)",
+     "text_after": "Options :",
+     "options": [
+      "Tax reforms",
+      "Industrial sector reforms",
+      "Financial sector reforms",
+      "Foreign sector reforms"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Capital Formation in India",
-   "count": 38,
+   "count": 40,
    "questions": [
     {
      "qno": 22,
@@ -9842,13 +10410,57 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The steep Indian education pyramid indicates _________. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "equal distribution of students across all levels",
+      "increase in number of people reaching higher education",
+      "low unemployment among educated youth",
+      "few/less number of people reaching higher education"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Human Capital Formation in India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Education provides _________. (i) Scientific advancements (ii) Facilitate inventions and innovations (iii) Adapting to new technology. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(i), (ii) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Rural Development",
-   "count": 58,
+   "count": 62,
    "questions": [
     {
      "qno": 26,
@@ -10931,13 +11543,91 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Rural Development",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R). Choose the correct option from those given below : Assertion (A) : The dynamic sub-sectors like agro-processing industries, food processing industries, etc. have potential to create alternative employment opportunities. Reason (R) : Men usually seek non-farm jobs, but recently, women have also started looking for such jobs.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Growth of rural economy depends primarily on infusion of _________ to realise higher productivity in agricultural and non-agricultural sectors. (Choose the correct option to fill in the blank)",
+     "options": [
+      "Capital",
+      "Road Construction",
+      "Green status",
+      "Outsourcing"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Rural Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement 1 : The option for producing off-season crops are quite restricted in organic farming. Statement 2 : Organic agriculture helps in substituting costlier agricultural inputs with locally produced organic inputs. In the light of the above statements, choose the correct option from the following :",
+     "options": [
+      "Statement 1 is true and Statement 2 is false.",
+      "Statement 1 is false and Statement 2 is true.",
+      "Both statements 1 and 2 are true.",
+      "Both statements 1 and 2 are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Rural Development",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Read the following text carefully : The Union Budget 2025-26 proposed a significant package for rural India allocating ₹ 1.88 lakh crore to drive comprehensive development. The budget emphasises on boosting employment, women employment, education and infrastructure in rural areas, reflecting the governments' commitment for a stronger, self-reliant rural economy. The extension of Jal-Jeevan Mission until 2028, with focus on achieving 100% rural water supply coverage and enhancing infrastructure maintenance. Broadband connectivity is set to expand under the Bharatnet project, providing internet access to all rural government secondary schools and primary health care centres. Also, the budget highlights major rural schemes like the Pradhan Mantri Gram Sadak Yojana which has provided all-weather roads to rural areas. The Pradhan Mantri Grameen Awaas Yojana, which has delivered housing to economically weaker sections. The Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) continues to secure rural livelihoods with an allocation of ₹ 86,000 crore in FY 2024-25. On the basis of the above text and common understanding, answer the following questions : (i) Explain the significance of rural development. (ii) Discuss any two policies initiated by government of India for rural development.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Employment: Growth, Informalisation and Other Issues",
-   "count": 49,
+   "count": 53,
    "questions": [
     {
      "qno": 25,
@@ -11848,6 +12538,98 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "From the types of unemployment/employment given in Column-I and corresponding features given in Column-II, choose the correct pair :",
+     "table": {
+      "headers": [
+       "Column – I",
+       "Column – II"
+      ],
+      "rows": [
+       [
+        "(i) Disguised Unemployment",
+        "(a) Concentrated to a given season"
+       ],
+       [
+        "(ii) Seasonal Unemployment",
+        "(b) Marginal productivity is zero"
+       ],
+       [
+        "(iii) Indirect employment by government",
+        "(c) Indian Railways"
+       ],
+       [
+        "(iv) Direct employment by government",
+        "(d) Indian Oil Corporation (IOC)"
+       ]
+      ]
+     },
+     "text_after": "Options :",
+     "options": [
+      "(i) - (a)",
+      "(ii) - (b)",
+      "(iii) - (c)",
+      "(iv) - (d)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(A) Distinguish between formal and informal sector of employment with the help of suitable examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(B) Discuss the long term implications of increased demand for environmental resources exceeding their natural regenerative capacity.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Employment: Growth, Informalisation and Other Issues",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Refer the given image carefully : (The image shows two pie charts titled ‘Distribution of Employment by Gender’. For Male Workers — Self-employed 51%, Regular Salaried Employees 29%, Casual Wage Labourers 20%. For Female Workers — Self-employed 56%, Regular Salaried Employees 31%, Casual Wage Labourers 13%.) Compare and analyse the distribution of work force with respect to gender. (Note : The following question is for the Visually Impaired Candidates only, in lieu of Q. No. 31(a) — “Compared to 1970's, there has hardly been any change in the distribution of workforce across various industries.” Defend or refute the above statement with valid explanation.) (b) State the meaning of worker-population ratio.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -11938,7 +12720,7 @@
   },
   {
    "chapter": "Environment and Sustainable Development",
-   "count": 30,
+   "count": 32,
    "questions": [
     {
      "qno": 20,
@@ -12495,13 +13277,57 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify that strategy given in the image that can be utilised for sustainable development. (The image is a photograph of a masonry biogas (gobar gas) plant — a large cylindrical dome-shaped digester with an inlet and outlet, installed in an open rural field.)",
+     "text_after": "Options :",
+     "options": [
+      "Non-conventional source of energy",
+      "Wind power",
+      "CNG in urban areas",
+      "Gobar Gas in rural areas"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Environment and Sustainable Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "(For Visually Impaired Candidates only, in lieu of Q. No. 24 :) If a nation fails to enforce the regulations of the Montreal Protocol, the likely long term environmental and biological consequence of this will be _________. (i) Rapid deforestation (ii) Increased possibility of skin cancer (iii) Greenhouse effect causing rise in global temperature (iv) Possibility of acid rain. (Choose the correct alternative)",
+     "options": [
+      "Only (i)",
+      "(ii), (iii) and (iv)",
+      "(i) and (iv)",
+      "(i) and (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Comparative Development Experiences of India and its Neighbours",
-   "count": 79,
+   "count": 82,
    "questions": [
     {
      "qno": 21,
@@ -14473,6 +15299,58 @@
        "year": 2026,
        "set": "58/1/1",
        "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "China adopted _________ strategy in which farmers and industries bought and sold certain quantities at government fixed prices, while remaining transactions occurred at market prices. (Choose the correct option to fill in the blank)",
+     "text_after": "Options :",
+     "options": [
+      "Dual Pricing",
+      "Special Economic Zones",
+      "Great Proletarian Cultural Revolution",
+      "Great Leap Forward"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“In the late 1970s and 1980s, Pakistan experienced significant changes in its policies, incentives and new investments.” Do you agree with the above statement ? Justify your answer with valid arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Comparative Development Experiences of India and its Neighbours",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(i) State the meaning of ‘Commune system’. (ii) Explain any two reasons for the slow economic growth in Pakistan.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "58/2/1",
+       "qno": 32
       }
      ],
      "topic": "General"
