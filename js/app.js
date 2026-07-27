@@ -1984,6 +1984,10 @@
       c.questions.forEach(function (q) {
         (q.papers || []).forEach(function (p) {
           var yy = Y[p.year]; if (!yy) return;
+          // An OR-alternative (qno "N-OR") is the SAME paper slot as its main
+          // question, not an extra one — skip it so weightage marks aren't
+          // double-counted (else an 80-mark paper reads as ~110).
+          if (/-OR$/.test(String(p.qno))) return;
           yy.sets[p.set] = 1; yy.grand += q.marks;
           var C = yy.chaps[c.chapter] || (yy.chaps[c.chapter] = { total: 0, topics: {}, detail: {} });
           C.total += q.marks;
