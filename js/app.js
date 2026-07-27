@@ -184,6 +184,7 @@
         toolCard("01", "Question Bank", "#/browse", "tc-blue") +
         toolCard("02", "Dashboard", "#/dashboard", "tc-teal") +
         toolCard("03", "Worksheet", "#/worksheet", "tc-amber") +
+        toolCard("04", "Question Paper", "#/paper", "tc-violet") +
       "</div></div>";
   }
 
@@ -2230,7 +2231,8 @@
     var h = location.hash || "#/";
     var m = h.match(/^#\/subject\/(.+)$/);
     setTab(h);
-    if (h.indexOf("#/dashboard") === 0) renderDashboard();
+    if (h.indexOf("#/paper") === 0) renderPaper();
+    else if (h.indexOf("#/dashboard") === 0) renderDashboard();
     else if (h.indexOf("#/worksheet") === 0) renderWorksheet();
     else if (h.indexOf("#/browse") === 0) renderBrowse();
     else if (m) renderSubject(decodeURIComponent(m[1]));
