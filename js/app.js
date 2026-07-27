@@ -1756,7 +1756,9 @@
           f.arrayBuffer().then(function (buf) { return fillDocx(buf, pick); }).then(function (res) {
             downloadBlob(res.blob, st.data.subject.replace(/[^A-Za-z0-9]+/g, "_") + "_Question_Paper.docx");
             note.innerHTML = '<div class="pp-ok"><b>Done.</b> Filled ' + res.filled + " question" + (res.filled === 1 ? "" : "s") +
-              (res.blank ? "; left <b>" + res.blank + "</b> slot" + (res.blank === 1 ? "" : "s") + " blank (no matching question in the selected chapters)." : ".") +
+              " (about half of each section); left <b>" + res.teacher + "</b> slot" + (res.teacher === 1 ? "" : "s") +
+              " blank for the teacher to complete." +
+              (res.nomatch ? " " + res.nomatch + " slot" + (res.nomatch === 1 ? " was" : "s were") + " skipped (no matching question in the selected chapters)." : "") +
               "<br>Your filled Word file has been downloaded.</div>";
           }).catch(function (e) {
             note.innerHTML = '<div class="bp-empty">Couldn’t fill this template — ' + esc(String((e && e.message) || e)) +
@@ -1875,31 +1877,40 @@
       return docFile.async("string").then(function (xml) {
         var doc = new DOMParser().parseFromString(xml, "application/xml");
         var tbls = wEls(doc.documentElement, "tbl");
-        var filled = 0, blank = 0;
+        var filled = 0, teacher = 0, nomatch = 0;
         for (var ti = 0; ti < tbls.length; ti++) {
           var rows = tableRows(tbls[ti]);
           if (!rows.length) continue;
           var hdr = rowCells(rows[0]).map(cellText).join(" | ").toLowerCase();
           if (hdr.indexOf("q. no.") === -1 || hdr.indexOf("questions") === -1) continue; // not a question table
-          // group rows into blocks, each starting at a row that has a "Ch:" cell
-          var block = null;
+          // group rows into question blocks (each starts at a "Ch:" metadata row)
+          var blocks = [], cur = null;
           for (var ri = 1; ri < rows.length; ri++) {
             var cells = rowCells(rows[ri]);
-            var hasCh = cells.some(function (c) { return /^ch\s*:/i.test(cellText(c)); });
-            if (hasCh) { if (block) fillBlock(doc, block, pick, function (b) { b ? blank++ : filled++; }); block = []; }
-            if (block) block.push.apply(block, cells);
+            if (cells.some(function (c) { return /^ch\s*:/i.test(cellText(c)); })) { cur = []; blocks.push(cur); }
+            if (cur) cur.push.apply(cur, cells);
           }
-          if (block) fillBlock(doc, block, pick, function (b) { b ? blank++ : filled++; });
+          // Each SECTION is its own question table (Section A/B/C…), so filling
+          // floor(N/2) of a table's blocks = half of that section. Even N -> N/2,
+          // odd N -> (N-1)/2 (16 MCQs -> 8, 5 short -> 2). The rest stay blank so
+          // the teacher adds the manual touch.
+          var target = Math.floor(blocks.length / 2);
+          for (var bi = 0; bi < blocks.length; bi++) {
+            if (bi < target) { if (fillBlock(doc, blocks[bi], pick)) filled++; else nomatch++; }
+            else teacher++;
+          }
         }
         var out = new XMLSerializer().serializeToString(doc);
         zip.file("word/document.xml", out);
         return zip.generateAsync({ type: "blob", mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document" })
-          .then(function (blob) { return { blob: blob, filled: filled, blank: blank }; });
+          .then(function (blob) { return { blob: blob, filled: filled, teacher: teacher, nomatch: nomatch }; });
       });
     });
   }
 
-  function fillBlock(doc, cells, pick, done) {
+  // Fill one question block from the pool. Returns true if a question was
+  // placed, false if no matching question was found (slot left blank).
+  function fillBlock(doc, cells, pick) {
     var marks = null, isMCQ = false, isOR = false;
     var qCells = [], opt = {}, chCell = null, topicCell = null, typeCell = null;
     cells.forEach(function (tc) {
@@ -1917,7 +1928,7 @@
     var q = pick(marks, isMCQ);
     if (!q) {
       if (typeCell) setCell(doc, typeCell, "— no matching question —");
-      done(true); return;
+      return false;
     }
     if (qCells[0]) setCell(doc, qCells[0], q.text);
     if (isMCQ && q.options) ["A", "B", "C", "D"].forEach(function (L, i) { if (opt[L]) appendCell(doc, opt[L], " " + (q.options[i] == null ? "" : q.options[i])); });
@@ -1925,7 +1936,7 @@
     if (chCell) appendCell(doc, chCell, " " + (q.chapter || ""));
     if (topicCell) appendCell(doc, topicCell, " " + (q.topic || ""));
     if (typeCell) setCell(doc, typeCell, [q.type, q.difficulty, q.bloom].filter(Boolean).join(" / "));
-    done(false);
+    return true;
   }
 
   function downloadBlob(blob, name) {
