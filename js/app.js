@@ -92,6 +92,15 @@
       /([.?!:;])[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-h]|\d{1,2})\))(?=[ \t])/g,
       "$1\n$2");
   }
+  // Aggressive variant (accountancy/economics case-study questions): break
+  // before EVERY part marker (i)-(xii)/(a)-(h)/(1)-(99) AND every embedded MCQ
+  // option marker (A)-(H) that is surrounded by whitespace, so each part and
+  // each of its options sits on its own line.
+  function partOptLines(t) {
+    return t.replace(
+      /[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-hA-H]|\d{1,2})\))(?=[ \t]|$)/g,
+      "\n$1");
+  }
   // Math is written with $...$ / $$...$$ delimiters; leave it intact for MathJax,
   // but escape stray HTML-significant chars that are NOT inside math. With
   // opts.parts, each question part is placed on its own line (papers only).
@@ -109,7 +118,7 @@
     var parts = String(s).split(/(\$\$[\s\S]*?\$\$|\$[\s\S]*?\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\])/);
     return parts.map(function (p, i) {
       if (i % 2 === 1) return p;           // math segment, keep raw
-      var seg = (opts && opts.parts) ? partLines(p) : p;
+      var seg = (opts && opts.parts) ? (opts.parts === "full" ? partOptLines(p) : partLines(p)) : p;
       return textCmds(esc(seg)).replace(/\n/g, "<br>");
     }).join("");
   }
@@ -266,8 +275,8 @@
   }
   // Text that belongs AFTER a table (e.g. a Balance Sheet followed by the
   // adjustments / "prepare ..." instructions in Accountancy questions).
-  function afterHTML(t) {
-    return t ? '<p class="q-after">' + mathHTML(t) + "</p>" : "";
+  function afterHTML(t, opts) {
+    return t ? '<p class="q-after">' + mathHTML(t, opts) + "</p>" : "";
   }
   // An answer may carry no table, one table object, or a list of tables
   // (e.g. two Punnett squares for a genetic cross), each optionally captioned.
@@ -305,14 +314,18 @@
         tags += '<span class="tag diff diff-' + esc(q.difficulty.toLowerCase()) +
           '" title="Difficulty level">' + esc(q.difficulty) + "</span>";
     }
+    // Accountancy/Economics case-study & multi-part questions: put each part
+    // and each embedded option on its own line for readability.
+    var fp = (typeof STATE !== "undefined" && STATE.data &&
+      /^(Accountancy|Economics)\b/.test(STATE.data.subject || "")) ? { parts: "full" } : null;
     var body =
-      "<div class=\"qbody\"><p>" + mathHTML(q.text) + "</p>" +
-      tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after) +
+      "<div class=\"qbody\"><p>" + mathHTML(q.text, fp) + "</p>" +
+      tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after, fp) +
       arHTML(q) + optionsHTML(q.options);
     if (q.or) {
       body += '<div class="or-block"><span class="or-tag">OR</span>' +
-        "<p>" + mathHTML(q.or.text) + "</p>" + tableHTML(q.or.table) +
-        figHTML(q.or.figures) + afterHTML(q.or.text_after) + optionsHTML(q.or.options) + "</div>";
+        "<p>" + mathHTML(q.or.text, fp) + "</p>" + tableHTML(q.or.table) +
+        figHTML(q.or.figures) + afterHTML(q.or.text_after, fp) + optionsHTML(q.or.options) + "</div>";
     }
     body += "</div>";
     var appeared = q.papers.length > 1
