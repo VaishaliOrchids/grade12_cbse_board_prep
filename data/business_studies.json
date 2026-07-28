@@ -5,9 +5,10 @@
  "years": [
   2023,
   2024,
-  2025
+  2025,
+  2026
  ],
- "total_questions": 479,
+ "total_questions": 638,
  "chapter_order": [
   "Nature and Significance of Management",
   "Principles of Management",
@@ -25,7 +26,7 @@
  "chapters": [
   {
    "chapter": "Nature and Significance of Management",
-   "count": 45,
+   "count": 57,
    "questions": [
     {
      "qno": 1,
@@ -857,13 +858,230 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 15,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Green Tech Solutions’, a manufacturer of eco-friendly products had an organisational structure with separate departments for production, marketing, sales, etc. Each department had its own objectives, policies and style of working. The company was facing challenges as the production department would focus on producing goods without consulting the sales department and the marketing department developed advertising campaigns without considering the production timelines, leading to confusion and conflicts. To resolve this, the Chief Executive Officer, Madhur arranged inter-departmental meetings explaining to the respective managers that they have to consult each other while performing their activities. All the departmental managers agreed to this. By linking the activities of all the departments, the Chief Executive Officer was able to ensure that the right products are available when needed, marketing efforts match with the product availability and sales targets are achieved. The concept of management followed by the Chief Executive Officer to resolve confusion and conflicts between departments was :",
+     "options": [
+      "Organising",
+      "Coordination",
+      "Planning",
+      "Staffing"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Shreedar had worked as an Operations Manager at a cab aggregator firm for ten years, gaining in-depth knowledge of the business. He then decided to leave the job and started his own cab aggregator business ‘Easy Cab’ with his friend Mukesh. Shreedar became the Chief Executive Officer and Mukesh the Chief Operating Officer in ‘Easy Cab’. They decided to initially offer their services only in Goregram. To finance the venture, they applied for a loan to purchase electric cars for their fleet aiming to provide a sustainable and eco-friendly way to travel. (a) Identify the level of management at which Shreedar and Mukesh are working in ‘Easy Cab’. (b) State any three functions required to be performed by both Shreedar and Mukesh at the level of management they are working.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Shreyansh and Sudhir were close friends and were studying in a reputed engineering college. During campus recruitment in the final year of engineering, both of them got their dream jobs. Shreyansh’s consultancy firm was in India and Sudhir’s was a manufacturing firm situated out of India. Both looked forward to join their respective organisations after completing their engineering degree. One month after joining the organisation, Sudhir came to India on an assignment and both friends decided to meet. Shreyansh looked happy and was all praise for the management of his company. He told Sudhir that there was complete orderliness in his organisation and that all employees were happy and satisfied with the work and the working environment. Targets of the organization too were met as per the plans. Sudhir, in contrast was unhappy with his job and was thus on the lookout for another job. The characteristic of management being highlighted in the above case by Shreyansh is :",
+     "options": [
+      "Management is a group activity.",
+      "Management is a dynamic function.",
+      "Management is an intangible force.",
+      "Management is all pervasive."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Silver Mills’ started their business as a B2B supplier of high quality millet seeds. The firm was set up in a backward area of Ransdhan. The firm was earning just enough revenues to cover its cost. Over a period of time, due to rising awareness amongst people about the health benefits of millets and with the year 2023 declared as ‘International Year of Millets’, the demand for millets increased and the firm was able to earn profits. This gave a vital incentive to the firm to continue its successful operations. It then expanded its operations and introduced millet flour, millet-based snacks and millet-based beverages. With increase in its operations, it provided employment opportunities specially to women, involving them in dehusking, cleaning and packing of millets. State the objectives of management highlighted in the above case.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘CARO Tech Solutions’ aimed at development of a software system for the company’s growing operations. The project was to be completed within six months with a budget of ₹ 12,00,000. The software development team successfully completed its project on time by outsourcing a part of the project, leading to an additional expense of ₹ 2,00,000. From the following, identify whether the software development team is :",
+     "options": [
+      "Efficient and Effective",
+      "Efficient but not effective",
+      "Effective but not efficient",
+      "Neither efficient nor effective"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Due to severe winter and rising pollution levels, ‘Green India Electronics’ planned to launch a new eco-friendly heater in the market. It conducted a survey and found that the demand of this product was very high. As the winter season lasts only for 2 to 3 months, the Chief Executive Officer wanted that there should be close coordination among all the managers to deliver orders on time. Top level managers were asked to work in coordination with their subordinates to ensure that company’s policies were properly followed. To ensure that the heaters would be ready on time, the production manager co-ordinated with the operational level managers. Operational level managers co-ordinated the activities of the workers to ensure that work proceeded according to plans. As a result ‘Green India Electronics’ was able to launch its heaters on time, in the market. The feature of co-ordination discussed in the above case is :",
+     "options": [
+      "Co-ordination is a deliberate function.",
+      "Co-ordination is the responsibility of all managers.",
+      "Co-ordination is a continuous process.",
+      "Co-ordination ensures unity of action."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) State any three functions of middle level management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three features of ‘Demonetisation’.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘GW Industries’, known for its paper products, decided to produce and launch a new line of sustainable packaging called ‘EcoPac’. As management is a complex activity, the Chief Executive Officer of the company translated the work into clear goals and assigned the means to achieve those. He knew that human resources are the greatest asset of an organization, so getting work done through them is also a major task. The production of high quality sustainable packaging also required a proper production process. This was put in place for managing the flow of input materials and technology to convert these materials into high quality sustainable packaging. In this way ‘GW industries’ took care of various aspects for successful launch of ‘EcoPac’. A characteristic of management is discussed in the above case. Identify and explain the characteristic.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Rohit is a manager at a furniture manufacturing company. The company holds an annual sale in the month of December, which is very popular. Rohit prepares the production plans for the annual sale well in advance, in the month of June every year. After planning, he ensures that enough workers are available and continuously monitors whether the work is progressing as scheduled or not. He also informs the marketing team well in time so that they can plan their promotional campaigns accordingly. The feature of coordination highlighted in the above case is :",
+     "options": [
+      "Coordination is an all-pervasive function.",
+      "Coordination is a continuous process.",
+      "Coordination is a deliberate function.",
+      "Coordination is the responsibility of all managers."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Dinkar, the General Manager at ‘Tara Lamps’ noticed that rising costs were affecting the company’s profits. To increase the profits, he decided to reduce the costs and increase the productivity. He planned for rearrangement of work processes, assigned the tasks according to workers’ skills, gave clearer directions to employees than before and regularly controlled the activities of the organisation. This not only resulted in cost reduction but also in increased productivity and profits. The point of importance of management highlighted in the above case is :",
+     "options": [
+      "Management creates a dynamic organisation",
+      "Management helps in achieving personal objectives",
+      "Management helps in the development of a society",
+      "Management increases efficiency"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Arjun and Neha were close friends. They had studied together in the same school. After completing their higher education, both of them joined a company named ‘Apex Ltd.’ in different roles, based on their qualifications. Arjun’s role involved analysing the business environment and its implications for the survival of the firm. He was also responsible for the welfare and survival of the organisation. Neha, on the other hand, was heading the marketing department in the organisation. Her responsibility was to ensure that her department had the necessary personnel. In addition to many other responsibilities, she had to motivate them to achieve desired objectives. Apart from the functions mentioned in the above case, state two more functions each for Arjun and Neha that they would perform at the level at which they are working.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Principles of Management",
-   "count": 31,
+   "count": 43,
    "questions": [
     {
      "qno": 9,
@@ -1386,13 +1604,231 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : The principles of management are guidelines to action, but do not provide readymade, straitjacket solutions to all managerial problems. Reason (R) : Real business situations are neither complex, nor dynamic and are not the result of many factors. Choose the correct alternative from the options given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘The principle of management which emphasizes on obedience to organisational rules and employment agreements necessary for the working of the organisation’ is called :",
+     "options": [
+      "Division of work",
+      "Discipline",
+      "Scalar chain",
+      "Remuneration of employees"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to ‘functional foremanship’ as a technique of scientific management :",
+     "options": [
+      "It advocates separation of planning and execution functions.",
+      "Speed boss, gang boss, repair boss and inspector work under the production incharge.",
+      "It is an extension of the principle of unity of command to the shop floor.",
+      "Each worker takes orders from eight foremen in the process of production."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Principles of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Rushil opened ‘RK Hair and Beauty Salon’ in a reputed locality and appointed fifteen people as salon staff. However, within just a few months, he observed that the employees were leaving the salon one by one and the business was not able to meet even the monthly targets. Rushil asked his manager to find out the reason. The manager reported that quite often, according to the requirement, the hair stylist was asked to do the work of a makeup artist and a makeup artist was asked to do nail care, etc. As a result, the employees were not happy and wanted to work at a salon where work was divided according to their competence and would enhance their specialisation. The manager also added that there was neither any fixed place for hair care, skin care or nail care materials nor for the employees. This created confusion and hindrance in the work and led to further dissatisfaction amongst the staff. As a result, the employees kept leaving the salon leading to high employee turnover ratio and a shortage of experienced staff. Identify and explain the two principles of management discussed above that are not followed in ‘RK Hair and Beauty Salon’.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following principles of Scientific Management : (i) Science not Rule of Thumb (ii) Harmony, not Discord (iii) Development of Each and Every Person to His or Her Greatest Efficiency and Prosperity",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following features of principles of management : (i) Universal applicability (ii) Cause and effect relationships (iii) General guidelines",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The workers in Alpha manufacturing company were using traditional methods for production of metal parts. Since no standard procedure existed, workers relied on personal experience and guess work. As a result, productivity in the assembly line began to decline. To improve productivity, the company hired a consultant specializing in scientific management. The consultant explained that there was only one best method to maximize efficiency and this method could be developed through proper study and analysis. He emphasized that the scientific method should replace the old method, that the workers were using. So, to develop the scientific method, the consultant carefully investigated the traditional methods through work-study and by unifying the best practices, he developed a standard method that would be followed by everyone in the organization. After applying scientific method, there was a three fold increase in productivity within six months. The principle of scientific management which helped the company in increasing the productivity was :",
+     "options": [
+      "Science, not Rule of Thumb",
+      "Harmony, Not Discord",
+      "Cooperation, Not Individualism",
+      "Development of Each and Every Person to His or Her Greatest Efficiency and Prosperity"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the principle of management given in Column – I with its explanation given in Column – II : Column – I — (a) Discipline; (b) Unity of direction; (c) Order; (d) Unity of command. Column – II — (i) There should be one and only one boss for every individual employee in the organisation. (ii) There should be a place for everything (everyone) and everything (everyone) should be in its (his/her) place. (iii) There should be obedience to organisational rules and employment agreement which is necessary for the working of the organisation. (iv) Each group of activities having the same objective must have one head and one plan. Choose the correct option from the following :",
+     "options": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Principles of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Rajiv was on the board of directors of ‘Tako Solutions’, a software development company and ‘Sabka Mart Retail’, a large supermarket chain. He wanted to apply management principles in both the companies to improve efficiency and profitability. He knew that management principles can be applied as much to ‘Tako Solutions’ as to ‘Sabka Mart Retail’ though the extent to which the principles can be applied will differ, because the nature of work, scale of operations and business activities in a software firm and a supermarket chain are not the same. Rajiv also knew that the management principles would not provide readymade solutions because real world situations faced by the two companies were very complex and dynamic. Still, he believed that even small guidelines could help in solving many problems and will improve the way both companies worked. Identify and explain the two points that highlight the nature of principles of management, in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Agri Solutions’, a fast-growing agri-tech company, was facing a problem of employees leaving the organisation frequently. As a result, work suffered and time and money were spent repeatedly on recruitment and training. On investigation, it was found that the problem was due to employees not getting sufficient time to settle into their new roles. So the company decided to keep their employees at the same position for a minimum tenure and give them sufficient time to show results. This led to a significant reduction in employee turnover and improvement in organisational efficiency. The principle of management highlighted in the above case is :",
+     "options": [
+      "Order",
+      "Stability of Personnel",
+      "Division of Work",
+      "Authority and Responsibility"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Principles of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following features of principles of management : (i) Cause and effect relationship (ii) Contingent",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Principles of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following techniques of scientific management : (i) Motion Study (ii) Differential Piece Wage System",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Business Environment",
-   "count": 27,
+   "count": 37,
    "questions": [
     {
      "qno": 2,
@@ -1937,13 +2373,200 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Seeing the increasing demand for automobiles in Buleti, ‘Veso Cars’, a global car manufacturing company planned to expand its operations and sell its cars there. However, the government of Buleti imposed high import duties on foreign made cars to protect local manufacturers from foreign competition. This attitude of the Buleti government towards foreign car manufacturers increased the cost of importing cars, making it less affordable for ‘Veso Cars’ to sell its cars at competitive prices in Buleti. The component of business environment highlighted above is :",
+     "options": [
+      "Political environment",
+      "Social environment",
+      "Legal environment",
+      "Economic environment"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Business Environment",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Sweets has been the mainstay for several large homegrown restaurant brands. Increased life expectancy of people and increased awareness for health care amongst consumers has increased the demand for healthy food options. Young consumers are moving away from consuming traditional sweets to buying more western style premium products which are baked or steamed. With this shift in consumer preferences, ‘Shree Restaurants’, a well known restaurant brand, is gearing itself up for playing a greater role in the healthy packaged foods market. In addition to traditional sweets, the company is also planning to expand to healthy savoury and sweet items and some ready-to-eat items. These new healthy products are expected to change people’s lifestyles. Identify and explain the two features of Business Environment highlighted in the above case.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The Go-Vegan Movement has been an integral part of western nations owing to its numerous health and environmental benefits. India too has witnessed a propelling vegan food market. Concerned with the quality of life, people have shifted to a variety of plant-based food alternatives that offer great taste and health benefits and strengthen the immune system. The dimension of business environment discussed above is :",
+     "options": [
+      "Economic environment",
+      "Social environment",
+      "Technological environment",
+      "Political environment"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : Increased life expectancy of people and increased awareness for health care have increased the demand for many health products and services. Reason (R) : Different elements of business environment are not inter-related. Choose the correct alternative from the options given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Business Environment",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) State any three points of importance of business environment.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Business Environment",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three features of demonetisation.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Business environment keeps on changing whether in terms of technological improvement, shifts in consumer preferences or entry of new competitors in the market.’ The feature of business environment highlighted in the above statement is :",
+     "options": [
+      "Totality of external forces",
+      "Complexity",
+      "Dynamic nature",
+      "Relativity"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘The business environment differs from country to country and even region to region.’ The feature of business environment reflected in the above statement is :",
+     "options": [
+      "Relativity",
+      "Complexity",
+      "Uncertainty",
+      "Dynamic nature"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to the importance of business environment :",
+     "options": [
+      "It helps in coping with rapid changes",
+      "It helps in tapping useful resources",
+      "It helps in assisting in planning and policy formulation",
+      "It helps in increasing political instability and thus build the confidence of people to invest in long term projects"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Business Environment",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Tiva Motors’ planned to set up a new manufacturing unit for the electric scooters in Varanchal. One important consideration for setting up of the unit in Varanchal was that the government in Varanchal had been stable for several years. This had built confidence among business people to invest in long-term projects there. They understood that an adequate knowledge of the rules and regulations framed by the government is a prerequisite for a good business performance. So, before starting the operations, the company decided to obtain licences under environmental laws and necessary permissions from the government departments. Identify and explain the two dimensions of business environment that are highlighted in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Planning",
-   "count": 32,
+   "count": 47,
    "questions": [
     {
      "qno": 32,
@@ -2502,13 +3125,278 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 8,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : A single-use plan is used for activities that occur regularly over a period of time. Statement II : Policies are a general form of standing plans that specify the organisation’s response to a certain situation. In the light of the above statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not a limitation of planning function of management ?",
+     "options": [
+      "Planning leads to rigidity.",
+      "Planning reduces creativity.",
+      "Planning guarantees success.",
+      "Planning may not work in a dynamic environment."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following points of importance of ‘Planning’ function of management : (i) Planning provides direction. (ii) Planning reduces the risk of uncertainty.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following features of ‘Planning’ function of management : (i) Planning is futuristic. (ii) Planning is a mental exercise.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 22,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the following features of ‘Planning’ : (i) Planning focuses on achieving objectives. (ii) Planning is a mental exercise.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the following types of plans : (i) Strategy (ii) Policy",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 25,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Mefco Ltd.’ has been in online grocery e-commerce business for the last six years. Recently, it started facing increasing competition in the market. Understanding that speed of delivery in the key differentiator amongst online business firms, ‘Mefco Ltd.’ planned to launch ‘Mefco Fast’, a service designed to deliver the products to the customers within 10 minutes. It studied the market and made assumptions about the future regarding the convenience offered by such a service to the consumers who are increasingly seeking faster delivery options. (a) Identify the step of the planning process highlighted in the above case. (b) State the next three steps to be followed by ‘Mefco Ltd.’ after the step identified in (a) above.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to the importance of planning function of management :",
+     "options": [
+      "Planning provides directions by stating in advance how work is to be done.",
+      "Planning eliminates uncertainty by looking ahead and anticipating changes.",
+      "Planning facilitates decision making by making a choice among various alternative courses of action.",
+      "Planning promotes innovative ideas as new ideas can take the shape of concrete plans."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the feature of planning which states that the purpose of planning is to meet future events effectively to the best advantage of an organisation :",
+     "options": [
+      "Planning involves decision making",
+      "Planning is futuristic",
+      "Planning is a mental exercise",
+      "Planning focuses on achieving objectives"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following points of importance of planning : (i) Planning establishes standards for controlling (ii) Planning reduces overlapping and wasteful activities",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following types of plans : (i) Objective (ii) Method",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Planning requires application of mind involving foresight, intelligence, imagination and sound judgement.’ The feature of planning reflected by the above statement is :",
+     "options": [
+      "Planning is futuristic",
+      "Planning involves decision-making",
+      "Planning is a mental exercise",
+      "Planning is continuous"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Cosy Garments’ started the manufacturing of jackets in September, 2025. They expected a rise in the demand for jackets during the winter season. To handle the increased workload, the Production Manager estimated the number of workers required during peak production days and planned accordingly. The type of plan highlighted in the above case is :",
+     "options": [
+      "Budget",
+      "Policy",
+      "Method",
+      "Objective"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following points of limitations of planning : (i) Planning reduces creativity (ii) Planning leads to rigidity (iii) Planning does not guarantee success",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following points of importance of organising : (i) Adaptation to change (ii) Effective administration (iii) Expansion and growth",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Organising",
-   "count": 37,
+   "count": 50,
    "questions": [
     {
      "qno": 3,
@@ -3195,13 +4083,245 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the steps of organising process given in Column I with their explanation given in Column II. Column I — 1. Identification and division of work; 2. Departmentalisation; 3. Assignment of duties; 4. Establishing authority and reporting relationships. Column II — (i) Establish clear relationships to create a hierarchical structure and facilitate co-ordination among various departments. (ii) Divide the work into small and manageable activities so that activities similar in nature are grouped together. (iii) As per previously drawn plans, identify the work and divide in such a way so that duplication can be avoided and burden of work can be shared among the employees. (iv) Define the work of different job positions and accordingly allocate work to various employees. Choose the correct option from the following :",
+     "options": [
+      "1-(iii), 2-(ii), 3-(i), 4-(iv)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(iii), 2-(ii), 3-(iv), 4-(i)",
+      "1-(iv), 2-(i), 3-(ii), 4-(iii)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Verso Cars’ opened their new car showroom in Kainvad. They appointed Tarun as a General Manager for managing their operations. He was responsible for meeting sales targets, keeping a check on inventory, building customer relations, ensuring compliance with regulations, etc. However, the high volume of work made it impractical for him to handle it all by himself. To meet the company’s goals, and to ensure that all work is accomplished, he appointed Nikhil as a Sales Manager. Nikhil was given the authority to take decisions inherent in his managerial position and to tell people what to do and expect them to do it. He not only had to ensure that sales targets are met but was also to guide sales representatives and had to report directly to Tarun. As a result, Tarun was able to concentrate on more important matters and ensure that all work is accomplished. (a) Identify the concept followed by Tarun which helped him in achieving the company’s goals. (b) Explain any two points of importance of the concept identified in (a) above.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Nurata Ltd.’ is a leading manufacturer of clothing in India, known for good quality casual wear as well as formal wear for children. The company is earning good profits and now wants to expand its business by entering into the business of electronics and home appliances too. The management decided to create separate business units, where each unit head would be responsible for a specific product category and for its performance. All key functions, such as marketing, finance, production, etc. would be handled within each unit. (a) Identify the organizational structure adopted by ‘Nurata Ltd.’ on expansion of its business. (b) State any two advantages and one disadvantage of the organizational structure identified in (a) above.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Apex Shoes’, a popular footwear brand had grown rapidly over the years. It decided to open its own retail outlets across major cities. To ensure smooth operations, the retail outlets were managed by store managers who were responsible for day-to-day operations like inventory management, customer service and sales targets etc. However, for key decisions such as offering discounts or processing refunds etc., managers had to seek approval from corporate headquarters. Quite often, customers would ask for a discount or want to return the shoes and get a refund. The store managers did not have the authority to approve this. They had to call the head office for approval, which caused a delay. These delays affected both customer satisfaction and footwear sales. Realizing the need for faster decisions, the Chief Executive Officer of the company, Atul, decided to selectively disperse the authority to the store managers to approve discounts, returns and other customer-related decisions. He believed that store managers could assume responsibility for effective implementation of their decisions. This led to faster service, satisfied customers and an increase in sales. The concept used by Atul to improve customer satisfaction and store performance was :",
+     "options": [
+      "Responsibility",
+      "Authority",
+      "Delegation",
+      "Decentralisation"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Organising",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘TnG’ is a leading manufacturer of baby care and feminine care products and has a good market reputation. It has Production, Marketing, Human Resources, Customer Service and Research and Development departments. To capitalise on its brand name and to take advantage of new business opportunities, the company decided to diversify into manufacturing of new range of products like ‘Beauty and Wellbeing’, ‘Home Care’, ‘Personal Care’, ‘Nutrition’, etc. For this, the company had to add more employees and create more departments and choose a good organisational structure which would help the company in achieving its objectives. (a) Explain the organisational structure that ‘TnG’ should choose after it decided to diversify. Also give reason in support of your answer. (b) State how the organisational structure explained in (a) above will help the organisation and the heads of different departments. Give two points in favour of each.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Organising is the process that initiates implementation of plans by clarifying jobs and working relationships and effectively deploying resources for attainment of identified and desired results. Organising process thus involves a series of steps that need to be taken in order to achieve the desired goal. Arrange the steps of the process of organizing in the correct order :",
+     "options": [
+      "Identification and Division of work, Assignment of duties, Departmentalisation, Establishing authority and reporting relationships",
+      "Identification and Division of work, Assignment of duties, Establishing authority and reporting relationships, Departmentalisation",
+      "Departmentalisation, Identification and Division of work, Establishing authority and reporting relationships, Assignment of duties",
+      "Identification and Division of work, Departmentalisation, Assignment of duties, Establishing authority and reporting relationship"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Soal Footwear Ltd.’ is known for its high quality athletic shoes and casual sneakers. With increasing competition and changing consumer preferences, it decided to diversify its product range by adding clothing, bags and accessories under the same brand umbrella. This diversification aimed to capture a larger share of the market and increase customer loyalty. (i) Suggest with reason which type of organisational structure will be suitable for ‘Soal Footwear Ltd.’ (ii) State any two advantages of the organisational structure suggested in (i) above.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Sheetal Cosmetics Ltd.’, is a fast growing beauty and skin care company known for its innovative products and aggressive market expansion. As the company increased its marketing activities like new product launches, accelerated advertising campaigns, social media promotions and influencer collaborations etc., the workload of the marketing department grew sharply. Despite working long hours, the marketing manager Arjun couldn’t give adequate attention to strategic planning and high impact decisions as minor operational issues began consuming most of his time. Noticing this, the Chief Executive Officer (CEO) advised Arjun that it was now impractical for him to handle the entire volume of work alone, so he should allow his subordinates to take up routine tasks. This would not only help him manage his time better but also satisfy the subordinate’s need for recognition. This will also provide opportunities to the subordinates to develop and exercise initiative. (i) Identify the concept suggested by CEO that will help Arjun to manage volume of work effectively. (ii) State any three points of importance of the concept identified in (i) above.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Sharad was the Operations Manager at ‘Nova Ltd.’ He assigned the task of completing an urgent order to Anita, the Production Supervisor. She was given the authority to plan the work and meet the deadline. Anita further assigned the work to Rohit, a machine operator and asked him to finish it by the end of the day. Rohit did not complete the task on time, due to which the company failed to deliver the order. Who is accountable to Sharad for non-completion of the work ?",
+     "options": [
+      "Rohit",
+      "Anita",
+      "Both Rohit and Anita",
+      "Sharad himself"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "____________ is the framework within which the managerial and operating tasks are performed.",
+     "options": [
+      "Organising",
+      "Organisational structure",
+      "Delegation",
+      "Decentralisation"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the statement that correctly highlights the advantage of Divisional Structure :",
+     "options": [
+      "It facilitates expansion and growth, as new divisions can be added without interrupting the existing operations.",
+      "It helps in increasing managerial and operational efficiency, resulting in increased profit.",
+      "It makes training of employees easier, as the focus is on a limited range of skills.",
+      "It promotes control and coordination within a department because of similarity in the tasks being performed."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) State any three points of difference between Formal organisation and Informal organisation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three points of difference between Divisional structure and Functional structure of an organisation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Staffing",
-   "count": 47,
+   "count": 59,
    "questions": [
     {
      "qno": 22,
@@ -4030,13 +5150,215 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the following internal sources of recruitment : (i) Transfers (ii) Promotions",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the following methods of training : (i) Internship training (ii) Vestibule training",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 7,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the statements given in Column I with the external source of recruitment given in Column II. Column I — 1. Many reputed business organisations keep a database of unsolicited applicants in their offices. A list of such job-seekers can be prepared and can be screened to fill the vacancies as they arise. 2. A notice is placed on the notice board of the enterprise specifying details of the jobs available. Job-seekers assemble outside the premises of the organisation on the specified date and selection is done on the spot. 3. Many big organisations maintain a close liaison with the universities, vocational schools and management institutes to recruit qualified personnel for various jobs. 4. Applicants introduced by present employees or their friends and relatives. Column II — (i) Recommendation of employees; (ii) Campus recruitment; (iii) Direct recruitment; (iv) Casual callers. Choose the correct option from the following :",
+     "options": [
+      "1-(iii), 2-(ii), 3-(i), 4-(iv)",
+      "1-(ii), 2-(i), 3-(iii), 4-(iv)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)",
+      "1-(iii), 2-(i), 3-(ii), 4-(iv)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Selection test is a mechanism that attempts to measure certain characteristics of individuals ranging from aptitudes, to intelligence, to personality. It is one of the steps in the process of selection. Place the subsequent steps of process of selection in an organisation in the correct order.",
+     "options": [
+      "Employment interview, reference and background checks, selection decision, medical examination, job offer, contract of employment",
+      "Employment interview, reference and background checks, medical examination, selection decision, job offer, contract of employment",
+      "Employment interview, medical examination, job offer, reference and background checks, selection decision, contract of employment",
+      "Employment interview, selection decision, reference and background checks, job offer, medical examination, contract of employment"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Training is the process by which the aptitudes, skills and abilities of employees to perform specific jobs are increased. Statement II : Training is a job-oriented process. In the light of the above statements, choose the correct alternative from the options given below :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Heights Engineering College’ is one of the top engineering colleges in India known for its excellent academic programmes and strong industry connections. The college has a separate placement cell which maintains a close liaison with the universities, vocational schools and management institutes to recruit qualified persons for various jobs. It works tirelessly to connect students with some of the best companies for job opportunities. Shikhar, a brilliant Environmental Engineering student was excited when he was chosen by ‘Nero’, a major car manufacturing company for the post of Production Manager. He received the employment contract which included the terms, conditions and date of joining. Shikhar happily accepted the employment offer. On his first day at the company, Shikhar was given a brief presentation about the company and was introduced to his superiors, subordinates and colleagues. He was taken around the workplace and given charge of the job for which he was selected. Three months later, after settling into the job, Shikhar was called by his superior and given positive feedback about his current performance as per certain pre-determined standards. State four steps of the staffing process discussed in the above case.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four merits of internal source of recruitment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four benefits of training to the employees.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Staffing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following steps in the staffing process : (i) Estimating manpower requirements (ii) Selection (iii) Placement and orientation",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Staffing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following non-financial incentives : (i) Status (ii) Organisational climate (iii) Job security",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Staffing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following steps in the process of staffing : (i) Selection (ii) Promotion and Career Planning (iii) Compensation",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Staffing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following external sources of recruitment : (i) Direct Recruitment (ii) Casual Callers (iii) Labour Contractors",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Directing",
-   "count": 45,
+   "count": 63,
    "questions": [
     {
      "qno": 25,
@@ -4822,13 +6144,329 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 13,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to importance of ‘Directing’ :",
+     "options": [
+      "It helps to initiate action.",
+      "It helps to bring stability and balance in the organisation.",
+      "It facilitates introduction of needed changes in the organisation.",
+      "It establishes standards for controlling."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the financial incentive shown in the picture given below : [Picture: coins flowing from an ‘Employer’ building, part going into an ‘EPF’ piggy bank, and the rest reaching an ‘Employee’.]",
+     "options": [
+      "Stock option",
+      "Perquisites",
+      "Productivity-linked wage incentive",
+      "Retirement benefits"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four features of ‘Motivation’ as an element of Directing.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following non-financial incentives : (i) Job enrichment (ii) Employee participation",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 31,
+     "chapter": "Directing",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Sara recently received her degree in automobile engineering and decided to join her father’s electric vehicle business. They were not only selling electric vehicles but also providing related services like charging vehicles and their maintenance, etc. Sara had worked on a practical project related to electric vehicles during her automobile engineering course and won first prize for it. She was impressed by electric vehicles because of their potential to revolutionize the automotive industry as these are more sustainable and eco-friendly alternative to traditional vehicles. She was exploring the possibility of entering into partnerships with the government for electric vehicle charging stations. This could be shared investment, with the government providing land and incentives and her company contributing technical expertise and operational management. Sara shared her thoughts and ideas with her father. She prepared a proposal to collaborate with the government for setting up electric vehicle charging stations. The proposal contained her ideas, feelings and suggestions which she intended to convey to the government. She then converted her ideas, feelings and suggestions into words and pictures. She used clear concise language and visual aids such as charts and graphs, to make complex information more understandable. She now had to choose a path through which her proposal would be transmitted to the government. Sara had a face-to-face meeting with the government and presented her ideas directly. (a) The above case highlights an element of one of the functions of management. Identify and explain the element. (b) Quoting lines from the above case, name the four elements of the concept identified in (a) above. (c) State three other elements of the concept identified in (a) above, not discussed in the above case.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Capro Ltd.’, an IT services firm was perceived as a passive provider focusing on fulfilling clients’ orders without much innovation. In an attempt to change its image, the Chief Technical Officer of ‘Capro Ltd.’ called a meeting of technical heads in the conference room. The meeting was important as it was regarding launching programmes to encourage employees to generate ideas for value addition that their clients would appreciate and would help in changing the company’s image. Shrinivas, a technical head was last to enter the conference room for the meeting and got a seat near the door of the conference room. As there was constant movement near the conference room, he could not attentively focus on the meeting, missing out on important points discussed in the meeting. (a) Identify and state the elements in the communication process that led to Shrinivas missing out on important points discussed in the meeting. (b) State any two other elements of the communication process other than the one identified in (a) above.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain ‘Organisational Climate’ and ‘Employee Recognition’ as non-financial incentives.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain any two psychological barriers to effective communication.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four features of ‘Motivation’ as an element of Directing.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four points of importance of ‘Directing’ function of management.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the element of communication process from the above picture : [Picture: a man shouting through a megaphone at a listener who covers his ears, jagged lightning marks and a cloud of jumbled symbols representing distortion between them.]",
+     "options": [
+      "Feedback",
+      "Media",
+      "Noise",
+      "Decoding"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is NOT an organisational barrier to communication ?",
+     "options": [
+      "Status",
+      "Organisational facilities",
+      "Lack of proper incentives",
+      "Rules and regulations"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) State any three measures to improve communication effectiveness.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three features of leadership.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "Directing",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : Motivation can be either positive or negative. Reason (R) : Individuals are heterogeneous in their expectations, perceptions and reactions. Choose the correct alternative from the options given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are false.",
+      "Assertion (A) is true, but Reason (R) is false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to the feature of Directing function of management :",
+     "options": [
+      "Directing is a continuous process",
+      "Directing flows from top to bottom",
+      "Directing takes place at top level of management only",
+      "Directing initiates action"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the incentives given in Column I with their meanings given in Column II. Column I — 1. Job Security; 2. Job Enrichment; 3. Career Advancement Opportunity; 4. Employee Participation. Column II — (i) Involving employees in decision-making of the issues related to them; (ii) Providing opportunities to employees to improve their skills and be promoted to higher level jobs; (iii) Stability about future income and work; (iv) Designing jobs that include greater variety of work content and higher levels of knowledge and skill.",
+     "options": [
+      "1-(iii), 2-(iv), 3-(ii), 4-(i)",
+      "1-(iii), 2-(i), 3-(ii), 4-(iv)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Directing",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Alpha Electronics’ had recently received a large order for the supply of electronic control panels. The management was under pressure to deliver it on time. When one of the production lines started malfunctioning, the Production Manager, Suresh, was concerned. Although ‘Alpha Electronics’ was an organisation with highly centralised pattern where free communication was not encouraged. Suresh, still decided to call his senior technician, Manoj, to understand the problem. Suresh had the reputation of being unapproachable. He was conscious of his seniority and position so he rarely encouraged his subordinates to speak freely. Manoj was nervous as the production line was damaged due to his own negligence and he thought sharing it with his senior, Suresh, would adversely affect his interests. Anyhow, he had to go to Suresh’s office. When Manoj entered Suresh’s office, he saw that Suresh was pre-occupied with an important file before him. Suresh asked Manoj to explain what the problem was. Manoj reluctantly started explaining, but he felt that Suresh wasn’t listening to him. So Manoj did not share the complete information and the problem in the production line could not be rectified on time. Identify and explain four communication barriers discussed in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Controlling",
-   "count": 27,
+   "count": 39,
    "questions": [
     {
      "qno": 4,
@@ -5311,13 +6949,242 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Planning and Controlling are both backward-looking as well as forward-looking functions. Statement II : Planning is prescriptive whereas Controlling is evaluative. In light of given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Alpha Manufacturing Ltd.’ is a company manufacturing high quality car spare parts. The company has a well-established production line and its products are highly demanded in the market. However, it was noticed that the defect rate in the manufacturing process was higher than the standard of 10 per 1,000 pieces produced. In spite of best efforts, the Production Manager was not able to reduce the defect rate. So, he decided to revise the standards. The step of the controlling process, followed by the Production Manager after not being able to reduce the defect rate, will be :",
+     "options": [
+      "Taking corrective action",
+      "Measurement of actual performance",
+      "Analysing deviations",
+      "Comparing actual performance with standards"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the following points of importance of ‘Controlling’ function of management : (i) Ensuring order and discipline (ii) Judging accuracy of standards",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three points of importance of ‘Staffing’ function of management.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Any deviation, whether significant or insignificant, should be brought to the notice of the management. Statement II : Control should focus on those Key Result Areas which are critical to the success of an organisation. In the light of the above statements, choose the correct alternative from the options given below :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are false.",
+      "Both Statement I and Statement II are true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "A garment manufacturing firm had set a target of manufacturing 1000 garments per day. The manager of the firm saw that the production consistently fell short of the target. It was observed that employees were spending too much time taking lunch, reporting late and leaving early on one pretext or the other. A control mechanism was installed to address the issue. Card punching was implemented in the organisation. It was made mandatory for employees to record their entry or exit every time they enter or leave. Their working hours were monitored and irregularities addressed. This helped the organisation to meet its daily production targets. Identify the point of importance of ‘Controlling’ highlighted in the above case.",
+     "options": [
+      "Judging accuracy of standards",
+      "Accomplishing organisational goals",
+      "Making efficient use of resources",
+      "Ensuring order and discipline"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The step of controlling process which reveals the deviation between actual performance and desired results is :",
+     "options": [
+      "Setting performance standards",
+      "Analysing deviations",
+      "Taking corrective action",
+      "Comparing actual performance with the standards"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement – I : Control should focus on key result areas which are critical to the success of an organization. Statement – II : Only significant deviations which go beyond the permissible limit should be brought to the notice of management. With reference to the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Both the statements are true.",
+      "Both the statements are false.",
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Riya Mart’ is a company manufacturing disposable crockery. They have been in business for the past five years, but were not earning good profits. Concerned about this, the Chief Executive Officer (CEO), Verma, ordered an internal audit. The audit uncovered several issues like inventory pilferage, employees coming late and their performance not upto the mark. To stop inventory pilferage, Verma, the CEO, introduced surprise stock checks and installed an automated inventory management system to track stock movements. A biometric attendance system was also setup to keep a check on employees coming late. In addition to this, to motivate employees for better performance, they were told in advance what they are expected to do and what are their standards of performance. As a result of these steps, the inventory pilferage reduced, employees became more punctual and their performance improved. (i) Identify and state the function of management performed by Verma, the Chief Executive Officer of the company. (ii) State any two points of importance of the function identified in (i) above, which are not discussed in the above para.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement I : Planning and controlling are both forward-looking as well as backward-looking. Statement II : Planning is evaluative, whereas controlling is prescriptive. In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘The first step in the controlling process is setting up of performance standards.’ Identify the correct order of the subsequent steps of the controlling process.",
+     "options": [
+      "Comparing actual performance with standards, Taking corrective action, Analysing deviations, Measurement of actual performance",
+      "Measurement of actual performance, Comparing actual performance with standards, Analysing deviations, Taking corrective action",
+      "Measurement of actual performance, Taking corrective action, Comparing actual performance with standards, Analysing deviations",
+      "Analysing deviations, Measurement of actual performance, Comparing actual performance with standards, Taking corrective action"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Delicious Salads’ was a company that supplied packaged salads to the supermarkets. Recently, the management noticed that a large amount of vegetables were getting spoiled every week. This was increasing the costs and reducing the profits because of which the company was not able to achieve its goals. To solve this, the Production Manager, Meera was asked to take charge of the situation and bring the wastage under control. Meera found that the vegetable cleaning, cutting and packing departments were working at their own pace, leading to the spoilage of vegetables. Meera started out by setting standards for each of the departments, which were well coordinated with one another. Each activity would be performed in accordance with those standards. Within a month, ‘Delicious Salads’ was able to supply the salads with minimum wastage and achieve its goals. Explain the two points of importance of the controlling function of management discussed in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Financial Management",
-   "count": 52,
+   "count": 69,
    "questions": [
     {
      "qno": 13,
@@ -6255,13 +8122,324 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The increase in profit earned by the equity shareholders due to the presence of fixed financial charges is known as :",
+     "options": [
+      "Trading on equity",
+      "Financial risk",
+      "Financial planning",
+      "Financial leverage"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Financial Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following factors affecting working capital requirements of a business : (i) Nature of business (ii) Credit availed (iii) Operating efficiency (iv) Seasonal factors",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Financial Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Distinguish between ‘Money Market’ and ‘Capital Market’ on any six basis.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Financial Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "After completing his civil engineering degree, Sankalp decided to start his own business. He started a construction company ‘Sankalp Builders’. He entered into an agreement for construction of residential flats on a land of 30 acres. Building of the flats on such a large scale required expensive machinery like bulldozers, excavators, etc. He had the option to buy the machinery or take it on lease. Though Sankalp was in favour of buying, his father advised him to take the decision with caution as construction machinery becomes outdated very fast and needs to be replaced. He also told Sankalp that in future he may think of diversifying his operations and would need funds for that too. Identify and state any four factors discussed above affecting the fixed capital requirements of ‘Sankalp Builders’.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : The cost of debt is lower than the cost of equity for a firm. Reason (R) : Lender’s risk is lower than the shareholder’s risk. Additionally, interest paid on debt is a deductible expense for computation of tax liability, whereas dividends are paid out of after tax profit. Choose the correct alternative from the options given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to financial leverage.",
+     "options": [
+      "The proportion of debt in the overall capital is called financial leverage.",
+      "With the increase in financial leverage, the financial risk increases.",
+      "The proportion of equity in the overall capital is called financial leverage.",
+      "As the financial leverage increases, the cost of funds declines."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following factors affect the capital budgeting decision of a company ?",
+     "options": [
+      "Investment criteria involved",
+      "Floatation costs",
+      "Tax Rate",
+      "State of Capital Market"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following factors affect the fixed capital requirements of a company ? 1. Financing alternatives 2. Level of collaboration 3. Production cycle 4. Choice of technique 5. Seasonal factors 6. Level of competition Choose the correct alternatives from the following :",
+     "options": [
+      "2, 3 and 6",
+      "3, 4 and 5",
+      "3, 4 and 6",
+      "1, 2 and 4"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Amrit Ltd. and Nimrit Ltd. are two companies manufacturing automotive parts for automobile companies. Amrit Ltd. had a capital employed of ₹ 80 lakhs comprising of equity share capital of ₹ 40 lakhs divided into 40,000 shares of ₹ 100 each and debt of ₹ 40 lakhs at 6%. Nimrit Ltd. also had capital employed of ₹ 80 lakhs divided into 80,000 equity shares of ₹ 100 each. Return on Investment (ROI) of both the companies is 10% and tax rate is 50%. (a) Calculate Earning Per Share (EPS) for both the companies. (b) Which of the two companies has better Earning Per Share and why ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Financial Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following factors affecting requirements of working capital of a company : (i) Nature of business (ii) Inflation (iii) Seasonal factors (iv) Growth prospects",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Financial Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following factors affecting dividend decisions of a company : (i) Stability of dividend (ii) Shareholders’ preference (iii) Access to capital market (iv) Legal constraints",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 12,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "A position when a company is unable to meet its fixed financial charges like interest payment, dividend on preference shares and repayment obligations is referred to as ____________.",
+     "options": [
+      "Trading on equity",
+      "Financial risk",
+      "Business risk",
+      "Operating risk"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Certain provisions of the Companies Act place restrictions on payouts as dividend. Such provisions must be adhered to while declaring the dividend.’ The factor affecting dividend decision discussed above is :",
+     "options": [
+      "Access to capital market",
+      "Contractual constraints",
+      "Legal constraints",
+      "Stock market reaction"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Financial Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Koka Manufacturing Ltd.’ is a large scale manufacturer in the electronics industry. In this industry assets are prone to obsolescence and their replacement becomes due faster with change in technology. The company is constantly under pressure to upgrade its machinery and equipment as it would help company to stay competitive, improve its product quality and reduce production costs. So instead of purchasing the machinery, company decides to lease the required machinery, giving it flexibility to upgrade equipment at the end of lease term. This helps company to maintain operational efficiency, technological competitiveness and financial flexibility. Identify and explain four factors that would affect the fixed capital requirements of ‘Koka Manufacturing Ltd.’.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Financial Management",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : The cost of debt is higher than the cost of equity for a firm. Reason (R) : The lender’s risk is lower than the equity shareholder’s risk, since the lender earns an assured return and repayment of capital. Choose the correct alternative from the options given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘The larger the lead time, the larger the quantity of material to be stored, and the larger shall be the amount of working capital required.’ The factor affecting the requirement of working capital discussed in the above statement is :",
+     "options": [
+      "Operating efficiency",
+      "Inflation",
+      "Availability of raw material",
+      "Production cycle"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Financial Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Quality Foods Ltd.’, a company manufacturing packaged snacks has been in business for the last 10 years. It enjoys a good reputation and has a loyal customer base. This financial year, the profits of the company increased manifold as the company introduced a new range of baked snacks that became very popular. As the year came to an end, the company had to decide how much dividend to pay to its shareholders. In view of the above and with the understanding that investors, in general, view an increase in dividend as good news and stock prices react positively to it, the Board of Directors were keen on declaring a high dividend. However, the Chief Finance Officer of the company pointed out that they need to keep many considerations in mind before declaring dividend. He drew the attention of the Board of Directors to the loan that the company has taken, containing a clause that imposes restriction on the payment of dividend. Further, he pointed out that even though the profits were high, a large amount of money was tied to the amounts receivables from the debtors. Without enough cash in hand, announcing a high dividend may not be practical. He also reminded the Board of Directors that ‘Quality Foods Ltd.’ was planning to expand into the breakfast cereal market. Since this new project will require a huge investment, the company will need to retain more money out of their earnings to finance it. (a) Identify and explain any two factors affecting dividend decision that would have influenced the decision of the Board of Directors to pay a high dividend. (b) Identify and explain any two factors to which the Chief Finance Officer drew the attention of the Board of Directors.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Financial Markets",
-   "count": 53,
+   "count": 62,
    "questions": [
     {
      "qno": 14,
@@ -7235,13 +9413,179 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 9,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If an investor wishes to buy or sell any security, he/she has to first approach a registered broker or sub-broker and enter into an agreement with him. An investor has to sign a broker-client agreement and a client registration form before placing an order to buy or sell securities. Thereafter, the investor has to open a ‘Demat’ account or ‘Beneficial owner’ account with a depository participant for holding and transferring securities in the demat form and a bank account for cash transactions in the securities market. The first two steps of ‘Trading and Settlement procedure’ in stock market have been discussed in the above lines. Place the next four steps in the correct order : (i) The broker will then go online and connect to the main stock exchange and match the share and best price available. (ii) After the trade has been executed, within 24 hours the broker issues a contract note. (iii) The investor then places an order with the broker to buy or sell shares. Clear instructions have to be given about the number of shares and the price at which the shares should be bought or sold. (iv) When the shares can be bought or sold at the price mentioned, it will be communicated to the broker’s terminal and the order will be executed electronically. Choose the correct option from the following :",
+     "options": [
+      "(iii), (i), (iv), (ii)",
+      "(i), (ii), (iii), (iv)",
+      "(iv), (ii), (iii), (i)",
+      "(iii), (iv), (i), (ii)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is a regulatory function of Securities and Exchange Board of India ?",
+     "options": [
+      "Registration of brokers and sub-brokers and other players in the market",
+      "Training of intermediaries of the securities market",
+      "Promotion of fair practices and code of conduct in securities market",
+      "Conducting research and publishing information useful to all market participants"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not a protective function of Securities and Exchange Board of India ?",
+     "options": [
+      "Controlling insider trading and imposing penalties for such practices",
+      "Training of intermediaries of securities market",
+      "Prohibition of fraudulent and unfair trade practices like making misleading statements, manipulation, etc.",
+      "Promotion of fair practices and code of conduct in securities market"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘An institution constituted for the purpose of assisting, regulating or controlling the business of buying and selling or dealing in existing securities’ is known as :",
+     "options": [
+      "Securities and Exchange Board of India (SEBI)",
+      "Stock Exchange",
+      "Capital Market",
+      "Money Market"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R) : Assertion (A) : Money market instruments have a higher degree of liquidity as compared to capital market securities. Reason (R) : Money market instruments are traded on the stock exchanges. Choose the correct alternative from the alternatives given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true and Reason (R) is false.",
+      "Assertion (A) is false and Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Financial Markets",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Ria ran a small online bakery business. Her business was doing very well. She saved a good amount of money every month and now wanted to invest it wisely. She was in a dilemma to keep her savings in a bank account or to invest it in the stock market. Her friend Aabha, who had done a certification course from National Stock Exchange, encouraged her to invest in the stock market. She explained to Ria that if she invests in the stock market, she could disinvest and reinvest whenever she wanted, which would provide her good liquidity. Aabha also told her that the membership of stock exchange is well regulated and all trading takes place within the legal framework. As a result, investors get a fair and safe deal. Ria was still apprehensive as she had heard that there is lot of speculation in the stock market. She wanted to be cautious. Aabha clarified that speculation does exist, but it happens in a restricted and controlled way. She also told Ria that the stock exchange is keen to promote wider share ownership and does so by educating public about investments etc. As a result, young people have started investing in the stock market. After all this discussion, Ria felt confident and decided to invest a part of her savings in the stock market. Quoting lines, identify and explain the four functions of stock exchange highlighted in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Differentiate between Capital Market and Money Market on the basis of : (i) Participants (ii) Liquidity (iii) Duration",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain how the following factors affect the requirements of fixed capital of a company : (i) Nature of the business (ii) Technology upgradation (iii) Level of collaboration",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 30,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Neo Appliances Ltd.’, a company known for its innovative kitchen devices was established in 2001. Over the years, the company performed well and the market value of its shares increased. Rajan had bought shares of ‘Neo Appliances Ltd.’ many years ago. He sold some of the shares to arrange money for his daughter’s higher education. He shared with his friend Madhur how his investment had multiplied over the years. Madhur was impressed and wanted to start investing in shares. He asked Rajan in which market he had sold his shares and whether it was safe to invest in that market. Rajan said, yes this market provides safety of transactions to investors. (a) Name the market in which Rajan sold his shares. (b) Identify and explain the function of the above market which facilitated Rajan in selling his shares. (c) Explain how the market identified in (a) above provides safety of transactions to investors.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Marketing Management",
-   "count": 58,
+   "count": 73,
    "questions": [
     {
      "qno": 7,
@@ -8349,13 +10693,276 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘To identify the needs of the customers and to take various decisions related to successful marketing of the products and services, it is important to make an analysis of the available opportunities and threats, as well as strengths and weaknesses of the organisation and decide what opportunities can be best pursued by it’, highlights one of the functions of marketing, that is :",
+     "options": [
+      "gathering and analysing market information",
+      "marketing planning",
+      "product designing and development",
+      "branding"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : A buyer buys a product or service for what it does for him/her or the benefit it provides to him/her. Reason (R) : From the customer’s point of view, a product is a bundle of utilities which is purchased because of its capability to provide satisfaction of a certain need. Choose the correct alternative from the options given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘BNG Ltd.’ is a reputed company that manufactures consumer durables. It has a large scale manufacturing unit where products like electric kettles, toasters, blenders, electric irons, etc. are manufactured. Since the production is at a large scale, the average cost of production is low. As a result, the products are widely available across areas at affordable prices contributing to its strong profit margins. On the other hand, ‘KMV Ltd.’, another reputed consumer durables manufacturer in the same business is also earning good profits. However, ‘KMV Ltd.’ focuses on producing the products which are superior in quality, performance and features. It has a dedicated Research and Development team which continually works to bring improvement in the quality of its products. (a) Identify and explain the marketing management philosophy followed by ‘BNG Ltd.’ and ‘KMV Ltd.’. (b) Differentiate between the two marketing management philosophies identified in (a) above on the basis of the following : (i) Main focus (ii) Ends",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Marketing Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain any four major components of physical distribution.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Marketing Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain any four communication tools used by the marketers to inform and persuade customers about their firm’s products.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 9,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the marketing function displayed in the picture given below : [Picture: a hand holding a food cup, finger pointing to the ‘Nutrition Facts’ panel and ingredient list printed on the label.]",
+     "options": [
+      "Product designing and development",
+      "Branding",
+      "Marketing planning",
+      "Packaging and labelling"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Reliable Appliances’ and ‘Modern Appliances’ are two reputed companies, both manufacturing refrigerators. They have been in this business for many years, have a good reputation and a large customer base. The companies follow different marketing management philosophies and cater to different kinds of customers. ‘Reliable Appliances’ focuses on producing large quantities of affordable basic refrigerators that meet the essential needs of customers. It follows a belief that customers will prefer products that are widely available and affordable. The company focuses on mass production to keep costs low. As a result, it attracts budget conscious consumers. On the other hand, ‘Modern Appliances’ operates in the premium segment of the refrigerator market, attracting affluent buyers. It focuses on manufacturing refrigerators with advanced features such as Wi-Fi connectivity, built-in touch screen interface and advanced cooling systems, etc. It believes that customers will prefer products that offer superior quality with innovative features. For this, the company continuously improves its products’ features and quality to differentiate itself from its competitors. (a) Identify the ‘Marketing Management Philosophies’ of ‘Reliable Appliances’ and ‘Modern Appliances’. (b) Differentiate between the marketing management philosophies identified in (a) above on the basis of the following : (i) Main focus (ii) Means (iii) Ends",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Marketing Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Recognising the growing demand for luxury, convenience and personalised experience due to increased disposable income and busy work schedules, ‘Ramneek Bros’. had launched a high end concierge service company two years ago. The company offers customised exclusive services to ultra wealthy clients such as making restaurant reservations, booking private jets, arranging tickets for shows, etc. Ramneek Bros. charges premium prices for their services reflecting the exclusive and top quality offerings they provide. The company also provides a mobile app allowing their clients to access and request for services from anywhere in the world. To communicate availability and features of their services, Ramneek Bros. advertises in high class magazines and depends upon word of mouth recommendations from existing clients. As a result, the company has successfully established itself as a market leader in their field. Quoting lines from the above case, identify and explain any three elements of marketing mix.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Sudha is a corporate executive and has to attend a felicitation function to be held in her office tomorrow. So she decides to colour her hair. On recommendation of her friend, she purchased ‘NATURO’ hair colour. After reading essential details such as shade, its ingredients, usage instructions and expiry date mentioned on the box, Sudha opened the box. She took out the colour tube and developer bottle from the box and threw away the box. The level of packaging of box thrown away by Sudha was :",
+     "options": [
+      "Primary packaging",
+      "Transportation packaging",
+      "Secondary packaging",
+      "General packaging"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Eco Care’, a start-up, plans to launch a reusable water bottle for environmentally conscious millennials and Gen Z. For this, they conducted a market research to identify the needs of the customers so that an informed decision could be taken for successful marketing of the product. They wanted to work carefully on the design to make the bottle attractive to the target customers. On the basis of consumer views and opinions, they developed a stylish stainless steel bottle with double wall insulation to keep beverages cold for 24 hours, giving it a competitive advantage in the market. They named the bottle ‘Eco-Sip’ creating a brand identity focused on sustainability and simplicity. It would also help in product differentiation. The packaging was made using hundred percent recyclable cardboard, with details of sustainability, features, price etc. printed on it. State the four functions of marketing that are carried out by ‘Eco Care’ in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Marketing Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following elements of Marketing Mix : (i) Product (ii) Price (iii) Promotion",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Marketing Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following components of physical distribution : (i) Order processing (ii) Warehousing (iii) Inventory control",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "[Picture: a large transparent plastic pouch containing many small individual packets of different flavours of chips.] The pouch depicted below contains packets of different flavours of chips. Identify the level of packaging of the pouch : (Note : For Visually Impaired Candidates only, in lieu of this question — ‘It involves a variety of programmes designed to promote or protect a company’s image and its individual products in the eyes of the public.’ The promotion tool being referred to in the above statement is : (A) Advertising (B) Personal Selling (C) Sales Promotion (D) Public Relations.)",
+     "options": [
+      "Primary",
+      "Secondary",
+      "Transportation",
+      "General"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement I : The production concept assumes that the customers will not buy, or not buy enough, unless they are adequately convinced and motivated to do so. Statement II : The selling concept assumes that the consumers will favour those products which are widely available at an affordable price. In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are false.",
+      "Both Statement I and Statement II are true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Rhea runs an online business selling handmade candles. During the Diwali season, the demand for her handmade scented candles increases a lot. A month before Diwali, she received a big order from a chain of gift stores in and around the city. Rhea immediately checked the order details and processed it. She was aware that it was important to provide for accurate and speedy processing of orders, in the absence of which goods would reach the customers late or in the wrong quantity or specifications. After processing the order, Rhea arranged a vehicle to pick up the cartons from her workshop. She knew that the products can reach the customers only when they are physically moved from the place of production to the place of sale. The vehicle delivered the order at the gift chain’s warehouse well before the festive rush. (a) Identify the two components of physical distribution that Rhea managed effectively. (b) Explain the other two components of physical distribution that Rhea needs to work on.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Consumer Protection",
-   "count": 25,
+   "count": 39,
    "questions": [
     {
      "qno": 30,
@@ -8796,6 +11403,288 @@
        "year": 2025,
        "set": "66/5/1",
        "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Under ____________, the consumer has a right to get relief for replacement of the product, removal of defect in the product, compensation paid for any loss or injury suffered by the consumer in case the product/service falls short of his expectations.",
+     "options": [
+      "Right to safety",
+      "Right to seek redressal",
+      "Right to be assured",
+      "Right to be heard"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Raghu, on waking up early in the morning, often complained about back pain. When his pain persisted, he consulted a doctor who advised him to purchase a good quality orthopedic mattress. That would ensure correct spinal alignment and reduce the back pain. Raghu surveyed the market and purchased a good quality orthopedic mattress. As the price of the mattress was very high, he wanted to avoid paying GST. The shopkeeper suggested that he can do so if he does not take a receipt for the purchase of the mattress. Raghu readily agreed for the same. After few months of using the mattress, his back pain recurred. He realised that the mattress had caved in from the centre. He approached the shopkeeper who refused to entertain Raghu. Raghu wanted to approach the court for redressal of his grievance. However, one of his friends told him that he would not be able to do so as he had not fulfilled one of his responsibilities. From the following, identify the responsibility which Raghu failed to fulfill :",
+     "options": [
+      "Respect the environment. Avoid waste, littering and contributing to pollution.",
+      "Ask for a Cash Memo on purchase of goods and services.",
+      "Assert yourself to ensure that you get a fair deal.",
+      "Learn about the risks associated with products and services, follow manufacturers instructions and use the product safely."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "After moving to Dama from his home town in Rasha, Ramu and his family were staying in a rented accomodation for the last 5 years. Ramu and one of his office colleagues decided to buy a flat each in close proximity to their office. After a lot of research, they settled for a housing project which would cost them ₹ 1·25 crore each for a three bedroom flat. The housing project developers promised to deliver their flats within 36 months. An amount of ₹ 20 lakh each was paid to the developers of the housing project at the time of booking the flat. Since the payment schedule was time bound, they paid additional ₹ 80 lakh each over a period of 2 years. The balance of ₹ 25 lakh was to be paid at the time of registration. Despite having taken the major part of the cost of the flats, the housing project developers hadn’t started the construction work. Ramu and his colleague asked the housing project developers to refund the amount paid. On refusal of refund of the amount paid by the housing project developers, Ramu and his colleague decided to approach the consumer court. The redressal agency which Ramu and his colleague should approach for redressal of their grievance is :",
+     "options": [
+      "District Commission",
+      "State Commission",
+      "National Commission",
+      "Local Commission"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/6/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Radhika purchased an attractive new toaster for her house. In the beginning it worked fine and she enjoyed using it every morning. However, one morning as she was using the toaster, it caught fire and her fingers got partially burnt. Identify the ‘Right’ under which she can be protected.",
+     "options": [
+      "Right to be informed",
+      "Right to be assured",
+      "Right to safety",
+      "Right to consumer education"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to ‘importance of consumer protection’ from the business point of view.",
+     "options": [
+      "Enlightened businesses realise that it is in their long-term interest to satisfy their customers.",
+      "It is the moral duty of any business to take care of consumer’s interest and avoid any form of their exploitation.",
+      "Due to widespread ignorance of consumers about their rights and reliefs available to them, it becomes necessary to educate them about the same, so as to achieve consumer awareness.",
+      "A business engaging in any form of exploitative trade practices would invite government intervention which can tarnish the image of the company."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "If any of the parties are not satisfied by the order of the District Commission, they can appeal against such order to the State Commission on the grounds of facts or law within a period of ____________ from the date of order.",
+     "options": [
+      "45 days",
+      "30 days",
+      "60 days",
+      "15 days"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Rajni, the Chief Executive Officer of a multinational company, maintained a simple and elegant look. Now she wanted a change, so she decided to colour her hair in a vibrant colour. After reading the label carefully, she purchased a well-known hair colour of good quality. Before applying the colour, she read the instructions carefully. However, while applying the colour on her hair, she forgot the instructions and without testing it on a patch of her skin, she applied the colour. This led to an allergic reaction with redness and itching on her scalp, ears and neck. Identify the responsibility that was ignored by Rajni as a consumer while using the hair colour.",
+     "options": [
+      "Be aware about various goods and services available in the market so that an intelligent and wise choice can be made.",
+      "Learn about the risks associated with products and services, follow manufacturer’s instructions and use the product safely.",
+      "Assert yourself to ensure that you get a fair deal.",
+      "Ask for a cash-memo on purchase of goods or services."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "66/7/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Ritika wanted to buy a new washing machine. She visited ‘Elec Duniya’, a large electronics store. She saw there many different brands and models on display like KM, Neo, Unipool, INH etc. The salesperson at the store explained the differences in quality, brand reputation and prices of different washing machines. Ritika could now compare fully automatic, semi-automatic, top load and front load washing machines. The salesperson encouraged her to take her time, check different brands and resolve her queries. Ritika also went to another shop nearby to compare prices and features of different washing machines. After comparing all the available options, Ritika chose a ‘Neo’ front load washing machine because it offered the best features within her budget. The consumer right exercised by Ritika in the above case is :",
+     "options": [
+      "Right to be heard",
+      "Right to be assured",
+      "Right to consumer education",
+      "Right to seek redressal"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement – I : Consumers should get together and form themselves into consumer associations for protection and promotion of their interests. Statement – II : The Consumer Protection Act provides for setting up a two-tier enforcement machinery for the redressal of consumer grievances. With reference to given statements, choose the correct alternative from the following :",
+     "options": [
+      "Both the statements are true.",
+      "Both the statements are false.",
+      "Statement I is true, Statement II is false.",
+      "Statement I is false, Statement II is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements – Assertion (A) and Reason (R) : Assertion (A) : Many enlightened business firms have set up their own consumer service and grievance cells. Reason (R) : The consumer has a right to file a complaint and to be heard in case of dissatisfaction with a good or service. Choose the correct alternative from the alternatives given below :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are false.",
+      "Assertion (A) is false and Reason (R) is true.",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Ravi purchased gold jewellery from a reputed jewellery store. He ensured that the jewellery had a hallmark which confirm its purity and authenticity. To avoid paying goods and services tax (GST) he asked the salesperson to write the gold weight and making charges on a slip of paper and hand over it to him. Which of the following responsibilities of a consumer was not fulfilled by Ravi while purchasing jewellery ?",
+     "options": [
+      "Be aware about various goods and services available in the market so that an intelligent and wise choice can be made.",
+      "Ask for a cash memo on purchase of goods and services.",
+      "Buy only standardized goods as they provide quality assurance.",
+      "Assert yourself to ensure that you get a fair deal."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Kabir purchased a luxury car for ₹ 2 crores from a well-known car dealer named ‘Global Motors’. Within a few days, he found serious defects in the car. When he contacted ‘Global Motors’, they refused to repair or replace the car. Kabir then filed a case in the appropriate consumer court. However, he was not satisfied with the orders of this court. Where can Kabir file an appeal now ?",
+     "options": [
+      "District Commission",
+      "State Commission",
+      "National Commission",
+      "Supreme Court"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "State any four responsibilities of a consumer under the Consumer Protection Act, 2019.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Sabka Consumer Forum’, a well-known non-governmental organisation (NGO), has been working for the welfare of the consumers. Its main aim is to educate the general public about consumer rights by organising training programmes, seminars and workshops. Seeing the growing need for awareness, the NGO started publishing periodicals and other publications to impart knowledge about consumer problems, legal reporting, reliefs available and other matters of consumer interest. These publications became very popular and people began approaching the NGO for guidance. One day, a group of residents from a nearby housing society approached ‘Sabka Consumer Forum’. They had purchased water purifiers from a company, which turned out to be defective. Even after repeated complaints, the company had failed to respond. ‘Sabka Consumer Forum’ studied the case and decided to file a complaint on behalf of the consumers in the appropriate consumer court. Apart from the functions mentioned in the above case, state any four other functions which may be performed by ‘Sabka Consumer Forum’ for protecting and promoting consumer interests.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/4/1",
+       "qno": 28
       }
      ],
      "topic": "General"
