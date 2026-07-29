@@ -2,8 +2,10 @@
  "subject": "History",
  "code": "027",
  "klass": "XII",
- "years": [],
- "total_questions": 0,
+ "years": [
+  2023
+ ],
+ "total_questions": 40,
  "chapter_order": [
   "Bricks, Beads and Bones: The Harappan Civilisation",
   "Kings, Farmers and Towns: Early States and Economies",
@@ -21,5 +23,839 @@
   "Understanding Partition: Politics, Memories, Experiences",
   "Framing the Constitution: The Beginning of a New Era"
  ],
- "chapters": []
+ "chapters": [
+  {
+   "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
+   "count": 4,
+   "questions": [
+    {
+     "qno": 1,
+     "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which of the modern Indian states is Rakhigarhi, an ancient site of Harappan culture, located ?",
+     "options": [
+      "Himachal Pradesh",
+      "Uttar Pradesh",
+      "Haryana",
+      "Rajasthan"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following archaeologists is the author of ‘The Story of Indian Archaeology’ ?",
+     "options": [
+      "R.D. Banerjee",
+      "D.R. Sahni",
+      "S.N. Roy",
+      "B.B. Lal"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain how the drainage system of Harappan cities indicate town planning.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain why the seals and sealings were used by the Harappans.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Kings, Farmers and Towns: Early States and Economies",
+   "count": 5,
+   "questions": [
+    {
+     "qno": 5,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following rulers rebuilt the ‘Sudarshan Lake’ ?",
+     "options": [
+      "Siri Satakarni",
+      "Sakasena",
+      "Siri Vijaya Satakarni",
+      "Rudradaman"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following was the first ruler to inscribe messages to his subjects and officials ?",
+     "options": [
+      "Chandragupta",
+      "Samudragupta",
+      "Ashoka",
+      "Bindusara"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source and answer the questions that follow : “Capturing elephants for the army” — The Arthashastra lays down minute details of administrative and military organisation. This is what it says about how to capture elephants: “Guards of elephant forests, assisted by those who rear elephants, those who enchain the legs of elephants, those who guard the boundaries, those who live in forests, as well as by those who nurse elephants, shall, with the help of five or seven female elephants to help in tethering wild ones, trace the whereabouts of herds of elephants by following the course of urine and dung left by elephants.” According to Greek sources, the Mauryan ruler had a standing army of 600,000 foot-soldiers, 30,000 cavalry and 9,000 elephants. Some historians consider these accounts to be exaggerated. (31.1) Who is the author of Arthashastra ? (31.2) How were the elephants traced in the forests ? (31.3) Why were the elephants captured by the Mauryan rulers ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "(34.1) On the given political outline map of India, locate and label the following with appropriate symbols : (i) Mathura – A place of Ashokan inscription. (ii) Rajgir – The capital of early State of Magadha. (iii) (a) Chandragiri – Where Aravidu dynasty ruled. (34.2) On the same map, two centres related to the Revolt of 1857 are marked as A and B. Identify them and write their names on the lines drawn near them. (Note : For Visually Impaired Candidates only, in lieu of this question — (34.1) Name one place where Ashokan inscription is found. (34.2) Which was the capital town of State of Magadha ? (34.3)(a) Name the place where Sangam dynasty ruled. (34.4) Mention any two centres of Revolt of 1857.)",
+     "figures": [
+      "assets/figures/hist_2023_z1_q34_map.png"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "(34.1)(iii)(b) Delhi – Capital of Mughal Empire. (Note : For Visually Impaired Candidates only, in lieu of this question — (34.3)(b) Name the capital of Mughal Empire in Uttar Pradesh.)",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Kinship, Caste and Class: Early Societies",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 4,
+     "chapter": "Kinship, Caste and Class: Early Societies",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the character of Mahabharata with the help of following information : • She belonged to Rakshasa clan. • She was married to Bheema. • She was the mother of Ghatotkacha.",
+     "options": [
+      "Bhilni",
+      "Subhadra",
+      "Draupadi",
+      "Hidimba"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Kinship, Caste and Class: Early Societies",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "How is Mahabharata a dynamic text ? Explain with examples.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+   "count": 4,
+   "questions": [
+    {
+     "qno": 3,
+     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is not a structural feature of Stupa ?",
+     "options": [
+      "Harmika",
+      "Chhatri",
+      "Garbhagriha",
+      "Gateways"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which state of India is the fifth century temple, Devgarh situated ?",
+     "options": [
+      "Bihar",
+      "West Bengal",
+      "Orissa",
+      "Uttar Pradesh"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(a) “The Stupa at Sanchi is among the best preserved monuments of the earliest times.” Explain the statement.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(b) Explain the growth of Puranic Hinduism.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 8,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statement is not true regarding Ibn Battuta ?",
+     "options": [
+      "He was a Moroccan traveller to India.",
+      "His book of travels is known as ‘Badshahnama’.",
+      "He had expertise in the Islamic religious law Sharia.",
+      "He had made a pilgrimage to Mecca."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Two statements as Assertion (A) and Reason (R) are given below. Read them carefully and answer the questions that follow : Assertion (A) : Francois Bernier has called the Mughal king as the ‘king of barbarians’. Reason (R) : Crown ownership of land was its reason.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are correct, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are not correct.",
+      "Assertion (A) is correct, but Reason (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following pairs is correctly matched ?",
+     "options": [
+      "Ibn Battuta – Portuguese",
+      "Francois Bernier – Frenchman",
+      "Duarte Barbosa – Moroccan",
+      "Manucci – Spanish"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+   "count": 5,
+   "questions": [
+    {
+     "qno": 11,
+     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Two statements as Assertion (A) and Reason (R) are given below. Read them carefully and answer the questions that follow : Assertion (A) : Mirabai was the woman poet of Nirguna Bhakti tradition. Reason (R) : She has been recognized as a source of inspiration for centuries.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are correct, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is correct, but Reason (R) is incorrect.",
+      "Assertion (A) is incorrect, but Reason (R) is correct."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following in chronological order and select the correct option from the given options. (i) Guru Gobind Singh (ii) Guru Arjan Dev (iii) Guru Har Kishan Dev (iv) Guru Nanak Dev",
+     "options": [
+      "(i), (iv), (iii), (ii)",
+      "(ii), (iii), (iv), (i)",
+      "(iii), (i), (ii), (iv)",
+      "(iv), (ii), (iii), (i)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain the role of women devotees in the traditions of Alvars and Nayanars.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) How did the Chishtis adopt the local languages of India during the Medieval period ? Explain.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the distinctive features of Al-Biruni’s Kitab-Ul-Hind.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "An Imperial Capital: Vijayanagara",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 13,
+     "chapter": "An Imperial Capital: Vijayanagara",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the dynasty of Vijayanagara with the help of the following information : • Harihara and Bukka belonged to this dynasty. • They built Hiriya canal. • It was the first dynasty of Vijayanagara empire.",
+     "options": [
+      "Sangama",
+      "Saluva",
+      "Tuluva",
+      "Aravidu"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "An Imperial Capital: Vijayanagara",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(a) Explain the reasons of apogee and fall of the Vijayanagara Empire.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "An Imperial Capital: Vijayanagara",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(b) Explain the distinctive features of the Royal Centre of Vijayanagara Empire.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 14,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The land was classified into four categories under the rule of Akbar. Which of these four categories was considered the best ?",
+     "options": [
+      "Polaj",
+      "Parauti",
+      "Chachar",
+      "Banjar"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source and answer the questions that follow : “Cash or Kind ?” — The Ain on land revenue collection : “Let him (the amil-guzar) not make it a practice of taking only in cash but also in kind. The latter is effected in several ways. First, kankut: in the Hindi language kan signifies grain, and kut, estimates … If any doubts arise, the crops should be cut and estimated in three lots, the good, the middling, and the inferior, and the hesitation removed. Often, too, the land taken by appraisement, gives a sufficiently accurate return. Secondly, batai, also called bhaoli, the crops are reaped and stacked and divided by agreement in the presence of the parties. But in this case several intelligent inspectors are required; otherwise, the evil-minded and false are given to deception. Thirdly, khet-batai, when they divide the fields after they are sown. Fourthly, lang batai, after cutting the grain, they form it in heaps and divide it among themselves, and each takes his share home and turns it to profit.” (32.1) Explain the meaning of cash. (32.2) Explain the role of Amil-Guzar. (32.3) Explain the system of lang batai.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Colonialism and the Countryside: Exploring Official Archives",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 15,
+     "chapter": "Colonialism and the Countryside: Exploring Official Archives",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following introduced ‘Permanent Settlement in Bengal’ ?",
+     "options": [
+      "Thomas Munro",
+      "Charles Cornwallis",
+      "William Bentinck",
+      "Henry Hardinge"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Colonialism and the Countryside: Exploring Official Archives",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "How did the American Civil War of 1861 affect the lives of Ryots of India ? Explain.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 20,
+     "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following option is correctly matched ?",
+     "options": [
+      "Jhansi – Bahadur Shah",
+      "Arrah – Kunwar Singh",
+      "Delhi – Wajid Ali Shah",
+      "Awadh – Lakshmi Bai"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Art and literature highlighted the importance of Lakshmi Bai.” Support the statement with suitable examples.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 16,
+     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements are correct ? (i) The English introduced western education in India. (ii) They set up English-medium schools and colleges. (iii) They established laws to abolish sati system. (iv) They did not permit widow remarriage.",
+     "options": [
+      "(i), (ii) and (iii)",
+      "(ii), (iii) and (iv)",
+      "(i), (iii) and (iv)",
+      "(i), (ii) and (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the East India Company’s officer with the help of following information : • Was a physician of Lord Wellesley • He surveyed Bengal • He established zoo in Bengal",
+     "options": [
+      "Colin Mackenzie",
+      "John Marshall",
+      "Marco Polo",
+      "Francis Buchanan"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+   "count": 3,
+   "questions": [
+    {
+     "qno": 17,
+     "chapter": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following was called as ‘Frontier Gandhi’ ?",
+     "options": [
+      "Maulana Azad",
+      "Khan Abdul Ghaffar Khan",
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(a) Examine the reasons and outcomes of the Salt Satyagraha.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(b) Examine the causes and events of Quit India Movement.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Understanding Partition: Politics, Memories, Experiences",
+   "count": 1,
+   "questions": [
+    {
+     "qno": 33,
+     "chapter": "Understanding Partition: Politics, Memories, Experiences",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source and answer the questions that follow : “The British element is gone, but they have left the mischief behind” — Sardar Vallabh Bhai Patel said : “It is no use saying that we ask for separate electorates, because it is good for us. We have heard it long enough. We have heard it for years, and as a result of this agitation we are now a separate nation … Can you show me one free country where there are separate electorates ? If so, I shall be prepared to accept it. But in this unfortunate country if this separate electorate is going to be persisted in, even after the division of the country, woe betide the country; it is not worth living in. Therefore, I say, it is not for my good alone, it is for your own good that I say it, forget the past. One day, we may be united … The British element is gone, but they have left the mischief behind. We do not want to perpetuate that mischief. (Hear, hear). When the British introduced this element they had not expected that they will have to go so soon. They wanted it for their easy administration. That is all right. But they have left the legacy behind. Are we to get out of it or not ?” (33.1) Mention the meaning of separate electorates. (33.2) Why did Sardar Patel insist on unity ? (33.3) Why was separate electorate considered a mischief by the British ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "Framing the Constitution: The Beginning of a New Era",
+   "count": 2,
+   "questions": [
+    {
+     "qno": 18,
+     "chapter": "Framing the Constitution: The Beginning of a New Era",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following demanded justice for women in the Constituent Assembly ?",
+     "options": [
+      "H.J. Khandekar",
+      "T.A. Ramalingam Chettiar",
+      "Hansa Mehta",
+      "Jaipal Singh"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Framing the Constitution: The Beginning of a New Era",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Select the correct pair from the following options :",
+     "options": [
+      "Mahatma Gandhi – President of Constituent Assembly",
+      "Jawaharlal Nehru – Lawyer of Constituent Assembly",
+      "Dr. Rajendra Prasad – Passed Objectives Resolution",
+      "Dr. B. R. Ambedkar – Chairman of Drafting Committee"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  }
+ ]
 }
