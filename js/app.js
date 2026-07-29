@@ -315,10 +315,10 @@
         tags += '<span class="tag diff diff-' + esc(q.difficulty.toLowerCase()) +
           '" title="Difficulty level">' + esc(q.difficulty) + "</span>";
     }
-    // Accountancy/Economics case-study & multi-part questions: put each part
-    // and each embedded option on its own line for readability.
+    // Accountancy/Economics/Business Studies case-study & multi-part questions:
+    // put each part and each embedded option on its own line for readability.
     var fp = (typeof STATE !== "undefined" && STATE.data &&
-      /^(Accountancy|Economics)\b/.test(STATE.data.subject || "")) ? { parts: "full" } : null;
+      /^(Accountancy|Economics|Business Studies)\b/.test(STATE.data.subject || "")) ? { parts: "full" } : null;
     var body =
       "<div class=\"qbody\"><p>" + mathHTML(q.text, fp) + "</p>" +
       tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after, fp) +
