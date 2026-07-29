@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 638,
+ "total_questions": 756,
  "chapter_order": [
   "Nature and Significance of Management",
   "Principles of Management",
@@ -26,7 +26,7 @@
  "chapters": [
   {
    "chapter": "Nature and Significance of Management",
-   "count": 57,
+   "count": 67,
    "questions": [
     {
      "qno": 1,
@@ -1020,6 +1020,136 @@
      "topic": "General"
     },
     {
+     "qno": 1,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify which of the following functions is Not performed by ‘Top Level Management’ :",
+     "options": [
+      "Cooperating with other departments for smooth functioning of the organisation.",
+      "Being responsible for the welfare and survival of the organization.",
+      "Analyzing the business environment and its implications for the survival of the firm.",
+      "Formulating overall organizational goals and strategies for their achievement."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The process by which a manager synchronizes the activities of different departments is known as :",
+     "options": [
+      "Management",
+      "Planning",
+      "Organising",
+      "Co-ordination"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Neha is working as a Manager at ‘NutriBite’, a company that makes protein rich snacks which are high in demand. She is responsible for implementing organisation’s marketing plans, and ensuring that her department has necessary personnel to achieve goals as per company’s policy. Identify the ‘level’ of management at which Neha is working :",
+     "options": [
+      "Top level",
+      "Middle level",
+      "Operational level",
+      "Both Middle level and Operational level"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) State any three features of Co-ordination.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three points of significance of Principles of Management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 12,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘A manager motivates and leads his team in such a manner that individual members are able to achieve personal goals while contributing to the organisational objective.’ The point of importance of management highlighted above is :",
+     "options": [
+      "Management helps in achieving group goals",
+      "Management helps in increasing efficiency",
+      "Management helps in achieving personal objectives",
+      "Management helps in the development of society"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Nature and Significance of Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Global Tech Ltd.’ was a multinational company that manufactured modern electronics devices and employed nearly 10,000 people from across the world. The company had a well-defined organisational structure with separate departments for finance, marketing and production. Every department had its own objectives, policies and style of working. As each department performed its activities in isolation from others, conflicts arose within the organisation. Further, due to complex technology involved in producing modern electronic devices, ‘Global Tech Ltd.’ relied heavily on specialists. The specialists were confident of their professional knowledge and often did not consider suggestions from others in matters pertaining to their area of specialisation. This resulted in conflict among different specialists and others in the organisation. As the company continued to grow, more employees from different backgrounds and work habits joined the organisation. The increasing size of workforce, along with departmental differences and dependence on specialists, made it difficult to ensure that everyone worked towards the same organisational goals. Therefore it became necessary for the management to harmonise individual goals with organisational goals and integrate the efforts of departments and specialists to achieve common objectives. (i) Identify and state the concept which would help ‘Global Tech Ltd.’ in bringing together the efforts of employees and specialists to achieve common goals of the organisation. (ii) Quoting lines from the given case, state any three points of importance of the concept identified in (i) above.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 12,
      "chapter": "Nature and Significance of Management",
      "type": "MCQ",
@@ -1075,13 +1205,65 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : The entry to a profession is not restricted either through an examination or through acquiring an educational degree. Statement II : There is no restriction on anyone being designated or appointed as a manager in any business enterprise irrespective of the educational qualifications possessed. In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four features of coordination.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four points of importance of management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Principles of Management",
-   "count": 43,
+   "count": 51,
    "questions": [
     {
      "qno": 9,
@@ -1772,6 +1954,110 @@
      "topic": "General"
     },
     {
+     "qno": 9,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the incorrect statement with respect to ‘Motion Study’, as a technique of scientific management :",
+     "options": [
+      "Unnecessary movements are sought to be eliminated so that it takes less time to complete the job efficiently.",
+      "It refers to the study of movements like lifting, putting objects, sitting and changing positions etc., which are undertaken while doing a typical job.",
+      "Through this technique, Taylor was able to design suitable equipment and tools to educate workers on their use.",
+      "This technique helps to determine the number of workers to be employed, frame suitable incentive schemes and determine labour costs."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Taylor believed that industrial efficiency depends to a large extent on personnel competencies. He was of the view that the concern for efficiency could be built in right from the process of employee selection. Each person should be scientifically selected. The work assigned should suit her/his capabilities. To increase efficiency, they should be given the required training.’ The principle of scientific management discussed above is :",
+     "options": [
+      "Science, not Rule of Thumb",
+      "Harmony, Not Discord",
+      "Cooperation, Not Individualism",
+      "Development of Each and Every Person to His or Her Greatest Efficiency and Prosperity"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain ‘Science, not Rule of Thumb’ as a principle of Scientific Management and ‘Functional Foremanship’ and ‘Time study’ as techniques of Scientific Management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following principles of General Management : (i) Unity of Command (ii) Esprit De Corps (iii) Stability of Personnel",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following principles of management : (i) Discipline (ii) Unity of direction (iii) Equity",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following points of significance of principles of management : (i) Providing managers with useful insights into reality (ii) Scientific decisions (iii) Meeting changing environment requirements",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 10,
      "chapter": "Principles of Management",
      "type": "MCQ",
@@ -1822,13 +2108,49 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 5,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘The application of principles of management is dependent upon the prevailing situation at a particular point of time.’ This statement highlights which of the following features of principles of management ?",
+     "options": [
+      "General guidelines",
+      "Flexible",
+      "Mainly behavioural",
+      "Contingent"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Principles of Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Hitesh started a garment manufacturing company recently. However, he soon began facing several problems like targets not met, conflicts among managers, high labour turnover, etc. He hired a management consultant to find out what was going wrong. The consultant conducted investigations and gave the following observations : (i) In Production Department, workers were receiving instructions from both, the Production Manager and the Marketing Manager. As a result, there was a lot of confusion regarding tasks to be done. (ii) Promotions were given only to women employees. Other employees did not get equal opportunities in the company to rise. Identify and explain the two principles of management given by Fayol which are not being followed in Hitesh's company.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Business Environment",
-   "count": 37,
+   "count": 46,
    "questions": [
     {
      "qno": 2,
@@ -2505,6 +2827,111 @@
      "topic": "General"
     },
     {
+     "qno": 6,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Since business environment consists of numerous interrelated and dynamic conditions or forces which arise from different sources, it becomes difficult to comprehend at once what exactly constitutes a given environment.’ The feature of business environment highlighted above is :",
+     "options": [
+      "Relativity",
+      "Uncertainty",
+      "Complexity",
+      "Dynamic Nature"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Green-Eats is a start-up offering plant based meal kits. It gained popularity as more young consumers were becoming health conscious and awareness about environmental issues was increasing day-by-day. To promote sustainable eating, they collaborated with schools and colleges and organized workshops for them. Identify the element of business environment highlighted in the above case :",
+     "options": [
+      "Economic Environment",
+      "Social Environment",
+      "Political Environment",
+      "Technological Environment"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Business environment includes both specific and general forces. Statement II : Specific forces have an impact on all business enterprises and thus may affect an individual firm only indirectly. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Gamma Ltd.’, with its state-of-the-art manufacturing set-up in Karnesha, produces smartphones for the Indian market. Rapid technological improvements, changing consumer preferences and the entry of new competitors in the market push the company to revise its plans frequently. This reflects which characteristic of business environment ?",
+     "options": [
+      "Inter-relatedness",
+      "Dynamic nature",
+      "Complexity",
+      "Relativity"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Sumi’, a well-established domestic car manufacturer, anticipates entry of a premium foreign automobile brand in the country. The management of the company foresees a decline in the market share, especially in the premium segment. To retain its market share and stay competitive, the company launches aggressive advertising and takes measures to reduce the cost of production. It further invests in improving product quality, introducing new features and aligning their cars with international standards. The point of importance of business environment described above is :",
+     "options": [
+      "It helps in coping with rapid changes.",
+      "It helps in tapping useful resources.",
+      "It enables a firm to identify opportunities and getting the first mover advantage.",
+      "It helps the firm to identify threats and early warning signals."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 5,
      "chapter": "Business Environment",
      "type": "MCQ",
@@ -2560,13 +2987,86 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The top management of a smartphone manufacturing company recently observed that the government has ordered new safety standards for batteries used in smartphones to prevent overheating. It also noticed that the government announced a reduction in import duties on components used in mobile phones. The dimensions of business environment highlighted in the above case are :",
+     "options": [
+      "Technological and legal environments",
+      "Political and technological environments",
+      "Legal and social environments",
+      "Political and legal environments"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : General forces such as social, political, legal and technological conditions affect an individual firm only indirectly. Reason (R) : General forces have an impact on all business enterprises, in contrast to, specific forces that affect individual firms directly and immediately in their day-to-day working. Choose the correct alternative from the following :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are correct, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are incorrect.",
+      "Assertion (A) is correct, but Reason (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Business Environment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following points of importance of business environment : (i) Helps in tapping useful resources (ii) Helps in coping with rapid changes",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Business Environment",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following techniques of Scientific Management : (i) Method study (ii) Standardisation and simplification of work",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Planning",
-   "count": 47,
+   "count": 54,
    "questions": [
     {
      "qno": 32,
@@ -3319,6 +3819,83 @@
      "figures": []
     },
     {
+     "qno": 29,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following limitations of planning : (i) Planning leads to rigidity (ii) Planning may not work in a dynamic environment",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following points of importance of Decentralisation : (i) Develops initiative among subordinates (ii) Develops managerial talent for the future.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 33,
+     "chapter": "Planning",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Greener Organic is a company producing eco-friendly fertilizers and soil boosters. With the growing interest in organic farming, the company is planning to expand its operations across India. Greener sets its target to increase its sales by 25% in the next year. This gave all departments – sales, production, marketing and logistics – a common target to work. To achieve this, Greener made a comprehensive plan to enter Tier-2 and Tier-3 cities by working with local farmer groups. They also plan to promote their brand through on-line campaigns focused on eco-friendly farming. The company also laid down broad parameters within which the managers could function. All raw materials used had to be certified organic and preferably sourced from local farmers. This would improve quality, support local people and build trust with customers. The company allocated ₹ 50 lakhs for marketing, which included funds for regional newspaper advertisements, digital marketing, promotional events and dealer incentives. By quantifying future facts and figures, the company planned to control costs and evaluate performance. Identify and explain any four type of plans discussed in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following limitations of planning : (i) Planning leads to rigidity (ii) Planning may not work in a dynamic environment (iii) Planning involves huge costs",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following points of importance of planning : (i) Planning facilitates decision-making (ii) Planning establishes standards for controlling (iii) Planning promotes innovative ideas",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 4,
      "chapter": "Planning",
      "type": "MCQ",
@@ -3390,13 +3967,55 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Renew Ltd.’ was the pioneer in the Electric Vehicles segment and presently has 70% market share. Keeping in mind the rapidly increasing demand for Electric Vehicles due to the rising environment consciousness among people and lower operating costs, the company set a target to increase its market share to 80% in the current year. However, the incentives provided by the government to encourage manufacturing of Electric Vehicles attracted many new players in the market. As this change in the business environment happened suddenly, the company was not able to accurately assess future trends. As a result, the market share of ‘Renew Ltd.’ fell from 70% to 55% in the current year. Which limitation of planning has been discussed in the above case ?",
+     "options": [
+      "Planning may not work in a dynamic environment",
+      "Planning leads to rigidity",
+      "Planning does not guarantee success",
+      "Planning involves huge costs"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Planning",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the type of plan given in Column-I with its meaning in Column-II : Column-I — a. Policy; b. Programme; c. Method; d. Strategy. Column-II — (i) Prescribed way or manner in which a task has to be performed considering the objective. (ii) Detailed statement about a project which outline the objectives, policies, procedures, rules, tasks, human and physical resources required and the budget to implement any course of action. (iii) A comprehensive plan for accomplishing an organisation's objectives, taking business environment into consideration. (iv) A general statement that guides thinking or channelises energies towards a particular direction. Choose the correct alternative from the following :",
+     "options": [
+      "a-(ii), b-(iv), c-(i), d-(iii)",
+      "a-(iv), b-(ii), c-(i), d-(iii)",
+      "a-(iv), b-(ii), c-(iii), d-(i)",
+      "a-(iv), b-(i), c-(ii), d-(iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Organising",
-   "count": 50,
+   "count": 59,
    "questions": [
     {
      "qno": 3,
@@ -4223,6 +4842,78 @@
      "topic": "General"
     },
     {
+     "qno": 27,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Fresh Foods Pvt. Ltd. manufactures and distributes organic packaged food products. It’s operations are divided into five main departments – Production, Marketing, Finance, Human Resources and Research and Development. Each department has its own head and a team that focuses only on the work related to their department. This promotes efficiency in utilization of manpower as employees perform similar tasks within a department and are able to improve performance. This also helps in increasing managerial and operational efficiency and results in increased profit. Since each department handles a narrow range of tasks and focus is on a limited range of skills, it is easier to train new employees. (i) Identify the organization structure followed by Fresh Foods Pvt. Ltd. (ii) Also state three advantages of the structure identified in (i) above not discussed in the given case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not an advantage of divisional structure of an organisation ?",
+     "options": [
+      "It helps in development of varied skills in the divisional head which prepares him for higher positions.",
+      "It promotes flexibility and initiative, because each division functions as an autonomous unit, leading to faster decision making.",
+      "It facilitates expansion and growth as new divisions can be added without interrupting the existing operations.",
+      "It leads to minimal duplication of effort which results in economies of scale and lowers cost."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the step of the process of organising given in Column-I with its explanation given in Column-II : Column-I — 1. Departmentalisation; 2. Establishing authority and reporting relationships; 3. Identification and division of work; 4. Assignment of duties. Column-II — (i) Each individual is told who he has to take orders from and to whom he is accountable. (ii) The work is divided into manageable activities so that duplication can be avoided and burden of work can be shared among the employees. (iii) Work of different job positions is defined and work allocated to various employees in accordance with their skills and competencies. (iv) Activities of a similar nature are grouped together, which facilitates specialization. Choose the correct option from the following :",
+     "options": [
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(iv), 2-(i), 3-(ii), 4-(iii)",
+      "1-(iv), 2-(i), 3-(iii), 4-(ii)",
+      "1-(ii), 2-(iii), 3-(i), 4-(iv)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Organising",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Kia Tyres’ is a company manufacturing tyres for cars, two-wheelers, trucks and buses. It has a well-defined organisational structure designed by the management to facilitate smooth functioning of the organisation. It specifies the relationships among various job positions and the nature of their inter-relationship. It is easier to fix responsibility, since mutual relationships are clearly defined. There is no ambiguity in the role that each member has to play, as duties are specified. This also helps in avoiding duplication of work. As a result, ‘Kia Tyres’ is able to effectively accomplish its goals. However, during lunch breaks and after office hours, employees from different departments of ‘Kia Tyres’ meet regularly. This helps to fulfil the social needs of employees and allows them to interact with like-minded people. This enhances their job satisfaction by giving them a sense of belongingness in the organisation. (i) Identify the types of organisation discussed in the above and give their meaning. (ii) State two advantages of each of the types of organisation identified in (i) above, not discussed in the given case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 2,
      "chapter": "Organising",
      "type": "MCQ",
@@ -4315,13 +5006,101 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 10,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Deccan Motors Ltd.’ is a renowned name in the automobile sector in India. It deals in both commercial vehicles like bus, truck and lorries, as well as passenger vehicles like cars, scooters, etc. It presently has a functional organisational structure. The Board of Directors have now decided to shift to divisional structure, with separate divisions for commercial vehicles and passenger vehicles. Identify the benefit the company will get as a result of shifting to divisional structure :",
+     "options": [
+      "It will promote flexibility and initiative because each division will function as an autonomous unit.",
+      "It will lead to minimal duplication of effort, which will result in economies of scale.",
+      "It will make training of employees easier as the focus will be on limited range of skills.",
+      "It will lead to occupational specialisation since emphasis will be placed on specific functions."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Obligation of a subordinate to properly perform the assigned duty is known as ____________.",
+     "options": [
+      "Delegation",
+      "Accountability",
+      "Responsibility",
+      "Authority"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "The students of class 11 of 'AL Public School' decided to host a farewell party to students of class 12. A core team was formed that brainstormed and identified various activities that needed to be performed for the same. It was decided that the arrangements for refreshments, sound and music, tentage, gifts, invitations and cultural programme are required to be made. The students then divided the work into manageable activities so that duplication is avoided and burden of work is shared. The students were excited that they were managing the whole event themselves. (i) The students of class 11 have performed one of the steps in the process of organising. Identify the step. (ii) State the next three steps that the students need to perform to complete the process of organising successfully.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Organising",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following points of importance of delegation : (i) Employee development (ii) Motivation of employees (iii) Effective management",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Organising",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following points of importance of planning : (i) Planning provides directions (ii) Planning reduces overlapping and wasteful activities (iii) Planning establishes standards for controlling",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Staffing",
-   "count": 59,
+   "count": 72,
    "questions": [
     {
      "qno": 22,
@@ -5323,6 +6102,182 @@
      "figures": []
     },
     {
+     "qno": 7,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement-I : Workforce analysis enables an assessment of the number and types of human resources necessary for the performance of various jobs and accomplishment of organizational objectives. Statement-II : Workload analysis reveals the number and type of human resources available. Choose the correct option from the following :",
+     "options": [
+      "Statement-I is true and Statement-II is false.",
+      "Statement-I is false and Statement-II is true.",
+      "Both Statement-I and Statement-II are true.",
+      "Both Statement-I and Statement-II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain ‘Transfers’ and ‘Promotions’ as internal sources of recruitment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain ‘Placement and Orientation’ and ‘Performance Appraisal’ as steps in the process of ‘Staffing’ function of management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Identify and explain the external source of recruitment discussed in each of the following cases : (i) Veer Infrastructure Pvt. Ltd. was handling the construction of a government hospital building in Unedabad. During the monsoon season, the project was delayed and there was a sudden rush of work to meet the deadline. The site supervisor placed a notice at the entrance of the construction site stating “Daily wage labourers needed for 15 days. Report with Identity Proof on Monday at 9:00 A.M. Preference for workers with experience in masonry or carrying materials”. (ii) Vista Bank planned to expand its retail banking operations in Tier-2 and Tier-3 cities. They needed to hire over 200 middle-level managers with experience in sales, customer service and operations. Vista Bank approached ‘Avon Consultants’, one of India’s leading management consultancy firms. ‘Avon Consultants’ advertised positions on job portals under their own name and also accessed its database of experienced professionals across India. After extensive screening, they shortlisted and forwarded qualified candidates to Vista Bank.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four limitations of internal sources of recruitment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four benefits of staffing to the organization.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 5,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements are correct with respect to the benefits the organisation would get by imparting training to its employees ? (i) Training equips the future manager who can take over in case of an emergency. (ii) Training makes an employee more efficient to handle machines and thus, they are less prone to accidents. (iii) Training increases the satisfaction and morale of the employees. (iv) Training enhances employee productivity, both in terms of quantity and quality, leading to higher profits.",
+     "options": [
+      "(i), (ii), (iii) and (iv)",
+      "(ii) and (iii)",
+      "(i) and (iv)",
+      "(i) and (ii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not a limitation of internal sources of recruitment ?",
+     "options": [
+      "It reduces the scope of induction of fresh talent in the organization.",
+      "The employees may become lethargic if they are sure of time-bound promotions.",
+      "It may lead to dissatisfaction and frustration among existing employees as they may feel that their chances of promotion are reduced.",
+      "The spirit of competition among the employees may be hampered."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : Workload analysis and workforce analysis are important to understand the manpower requirements. Reason (R) : It helps the organization to know whether it is overstaffed, understaffed or optimally staffed. Choose the correct alternative from the following :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Staple Foods Ltd.’, a packaged food company is planning to expand its operations. To meet growing manpower needs, it adopts different external sources of recruitment for different levels of employees by balancing cost, time and quality in talent acquisition across organisational levels. For positions requiring high trust and confidentiality, the company prefers applicants introduced by existing senior employees. For specialised technical and professional roles like Marketing Head, Operations Manager, etc., it contacts private agencies and professional bodies. These agencies are able to access a wider talent pool as they compile bio-data of a large number of candidates and recommend suitable names to their clients. For casual vacancies of unskilled or semi-skilled jobs, they post job vacancies on the company’s notice board to attract local candidates. Job seekers assemble outside the premises of the organisation on the specified date and selection is done on the spot. ‘Staple Foods Ltd.’ also maintains a record of unsolicited job applications and contacts suitable candidates from this pool whenever vacancies arise. State the external sources of recruitment used by ‘Staple Foods Ltd.’ for recruitment of people at various organisational levels.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 34,
      "chapter": "Staffing",
      "type": "Long Answer",
@@ -5352,13 +6307,70 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 12,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "A software company wants to expand its business. For this, it requires a large number of fresh graduates with innovative ideas in the field of Artificial Intelligence and Data Analytics. The existing staff members do not possess these specialized skills, so a notice was put up at the reception of the office asking the present employees to introduce any friend or relative who could possibly be possessing the required skills for the jobs. The source of recruitment that has been used by the software company is :",
+     "options": [
+      "Direct Recruitment",
+      "Recommendation of employees",
+      "Transfer",
+      "Promotion"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The step of the staffing process in which an employee's current and/or past performance is evaluated against certain pre-determined standards is :",
+     "options": [
+      "Placement and orientation",
+      "Performance appraisal",
+      "Promotion and career planning",
+      "Recruitment"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Staffing",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "'Yummi Foods', a fast-growing snacks chain has been in business for the last 13 years. Realising that there is a growing demand for nutritious food, the company planned to enter the healthy snacks segment. They decided to hire a Marketing Manager with an experience in this segment. For this, they gave an advertisement in a leading newspaper and received more than 200 applications. The Human Resource Manager carefully went through all the application forms and removed the application forms of those applicants who did not meet the basic qualifications. Short introductory interactions were also held to filter out candidates who did not match the job requirements. The shortlisted candidates were then asked to take a test designed to measure their intelligence, personality traits, etc. Candidates who performed well in the test were invited for a formal in-depth conversation to be evaluated on their suitability for the job. A job offer was made to a candidate for the role of a Marketing Manager through an appointment letter mentioning the joining date. But before the job offer was made, 'Yummi Foods' had performed three steps in the process of selection which are not mentioned above. Identify and explain the steps.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Directing",
-   "count": 63,
+   "count": 75,
    "questions": [
     {
      "qno": 25,
@@ -6384,6 +7396,125 @@
      "figures": []
     },
     {
+     "qno": 2,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The question mark in the picture given below represents a financial incentive. Identify the incentive : [Picture: a central ‘?’ with four arrows pointing to Housing (Company-Provided Housing + Salary boosting take-home pay), Education to Children, Car Allowance and Medical Aid.]",
+     "options": [
+      "Pay and allowances",
+      "Retirement benefits",
+      "Productivity linked wage incentives",
+      "Perquisites"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the non-financial incentives given in Column I with their meaning given in Column II : Column I — a. Employee participation; b. Organisational climate; c. Employee empowerment; d. Status. Column II — i. It indicates the characteristics which describe an organization and distinguish one organization from the other. ii. It means ranking of positions in the organisation. iii. It means giving more autonomy and powers to subordinates. iv. It means involving employees in decision making of the issues related to them. Choose the correct option from the options given below :",
+     "options": [
+      "a-ii, b-iii, c-i, d-iv",
+      "a-i, b-iv, c-ii, d-iii",
+      "a-iv, b-i, c-iii, d-ii",
+      "a-iii, b-ii, c-iv, d-i"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Directing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain any four semantic barriers to communication.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Directing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain any four points of importance of directing function of management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": "34-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 25,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘GW Textiles’ was facing rising competition, inefficiencies on the shop floor and declining revenues. To address these problems, Leena was appointed as the new Factory Manager. In the first few weeks, Leena walked around the factory and watched how work was actually being done. She noticed that some workers were sincere and focused, while others showed little interest and avoided responsibility. To overcome this problem Leena began spending time on the shop floor every week, interacting closely with the workers and was able to make them act in the desired manner to achieve organisational goals. Her approach helped create a positive work environment where employees felt encouraged to perform better, leading to improved efficiency on the shop floor and improved revenues. (i) Identify the element of directing highlighted in the above case. (ii) State any three features of the element identified in (i) above.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four psychological barriers to communication.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four points of importance of staffing function of management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 3,
      "chapter": "Directing",
      "type": "Assertion-Reason",
@@ -6460,13 +7591,107 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements is incorrect with reference to Maslow’s Need Hierarchy Theory of motivation ?",
+     "options": [
+      "People’s behaviour is based on their needs.",
+      "People’s needs are in hierarchical order, starting from basic needs to other higher level needs.",
+      "Only a satisfied need can motivate a person.",
+      "A person moves to the next higher level of the hierarchy only when the lower need is satisfied."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "A leading newspaper company noticed that many of its talented editors were resigning despite being paid competitive salaries. On conducting an internal survey, it was revealed that employees were dissatisfied as they were not being offered benefits over and above the salary, like the employees of other competitive firms. Realising that such additional benefits play an important role in motivating employees, the management decided to provide car allowance, housing facilities, medical benefits, etc. to retain employees in the organisation and improve their satisfaction. Identify the incentive that the newspaper company decided to provide to their employees :",
+     "options": [
+      "Bonus",
+      "Retirement benefits",
+      "Perquisites",
+      "Profit sharing"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : In democratic leadership style, the followers are given a high degree of independence to formulate their own objectives and ways to achieve them. Statement II : In autocratic leadership style, communication is only one-way, with the subordinates only acting according to the command given by their managers. In the light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Directing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain any four points of importance of directing function of management.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Directing",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain any four psychological barriers of communication.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Controlling",
-   "count": 39,
+   "count": 44,
    "questions": [
     {
      "qno": 4,
@@ -7123,6 +8348,79 @@
      "topic": "General"
     },
     {
+     "qno": 13,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "There are two statements, Assertion (A) and Reason (R). Assertion (A) : Controlling should not be misunderstood as the last function of management. Reason (R) : Controlling is a function that brings the management cycle back to the planning function. Choose the correct alternative from those given below :",
+     "options": [
+      "Assertion (A) is false and Reason (R) is true.",
+      "Both Assertion (A) and Reason (R) are false.",
+      "Assertion (A) is true and Reason (R) is false.",
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘RAVL’ is a company manufacturing LED bulbs. To ensure efficiency in production, the workers are given monthly targets. For the month of October 2025, the workers were given a target to produce 8,000 bulbs. At the end of the month, it was found that actual production was only 6,000 bulbs. After investigation, it was found that the target was not met due to shortage of trained workers. To resolve the problem, the Production Manager arranged training programmes for workers and also hired additional workers. Which step of the controlling process was followed by the Production Manager to resolve the problem of shortage of trained workers ?",
+     "options": [
+      "Setting performance standards",
+      "Measurement of actual performance",
+      "Comparing actual performance with standards",
+      "Taking corrective action"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following points of importance of controlling function of management : (i) Accomplish organisational goals (ii) Making efficient use of resources",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following non-financial incentives : (i) Status (ii) Organisational climate",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 17,
      "chapter": "Controlling",
      "type": "MCQ",
@@ -7178,13 +8476,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "'DF Telecom Ltd.', which produces a range of mobile phones for the Indian market, set a target to produce 30,000 units of mobile phones in the month of December 2025. This was the benchmark against which actual performance would be measured. At the end of the month, it was found that only 27,000 units were produced. Concerned with the shortfall, the General Manager asked the Production Manager to find out and resolve the problem. State the steps related to the process of one of the functions of management which the Production Manager has to take to find out and resolve the problem.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Financial Management",
-   "count": 69,
+   "count": 82,
    "questions": [
     {
      "qno": 13,
@@ -7275,6 +8588,11 @@
        "year": 2023,
        "set": "66/2/1",
        "qno": 24
+      },
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 22
       }
      ],
      "topic": "General"
@@ -7290,6 +8608,11 @@
        "year": 2023,
        "set": "66/2/1",
        "qno": "24-OR"
+      },
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": "22-OR"
       }
      ],
      "topic": "General",
@@ -8378,6 +9701,183 @@
      "topic": "General"
     },
     {
+     "qno": 5,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The process of estimating the fund requirements of a business and specifying the sources of funds is called ____________.",
+     "options": [
+      "Trading on Equity",
+      "Capital Budgeting decision",
+      "Financial Management",
+      "Financial Planning"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "There are two statements, Assertion (A) and Reason (R). Assertion (A) : The dividend in growth companies is more than that in the non-growth companies. Reason (R) : Companies having good growth opportunities retain more money out of their earnings so as to finance the required investment. Choose the correct alternative from those given below :",
+     "options": [
+      "Assertion (A) is false and Reason (R) is true.",
+      "Both Assertion (A) and Reason (R) are false.",
+      "Assertion (A) is true and Reason (R) is false.",
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Alka Motors is one of the leading automobile companies in India. Due to growing demand for electric vehicles, Alka Motors planned to expand its business and for this, it wanted to raise funds. The finance manager suggested that it should raise funds through equity as the market was bullish. As per the suggestion of finance manager, the company decided to raise ₹ 3,500 crore from equity for its expansion plan for electric vehicles. The factor that the finance manager took into consideration to raise funds through equity was :",
+     "options": [
+      "Cash flow position",
+      "Flexibility",
+      "Cost of debt",
+      "Stock-market conditions"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Financial Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Freshju’ is a trading company, selling bottled juices made by other manufacturers. Now, it planned to sell its juices across India. For this, ‘Freshju’ decided to enter into ‘Juice manufacturing’. It also has ambitious plans to export its juices to other countries in the future. To meet anticipated higher demand in future, the company set-up a larger manufacturing unit. The Chief Executive Officer, Ravinder, ordered automatic juice-filling and bottling machines to increase speed, improve hygiene and for consistency in production. Since the investment was huge, instead of buying all new machinery ‘Freshju’ took some expensive machines on lease. They also collaborated with a nearby packaging unit to use their packing machines during peak-season. This helped ‘Freshju’ to manage seasonal surges in demand without investing in additional equipment that would remain underutilized during off season. Quoting lines from the above, identify and explain any four factors that will affect the fixed capital requirements of ‘Freshju’.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Radhe Textiles’, a children’s garment manufacturing business, and Ghanshyam Garments, a home furnishing manufacturing business operate in the same industrial area. Both companies jointly set up a common dyeing and finishing plant. This was because the scale of operations of each of them was not sufficient to make full use of the plant. With both of them jointly using the plant, the requirement of fixed capital for each company will now be :",
+     "options": [
+      "Higher than earlier",
+      "Lower than earlier",
+      "Same as earlier",
+      "Nil"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The number of times earnings before interest and taxes of a company cover the interest obligation is referred to as :",
+     "options": [
+      "Capital structure",
+      "Financial leverage",
+      "Interest Coverage Ratio",
+      "Debt-Service Coverage Ratio"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements carefully : Statement I : Higher fixed operating costs result in higher business risk. Statement II : If the firm’s business risk is lower, the firm’s capacity to use debt is higher. In light of the given statements, choose the correct alternative from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Bright Appliances Ltd.’ plans to launch a new product line of energy-efficient air purifiers. To ensure a smooth launch of the air purifiers, the company needs to arrange adequate funds. For this, the Finance Manager estimates the fund requirements and specifies the source of funds the company should use. The process followed by the Finance Manager is called :",
+     "options": [
+      "Financial planning",
+      "Financial management",
+      "Financial leverage",
+      "Investment decision"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Suruchi Textiles Ltd.’ is a reputed textile manufacturing company with stable earnings. It has been paying regular dividends for the last seven years, which has helped it to build a loyal investor base. It has a large number of its shareholders who depend on regular income from their investment and therefore expect at least a minimum dividend every year. To meet these expectations and maintain shareholders confidence, the company has followed a high dividend policy. During the current year, the company planned further expansion, which required additional funds. However, since a major portion of its earnings had been distributed as dividends in earlier years, the company had retained limited funds. But, since ‘Suruchi Textiles Ltd.’ had a strong reputation in the capital market, it was able to raise the required capital from the capital market to finance its expansion plans. Identify and explain four factors affecting the dividend decision discussed in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 8,
      "chapter": "Financial Management",
      "type": "Assertion-Reason",
@@ -8433,13 +9933,91 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Tangy Beverages Ltd.’ was known for its popular tangy fruit drinks. It had recently introduced a new range of fruit drinks that became an instant hit among consumers and led to a significant increase in the company’s profits. As a result, the Board of Directors wanted to declare a higher dividend for the year. The Chief Finance Officer suggested that they should evaluate the impact of dividend on the share price of previous years before taking a decision. An analysis was done, which showed how the company’s share price had risen in previous years whenever the dividend was increased. On the other hand, even a small decrease in dividend had led to a noticeable dip in the share price. Which of the following factors affecting dividend decision was suggested by the Chief Finance Officer to the Board of Directors in the above case ?",
+     "options": [
+      "Access to capital market",
+      "Stock market reaction",
+      "Shareholders preference",
+      "Cash flow position"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not a factor affecting capital structure of a company ?",
+     "options": [
+      "Cash flow position",
+      "Return on investment",
+      "Financing alternatives",
+      "Stock market conditions"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following will require higher working capital ?",
+     "options": [
+      "Trading organisations",
+      "Short processing cycles",
+      "High level of competition",
+      "Strict credit policy towards debtors"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "'Ratan Ltd.' and 'Lara Ltd.' are two companies with each having a capital employed of ₹ 20,00,000. 'Ratan Ltd.' had raised funds by issuing shares whereas 'Lara Ltd.'s' capital has 60% equity (in shares of ₹ 100 each) and 40% debt (comprising of 8% debentures). Both the companies have a Return on Investment of 10% and the tax rate is 40%. State with reason which company will be able to give a better return to the shareholders. Show your calculations clearly.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Financial Markets",
-   "count": 62,
+   "count": 76,
    "questions": [
     {
      "qno": 14,
@@ -9535,6 +11113,199 @@
      "topic": "General"
     },
     {
+     "qno": 10,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In the ‘Primary Market’ prices of securities are determined by :",
+     "options": [
+      "Management of the company",
+      "Demand and supply of the security",
+      "Employees of the company",
+      "Only demand for the security"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement – I : Capital market instruments are safer than money market instruments both with respect to returns and principal repayment. Statement – II : The capital market deals in medium and long-term securities such as equity shares and debentures etc. Choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement I is false and Statement II is true.",
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Stock Exchange is playing a vital role in ensuring wider share ownership by regulating new issues, better trading practices and taking effective steps in educating the public about investments.’ The above lines highlight which function of stock exchange from the following ?",
+     "options": [
+      "Providing Scope for Speculation",
+      "Spreading of Equity Cult",
+      "Safety of Transactions",
+      "Contributes to Economic Growth"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Riya, a software engineer wanted to invest a part of her savings in the stock-market. Encouraged by some online discussions, she came across a company ‘Smart-Tech Ltd.’, whose stock price was rising very fast. News began to circulate that company had got a large government contract and she believed that its share price would double soon. Convinced by the positive claims, Riya also invested in the shares of this company. Over the next week, the shares continued to rise but suddenly, the price started crashing. Within days, her investment had lost more than 60% of its value. Riya started researching and discovered that the news about the government contract was false. Securities and Exchange Board of India (SEBI) also took immediate notice of the situation and called for detailed trading information and conducted enquiries and inspections. After examining trading information and conducting enquiries, SEBI found that a group of traders had spread false information to artificially boost the stock price. By taking action against the group of traders, SEBI made it clear that fraudulent and unfair trade practices are strictly prohibited. (i) Quote lines from the above to identify the two functions being performed by SEBI. (ii) Also state one more function of each category of the functions identified in (i) above.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "____________ serves as an intermediary between the investor and the depository who is authorised to maintain the accounts of dematerialised shares.",
+     "options": [
+      "Depository Participant",
+      "National Securities Depository Limited",
+      "Central Depository Services Limited",
+      "Stock Exchange"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : Holding shares in demat form is very convenient as it is just like a bank account. Reason (R) : Securities and Exchange Board of India (SEBI) has made it mandatory for the settlement procedures to take place in demat form. Choose the correct alternative from the following :",
+     "options": [
+      "Assertion (A) is false and Reason (R) is true.",
+      "Both Assertion (A) and Reason (R) are false.",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The market where existing securities are traded is known as :",
+     "options": [
+      "Both Primary and Secondary Market",
+      "Primary Market",
+      "Secondary Market",
+      "Money Market"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Shikha, a first-time investor, was excited yet nervous about investing in the stock market as she felt it was risky. She sought guidance from her friend, Rama, who was an experienced investor. Rama assured Shikha that it is safe to invest in the stock market as the membership of stock exchange is regulated by Securities and Exchange Board of India (SEBI). She also told Shikha that SEBI performs various functions to protect the rights and interests of investors. Which of the following functions mentioned by Rama is not a protective function of SEBI ?",
+     "options": [
+      "Prohibition of fraudulent and unfair trade practices like making misleading statements, manipulations, price rigging, etc.",
+      "Conducting research and publishing information useful to all market participants.",
+      "Controlling insider trading and imposing penalties for such practices.",
+      "Promotion of fair practices and code of conduct in the securities market."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Distinguish between Capital Market and Money Market on the following basis : (i) Investment outlay (ii) Duration (iii) Safety",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Give any three differences between Primary Market and Secondary Market.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 24,
      "chapter": "Financial Markets",
      "type": "Short Answer",
@@ -9579,13 +11350,86 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The purpose of opening a Demat Account with a Depository Participant (DP) is :",
+     "options": [
+      "For holding and transferring securities in the Demat form",
+      "For entering into an agreement with broker",
+      "For making payment to stock exchange for any purchase of securities",
+      "For enabling cash transactions in the securities market"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Assertion (A) : The investing public gets a safe and fair deal on the stock market. Reason (R) : The membership of stock exchange is well regulated and its dealings are well defined according to the existing legal framework. Choose the correct alternative from the following :",
+     "options": [
+      "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are correct, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are incorrect.",
+      "Assertion (A) is correct, but Reason (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Differentiate between 'Capital Market' and 'Money Market' on the basis of the following : (i) Investment outlay (ii) Liquidity (iii) Safety",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three development functions of Securities and Exchange Board of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Marketing Management",
-   "count": 73,
+   "count": 86,
    "questions": [
     {
      "qno": 7,
@@ -10901,6 +12745,160 @@
      "figures": []
     },
     {
+     "qno": 8,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "NV Electronics has an innovative range of smartphones, T.V’s, home entertainment systems, kitchen appliances and air conditioners. Besides supplying quality products, their focus is also on handling customer complaints speedily, providing maintenance services, procuring credit services etc. The function of marketing discussed above is :",
+     "options": [
+      "Branding",
+      "Marketing Planning",
+      "Product designing and development",
+      "Customer support services"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Lima’ is a global sportswear brand known for shoes, apparel and sports accessories. Customers can recognize Lima’s shoes, t-shirts and bags just by seeing the tiger symbol imprinted on all Lima’s products. Lima has legally registered both its name ‘Lima’ and its tiger symbol so that no other company can legally use the same or similar design in their sportswear. The tiger symbol is Lima’s :",
+     "options": [
+      "Brand name",
+      "Brand mark",
+      "Trade mark",
+      "Both Brand mark and Trade mark"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Aditya owned a skincare company named ‘Nat-Ayur’. In July, 2025, he decided to launch a new herbal face cream in the market using traditional herbs like turmeric, sandalwood, neem, aloe vera, saffron etc. The total cost of producing, packaging, distributing and selling the cream came to ₹ 60 per tube. ‘Nat-Ayur’ decided that this would be the minimum price to cover the cost. They wanted to earn a fair margin of profit too. For this ‘Nat-Ayur’ conducted a survey and found that the expected demand would be high. Customers were ready to pay more for herbal and chemical free products. They also found that many face creams with similar features are available in the market priced between ₹ 80 to ₹ 120. To compete effectively, ‘Nat-Ayur’ decided to price the cream at ₹ 99 to attract the customers while offering better benefits. To add value to the product ‘Nat-Ayur’ invested in eco-friendly packaging, free home delivery and on-line advertisements. This uniqueness gives ‘Nat-Ayur’ a competitive freedom in fixing price of its cream. Identify and explain any two factors that were taken into consideration by ‘Nat-Ayur’ for determining the price of their herbal face cream.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Priya Motors’, a motorbike manufacturing company, launched a new model of bike in the market named ‘Moto Glide III’. The company planned carefully to make this bike appeal to young riders. The design team focused on making the bike attractive and stylish to the target customers, primarily the youth. They gave it a sleek body, sharp headlights and a digital speedometer. The design made the bike not just look good but also improved its aerodynamics and fuel efficiency. This helped the company stand out from other brands, thereby getting a competitive edge. The company followed strict quality standards in making each part of the bike which helped in achieving uniformity and consistency in output. ‘Priya Motors’ also offered different versions of bike with different prices based on features like Bluetooth connectivity, colour options etc. Identify and explain two functions of marketing discussed above.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On Raksha Bandhan, Reena received a gift from her brother. After removing the gift wrap paper, she saw a decorative cardboard box. Inside the box, she found a small glass bottle containing an expensive face cream. Both the decorative cardboard box and the glass bottle had a beautiful label displaying the brand name, ingredients, expiry date, etc. Which level of packaging does the glass bottle represent ?",
+     "options": [
+      "Primary packaging",
+      "Transportation packaging",
+      "Secondary packaging",
+      "General packaging"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘KUL’, an eco-friendly stationery brand is expanding its business in three different markets. For this, it uses different promotional strategies in each market. In the corporate gifting market, the company appoints salespersons to contact prospective corporate clients and create awareness about its eco-friendly stationery with the aim of making a sale. In the international market, the company focuses on managing public opinion and building a positive image for its product. It disseminates information and builds goodwill about the business. In the domestic retail market, the company offers cash discounts, free gifts, etc. to encourage the buyers to make immediate purchase of its product. Identify and state three different promotion tools used by ‘KUL’ to expand its business in each of the markets.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the following functions of Marketing : (i) Marketing planning (ii) Customer support services",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the following factors which affect the fixation of price of a product : (i) Extent of competition in the market (ii) Marketing methods used",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 26,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Rahul, Priya, Amit and Sneha were friends. They decided to start a business jointly. With rising focus on hydration, fitness and a healthy lifestyle, they saw a steady market for water bottles. Customers often own multiple bottles for different uses. Bottles wear out or go out of style over time, creating repeat sales opportunities. Excited by this idea, they all sat together to brainstorm and decide what kind of water bottle they should make. Rahul believed that to maximise profits, production should be done on a large scale making goods available and affordable to consumers. Amit, on the other hand, was of the opinion that the bottles should be of a very good quality with features like time markers, filters or infusers, etc. Priya agreed with Amit, but felt that they should first identify the needs of the present and prospective buyers, so that they can satisfy them in an effective way. She suggested offering personalised designs, sports bottles, insulated bottles, etc., depending on the customers’ needs. Sneha believed that the business orientation should not be short-sighted to serve only the consumers’ needs. It should also consider larger issues of long-term social welfare. So, she suggested reusable water bottles made from eco-friendly sustainable materials. Identify and state the marketing management philosophies discussed by Rahul, Priya, Amit and Sneha.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 6,
      "chapter": "Marketing Management",
      "type": "MCQ",
@@ -10956,13 +12954,85 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "One of the factors affecting price determination of a product is ‘Pricing Objectives’. Which of the following pricing objectives will result in a higher price being fixed for the product ?",
+     "options": [
+      "Obtaining market share leadership",
+      "Surviving in a competitive market",
+      "Attaining product quality leadership",
+      "Profit maximisation in the long run"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the shift in the marketing management philosophy from Picture I to Picture II. [Picture I: rows of old televisions in warehouse storage, captioned 'Mass Production of Televisions'. Picture II: a person at a drafting board designing a television screen layout, captioned 'Use of Television as a Computer Monitor'.]",
+     "options": [
+      "From Production concept to Product concept",
+      "From Production concept to Societal marketing concept",
+      "From Societal marketing concept to Production concept",
+      "From Product concept to Production concept"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "'Premier Ltd.' is a clothing company known for its high quality apparel and strong commitment to environment sustainability. The company designs its clothing after carefully understanding the needs of its present and prospective buyers and satisfying them in an effective manner. It assumes that profit can be maximised only when all decisions are taken from the point of view of customer satisfaction. Along with meeting customer needs, 'Premier Ltd.' also shows a deep concern for the long-term well-being of the society. To reduce environmental pollution, the company is using organic cotton and recycled polyester. For reducing waste, they run a programme where customers can return old clothes for recycling and get a discount on new clothes. Not only this, they keep aside a portion of its profits for environmental education programmes in local schools. Identify and explain two marketing management philosophies followed by 'Premier Ltd.'.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Marketing Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "'Novel Stores' is a chain of grocery stores that has built its reputation on customer satisfaction. It is known for its high-quality products, including a wide variety of bakery, dairy products and ready-to-cook meal kits, etc. catering to diverse customer needs. The store regularly takes feedback from the customers and stocks items accordingly. The store is popular among the customers for its attractive schemes such as 'buy one get one free' offers and weekly discounts, etc. which are advertised on its website. Once the goods are manufactured, packaged, branded and promoted, 'Novel Stores' ensures that they are made available to customers at the right place, in the right quantity and at the right time. Customers can place orders online and choose to get them delivered at their home or pick them up from the store at a selected time. As a result, the revenues of 'Novel Stores' are growing every year and profits are increasing. Identify and explain the elements of marketing mix highlighted in the above case.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Consumer Protection",
-   "count": 39,
+   "count": 44,
    "questions": [
     {
      "qno": 30,
@@ -11639,6 +13709,78 @@
      "topic": "General"
     },
     {
+     "qno": 11,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Ramesh wanted to buy a room heater as it had become extremely cold. He went to the nearby market in search of a good room heater. He first visited a few big shops selling branded heaters and checked the design, quality and the price. Walking through the market he saw a road side shop displaying an attractive room heater. He walked into the shop to enquire about the room heater. The shopkeeper demonstrated how the heater worked and simultaneously explained its qualities like its rotating function, auto-cut etc. Ramesh asked about its price and decided to buy it, as in comparison to other room heaters, it was cheaper and had various additional features. However while focusing on the price and features, he did not check the ISI mark or the label which displayed the date of manufacturing, safety features, directions for use etc. The right exercised by Ramesh in the above case is :",
+     "options": [
+      "Right to choose/be assured",
+      "Right to be heard",
+      "Right to consumer education",
+      "Right to safety"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Meera purchased a mixer-grinder of a reputed brand from a well-known electronic store for ₹ 5,000. Within ten days, the mixer-grinder stopped working. Meera visited the shop for repair or replacement showing the cash memo and the warranty card but the shopkeeper refused to help her. Though the product was only for ₹ 5,000, she filed a complaint at the District Consumer Disputes Redressal Forum. The Forum ordered the store to replace the product within 30 days. They also added ₹ 1,000 as compensation for mental harassment and ₹ 800 for legal costs. State two responsibilities fulfilled by Meera and two reliefs which Meera got through Consumer Redressal Forum.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/2/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "From the picture given below, identify the responsibility that the consumer is fulfilling while purchasing ‘Ready-to-Eat Pasta’ : [Picture: hands holding a food can, pointing to the ‘Nutrition Facts’ panel printed on the label.]",
+     "options": [
+      "Be aware about various goods and services available in the market so that an intelligent and wise choice can be made.",
+      "Assert yourself to ensure that you get a fair deal.",
+      "Read labels carefully so as to have information about prices, net weight, manufacturing and expiry dates, etc.",
+      "Ask for a cash memo on purchase of goods or services."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Aditi purchased a high speed blender from an online retailer for ₹ 2,000. When she used it to prepare soup, it made a loud noise. It also failed to blend properly and emitted an unusual smell. She first contacted the online retailer through their toll-free helpline. They told her that they were responsible only for selling the blender and were not responsible for defects. Aditi then collected all relevant proofs such as the invoice and records of her communication etc. Then she contacted the customer service team of the manufacturer. The technical team inspected the blender and confirmed that the motor was defective. Despite this, the manufacturer neither replaced the blender, nor refunded her money. They stopped responding to Aditi’s calls. Aditi was frustrated and filed a complaint against the manufacturer in the appropriate consumer court. State any three reliefs available to Aditi if the consumer court is satisfied about the defect in the high speed blender.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/3/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 1,
      "chapter": "Consumer Protection",
      "type": "MCQ",
@@ -11684,6 +13826,21 @@
       {
        "year": 2026,
        "set": "66/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Rishabh purchased a car for ₹ 8,00,000. He insured the car on the same day from Alex Insurance Company. Rishabh's car was stolen in Kedwan while he was on vacation with his family. He promptly filed a First Information Report (FIR), informed the insurer and submitted all the required documents. To Rishabh's shock, the insurance company rejected his claim, alleging he had failed to take due care and had parked the car in an unsafe manner. Determined to challenge this, Rishabh wrote multiple letters to the insurance company, but the insurance company refused to pay the compensation. Rishabh filed a case with District Commission. The District Commission was satisfied with the genuineness of the complaint and ordered the insurance company to pay a reasonable amount. Identify and explain two consumer rights which have been exercised by Rishabh.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "66/5/1",
        "qno": 28
       }
      ],
