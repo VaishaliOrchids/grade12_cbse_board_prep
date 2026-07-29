@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 796,
+ "total_questions": 834,
  "chapter_order": [
   "Nature and Significance of Management",
   "Principles of Management",
@@ -26,7 +26,7 @@
  "chapters": [
   {
    "chapter": "Nature and Significance of Management",
-   "count": 71,
+   "count": 75,
    "questions": [
     {
      "qno": 1,
@@ -641,6 +641,84 @@
       {
        "year": 2024,
        "set": "66/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "________ means doing the task correctly and with minimum cost.",
+     "options": [
+      "Efficiency",
+      "Effectiveness",
+      "Management",
+      "Coordination"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is the function of Top level management ?",
+     "options": [
+      "They ensure that their department has the necessary personnel.",
+      "They interact with the actual work force and pass on instructions of the middle management to the workers.",
+      "They co-operate with other departments for smooth functioning of the organisation.",
+      "They analyse the business environment and its implications for the survival of the firm."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The activities involved in managing the enterprise are common to all organisations whether economic, political or social. Identify the feature of management :",
+     "options": [
+      "Management is multidimensional.",
+      "Management is all pervasive.",
+      "Management is a continuous process.",
+      "Management is a dynamic function."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Cortico Fabrics’ was started by Ashish in 2001 to sell bed sheets, towels, comforters, pillows, cushions, bath mats etc. It is now a famous name and its branches are across India. To manage the work all over India, it has eight teams-two each for North, South, East and West India. Ashish spends a considerable amount of time to develop an orderly pattern of group efforts among different teams and to secure unity of action in pursuit of a common purpose. To ensure suitable allocation of tasks to the various members of the teams and to see that the tasks are performed with harmony among the members, he tries to balance the different teams at different locations. (a) Identify and explain the concept of management discussed in the above para. (b) Also, explain any one point of importance of the concept identified in (a) above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
        "qno": 21
       }
      ],
@@ -1341,7 +1419,7 @@
   },
   {
    "chapter": "Principles of Management",
-   "count": 52,
+   "count": 55,
    "questions": [
     {
      "qno": 9,
@@ -1656,6 +1734,58 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Principles of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Vanguard Inc.’, a company manufacturing footwear for men, women and children has been earning consistent profits for the last many years. It has a democratic style of working. Workers are encouraged to develop and carry out plans for improvement in the organisation. Varun who is working in the production department gave a suggestion which resulted in 10% reduction in the cost of production of shoes. He was rewarded for his suggestion. Identify the principle of management followed by ‘Vanguard Inc.’ in the above case :",
+     "options": [
+      "Esprit De Corps",
+      "Subordination of Individual Interest to General Interest",
+      "Initiative",
+      "Equity"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following characteristics of Principles of Management : (i) General guidelines (ii) Flexible (iii) Cause and effect relationship",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Principles of Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following techniques of Scientific Management : (i) Method Study (ii) Differential Piece Wage System (iii) Fatigue Study",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 20,
@@ -2243,7 +2373,7 @@
   },
   {
    "chapter": "Business Environment",
-   "count": 50,
+   "count": 53,
    "questions": [
     {
      "qno": 2,
@@ -2758,6 +2888,69 @@
      "chapter": "Business Environment",
      "type": "MCQ",
      "marks": 1,
+     "text": "‘Since business environment consists of numerous interrelated and dynamic conditions or forces which arise from different sources, it becomes difficult to comprehend at once what exactly constitutes a given environment’. Thus it is relatively easier to understand the environment in parts but difficult to grasp in its totality. Identify the feature of business environment highlighted above :",
+     "options": [
+      "Uncertainty",
+      "Complexity",
+      "Relativity",
+      "Dynamic nature"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "As per Plastic Waste Management Rule 2022, single use plastic items were prohibited in Delhi from 1st July, 2022. The dimension of business environment referred to here is ________.",
+     "options": [
+      "Economic environment",
+      "Legal environment",
+      "Technological environment",
+      "Political environment"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is not an element of social environment ?",
+     "options": [
+      "Composition of family",
+      "Consumption habits",
+      "Rates of saving and investment",
+      "Educational system and literacy rates"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
      "text": "Salim and Karim are good friends. They started a business of selling high quality seeds for growing organic vegetables. They are offering 200 varieties of vegetable seeds suitable for terrace gardens, balconies and backyards. Due to the growing trend towards healthy consumption habits, there is a huge demand for their seeds. The dimension of business environment being discussed above is :",
      "options": [
       "Economic Environment",
@@ -3243,7 +3436,7 @@
   },
   {
    "chapter": "Planning",
-   "count": 56,
+   "count": 58,
    "questions": [
     {
      "qno": 32,
@@ -3595,6 +3788,37 @@
        "year": 2024,
        "set": "66/4/1",
        "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four limitations of planning.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Planning",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following types of plans : (i) Strategy (ii) Procedure",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": "27-OR"
       }
      ],
      "topic": "General",
@@ -4223,7 +4447,7 @@
   },
   {
    "chapter": "Organising",
-   "count": 62,
+   "count": 64,
    "questions": [
     {
      "qno": 3,
@@ -4704,6 +4928,36 @@
        "year": 2024,
        "set": "66/4/1",
        "qno": 34
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Organising",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Inspired by the success of Chandrayaan-3, the Chief Scientist at ‘Space Rover’ a private research group, decided to send some innovative ideas regarding the mission to the Chief Scientist of Chandrayaan-3. The Chief Scientist at ‘Space Rover’ formed four groups for the same. As it was an intellectual activity of thinking rather than doing, these four groups started interacting with each other and friendships developed. On the basis of their interaction and friendship, some members from each group formed ‘Entertainment Through Reading’ group which showed conformity in terms of their interest. ‘Entertainment Through Reading’ group had no written rules, was unstable in form and scope and had no fixed lines of communication. The members of this group enhanced the morale of each other, enjoyed drinking coffee together, read books, served different issues of their work areas and provided support to each other. Ultimately this group developed some innovative ideas which were sent by ‘Space Rover’ to the Chief Scientist of Chandrayaan-3. Though this group was formed for recreation but it contributed towards fulfillment of organisational objectives. (a) Identify and explain the type of organization which emerged as ‘Entertainment Through Reading’. (b) State any three advantages of the type of organisation identified in (a) above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Organising",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "The G20 Summit was organised in India. The government left no stone unturned to make G20 summit a success. At the higher level, the work to be performed was identified and grouped to enable people to work most effectively together for accomplishing objectives. This involved building infrastructure, beautification of the city, hospitality, security arrangements etc. Duties were assigned to different job positions which led to establishment of clear relationships. This helped in creating a hierarchical structure and in co-ordination amongst all working for the summit. (a) Identify and explain the function of management discussed in the above para. (b) Explain any four points of importance of the function identified in (a) above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 33
       }
      ],
      "topic": "General"
@@ -5365,7 +5619,7 @@
   },
   {
    "chapter": "Staffing",
-   "count": 75,
+   "count": 78,
    "questions": [
     {
      "qno": 22,
@@ -5965,6 +6219,57 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 13,
+     "chapter": "Staffing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Many reputed business organisations keep a database of unsolicited applicants in their offices. Such job seekers can be a valuable source of manpower. A list of such job seekers can be prepared and can be screened to fill the vacancies as they arise. The source of recruitment discussed above is :",
+     "options": [
+      "Direct recruitment",
+      "Casual callers",
+      "Labour contractors",
+      "Campus recruitment"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "State any three points of importance of staffing function of management.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "‘Caro’, a car manufacturing company was manufacturing high cost, good quality luxury cars. For the last few years, the company was not earning good profits as the demand for the cars was very low. Chief Executive Officer of the company, Piyush had a meeting with the Production and Sales Managers to discuss how to increase the revenue of the company. They found that nowadays instead of purchasing luxury cars people prefer to have such cars on rental basis. So they decided to start ‘Car rental service’. The Production Manager also suggested that as these cars were sophisticated and each spare part was very costly it would be better to provide these cars for rental service along with trained drivers so that there would be less wear and tear. Piyush agreed and a training unit was started. Two of the available cars were used for training the drivers. People were very happy as they were getting these cars on rental basis with trained drivers. The idea was a big hit and the company was able to surpass its profit targets of the last 20 years. (a) Identify and explain the method of training given by ‘Caro’ to its drivers. (b) Also, state any two advantages the drivers will get after this training.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     },
     {
      "qno": 23,
@@ -6681,7 +6986,7 @@
   },
   {
    "chapter": "Directing",
-   "count": 79,
+   "count": 83,
    "questions": [
     {
      "qno": 25,
@@ -7231,6 +7536,84 @@
        "year": 2024,
        "set": "66/4/1",
        "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Child-O’ is a garment manufacturing company which makes clothes with unique and stylish designs for children. Naisha was working as the Human Resource Manager with ‘Child-O’. Inspite of good pay and many other benefits offered, the company is facing problem of high turnover of its employees. Naisha tried to find out the reason but could not. She appointed a person with the permission of the Chief Executive Officer to find out the reason. It was found that other organisations were giving more autonomy and authority to their employees which made them feel that their jobs were important. This was attracting the employees of ‘Child-O’ to other organisations. The incentive which attracted the employees of ‘Child-O’ to other organisations is :",
+     "options": [
+      "Employee Recognition programmes",
+      "Employee Participation",
+      "Career Advancement Opportunity",
+      "Employee Empowerment"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Naman and Vineet were childhood friends and both were working in ‘Sunshine Crockery.’ Naman was working as the Chief Executive Officer while Vineet was the Production Manager. They would generally discuss company related issues over lunch-time or while travelling together. The company had recently received an order for supply of 5,000 dinner sets from Shaurya Hotel. It was an unexpected order and would increase the revenue of the company. This order was communicated by Naman to Vineet over intercom. Vineet executed the order within the given time period. For this, he was appreciated by Naman. The type of communication used by Naman to communicate the order to Vineet was :",
+     "options": [
+      "Formal Communication",
+      "Informal Communication",
+      "Online Communication",
+      "Visual Communication"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement-I : Motivation can be either positive or negative. Statement-II : Motivation is a complex process as the individuals are heterogeneous in their expectations, perceptions and reactions. Choose the correct option from the following :",
+     "options": [
+      "Statement-I is true and Statement-II is false.",
+      "Statement-II is true and Statement-I is false.",
+      "Both the Statements are true.",
+      "Both the Statements are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "A Business Process Outsourcing centre, ‘Chromosome’ which deals in conversion of voice reports dictated by physicians and other healthcare providers into text format has 40 employees. They ensure that their employees are well versed in at least one foreign language and one Indian language. The employees are also given the required training to ensure that the reports are processed correctly as they are the backbone of the patients’ medical history. On frequent complaints about some of its employees, it was observed that they were facing problems in decoding the message as they were not very proficient with the language in which the voice message was received. As a result, they would make mistakes causing different meaning to the message. Not only this, sometimes there were technical words used in voice reports, the actual meaning of which was also not understood by the employees. Due to this, ‘Chromosome’ was slowly losing its business to competitors. The above case highlights two communication barriers. Identify and explain these barriers.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 26
       }
      ],
      "topic": "General"
@@ -8069,7 +8452,7 @@
   },
   {
    "chapter": "Controlling",
-   "count": 47,
+   "count": 48,
    "questions": [
     {
      "qno": 4,
@@ -8490,6 +8873,21 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 34,
+     "chapter": "Controlling",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "‘Memo Builders’ was constructing a five star hotel for a leading hotel chain. The hotel had to be given possession by next year but the construction of the hotel was running six months behind schedule. The Chief Executive Officer of ‘Memo Builders’ was concerned as Memo Builders was known for its quality and timely completion of projects. He asked Nitin, the senior of the Project Head for a thorough investigation. Nitin investigated and reported to the Chief Executive Officer that inspite of huge absenteeism of workers, additional workers were not called. Nitin also reported to the Chief Executive Officer that three of the ten machines being used by the workers were defective. Nitin ordered for repair of the machines and asked the Project Head to appoint additional workers with attractive wages to ensure that the deadline is met. (a) Identify the function of management. Quoting the lines from the above para, explain the steps of the process of the function of management discussed. (b) Also explain any two points of importance of the function of management identified in (a) above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 34
+      }
+     ],
+     "topic": "General"
     },
     {
      "qno": 12,
@@ -8927,7 +9325,7 @@
   },
   {
    "chapter": "Financial Management",
-   "count": 87,
+   "count": 92,
    "questions": [
     {
      "qno": 13,
@@ -9610,6 +10008,100 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Financial Management",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements : Assertion (A) and Reason (R). Choose the correct alternative from those given below : Assertion (A) : Availability of leasing facilities may reduce the funds required to be invested in fixed assets thereby reducing the fixed capital requirements. Reason (R) : When an asset is taken on lease, the firm pays lease rentals to use it and avoids to invest huge sums required to purchase it.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Kanand Ltd.’ is an automobile manufacturing company started in 2014 under ‘Make in India’ initiative of the Government of India. Expecting higher growth in future, it developed higher capacity in the current year taking advantage of the subsidies provided by the government. This would enable ‘Kanand Ltd.’ to meet anticipated higher demand quickly, For this, ‘Kanand Ltd.’ invested large amounts in fixed assets leading to higher requirements of fixed capital. Identify the factor affecting fixed capital requirements which ‘Kanand Ltd.’ kept in mind to meet higher anticipated demand quicker.",
+     "options": [
+      "Scale of operations",
+      "Nature of business",
+      "Diversification",
+      "Growth prospects"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Financial Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is NOT a factor affecting ‘financing decision’ ?",
+     "options": [
+      "Fixed operating costs",
+      "Cash flow position",
+      "Control considerations",
+      "Diversification"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Financial Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following factors affecting the working capital requirements of a business : (i) Operating efficiency (ii) Credit availed (iii) Level of competition",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Financial Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following factors affecting the dividend decision of a company : (i) Stability of dividends (ii) Contractual constraints (iii) Stock market reaction",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": "32-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 1,
@@ -10529,7 +11021,7 @@
   },
   {
    "chapter": "Financial Markets",
-   "count": 79,
+   "count": 83,
    "questions": [
     {
      "qno": 14,
@@ -11277,6 +11769,84 @@
      "topic": "General"
     },
     {
+     "qno": 5,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement-I : The basic function of a Stock Exchange is the creation of a continuous market where securities are bought and sold. Statement-II : The Stock Exchange provides both liquidity and easy marketability to already existing securities in the market. Choose the correct option from the following :",
+     "options": [
+      "Statement-I is true and Statement-II is false.",
+      "Statement-II is true and Statement-I is false.",
+      "Both the Statements are true.",
+      "Both the Statements are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "For holding securities in an electronic form, the investor has to open a demat account with an organisation called ________.",
+     "options": [
+      "Depository",
+      "Securities and Exchange Board of India",
+      "Stock Exchange",
+      "Mutual Fund"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the incorrect statement about ‘Money market’ :",
+     "options": [
+      "The main instruments traded in this market are Treasury bills, Trade bills, Commercial paper and Certificates of deposit.",
+      "In this market, transactions entail huge sums of money as the instruments are quite expensive.",
+      "Participation in this market is by and large undertaken by institutional participants such as the Reserve Bank of India, banks, financial institutions and finance companies.",
+      "It deals in medium and long term securities."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Financial Markets",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "State any three protective functions of ‘Securities and Exchange Board of India’.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 7,
      "chapter": "Financial Markets",
      "type": "MCQ",
@@ -12004,7 +12574,7 @@
   },
   {
    "chapter": "Marketing Management",
-   "count": 91,
+   "count": 96,
    "questions": [
     {
      "qno": 7,
@@ -12940,6 +13510,94 @@
      "figures": []
     },
     {
+     "qno": 11,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the terms given in Column-I with their meaning in Column-II. Column-I — a. Trademark; b. Brand name; c. Brand; d. Brand mark. Column-II — (i) A name, term, sign, symbol, design or some combination of them used to identify the products and differentiate them from the competitors. (ii) A brand or a part of the brand that is given legal protection. (iii) That part of the brand which can be recognised but which is not utterable. (iv) That part of the brand which can be spoken. Choose the correct option from the following :",
+     "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(ii), b-(iv), c-(i), d-(iii)",
+      "a-(ii), b-(i), c-(iv), d-(iii)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "[Picture: the packaging label of a refrigerator, showing a ‘Digital Inverter Technology, 10 Year Warranty on the Compressor’ badge above a 5-star ‘Power Savings Guide’ rating chart and a note ‘Stable in the widest range of voltage fluctuation, 115V–300V’.] Identify from the following — what is shown in the picture of refrigerator given below :",
+     "options": [
+      "Brand name",
+      "Brand mark",
+      "Trademark",
+      "Label"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Differentiate between ‘Production concept’ and ‘Marketing concept’ of marketing management philosophies on the basis of : (a) Meaning (b) Main focus (c) Means (d) Ends",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following functions of marketing : (i) Product Designing and Development. (ii) Standardisation and Grading",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Marketing Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the four important elements of marketing mix.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 4,
      "chapter": "Marketing Management",
      "type": "MCQ",
@@ -13701,7 +14359,7 @@
   },
   {
    "chapter": "Consumer Protection",
-   "count": 47,
+   "count": 49,
    "questions": [
     {
      "qno": 30,
@@ -14018,6 +14676,42 @@
        "year": 2024,
        "set": "66/4/1",
        "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Navya went to a supermarket for grocery shopping. She bought one kg of bajra flour from the supermarket. On reaching home when she opened the packet she found worms inside it. She was disappointed and told her son about the same. Her son asked her to check the label. When she checked the label of the packet, she found that bajra flour was stale and beyond the expiry date. She approached the sales-person at the supermarket who replaced the bajra flour immediately. When she thanked the sales-person, she was told that it was the policy of the supermarket to satisfy the customers. He further told that satisfied customers not only lead to repeat sales but they also provide good feedback to prospective customers which helps in increasing the customer base of business. Identify the point of importance of consumer protection from the point of view of the supermarket which is helping them to increase the customer base :",
+     "options": [
+      "Long term interest of the business",
+      "Moral justification",
+      "Social responsibility",
+      "Government intervention"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Kewalram started a sweets shop ‘Karamati Sweets’ in 1950. The sweets were famous all over India for their good quality and people would come from far and wide to purchase sweets from him. As he grew old, he could no longer run the shop. So, he sold the shop to one of his neighbours ‘Bholaram’. After a few months, to further increase the revenue, ‘Bholaram’ started engaging in unfair trade practices like using adulterated khoya and paneer. He thought that no one would know about it as ‘Karamati Sweets’ had a good image in the eyes of the people. Slowly, people started falling sick after consuming sweets purchased from ‘Karamati Sweets’ but they did not know where to go and to whom to complain. Raghav, a resident of the village had recently completed his studies. He was also a member of a non-governmental organisation, ‘Meri Voice’. He felt that the villagers should be made aware about the rights and reliefs available to them. He started creating awareness about consumer rights among the villagers to protect their interest through a series of talks and presentations in the village. (a) Identify and explain the consumer right discussed in the above para. (b) Also, identify and explain the consumer right violated by ‘Bholaram’ in the above case.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/5/1",
+       "qno": 25
       }
      ],
      "topic": "General"
