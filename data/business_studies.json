@@ -8,7 +8,7 @@
   2025,
   2026
  ],
- "total_questions": 756,
+ "total_questions": 796,
  "chapter_order": [
   "Nature and Significance of Management",
   "Principles of Management",
@@ -26,7 +26,7 @@
  "chapters": [
   {
    "chapter": "Nature and Significance of Management",
-   "count": 67,
+   "count": 71,
    "questions": [
     {
      "qno": 1,
@@ -563,6 +563,84 @@
       {
        "year": 2024,
        "set": "66/3/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "A multinational sweets and snacks company had been into catering business for the last many years. To add to its prospects and to grow in the long run, it wants to increase its sales volume, the number of products and capital investment. The organisational objective of management it seeks to achieve is :",
+     "options": [
+      "Survival",
+      "Profit",
+      "Growth",
+      "Corporate Social responsibility"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "With respect to levels of management choose the incorrect statement from the following :",
+     "options": [
+      "Operational level management is responsible for maintaining safety standards in the organisation.",
+      "At middle level management, managers ensure that their department has the necessary personnel.",
+      "Chief Executive officer at Top Level management is responsible for all activities of first line managers.",
+      "Top level management is responsible for all the activities of the business and for its impact on the society."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Nature and Significance of Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "________ is the process by which a manager synchronises the activities of different departments.",
+     "options": [
+      "Management",
+      "Planning",
+      "Co-ordination",
+      "Directing"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Nature and Significance of Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Three friends, Aman, Ashish and Ashi after completing their MBA from a reputed management institute, formed a start up named ‘Solutions’. The goal of the start up was to make a social and environmental impact through its services. ‘Solutions’ supports social business ideas to improve living conditions in slums of Mumbai. As all the three friends are specialised in social work, they adopted three different slums of Mumbai and started educating the slum dwellers in their own creative manner. Aman used ‘playway method’, Ashish used ‘music’ as a method of learning while Ashi used ‘activity based method of learning’. They used basic knowledge in their unique manner and were able to educate the slum dwellers. It implies that skillful and personal application of acquired knowledge varies from individual to individual in achieving desired results. (a) Identify and state the nature of management discussed in the above case. (b) Quoting lines from the above para, state any two features of nature of management identified in (a) above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
        "qno": 21
       }
      ],
@@ -1263,7 +1341,7 @@
   },
   {
    "chapter": "Principles of Management",
-   "count": 51,
+   "count": 52,
    "questions": [
     {
      "qno": 9,
@@ -1563,6 +1641,21 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 32,
+     "chapter": "Principles of Management",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Ankur Sachdeva did his MBA from ITB University. He decided to apply his knowledge of scientific management in the fast food restaurant chain ‘Coffee Bean’ set up by him. This restaurant was providing burgers, fries, shakes etc. as a part of its menu. Now a days people are quality conscious, so he was using standardised raw materials, processes, methods, working conditions, machinery etc. The objective was to establish standards of excellence. By doing this he was not only able to reduce the cost but was also able to provide new varieties of burgers, fries and shakes leading to increased turnover. Ankur Sachdeva also believed that there was only one best method to maximise efficiency. As a result he developed best way of grilling burgers, cooking fries and preparing shakes. His main objective was to maximise the satisfaction of customers, which he was able to achieve. Not only to learn the best way of doing a job, but to perform their tasks efficiently, ‘Coffee Bean’ regularly invests in training and development programmes to equip employees with the necessary skill and knowledge. ‘Coffee Bean’ believed that efficient employees will produce more and earn more. This will ensure their greatest efficiency and prosperity for both company and workers. The above case highlights the use of Scientific principles and techniques by ‘Coffee Bean’. Explain any one such principle and two techniques.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 32
+      }
+     ],
+     "topic": "General"
     },
     {
      "qno": 20,
@@ -2150,7 +2243,7 @@
   },
   {
    "chapter": "Business Environment",
-   "count": 46,
+   "count": 50,
    "questions": [
     {
      "qno": 2,
@@ -2572,6 +2665,90 @@
        "year": 2024,
        "set": "66/3/1",
        "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement – I : Business Environment is dynamic as it differs from country to country. Statement – II : Business Environment is largely uncertain as it is very difficult to predict future happenings. Choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement II is true and Statement I is false.",
+      "Both the statements are true.",
+      "Both the statements are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is NOT a feature of demonetisation ?",
+     "options": [
+      "It leads to creation of a less-cash or cash-less (free) economy i.e. channeling more savings through the formal financial system and improving tax compliance.",
+      "It is interpreted as a shift on the part of the government indicating that tax evasion will no longer be tolerated or accepted.",
+      "It is viewed as a tax administration measure.",
+      "It led to tax administration channelising savings away from the formal financial system."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Samaira and her friend, Sana wanted to watch a movie over the weekend. They booked the movie tickets online and chose the seats as per their preference at the click of a button at the desired movie hall. Now going to theatre for booking of tickets is no longer required. The dimension of business environment reflected in the above para is :",
+     "options": [
+      "Political environment",
+      "Social environment",
+      "Legal environment",
+      "Technological environment"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Business Environment",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Rajat was carrying on a business of manufacturing plastic disposables like plastic plates, plastic cups and plastic straws. He heard about the upcoming ban on single use plastics. He was able to identify this external environmental trend which could hinder his firm’s performance. So he took action and shifted to manufacturing the plates, cups and straws from bamboo and palm leaves. As a result, his business not only survived but was able to generate profit. The point of importance of Business Environment highlighted above is :",
+     "options": [
+      "It enables the firm to identify opportunities and getting the first mover advantage.",
+      "It helps the firm to identify threats and early warning signals.",
+      "It helps in tapping useful resources.",
+      "It helps in assisting in planning and policy formulation."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 18
       }
      ],
      "topic": "General"
@@ -3066,7 +3243,7 @@
   },
   {
    "chapter": "Planning",
-   "count": 54,
+   "count": 56,
    "questions": [
     {
      "qno": 32,
@@ -3391,6 +3568,37 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following types of plans : (i) Strategy (ii) Method (iii) Budget",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 31
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 31,
+     "chapter": "Planning",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain the following limitations of planning function of management : (i) Planning may not work in a dynamic environment. (ii) Planning leads to rigidity. (iii) Planning is time consuming.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": "31-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 32,
@@ -4015,7 +4223,7 @@
   },
   {
    "chapter": "Organising",
-   "count": 59,
+   "count": 62,
    "questions": [
     {
      "qno": 3,
@@ -4439,6 +4647,63 @@
        "year": 2024,
        "set": "66/3/1",
        "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Merely allocating work is not enough. Each individual should also know who he has to take orders from and to whom he is accountable’. The above statement is related to one of the steps of organising process. Identify the step from the following :",
+     "options": [
+      "Identification and division of work",
+      "Departmentalisation",
+      "Assignment of duties",
+      "Establishing authority and reporting relationship"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Organising",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is an advantage of Informal organisation ?",
+     "options": [
+      "It provides stability to the organisation because behaviour of employees can be fairly predicted since there are specific rules to guide them.",
+      "It leads to effective accomplishment of goals by providing a framework for the operations to be performed.",
+      "It enhances the employee’s job satisfaction since it gives them a sense of belongingness in the organisation and allows them to find like minded people.",
+      "It helps in avoiding duplication of efforts as there is no ambiguity in the role that each member has to play."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 34,
+     "chapter": "Organising",
+     "type": "Case-based",
+     "marks": 6,
+     "text": "Preeti started her own cooking channel on Youtube ‘Mood Art’. As her subscribers increased, she was not in a position to manage everything on her own. She hired Rahul and Riya to help her with filming, editing, lighting and content research. She granted authority to them to operate within prescribed limits. She was thus, able to use her time on high priority activities like developing new recipes and content development etc. As a result, Rahul and Riya were given opportunities to develop and exercise initiative. Preeti was now able to focus on objectives and meet the target of achieving a subscriber base of one million in six months. (a) Identify the concept of management used by Preeti to focus on objectives of her business and meet her targets. (b) Explain any five point of importance of the concept identified in (a) above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 34
       }
      ],
      "topic": "General"
@@ -5100,7 +5365,7 @@
   },
   {
    "chapter": "Staffing",
-   "count": 72,
+   "count": 75,
    "questions": [
     {
      "qno": 22,
@@ -5654,6 +5919,52 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "The rapid changes having taken place in the society have created pressure on organisations to readapt its products, type of jobs required and type of skills necessary to complete these jobs. To keep up pace with the rapid changes in the business environment, ‘Suzon cars’, a company manufacturing automobiles for the last thirty years decided to start manufacturing electric cars with Artificial Intelligence technology. With the introduction of Artificial Intelligence, the company had to improve the knowledge and skills of its employees. They wanted that all their employees improve their performance on the current job and are prepared for any intended job in future. This way they would not only be able to increase their knowledge and skills but would also improve their performance. By doing this, the organisation too would get various benefits. (a) Identify the concept discussed above which would help the employees to do the job in a better way using Artificial Intelligence Technology. (b) State any five benefits of the concept identified in (a) above to the organisation.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) Explain the following steps of the selection process : (i) Selection Tests (ii) Employment Interview",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Staffing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) State any four points of importance of ‘Staffing’ function of management.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 23,
@@ -6370,7 +6681,7 @@
   },
   {
    "chapter": "Directing",
-   "count": 75,
+   "count": 79,
    "questions": [
     {
      "qno": 25,
@@ -6856,6 +7167,73 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 7,
+     "chapter": "Directing",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following is NOT a feature of ‘Directing’ function of management ?",
+     "options": [
+      "Directing initiates Action.",
+      "Directing takes place at every level of management.",
+      "Directing ensures that activities are performed as per plans.",
+      "Directing flows from top to bottom."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(a) State any four features of directing function of management.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "(b) Explain the following ‘Semantic barriers’ to communication : (i) Technical jargon (ii) Body language and gesture decoding",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Directing",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "‘Shanta Enterprises’ was in the business of manufacturing solar panels for the last fifteen years. With their expertise now they were able to manufacture good quality solar panels at lower cost. As a result ‘Shanta Enterprises’ was flooded with orders and was able to generate a good profit margin. To motivate the employees the company decided to compensate some of them for their hard work. Arvind and Yogesh, who were working on contract basis, were absorbed permanently in the company. Both were happy as now there was stability about their future income. Ekta, a regular employee of the company, working as Research and Development Head, was awarded the ‘Best Employee of the year Award’. (a) Identify and explain the incentives given by Shanta Enterprises to its employees. (b) State the needs of the employees being met by such incentives as per Maslow’s Need Hierarchy Theory.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
     },
     {
      "qno": 13,
@@ -7691,7 +8069,7 @@
   },
   {
    "chapter": "Controlling",
-   "count": 44,
+   "count": 47,
    "questions": [
     {
      "qno": 4,
@@ -8060,6 +8438,58 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Controlling",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "________ is the step in the controlling process where standards may have to be revised in case the deviation can not be corrected through managerial action.",
+     "options": [
+      "Setting Performance Standards",
+      "Measurement of Actual performance",
+      "Comparing Actual Performance with standards and analysing deviations",
+      "Taking corrective action"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) ‘Planning and controlling are inseparable twins of management’. Explain with the help of any three points.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Controlling",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain ‘Critical point control’ and ‘Management by exception’ as discussed in the controlling process.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": "24-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 12,
@@ -8497,7 +8927,7 @@
   },
   {
    "chapter": "Financial Management",
-   "count": 82,
+   "count": 87,
    "questions": [
     {
      "qno": 13,
@@ -9098,6 +9528,88 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 5,
+     "chapter": "Financial Management",
+     "type": "Assertion-Reason",
+     "marks": 1,
+     "text": "Read the following statements Assertion (A) and Reason (R). Choose the correct option from the given options. Assertion (A) : Amount of Earnings is a major determinant of the decision about dividend. Reason (R) : Dividends are paid out of current and past earnings.",
+     "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the following as factors affecting ‘Financing Decision’ : (i) Fixed operating costs and (ii) Cash flow position of the company",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) State any three points of difference between ‘Primary Market’ and ‘Secondary Market’.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Explain the following factors affecting the working capital requirements of a company : (a) Level of competition (b) Inflation",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Financial Management",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Kaysons Ltd. was a reputed company manufacturing automotive parts for electric vehicles. As the demand for the electric vehicles grew, Kaysons Ltd. needed more capital to keep up with the demand for automotive parts. Atul, the Finance Manager of Kaysons Ltd. suggested that the company should raise funds through a public issue of shares as the stock market was bullish. The Chief Executive Officer fully understood that this process of raising funds would not only reduce the managements’ holding in the company but would also require considerable expenditure. Even then he agreed with the Finance Manager and the public issue of shares was made complying with the guidelines of Securities and Exchange Board of India. Identify and state four factors affecting choice of capital structure being discussed above.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
     },
     {
      "qno": 1,
@@ -10017,7 +10529,7 @@
   },
   {
    "chapter": "Financial Markets",
-   "count": 76,
+   "count": 79,
    "questions": [
     {
      "qno": 14,
@@ -10700,6 +11212,69 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘It is a process that allocates or directs funds available for investment into their most productive instrument opportunity’. This is known as :",
+     "options": [
+      "Financial planning",
+      "Financial Intermediation",
+      "Allocative function",
+      "Capital budgeting"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the functions of Securities and Exchange Board of India given in Column-I with their headings given in Column-II : Column-I — A. Training of intermediaries of securities markets; B. Regulation of takeover bids by companies; C. Controlling insider trading and imposing penalties for such practices. Column-II — (i) Regulatory function; (ii) Protective function; (iii) Development function.",
+     "options": [
+      "A(ii); B(iii); C(i)",
+      "A(i); B(ii); C(iii)",
+      "A(iii); B(i); C(ii)",
+      "A(iii); B(ii); C(i)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Financial Markets",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "________ is the process of holding securities in electronic form.",
+     "options": [
+      "Financial Intermediation",
+      "Dematerialisation",
+      "Allocative function",
+      "Mobilisation of securities"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     },
     {
      "qno": 7,
@@ -11429,7 +12004,7 @@
   },
   {
    "chapter": "Marketing Management",
-   "count": 86,
+   "count": 91,
    "questions": [
     {
      "qno": 7,
@@ -12271,6 +12846,100 @@
      "topic": "General"
     },
     {
+     "qno": 9,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘Marbury biscuits’ launched its new range of oat cookies in three varieties. They decided to distribute free samples of their biscuits in schools as a part of their promotional campaign. Identify the tool of promotion used by ‘Marbury Biscuits’ :",
+     "options": [
+      "Advertising",
+      "Personal Selling",
+      "Sales Promotion",
+      "Public Relations"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Statement – I : That part of a brand which can be spoken is called a brand name. Statement – II : That part of the brand which is given legal protection is called Trademark. Choose the correct option from the following :",
+     "options": [
+      "Statement I is true and Statement II is false.",
+      "Statement II is true and Statement I is false.",
+      "Both the statements are true.",
+      "Both the statements are false."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Marketing Management",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "[Picture: a rectangular gift box for a perfume, with a small window showing the perfume bottle inside, tied with a ribbon.] The picture given below is the package of a perfume bottle. Identify the level of packaging of the box shown above :",
+     "options": [
+      "Primary package",
+      "Secondary packaging",
+      "Transportation packaging",
+      "Both (A) and (B)"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Marketing Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(a) Explain the following functions of marketing : (i) Marketing Planning (ii) Branding (iii) Pricing",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 33
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Marketing Management",
+     "type": "Long Answer",
+     "marks": 6,
+     "text": "(b) Explain ‘Advertising’, ‘Sales Promotion’ and ‘Public Relations’ as elements of promotion mix.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": "33-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 4,
      "chapter": "Marketing Management",
      "type": "MCQ",
@@ -13032,7 +13701,7 @@
   },
   {
    "chapter": "Consumer Protection",
-   "count": 44,
+   "count": 47,
    "questions": [
     {
      "qno": 30,
@@ -13292,6 +13961,63 @@
        "year": 2024,
        "set": "66/3/1",
        "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Lyka Ltd. launched its new range of herbal shampoos at the beginning of the year. As per legal framework, Lyka Ltd. provided the name and address of the manufacturer, the weight, manufacturing date, expiry date, maximum retail price etc. on the package and label of the herbal shampoo. The consumer right highlighted above is :",
+     "options": [
+      "Right to choose",
+      "Right to be informed",
+      "Right to consumer education",
+      "Right to safety"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Consumer Protection",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Payal was working in a Multinational company. Her father gifted her a smart phone worth ₹ 40,500 on her birthday. The mobile phone was purchased by her father from his friend’s shop. After few months, the mobile phone started creating problems. Payal tried to contact the manufacturer many times but he did not respond. Ultimately Payal decided to file a complaint against the manufacturer. The appropriate grievance redressal machinery where Payal can file a complaint is :",
+     "options": [
+      "District Forum/Commission",
+      "State Commission",
+      "National Commission",
+      "Supreme Court"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Consumer Protection",
+     "type": "Short Answer",
+     "marks": 4,
+     "text": "Nishi had gone to a grocery store to make routine purchases. On reaching home, as she took out Binx tomato chips packet from the bag to give it to her son, she felt that it was underweight. She checked its weight on the kitchen weighing scale and found that it weighed 60 grams whereas the label on the chips packet mentioned the weight of the packet as 100 grams. She approached the manufacturer and complained about it. The manufacturer offered her a gift hamper and requested her not to disclose this to anyone. Nishi refused to accept the gift hamper and took the issue to a redressal agency. (a) State two responsibilities discharged by Nishi, as a consumer, in the above case. (b) State any two reliefs which can be granted to Nishi, if the consumer court is satisfied with the genuineness of the complaint.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "66/4/1",
+       "qno": 29
       }
      ],
      "topic": "General"
