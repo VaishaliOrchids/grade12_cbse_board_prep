@@ -2389,7 +2389,11 @@
   var EXAM = { exam: "half", subId: "business-studies", data: null };
 
   // minutes per question at home-practice pace: 2 minutes per mark, uniformly.
-  var EXAM_TIME = { 1: 2, 3: 6, 4: 8, 6: 12 };
+  var EXAM_TIME = { 1: 2, 2: 4, 3: 6, 4: 8, 5: 10, 6: 12 };
+  // Mark bands a worksheet may draw on. Subjects differ: Business Studies uses
+  // 1/3/4/6, while Maths (and Physics/Chemistry/Biology) use 1/2/3/4/5 and have
+  // no 6-markers at all. A blueprint row only lists the bands it actually wants.
+  var EXAM_BANDS = [1, 2, 3, 4, 5, 6];
 
   var EXAM_PAPERS = [
     { id: "half", name: "Half Yearly", live: true },
@@ -2397,27 +2401,89 @@
     { id: "pb2", name: "Pre-Board 2", live: false }
   ];
 
-  // exam -> subject -> ordered list of rows. A row is either the per-chapter
-  // form [chapter, mcq, m3, m4, m6], or a combo worksheet spanning several
-  // chapters in one sheet: { name, parts: [ [chapter, mcq, m3, m4, m6], ... ] }.
-  // Each row is [chapter, mcq, m3, m4, m6] — a per-chapter worksheet sized to a
-  // fixed total (20 or 30 marks) at 2 minutes/mark, capped at 6 MCQs per sheet:
-  //   20-mark: Principles of Management, Business Environment, Planning,
-  //            Organising, Controlling
-  //   30-mark: Nature and Significance of Management, Staffing, Directing,
-  //            Financial Management
+  // exam -> subject -> ordered list of rows, in half-yearly syllabus order.
+  // A row is [chapter, want] where `want` maps a mark value to how many
+  // questions of that value the sheet should carry — so each subject can use
+  // whichever bands its papers actually contain. A row may instead be a combo
+  // worksheet spanning several chapters: { name, parts: [ [chapter, want], … ] }.
+  //
+  // Sheets are sized to the chapter's own board weightage: heavyweight chapters
+  // get 30 marks, the rest 20, at 2 minutes/mark and never more than 6 MCQs.
   var EXAM_BLUEPRINT = {
     half: {
+      // 30-mark: Nature & Significance, Staffing, Directing, Financial Management
       "business-studies": [
-        ["Nature and Significance of Management", 6, 4, 3, 0],   // 30 marks · 60 min
-        ["Principles of Management", 4, 2, 1, 1],                // 20 marks · 40 min
-        ["Business Environment", 6, 2, 2, 0],                    // 20 marks · 40 min
-        ["Planning", 4, 2, 1, 1],                                // 20 marks · 40 min
-        ["Organising", 4, 0, 1, 2],                              // 20 marks · 40 min
-        ["Staffing", 6, 4, 3, 0],                                // 30 marks · 60 min
-        ["Directing", 4, 2, 2, 2],                               // 30 marks · 60 min
-        ["Controlling", 6, 2, 2, 0],                             // 20 marks · 40 min
-        ["Financial Management", 4, 2, 2, 2]                     // 30 marks · 60 min
+        ["Nature and Significance of Management", { 1: 6, 3: 4, 4: 3 }],        // 30 · 60 min
+        ["Principles of Management",              { 1: 4, 3: 2, 4: 1, 6: 1 }],  // 20 · 40 min
+        ["Business Environment",                  { 1: 6, 3: 2, 4: 2 }],        // 20 · 40 min
+        ["Planning",                              { 1: 4, 3: 2, 4: 1, 6: 1 }],  // 20 · 40 min
+        ["Organising",                            { 1: 4, 4: 1, 6: 2 }],        // 20 · 40 min
+        ["Staffing",                              { 1: 6, 3: 4, 4: 3 }],        // 30 · 60 min
+        ["Directing",                             { 1: 4, 3: 2, 4: 2, 6: 2 }],  // 30 · 60 min
+        ["Controlling",                           { 1: 6, 3: 2, 4: 2 }],        // 20 · 40 min
+        ["Financial Management",                  { 1: 4, 3: 2, 4: 2, 6: 2 }]   // 30 · 60 min
+      ],
+      // 30-mark: Integrals (9.1 marks/paper), Application of Derivatives (8.5)
+      // and Continuity & Differentiability (7.1) — the three heaviest chapters.
+      // Gaps are forced by the bank: Integrals and Application of Integrals have
+      // no 4-mark case studies, Differential Equations has no 2-markers, and
+      // Inverse Trigonometric Functions has neither 3m nor 5m questions.
+      mathematics: [
+        ["Inverse Trigonometric Functions",  { 1: 6, 2: 7 }],                    // 20 · 40 min
+        ["Continuity and Differentiability", { 1: 4, 2: 2, 3: 4, 5: 2 }],        // 30 · 60 min
+        ["Application of Derivatives",       { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Integrals",                        { 1: 4, 2: 2, 3: 4, 5: 2 }],        // 30 · 60 min
+        ["Application of Integrals",         { 1: 3, 2: 1, 5: 3 }],              // 20 · 40 min
+        ["Differential Equations",           { 1: 4, 3: 2, 5: 2 }],              // 20 · 40 min
+        ["Relations and Functions",          { 1: 3, 3: 1, 4: 1, 5: 2 }],        // 20 · 40 min
+        ["Matrices",                         { 1: 6, 3: 3, 5: 1 }]               // 20 · 40 min
+      ],
+      // 30-mark: Ray Optics (9.2 marks/paper), Moving Charges & Magnetism (7.7),
+      // Electrostatic Potential & Capacitance (7.0) and Current Electricity (6.6)
+      // — four chapters sit at 6.6+, then weightage drops to 5.0.
+      // Magnetism and Matter is a 10-mark sheet: the board sets it for only 0.8
+      // marks/paper and the bank holds a single 2m and a single 3m for it, so 10
+      // is its ceiling under the 6-MCQ cap. Alternating Current has no 2m or 4m
+      // questions, EMI only one 2m, and Electric Charges and Fields no case study.
+      physics: [
+        ["Electric Charges and Fields",             { 1: 3, 2: 1, 5: 3 }],              // 20 · 40 min
+        ["Electrostatic Potential and Capacitance", { 1: 3, 2: 1, 3: 2, 4: 1, 5: 3 }],  // 30 · 60 min
+        ["Current Electricity",                     { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Moving Charges and Magnetism",            { 1: 3, 2: 2, 3: 3, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Magnetism and Matter",                    { 1: 5, 2: 1, 3: 1 }],              // 10 · 20 min
+        ["Ray Optics and Optical Instruments",      { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Electromagnetic Induction",               { 1: 4, 3: 2, 5: 2 }],              // 20 · 40 min
+        ["Alternating Current",                     { 1: 4, 3: 2, 5: 2 }],              // 20 · 40 min
+        ["Wave Optics",                             { 1: 3, 2: 2, 3: 1, 5: 2 }]         // 20 · 40 min
+      ],
+      // Chemistry's weightage is unusually flat (5.8–9.0 marks/paper), so the
+      // 30-mark tier is Electrochemistry (9.0), Aldehydes/Ketones (8.2) and
+      // Solutions (7.0). Haloalkanes has no 5-markers in the bank at all — the
+      // board does not set long answers there — so that sheet tops out at a
+      // case study.
+      chemistry: [
+        ["Haloalkanes and Haloarenes",              { 1: 3, 2: 2, 3: 3, 4: 1 }],        // 20 · 40 min
+        ["Alcohols, Phenols and Ethers",            { 1: 3, 2: 2, 3: 3, 4: 1 }],        // 20 · 40 min
+        ["Aldehydes, Ketones and Carboxylic Acids", { 1: 4, 2: 2, 3: 4, 5: 2 }],        // 30 · 60 min
+        ["Amines",                                  { 1: 3, 2: 2, 3: 1, 5: 2 }],        // 20 · 40 min
+        ["Solutions",                               { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Electrochemistry",                        { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }]   // 30 · 60 min
+      ],
+      // 30-mark: Molecular Basis of Inheritance (8.5 marks/paper), Sexual
+      // Reproduction in Flowering Plants (8.0), Principles of Inheritance (7.0)
+      // and Biotechnology: Principles and Processes (6.9) — four chapters
+      // cluster at 6.9+, then weightage drops to 5.0.
+      // Reproductive Health has no 4m or 5m questions in the bank, so its sheet
+      // is objective/short-answer only; Evolution holds just one 5-marker.
+      biology: [
+        ["Sexual Reproduction in Flowering Plants", { 1: 4, 2: 2, 3: 4, 5: 2 }],        // 30 · 60 min
+        ["Human Reproduction",                      { 1: 3, 2: 2, 3: 1, 5: 2 }],        // 20 · 40 min
+        ["Reproductive Health",                     { 1: 4, 2: 2, 3: 4 }],              // 20 · 40 min
+        ["Principles of Inheritance and Variation", { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Molecular Basis of Inheritance",          { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Evolution",                               { 1: 3, 2: 1, 3: 2, 4: 1, 5: 1 }],  // 20 · 40 min
+        ["Biotechnology: Principles and Processes", { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
+        ["Biotechnology and its Applications",      { 1: 3, 2: 2, 3: 1, 5: 2 }]         // 20 · 40 min
       ]
     }
   };
@@ -2475,11 +2541,13 @@
     var name = row[0];
     var ch = (data.chapters || []).filter(function (c) { return c.chapter === name; })[0];
     var qs = ch ? ch.questions : [];
-    var want = { 1: row[1], 3: row[2], 4: row[3], 6: row[4] };
+    var want = row[1] || {};
     var picked = [], short = [];
-    [1, 3, 4, 6].forEach(function (m) {
-      var got = examPickBand(qs, m, want[m]);
-      if (got.length < want[m]) short.push(want[m] - got.length + " × " + m + "m");
+    EXAM_BANDS.forEach(function (m) {
+      var n = want[m] || 0;
+      if (!n) return;
+      var got = examPickBand(qs, m, n);
+      if (got.length < n) short.push(n - got.length + " × " + m + "m");
       picked = picked.concat(got);
     });
     var marks = 0, mins = 0, topics = {}, withAns = 0;
@@ -2504,11 +2572,11 @@
   function examBuildComboSet(data, row) {
     var subSets = row.parts.map(function (p) { return examBuildSet(data, p); });
     var questions = [], marks = 0, mins = 0, topics = {}, withAns = 0, short = [];
-    var want = { 1: 0, 3: 0, 4: 0, 6: 0 };
+    var want = {};
     subSets.forEach(function (s) {
       questions = questions.concat(s.questions);
       marks += s.marks; mins += s.mins; withAns += s.withAns;
-      [1, 3, 4, 6].forEach(function (m) { want[m] += s.want[m] || 0; });
+      EXAM_BANDS.forEach(function (m) { if (s.want[m]) want[m] = (want[m] || 0) + s.want[m]; });
       s.short.forEach(function (x) { short.push(s.chapter + ": " + x); });
     });
     questions.forEach(function (q) { topics[q.topic || "General"] = 1; });
@@ -2563,8 +2631,9 @@
 
       app.innerHTML =
         '<section class="hero wrap"><h1>Exam-Oriented Worksheets</h1>' +
-        "<p>One chapter-wise worksheet per chapter of the exam syllabus, sized to that chapter's own board " +
-        "weightage and to a ~30-minute home-practice clock. Every sheet is print-ready for both schools.</p></section>" +
+        "<p>One worksheet per chapter of the exam syllabus, sized to that chapter's own board weightage — " +
+        "the heaviest chapters carry 30 marks, the rest 20 — at 2 minutes per mark. Every sheet is " +
+        "print-ready for both schools.</p></section>" +
         '<div class="wrap">' +
         '<div class="pp-panel"><div class="pp-step"><span class="pp-stepn">1</span>Exam</div>' +
         '<div class="dash-tabs">' + examTabs + "</div>" +
@@ -2608,8 +2677,9 @@
 
     var html = '<div class="bp-head ex-head"><div><h2>' + esc(examName()) + " — " + esc(st.data.subject) +
       ' <span class="bp-meta">' + sets.length + " chapters · " + tq + " questions · " + tm + " marks · ~" + tmin + " min total</span></h2>" +
-      '<div class="bp-note"><b>How these are built:</b> each chapter\'s mix follows its own board weightage ' +
-      '(so Business Environment is MCQ-heavy and never carries a 6-marker, while Planning and Organising do). ' +
+      '<div class="bp-note"><b>How these are built:</b> each chapter\'s mix follows its own board weightage and ' +
+      'the mark values its papers actually use, so a chapter the board never sets a long question on will not ' +
+      'carry one here. No sheet has more than 6 MCQs. ' +
       '<b>2026 questions are reserved</b> for the pre-boards and never appear here. Easy/Average questions are ' +
       'preferred over Difficult, and questions are spread across NCERT sub-topics. Selection is deterministic — ' +
       'the same sheet regenerates every time. <b>To save:</b> the button opens your browser\'s print window — ' +
@@ -2619,21 +2689,24 @@
       '<button class="btn-sm bp-dl ex-genbtn" type="button" data-si="all" data-school="central" data-ans="0">⤓ Save all — OCSE</button>' +
       "</div></div>";
 
-    // blueprint summary table
-    html += '<div class="ex-bp"><table class="ex-bptab"><thead><tr><th>#</th><th>Chapter</th><th>MCQ</th>' +
-      "<th>3m</th><th>4m</th><th>6m</th><th>Marks</th><th>Time</th></tr></thead><tbody>";
+    // blueprint summary table — one column per mark band this subject actually uses
+    var bands = EXAM_BANDS.filter(function (m) {
+      return sets.some(function (s) { return s.want[m]; });
+    });
+    function bandLabel(m) { return m === 1 ? "MCQ" : m + "m"; }
+    html += '<div class="ex-bp"><table class="ex-bptab"><thead><tr><th>#</th><th>Chapter</th>' +
+      bands.map(function (m) { return "<th>" + bandLabel(m) + "</th>"; }).join("") +
+      "<th>Marks</th><th>Time</th></tr></thead><tbody>";
     sets.forEach(function (s, i) {
       html += "<tr><td>" + (i + 1) + '</td><td class="ex-bpn">' + esc(s.chapter) + "</td>" +
-        "<td>" + (s.want[1] || "–") + "</td><td>" + (s.want[3] || "–") + "</td>" +
-        "<td>" + (s.want[4] || "–") + "</td><td>" + (s.want[6] || "–") + "</td>" +
+        bands.map(function (m) { return "<td>" + (s.want[m] || "–") + "</td>"; }).join("") +
         "<td><b>" + s.marks + "</b></td><td>" + s.mins + " min</td></tr>";
     });
-    html += "<tr class=\"ex-bptot\"><td></td><td>TOTAL</td><td>" +
-      sets.reduce(function (a, s) { return a + (s.want[1] || 0); }, 0) + "</td><td>" +
-      sets.reduce(function (a, s) { return a + (s.want[3] || 0); }, 0) + "</td><td>" +
-      sets.reduce(function (a, s) { return a + (s.want[4] || 0); }, 0) + "</td><td>" +
-      sets.reduce(function (a, s) { return a + (s.want[6] || 0); }, 0) + "</td><td><b>" + tm +
-      "</b></td><td>~" + tmin + " min</td></tr></tbody></table></div>";
+    html += '<tr class="ex-bptot"><td></td><td>TOTAL</td>' +
+      bands.map(function (m) {
+        return "<td>" + sets.reduce(function (a, s) { return a + (s.want[m] || 0); }, 0) + "</td>";
+      }).join("") +
+      "<td><b>" + tm + "</b></td><td>~" + tmin + " min</td></tr></tbody></table></div>";
 
     sets.forEach(function (set, si) {
       var id = "ex-sheet-" + si;
