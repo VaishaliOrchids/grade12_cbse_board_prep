@@ -2465,7 +2465,7 @@
       }).join("");
     }
 
-    var html = '<div class="bp-head"><div><h2>' + esc(examName()) + " — " + esc(st.data.subject) +
+    var html = '<div class="bp-head ex-head"><div><h2>' + esc(examName()) + " — " + esc(st.data.subject) +
       ' <span class="bp-meta">' + sets.length + " chapters · " + tq + " questions · " + tm + " marks · ~" + tmin + " min total</span></h2>" +
       '<div class="bp-note"><b>How these are built:</b> each chapter\'s mix follows its own board weightage ' +
       '(so Business Environment is MCQ-heavy and never carries a 6-marker, while Planning and Organising do). ' +
