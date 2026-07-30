@@ -2342,8 +2342,8 @@
    */
   var EXAM = { exam: "half", subId: "business-studies", data: null };
 
-  // minutes per question at home-practice pace, by marks
-  var EXAM_TIME = { 1: 1, 3: 5, 4: 6.5, 6: 10 };
+  // minutes per question at home-practice pace: 2 minutes per mark, uniformly.
+  var EXAM_TIME = { 1: 2, 3: 6, 4: 8, 6: 12 };
 
   var EXAM_PAPERS = [
     { id: "half", name: "Half Yearly", live: true },
@@ -2351,19 +2351,27 @@
     { id: "pb2", name: "Pre-Board 2", live: false }
   ];
 
-  // exam -> subject -> ordered [chapter, mcq, m3, m4, m6]
+  // exam -> subject -> ordered list of rows. A row is either the per-chapter
+  // form [chapter, mcq, m3, m4, m6], or a combo worksheet spanning several
+  // chapters in one sheet: { name, parts: [ [chapter, mcq, m3, m4, m6], ... ] }.
+  // Each row is [chapter, mcq, m3, m4, m6] — a per-chapter worksheet sized to a
+  // fixed total (20 or 30 marks) at 2 minutes/mark, capped at 6 MCQs per sheet:
+  //   20-mark: Principles of Management, Business Environment, Planning,
+  //            Organising, Controlling
+  //   30-mark: Nature and Significance of Management, Staffing, Directing,
+  //            Financial Management
   var EXAM_BLUEPRINT = {
     half: {
       "business-studies": [
-        ["Nature and Significance of Management", 9, 1, 1, 0],
-        ["Principles of Management", 5, 0, 1, 1],
-        ["Business Environment", 10, 1, 1, 0],
-        ["Planning", 5, 0, 1, 1],
-        ["Organising", 6, 0, 1, 1],
-        ["Staffing", 6, 1, 2, 0],
-        ["Directing", 6, 1, 1, 1],
-        ["Controlling", 8, 2, 1, 0],
-        ["Financial Management", 8, 1, 1, 1]
+        ["Nature and Significance of Management", 6, 4, 3, 0],   // 30 marks · 60 min
+        ["Principles of Management", 4, 2, 1, 1],                // 20 marks · 40 min
+        ["Business Environment", 6, 2, 2, 0],                    // 20 marks · 40 min
+        ["Planning", 4, 2, 1, 1],                                // 20 marks · 40 min
+        ["Organising", 4, 0, 1, 2],                              // 20 marks · 40 min
+        ["Staffing", 6, 4, 3, 0],                                // 30 marks · 60 min
+        ["Directing", 4, 2, 2, 2],                               // 30 marks · 60 min
+        ["Controlling", 6, 2, 2, 0],                             // 20 marks · 40 min
+        ["Financial Management", 4, 2, 2, 2]                     // 30 marks · 60 min
       ]
     }
   };
@@ -2417,6 +2425,7 @@
   }
 
   function examBuildSet(data, row) {
+    if (row.parts) return examBuildComboSet(data, row);
     var name = row[0];
     var ch = (data.chapters || []).filter(function (c) { return c.chapter === name; })[0];
     var qs = ch ? ch.questions : [];
@@ -2440,6 +2449,27 @@
       chapter: name, questions: picked, marks: marks, mins: Math.round(mins),
       want: want, topics: Object.keys(topics).length, short: short,
       withAns: withAns, available: !!ch
+    };
+  }
+
+  // A combo worksheet spans several chapters in one sheet: build each chapter's
+  // slice with the ordinary per-chapter logic, then merge the results in order
+  // (grouped by chapter, so it's clear which section covers which topic).
+  function examBuildComboSet(data, row) {
+    var subSets = row.parts.map(function (p) { return examBuildSet(data, p); });
+    var questions = [], marks = 0, mins = 0, topics = {}, withAns = 0, short = [];
+    var want = { 1: 0, 3: 0, 4: 0, 6: 0 };
+    subSets.forEach(function (s) {
+      questions = questions.concat(s.questions);
+      marks += s.marks; mins += s.mins; withAns += s.withAns;
+      [1, 3, 4, 6].forEach(function (m) { want[m] += s.want[m] || 0; });
+      s.short.forEach(function (x) { short.push(s.chapter + ": " + x); });
+    });
+    questions.forEach(function (q) { topics[q.topic || "General"] = 1; });
+    return {
+      chapter: row.name, questions: questions, marks: marks, mins: Math.round(mins),
+      want: want, topics: Object.keys(topics).length, short: short,
+      withAns: withAns, available: subSets.every(function (s) { return s.available; })
     };
   }
 
