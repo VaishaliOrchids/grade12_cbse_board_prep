@@ -2292,6 +2292,52 @@
   var DASH = { sub: "mathematics" };
   function isGenTopic(t) { return t === "General" || /—\s*General$/.test(t); }
 
+  /* ---- Bank inventory: questions per chapter, split by question type ---- */
+  // Column order for the inventory table (paper order: objective -> written ->
+  // case/source/map). Any type the bank holds that isn't listed is appended.
+  var DASH_TYPE_ORDER = ["MCQ", "Assertion-Reason", "Very Short Answer", "Short Answer",
+                         "Long Answer", "Case-based", "Source-based", "Map-based"];
+  var DASH_TYPE_LABEL = { "MCQ": "MCQ", "Assertion-Reason": "A-R", "Very Short Answer": "Very Short",
+                          "Short Answer": "Short", "Long Answer": "Long", "Case-based": "Case study",
+                          "Source-based": "Source", "Map-based": "Map" };
+  // Accountancy spells it "Case Study", every other subject "Case-based" — one column.
+  function dashCountType(t) { return t === "Case Study" ? "Case-based" : (t || "Other"); }
+
+  // Counts each question ONCE (not once per paper it appeared in), so the TOTAL
+  // row equals the subject's unique-question count.
+  function dashCounts(d) {
+    var rows = [], totals = {}, grand = 0;
+    (d.chapters || []).forEach(function (c) {
+      var by = {}, n = 0;
+      (c.questions || []).forEach(function (q) {
+        var t = dashCountType(q.type);
+        by[t] = (by[t] || 0) + 1;
+        totals[t] = (totals[t] || 0) + 1;
+        n++; grand++;
+      });
+      rows.push({ chapter: c.chapter, by: by, total: n });
+    });
+    var cols = DASH_TYPE_ORDER.filter(function (t) { return totals[t]; });
+    Object.keys(totals).sort().forEach(function (t) { if (cols.indexOf(t) === -1) cols.push(t); });
+    return { rows: rows, cols: cols, totals: totals, grand: grand };
+  }
+
+  function dashCountsHTML(d) {
+    var C = dashCounts(d);
+    if (!C.rows.length) return "";
+    var head = '<tr><th>#</th><th class="dc-name">Chapter</th><th>Total</th>' +
+      C.cols.map(function (t) { return "<th>" + esc(DASH_TYPE_LABEL[t] || t) + "</th>"; }).join("") + "</tr>";
+    var body = C.rows.map(function (r, i) {
+      return "<tr><td>" + (i + 1) + '</td><td class="dc-name">' + esc(r.chapter) + "</td>" +
+        "<td><b>" + r.total + "</b></td>" +
+        C.cols.map(function (t) { return "<td>" + (r.by[t] || "–") + "</td>"; }).join("") + "</tr>";
+    }).join("");
+    var tot = '<tr class="dc-tot"><td></td><td class="dc-name">TOTAL</td><td><b>' + C.grand + "</b></td>" +
+      C.cols.map(function (t) { return "<td>" + (C.totals[t] || "–") + "</td>"; }).join("") + "</tr>";
+    return '<div class="dc-wrap"><table class="dc-tab"><thead>' + head + "</thead><tbody>" +
+      body + tot + "</tbody></table></div>";
+  }
+
   // Aggregate marks per (year, chapter, topic). A question can sit in several
   // sets/years via q.papers, so we attribute its marks once per paper-entry.
   function dashData(d) {
@@ -2641,7 +2687,7 @@
 
   function renderDashboard() {
     crumbs.innerHTML = '<a href="#/">Home</a> › Dashboard';
-    document.title = "Dashboard — Board-Exam Weightage";
+    document.title = "Dashboard — Chapter Analysis";
     getSubjectsIndex().then(function (subs) {
       var TRIAL = { mathematics: 1, physics: 1, chemistry: 1, biology: 1, economics: 1, accountancy: 1,
         "business-studies": 1 };   // all subjects live (business studies NCERT-tagged 2026-07-29)
@@ -2655,8 +2701,8 @@
       app.innerHTML =
         '<section class="wrap dash-head">' +
           '<img class="dash-logo" src="' + SCHOOL_LOGO + '" alt="">' +
-          '<div><h1 class="dash-h1">Board-Exam Weightage</h1>' +
-          '<p class="dash-sub">How many marks each chapter and sub-topic carried in the CBSE board papers, year by year. Click any chapter to reveal its sub-topics.</p></div>' +
+          '<div><h1 class="dash-h1">Chapter Analysis</h1>' +
+          '<p class="dash-sub">What the bank holds for each chapter by question type, and how many marks each chapter and sub-topic carried in the CBSE board papers, year by year.</p></div>' +
         "</section>" +
         '<div class="wrap"><div class="dash-tabs">' + tabs + "</div></div>" +
         '<div class="wrap"><div id="dash-body" class="dash-loading">Loading…</div></div>';
@@ -2741,6 +2787,10 @@
       return chapRow + '<div class="dm-subs" id="' + id + '">' + subRows + "</div>";
     }).join("");
     body.innerHTML =
+      '<h2 class="dc-h">Question Bank Inventory</h2>' +
+      '<div class="dm-cap">How many questions the bank holds for each chapter, split by question type. Counts each question once, across ' + (W.years.length ? W.years[0] + "–" + W.years[W.years.length - 1] : "all years") + '.</div>' +
+      dashCountsHTML(d) +
+      '<h2 class="dc-h">Board-Exam Weightage</h2>' +
       '<div class="dm-cap">Each number is the <b>average marks per paper</b> that a chapter carried that year (whole marks, out of ' + paperTotal + '). Click a chapter for its sub-topics, then a sub-topic to see the <b>actual questions in every set/zone paper</b> (zone · type · marks) — MCQ, A/R, VSA, SA, Case Study, Long.</div>' +
       '<div class="dm-table">' + head + rows + "</div>";
     Array.prototype.forEach.call(body.querySelectorAll("[data-tgt]"), function (b) {

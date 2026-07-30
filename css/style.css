@@ -567,6 +567,22 @@ table.qtable th { background: #f3f4f6; }
   a { color: var(--ink); }
 }
 
+/* ===== Dashboard: bank inventory table ===== */
+.dc-h { margin: 0 0 8px; font-size: 17px; letter-spacing: -.01em; color: #0f172a; }
+.dm-table + .dc-h { margin-top: 8px; }
+.dc-wrap { margin: 0 0 44px; overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); background: var(--card); }
+.dc-tab { border-collapse: collapse; font-size: 13px; width: 100%; min-width: 620px; }
+.dc-tab th, .dc-tab td { padding: 7px 12px; text-align: center; border-bottom: 1px solid var(--line);
+  white-space: nowrap; }
+.dc-tab thead th { background: #f6f9fc; font-size: 11px; letter-spacing: .04em; text-transform: uppercase;
+  color: var(--muted); font-weight: 700; position: sticky; top: 0; }
+.dc-tab th.dc-name, .dc-tab td.dc-name { text-align: left; }
+.dc-tab td.dc-name { font-weight: 600; color: #0f172a; }
+.dc-tab tbody tr:nth-child(even) td { background: #fafcfe; }
+.dc-tab tr:last-child td { border-bottom: 0; }
+.dc-tab tr.dc-tot td { background: #eef2f8; font-weight: 700; }
+
 /* ===== Exam-oriented worksheets ===== */
 .ex-bp { margin: 0 0 26px; overflow-x: auto; }
 .ex-bptab { border-collapse: collapse; font-size: 13px; min-width: 620px; background: #fff;
