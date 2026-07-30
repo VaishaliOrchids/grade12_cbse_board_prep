@@ -580,3 +580,4 @@ table.qtable th { background: #f3f4f6; }
 .ex-short { margin-left: 10px; font-size: 12px; font-weight: 600; color: #b45309; }
 .ex-head .bp-actions { flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; max-width: 340px; }
 .ex-genbtn { white-space: nowrap; }
+.ex-noans { color: #b45309; font-style: italic; }

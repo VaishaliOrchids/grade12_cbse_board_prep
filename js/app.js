@@ -2365,16 +2365,19 @@
       if (got.length < want[m]) short.push(want[m] - got.length + " × " + m + "m");
       picked = picked.concat(got);
     });
-    var marks = 0, mins = 0, topics = {};
+    var marks = 0, mins = 0, topics = {}, withAns = 0;
     picked.forEach(function (q) {
       marks += q.marks || 0;
       mins += EXAM_TIME[q.marks] || 0;
       topics[q.topic || "General"] = 1;
+      var a = q.answer;
+      if (a && (a.text || a.opt || (a.table && (a.table.length === undefined || a.table.length)) ||
+                (a.figures && a.figures.length))) withAns++;
     });
     return {
       chapter: name, questions: picked, marks: marks, mins: Math.round(mins),
       want: want, topics: Object.keys(topics).length, short: short,
-      available: !!ch
+      withAns: withAns, available: !!ch
     };
   }
 
@@ -2512,8 +2515,11 @@
           '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>" +
           '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div></div>' +
           examRowsHTML(set, false)) + "</div>" +
-        '<div class="ws-sheet-bar ws-botbar"><span class="ws-sheet-t2">🔑 Answer key — same paper, with marking-scheme answers</span>' +
-          '<span class="ws-btnset">' + btns(si, true) + "</span></div>" +
+        (set.withAns
+          ? '<div class="ws-sheet-bar ws-botbar"><span class="ws-sheet-t2">🔑 Answer key — same paper, with marking-scheme answers</span>' +
+            '<span class="ws-btnset">' + btns(si, true) + "</span></div>"
+          : '<div class="ws-sheet-bar ws-botbar"><span class="ws-sheet-t2 ex-noans">🔑 Answer key unavailable — ' +
+            esc(st.data.subject) + " marking schemes are not yet transcribed into the bank.</span></div>") +
         "</div></div>";
     });
 
