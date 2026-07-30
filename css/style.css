@@ -246,6 +246,7 @@ table.qtable th { background: #f3f4f6; }
 .tc-teal  { --tc: var(--accent); }
 .tc-amber { --tc: var(--or); }
 .tc-violet { --tc: #7c3aed; }
+.tc-rose { --tc: #e11d48; }
 
 /* ---- Question Paper builder ---- */
 .pp-lead { max-width: 720px; color: var(--muted); font-size: 15px; margin: 6px 0 0; }
@@ -565,3 +566,15 @@ table.qtable th { background: #f3f4f6; }
   body.print-one .ws-sheet { break-before: auto; }
   a { color: var(--ink); }
 }
+
+/* ===== Exam-oriented worksheets ===== */
+.ex-bp { margin: 0 0 26px; overflow-x: auto; }
+.ex-bptab { border-collapse: collapse; font-size: 13px; min-width: 620px; background: #fff;
+  border: 1px solid var(--line); border-radius: 10px; }
+.ex-bptab th, .ex-bptab td { padding: 7px 12px; text-align: center; border-bottom: 1px solid var(--line); }
+.ex-bptab thead th { background: #f6f9fc; font-size: 11px; letter-spacing: .04em; text-transform: uppercase;
+  color: var(--muted); font-weight: 700; }
+.ex-bptab td.ex-bpn { text-align: left; font-weight: 600; color: #0f172a; white-space: nowrap; }
+.ex-bptab tr:last-child td { border-bottom: 0; }
+.ex-bptab tr.ex-bptot td { background: #eef2f8; font-weight: 700; }
+.ex-short { margin-left: 10px; font-size: 12px; font-weight: 600; color: #b45309; }

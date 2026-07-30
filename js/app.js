@@ -185,6 +185,7 @@
         toolCard("02", "Dashboard", "#/dashboard", "tc-teal") +
         toolCard("03", "Worksheet", "#/worksheet", "tc-amber") +
         toolCard("04", "Question Paper", "#/paper", "tc-violet") +
+        toolCard("05", "Exam Worksheet", "#/exam", "tc-rose") +
       "</div></div>";
   }
 
@@ -2264,6 +2265,282 @@
     return { years: years, order: order, Y: Y, gmax: gmax || 1 };
   }
 
+
+  /* ================= Exam-oriented worksheets =================
+   * A fixed, exam-shaped worksheet per chapter. Unlike the topic-wise Worksheet
+   * tab (which dumps every question of a chapter), each sheet here is sized to the
+   * chapter's own board weightage and to a ~30-minute home-practice clock, using
+   * the agreed blueprint below (MCQ / 3m / 4m / 6m counts).
+   *
+   * Selection rules (deliberate, see EXAM_RULES shown in the UI):
+   *   - 2026 questions are RESERVED for the pre-boards and never appear here.
+   *   - Easy/Average preferred over Difficult (this is unsupported home practice).
+   *   - Questions are spread round-robin across the chapter's NCERT sub-topics.
+   *   - Selection is deterministic: the same sheet regenerates every time.
+   */
+  var EXAM = { exam: "half", subId: "business-studies", data: null };
+
+  // minutes per question at home-practice pace, by marks
+  var EXAM_TIME = { 1: 1, 3: 5, 4: 6.5, 6: 10 };
+
+  var EXAM_PAPERS = [
+    { id: "half", name: "Half Yearly", live: true },
+    { id: "pb1", name: "Pre-Board 1", live: false },
+    { id: "pb2", name: "Pre-Board 2", live: false }
+  ];
+
+  // exam -> subject -> ordered [chapter, mcq, m3, m4, m6]
+  var EXAM_BLUEPRINT = {
+    half: {
+      "business-studies": [
+        ["Nature and Significance of Management", 9, 1, 1, 0],
+        ["Principles of Management", 5, 0, 1, 1],
+        ["Business Environment", 10, 1, 1, 0],
+        ["Planning", 5, 0, 1, 1],
+        ["Organising", 6, 0, 1, 1],
+        ["Staffing", 6, 1, 2, 0],
+        ["Directing", 6, 1, 1, 1],
+        ["Controlling", 8, 2, 1, 0],
+        ["Financial Management", 8, 1, 1, 1]
+      ]
+    }
+  };
+
+  var EXAM_RESERVE_YEAR = 2026;
+  var EXAM_DIFF_RANK = { Easy: 0, Average: 1, Difficult: 2 };
+
+  function examSubjects(subs) {
+    var bp = EXAM_BLUEPRINT[EXAM.exam] || {};
+    return subs.filter(function (s) { return !!bp[s.id]; });
+  }
+
+  // Deterministic pick: for one mark band, spread across sub-topics, easier first.
+  function examPickBand(qs, marks, n) {
+    if (n <= 0) return [];
+    var pool = qs.filter(function (q) {
+      if ((q.marks || 0) !== marks) return false;
+      var papers = q.papers || [];
+      for (var i = 0; i < papers.length; i++) {
+        if (papers[i].year === EXAM_RESERVE_YEAR) return false;   // reserved for pre-boards
+      }
+      return true;
+    });
+    // group by sub-topic, each group ordered easy -> hard then by a stable id
+    var byTopic = {};
+    pool.forEach(function (q) {
+      var t = q.topic || "General";
+      (byTopic[t] = byTopic[t] || []).push(q);
+    });
+    var topics = Object.keys(byTopic).sort();
+    topics.forEach(function (t) {
+      byTopic[t].sort(function (a, b) {
+        var da = EXAM_DIFF_RANK[a.difficulty] === undefined ? 1 : EXAM_DIFF_RANK[a.difficulty];
+        var db = EXAM_DIFF_RANK[b.difficulty] === undefined ? 1 : EXAM_DIFF_RANK[b.difficulty];
+        if (da !== db) return da - db;
+        return qId(a) < qId(b) ? -1 : 1;
+      });
+    });
+    // round-robin across topics so one sub-topic cannot dominate the sheet
+    var out = [], ti = 0, guard = 0;
+    while (out.length < n && guard++ < 10000) {
+      var any = false;
+      for (var k = 0; k < topics.length && out.length < n; k++) {
+        var arr = byTopic[topics[(ti + k) % topics.length]];
+        if (arr && arr.length) { out.push(arr.shift()); any = true; }
+      }
+      ti++;
+      if (!any) break;
+    }
+    return out;
+  }
+
+  function examBuildSet(data, row) {
+    var name = row[0];
+    var ch = (data.chapters || []).filter(function (c) { return c.chapter === name; })[0];
+    var qs = ch ? ch.questions : [];
+    var want = { 1: row[1], 3: row[2], 4: row[3], 6: row[4] };
+    var picked = [], short = [];
+    [1, 3, 4, 6].forEach(function (m) {
+      var got = examPickBand(qs, m, want[m]);
+      if (got.length < want[m]) short.push(want[m] - got.length + " × " + m + "m");
+      picked = picked.concat(got);
+    });
+    var marks = 0, mins = 0, topics = {};
+    picked.forEach(function (q) {
+      marks += q.marks || 0;
+      mins += EXAM_TIME[q.marks] || 0;
+      topics[q.topic || "General"] = 1;
+    });
+    return {
+      chapter: name, questions: picked, marks: marks, mins: Math.round(mins),
+      want: want, topics: Object.keys(topics).length, short: short,
+      available: !!ch
+    };
+  }
+
+  function examRowsHTML(set, answers) {
+    var out = "", n = 0;
+    set.questions.forEach(function (q) {
+      n++;
+      out += answers ? paperRowAns(q, n) : paperRow(q, n, {});
+    });
+    return out;
+  }
+
+  function examSheetHTML(st, set, school, answers, id) {
+    var meta = '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>";
+    var instr = answers ? "" :
+      '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div>';
+    var title = (answers ? "Half-Yearly Worksheet — Answer Key" : "Half-Yearly Worksheet");
+    if (EXAM.exam !== "half") title = title.replace("Half-Yearly", examName());
+    return wsSheetShell(id, brandInner(school), title, esc(st.data.subject), set.chapter,
+                        meta, instr, examRowsHTML(set, answers));
+  }
+
+  function examName() {
+    var p = EXAM_PAPERS.filter(function (x) { return x.id === EXAM.exam; })[0];
+    return p ? p.name : "Exam";
+  }
+
+  function renderExam() {
+    crumbs.innerHTML = '<a href="#/">Home</a> › Exam Worksheet';
+    document.title = "Exam-Oriented Worksheets";
+    getSubjectsIndex().then(function (subs) {
+      var live = examSubjects(subs);
+      if (!live.filter(function (s) { return s.id === EXAM.subId; }).length && live.length) EXAM.subId = live[0].id;
+      var examTabs = EXAM_PAPERS.map(function (p) {
+        return '<button class="dash-tab' + (p.id === EXAM.exam ? " on" : "") + (p.live ? "" : " soon") + '"' +
+          (p.live ? ' data-exam="' + p.id + '"' : " disabled") + ">" + esc(p.name) +
+          (p.live ? "" : '<span class="dash-soon">soon</span>') + "</button>";
+      }).join("");
+      var subTabs = subs.map(function (s) {
+        var isLive = !!(EXAM_BLUEPRINT[EXAM.exam] || {})[s.id], on = s.id === EXAM.subId && isLive;
+        return '<button class="dash-tab' + (on ? " on" : "") + (isLive ? "" : " soon") + '"' +
+          (isLive ? ' data-esub="' + esc(s.id) + '"' : " disabled") + ">" + esc(s.name) +
+          (isLive ? "" : '<span class="dash-soon">soon</span>') + "</button>";
+      }).join("");
+
+      app.innerHTML =
+        '<section class="hero wrap"><h1>Exam-Oriented Worksheets</h1>' +
+        "<p>One chapter-wise worksheet per chapter of the exam syllabus, sized to that chapter's own board " +
+        "weightage and to a ~30-minute home-practice clock. Every sheet is print-ready for both schools.</p></section>" +
+        '<div class="wrap">' +
+        '<div class="pp-panel"><div class="pp-step"><span class="pp-stepn">1</span>Exam</div>' +
+        '<div class="dash-tabs">' + examTabs + "</div>" +
+        '<div class="pp-step"><span class="pp-stepn">2</span>Subject</div>' +
+        '<div class="dash-tabs">' + subTabs + "</div></div>" +
+        '<div id="exam-result"></div></div>';
+
+      Array.prototype.forEach.call(document.querySelectorAll(".dash-tab[data-exam]"), function (b) {
+        b.addEventListener("click", function () { EXAM.exam = b.getAttribute("data-exam"); renderExam(); });
+      });
+      Array.prototype.forEach.call(document.querySelectorAll(".dash-tab[data-esub]"), function (b) {
+        b.addEventListener("click", function () { EXAM.subId = b.getAttribute("data-esub"); renderExam(); });
+      });
+
+      var sub = subs.filter(function (s) { return s.id === EXAM.subId; })[0];
+      if (!sub) return;
+      getSubjectData(sub).then(function (data) {
+        EXAM.data = data;
+        renderExamResult({ subId: EXAM.subId, data: data });
+      });
+    });
+  }
+
+  function renderExamResult(st) {
+    var host = document.getElementById("exam-result");
+    if (!host) return;
+    var rows = (EXAM_BLUEPRINT[EXAM.exam] || {})[st.subId] || [];
+    var sets = rows.map(function (r) { return examBuildSet(st.data, r); });
+    EXAM.sets = sets;
+    var preview = brandInner(SCHOOLS[0]);
+    var tq = 0, tm = 0, tmin = 0;
+    sets.forEach(function (s) { tq += s.questions.length; tm += s.marks; tmin += s.mins; });
+
+    function btns(si, ans) {
+      return SCHOOLS.map(function (s) {
+        return '<button class="btn-sm ' + (ans ? "ws-keybtn" : "bp-dl") + ' ex-genbtn" type="button" data-si="' + si +
+          '" data-school="' + s.id + '" data-ans="' + (ans ? 1 : 0) + '" title="' + esc(s.name) + '">' +
+          (ans ? "🔑 Answer key — " : "⤓ ") + schoolShort(s) + "</button>";
+      }).join("");
+    }
+
+    var html = '<div class="bp-head"><div><h2>' + esc(examName()) + " — " + esc(st.data.subject) +
+      ' <span class="bp-meta">' + sets.length + " chapters · " + tq + " questions · " + tm + " marks · ~" + tmin + " min total</span></h2>" +
+      '<div class="bp-note"><b>How these are built:</b> each chapter\'s mix follows its own board weightage ' +
+      '(so Business Environment is MCQ-heavy and never carries a 6-marker, while Planning and Organising do). ' +
+      '<b>2026 questions are reserved</b> for the pre-boards and never appear here. Easy/Average questions are ' +
+      'preferred over Difficult, and questions are spread across NCERT sub-topics. Selection is deterministic — ' +
+      'the same sheet regenerates every time. <b>To save:</b> the button opens your browser\'s print window — ' +
+      'pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu, bottom-left).</div></div>' +
+      '<div class="bp-actions">' +
+      '<button class="btn-sm bp-dl ex-genbtn" type="button" data-si="all" data-school="intl" data-ans="0">⤓ Save all — OIS</button>' +
+      '<button class="btn-sm bp-dl ex-genbtn" type="button" data-si="all" data-school="central" data-ans="0">⤓ Save all — OCSE</button>' +
+      "</div></div>";
+
+    // blueprint summary table
+    html += '<div class="ex-bp"><table class="ex-bptab"><thead><tr><th>#</th><th>Chapter</th><th>MCQ</th>' +
+      "<th>3m</th><th>4m</th><th>6m</th><th>Marks</th><th>Time</th></tr></thead><tbody>";
+    sets.forEach(function (s, i) {
+      html += "<tr><td>" + (i + 1) + '</td><td class="ex-bpn">' + esc(s.chapter) + "</td>" +
+        "<td>" + (s.want[1] || "–") + "</td><td>" + (s.want[3] || "–") + "</td>" +
+        "<td>" + (s.want[4] || "–") + "</td><td>" + (s.want[6] || "–") + "</td>" +
+        "<td><b>" + s.marks + "</b></td><td>" + s.mins + " min</td></tr>";
+    });
+    html += "<tr class=\"ex-bptot\"><td></td><td>TOTAL</td><td>" +
+      sets.reduce(function (a, s) { return a + (s.want[1] || 0); }, 0) + "</td><td>" +
+      sets.reduce(function (a, s) { return a + (s.want[3] || 0); }, 0) + "</td><td>" +
+      sets.reduce(function (a, s) { return a + (s.want[4] || 0); }, 0) + "</td><td>" +
+      sets.reduce(function (a, s) { return a + (s.want[6] || 0); }, 0) + "</td><td><b>" + tm +
+      "</b></td><td>~" + tmin + " min</td></tr></tbody></table></div>";
+
+    sets.forEach(function (set, si) {
+      var id = "ex-sheet-" + si;
+      var shortNote = set.short.length
+        ? '<span class="ex-short" title="The bank could not supply this many at this mark value once 2026 was reserved">⚠ short by ' + esc(set.short.join(", ")) + "</span>"
+        : "";
+      html += '<div class="ws-cset"><div class="ws-cset-h">' + (si + 1) + ". " + esc(set.chapter) +
+        '<span class="ws-cset-code">' + set.questions.length + " q · " + set.marks + " marks · " + set.mins + " min · " + set.topics + " sub-topics</span>" +
+        shortNote + "</div>" +
+        '<div class="ws-sheet" id="' + id + '">' +
+        '<div class="ws-sheet-bar"><span class="ws-sheet-t">' + esc(examName()) + ' Worksheet <em>· ' +
+          set.questions.length + " q · " + set.marks + " marks · " + set.mins + " min</em></span>" +
+          '<span class="ws-btnset">' + btns(si, false) + "</span></div>" +
+        '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + preview +
+          "<h1>" + esc(examName()) + " Worksheet</h1>" +
+          '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII · " + esc(set.chapter) + "</div>" +
+          '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>" +
+          '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div></div>' +
+          examRowsHTML(set, false)) + "</div>" +
+        '<div class="ws-sheet-bar ws-botbar"><span class="ws-sheet-t2">🔑 Answer key — same paper, with marking-scheme answers</span>' +
+          '<span class="ws-btnset">' + btns(si, true) + "</span></div>" +
+        "</div></div>";
+    });
+
+    host.innerHTML = html;
+    typeset(host);
+
+    Array.prototype.forEach.call(host.querySelectorAll(".ex-genbtn"), function (b) {
+      b.addEventListener("click", function () {
+        var school = SCHOOLS.filter(function (s) { return s.id === b.getAttribute("data-school"); })[0] || SCHOOLS[0];
+        var ans = b.getAttribute("data-ans") === "1";
+        var siRaw = b.getAttribute("data-si");
+        var list = [], fname;
+        if (siRaw === "all") {
+          EXAM.sets.forEach(function (set, i) {
+            list.push(examSheetHTML(st, set, school, ans, "ex-print-" + i));
+          });
+          fname = examName().replace(/\s+/g, "-") + "-" + st.data.subject.replace(/\s+/g, "-") + "-all-worksheets";
+        } else {
+          var si = parseInt(siRaw, 10), set = EXAM.sets[si];
+          list.push(examSheetHTML(st, set, school, ans, "ex-print-one"));
+          fname = examName().replace(/\s+/g, "-") + "-" + set.chapter.replace(/[^A-Za-z0-9]+/g, "-") + (ans ? "-answer-key" : "");
+        }
+        printSheets(list, fname);
+      });
+    });
+  }
+
   function renderDashboard() {
     crumbs.innerHTML = '<a href="#/">Home</a> › Dashboard';
     document.title = "Dashboard — Board-Exam Weightage";
@@ -2378,7 +2655,8 @@
   }
 
   function setTab(h) {
-    var tab = h.indexOf("#/paper") === 0 ? "paper"
+    var tab = h.indexOf("#/exam") === 0 ? "exam"
+      : h.indexOf("#/paper") === 0 ? "paper"
       : h.indexOf("#/worksheet") === 0 ? "worksheet"
       : h.indexOf("#/dashboard") === 0 ? "dashboard"
       : (h.indexOf("#/browse") === 0 || h.indexOf("#/subject") === 0) ? "browse"
@@ -2393,7 +2671,8 @@
     var h = location.hash || "#/";
     var m = h.match(/^#\/subject\/(.+)$/);
     setTab(h);
-    if (h.indexOf("#/paper") === 0) renderPaper();
+    if (h.indexOf("#/exam") === 0) renderExam();
+    else if (h.indexOf("#/paper") === 0) renderPaper();
     else if (h.indexOf("#/dashboard") === 0) renderDashboard();
     else if (h.indexOf("#/worksheet") === 0) renderWorksheet();
     else if (h.indexOf("#/browse") === 0) renderBrowse();
