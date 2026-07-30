@@ -1763,7 +1763,7 @@
               "<br>Your filled Word file has been downloaded.</div>";
           }).catch(function (e) {
             note.innerHTML = '<div class="bp-empty">Couldn’t fill this template — ' + esc(String((e && e.message) || e)) +
-              ". Check that it has the Q. No. / Questions / Marks / Metadata Info table.</div>";
+              ". Check that it has the Chapter Name / Sub Topic / Marks / Question Type metadata table paired with each question.</div>";
           });
         });
         updateCount();
@@ -1787,10 +1787,13 @@
             "</div>" +
             '<div class="pp-panel">' +
               '<div class="pp-step"><span class="pp-stepn">2</span> Upload your Word template (.docx)</div>' +
-              '<p class="pp-hint">Your template must use a table with columns <b>Q. No. · Questions · Marks · Metadata Info</b> ' +
-                '(metadata rows <b>Ch:</b> / <b>Topic:</b> / <b>(type / difficulty / Bloom)</b>), an <b>(A)–(D)</b> grid for MCQs, ' +
-                'and <b>OR</b> rows for internal choice. Each slot is filled with the best-matching question ' +
-                '(<b>recent + higher-order</b>) from your chosen chapters; a slot with no match is left blank.</p>' +
+              '<p class="pp-hint">Your template must pair each question with a metadata table just above it — columns ' +
+                '<b>Chapter Name · Sub Topic · Difficulty Level · Bloom&rsquo;s Taxonomy · Marks · Question Type</b> — ' +
+                'followed by the question&rsquo;s own table (<b>Q&lt;n&gt; / text / marks</b>, an <b>A–D</b> grid for MCQs, ' +
+                'an <b>OR</b> row for internal choice). Sections are marked with a standalone <b>SECTION – X</b> row. ' +
+                'Each slot is filled with the best-matching question (<b>recent + higher-order</b>) from your chosen ' +
+                'chapters, with its Chapter/Topic/Difficulty/Bloom/Type written back into the metadata row; a slot with ' +
+                'no match is left blank.</p>' +
               '<div class="pp-uprow"><input type="file" id="pp-file" accept=".docx"><button class="bp-gen" id="pp-gen">Generate &amp; download</button></div>' +
               '<div class="pp-note" id="pp-note"></div>' +
             "</div>";
@@ -1825,19 +1828,29 @@
       return b * 10 + yr;   // Bloom first, recency as tie-break
     }
     function byScore(a, b) { return score(b) - score(a); }
-    var mcq = {}, byMark = {};
+    // MCQ-shaped (A-D) slots split into plain MCQ vs Assertion-Reason pools so a
+    // template slot labelled "Assertion & Reason" prefers an actual AR question,
+    // falling back to a plain MCQ (or vice-versa) if that pool is empty.
+    var mcq = {}, ar = {}, byMark = {};
     [1, 2].forEach(function (m) {
       mcq[m] = all.filter(function (q) { return q.marks === m && q.type === "MCQ" && (q.options || []).length === 4; }).sort(byScore);
+      ar[m] = all.filter(function (q) { return q.marks === m && q.type === "Assertion-Reason" && (q.options || []).length === 4; }).sort(byScore);
     });
-    [1, 2, 3, 4, 5, 6].forEach(function (m) {
-      byMark[m] = all.filter(function (q) { return q.marks === m && q.type !== "MCQ"; }).sort(byScore);
+    [1, 2, 3, 4, 5, 6, 8].forEach(function (m) {
+      byMark[m] = all.filter(function (q) { return q.marks === m && q.type !== "MCQ" && q.type !== "Assertion-Reason"; }).sort(byScore);
     });
     var used = {};
     function key(q) { var p = q.papers[0]; return p.year + "|" + p.set + "|" + p.qno; }
-    return function (marks, isMCQ) {
-      var pool = isMCQ ? (mcq[marks] || []) : (byMark[marks] || []);
+    function firstUnused(pool) {
       for (var i = 0; i < pool.length; i++) { if (!used[key(pool[i])]) { used[key(pool[i])] = 1; return pool[i]; } }
       return null;
+    }
+    // pick(marks, isMCQ, preferAR) — preferAR only matters when isMCQ is true.
+    return function (marks, isMCQ, preferAR) {
+      if (!isMCQ) return firstUnused(byMark[marks] || []);
+      var primary = preferAR ? ar[marks] : mcq[marks];
+      var fallback = preferAR ? mcq[marks] : ar[marks];
+      return firstUnused(primary || []) || firstUnused(fallback || []);
     };
   }
 
@@ -1852,12 +1865,22 @@
     var val = vm.getAttributeNS(WNS, "val") || vm.getAttribute("w:val");
     return !val || val === "continue";
   }
+  function cellGridSpan(tc) {
+    var pr = wEls(tc, "tcPr")[0]; if (!pr) return 1;
+    var kids = pr.childNodes;
+    for (var i = 0; i < kids.length; i++) {
+      if (kids[i].localName === "gridSpan") {
+        var v = kids[i].getAttributeNS(WNS, "val") || kids[i].getAttribute("w:val");
+        return v ? parseInt(v, 10) : 1;
+      }
+    }
+    return 1;
+  }
   function ensureP(doc, tc) { var ps = wEls(tc, "p"); if (ps.length) return ps[0]; var p = doc.createElementNS(WNS, "w:p"); tc.appendChild(p); return p; }
   function addRun(doc, p, text) {
     var r = doc.createElementNS(WNS, "w:r"), t = doc.createElementNS(WNS, "w:t");
     t.setAttribute("xml:space", "preserve"); t.textContent = text; r.appendChild(t); p.appendChild(r);
   }
-  function appendCell(doc, tc, text) { addRun(doc, ensureP(doc, tc), text); }
   function setCell(doc, tc, text) {
     var ps = wEls(tc, "p");
     for (var i = 0; i < ps.length; i++) { var rs = wEls(ps[i], "r"); for (var j = rs.length - 1; j >= 0; j--) rs[j].parentNode.removeChild(rs[j]); }
@@ -1871,6 +1894,12 @@
     var out = []; for (var i = 0; i < tbl.childNodes.length; i++) if (tbl.childNodes[i].localName === "tr") out.push(tbl.childNodes[i]); return out;
   }
 
+  // Each question is authored as a PAIR of tables: a metadata table (header row
+  // "Chapter Name | Sub Topic | Difficulty Level | Bloom's Taxonomy | Marks |
+  // Question Type" + one values row) immediately followed by the question's own
+  // table (Q<n> / text / marks, then an A-D grid for MCQs or a plain answer-space
+  // block, optionally split by an "OR" row for internal choice). A standalone
+  // single-cell "SECTION - X" table marks where a new section starts.
   function fillDocx(arrayBuffer, pick) {
     return JSZip.loadAsync(arrayBuffer).then(function (zip) {
       var docFile = zip.file("word/document.xml");
@@ -1878,25 +1907,34 @@
       return docFile.async("string").then(function (xml) {
         var doc = new DOMParser().parseFromString(xml, "application/xml");
         var tbls = wEls(doc.documentElement, "tbl");
-        var filled = 0, teacher = 0, nomatch = 0;
+
+        var blocks = [];         // { metaRow, qTbl }
+        var sectionStarts = [];  // blocks[] index where each section begins
         for (var ti = 0; ti < tbls.length; ti++) {
           var rows = tableRows(tbls[ti]);
           if (!rows.length) continue;
-          var hdr = rowCells(rows[0]).map(cellText).join(" | ").toLowerCase();
-          if (hdr.indexOf("q. no.") === -1 || hdr.indexOf("questions") === -1) continue; // not a question table
-          // group rows into question blocks (each starts at a "Ch:" metadata row)
-          var blocks = [], cur = null;
-          for (var ri = 1; ri < rows.length; ri++) {
-            var cells = rowCells(rows[ri]);
-            if (cells.some(function (c) { return /^ch\s*:/i.test(cellText(c)); })) { cur = []; blocks.push(cur); }
-            if (cur) cur.push.apply(cur, cells);
+          var rowCells0 = rowCells(rows[0]);
+          if (rows.length === 1 && rowCells0.length === 1 && /^section\b/i.test(cellText(rowCells0[0]))) {
+            sectionStarts.push(blocks.length);
+            continue;
           }
-          // Each SECTION is its own question table (Section A/B/C…), so filling
-          // floor(N/2) of a table's blocks = half of that section. Even N -> N/2,
-          // odd N -> (N-1)/2 (16 MCQs -> 8, 5 short -> 2). The rest stay blank so
-          // the teacher adds the manual touch.
-          var target = Math.floor(blocks.length / 2);
-          for (var bi = 0; bi < blocks.length; bi++) {
+          var hdr = rowCells0.map(cellText).join(" | ").toLowerCase();
+          if (hdr.indexOf("chapter name") !== 0) continue;   // not a metadata table
+          var qTbl = tbls[ti + 1];
+          if (!qTbl) continue;
+          blocks.push({ metaRow: rowCells(rows[1] || rows[0]), qTbl: qTbl });
+          ti++;   // the next table is this block's question table — already consumed
+        }
+        sectionStarts.push(blocks.length);
+        if (!blocks.length) throw new Error("not a Word .docx");
+
+        var filled = 0, teacher = 0, nomatch = 0;
+        for (var si = 0; si < sectionStarts.length - 1; si++) {
+          var start = sectionStarts[si], end = sectionStarts[si + 1];
+          // Fill floor(N/2) of each section, leaving the rest blank for the
+          // teacher's manual touch (even N -> N/2, odd N -> (N-1)/2).
+          var target = start + Math.floor((end - start) / 2);
+          for (var bi = start; bi < end; bi++) {
             if (bi < target) { if (fillBlock(doc, blocks[bi], pick)) filled++; else nomatch++; }
             else teacher++;
           }
@@ -1911,32 +1949,56 @@
 
   // Fill one question block from the pool. Returns true if a question was
   // placed, false if no matching question was found (slot left blank).
-  function fillBlock(doc, cells, pick) {
-    var marks = null, isMCQ = false, isOR = false;
-    var qCells = [], opt = {}, chCell = null, topicCell = null, typeCell = null;
-    cells.forEach(function (tc) {
-      if (isVMergeCont(tc)) return;               // skip merged continuations
-      var txt = cellText(tc), m;
-      if (/^q\.\s*\d/i.test(txt)) return;         // Q.No
-      if ((m = txt.match(/(\d+)\s*marks?/i))) { marks = parseInt(m[1], 10); return; }
-      if (/^ch\s*:/i.test(txt)) { chCell = tc; return; }
-      if (/^topic\s*:/i.test(txt)) { topicCell = tc; return; }
-      if (/^\(\s*question\s*type/i.test(txt)) { typeCell = tc; return; }
-      if ((m = txt.match(/^\(\s*([A-D])\s*\)/))) { opt[m[1]] = tc; isMCQ = true; return; }
-      if (/^or$/i.test(txt)) { isOR = true; return; }
-      if (txt === "") qCells.push(tc);            // empty Questions-column cell
-    });
-    var q = pick(marks, isMCQ);
+  function fillBlock(doc, block, pick) {
+    var meta = block.metaRow;   // [chapter, topic, difficulty, bloom, marks, type]
+    var chCell = meta[0], topicCell = meta[1], diffCell = meta[2], bloomCell = meta[3],
+        marksCell = meta[4], typeCell = meta[5];
+    var marks = parseInt(cellText(marksCell), 10);
+    var preferAR = /assertion/i.test(cellText(typeCell));
+
+    var qrows = tableRows(block.qTbl);
+    if (!qrows.length) return false;
+    var row1 = rowCells(qrows[1] || []);
+    var isMCQ = row1.length === 6;   // MCQ/AR layout signature: 6 cells in row 1 (vs 3 for descriptive)
+
+    var qTextCells = [], opt = {};
+    if (isMCQ) {
+      var row0 = rowCells(qrows[0]);
+      if (row0[1]) qTextCells.push(row0[1]);
+      for (var ri = 1; ri < qrows.length; ri++) {
+        var cells = rowCells(qrows[ri]);
+        for (var ci = 0; ci < cells.length; ci++) {
+          var m = cellText(cells[ci]).match(/^([A-D])$/i);
+          if (m && cells[ci + 1]) opt[m[1].toUpperCase()] = cells[ci + 1];
+        }
+      }
+    } else {
+      // The question-text cell(s) are the wide (gridSpan > 1), blank, non-merged
+      // -continuation cells — one for a plain slot, two (split by an "OR" row) for
+      // an internal-choice slot. Small decorative spacer cells are gridSpan 1.
+      for (var ri2 = 0; ri2 < qrows.length; ri2++) {
+        var cells2 = rowCells(qrows[ri2]);
+        for (var ci2 = 0; ci2 < cells2.length; ci2++) {
+          var tc = cells2[ci2];
+          if (isVMergeCont(tc)) continue;
+          if (cellGridSpan(tc) > 1 && cellText(tc) === "") qTextCells.push(tc);
+        }
+      }
+    }
+
+    var q = pick(marks, isMCQ, preferAR);
     if (!q) {
       if (typeCell) setCell(doc, typeCell, "— no matching question —");
       return false;
     }
-    if (qCells[0]) setCell(doc, qCells[0], q.text);
-    if (isMCQ && q.options) ["A", "B", "C", "D"].forEach(function (L, i) { if (opt[L]) appendCell(doc, opt[L], " " + (q.options[i] == null ? "" : q.options[i])); });
-    if (isOR && qCells[1]) { var q2 = pick(marks, false); if (q2) setCell(doc, qCells[1], q2.text); }
-    if (chCell) appendCell(doc, chCell, " " + (q.chapter || ""));
-    if (topicCell) appendCell(doc, topicCell, " " + (q.topic || ""));
-    if (typeCell) setCell(doc, typeCell, [q.type, q.difficulty, q.bloom].filter(Boolean).join(" / "));
+    if (qTextCells[0]) setCell(doc, qTextCells[0], q.text);
+    if (isMCQ && q.options) ["A", "B", "C", "D"].forEach(function (L, i) { if (opt[L]) setCell(doc, opt[L], q.options[i] == null ? "" : q.options[i]); });
+    if (!isMCQ && qTextCells[1]) { var q2 = pick(marks, false, false); if (q2) setCell(doc, qTextCells[1], q2.text); }
+    if (chCell) setCell(doc, chCell, q.chapter || "");
+    if (topicCell) setCell(doc, topicCell, q.topic || "");
+    if (diffCell) setCell(doc, diffCell, q.difficulty || "");
+    if (bloomCell) setCell(doc, bloomCell, q.bloom || "");
+    if (typeCell) setCell(doc, typeCell, q.type || "");
     return true;
   }
 
