@@ -2484,6 +2484,37 @@
         ["Evolution",                               { 1: 3, 2: 1, 3: 2, 4: 1, 5: 1 }],  // 20 · 40 min
         ["Biotechnology: Principles and Processes", { 1: 4, 2: 3, 3: 2, 4: 1, 5: 2 }],  // 30 · 60 min
         ["Biotechnology and its Applications",      { 1: 3, 2: 2, 3: 1, 5: 2 }]         // 20 · 40 min
+      ],
+      // Uses 1/3/4/6 like Business Studies. 30-mark: Share Capital (14.7 marks/
+      // paper), Admission (10.8), Debentures (9.5), Retirement/Death (8.1).
+      // "Goodwill" is a sub-topic, not a chapter — its 75 questions sit inside
+      // the three Reconstitution sheets. Retirement and Death share one chapter.
+      // Fundamentals and Change in Profit Sharing Ratio have no 6-markers in the
+      // bank, so those sheets are MCQ + short-answer only.
+      accountancy: [
+        ["Accounting for Partnership Firms — Fundamentals",                       { 1: 5, 3: 5 }],              // 20 · 40 min
+        ["Reconstitution of a Partnership Firm — Change in Profit Sharing Ratio",  { 1: 5, 3: 5 }],              // 20 · 40 min
+        ["Reconstitution of a Partnership Firm — Admission of a Partner",          { 1: 3, 3: 3, 6: 3 }],        // 30 · 60 min
+        ["Reconstitution of a Partnership Firm — Retirement/Death of a Partner",   { 1: 4, 3: 2, 4: 2, 6: 2 }],  // 30 · 60 min
+        ["Dissolution of Partnership Firm",                                        { 1: 4, 4: 1, 6: 2 }],        // 20 · 40 min
+        ["Accounting for Share Capital",                                           { 1: 4, 4: 2, 6: 3 }],        // 30 · 60 min
+        ["Issue and Redemption of Debentures",                                     { 1: 4, 3: 2, 4: 2, 6: 2 }]   // 30 · 60 min
+      ],
+      // Uses 1/3/4/6. 30-mark: the three macro chapters (8.6–10.1 marks/paper),
+      // then weightage drops to 5.8. Circular Flow, Basic Concepts and
+      // Measurement of National Income are sub-topics of National Income and
+      // Related Aggregates; Aggregate Demand sits inside Determination of Income
+      // and Employment — the bank holds only 1m and 4m questions for that one.
+      economics: [
+        ["National Income and Related Aggregates",                       { 1: 3, 3: 3, 6: 3 }],        // 30 · 60 min
+        ["Money and Banking",                                            { 1: 4, 4: 5, 6: 1 }],        // 30 · 60 min
+        ["Determination of Income and Employment",                       { 1: 6, 4: 6 }],              // 30 · 60 min
+        ["Indian Economy on the Eve of Independence",                    { 1: 4, 3: 4, 4: 1 }],        // 20 · 40 min
+        ["Indian Economy 1950–1990",                                     { 1: 4, 4: 1, 6: 2 }],        // 20 · 40 min
+        ["Liberalisation, Privatisation and Globalisation: An Appraisal", { 1: 4, 3: 2, 4: 1, 6: 1 }], // 20 · 40 min
+        ["Human Capital Formation in India",                             { 1: 4, 3: 2, 4: 1, 6: 1 }],  // 20 · 40 min
+        ["Rural Development",                                            { 1: 4, 3: 2, 4: 1, 6: 1 }],  // 20 · 40 min
+        ["Employment: Growth, Informalisation and Other Issues",         { 1: 4, 3: 2, 4: 1, 6: 1 }]   // 20 · 40 min
       ]
     }
   };
