@@ -874,6 +874,13 @@
   function qId(q) { var p = (q.papers && q.papers[0]) || {}; return p.year + "|" + p.set + "|" + p.qno; }
   // "CBSE 2024" (or "CBSE 2024, 2025" if it recurred)
   function cbseYears(q) { var ys = wsYears(q); return ys.length ? "CBSE " + ys.join(", ") : ""; }
+  // One badge PER year, each on its own line — a combined "CBSE 2023, 2025" badge
+  // is wide enough to overflow the fixed meta column and sit on the question text.
+  function cbseYearBadges(q) {
+    return wsYears(q).map(function (y) {
+      return '<span class="ws-qyear">CBSE ' + esc(y) + "</span>";
+    }).join("");
+  }
   function diffBadge(q) {
     var d = q.difficulty || "Average";
     return '<span class="ws-diff ws-diff-' + d.toLowerCase() + '">' + d + "</span>";
@@ -999,7 +1006,7 @@
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
       '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + "</div>" +
       '<div class="ws-qmeta">' + diffBadge(q) +
-        (cbseYears(q) ? '<span class="ws-qyear">' + esc(cbseYears(q)) + "</span>" : "") +
+        cbseYearBadges(q) +
         '<span class="ws-qm">[' + (q.marks || 0) + "]</span>" + rep + del + "</div></div>";
   }
 
@@ -1245,7 +1252,7 @@
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
       '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + ansBlock(q) + "</div>" +
       '<div class="ws-qmeta">' + diffBadge(q) +
-        (cbseYears(q) ? '<span class="ws-qyear">' + esc(cbseYears(q)) + "</span>" : "") +
+        cbseYearBadges(q) +
         '<span class="ws-qm">[' + (q.marks || 0) + "]</span></div></div>";
   }
   function testRowsHTML(set, si, opts) {

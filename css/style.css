@@ -309,13 +309,13 @@ table.qtable th { background: #f3f4f6; }
 .bp-chaptools { display: flex; gap: 8px; margin-bottom: 8px; }
 .bp-chaptools button { font-size: 12px; padding: 3px 11px; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: #374151; cursor: pointer; }
 .bp-chaptools button:hover { background: #f3f4f6; }
-.ws-q { display: grid; grid-template-columns: 26px 1fr 66px; gap: 6px; padding: 10px 0; border-top: 1px solid #f1f3f5; }
+.ws-q { display: grid; grid-template-columns: 26px 1fr 74px; gap: 8px; padding: 10px 0; border-top: 1px solid #f1f3f5; }
 .ws-qn { font-weight: 700; font-size: 15px; }
 .ws-qc { font-size: 15px; }
 .ws-qc .qbody p:first-child { margin-top: 0; }
-.ws-qmeta { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
-.ws-qyear { font-size: 11px; font-weight: 700; color: #1d4ed8; background: #eef2ff; border-radius: 5px; padding: 1px 6px; white-space: nowrap; }
-.ws-qm { text-align: right; font-weight: 700; font-size: 14px; color: #374151; }
+.ws-qmeta { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; min-width: 0; }
+.ws-qyear { font-size: 9px; font-weight: 700; color: #1d4ed8; background: #eef2ff; border-radius: 4px; padding: 1px 4px; white-space: nowrap; letter-spacing: 0; }
+.ws-qm { text-align: right; font-weight: 700; font-size: 12.5px; color: #374151; }
 /* sub-topic heading inside a worksheet */
 .ws-topic { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; margin: 18px 0 2px; padding-bottom: 5px; border-bottom: 1.5px solid var(--ink); }
 .ws-topic:first-of-type { margin-top: 14px; }
@@ -338,7 +338,7 @@ table.qtable th { background: #f3f4f6; }
 /* section header on the test (type + marks-each) reuses .ws-sec */
 .ws-sec { text-align: left; }
 /* difficulty pill shown on every question */
-.ws-diff { display: inline-block; font-size: 10.5px; font-weight: 800; color: #fff; border-radius: 5px; padding: 1px 7px; white-space: nowrap; letter-spacing: .02em; }
+.ws-diff { display: inline-block; font-size: 9px; font-weight: 800; color: #fff; border-radius: 4px; padding: 1px 5px; white-space: nowrap; letter-spacing: 0; }
 .ws-diff-easy { background: #16a34a; }
 .ws-diff-average { background: #d97706; }
 .ws-diff-difficult { background: #dc2626; }
@@ -369,7 +369,7 @@ table.qtable th { background: #f3f4f6; }
 .pp-page.pp-first .pp-head { display: none; }
 .pp-body { flex: 1 1 auto; min-height: 0; overflow: visible; }
 .pp-foot { flex: none; min-height: 0; text-align: right; font-size: 11px; color: #64748b; padding-top: 8px; margin-top: 10px; border-top: 1px solid #e5e7eb; }
-.pp-body .ws-q { display: block; position: relative; padding: 9px 68px 9px 30px; border-top: 1px solid #f1f3f5; }
+.pp-body .ws-q { display: block; position: relative; padding: 9px 78px 9px 30px; border-top: 1px solid #f1f3f5; }
 .pp-body .ws-qn { position: absolute; left: 0; top: 9px; }
 .pp-body .ws-qmeta { position: absolute; right: 0; top: 9px; }
 .pp-test .ws-diff { display: none; }
@@ -544,7 +544,7 @@ table.qtable th { background: #f3f4f6; }
   /* ...and a long question MAY flow across a page break (fills pages, avoids
      wasting them). Block flow fragments reliably where a grid row would not;
      the number & meta are pinned to the top so only the body splits. */
-  .ws-q { display: block; position: relative; padding: 9px 68px 9px 30px; break-inside: auto; page-break-inside: auto; }
+  .ws-q { display: block; position: relative; padding: 9px 78px 9px 30px; break-inside: auto; page-break-inside: auto; }
   .ws-qn { position: absolute; left: 0; top: 9px; }
   .ws-qmeta { position: absolute; right: 0; top: 9px; }
   /* keep atomic pieces whole even though the question itself may split */
