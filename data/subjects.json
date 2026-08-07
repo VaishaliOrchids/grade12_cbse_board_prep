@@ -63,6 +63,22 @@
    "klass": "XII",
    "data": "data/history.json",
    "description": "CBSE Class 12 History board exam questions, 2023–2026, organised by NCERT chapter."
+  },
+  {
+   "id": "english",
+   "name": "English (Core)",
+   "code": "301",
+   "klass": "XII",
+   "data": "data/english.json",
+   "description": "CBSE Class 12 English (Core) board exam questions, 2023–2026, organised by section and NCERT chapter."
+  },
+  {
+   "id": "geography",
+   "name": "Geography",
+   "code": "029",
+   "klass": "XII",
+   "data": "data/geography.json",
+   "description": "CBSE Class 12 Geography board exam questions, 2023–2026, organised by NCERT chapter."
   }
  ]
 }

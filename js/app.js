@@ -110,16 +110,23 @@
   function circledNum(d) {
     return d === "0" ? "⓪" : String.fromCharCode(0x2460 + (d.charCodeAt(0) - 49));
   }
+  // "\$" is an ESCAPED dollar sign -- a literal currency symbol (e.g. "US\$470
+  // billion"), not a math delimiter. Mask it before splitting on $...$ so a
+  // second currency figure later in the same text ("US\$470 billion ... US\$263
+  // billion") doesn't pair up with the first and swallow everything between as
+  // a bogus math span. DOLLAR_MASK is restored to a plain "$" in every segment.
+  var DOLLAR_MASK = "";
   function mathHTML(s, opts) {
     if (s == null) return "";
     s = String(s)
       .replace(/\$\s*\\textcircled\s*\{?(\d)\}?\s*\$/g, function (_, d) { return circledNum(d); })
-      .replace(/\\textcircled\s*\{?(\d)\}?/g, function (_, d) { return circledNum(d); });
+      .replace(/\\textcircled\s*\{?(\d)\}?/g, function (_, d) { return circledNum(d); })
+      .replace(/\\\$/g, DOLLAR_MASK);
     var parts = String(s).split(/(\$\$[\s\S]*?\$\$|\$[\s\S]*?\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\])/);
     return parts.map(function (p, i) {
-      if (i % 2 === 1) return p;           // math segment, keep raw
+      if (i % 2 === 1) return p.replace(new RegExp(DOLLAR_MASK, "g"), "$");  // math segment, keep raw
       var seg = (opts && opts.parts) ? (opts.parts === "full" ? partOptLines(p) : partLines(p)) : p;
-      return textCmds(esc(seg)).replace(/\n/g, "<br>");
+      return textCmds(esc(seg)).replace(/\n/g, "<br>").replace(new RegExp(DOLLAR_MASK, "g"), "$");
     }).join("");
   }
 
@@ -316,10 +323,11 @@
         tags += '<span class="tag diff diff-' + esc(q.difficulty.toLowerCase()) +
           '" title="Difficulty level">' + esc(q.difficulty) + "</span>";
     }
-    // Accountancy/Economics/Business Studies case-study & multi-part questions:
-    // put each part and each embedded option on its own line for readability.
+    // Accountancy/Economics/Business Studies/English case-study & multi-part
+    // questions: put each part and each embedded option on its own line for
+    // readability (English reading passages carry (i)–(x) sub-parts).
     var fp = (typeof STATE !== "undefined" && STATE.data &&
-      /^(Accountancy|Economics|Business Studies)\b/.test(STATE.data.subject || "")) ? { parts: "full" } : null;
+      /^(Accountancy|Economics|Business Studies|English)\b/.test(STATE.data.subject || "")) ? { parts: "full" } : null;
     var body =
       "<div class=\"qbody\"><p>" + mathHTML(q.text, fp) + "</p>" +
       tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after, fp) +
@@ -355,6 +363,39 @@
 
   function chapterSlug(ch) { return ch.toLowerCase().replace(/[^a-z0-9]+/g, "-"); }
 
+  /* Lazy chapter rendering. A subject page can hold ~900 question cards; building
+   * them all at once is what made subject pages slow. Chapters are filled in as
+   * they approach the viewport, and MathJax is only invoked on markup that
+   * actually contains math (Business Studies has none at all, Economics ~8%). */
+  var LAZY = { pending: {}, io: null };
+
+  function hasMath(html) { return html.indexOf("$") !== -1 || html.indexOf("\\(") !== -1; }
+
+  function fillChapter(sec) {
+    if (!sec || sec.getAttribute("data-filled")) return;
+    var slug = sec.getAttribute("data-slug");
+    var qs = LAZY.pending[slug];
+    if (!qs) return;
+    sec.setAttribute("data-filled", "1");
+    var host = sec.querySelector(".ch-host");
+    var html = qs.map(questionCard).join("");
+    host.innerHTML = html;
+    if (hasMath(html)) typeset(host);   // skip the typeset pass entirely when there is no math
+  }
+
+  function observeChapters() {
+    if (LAZY.io) { LAZY.io.disconnect(); LAZY.io = null; }
+    var secs = Array.prototype.slice.call(document.querySelectorAll(".lazy-ch"));
+    if (!secs.length) return;
+    if (!window.IntersectionObserver) { secs.forEach(fillChapter); return; }
+    LAZY.io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { fillChapter(e.target); LAZY.io.unobserve(e.target); }
+      });
+    }, { rootMargin: "600px 0px" });   // start a little before the block is on screen
+    secs.forEach(function (sec) { LAZY.io.observe(sec); });
+  }
+
   function renderList() {
     var d = STATE.data;
     var main = document.getElementById("qlist");
@@ -369,16 +410,22 @@
       var slug = chapterSlug(c.chapter);
       tocHtml += '<li><a href="#" data-slug="' + slug + '">' + esc(c.chapter) +
         '<span class="c">' + qs.length + "</span></a></li>";
-      html += '<section class="chapter-block" id="ch-' + slug + '">' +
+      // Only the chapter HEADING is rendered up front; the cards are filled in by
+      // fillChapter() when the block nears the viewport. Rendering all ~900 cards
+      // at once built a 380k-node DOM and gave MathJax ~7,900 expressions to
+      // typeset, which cost ~16s on a subject page.
+      LAZY.pending[slug] = qs;
+      html += '<section class="chapter-block lazy-ch" id="ch-' + slug + '" data-slug="' + slug + '">' +
         '<h2 class="chapter-title">' + esc(c.chapter) +
         ' <span class="n">' + qs.length + " question" + (qs.length == 1 ? "" : "s") + "</span></h2>" +
-        qs.map(questionCard).join("") + "</section>";
+        '<div class="ch-host"><div class="ch-skel">Loading ' + qs.length + ' question' +
+        (qs.length == 1 ? "" : "s") + '…</div></div></section>';
     });
     toc.innerHTML = tocHtml || '<li style="color:var(--muted);font-size:13px">No matches</li>';
     main.innerHTML = html || '<div class="empty">No questions match the current filters.</div>';
     document.getElementById("countline").textContent =
       "Showing " + shown + " of " + total + " questions";
-    typeset(main);
+    observeChapters();
     wireToc();
   }
 
@@ -388,7 +435,7 @@
       a.addEventListener("click", function (e) {
         e.preventDefault();
         var el = document.getElementById("ch-" + a.getAttribute("data-slug"));
-        if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+        if (el) { fillChapter(el); el.scrollIntoView({ behavior: "smooth", block: "start" }); }
       });
     });
     // scroll-spy
@@ -485,9 +532,12 @@
 
   /* ================= Blueprint ================= */
   var TYPE_RANK = { "MCQ": 0, "Assertion-Reason": 1, "Very Short Answer": 2,
-                    "Short Answer": 3, "Case-based": 4, "Long Answer": 5 };
+                    "Short Answer": 3, "Case-based": 4, "Long Answer": 5,
+                    // English (Core) paper shape: Reading -> Writing -> Literature extracts
+                    "Reading Comprehension": 6, "Writing": 7, "Extract-based": 8 };
   var TYPE_ABBR = { "MCQ": "MCQ", "Assertion-Reason": "A/R", "Very Short Answer": "VSA",
-                    "Short Answer": "SA", "Case-based": "Case Study", "Long Answer": "Long" };
+                    "Short Answer": "SA", "Case-based": "Case Study", "Long Answer": "Long",
+                    "Reading Comprehension": "Reading", "Writing": "Writing", "Extract-based": "Extract" };
   var PRESETS = { "Easy-leaning": [60, 35, 5], "Balanced": [20, 60, 20], "Hard-leaning": [5, 50, 45] };
   var BP = { p: "bp", subId: null, data: null, chapters: [], marks: 20, type: "trend",
              mix: { Easy: 20, Average: 60, Difficult: 20 }, slots: null, rows: null, warn: [], note: "" };
@@ -862,11 +912,14 @@
   }
   // Worksheet difficulty levels.  L1 = Easy, L2 = Average, L3 = Difficult.
   // Question-type order used on BOTH the test and the worksheet, and their marks.
-  var WS_TYPE_ORDER = ["MCQ", "Assertion-Reason", "Very Short Answer", "Short Answer", "Long Answer", "Case-based"];
+  var WS_TYPE_ORDER = ["MCQ", "Assertion-Reason", "Very Short Answer", "Short Answer", "Long Answer", "Case-based",
+                       "Reading Comprehension", "Writing", "Extract-based"];
   var WS_TYPE_LABEL = {
     "MCQ": "Multiple Choice Questions", "Assertion-Reason": "Assertion – Reason",
     "Very Short Answer": "Very Short Answer", "Short Answer": "Short Answer",
-    "Long Answer": "Long Answer", "Case-based": "Case Study"
+    "Long Answer": "Long Answer", "Case-based": "Case Study",
+    "Reading Comprehension": "Reading Comprehension", "Writing": "Creative Writing Skills",
+    "Extract-based": "Extract-based Questions"
   };
   var WS_DIFF_ORDER = ["Easy", "Average", "Difficult"];
   var TEST_MARKS = 15, MIN_PER_MARK = 2, TEST_MINUTES = TEST_MARKS * MIN_PER_MARK, TEST_MIX = { Easy: 0.30, Average: 0.40, Difficult: 0.30 };
@@ -2303,10 +2356,13 @@
   // Column order for the inventory table (paper order: objective -> written ->
   // case/source/map). Any type the bank holds that isn't listed is appended.
   var DASH_TYPE_ORDER = ["MCQ", "Assertion-Reason", "Very Short Answer", "Short Answer",
-                         "Long Answer", "Case-based", "Source-based", "Map-based"];
+                         "Long Answer", "Case-based", "Source-based", "Map-based",
+                         "Reading Comprehension", "Writing", "Extract-based"];
   var DASH_TYPE_LABEL = { "MCQ": "MCQ", "Assertion-Reason": "A-R", "Very Short Answer": "Very Short",
                           "Short Answer": "Short", "Long Answer": "Long", "Case-based": "Case study",
-                          "Source-based": "Source", "Map-based": "Map" };
+                          "Source-based": "Source", "Map-based": "Map",
+                          "Reading Comprehension": "Reading", "Writing": "Writing",
+                          "Extract-based": "Extract" };
   // Accountancy spells it "Case Study", every other subject "Case-based" — one column.
   function dashCountType(t) { return t === "Case Study" ? "Case-based" : (t || "Other"); }
 
