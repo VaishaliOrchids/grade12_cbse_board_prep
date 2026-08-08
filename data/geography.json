@@ -7,7 +7,7 @@
   2024,
   2025
  ],
- "total_questions": 433,
+ "total_questions": 507,
  "chapter_order": [
   "Human Geography: Nature and Scope",
   "The World Population: Distribution, Density and Growth",
@@ -30,7 +30,7 @@
  "chapters": [
   {
    "chapter": "Human Geography: Nature and Scope",
-   "count": 21,
+   "count": 25,
    "questions": [
     {
      "qno": 20,
@@ -387,13 +387,75 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) “Human geography is a highly interdisciplinary subject.” Analyse the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) “Human geography tries to explain the relationship of human beings with the physical environs of their occupance.” Analyse the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "20-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Examine the concept of naturalisation of humans.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Examine the humanistic approach of human geography.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "20-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "The World Population: Distribution, Density and Growth",
-   "count": 25,
+   "count": 32,
    "questions": [
     {
      "qno": 1,
@@ -845,13 +907,160 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 15,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Study the following graph carefully and answer the questions no. 15 to 17 : Demographic Transition Theory -- (graph of CBR/CDR on Y-axis 15-35 vs Time on X-axis, three stages: Stage I \\\"High Fluctuating\\\" (present-day example: Bangladesh, Rainforest tribes) -- BR and DR both ~35, flat; Stage II \\\"Expanding\\\" split into first part (present-day example: Peru) where DR falls sharply while BR stays high (shaded gap = Natural Increase in Population) and second part (present-day example: Sri Lanka, Kenya) where BR also starts falling; Stage III \\\"Low Fluctuating\\\" (present-day example: Canada, Japan, USA) -- both BR and DR converge low ~15, flat). Which one of the following stages of demographic transition theory is an indicative of primitive stage ?",
+     "options": [
+      "Stage I",
+      "First part of stage II",
+      "Second part of stage II",
+      "Stage III"
+     ],
+     "figures": [
+      "assets/figures/geo_2025_z4_q15_dtt_graph.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Note : The following questions are for the Visually Impaired Candidates only in lieu of Questions No. 15 to 17. Identify the stage of demographic transition theory characterising the primitive society from the following.",
+     "options": [
+      "Stage I",
+      "First part of stage II",
+      "Second part of stage II",
+      "Stage III"
+     ],
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "15-OR"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The highest difference between the crude birth rate and crude death rate is observed in which one of the following stages of demographic transition theory ?",
+     "options": [
+      "End of stage I",
+      "End of the first part of stage II",
+      "End of the second part of stage II",
+      "End of stage III"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Note : For Visually Impaired Candidates, in lieu of Q. No. 16 -- Identify the stage of demographic transition theory in which the highest difference in crude birth rate and crude death rate is recorded.",
+     "options": [
+      "End of stage I",
+      "End of the first part of stage II",
+      "End of the second part of stage II",
+      "End of stage III"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "16-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 17,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Net increase in population during third stage of demographic transition theory is low due to which one of the following reasons ?",
+     "options": [
+      "Low birth rate and low death rate",
+      "Low birth rate and high death rate",
+      "High birth rate and low death rate",
+      "High birth rate and high death rate"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Note : For Visually Impaired Candidates, in lieu of Q. No. 17 -- Identify the reason for low net increase in population during IIIrd stage of demographic transition theory from the following.",
+     "options": [
+      "Low birth rate and low death rate",
+      "Low birth rate and high death rate",
+      "High birth rate and low death rate",
+      "High birth rate and high death rate"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "17-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 24,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Analyse any five factors influencing the distribution of world population.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Development",
-   "count": 25,
+   "count": 30,
    "questions": [
     {
      "qno": 2,
@@ -1315,13 +1524,113 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Human Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is not a challenge of adolescent population faced by the society ?",
+     "options": [
+      "High marriage age",
+      "Drug abuse and alcoholism",
+      "Low female literacy",
+      "Dropouts from school"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Human Development",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Differentiate between growth and development by citing examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Human Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Study the following table carefully and answer the questions from 15 to 17 : Human Development Index (2021) The maximum number of countries given in the table belong to which one of the following continents ?",
+     "table": "<table><tr><th>S. No.</th><th>Country’s name</th><th>HDI Value (2021)</th></tr><tr><td>1.</td><td>Israel</td><td>0.919</td></tr><tr><td>2.</td><td>Mexico</td><td>0.758</td></tr><tr><td>3.</td><td>Switzerland</td><td>0.962</td></tr><tr><td>4.</td><td>Singapore</td><td>0.939</td></tr><tr><td>5.</td><td>Cuba</td><td>0.764</td></tr><tr><td>6.</td><td>Austria</td><td>0.916</td></tr><tr><td>7.</td><td>Germany</td><td>0.942</td></tr><tr><td>8.</td><td>Chile</td><td>0.855</td></tr></table>",
+     "options": [
+      "North America",
+      "South America",
+      "Europe",
+      "Asia"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Human Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following countries from low to high order of Human Development Index value and choose the correct option. I. Singapore II. Germany III. Mexico IV. Israel",
+     "options": [
+      "III, IV, II, I",
+      "III, IV, I, II",
+      "IV, III, I, II",
+      "IV, III, II, I"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Human Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correctly matched pair. (Countries) -- (Continents)",
+     "options": [
+      "Austria – Europe",
+      "Cuba – Africa",
+      "Chile – Asia",
+      "Mexico – South America"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Primary Activities",
-   "count": 23,
+   "count": 29,
    "questions": [
     {
      "qno": 4,
@@ -1732,13 +2041,117 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Primary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements related to ‘intensive subsistence agriculture’ other than paddy in the world carefully and choose the correct option. I. Wheat is grown in western parts of the Indo-Gangetic plains in India. II. Wheat is grown in monsoonal areas only. III. Millets are grown in dry parts of western and southern India. IV. Wheat, soyabean etc. are grown in northern China.",
+     "options": [
+      "Only I, II and IV are correct.",
+      "Only II, III and IV are correct.",
+      "Only I, III and IV are correct.",
+      "Only I, II and III are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) “Market gardening and horticulture specialise in the cultivation of high value crops.” Justify the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “High-tech industries are regionally concentrated, self-sustained and highly specialized.” Justify the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "Primary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following statements related to ‘gathering’ carefully and choose the correct option. I. Generally gathering is practised in the regions with harsh climatic conditions. II. In modern times, some gathering is market-oriented. III. Denmark is a classical example of gathering activities. IV. Gathering is practised mostly by primitive societies.",
+     "options": [
+      "I, II and IV are correct.",
+      "I, II and III are correct.",
+      "II, III and IV are correct.",
+      "I, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) “Rearing of animals in ranches is organized on the scientific basis.” Examine the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “Mixed economies have public, private and joint sector industries.” Examine the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Secondary Activities",
-   "count": 26,
+   "count": 28,
    "questions": [
     {
      "qno": 24,
@@ -2211,13 +2624,57 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Secondary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "assertion": "Foot loose industries can be located in a wide variety of places.",
+     "reason": "Location of foot loose industries is determined by transport network accessibility.",
+     "ar_options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is incorrect, but (R) is correct.",
+      "(A) is correct, but (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Secondary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "assertion": "Industries based on cheap, bulky and weight-losing material are located close to the sources of raw materials.",
+     "reason": "It is followed to reduce the cost of products.",
+     "ar_options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is incorrect, but (R) is correct.",
+      "(A) is correct, but (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Tertiary and Quaternary Activities",
-   "count": 23,
+   "count": 26,
    "questions": [
     {
      "qno": 18,
@@ -2655,13 +3112,64 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 21,
+     "chapter": "Tertiary and Quaternary Activities",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“Tertiary activities include both production and exchange.” Explain the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Tertiary and Quaternary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct statement related to ‘retail trading’.",
+     "options": [
+      "It takes place in urban centres only.",
+      "Retail traders are the collection and distribution centres.",
+      "It is concerned with the sale of goods directly to the consumers.",
+      "Retail traders primarily direct the goods to be manufactured to their specifications."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Tertiary and Quaternary Activities",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Read the given passage carefully and answer the questions that follow : There are many professionals who provide their services against payment of their fee. Thus, all types of services are special skills provided in exchange of payments. Health, education, law, governance and recreation, etc., require professional skills. These services require other theoretical knowledge and practical training. Tertiary activities are related to the service sector. Manpower is an important component of the service sector as most of the tertiary activities are performed by skilled labour, professionally trained experts and consultants. In the initial stages of economic development, larger proportion of people worked in the primary sector. In a developed economy, the majority of workers get employment in tertiary activity and a moderate proportion is employed in the secondary sector. (18.1) How can a person avail services of a professional ? (18.2) Explain any one difference between secondary and tertiary sectors. (18.3) Describe any one example of the relationship between primary and secondary sectors.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Transport and Communication: World",
-   "count": 42,
+   "count": 53,
    "questions": [
     {
      "qno": 8,
@@ -3390,13 +3898,211 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Transport and Communication: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the correct option related to transport services from the following.",
+     "options": [
+      "It comes under the quaternary sector of economic activities.",
+      "It is an organised industry which provides man’s basic needs of physical mobility.",
+      "It is concerned with digital sending and receiving of information.",
+      "Roads, railways, television and internet are some of its examples."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Transport and Communication: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following sea ports from Europe to India before the operation of Suez Canal and choose the correct option. I. Cape Town II. Mombasa III. London IV. Mumbai",
+     "options": [
+      "I, II, III, IV",
+      "I, III, II, IV",
+      "III, II, I, IV",
+      "III, I, II, IV"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Transport and Communication: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Study the map of the Rhine waterway and answer the questions that follow : (map of the Rhine Waterway from the North Sea through Duisburg, Dortmund, Cologne, Koblenz, Frankfurt, Mainz, Mannheim, Stuttgart, Strasbourg, to Freiburg near the Swiss border, running through Netherlands/Germany/France/Switzerland). (19.1) Identify both the terminal ports of the Rhine waterway. (19.2) Identify any two countries through which the Rhine waterway passes. (19.3) On the map, which river joins the Rhine waterway from the east ?",
+     "figures": [
+      "assets/figures/geo_2025_z4_q19_rhine_map.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Transport and Communication: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Note : The following questions are for the Visually Impaired Candidates only in lieu of Question No. 19. (19.1) Name both the terminal ports of the Rhine waterway. (19.2) Name any two countries through which the Rhine waterway passes. (19.3) Write the name of any one tributary which joins the Rhine waterway from the east.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Transport and Communication: World",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "On the given political outline map of the world, seven geographical features have been marked as A, B, C, D, E, F and G. Identify any five with the help of the following information and write their correct names on the lines drawn near them. A. A major sea port B. A major airport C. A terminal station of a trans-continental railway D. A major area of nomadic herding E. A major area of extensive commercial grain farming F. A major area of commercial livestock rearing G. A major area of subsistence gathering (Note : The following questions are for Visually Impaired Candidates only in lieu of Question No. 29. Answer any five : (29.1) Name any one sea port of North America. (29.2) Name any one airport of South America. (29.3) Name the terminal station at the western end of Australian Trans-Continental Railway. (29.4) Name the area of nomadic herding in the eastern part of Africa. (29.5) Name the area of extensive commercial grain farming of South Africa. (29.6) Name any one area of commercial livestock rearing of Oceania. (29.7) Name the area of subsistence gathering of Africa.)",
+     "figures": [
+      "assets/figures/geo_2025_z4_q29_map_world.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Transport and Communication: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following waterways uses the ‘Panama Canal’ ?",
+     "options": [
+      "Between Yokohama and Vancouver",
+      "Between Auckland and Honolulu",
+      "Between San Francisco and New York",
+      "Between London and Aden"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Transport and Communication: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Study the given map carefully and answer the questions that follow : (map of the Trans-Canadian Railway from Kamloops on the Pacific coast, through Calgary, Regina, Winnipeg, Cudbury, Quebec, Montreal, Ottawa to Sydney on the Atlantic coast). (19.1) Mention the names of the terminal stations of the given railway line. (19.2) Mention the names of the oceans lying in the East and West directions of this railway line. (19.3) Explain the economic importance of this railway line.",
+     "figures": [
+      "assets/figures/geo_2025_z5_q19_transcanada_map.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Transport and Communication: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Note : The following question is for the Visually Impaired Candidates only in lieu of Question No. 19. Describe any three characteristics of Trans-Canadian Railways.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Transport and Communication: World",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) How does personal communication system enable the user to establish direct contact with the world of knowledge and information ? Analyse.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Transport and Communication: World",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Analyse the changing pattern of imports in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "Transport and Communication: World",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "On the given political outline map of the world, seven geographical features have been marked as A, B, C, D, E, F and G. Identify any five with the help of the following information and write their correct names on the lines drawn near them : A. An area of nomadic herding B. A major sea port C. An area of extensive commercial grain farming D. A major airport E. An inland waterway F. A major airport G. A terminal station of a trans-continental railway (Note : The following questions are for Visually Impaired Candidates only in lieu of Question No. 29. Answer any five : (29.1) Name the area of nomadic herding in Southern Africa. (29.2) Name a major sea port located in South-eastern part of Australia. (29.3) Name an area of extensive commercial grain farming of South America. (29.4) Name a major airport in Mexico. (29.5) Name the inland waterway of Egypt. (29.6) Name the major international airport of Japan. (29.7) Name the terminal station of the western end of Trans-Siberian Railway.)",
+     "figures": [
+      "assets/figures/geo_2025_z5_q29_map_world.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "International Trade: World",
-   "count": 23,
+   "count": 28,
    "questions": [
     {
      "qno": 26,
@@ -3816,13 +4522,107 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "International Trade: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correctly matched pair of sea ports and their examples.",
+     "options": [
+      "Out Ports – Duisburg",
+      "Ports of Call – Piraeus",
+      "Oil Ports – Tripoli",
+      "Naval Ports – Kolkata"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "International Trade: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Read the given passage carefully and answer the questions that follow : In agriculturally important countries, agro products are exchanged for manufactured goods, whereas industrialised nations export machinery and finished products and import food grains and other raw materials. Foreign investment can boost trade in developing countries which lack in capital required for the development of mining, oil drilling, heavy engineering, lumbering and plantation agriculture. By developing such capital intensive industries in developing countries, the industrial nations ensure import of food stuffs, minerals and create markets for their finished products. This entire cycle steps up the volume of trade between nations. (18.1) What types of items are exported by the industrialised nations ? (18.2) Mention the way by which trade could be boosted in developing countries. (18.3) Finished products of industrialised nations find the market in which types of countries ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "International Trade: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The ports specialised in bulk cargo are called :",
+     "options": [
+      "Inland Ports",
+      "Industrial Ports",
+      "Out Ports",
+      "Comprehensive Ports"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "International Trade: World",
+     "type": "MCQ",
+     "marks": 1,
+     "assertion": "International trade is mutually beneficial to nations.",
+     "reason": "It helps in getting the needed items from other countries.",
+     "ar_options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is correct, but (R) is incorrect.",
+      "(A) is incorrect, but (R) is correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "International Trade: World",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain the importance of international trade in modern times.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Population: Distribution, Density, Growth and Composition",
-   "count": 34,
+   "count": 41,
    "questions": [
     {
      "qno": 3,
@@ -4434,13 +5234,149 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the characteristics of ‘Phase-I’ of population growth in India and choose the correct option. I. Stagnant phase of population growth II. Low or negative net growth of population III. Rapid fall in the mortality rate IV. Poor health and medical services",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only II, III and IV are correct.",
+      "Only I, II and IV are correct.",
+      "Only I, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is incorrectly matched ? List-I (Term) -- List-II (Meaning)",
+     "options": [
+      "Physiological density – Total population / Net cultivated area",
+      "Agricultural density – Total agricultural population / Net cultivable area",
+      "Population density – Total population / Total area",
+      "Marginal worker – Total population / Total working population"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“A very large proportion of workers are engaged in other services in highly urbanized areas.” With reference to the given statement choose the correct option. I. Large scale urbanisation and industrialisation require more workers. II. Historically, it is a sectoral shift in the economy of the country. III. Percentage of female workers is relatively high in secondary sector. IV. It is a shift of workers from farm-based to non-farm-based occupations.",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only II, III and IV are correct.",
+      "Only I, III and IV are correct.",
+      "Only I, II and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is the characteristic of ‘Phase-III’ of population growth in India ?",
+     "options": [
+      "High female literacy and declining population",
+      "Improvisation in medical facilities and living conditions",
+      "Great Economic Depression and effects of World War II",
+      "Low population growth and low net increase"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following factors of population migration in India from rural to urban areas carefully and choose the correct option of push factors. I. Unemployment II. Job opportunities III. Economic backwardness IV. Lack of medical facilities",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only I, II and IV are correct.",
+      "Only II, III and IV are correct.",
+      "Only I, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) “Spatial variation in population density is found in India.” Explain the statement with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “Population distribution pattern in India is highly uneven.” Explain the statement with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Settlements",
-   "count": 36,
+   "count": 37,
    "questions": [
     {
      "qno": 19,
@@ -5114,13 +6050,34 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Human Settlements",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Study the following table carefully and answer the questions that follow : India – Trends of Urbanisation",
+     "table": "<table><tr><th>Year</th><th>Number of Towns/UAs</th><th>Urban Population (in Thousands)</th><th>% of Total Population</th><th>Decennial Growth (%)</th></tr><tr><td>1931</td><td>2,072</td><td>33,456.0</td><td>11.99</td><td>19.12</td></tr><tr><td>1941</td><td>2,250</td><td>44,153.3</td><td>13.86</td><td>31.97</td></tr><tr><td>1951</td><td>2,843</td><td>62,443.7</td><td>17.29</td><td>41.42</td></tr><tr><td>1961</td><td>2,365</td><td>78,936.6</td><td>17.97</td><td>26.41</td></tr><tr><td>1971</td><td>2,590</td><td>1,09,114</td><td>19.91</td><td>38.23</td></tr><tr><td>1981</td><td>3,378</td><td>1,59,463</td><td>23.34</td><td>46.14</td></tr><tr><td>1991</td><td>4,689</td><td>2,17,611</td><td>25.71</td><td>36.47</td></tr><tr><td>2001</td><td>5,161</td><td>2,85,355</td><td>27.78</td><td>31.13</td></tr></table> (23.1) In which decade is the maximum increase in number of towns/UAs observed ? (23.2) Describe the trend of urbanisation in India. (23.3) The lowest increase in the percentage of total urban population is recorded in which decade ?",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 23
+      },
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Land Resources and Agriculture",
-   "count": 30,
+   "count": 36,
    "questions": [
     {
      "qno": 12,
@@ -5705,13 +6662,122 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Land Resources and Agriculture",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following features and identify the crop. It is a tropical plantation crop and has three varieties. Karnataka alone accounts for more than two-third of its total production of India. It is grown in the highlands of Western Ghats in Karnataka and Kerala.",
+     "options": [
+      "Sugarcane",
+      "Tea",
+      "Coffee",
+      "Cotton"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Land Resources and Agriculture",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "On the given political outline map of India, locate and label any five of the following seven geographical features with appropriate symbols : (30.1) The state leading in the production of wheat (30.2) An oil refinery in Bihar (30.3) A major sea port of Andhra Pradesh (30.4) Important coal mines located in West Bengal (30.5) Important iron ore mines located in Odisha (30.6) Important manganese mines located in Karnataka (30.7) An important international airport in Punjab (Note : The following questions are for Visually Impaired Candidates only in lieu of Question No. 30. Answer any five : (30.1) Name the state leading in wheat production. (30.2) Name the place of the oil refinery located in Bihar. (30.3) Name the place where a major sea port is located in Andhra Pradesh. (30.4) Name the place where important coal mines are located in West Bengal. (30.5) Name the place where important iron ore mines are located in Odisha. (30.6) Name the place where important manganese mines are located in Karnataka. (30.7) Name the place where an international airport is located in Punjab.)",
+     "figures": [
+      "assets/figures/geo_2025_z4_q30_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Land Resources and Agriculture",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“The pressure on agricultural land increases not only due to the limited availability, but also by deterioration of quality of agricultural land.” In the context of this statement read the following reasons carefully and choose the correct option. I. Soil erosion and waterlogging. II. Salinisation and alkalinisation of soil. III. Rich land fertility and multiple cropping. IV. Decline in land productivity.",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only I, II and IV are correct.",
+      "Only I, III and IV are correct.",
+      "Only II, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Land Resources and Agriculture",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Define the concept of ‘Common Property Resource’. Explain any four characteristics of common property resources in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Land Resources and Agriculture",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Distinguish between ‘irrigated’ and ‘rainfed agriculture’ in India with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 30,
+     "chapter": "Land Resources and Agriculture",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "On the given political outline map of India, locate and label any five of the following seven geographical features with appropriate symbols : (30.1) The state leading in the production of rice (30.2) An oil refinery in Uttar Pradesh (30.3) The sea port situated at the head of Vembanad Kayal (30.4) Important bauxite mines located in southern Odisha (30.5) The international airport in Assam (30.6) Important iron ore mines located in southern Chhattisgarh (30.7) Important copper mines located in southern Rajasthan (Note : The following questions are for Visually Impaired Candidates only in lieu of Question No. 30. Answer any five : (30.1) Name the state leading in the production of rice. (30.2) Name the place where an oil refinery is located in Uttar Pradesh. (30.3) Name the sea port situated at the head of Vembanad Kayal. (30.4) Name the place where important bauxite mines are located in southern Odisha. (30.5) Name the international airport in Assam. (30.6) Name the place where important iron ore mines are located in southern Chhattisgarh. (30.7) Name the place where important copper mines are located in southern Rajasthan.)",
+     "figures": [
+      "assets/figures/geo_2025_z5_q30_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Water Resources",
-   "count": 19,
+   "count": 23,
    "questions": [
     {
      "qno": 15,
@@ -6072,13 +7138,86 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Water Resources",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) “India’s water demand is highly dominated by irrigational needs.” Evaluate the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Water Resources",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “In India, water resources are getting polluted with industrial effluents, domestic waste and insecticides used in agriculture.” Evaluate the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 7,
+     "chapter": "Water Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct group of states utilizing their groundwater resource moderately.",
+     "options": [
+      "Uttar Pradesh, Haryana, Rajasthan",
+      "Chhattisgarh, Kerala, Punjab",
+      "Gujarat, Uttar Pradesh, Bihar",
+      "Haryana, Himachal Pradesh, Uttarakhand"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Water Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose an objective of the ‘Namami Gange Programme’ from the following :",
+     "options": [
+      "To monitor industrial effluents",
+      "To develop the network of canals",
+      "To construct dams for water management",
+      "To develop ‘Ganga Grams’ in Assam"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Mineral and Energy Resources",
-   "count": 20,
+   "count": 24,
    "questions": [
     {
      "qno": 23,
@@ -6417,6 +7556,78 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Mineral and Energy Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct option of group of states of iron ore reserves from high to low.",
+     "options": [
+      "Odisha, Jharkhand, Chhattisgarh",
+      "Maharashtra, Jharkhand, Andhra Pradesh",
+      "Odisha, Tamil Nadu, Telangana",
+      "Chhattisgarh, Karnataka, Madhya Pradesh"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Mineral and Energy Resources",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Distinguish between metallic and non-metallic minerals with example.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Mineral and Energy Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following states from the highest to the lowest order according to their production of Bauxite and choose the correct option. I. Odisha II. Gujarat III. Chhattisgarh IV. Madhya Pradesh",
+     "options": [
+      "III, II, I, IV",
+      "IV, I, III, II",
+      "I, II, III, IV",
+      "III, IV, II, I"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Mineral and Energy Resources",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Why does ‘solar thermal energy’ have greater advantage over ‘non-renewable energy’ in India ? Explain.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -6699,7 +7910,7 @@
   },
   {
    "chapter": "Transport and Communication: India",
-   "count": 41,
+   "count": 44,
    "questions": [
     {
      "qno": 13,
@@ -7502,13 +8713,77 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Transport and Communication: India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The objective of Border Roads Organisation is :",
+     "options": [
+      "To construct roads in moderately elevated plateau areas.",
+      "To construct roads in high altitude mountainous terrains.",
+      "To construct roads in low lying plain areas.",
+      "To construct roads in coastal areas for linking ports."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Transport and Communication: India",
+     "type": "MCQ",
+     "marks": 1,
+     "assertion": "The significance of Kolkata sea port has declined in the recent times.",
+     "reason": "Kolkata port is confronted with the problem of silt accumulation in the Hugli river.",
+     "ar_options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is incorrect, but (R) is correct.",
+      "(A) is correct, but (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Transport and Communication: India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The world’s longest highway tunnel, Atal Tunnel is constructed across which one of the following ranges of the Himalayas ?",
+     "options": [
+      "Pir Panjal",
+      "Karakoram",
+      "Zaskar",
+      "Ladakh"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "International Trade: India",
-   "count": 11,
+   "count": 13,
    "questions": [
     {
      "qno": 14,
@@ -7712,13 +8987,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "International Trade: India",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) “In India, sea ports have emerged as gateways of international trade.” Substantiate the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "International Trade: India",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “Satellites are mode of communication in themselves as well as they regulate the use of other means of communication.” Substantiate the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Geographical Perspective on Selected Issues and Problems",
-   "count": 19,
+   "count": 23,
    "questions": [
     {
      "qno": 18,
@@ -8080,6 +9386,79 @@
        "year": 2025,
        "set": "64/2/1",
        "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Evaluate the impact of urban waste disposal problem and suggest any two measures to overcome it.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Suggest any five measures to solve the problem of land degradation in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 10,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is the main polluter of Yamuna water in Delhi ?",
+     "options": [
+      "Flood water spreading",
+      "Dumping of domestic waste",
+      "Use of pesticides",
+      "Use of fertilizers"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the correct set of water-borne diseases.",
+     "options": [
+      "Asthma, Headache and Diarrhoea",
+      "Hepatitis, Asthma and Blood pressure",
+      "Intestinal worms, Headache and Blood pressure",
+      "Hepatitis, Diarrhoea and Intestinal worms"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": 11
       }
      ],
      "topic": "General"
