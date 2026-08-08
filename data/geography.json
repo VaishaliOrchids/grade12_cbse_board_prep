@@ -7,7 +7,7 @@
   2024,
   2025
  ],
- "total_questions": 507,
+ "total_questions": 544,
  "chapter_order": [
   "Human Geography: Nature and Scope",
   "The World Population: Distribution, Density and Growth",
@@ -30,7 +30,7 @@
  "chapters": [
   {
    "chapter": "Human Geography: Nature and Scope",
-   "count": 25,
+   "count": 28,
    "questions": [
     {
      "qno": 20,
@@ -449,13 +449,76 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 15,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the passage carefully and answer the questions no. 15 to 17. Relation Between Humans and their Physical Environment -- You are already aware of the fact that the core concern of geography as a discipline is to understand the earth as home of human beings and to study all those elements, which have sustained them. Thus, emphasis is on study of nature and human beings. You will realise that geography got subjected to dualism and the wide-ranging debates started whether geography as a discipline should be a law making/theorising (nomothetic) or descriptive (idiographic). Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create but it is very important ‘with the help of what tools and techniques do they produce and create’. Technology indicates the level of cultural development of society. Human beings were able to develop technology after they developed better understanding of natural laws. To understand the earth surface in geography, which one of the following is inseparable ?",
+     "options": [
+      "Regional and Systematic",
+      "Nature and Human",
+      "Determinism and Possibilism",
+      "Possibilism and Neo-determinism"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The core concern of geography as a discipline is which one of the following ? Choose the most appropriate option.",
+     "options": [
+      "Earth as home of human beings",
+      "Earth as home of plant kingdom",
+      "Earth as home of animal world",
+      "Earth as home of landforms"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Human Geography: Nature and Scope",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following helped human beings to develop high order of technology ? Choose the most appropriate option.",
+     "options": [
+      "Invention of fire",
+      "Invention of wheel",
+      "Better understanding of natural laws",
+      "Better interaction with nature by advanced technology"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "The World Population: Distribution, Density and Growth",
-   "count": 32,
+   "count": 35,
    "questions": [
     {
      "qno": 1,
@@ -1054,13 +1117,68 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "“The number of people would increase faster than the food supply.” This concept was given by which one of the following ?",
+     "options": [
+      "Griffith Taylor",
+      "Brundtland",
+      "Thomas Malthus",
+      "Walter Burley Griffin"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Study the following graph carefully and answer the questions that follow : Demographic Transition Theory -- (graph of CBR/CDR on Y-axis 15-35 vs Time on X-axis, three stages: Stage I \\\"High Fluctuating\\\" (present-day example: Bangladesh, Rainforest tribes) -- BR and DR both ~35, flat; Stage II \\\"Expanding\\\" (present-day examples: Peru, then Sri Lanka, Kenya) where DR falls sharply while BR stays high then also falls (shaded gap = Natural Increase in Population); Stage III \\\"Low Fluctuating\\\" (present-day examples: Canada, Japan, USA) -- both BR and DR converge low ~15, flat). (22.1) Explain the reason of high net population increase in stage II of demographic transition theory. (22.2) Differentiate between stage I and III of demographic transition theory. (22.3) Describe the socio-economic conditions of countries under stage III of demographic transition theory.",
+     "figures": [
+      "assets/figures/geo_2025_z6_q22_dtt_graph.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "The World Population: Distribution, Density and Growth",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Note : The following question is for the Visually Impaired Candidates only in lieu of Question No. 22. Explain the main characteristics of demographic transition theory.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Development",
-   "count": 30,
+   "count": 32,
    "questions": [
     {
      "qno": 2,
@@ -1624,13 +1742,49 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Human Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following considered an increase in freedom of the people as the main objective of human development ?",
+     "options": [
+      "Mahbub-ul-Haq",
+      "Ehrlich",
+      "Amartya Sen",
+      "Meadows"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Human Development",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Read the given passage carefully and answer the questions that follow : Human Development -- Access to resources, health and education are the key areas in human development. Suitable indicators have been developed to measure each of these aspects. Very often, people do not have the capability and freedom to make even basic choices. This may be due to their inability to acquire knowledge, their material poverty, social discrimination, inefficiency of institutions and other reasons. This prevents them from leading healthy lives, being able to get educated or to have the means to live a decent life. Building people’s capabilities in the areas of health, education and access to resources is therefore, important in enlarging their choices. If people do not have capabilities in these areas, their choices also get limited. For example, an uneducated child cannot make the choice to be a doctor because her choice has got limited by her lack of education. Similarly, very often poor people cannot choose to take medical treatment for disease because their choice is limited by their lack of resources. (18.1) Name any two areas of human development. (18.2) Mention any two reasons which lead to lack of capability and freedom to make even basic choices. (18.3) Explain the condition in which the choices of people are restricted.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Primary Activities",
-   "count": 29,
+   "count": 31,
    "questions": [
     {
      "qno": 4,
@@ -2145,13 +2299,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Analyse the main features of plantation agriculture in the world.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Analyse the main features of nomadic herding in the world.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "25-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Secondary Activities",
-   "count": 28,
+   "count": 30,
    "questions": [
     {
      "qno": 24,
@@ -2668,13 +2853,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Secondary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) “Industries maximise profits by reducing costs.” Explain the statement with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Secondary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Explain the classification of industries on the basis of raw materials with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "26-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Tertiary and Quaternary Activities",
-   "count": 26,
+   "count": 29,
    "questions": [
     {
      "qno": 18,
@@ -3163,13 +3379,76 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Tertiary and Quaternary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Consumption of information-based services come under which one of the following sectors ?",
+     "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Tertiary and Quaternary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following characteristics of tertiary activities carefully and choose the correct option. I. It is involved in processing of physical raw materials. II. It is an output of services. III. Many of the services are highly specialised. IV. Electrician, doctor, lawyer, driver are some of its examples.",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only I, III and IV are correct.",
+      "Only I, II and IV are correct.",
+      "Only II, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Tertiary and Quaternary Activities",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following characteristics of workforce carefully, where work is performed through outsourcing and choose the correct option. I. Availability of cheap and skilled workers II. Good English language skill of involved workforce III. Highly-skilled well-paid professionals IV. Facility of customer support and call centre services",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only I, II and IV are correct.",
+      "Only I, III and IV are correct.",
+      "Only II, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Transport and Communication: World",
-   "count": 53,
+   "count": 56,
    "questions": [
     {
      "qno": 8,
@@ -4096,13 +4375,65 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Transport and Communication: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Study the given map carefully and answer the questions that follow : (map of the Rhine Waterway from (A) at the North Sea in the Netherlands, through Duisburg, Dortmund, Cologne, Koblenz, Frankfurt, Mainz, Mannheim, Stuttgart, Strasbourg, Freiburg, to (B) near Basel on the Swiss border, running through Belgium/Germany/France; the Mosel River joins from the west and the Main and Neckar Rivers from the east). (19.1) Name the waterway given in the map. (19.2) Name the ports marked (A) and (B) on the given map. (19.3) Explain the economic significance of the river as an inland waterway.",
+     "figures": [
+      "assets/figures/geo_2025_z6_q19_rhine_map.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Transport and Communication: World",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Note : The following question is for the Visually Impaired Candidates only in lieu of Question No. 19. Explain the economic significance of waterways in the world.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Transport and Communication: World",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "On the given political outline map of the world, seven geographical features have been marked as A, B, C, D, E, F and G. Identify any five with the help of the following information and write their correct names on the lines drawn near them : A. An area of extensive commercial grain farming B. An area of subsistence gathering C. A major sea port D. A major airport E. A major sea port F. A major area of nomadic herding G. An inland waterway (Note : The following questions are for Visually Impaired Candidates only in lieu of Question No. 29. Answer any five : (29.1) Name an area of extensive commercial grain farming in North America. (29.2) Name a major area of subsistence gathering in Africa. (29.3) Write the name of a major sea port in northern Europe. (29.4) Name a major airport in the southern part of North America. (29.5) Name a major sea port of South Africa. (29.6) Name a major area of nomadic herding of northern Asia. (29.7) Write the name of an inland waterway of Egypt.)",
+     "figures": [
+      "assets/figures/geo_2025_z6_q29_map_world.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "International Trade: World",
-   "count": 28,
+   "count": 31,
    "questions": [
     {
      "qno": 26,
@@ -4616,13 +4947,76 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "International Trade: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match Column-I with Column-II and choose the correct option. Column-I (Basis of International Trade) -- a. Geological structure b. Mineral resources c. Climate d. Cultural factors; Column-II (Feature) -- i. It determines the biotic life. ii. It determines the mineral resource base. iii. It provides the base for industrial development. iv. The development of crafts and skills is determined by it.",
+     "options": [
+      "a – ii, b – iii, c – i, d – iv",
+      "a – ii, b – iii, c – iv, d – i",
+      "a – iii, b – ii, c – iv, d – i",
+      "a – iii, b – ii, c – i, d – iv"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "International Trade: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is the disadvantage of ‘free trade’ for developing countries ?",
+     "options": [
+      "Goods exchanging",
+      "Goods dumping",
+      "Goods purchasing",
+      "Goods selling"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "International Trade: World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct option from the following related to World Trade Organisation (WTO).",
+     "options": [
+      "The General Agreement on Tariffs and Trade (GATT) was its predecessor",
+      "149 countries were its members as of 2016",
+      "India became its member in 1984",
+      "Its headquarters is located in New York"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Population: Distribution, Density, Growth and Composition",
-   "count": 41,
+   "count": 43,
    "questions": [
     {
      "qno": 3,
@@ -5370,13 +5764,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Analyse the regional variation in population growth in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Analyse any five factors responsible for uneven population distribution in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Human Settlements",
-   "count": 37,
+   "count": 41,
    "questions": [
     {
      "qno": 19,
@@ -6071,13 +6496,98 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Human Settlements",
+     "type": "MCQ",
+     "marks": 1,
+     "assertion": "Lack of basic necessities such as housing, health and drinking water, etc. are found in slum settlements.",
+     "reason": "The Government of India launched the ‘Swachh Bharat Mission’ to improve the quality of life in urban slums.",
+     "ar_options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is correct, but (R) is incorrect.",
+      "(A) is incorrect, but (R) is correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Human Settlements",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following towns of India from the oldest to the newest on the basis of their evolution and choose the correct option. I. Lucknow II. Varanasi III. Bhilai IV. Jamshedpur",
+     "options": [
+      "I, IV, III, II",
+      "I, IV, II, III",
+      "II, I, IV, III",
+      "II, I, III, IV"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Human Settlements",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is an industrial town in India ?",
+     "options": [
+      "Salem",
+      "Chandigarh",
+      "Nainital",
+      "Shillong"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Human Settlements",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correctly matched pair. (Town) -- (Example)",
+     "options": [
+      "Mining – Singrauli",
+      "Garrison – Kandla",
+      "Transport – Modinagar",
+      "Administrative – Pilani"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Land Resources and Agriculture",
-   "count": 36,
+   "count": 38,
    "questions": [
     {
      "qno": 12,
@@ -6771,13 +7281,49 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Land Resources and Agriculture",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The successful implementation of watershed management programme in Jhabua district of Madhya Pradesh was funded by which one of the following ?",
+     "options": [
+      "Non-Governmental Organisation",
+      "Jhabua District Administration",
+      "Madhya Pradesh Government",
+      "Central Government"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Land Resources and Agriculture",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Explain any five problems faced by the agricultural sector in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Water Resources",
-   "count": 23,
+   "count": 25,
    "questions": [
     {
      "qno": 15,
@@ -7211,13 +7757,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Water Resources",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Explain the main objectives of ‘Jal Kranti Abhiyan’ in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Water Resources",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Explain the different methods of rainwater harvesting in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Mineral and Energy Resources",
-   "count": 24,
+   "count": 25,
    "questions": [
     {
      "qno": 23,
@@ -7628,6 +8205,24 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Mineral and Energy Resources",
+     "type": "Map-based",
+     "marks": 5,
+     "text": "On the given political outline map of India, locate and label any five of the following seven geographical features with appropriate symbols : (30.1) The state leading in the production of cotton (30.2) Iron ore mines located in southern part of Chhattisgarh (30.3) Copper mines located in northern part of Jharkhand (30.4) A major sea port of Goa (30.5) An international airport in Gujarat (30.6) A sea port built to relieve the pressure of Kolkata sea port (30.7) The state leading in the production of tea (Note : The following questions are for Visually Impaired Candidates only in lieu of Question No. 30. Answer any five : (30.1) Name the state leading in the production of cotton. (30.2) Name the place where iron ore mines are located in southern part of Chhattisgarh. (30.3) Name the place where copper mines are located in northern part of Jharkhand. (30.4) Write the name of the place where a major sea port is located in Goa. (30.5) Name the place where an international airport is located in Gujarat. (30.6) Write the name of a sea port built to relieve the pressure of Kolkata sea port. (30.7) Name the state leading in tea production.)",
+     "figures": [
+      "assets/figures/geo_2025_z6_q30_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
@@ -7910,7 +8505,7 @@
   },
   {
    "chapter": "Transport and Communication: India",
-   "count": 44,
+   "count": 46,
    "questions": [
     {
      "qno": 13,
@@ -8777,13 +9372,49 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Transport and Communication: India",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following plan was introduced to improve the conditions of roads in India ?",
+     "options": [
+      "Nagpur Plan",
+      "Golden Quadrilateral Plan",
+      "North-South Corridor Plan",
+      "Twenty-Year Road Plan"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Transport and Communication: India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain the main features of the ‘Bharatmala Project’ for road connectivity.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "International Trade: India",
-   "count": 13,
+   "count": 15,
    "questions": [
     {
      "qno": 14,
@@ -9018,13 +9649,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "International Trade: India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) Explain the main characteristics of Kolkata sea port and its hinterland.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "International Trade: India",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the main characteristics of Mumbai sea port and its hinterland.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Geographical Perspective on Selected Issues and Problems",
-   "count": 23,
+   "count": 24,
    "questions": [
     {
      "qno": 18,
@@ -9459,6 +10121,21 @@
        "year": 2025,
        "set": "64/5/1",
        "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Suggest the measures to overcome the problem of water pollution in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 20
       }
      ],
      "topic": "General"
