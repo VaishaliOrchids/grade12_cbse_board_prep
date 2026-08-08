@@ -193,6 +193,7 @@
         toolCard("03", "Worksheet", "#/worksheet", "tc-amber") +
         toolCard("04", "Question Paper", "#/paper", "tc-violet") +
         toolCard("05", "Exam Worksheet", "#/exam", "tc-rose") +
+        toolCard("06", "Quality Check", "#/quality", "tc-indigo") +
       "</div></div>";
   }
 
@@ -543,6 +544,7 @@
              mix: { Easy: 20, Average: 60, Difficult: 20 }, slots: null, rows: null, warn: [], note: "" };
   var WS = { p: "ws", subId: null, data: null, chapters: [], school: "intl", sets: null, seed: 0 };
   var PP = { subId: null, data: null, chapters: [] };   // Question Paper builder
+  var QC = { subId: null, data: null, marks: 40, mix: { Easy: 0, Average: 40, Difficult: 60 }, set: null };  // Quality Check
   var _subCache = {};
 
   function getSubjectDataCached(s) {
@@ -646,7 +648,12 @@
 
   // Fill each slot with a real question, delivering as much of the target
   // difficulty mix as the bank actually supports for the chosen chapters.
-  function fillSlots(st, slots, mixPct) {
+  // `allowed` (optional array of difficulty names) HARD-restricts which
+  // difficulties may ever be drawn — e.g. Quality Check passes
+  // ["Average","Difficult"] so an Easy question can never leak in as a
+  // fallback; a slot with none of the allowed difficulties in its own
+  // chapter/type/marks bucket stays an honest placeholder instead.
+  function fillSlots(st, slots, mixPct, allowed) {
     var N = slots.length, warn = [];
     var sum = (mixPct.Easy + mixPct.Average + mixPct.Difficult) || 1;   // normalise to proportions
     var mix = { Easy: mixPct.Easy / sum, Average: mixPct.Average / sum, Difficult: mixPct.Difficult / sum };
@@ -660,7 +667,7 @@
     function bucketDiffs(chapter, bk) {
       // ONLY this chapter's own pool — never borrow difficulty info from other chapters.
       var arr = (avail[chapter] && avail[chapter][bk]) || [], s = {};
-      arr.forEach(function (q) { s[q.difficulty] = 1; });
+      arr.forEach(function (q) { if (!allowed || allowed.indexOf(q.difficulty) !== -1) s[q.difficulty] = 1; });
       return s;
     }
     function take(chapter, bk, diff) {
@@ -671,7 +678,8 @@
       for (i = 0; i < arr.length; i++) if (arr[i].difficulty === diff) return arr.splice(i, 1)[0];
       return null;
     }
-    var PREF = ["Difficult", "Average", "Easy"];
+    var PREF_ALL = ["Difficult", "Average", "Easy"];
+    var PREF = allowed ? PREF_ALL.filter(function (d) { return allowed.indexOf(d) !== -1; }) : PREF_ALL;
     // process higher-mark slots first so scarce Hard questions land on bigger questions
     var order = slots.map(function (s, k) { return k; }).sort(function (a, b) { return slots[b].marks - slots[a].marks; });
     var filled = new Array(N);
@@ -680,8 +688,8 @@
       var cand = PREF.filter(function (d) { return ad[d]; });
       var chosen = null, best = -1e9;
       cand.forEach(function (d) { if (budget[d] > best) { best = budget[d]; chosen = d; } });
-      if (chosen === null) chosen = "Average";
-      var q = take(s.chapter, bk, chosen) || take(s.chapter, bk, cand[0] || "Average");
+      if (chosen === null) chosen = PREF[1] || PREF[0] || "Average";
+      var q = take(s.chapter, bk, chosen) || (cand[0] && take(s.chapter, bk, cand[0]));
       if (q) { budget[q.difficulty]--; deliv[q.difficulty]++; }
       filled[k] = { chapter: s.chapter, type: s.type, marks: s.marks,
         topic: q ? q.topic : "—", bloom: q ? q.bloom : "—",
@@ -2705,6 +2713,140 @@
     return p ? p.name : "Exam";
   }
 
+  /* ================= Quality Check =================
+   * One 40-mark paper per subject, built ONLY from Average/Difficult-tagged
+   * questions (target 60% Difficult / 40% Average). Reuses the generic
+   * blueprint engine (bpStats + genPattern + fillSlots): genPattern scales the
+   * full board paper's own type/mark pattern down to 40 marks and splits each
+   * type-band across chapters by that chapter's own historical frequency —
+   * i.e. the same board weightage the Dashboard tab shows — so heavier
+   * chapters keep a proportionally larger share of the 40 marks. fillSlots
+   * then fills each slot with a real board question of the requested
+   * difficulty where the bank has one, leaving an honest "Not enough
+   * questions" placeholder where it doesn't (never borrowing across chapters).
+   */
+  var QC_LIVE = { mathematics: 1, physics: 1, chemistry: 1, biology: 1,
+                  accountancy: 1, economics: 1, "business-studies": 1 };
+  function qcSubjects(subs) { return subs.filter(function (s) { return !!QC_LIVE[s.id]; }); }
+
+  function qcBuildSet(data) {
+    var stats = bpStats(data);
+    var chapters = data.chapters.map(function (c) { return c.chapter; });
+    var slots = genPattern(stats, chapters, QC.marks);
+    var res = fillSlots(stats, slots, QC.mix, ["Average", "Difficult"]);
+    var marks = 0, mins = 0, withAns = 0, chapSet = {};
+    res.rows.forEach(function (r) {
+      marks += r.marks;
+      mins += EXAM_TIME[r.marks] || r.marks * 2;
+      chapSet[r.chapter] = 1;
+      var a = r.q && r.q.answer;
+      if (a && (a.text || a.opt || (a.table && (a.table.length === undefined || a.table.length)) || (a.figures && a.figures.length))) withAns++;
+    });
+    return { rows: res.rows, warn: res.warn, deliv: res.deliv, target: res.target,
+             marks: marks, mins: Math.round(mins), withAns: withAns, chapters: Object.keys(chapSet).length };
+  }
+
+  function qcRowHTML(r) {
+    if (r.q) return paperRow(r.q, r.no, {});
+    return '<div class="ws-q"><div class="ws-qn">' + r.no + '.</div>' +
+      '<div class="ws-qc"><div class="qbody"><p class="bp-empty-note">Not enough ' + esc(r.difficulty) +
+      "-tagged questions in " + esc(r.chapter) + " for this " + r.marks + "-mark " + esc(r.type) +
+      " slot — choose your own.</p></div></div>" +
+      '<div class="ws-qmeta"><span class="ws-qm">[' + r.marks + "]</span></div></div>";
+  }
+  function qcRowsHTML(set) { return set.rows.map(qcRowHTML).join(""); }
+
+  function qcSheetHTML(st, set, school, id) {
+    var meta = '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>";
+    var instr = '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div>';
+    return wsSheetShell(id, brandInner(school), "Quality Check Paper", esc(st.data.subject),
+      "Average & Difficult questions only", meta, instr, qcRowsHTML(set));
+  }
+
+  function renderQuality() {
+    crumbs.innerHTML = '<a href="#/">Home</a> › Quality Check';
+    document.title = "Quality Check — CBSE Class 12";
+    getSubjectsIndex().then(function (subs) {
+      var live = qcSubjects(subs);
+      if (!live.filter(function (s) { return s.id === QC.subId; }).length && live.length) QC.subId = live[0].id;
+      var tabs = subs.map(function (s) {
+        var isLive = !!QC_LIVE[s.id], on = s.id === QC.subId && isLive;
+        return '<button class="dash-tab' + (on ? " on" : "") + (isLive ? "" : " soon") + '"' +
+          (isLive ? ' data-qcsub="' + esc(s.id) + '"' : " disabled") + ">" + esc(s.name) +
+          (isLive ? "" : '<span class="dash-soon">soon</span>') + "</button>";
+      }).join("");
+
+      app.innerHTML =
+        '<section class="hero wrap"><h1>Quality Check</h1>' +
+        "<p>A 40-mark paper built only from questions tagged <b>Average</b> or <b>Difficult</b> — targeted at " +
+        "60% Difficult / 40% Average — with each chapter&rsquo;s share of the 40 marks scaled down from its own " +
+        "board weightage (the same weightage the Dashboard shows). Print-ready for both schools.</p></section>" +
+        '<div class="wrap"><div class="pp-panel"><div class="pp-step"><span class="pp-stepn">1</span>Subject</div>' +
+        '<div class="dash-tabs">' + tabs + "</div></div>" +
+        '<div id="qc-result"></div></div>';
+
+      Array.prototype.forEach.call(document.querySelectorAll(".dash-tab[data-qcsub]"), function (b) {
+        b.addEventListener("click", function () {
+          QC.subId = b.getAttribute("data-qcsub"); QC.set = null; renderQuality();
+        });
+      });
+
+      var sub = subs.filter(function (s) { return s.id === QC.subId; })[0];
+      if (!sub) return;
+      getSubjectDataCached(sub).then(function (data) {
+        QC.data = data;
+        if (!QC.set) QC.set = qcBuildSet(data);
+        renderQualityResult({ subId: QC.subId, data: data });
+      });
+    });
+  }
+
+  function renderQualityResult(st) {
+    var host = document.getElementById("qc-result");
+    if (!host) return;
+    var set = QC.set;
+    var html = '<div class="bp-head"><div><h2>' + esc(st.data.subject) + " — Quality Check Paper" +
+      ' <span class="bp-meta">' + set.rows.length + " questions · " + set.marks + " marks · ~" + set.mins +
+      " min · " + set.chapters + " chapters</span></h2>" +
+      '<div class="bp-note"><b>How this is built:</b> only <b>Average</b>- and <b>Difficult</b>-tagged questions ' +
+      "are used, targeted at 60% Difficult / 40% Average (delivered " + set.deliv.Difficult + " Difficult / " +
+      set.deliv.Average + " Average" + (set.deliv.Easy ? " / " + set.deliv.Easy + " Easy" : "") +
+      "). Each chapter&rsquo;s share of the 40 marks is scaled from its own board weightage, and the question " +
+      "TYPE mix follows the full board paper&rsquo;s own pattern. Regenerate reshuffles which real board " +
+      "questions fill each slot.</div></div>" +
+      '<button class="btn-sm" type="button" id="qc-regen">⟳ Regenerate</button></div>';
+    set.warn.forEach(function (w) { html += '<div class="bp-warn">' + esc(w) + "</div>"; });
+
+    var btns = SCHOOLS.map(function (s) {
+      return '<button class="btn-sm bp-dl qc-genbtn" type="button" data-school="' + s.id + '" title="' +
+        esc(s.name) + '">⤓ ' + schoolShort(s) + "</button>";
+    }).join("");
+
+    html += '<div class="ws-sheet" id="qc-sheet-0"><div class="ws-sheet-bar"><span class="ws-sheet-t">Quality Check Paper</span>' +
+      '<span class="ws-btnset">' + btns + "</span></div>" +
+      '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandInner(SCHOOLS[0]) +
+        "<h1>Quality Check Paper</h1>" +
+        '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII · Average &amp; Difficult questions only</div>" +
+        '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>" +
+        '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div></div>' +
+        qcRowsHTML(set)) + "</div></div>";
+
+    host.innerHTML = html;
+    typeset(host);
+
+    document.getElementById("qc-regen").addEventListener("click", function () {
+      QC.set = qcBuildSet(st.data);
+      renderQualityResult(st);
+    });
+    Array.prototype.forEach.call(host.querySelectorAll(".qc-genbtn"), function (b) {
+      b.addEventListener("click", function () {
+        var school = SCHOOLS.filter(function (s) { return s.id === b.getAttribute("data-school"); })[0] || SCHOOLS[0];
+        var fname = "Quality-Check-" + st.data.subject.replace(/[^A-Za-z0-9]+/g, "-");
+        printSheets([qcSheetHTML(st, QC.set, school, "qc-print-0")], fname);
+      });
+    });
+  }
+
   function renderExam() {
     crumbs.innerHTML = '<a href="#/">Home</a> › Exam Worksheet';
     document.title = "Exam-Oriented Worksheets";
@@ -2970,7 +3112,8 @@
   }
 
   function setTab(h) {
-    var tab = h.indexOf("#/exam") === 0 ? "exam"
+    var tab = h.indexOf("#/quality") === 0 ? "quality"
+      : h.indexOf("#/exam") === 0 ? "exam"
       : h.indexOf("#/paper") === 0 ? "paper"
       : h.indexOf("#/worksheet") === 0 ? "worksheet"
       : h.indexOf("#/dashboard") === 0 ? "dashboard"
@@ -2986,7 +3129,8 @@
     var h = location.hash || "#/";
     var m = h.match(/^#\/subject\/(.+)$/);
     setTab(h);
-    if (h.indexOf("#/exam") === 0) renderExam();
+    if (h.indexOf("#/quality") === 0) renderQuality();
+    else if (h.indexOf("#/exam") === 0) renderExam();
     else if (h.indexOf("#/paper") === 0) renderPaper();
     else if (h.indexOf("#/dashboard") === 0) renderDashboard();
     else if (h.indexOf("#/worksheet") === 0) renderWorksheet();
