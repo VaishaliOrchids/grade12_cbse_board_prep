@@ -1064,10 +1064,13 @@
       ? '<button class="ws-del" type="button" data-si="' + opts.del.si + '" data-qid="' + esc(opts.del.qid) +
         '" title="Remove this question as irrelevant">🗑 Delete</button>'
       : "";
+    // opts.hideTags drops the difficulty + CBSE-year badges — used for a "Trial"
+    // paper a teacher solves blind, as opposed to the "Check" paper (badges shown)
+    // used to mark it against.
+    var tags = (opts && opts.hideTags) ? "" : diffBadge(q) + cbseYearBadges(q);
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
       '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + "</div>" +
-      '<div class="ws-qmeta">' + diffBadge(q) +
-        cbseYearBadges(q) +
+      '<div class="ws-qmeta">' + tags +
         '<span class="ws-qm">[' + (q.marks || 0) + "]</span>" + rep + del + "</div></div>";
   }
 
@@ -2746,21 +2749,26 @@
              marks: marks, mins: Math.round(mins), withAns: withAns, chapters: Object.keys(chapSet).length };
   }
 
-  function qcRowHTML(r) {
-    if (r.q) return paperRow(r.q, r.no, {});
+  function qcRowHTML(r, hideTags) {
+    if (r.q) return paperRow(r.q, r.no, { hideTags: hideTags });
     return '<div class="ws-q"><div class="ws-qn">' + r.no + '.</div>' +
       '<div class="ws-qc"><div class="qbody"><p class="bp-empty-note">Not enough ' + esc(r.difficulty) +
       "-tagged questions in " + esc(r.chapter) + " for this " + r.marks + "-mark " + esc(r.type) +
       " slot — choose your own.</p></div></div>" +
       '<div class="ws-qmeta"><span class="ws-qm">[' + r.marks + "]</span></div></div>";
   }
-  function qcRowsHTML(set) { return set.rows.map(qcRowHTML).join(""); }
+  function qcRowsHTML(set, hideTags) { return set.rows.map(function (r) { return qcRowHTML(r, hideTags); }).join(""); }
 
-  function qcSheetHTML(st, set, school, id) {
+  // Trial: the paper a teacher solves — no difficulty/year badges, so it reads
+  // like a blind test. Check: the SAME paper with those badges shown, used to
+  // mark the trial against once it comes back.
+  function qcSheetHTML(st, set, kind, id) {
+    var hideTags = kind === "trial";
+    var title = hideTags ? "Quality Check Paper — Trial" : "Quality Check Paper — Check";
     var meta = '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>";
     var instr = '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div>';
-    return wsSheetShell(id, brandInner(school), "Quality Check Paper", esc(st.data.subject),
-      "Average & Difficult questions only", meta, instr, qcRowsHTML(set));
+    return wsSheetShell(id, brandInner(SCHOOLS[0]), title, esc(st.data.subject),
+      "Average & Difficult questions only", meta, instr, qcRowsHTML(set, hideTags));
   }
 
   function renderQuality() {
@@ -2780,7 +2788,9 @@
         '<section class="hero wrap"><h1>Quality Check</h1>' +
         "<p>A 40-mark paper built only from questions tagged <b>Average</b> or <b>Difficult</b> — targeted at " +
         "60% Difficult / 40% Average — with each chapter&rsquo;s share of the 40 marks scaled down from its own " +
-        "board weightage (the same weightage the Dashboard shows). Print-ready for both schools.</p></section>" +
+        "board weightage (the same weightage the Dashboard shows). Download the <b>Trial</b> for the teacher to " +
+        "solve blind (no difficulty/year tags) and the <b>Check</b> copy — same paper, tags shown — to mark it " +
+        "against.</p></section>" +
         '<div class="wrap"><div class="pp-panel"><div class="pp-step"><span class="pp-stepn">1</span>Subject</div>' +
         '<div class="dash-tabs">' + tabs + "</div></div>" +
         '<div id="qc-result"></div></div>';
@@ -2817,12 +2827,11 @@
       '<button class="btn-sm" type="button" id="qc-regen">⟳ Regenerate</button></div>';
     set.warn.forEach(function (w) { html += '<div class="bp-warn">' + esc(w) + "</div>"; });
 
-    var btns = SCHOOLS.map(function (s) {
-      return '<button class="btn-sm bp-dl qc-genbtn" type="button" data-school="' + s.id + '" title="' +
-        esc(s.name) + '">⤓ ' + schoolShort(s) + "</button>";
-    }).join("");
+    var btns =
+      '<button class="btn-sm bp-dl qc-genbtn" type="button" data-kind="trial" title="No difficulty/year tags — for the teacher to solve">⤓ Trial</button>' +
+      '<button class="btn-sm ws-keybtn qc-genbtn" type="button" data-kind="check" title="Same paper with difficulty/year tags — for marking">⤓ Check</button>';
 
-    html += '<div class="ws-sheet" id="qc-sheet-0"><div class="ws-sheet-bar"><span class="ws-sheet-t">Quality Check Paper</span>' +
+    html += '<div class="ws-sheet" id="qc-sheet-0"><div class="ws-sheet-bar"><span class="ws-sheet-t">Preview <em>· Check view — tags shown</em></span>' +
       '<span class="ws-btnset">' + btns + "</span></div>" +
       '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandInner(SCHOOLS[0]) +
         "<h1>Quality Check Paper</h1>" +
@@ -2840,9 +2849,9 @@
     });
     Array.prototype.forEach.call(host.querySelectorAll(".qc-genbtn"), function (b) {
       b.addEventListener("click", function () {
-        var school = SCHOOLS.filter(function (s) { return s.id === b.getAttribute("data-school"); })[0] || SCHOOLS[0];
-        var fname = "Quality-Check-" + st.data.subject.replace(/[^A-Za-z0-9]+/g, "-");
-        printSheets([qcSheetHTML(st, QC.set, school, "qc-print-0")], fname);
+        var kind = b.getAttribute("data-kind");
+        var fname = "Quality-Check-" + st.data.subject.replace(/[^A-Za-z0-9]+/g, "-") + "-" + kind;
+        printSheets([qcSheetHTML(st, QC.set, kind, "qc-print-0")], fname);
       });
     });
   }
