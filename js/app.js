@@ -1347,7 +1347,7 @@
   function wsSheetShell(id, brand, title, subj, chapter, metaBlock, instr, body) {
     return '<div class="ws-sheet" id="' + id + '"><div class="ws-paper">' +
       printFrame('<div class="ws-ph">' + brand + "<h1>" + esc(title) + "</h1>" +
-        '<div class="ws-subttl">' + subj + " · Class XII · " + esc(chapter) + "</div>" +
+        '<div class="ws-subttl">' + subj + " · Class XII" + (chapter ? " · " + esc(chapter) : "") + "</div>" +
         metaBlock + (instr || "") + "</div>" + body) + "</div></div>";
   }
   // Build a print-ready sheet (no edit buttons) for a given school, with or
@@ -2766,9 +2766,8 @@
     var hideTags = kind === "trial";
     var title = hideTags ? "Quality Check Paper — Trial" : "Quality Check Paper — Check";
     var meta = '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>";
-    var instr = '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div>';
     return wsSheetShell(id, brandInner(SCHOOLS[0]), title, esc(st.data.subject),
-      "Average & Difficult questions only", meta, instr, qcRowsHTML(set, hideTags));
+      "", meta, "", qcRowsHTML(set, hideTags));
   }
 
   function renderQuality() {
@@ -2835,9 +2834,8 @@
       '<span class="ws-btnset">' + btns + "</span></div>" +
       '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandInner(SCHOOLS[0]) +
         "<h1>Quality Check Paper</h1>" +
-        '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII · Average &amp; Difficult questions only</div>" +
-        '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div>" +
-        '<div class="ws-pi"><b>General Instructions:</b> All questions are compulsory. Marks are indicated against each question. Choose any one option where OR is given.</div></div>' +
+        '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII</div>" +
+        '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div></div>' +
         qcRowsHTML(set)) + "</div></div>";
 
     host.innerHTML = html;
