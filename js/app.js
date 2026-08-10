@@ -2835,7 +2835,7 @@
       '<div class="ws-paper">' + printFrame('<div class="ws-ph">' + brandInner(SCHOOLS[0]) +
         "<h1>Quality Check Paper</h1>" +
         '<div class="ws-subttl">' + esc(st.data.subject) + " · Class XII</div>" +
-        '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div></div>' +
+        '<div class="ws-pmeta"><span>Time: ' + set.mins + " Minutes</span><span>Maximum Marks: " + set.marks + "</span></div></div>" +
         qcRowsHTML(set)) + "</div></div>";
 
     host.innerHTML = html;
