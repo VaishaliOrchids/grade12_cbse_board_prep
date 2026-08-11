@@ -2109,10 +2109,14 @@
 
   // The re-crop SOURCE for a figure: its full question screenshot if bundled
   // (so the user can recover content the tight crop dropped), else the figure itself.
+  var SRC_MISS = {};   // figure key -> 1 once its assets/sources/… screenshot has failed to load
   function cropSource(key) {
     if (INLINE) return (INLINE.sources && INLINE.sources[key]) ||
            ORIG[key] || (INLINE.figures && INLINE.figures[key]) || key;
-    // hosted site: the full source screenshot sits beside the cropped figure
+    // hosted site: the full source screenshot sits beside the cropped figure.
+    // If that screenshot is missing, fall back to the figure itself so cropping
+    // still works instead of showing a broken image.
+    if (SRC_MISS[key]) return key;
     return key.indexOf("assets/figures/") === 0 ? key.replace("assets/figures/", "assets/sources/") : key;
   }
 
@@ -2189,6 +2193,14 @@
       drawSel();
     }
     img.onload = fit;
+    img.onerror = function () {
+      // missing/broken source screenshot -> crop the figure itself
+      if (src !== key && !SRC_MISS[key]) {
+        SRC_MISS[key] = 1;
+        src = cropSource(key);
+        img.src = src;
+      }
+    };
     modal.style.display = "flex";
     img.src = src;
     if (img.complete) fit();
