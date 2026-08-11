@@ -5,9 +5,10 @@
  "years": [
   2023,
   2024,
-  2025
+  2025,
+  2026
  ],
- "total_questions": 454,
+ "total_questions": 740,
  "chapter_order": [
   "The End of Bipolarity",
   "Contemporary Centres of Power",
@@ -28,7 +29,7 @@
  "chapters": [
   {
    "chapter": "The End of Bipolarity",
-   "count": 33,
+   "count": 55,
    "questions": [
     {
      "qno": 1,
@@ -459,6 +460,108 @@
      "figures": []
     },
     {
+     "qno": 13,
+     "chapter": "The End of Bipolarity",
+     "type": "SA",
+     "marks": 2,
+     "text": "Can Shock Therapy be called the best way to make transition from authoritarian socialist system to liberal capitalist system after the disintegration of Soviet Union ? Explain.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 4,
+     "text": "Explain any four reasons responsible for the economic stagnation in Soviet Union.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement-I : Mikhail Gorbachev, who had become General Secretary of the Communist Party of the Soviet Union in 1985, sought to reform the Soviet System. Statement-II : Gorbachev's decision to normalise relations with the West and democratise and reform the Soviet Union had some other effects that neither he nor anyone else intended or anticipated.",
+     "options": [
+      "Both Statement-I and Statement-II are true.",
+      "Both Statement-I and Statement-II are false.",
+      "Statement-I is true, but Statement-II is false.",
+      "Statement-I is false, but Statement-II is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following symbolised the division between the Capitalist and the Communist world ?",
+     "options": [
+      "Gulf War",
+      "Berlin Wall",
+      "First World War",
+      "Second World War"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "The End of Bipolarity",
+     "type": "SA",
+     "marks": 2,
+     "text": "State any two arms control treaties signed between the US and Soviet Union.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "The End of Bipolarity",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the passage given below carefully and answer the questions that follow : “The Central Asian republics did not ask for independence and wanted to remain with the Soviet Federation. In December 1991, under the leadership of Yeltsin, Russia, Ukraine and Belarus declared that the Soviet Union was disbanded. The Communist Party of the Soviet Union was banned. Capitalism and democracy were adopted as the bases for the post-Soviet republics. The declaration on the disintegration of the USSR and the formation of the Commonwealth of Independent States (CIS) came as a surprise to the other republics, especially to the Central Asian ones.” (24.1) Which ideology was adopted by the post-Soviet countries ? (A) Socialist (B) Capitalist and Democratic (C) Communist (D) Democratic (24.2) Which republic among the following became the successor of the Soviet Union ? (A) Belarus (B) Ukraine (C) Commonwealth of Independent States (D) Russia (24.3) Which one of the following is a Central Asian country ? (A) Chechnya (B) Dagestan (C) Tajikistan (D) Czechoslovakia (24.4) Which part of Soviet Union had vast hydrocarbon resources ? (A) Eastern Europe (B) Central Asian Republics (C) Yugoslavia (D) Czechoslovakia",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 1,
      "chapter": "The End of Bipolarity",
      "type": "MCQ",
@@ -618,13 +721,292 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Highlight the reasons for the tensions and conflicts faced by any three former Soviet Republics.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Highlight any four reasons for the disintegration of the Soviet Union in 1991.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Analyse any three reasons for the disintegration of the Soviet Union.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Examine any three consequences of the Shock therapy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the correct trio of Baltic Republics :",
+     "options": [
+      "Estonia, Latvia, Lithuania",
+      "Slovenia, Estonia, Lithuania",
+      "Slovenia, Romania, Estonia",
+      "Estonia, Romania, Latvia"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is NOT a consequence of ‘Shock Therapy’ ?",
+     "options": [
+      "The value of the Rouble, the Russian currency declined.",
+      "The economy of the entire region was ruined.",
+      "The system of social welfare got strengthened.",
+      "The collective farm system disintegrated."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 4,
+     "text": "Why could the reforms initiated by Mikhail Gorbachev not save the disintegration of Soviet Union ? Explain any two reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which city was the first Summit of the Non-Aligned Movement (NAM) held ?",
+     "options": [
+      "Belgrade",
+      "Bandung",
+      "Tokyo",
+      "Delhi"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "The End of Bipolarity",
+     "type": "SA",
+     "marks": 2,
+     "text": "Name any four republics of the Soviet Union.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 4,
+     "text": "Highlight any four effects of the shock therapy after the disintegration of the Soviet Union.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Why is ‘Shock Therapy’ considered a painful process of transition from an authoritarian socialist system to a democratic capitalist system ? Explain any three reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any four reasons for the disintegration of the Soviet Union.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following was not a republic of the Soviet Union ?",
+     "options": [
+      "Tajikistan",
+      "Uzbekistan",
+      "Afghanistan",
+      "Azerbaijan"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following was the General Secretary of the Communist Party of Soviet Union in 1985 ?",
+     "options": [
+      "Joseph Stalin",
+      "Mikhail Gorbachev",
+      "Leonid Brezhnev",
+      "Nikita Khrushchev"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "The End of Bipolarity",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct full form of the ‘SALT’ treaty from the options given below :",
+     "options": [
+      "Special Arms Limited Treaty",
+      "Strategic Arms Limitation Treaty",
+      "Secret Arms Limitation Treaty",
+      "South Asia Local Treaty"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "The End of Bipolarity",
+     "type": "LA",
+     "marks": 4,
+     "text": "Describe any four changes that occurred in the world after the end of the Cold War.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Contemporary Centres of Power",
-   "count": 39,
+   "count": 56,
    "questions": [
     {
      "qno": 13,
@@ -1173,6 +1555,68 @@
      "chapter": "Contemporary Centres of Power",
      "type": "LA",
      "marks": 6,
+     "text": "(a) Explain any two contentious issues between China and India. Suggest any two measures to resolve these issues for greater cooperation.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) “ASEAN took steps to establish an ASEAN community on the basis of its three pillars.” Explain the importance of these three pillars.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 19,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Analyse the basis of projecting China to overtake the US America to become the world's largest economy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) “While the Chinese economy has improved, not everyone in China received the benefits of the reforms.” Analyse any two reasons for this.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 6,
      "text": "(a) Explain any three factors that make the European Union an effective regional organisation.",
      "papers": [
       {
@@ -1291,13 +1735,243 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Contemporary Centres of Power",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The economy of South Korea was the _________ largest in the world in 2017.",
+     "options": [
+      "5th",
+      "8th",
+      "11th",
+      "14th"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Explain the various economic policies adopted by China that led to the rise of its economy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Between the 1960s and the 1980s, South Korea emerged as an economic power in Asia which is termed as “Miracle on the Han River”. Explain any two reasons behind it.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 26,
+     "chapter": "Contemporary Centres of Power",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the cartoon given below and answer the questions based on it : (The cartoon is titled “How Neo-Colonialism Works”, showing two armed soldiers telling a man amid rubble, “Now that we've destroyed your country, you can pay us to rebuild it… We accept natural resources, like oil as payment.”) (i) Which country has attacked any other country to have control on the ‘Oil’ resource ? (A) India (B) Pakistan (C) United States of America (D) United Kingdom (ii) Which one of the following country is rich in the ‘Oil’ resource ? (A) Saudi Arbia (B) Japan (C) Italy (D) Vietnam (iii) Which one of the following is an example of a war for getting control of the natural resources like oil ? (A) Indo-China War 1962 (B) Indo-Pak War 1971 (C) Gulf War (D) Second World War (iv) Which one of the following is the most appropriate message given by the cartoon ? (A) Oil is an important resource for developed countries. (B) Oil is cheap for making payment. (C) Big powers can attack the small countries to grab oil resources. (D) Oil producing countries need the help of big powers. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Question No. 26 : (26.1) In which year was the Earth Summit held ? (26.2) Name the international agreement that targets to cut the greenhouse gas emissions. (26.3) Name the region that accounts for 30 percent of global oil production. (26.4) Which people in India are usually described as indigenous people ?",
+     "figures": [
+      "assets/figures/pol_2025_z7_q26_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Contemporary Centres of Power",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement-I : The economic policies implemented by China helped to break the stagnation of its economy. Statement-II : Economic development of China also increased environmental degradation and corruption. In the light of above statements, choose the correct answer from the options given below :",
+     "options": [
+      "Both Statement-I and Statement-II are true.",
+      "Both Statement-I and Statement-II are false.",
+      "Statement-I is true, but Statement-II is false.",
+      "Statement-I is false, but Statement-II is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Contemporary Centres of Power",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which measure was adopted by China to solve its economic crisis ?",
+     "options": [
+      "Like USSR, China also followed ‘Shock Therapy’.",
+      "China ended its economic isolation with the establishment of relations with most of the developing countries of the World.",
+      "China opened its economy for privatisation step by step for the development of its economy.",
+      "Chine focused more on export as compared to import."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain any four factors that led Japan to emerge as a new centre of power even after the destruction caused by Atom Bombs.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any four policies adopted by China to accelerate its economic growth.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 5,
+     "chapter": "Contemporary Centres of Power",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements, one is labelled as Assertion (A) and other as Reason (R). Read these statements and choose the correct answer from the given below options :",
+     "assertion": "The European Union has its own flag, anthem, founding date and currency.",
+     "reason": "The European Union has a major influence on the economic, political and military fields in the contemporary world.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is false, but Reason (R) is true.",
+      "Assertion (A) is true, but Reason (R) is false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Contemporary Centres of Power",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the cartoon given below carefully and answer the questions based on it : (The cartoon shows a figure labelled “East Asian Nations” watching a tall burning stack of papers/products labelled “Competition”, saying, “We'll have to get used to it…”.) (i) Name any two countries of East Asia. (ii) Identify and name the leader shown in the cartoon. (iii) Explain the meaning of the sentence given in the cartoon ‘WE'LL HAVE TO GET USED TO IT’. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Q. No. 25 : (25.1) Name any one country which resisted the adoption of the ‘Euro’. (25.2) Name any two new member countries of European Union. (25.3) Explain any two main objectives of establishing the ASEAN Regional Forum (ARF).",
+     "figures": [
+      "assets/figures/pol_2026_z3_q25_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Contemporary Centres of Power",
+     "type": "SA",
+     "marks": 2,
+     "text": "How can the economy of the European Union pose a threat to the US economy ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Analyse any four decisions made by the Chinese leadership that led to the rise of the Chinese economy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary Centres of Power",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Analyse any four reasons that make the European Union an influential regional organisation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Contemporary South Asia",
-   "count": 33,
+   "count": 61,
    "questions": [
     {
      "qno": 26,
@@ -1783,6 +2457,125 @@
      "figures": []
     },
     {
+     "qno": 1,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement-I : Nepal was a Hindu Kingdom in the past and then a constitutional monarchy in the modern period for many years. Statement-II : The struggling pro-democracy forces achieved their first major victory in 2006 when the king was forced to restore the House of representatives.",
+     "options": [
+      "Both Statement-I and Statement-II are true.",
+      "Both Statement-I and Statement-II are false.",
+      "Statement-I is true, but Statement-II is false.",
+      "Statement-I is false, but Statement-II is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following events made the South Asian region a sudden focus of global attention after the cold war period ?",
+     "options": [
+      "Bangladesh War of 1971",
+      "Ethnic conflict of Sri Lanka",
+      "India and Pakistan both became nuclear power",
+      "Kargil conflict between India and Pakistan"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) How is the South Asian Association for Regional Co-operation (SAARC) a major regional initiative by South Asian states to evolve co-operation through multilateral means ? Assess.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) “Despite the mixed record of democratic experiences, the people of South Asian countries share the aspiration for democracy.” Justify the statement with two suitable arguments.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": "20-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 13,
+     "chapter": "Contemporary South Asia",
+     "type": "SA",
+     "marks": 2,
+     "text": "State any two main objectives of 'ASEAN'.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain any two commonalities and two differences between Bangladesh and Pakistan in their democratic experiences.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any two issues of co-operation and two issues of confrontation between India and Bangladesh.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 13,
      "chapter": "Contemporary South Asia",
      "type": "SA",
@@ -1891,13 +2684,373 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In the ASEAN logo, the ten stalks of paddy (rice) represent the ten South-east Asian countries bound together in :",
+     "options": [
+      "Fraternity and Liberty",
+      "Friendship and Solidarity",
+      "Peace and Friendship",
+      "Solidarity and Co-operation"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Contemporary South Asia",
+     "type": "SA",
+     "marks": 2,
+     "text": "India and Pakistan relations seem to be a story of endemic conflict. Suggest any two measures to curb tensions between the two countries.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Contemporary South Asia",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the following passage carefully and answer the questions that follow : “SAFTA aims at lowering trade tariffs. But some of our neighbours fear that SAFTA is a way for India to ‘invade’ their markets and to influence their societies and politics through commercial ventures and a commercial presence in their countries. India thinks that there are real economic benefits for all from SAFTA and that a region that trades more freely will be able to cooperate better on political issues. Some in India think that SAFTA is not worth the trouble since India already has bilateral agreements with Bhutan, Nepal and Sri Lanka.” (i) SAFTA came into effect from : (A) 1st January, 2004 (B) 1st January, 2005 (C) 1st January, 2006 (D) 1st January, 2007 (ii) SAFTA is related to which one of the following regional organisations ? (A) South Asian Association for Regional Cooperation (SAARC) (B) Association of South East Asian Nations (ASEAN) (C) European Union (EU) (D) Non-Aligned Movement (NAM) (iii) Which one of the following objective is true about the spirit behind the idea of SAFTA ? (A) To develop a sense of friendship and solidarity among its member nations. (B) To allow free trade across the borders. (C) To resolve cross-border issues with discussion. (D) To challenge superpowers in the contemporary world. (iv) What among the following was promised by SAFTA ? (A) Formation of a free trade zone (B) Formation of a peaceful environment (C) Formation of a strong organisation (D) Formation of a cultural organisation",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Contemporary South Asia",
+     "type": "SA",
+     "marks": 2,
+     "text": "How does the natural insularity of South Asian region determine its cultural distinctiveness ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Analyse the ‘ASEAN way’ as a unique initiative of promoting peace in South-east Asian Countries.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Determine the contribution of ‘ASEAN security community’ in its promotion of economic progress.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 24,
+     "chapter": "Contemporary South Asia",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the passage given below carefully and answer the questions that follow : “The South Asian Association for Regional Co-operation (SAARC) is a major regional initiative by the South Asian states to evolve co-operation through multilateral means. It began in 1985. Unfortunately due to persisting political differences, SAARC has not had much success. SAARC members signed the South Asian Free Trade Agreement (SAFTA) in 2002 which promised the formation of a free trade zone for the whole of South Asia.” (i) Which one of the following South Asian countries is not a founder member of South Asian Association for Regional Co-operation (SAARC) ? (A) Nepal (B) Bhutan (C) Afghanistan (D) Bangladesh (ii) The external power that affects the South Asian Countries the most is : (A) United States of America (B) Russia (C) France (D) Britain (iii) The major objective of South Asian Association for Regional Co-operation is – (A) to become a contemporary centre of power in the World. (B) to establish a common currency for the regional organisation for its economic development. (C) to solve all regional conflicts without interference of external powers. (D) to co-operate member states for economic growth, social progress and cultural development through multilateral means. (iv) Which one of the following is NOT a core objective of South Asian Free Trade Agreement (SAFTA) ? (A) To establish a common currency for SAARC nations. (B) To promote and enhance mutual trade and economic co-operation. (C) To reduce custom duties and non-tariff barriers. (D) To create a free trade area among member states.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Contemporary South Asia",
+     "type": "SA",
+     "marks": 2,
+     "text": "Assess the impact of outside powers on the South Asian Countries.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Contemporary South Asia",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain any two differences between the refugees and the migrants.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Describe any two areas of co-operation and any two reasons for conflicts between India and Pakistan.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Describe any two areas of co-operation and any two reasons for conflicts between India and Nepal.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": "21-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following countries was not a founder of ASEAN ?",
+     "options": [
+      "Singapore",
+      "Indonesia",
+      "China",
+      "Thailand"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Describe the sequence of events responsible for the establishment of democracy in Nepal.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Describe the sequence of events responsible for the end of the military government and establishment of democracy in Bangladesh.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 1,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following countries is not a member of SAARC ?",
+     "options": [
+      "Nepal",
+      "China",
+      "Maldives",
+      "Sri Lanka"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which year was a multi-party system introduced in the Maldives ?",
+     "options": [
+      "2008",
+      "2007",
+      "2006",
+      "2005"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Explain the reasons for ethnic conflict in Sri Lanka and its impact on India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Contemporary South Asia",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Explain any four reasons for good relations between Nepal and India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": "20-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "For Question number 3, two statements are given — one labelled as Assertion (A) and the other labelled as Reason (R). Read these statements carefully and choose the correct option as the answer from the options (A), (B), (C) and (D) given below.",
+     "assertion": "In April 2006, there were massive countrywide pro-democracy protests in Nepal.",
+     "reason": "In 2002, the king abolished the parliament and dismissed the government.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Contemporary South Asia",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the following correctly : A : 1. General Zia-ul-Haq  2. Ziaur Rahman  3. Rajapaksa  4. Seven Party Alliance B : (i) Bangladesh  (ii) Nepal  (iii) Pakistan  (iv) Sri Lanka",
+     "options": [
+      "1-(i), 2-(iii), 3-(iv), 4-(ii)",
+      "1-(iv), 2-(ii), 3-(i), 4-(iii)",
+      "1-(iii), 2-(i), 3-(iv), 4-(ii)",
+      "1-(iii), 2-(iv), 3-(ii), 4-(i)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Contemporary South Asia",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the cartoon given below and answer the questions based on it : Note : The man shown in the suit is President Musharraf and the same man shown in the cap is General Musharraf. On the basis of politics in Pakistan, answer the following questions. (The cartoon shows a chalkboard with three sketches of Musharraf in different portraits arranged as arithmetic equations — a civilian portrait minus a uniformed portrait equals 0, a bandaged/uniformed portrait minus a civilian portrait equals 1, and a bandaged portrait plus a civilian portrait equals 2 — while Musharraf himself, holding a pointer, remarks “I am always good at calculation”.) (i) What message is given by the uppermost equation ? Explain. (ii) Explain the message given by the middle line. (iii) Explain the message given by the lowest line. (iv) Highlight the message conveyed by the whole cartoon. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Q. No. 26 : (26.1) Name the first military ruler of Pakistan. (26.2) In which year did Bangladesh come into existence ? (26.3) Name the leader who formed an elected government in Pakistan from 1971 to 1977. (26.4) Name the regional organisation of South Asian countries.",
+     "figures": [
+      "assets/figures/pol_2026_z5_q26_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "International Organizations",
-   "count": 32,
+   "count": 52,
    "questions": [
     {
      "qno": 3,
@@ -2308,6 +3461,97 @@
      "chapter": "International Organizations",
      "type": "MCQ",
      "marks": 1,
+     "text": "Match the terms given in Column-'A' correctly with Column-'B' and choose the correct answer from the codes given below : Column-'A' : I. Human Rights Watch  II. International Monetary Fund  III. World Health Organisation  IV. General Assembly Column-'B' : i. An organ of the United Nations  ii. An agency of the United Nations  iii. An international organisation that oversees financial institutions  iv. An international NGO",
+     "options": [
+      "I-iii, II-i, III-iv, IV-ii",
+      "I-iv, II-i, III-iii, IV-ii",
+      "I-iv, II-iii, III-ii, IV-i",
+      "I-ii, II-iv, III-iii, IV-i"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following in chronological order of their formation : I. The World Trade Organisation  II. World Bank  III. The International Atomic Energy Agency  IV. United Nations Organisation Choose the correct option :",
+     "options": [
+      "I, II, III, IV",
+      "II, IV, III, I",
+      "IV, I, III, II",
+      "III, I, II, IV"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "International Organizations",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the given cartoon and answer the questions that follow : (I) What does the cartoon depict ? (A) Influence of UNO on the World (B) Influence of USA on UNO (C) Relevance of UNO (D) Influence of USA on the World (II) What message is given by the cartoon ? (A) If UN fails then the US can control the world by its military power. (B) Economic superiority of US (C) Veto power of permanent members of UN (D) US is the largest contributor to UN (III) Why this cartoon is not relevant today ? (A) UN has become more powerful. (B) Many new powerful international organisations have emerged. (C) Countries are not having faith in UN. (D) Now many new centres of power have emerged. (IV) What is the primary objective of UNO ? (A) To foster economic ties of the developed nations (B) To promote international peace and co-operation (C) To eradicate terrorism (D) To promote health care Note : The following questions are for the Visually Impaired Candidates only in lieu of Q. No. 26 : (26.1) State the reason for the formation of League of Nations. (26.2) Write full form of UNESCO. (26.3) How many member countries did sign on United Nations Charter to set up United Nations ? (26.4) Name the most visible public figure and the representative head of the United Nations.",
+     "figures": [
+      "assets/figures/pol_2025_z1_q26_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain the importance of International organisations like the United Nations in the contemporary world.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any four changes that have occurred after the Cold War and have affected the realities of the world politics.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
      "text": "Which one of the following is not an organ of the United Nations Organization ?",
      "options": [
       "Security Council",
@@ -2448,13 +3692,280 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Justify India's claim for permanent membership of the United Nations Security Council with any four criteria.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Justify the relevance of United Nations Organization in the contemporary world with the help of any four examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 27,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain the composition and one function of any three organs of the United Nations.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 27
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Name any three agencies of the United Nations and explain one function of each.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": "27-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 5,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement I : The International Monetary Fund (IMF) is an international organization that oversees those financial institutions and regulations that act at the international level. Statement II : All the 189 members of IMF organization have equal say. In the light of above statements, choose the correct answer from the options given below :",
+     "options": [
+      "Both statement I and statement II are true.",
+      "Both statement I and statement II are false.",
+      "Statement I is true, but statement II is false.",
+      "Statement I is false, but statement II is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which statement is the best description of ‘Veto Power’ ?",
+     "options": [
+      "It is a power of positive voting.",
+      "After the end of the Second World War, Veto Power is given only to permanent members of the United Nations Security Council (UNSC) to establish peace in the world.",
+      "All the temporary members of the United Nations Security Council (UNSC) have the right to use Veto Power only for two years.",
+      "All the members of the United Nations Security Council (UNSC) possess Veto Power."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "International Organizations",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the passage given below carefully and answer the questions that follow : “On the reform of structures and processes, the biggest discussion has been on the functioning of the Security Council. Related to this has been the demand for an increase in the UN Security Council's permanent and non-permanent membership so that the realities of contemporary world politics are better reflected in the structure of the organisation. In particular, there are proposals to increase membership from Asia, Africa and South America. Beyond this, the US and other Western countries want improvements in the UN's budgetary procedures and its administration.” (i) Which organ of the United Nations has five permanent members ? (A) General Assembly (B) Security Council (C) Secretariat (D) Economic and Social Council (ii) Which country contributes the most in the budget of United Nations Organisation ? (A) America (B) Russia (C) China (D) France (iii) In which year was the strength of non-permanent members of Security Council increased ? (A) 1962 (B) 1963 (C) 1964 (D) 1965 (iv) Which of the following statements is NOT correct about the reforms in Security Council ? (A) The Security Council no longer represents contemporary political realities. (B) The Security Council's decisions reflect only western values and interests and are dominated by a few powers. (C) The Security Council lacks equitable representation. (D) The Security Council has a large army to establish peace.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement I : The World Bank was created after the Second World War in the year 1945. Statement II : The activities of the World Bank are focused on the developing countries. In the light of above statements, choose the correct answer from the options given below :",
+     "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true, but Statement II is false.",
+      "Statement I is false, but Statement II is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the best argument to support India's claim for permanent membership in the United Nations Security Council :",
+     "options": [
+      "India's growing economic power and stable political system",
+      "India's effective leadership",
+      "India's membership in the United Nations Organization since its inception",
+      "India as the contributing member country in the United Nations Organisation's budget"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) “The United Nations Organisation is generally regarded as the great hope of humanity for peace and progress.” Support the statement with two arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "International Organizations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Suggest any four measures to make the United Nations Organisation more relevant in the current scenario.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one organ of the United Nations stands suspended at present ?",
+     "options": [
+      "Secretariat",
+      "Economic and Social Council",
+      "Trusteeship Council",
+      "International Court of Justice"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "International Organizations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following in chronological order : (i) Creation of the World Bank (ii) Foundation of the United Nations (iii) World Trade Organisation was set up (iv) Establishment of the International Atomic Energy Agency",
+     "options": [
+      "(i), (iv), (iii), (ii)",
+      "(i), (ii), (iv), (iii)",
+      "(i), (iii), (iv), (ii)",
+      "(ii), (iii), (iv), (i)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "International Organizations",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the cartoon given below and answer the questions based on it : (The cartoon shows a man holding a UN target-shaped disc with an olive branch in one hand, saying “If the right one don't get you…”, while a giant clawed fist labelled “WAR” looms on the other side saying “…then the left one will”.) (i) Which country is being represented by the man shown in the cartoon ? (ii) What is missing in the UN logo shown in the cartoon ? (iii) Explain the message conveyed by the cartoon. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Q. No. 26 : (26.1) In which year was the United Nations founded ? (26.2) Write the main objective of the United Nations. (26.3) Which organ of the United Nations has five permanent members ? (26.4) Name any one international Non-Governmental Organization (NGO) that campaigns for the protection of Human Rights.",
+     "figures": [
+      "assets/figures/pol_2026_z4_q26_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "International Organizations",
+     "type": "SA",
+     "marks": 2,
+     "text": "Name any four principal organs of the United Nations.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Security in the Contemporary World",
-   "count": 38,
+   "count": 56,
    "questions": [
     {
      "qno": 4,
@@ -2918,6 +4429,76 @@
      "figures": []
     },
     {
+     "qno": 28,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain any three security challenges faced by the newly independent countries of Asia and Africa after the Second World War.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any three differences between the Non-traditional and Traditional notion of security.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 3,
+     "chapter": "Security in the Contemporary World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the terms given in Column-A correctly with Column-B and choose the correct answer from the codes given below : Column-A : (a) Balance of Power  (b) Disarmament  (c) Migration  (d) Freedom from threats Column-B : (i) Giving up certain types of weapons  (ii) Security  (iii) Traditional security  (iv) New source of threat",
+     "options": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Security in the Contemporary World",
+     "type": "Picture-based",
+     "marks": 4,
+     "text": "Study the given picture and answer the questions that follow : (The given cartoon is about USA's invasion on a Gulf Country.) (26.1) Which one of the following is the most important resource in global strategy ? (A) Water (B) Oil (C) Land (D) Automobile (26.2) Which of the following regions accounts for about 30% of global oil production ? (A) Europe (B) China (C) Gulf Region (D) Japan (26.3) Which Gulf country was invaded by US America ? (A) Iraq (B) Saudi Arabia (C) Kuwait (D) Iran (26.4) What was the objective of the United States of America to attack the Gulf country ? (A) To get control on the oil resources (B) To get the territory of a country (C) To establish its army headquarters (D) To stop USSR from entering this region Note : The following questions are only for the Visually Impaired Candidates in lieu of question number 26 : (26.1) Name the largest oil producer country. (26.2) Which region produces 30% of the total oil produced in the world ? (26.3) Which Gulf country was invaded by USA ? (26.4) Explain the objective of the US to attack the Gulf country.",
+     "figures": [
+      "assets/figures/pol_2025_z2_q26_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 14,
      "chapter": "Security in the Contemporary World",
      "type": "SA",
@@ -3124,13 +4705,255 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 14,
+     "chapter": "Security in the Contemporary World",
+     "type": "SA",
+     "marks": 2,
+     "text": "Describe the basic choices that any government has in responding to a threat of war.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 4,
+     "text": "Explain any two differences between the traditional notions of external and internal security.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Security in the Contemporary World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match List-I with List-II correctly and choose the correct answer from the codes given below : List-I : (a) Violation of Human Rights  (b) ‘Mad-Cow’ disease  (c) Disarmament Treaty  (d) 9/11 terrorist attack List-II : (i) Britain  (ii) Chemical weapons convention  (iii) World Trade Centre in America  (iv) Iraq's invasion of Kuwait",
+     "options": [
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Security in the Contemporary World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Nuclear non-proliferation Treaty refers to :",
+     "options": [
+      "Peaceful use of nuclear energy",
+      "Spread of nuclear weapons",
+      "Development of nuclear fusion",
+      "Reduction of nuclear weapons stockpiles"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 4,
+     "text": "Highlight any two traditional measures which may be used by different countries to maintain their national security.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 2,
+     "chapter": "Security in the Contemporary World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is related to the traditional notion of security ?",
+     "options": [
+      "Russia – Ukraine War",
+      "Continuous rise in the global temperature",
+      "9/11 attack on USA",
+      "Spread of COVID-19 epidemic in the world"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Security in the Contemporary World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following statements is True about the concept of ‘Co-operative Security’ ?",
+     "options": [
+      "Initiating action by the developed countries against non-traditional threats.",
+      "Ensuring ‘collective security’ by the NATO countries in case of threats.",
+      "Strengthening internal security by various measures within a state.",
+      "Involving several countries to decide on a collective solution against non-traditional threats."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Security in the Contemporary World",
+     "type": "SA",
+     "marks": 2,
+     "text": "Highlight any four threats to non-traditional security.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Highlight the differences between the external and internal notions of security in the contemporary world.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) “The non-traditional notions of security are more comprehensive than the traditional notions of security.” Support the statement with the help of suitable examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 28,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Analyse the non-traditional notion of security as a notion of human security.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) ‘‘India has given priority to non-traditional security in the last two decades.’’ Analyse the statement with examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 6,
+     "chapter": "Security in the Contemporary World",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is not a new source of threat to security ?",
+     "options": [
+      "Terrorism",
+      "War",
+      "Poverty",
+      "Migration"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Security in the Contemporary World",
+     "type": "LA",
+     "marks": 4,
+     "text": "Highlight any four choices available to a state when its security is threatened by a possible war.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Environment and Natural Resources",
-   "count": 29,
+   "count": 47,
    "questions": [
     {
      "qno": 5,
@@ -3557,6 +5380,62 @@
      "topic": "General"
     },
     {
+     "qno": 16,
+     "chapter": "Environment and Natural Resources",
+     "type": "SA",
+     "marks": 2,
+     "text": "Name any four global commons.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 16
+      },
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 4,
+     "text": "Suggest any four steps for the Indian Government to take to check the pollution and save the environment.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one among the following agreements was to cut the green house gas emissions ?",
+     "options": [
+      "Antarctic Treaty",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Antarctic Environmental Protocol"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 21,
      "chapter": "Environment and Natural Resources",
      "type": "LA",
@@ -3631,13 +5510,279 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 7,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The term ‘Sustainable Development’ implies :",
+     "options": [
+      "Combining economic growth with ecological responsibility.",
+      "Combining economic growth with social responsibility.",
+      "Combining economic growth with per capita income.",
+      "Combining economic growth with national income."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which layer of the atmosphere is ozone found ?",
+     "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Environment and Natural Resources",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain any two human activities responsible for degradation of environment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 4,
+     "text": "Describe any four initiatives taken across the world to create awareness about the protection of the environment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Highlight any four steps taken by the Government of India to minimize the greenhouse gas emissions.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) How does geo-politics of natural resources determine the balance of power in the contemporary world ? Examine.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The major objective of ‘Kyoto Protocol’ was :",
+     "options": [
+      "to reduce greenhouse gas emissions.",
+      "to reduce pollution by increasing forest cover.",
+      "to provide grant-in-aid to the developing nations to control environmental pollution.",
+      "to promote sustainable development."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The concept of ‘sustainable development’ emphasises on :",
+     "options": [
+      "utilizing maximum resources for human development.",
+      "increasing Gross Domestic Product (GDP) of a country.",
+      "combining economic growth with ecological responsibility.",
+      "maximising the efforts for environmental conservation."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Why have the global efforts to protect the environment not been as successful as desired ? Analyse the reasons.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Evaluate the efforts made to achieve the objectives of the Rio Declaration by the developed and developing countries.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 5,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "For Question number 5, two statements are given — one labelled as Assertion (A) and the other labelled as Reason (R). Read these statements carefully and choose the correct option as the answer from the options (A), (B), (C) and (D) given below.",
+     "assertion": "India signed and ratified the Kyoto Protocol in August 2002.",
+     "reason": "India was reluctant to participate in global efforts of environment conservation.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Environment and Natural Resources",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following statements is true about Global Commons ?",
+     "options": [
+      "Global Commons are determined by the United Nations.",
+      "Global Commons are outside the sovereign jurisdiction of any one state.",
+      "Global Commons have been determined by the Kyoto Protocol.",
+      "Global Commons are owned by big powers."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Environment and Natural Resources",
+     "type": "SA",
+     "marks": 2,
+     "text": "‘‘Water is a crucial resource that is relevant to global politics.’’ Justify the statement with the help of one example.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain the concept of ‘common but differentiated responsibilities’ to conserve, protect and restore the health of the environment.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Environment and Natural Resources",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any four steps taken by the Government of India to save the environment from degradation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Globalisation",
-   "count": 22,
+   "count": 40,
    "questions": [
     {
      "qno": 6,
@@ -3889,6 +6034,116 @@
      "chapter": "Globalisation",
      "type": "MCQ",
      "marks": 1,
+     "text": "Institutional safeguards to minimize the negative effects of globalization on those who are economically weak are known as _______ .",
+     "options": [
+      "Welfare measures",
+      "Social safety nets",
+      "Economic liberalization",
+      "Voluntary services"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the correct option as answer.",
+     "assertion": "The entry and the increased role of multinational companies all over the world leads to a reduction in the capacity of governments to take decisions on their own.",
+     "reason": "The state continues to discharge its essential functions and consciously withdraws from certain domains from which it wishes to.",
+     "ar_options": [
+      "Both the Assertion (A) and the Reason (R) are correct and the Reason (R) is the correct explanation of the Assertion (A).",
+      "Both the Assertion (A) and the Reason (R) are correct, but the Reason (R) is not the correct explanation of the Assertion (A).",
+      "The Assertion (A) is incorrect, but the Reason (R) is correct.",
+      "The Assertion (A) is correct, but the Reason (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain any two major causes of globalization.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which country was an Australian Mining Company 'WMC' opposed ?",
+     "options": [
+      "Singapore",
+      "Philippines",
+      "Thailand",
+      "Japan"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "Suggest any two ways to reduce economic disparity between the poor and the rich countries at the global level.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Globalisation",
+     "type": "LA",
+     "marks": 4,
+     "text": "Describe the impact of globalisation on the Indian culture.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
      "text": "For Question number 5, two statements are given — one labelled as Assertion (A) and the other labelled as Reason (R). Read these statements carefully and choose the correct option as the answer from the options (A), (B), (C) and (D) given below.",
      "assertion": "Resistance to globalisation in India has come from Trade Unions and workforce representing farmers’ interests.",
      "reason": "Multinational Corporations have damaged the interests of small scale industries and agriculture.",
@@ -4014,13 +6269,222 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement I : Globalization is a multidimensional concept. Statement II : Globalization leads to the rise of cultural homogenisation. In the light of above statements, choose the correct answer from the options given below :",
+     "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true, but Statement II is false.",
+      "Statement I is false, but Statement II is true."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In India, the resistance to globalization has not come from :",
+     "options": [
+      "Left wing",
+      "Right wing",
+      "Trade unions",
+      "Multinational companies"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "How does globalization impact your life ? Support your answer with the help of any two suitable examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements marked as Assertion (A) and Reason (R). Read these statements carefully and choose the correct answer from the options (A), (B), (C) and (D) given below :",
+     "assertion": "All over the world, the old ‘welfare state’ is getting more importance.",
+     "reason": "Due to globalisation, the state withdraws from many of its earlier welfare functions and the market has become the prime determinant of economic and social priorities.",
+     "ar_options": [
+      "Both the Assertion (A) and the Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both the Assertion (A) and the Reason (R) are true, but the Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is false, but Reason (R) is true.",
+      "Assertion (A) is true, but Reason (R) is false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 5
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Globalisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the statement that best describes the concept of globalisation.",
+     "options": [
+      "The process of rapid integration or inter-connection among countries of the world through the flow of goods, capital, people and ideas.",
+      "Globalisation has increased states capabilities in the political field.",
+      "Globalisation has given freedom to consumers to choose from limited alternatives.",
+      "Globalisation has reduced the various opportunities of employment to the people."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "On what grounds can globalisation be considered a multi-dimensional concepts ? Explain with example.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Globalisation",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the given cartoon carefully and answer the questions that follow : (The two-panel cartoon is captioned “Yesterday” and “Today”. In “Yesterday”, a parent tells a child at the dinner table, “Finish your dinner — there are people in China and India who are starving…”. In “Today”, a parent tells a child doing homework, “Finish your homework — there are people in China and India who are starving for your job…”.) (i) Which change does the cartoon reflect ? (ii) What kind of shift is shown in America's attitude towards developing countries ? (iii) Mention any one positive and any one negative impact of globalization in reference to the cartoon. Note : The following questions are for Visually Impaired Candidates only in lieu of Q. No. 25 : (i) In which year did India embark on reforms for economic growth ? (ii) In which year and at what place was the first meeting of World Social Forum (WSF) organized ? (iii) State any two cultural consequences of globalization.",
+     "figures": [
+      "assets/figures/pol_2026_z2_q25_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "‘‘Globalization has been a boon for the economy of India despite the resistance shown by certain groups.’’ Support the statement.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "How has Information Technology been responsible in accelerating globalization across the world ? Explain with two examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Globalisation",
+     "type": "LA",
+     "marks": 4,
+     "text": "Show with the help of examples that flows of ideas, capital, commodities and people are instrumental for globalisation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain the meaning of globalisation.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Globalisation",
+     "type": "SA",
+     "marks": 2,
+     "text": "Analyse any two reasons for resistance to globalisation in India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Challenges of Nation-Building",
-   "count": 25,
+   "count": 47,
    "questions": [
     {
      "qno": 28,
@@ -4304,6 +6768,70 @@
      "topic": "General"
     },
     {
+     "qno": 15,
+     "chapter": "Challenges of Nation-Building",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain the two commonly agreed upon goals of the national movement which were achieved after independence.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Challenges of Nation-Building",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given Political outline map of India, four States have been marked as (A), (B), (C) and (D). Identify these States on the basis of the information given below and write their correct names in your answer book along with the respective serial numbers of the information used and the concerned alphabets shown in the map as per the format that follows : Sr. Number of the information used / Alphabet concerned / Name of the States. (i) The Princely State whose ruler resisted its merger with India. (ii) The State that was most affected by the partition of the country. (iii) The State carved out from Madhya Pradesh. (iv) The State that was formed in 1952. Note : The following questions are for the Visually Impaired Candidates only in lieu of Q. No. 25 : (25.1) Name the Union Territory which earlier was a state. (25.2) Name any one state that was most affected by the partition of the country. (25.3) Which state was carved out from Madhya Pradesh ? (25.4) Which state was formed in 1952 ?",
+     "figures": [
+      "assets/figures/pol_2025_z1_q25_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Describe any three circumstances under which the State Reorganisation Commission was constituted.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Describe the circumstances and events that led to Manipur's accession to India in 1949.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
      "qno": 29,
      "chapter": "Challenges of Nation-Building",
      "type": "LA",
@@ -4446,13 +6974,348 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following had created the Indian National Army (INA) during the Second World War ?",
+     "options": [
+      "Netaji Subhash Chandra Bose",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain any two reasons responsible for the establishment of the States Reorganization Commission and highlight the basis on which new states were created.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any three challenges which India faced at the time of independence.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 2,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is the reason that led to the formation of Andhra state in 1952 ?",
+     "options": [
+      "Realising the need to reorganise the internal boundaries of Indian states at the end of colonial rule.",
+      "Reorganisation of the Indian National Congress on the basis of linguistic principle after Nagpur session in 1920.",
+      "Death of the Congress leader, Potti Sriramulu which caused great unrest and led to resignation of several legislators of Madras in protest.",
+      "The Tamil speaking people of old Madras province demanding the reorganisation of state on the basis of language."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 2
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following statements is NOT correct about the princely states ?",
+     "options": [
+      "Princely states were ruled by the princes.",
+      "All the princely states had accepted to be an integral part of India after the end of British rule.",
+      "The princes of princely states accepted British supremacy and enjoyed some form of control over their internal affairs.",
+      "After the end of British paramountcy, the provinces were free to join either India or Pakistan or remain independent."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Challenges of Nation-Building",
+     "type": "Cartoon-based",
+     "marks": 4,
+     "text": "Study the given cartoon carefully and answer the questions that follow : (The cartoon shows a Prince, labelled with placards reading “External Affairs, Defence, Communication”, seated on the back of a kneeling poor man labelled “States People”, while a figure labelled “Patel” approaches saying, “No no. Don't get up, your nighness. Just give me this. Thay will do”.) (i) Name the leader talking to the Prince in this cartoon. (ii) What does the Prince sitting on the back of a poor man indicate ? (iii) What message is being conveyed by the cartoon ? Note : The following questions are only for the Visually Impaired Candidates in lieu of question number 25 : (i) Name the speech given by Jawaharlal Nehru at the hour of midnight on 14-15 August 1947. (ii) Name the first Deputy Prime Minister of India. (iii) Explain the two nation theory.",
+     "figures": [
+      "assets/figures/pol_2026_z1_q25_cartoon.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) How did Princely states posed a threat to the National Security of India ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any four problems faced during the process of partition of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the States given in List-I with the States from which these were carved out given in List-II correctly. Choose the correct answer from the codes given below : List-I : 1. Gujarat  2. Haryana  3. Meghalaya  4. Chhattisgarh List-II : (i) Assam  (ii) Bombay  (iii) Madhya Pradesh  (iv) Punjab",
+     "options": [
+      "1-(i), 2-(iii), 3-(iv), 4-(ii)",
+      "1-(ii), 2-(iv), 3-(i), 4-(iii)",
+      "1-(iii), 2-(iv), 3-(i), 4-(ii)",
+      "1-(ii), 2-(i), 3-(iv), 4-(iii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 6,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The States Reorganisation Commission was appointed in 1953 :",
+     "options": [
+      "to ensure administrative efficiency.",
+      "to end complexities regarding demarcation of the provinces' boundaries during colonial rule.",
+      "to ensure process of nation building.",
+      "for demarcation of states' boundaries on the basis of language."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 4,
+     "text": "Explain any two major concerns of Indian government regarding the reorganisation of states on the basis of language after the end of colonial rule.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match the Leaders in the Column ‘A’ with the Facts listed in the Column ‘B’ correctly. Column A : 1. Sardar Vallabhbhai Patel  2. Bodhchandra Singh  3. Potti Sriramulu  4. Jawaharlal Nehru Column B : (i) Tryst with Destiny  (ii) First Deputy Prime Minister  (iii) Vishalandhra Movement  (iv) Maharaja of a Princely State",
+     "options": [
+      "1-(iii), 2-(iv), 3-(ii), 4-(i)",
+      "1-(ii), 2-(iv), 3-(iii), 4-(i)",
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(iv), 2-(iii), 3-(i), 4-(ii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements : Statement I : During colonial period, the state boundaries were drawn on the administrative convenience. Statement II : After independence, redrawing of the boundaries of the states was based on different languages. In the light of the above given statements, choose the correct answer from the options given below :",
+     "options": [
+      "Both Statement I and Statement II are true.",
+      "Both Statement I and Statement II are false.",
+      "Statement I is true, but Statement II is false.",
+      "Statement I is false, but Statement II is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Describe any four consequences of the partition of British India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Challenges of Nation-Building",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Describe any four problems of the process of partition of British India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 7,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following advanced the ‘Two-nation theory’ ?",
+     "options": [
+      "British Government",
+      "Muslim League",
+      "Khan Abdul Gaffar Khan",
+      "Lord Mountbatten"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Challenges of Nation-Building",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "For Question number 8, two statements are given — one labelled as Assertion (A) and the other labelled as Reason (R). Read these statements carefully and choose the correct option as the answer from the options (A), (B), (C) and (D) given below.",
+     "assertion": "There were killings and atrocities on both sides of the border of India in 1947.",
+     "reason": "The planned transfer of the population had failed.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Challenges of Nation-Building",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India (on page 15), four States have been marked as (A), (B), (C) and (D). Identify these States on the basis of the information given below and write their correct names in your answer-book along with the respective serial number of the information used and the concerned alphabets given in the map as per the following format : Serial number of the information used / Concerned alphabet given in the map / Name of the State. (i) The state which was bifurcated between India and Pakistan at the time of the partition. (ii) The state which was created in 1966. (iii) The state to which the first Deputy Prime Minister Sardar Vallabhbhai Patel belonged. (iv) The state to which Maharaja Bodhchandra Singh belonged. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Q. No. 25 : (25.1) Name the first Home Minister of India. (25.2) In which year was Andhra state formed after independence ? (25.3) Name the theory that led to the partition of British India. (25.4) In which year was the Jharkhand state created ?",
+     "figures": [
+      "assets/figures/pol_2026_z5_q25_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Era of One-Party Dominance",
-   "count": 22,
+   "count": 38,
    "questions": [
     {
      "qno": 30,
@@ -4702,6 +7565,57 @@
      "topic": "General"
     },
     {
+     "qno": 22,
+     "chapter": "Era of One-Party Dominance",
+     "type": "LA",
+     "marks": 4,
+     "text": "“One party dominance did not affect the very essence of Indian democracy.” Justify the statement with any two arguments.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which political party won 16 Lok Sabha seats and was at second place in the first General Election of India ?",
+     "options": [
+      "Communist Party of India",
+      "Bharatiya Jan Sangh",
+      "Socialist Party",
+      "Swatantra Party"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Era of One-Party Dominance",
+     "type": "SA",
+     "marks": 2,
+     "text": "‘During the period of dominance of the Congress Party, its leaders never showed any desire to form new parties.’ Analyse any one reason for this.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 14
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 7,
      "chapter": "Era of One-Party Dominance",
      "type": "MCQ",
@@ -4753,6 +7667,11 @@
       {
        "year": 2025,
        "set": "59/4/1",
+       "qno": 16
+      },
+      {
+       "year": 2025,
+       "set": "59/7/1",
        "qno": 16
       }
      ],
@@ -4850,13 +7769,247 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match List-I with List-II correctly and choose the correct answer from the codes given below : List-I : 1. S. Nijalingappa  2. K. Kamaraj  3. Gaya Lal  4. Karpoori Thakur List-II : (i) Chief Minister of Madras (Tamil Nadu)  (ii) Chief Minister of Mysore (Karnataka)  (iii) Chief Minister of Bihar  (iv) Member of Legislative Assembly of Haryana",
+     "options": [
+      "1-(ii), 2-(i), 3-(iv), 4-(iii)",
+      "1-(iii), 2-(i), 3-(iv), 4-(ii)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Before which Lok Sabha elections was the slogan ‘Garibi Hatao’ given ?",
+     "options": [
+      "3rd",
+      "4th",
+      "5th",
+      "6th"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Era of One-Party Dominance",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India (on page 15), four States have been marked as (A), (B), (C) and (D). Identify these States on the basis of the information given below and write their correct names in your answer-book along with the respective serial number of the information used and the concerned alphabets given in the map as per the following format : Serial number of the information used / Concerned alphabet given in the map / Name of the State. (i) The state associated with the communist leader A.K. Gopalan. (ii) The state to which Rafi Ahmed Kidwai, first Minister for Communications belonged. (iii) The state where Congress Party was dominant from 1952 to 1967. (iv) The state where National Conference came into power in 1952. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Question No. 25 : (25.1) Name the founder of the Bharatiya Jana Sangh Party. (25.2) In which year did the Communist Party of India split ? (25.3) Name the Chairman of the Drafting Committee of the Indian Constitution. (25.4) Name any one North-Eastern State where the Congress Party was dominant from 1952 – 1967.",
+     "figures": [
+      "assets/figures/pol_2025_z7_q25_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the State with which the phrase ‘Aaya Ram, Gaya Ram’ is related to.",
+     "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Haryana",
+      "Rajasthan"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Era of One-Party Dominance",
+     "type": "LA",
+     "marks": 4,
+     "text": "Highlight any two differences between the ideologies of Socialist party and Communist party of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Era of One-Party Dominance",
+     "type": "LA",
+     "marks": 4,
+     "text": "The ideology of ‘Bharatiya Jana Sangh’ party was to make India a progressive and strong nation. Do you agree with the statement ? Support your answer with any four suitable arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Era of One-Party Dominance",
+     "type": "LA",
+     "marks": 4,
+     "text": "Analyse any two major challenges faced by the Election Commission before conducting the first General Elections in India after independence.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 21
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which state was a coalition government formed in 1957 under the leadership of Communist Party of India ?",
+     "options": [
+      "West Bengal",
+      "Kerala",
+      "Assam",
+      "Andhra Pradesh"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "To which political party did Rafi Ahmed Kidwai belong ?",
+     "options": [
+      "Muslim League",
+      "Indian National Congress",
+      "Communist Party of India",
+      "Socialist Party"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Era of One-Party Dominance",
+     "type": "SA",
+     "marks": 2,
+     "text": "Why did the Communist Party of India abandon the path of violent revolution in 1951 ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Era of One-Party Dominance",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the name of that political party which has Gandhian Socialism along with cultural nationalism as its ideology.",
+     "options": [
+      "Socialist Party",
+      "Janata Party",
+      "National Conference",
+      "Bharatiya Janata Party"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Era of One-Party Dominance",
+     "type": "SA",
+     "marks": 2,
+     "text": "Show the ideology of the Jana Sangh that makes it different from other parties.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Era of One-Party Dominance",
+     "type": "SA",
+     "marks": 2,
+     "text": "Highlight any two features of the nature of the Congress party as a social and ideological coalition.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Politics of Planned Development",
-   "count": 24,
+   "count": 37,
    "questions": [
     {
      "qno": 8,
@@ -5199,6 +8352,63 @@
      "topic": "General"
     },
     {
+     "qno": 7,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one among the following statements is not the objective of NITI Aayog ?",
+     "options": [
+      "Provide a critical directional and strategic input to the development process of India.",
+      "Serve as a think tank of the government both at the centre and state level.",
+      "Arrange funds for the implementation of developmental programs.",
+      "Seek to put an end to the slow and tardy implementation of the policies."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which statement among the following is correct about the planning ideology of left wing ?",
+     "options": [
+      "The Left supports a free-market economy.",
+      "They support government policies which are for the benefit of poor sections.",
+      "They do not want unnecessary intervention of government in the economy.",
+      "They advocate for progressive policies."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Politics of Planned Development",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain any two differences between the First Five Year Plan and Second Five Year Plan.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 9,
      "chapter": "Politics of Planned Development",
      "type": "MCQ",
@@ -5296,13 +8506,215 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "For Question number 3, two statements are given — one labelled as Assertion (A) and the other labelled as Reason (R). Read these statements carefully and choose the correct option as the answer from the options (A), (B), (C) and (D) given below.",
+     "assertion": "Modernisation is associated with the ideas of growth, material progress and scientific rationality.",
+     "reason": "The Government of India replaced the Planning Commission with a new institution named NITI Aayog.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+      "Assertion (A) is false, but Reason (R) is true.",
+      "Assertion (A) is true, but Reason (R) is false."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who among the following was associated with the preparation of the draft of the First Year Plan ?",
+     "options": [
+      "K.N. Raj",
+      "P.C. Mahalanobis",
+      "Jawaharlal Nehru",
+      "Charan Singh"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Politics of Planned Development",
+     "type": "SA",
+     "marks": 2,
+     "text": "Highlight any two objectives of establishing Planning Commission.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 13
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Given below are two statements marked as Assertion (A) and Reason (R). Read these statements and choose the correct answer from the given options :",
+     "assertion": "The idea of Five Year Plans (FYP) in India was inspired by the USSR.",
+     "reason": "Due to acute economic crisis, the Indian Government started ‘Plan Holiday’ in 1966.",
+     "ar_options": [
+      "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "Assertion (A) is false, but Reason (R) is true.",
+      "Assertion (A) is true, but Reason (R) is false."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 1
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 3,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following statements is NOT correct about the first two Five Year Plan ?",
+     "options": [
+      "The first Five Year Plan was drafted by K.N. Raj and the second Five Year Plan was drafted by P.C. Mahalnobis.",
+      "The first Five Year Plan focussed on agriculture and the second Five Year Plan focussed on industries.",
+      "The first Five Year Plan emphasized on the active role of the public sector and the second Five Year Plan made huge allocations for large scale projects.",
+      "The aim of first Five Year Plan was to raise the industrial production and in the second Five Year Plan, the government imposed substantial tariffs on imports in order to protect both public and private sector industries."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 3
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Politics of Planned Development",
+     "type": "SA",
+     "marks": 2,
+     "text": "Highlight any two fundamental differences between the First Five Year Plan and the Second Five Year Plan.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct full form of ‘NITI’ of NITI Aayog.",
+     "options": [
+      "National Improvement Trust of India",
+      "National Institution for Technology Improvement",
+      "National Institute for Transformed India",
+      "National Institution for Transforming India"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The focus of the Second Five Year Plan was :",
+     "options": [
+      "Agriculture",
+      "Atomic Energy",
+      "Heavy Industries",
+      "Small Scale Industries"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "‘NITI Aayog’ came into existence on :",
+     "options": [
+      "1st January, 2015",
+      "26th January, 2015",
+      "15th August, 2015",
+      "1st November, 2015"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Politics of Planned Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events in chronological order : (i) P.C. Mahalanobis led a Five-Year Plan. (ii) K.N. Raj was involved in drafting the First Five-Year Plan. (iii) The ‘Bombay Plan’ was drafted. (iv) The Planning Commission was set up.",
+     "options": [
+      "(iii), (iv), (ii), (i)",
+      "(iv), (iii), (ii), (i)",
+      "(iii), (iv), (i), (ii)",
+      "(iv), (iii), (i), (ii)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "India's External Relations",
-   "count": 36,
+   "count": 58,
    "questions": [
     {
      "qno": 22,
@@ -5831,6 +9243,115 @@
      "figures": []
     },
     {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) “The foreign policy of Independent India has pursued the dream of a peaceful world.” Support the statement with three suitable arguments.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) “India played an important role in maintaining Afro-Asian Unity.” Support the statement with three suitable examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 4,
+     "chapter": "India's External Relations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following in chronological order of their happening : (i) India-China War (ii) India's first test of a nuclear device (iii) Terrorists attack on World Trade Centre in America (iv) The Anti-Ballistic Missile Treaty. Choose the correct option :",
+     "options": [
+      "(i), (ii), (iii), (iv)",
+      "(ii), (iv), (iii), (i)",
+      "(iv), (i), (iii), (ii)",
+      "(i), (iv), (ii), (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 4
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 7,
+     "chapter": "India's External Relations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct statement about India's nuclear policy from the statements given below :",
+     "options": [
+      "India's nuclear programme was started in 1952 under the guidance of Homi J. Bhabha.",
+      "India was in support of the NPT.",
+      "Now India has made it clear that the policy of ‘no first use’ can be reviewed.",
+      "Nehru was not against nuclear weapons."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 7
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "India's External Relations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which political party of India wanted India to follow a pro-US foreign policy ?",
+     "options": [
+      "Bharatiya Jan Sangh",
+      "Communist Party",
+      "Socialist Party",
+      "Congress Party"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 4,
+     "text": "Highlight any four important features of the Nuclear Policy of India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 17,
      "chapter": "India's External Relations",
      "type": "SA",
@@ -5920,13 +9441,270 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "India's External Relations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following in chronological order : (i) Indo-China War (ii) Establishment of Bangladesh (iii) First summit of the NAM (iv) Pakistan launched armed attacks in the Rann of Kutch area of Gujarat. Choose the correct option :",
+     "options": [
+      "(i), (ii), (iii), (iv)",
+      "(ii), (iii), (i), (iv)",
+      "(iii), (i), (ii), (iv)",
+      "(iv), (i), (ii), (iii)"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Describe any four contributions made by India to promote international peace and security.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Describe any four important principles of India's foreign policy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) “India's Foreign Policy has been successful in saving its ‘National Interests’.” Support the statement with three arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) “India's Foreign Policy is as per the principles of International Peace and Security as laid down in Article 51 of the Indian Constitution.” Justify the statement with three examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Analyse any three principles of India's foreign policy which you would like to alter in the present international scenario.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) “India's nuclear policy is a blend of strategic autonomy and a commitment to global disarmament.” Justify the statement with any three suitable arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 8,
+     "chapter": "India's External Relations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events in a chronological order : (i) Atomic test conducted by China (ii) First nuclear explosion conducted by India (iii) Implementation of Nuclear Non-Proliferation Treaty (iv) Initiation of the atomic programme in India under the guidance of Homi Jehangir Bhabha. Choose the correct option :",
+     "options": [
+      "(ii), (iii), (i), (iv)",
+      "(iv), (i), (iii), (ii)",
+      "(i), (iii), (iv), (ii)",
+      "(iv), (iii), (ii), (i)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "India's External Relations",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the passage given below carefully and answer the questions based on it : “India made earnest efforts for the early realisation of freedom of Indonesia from the Dutch colonial regime by convening an international conference in 1949 to support its freedom struggle. India was a staunch supporter of the decolonisation process and firmly opposed racism, especially apartheid in South Africa. The Afro-Asian Conference held in the Indonesian city of Bandung in 1955, commonly known as the Bandung Conference, marked the zenith of India's engagement with the newly independent Asian and African nations. The Bandung Conference later led to the establishment of the NAM.” (i) Which Indian leader played an important role in manifesting the Afro-Asian unity ? (A) Sardar Vallabhbhai Patel (B) Jawaharlal Nehru (C) Mahatma Gandhi (D) Lal Bahadur Shastri (ii) In which year did the Non-Alignment Movement become the symbol of Afro-Asian unity ? (A) 1959 (B) 1960 (C) 1961 (D) 1962 (iii) Identify the main intention behind the strengthening Afro-Asian unity. (A) To gain economic support from the USA bloc (B) To co-operate with the USSR bloc in enhancing its global policies (C) To form military alliances in the era of Cold War (D) To maintain distance from both the superpowers (USA and USSR) in order to protect its freedom (iv) The first summit of the Non-Aligned Movement (NAM) was held in which year ? (A) 1961 (B) 1962 (C) 1963 (D) 1964",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "India's External Relations",
+     "type": "SA",
+     "marks": 2,
+     "text": "Highlight any two steps taken by India for Asian and Afro-Asian Unity.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 4,
+     "text": "Analyse the relations between India and China since independence.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "India's External Relations",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the following passage carefully and answer the questions based on it : “After the Chinese revolution, India was one of the first countries to recognise the communist government. Nehru felt strongly for this neighbour and helped the new government in international fora. A joint enunciation of peaceful coexistence was signed by Indian Prime Minister and the Chinese premier in 1954. But two developments strained this relationship. China annexed Tibet and removed a historical buffer between the two countries. A little earlier, a boundary dispute had surfaced between India and China.” (i) In which year was Tibet annexed by China ? (A) 1949 (B) 1950 (C) 1951 (D) 1952 (ii) Choose the name of the Tibetan spiritual leader who had obtained political asylum in India. (A) Dalai Lama (B) Kazi Dorzi (C) Zhou Enlai (D) V.K.S. Menon (iii) Which one of the following was jointly signed by India and China in 1954 ? (A) Non-Alignment Agreement (B) Panchsheel (C) Agreement on Apartheid (D) Principles of Socialism (iv) The reason of the Chinese invasion in 1962 was : (A) Boundary dispute (B) India's interference in Tibet (C) India's policy of non-alignment (D) India's good relations with USA",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) ‘‘Indo-Russian relations are embedded in the history of trust and common interests.’’ Support the statement with four examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) ‘‘Soviet system was to ensure the welfare of the people.’’ Support the statement with four examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain any three reasons that are responsible for the strained relations between India and China.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "India's External Relations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain any three important features of India's Nuclear Policy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Challenges to and Restoration of the Congress System",
-   "count": 20,
+   "count": 37,
    "questions": [
     {
      "qno": 23,
@@ -6233,6 +10011,127 @@
      "topic": "General"
     },
     {
+     "qno": 9,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the main reason for the split in Congress Party in 1969.",
+     "options": [
+      "Change in the ideology of Congress Party",
+      "Dominance of the Congress Syndicate",
+      "Difference of opinion among the opposition parties",
+      "Opposition parties came together"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify and choose the incorrect pair :",
+     "options": [
+      "Lal Bahadur Shastri – Jai Jawan Jai Kisan",
+      "Indira Gandhi – Garibi Hatao",
+      "Syndicate – A group of powerful opposition leaders against Indira Gandhi",
+      "Grand Alliance – Formed by all Non-Congress Parties"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "SA",
+     "marks": 2,
+     "text": "State the severe economic crisis prior to the fourth general elections of 1967.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Describe the role of Jaya Prakash Narayan in Indian National Politics.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Describe any two reasons for the victory of Janata Party in 1977 Lok Sabha elections.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": "23-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 20,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "LA",
+     "marks": 4,
+     "text": "“The 1960s were labelled as the ‘dangerous decade’ in India.” Explain any two reasons for this.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 20
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India, four states have been marked as (A), (B), (C) and (D). Identify these states on the basis of the information given below and write their correct names in your answer-book along with the respective serial numbers of the information used and the concerned alphabets as per the format that follows : Serial number for the information used / Alphabet concerned / Name of the States. (i) The state, where the assassination of Rajiv Gandhi took place. (ii) The state where Karpoori Thakur was a Chief Minister. (iii) The state where UPA won the majority of seats in Lok Sabha elections in 2004. (iv) The state where Bahujan Samaj Party (BSP) achieved a breakthrough in 1989 & 1991 elections. Note : The following questions are only for the Visually Impaired Candidates in lieu of question number 25. Name the following : (25.1) Name the state where Rajiv Gandhi was assassinated. (25.2) Name the state where Karpoori Thakur was a Chief Minister. (25.3) Name the state where Bahujan Samaj Party (BSP) achieved a breakthrough in 1989 & 1991 elections. (25.4) Name the alliance that formed government at the centre in 1989.",
+     "figures": [
+      "assets/figures/pol_2025_z2_q25_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 22,
      "chapter": "Challenges to and Restoration of the Congress System",
      "type": "LA",
@@ -6295,13 +10194,179 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "SA",
+     "marks": 2,
+     "text": "Name any four Prime Ministers of India who ruled for less than a year.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "SA",
+     "marks": 2,
+     "text": "Justify the abolition of Privy Purses by Indira Gandhi.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the name of the Prime Minister who abolished ‘Privy Purse’.",
+     "options": [
+      "Morarji Desai",
+      "Lal Bahadur Shastri",
+      "Rajiv Gandhi",
+      "Indira Gandhi"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "SA",
+     "marks": 2,
+     "text": "Describe any two challenges faced by India during the term of Prime Minister Lal Bahadur Shastri.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India, four states have been marked as A, B, C and D. Identify these on the basis of the information given below and write their correct names in your answer book along with their respective serial number of the information used and the concerned alphabet as per format that follows : Sr. No. of the information used / Concerned alphabet in the map / Name of the state. (i) The state related to student movement against inflation and corruption in 1974. (ii) The state related to the farmer's leader Chaudhary Charan Singh. (iii) The state related to Congress leader Jag Jeevan Ram. (iv) The state where Congress could not win even a single Lok Sabha seat in 1977 elections. Note : The following questions are only for the Visually Impaired Candidates in lieu of question number 26 : (i) Write the name of first Prime Minister of Janta Party Government. (ii) In which year, was the National Emergency imposed in India by Indira Gandhi government ? (iii) Name the leader who announced a nationwide Satyagraha at Ram Lila Maidan before the declaration of National Emergency. (iv) Name the political party that won the Lok Sabha Election in 1977.",
+     "figures": [
+      "assets/figures/pol_2026_z1_q26_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "LA",
+     "marks": 4,
+     "text": "During the decade of 1960, how did the Congress Party resolve the challenge of political succession ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India (on page 17), four States have been marked as (A), (B), (C) and (D). Identify these States on the basis of the information given below and write their correct names in your answer-book along with their respective serial number of the information used and the concerned alphabet given in the map as per the following format : Serial number of the information used / Concerned alphabet given in the map / Name of the States. (i) The state related to Prime Minister Lal Bahadur Shastri. (ii) The state for which K. Kamaraj initiated Mid-day Meal programme to increase enrolment in education. (iii) The state in which the Congress Party did not get majority in the Assembly Elections of 1967, but formed a government with the support of other parties. (iv) The state where Non-Congress coalition government was formed after the Assembly Elections of 1967. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Q. No. 26 : (26.1) State the famous slogan coined by Lal Bahadur Shastri. (26.2) In which year did the Congress Party split ? (26.3) Who was the second Prime Minister of India after Pt. Jawaharlal Nehru ? (26.4) Describe the ‘Kamaraj Plan’ of 1963.",
+     "figures": [
+      "assets/figures/pol_2026_z3_q26_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India (on page 15), four States have been marked as (A), (B), (C) and (D). Identify these States on the basis of the information given below and write their correct names in your answer-book along with the respective serial number of the information used and the concerned alphabets given in the map as per the following format : Serial number of the information used / Concerned alphabet given in the map / Name of the State. (i) The State from where Indira Gandhi got elected in the 1971 elections. (ii) The State to which Chief Minister C. Natrajan Annadurai belonged. (iii) The State with which the phrase ‘Aya Ram, Gaya Ram’ is related. (iv) The State where Karpoori Thakur was the Chief Minister. Note : The following questions are for the Visually Impaired Candidates only, in lieu of Q. No. 25 : (25.1) In which year was the fifth Lok Sabha election held in India. (25.2) Name the President of India who was elected in 1969. (25.3) From which state did the phrase ‘Aya Ram, Gaya Ram’ originate ? (25.4) Name the leader who gave the slogan ‘Garibi Hatao’.",
+     "figures": [
+      "assets/figures/pol_2026_z4_q25_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 25
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Explain any two major reasons for the split in the Congress party after the 1967 elections.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Challenges to and Restoration of the Congress System",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Explain any four reasons for the popularity of Prime Minister Indira Gandhi before the fifth general elections.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "The Crisis of Democratic Order",
-   "count": 25,
+   "count": 37,
    "questions": [
     {
      "qno": 9,
@@ -6671,6 +10736,65 @@
      "topic": "General"
     },
     {
+     "qno": 6,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the appropriate option as correct answer :",
+     "assertion": "The government suspended the freedom of press and implemented press censorship during emergency in 1975.",
+     "reason": "Newspapers protested against censorship by showing the cartoons only.",
+     "ar_options": [
+      "Both the Assertion (A) and the Reason (R) are correct, and the Reason (R) is the correct explanation of the Assertion (A).",
+      "Both the Assertion (A) and the Reason (R) are correct, but the Reason (R) is not the correct explanation of the Assertion (A).",
+      "The Assertion (A) is incorrect, but the Reason (R) is correct.",
+      "The Assertion (A) is correct, but the Reason (R) is incorrect."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 6
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "On which one of the following basis was emergency declared in 1975 ?",
+     "options": [
+      "Internal disturbances",
+      "External threat",
+      "Armed rebellion",
+      "External Aggression"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain any two reasons for the split in the Janta Party in 1979.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
      "qno": 23,
      "chapter": "The Crisis of Democratic Order",
      "type": "LA",
@@ -6730,13 +10854,172 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "LA",
+     "marks": 4,
+     "text": "Describe the objectives and means of the student movement in Bihar under the leadership of Jayaprakash Narayan in 1974.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Match List-I with List-II correctly and choose the correct answer from the codes given below : List-I : (a) Congress for democracy  (b) Garibi Hatao  (c) Student movement led by  (d) Total Revolution List-II : (i) Gujarat  (ii) Jay Prakash Narayan  (iii) Jagjeevan Ram  (iv) Indira Gandhi  [note: item (c) in List-I is ‘Student movement led by Morarji Desai’]",
+     "options": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events in chronological order : (i) Declaration of National Emergency on the basis of internal disturbances. (ii) Railway strike by government employees under the leadership of George Fernandes. (iii) Sixth General Election held in India. (iv) Declaration of the doctrine of ‘basic structure’ of the Constitution in the ‘Keshavananda Bharti’ case by the Supreme Court. Choose the correct option :",
+     "options": [
+      "(iv), (ii), (i), (iii)",
+      "(i), (iii), (iv), (ii)",
+      "(iii), (ii), (i), (iv)",
+      "(iv), (iii), (ii), (i)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "SA",
+     "marks": 2,
+     "text": "Name any four political parties that had merged to form Janata Party in 1977.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 17
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 9,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "In which year did the largest public sector undertaking, Railways, go on a strike ?",
+     "options": [
+      "1974",
+      "1973",
+      "1972",
+      "1971"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 9
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following was the decision of the Supreme Court given on 24 June, 1975 about the Indira Gandhi case ?",
+     "options": [
+      "Election of Indira Gandhi was invalid.",
+      "Indira Gandhi used the services of the government officials in her election campaign which is against the concept of ‘basic structure’ of the Constitution.",
+      "Indira Gandhi was ordered to resign from her post immediately.",
+      "Indira Gandhi was granted a partial stay on the High Court order, allowing her to remain a member of the Parliament, but could not take part in the Lok Sabha proceedings."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "SA",
+     "marks": 2,
+     "text": "Which two reasons were given by the Government for declaring the National Emergency in 1975 ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 16
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "LA",
+     "marks": 4,
+     "text": "Explain any four steps taken by the government to control the opposition to Emergency imposed in 1975.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "The Crisis of Democratic Order",
+     "type": "LA",
+     "marks": 4,
+     "text": "Was the Emergency declared in 1975 necessary ? Support your answer with two arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Regional Aspirations",
-   "count": 33,
+   "count": 50,
    "questions": [
     {
      "qno": 7,
@@ -7219,6 +11502,67 @@
      "chapter": "Regional Aspirations",
      "type": "SA",
      "marks": 2,
+     "text": "“Regionalism is not as dangerous as communalism.” Justify the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Regional Aspirations",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the passage given below and answer the questions that follow : “India adopted a democratic approach to the question of diversity. Democracy allows the political expressions of regional aspirations and does not look upon them as anti-national. Besides, democratic politics allows parties and groups to address the people on the basis of their regional identity, aspiration and specific regional problems. Thus, in the course of democratic politics, regional aspirations get strengthened. At the same time, democratic politics also means that regional issues and problems will receive adequate attention and accommodation in the policy making process.” (24.1) Which period in India is seen as a period of grooming regional aspirations for autonomy ? (A) 1960s (B) 1970s (C) 1980s (D) 1990s (24.2) Which type of diversity is dominant in India ? (A) Social diversity (B) Political diversity (C) Cultural diversity (D) Regional diversity (24.3) How does democracy deal with the regional problems ? (A) Through regular negotiations (B) Through strong steps (C) Through elections (D) Through economic measures (24.4) Which one of the following joined Indian Union in 1975 ? (A) Goa (B) Sikkim (C) Puducherry (D) An Island",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) “Regional demands from different parts of India show that India has adopted a democratic approach to accommodate diversity.” Justify the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Examine any three problems related to the Jammu and Kashmir.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Regional Aspirations",
+     "type": "SA",
+     "marks": 2,
      "text": "Assess the result of Secessionist Movement in Mizoram.",
      "papers": [
       {
@@ -7328,13 +11672,216 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 30,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Assess the reasons for the Dravidian Movement and its outcomes.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Why is the period since 1980 known for the rise of regional aspirations ? Assess India's response to these aspirations.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Regional Aspirations",
+     "type": "SA",
+     "marks": 2,
+     "text": "“The demands of various regional aspirations during 1980s was a step towards nation building.” Support the statement with argument.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) “India has accepted expressions of regional aspirations to strengthen the national integrity.” Support the statement with two examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Do you agree that the Assam accord was successful in establishing peace and stability in the State ? Support your answer with any two arguments.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 15,
+     "chapter": "Regional Aspirations",
+     "type": "SA",
+     "marks": 2,
+     "text": "How does the geographical location of the North-East region has affected the expression of its regional demands ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 15
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Regional Aspirations",
+     "type": "Map-based",
+     "marks": 4,
+     "text": "In the given political outline map of India, four states have been marked as A, B, C and D. Identify these on the basis of the information given below and write their correct names in your answer-book along with their respective serial number of the information used and the concerned alphabet as per the format that follows : Serial number of the information used / Concerned Alphabet in the map / Name of the State. (i) The state related to the leader of Dravidian Movement E.V. Ramasami Naicker. (ii) The state whose formation was supported by Master Tara Singh. (iii) The state where the movement against outsiders was started by students. (iv) The state for which Rajiv Gandhi and Laldenga signed an agreement for peace. Note : The following questions are for Visually Impaired Candidates only in lieu of Q. No. 26 : (i) State the article related to Jammu and Kashmir which was abolished in 2019. (ii) Name any one regional political party of the Jammu & Kashmir. (iii) In which year did Arunachal Pradesh become a separate state ? (iv) Name the popular leader of Mizo National Front (MNF).",
+     "figures": [
+      "assets/figures/pol_2026_z2_q26_map_india.png"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 26
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Explain the efforts of the Punjab government and the Indian government to foster peace in the State of Punjab.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 28
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Explain the main factors responsible for the demands of autonomy by the north-eastern states in India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": "28-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 29,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Describe any three major developments witnessed by Punjab that led to dissatisfaction and violence.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Describe any three measures that can be taken by the Union government to address the regional movements and demands.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 30,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) ‘Regional aspirations and demands are part and parcel of democratic politics.’ Support the statement with three examples.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Regional Aspirations",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Suggest any three measures to strengthen ‘unity in diversity’ in India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Recent Developments in Indian Politics",
-   "count": 43,
+   "count": 69,
    "questions": [
     {
      "qno": 11,
@@ -7895,6 +12442,131 @@
      "chapter": "Recent Developments in Indian Politics",
      "type": "MCQ",
      "marks": 1,
+     "text": "BJP led alliance of 2019 is known as :",
+     "options": [
+      "United Progressive Alliance",
+      "United Front",
+      "National Democratic Alliance",
+      "Democratic Coalition"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Who led the Central Government after the 1999 Lok Sabha Elections ?",
+     "options": [
+      "P.V. Narasimha Rao",
+      "Atal Bihari Vajpayee",
+      "Manmohan Singh",
+      "H.D. Deve Gauda"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Describe any three major developments that took place in Indian politics in the last decade of the 20th century.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Describe any three recommendations of the Mandal Commission to solve the problems of the other backward classes.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/1/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 10,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Choose the correct full form of the EVM.",
+     "options": [
+      "Electric Voting Machine",
+      "Easy Voting Machine",
+      "Electronic Voting Machine",
+      "Election Voting Machine"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 10
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Explain any two reasons for the beginning of a long phase of coalition politics in India since 1989.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": 22
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Explain the role of ‘Other Backward Classes’ in the Indian politics.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/2/1",
+       "qno": "22-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
      "text": "During the tenure of which Prime Minister were the new economic reforms started ?",
      "options": [
       "V.P. Singh",
@@ -8071,6 +12743,325 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 4,
+     "text": "Explain any two developments that took place in Indian politics after 1989 which made a long lasting impact on its politics.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "59/7/1",
+       "qno": 23
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Arrange the following events in chronological order : (i) Assassination of former Prime Minister Rajiv Gandhi. (ii) Formation of the First Non-Congress coalition government at the centre. (iii) Sixteenth Lok Sabha elections. (iv) The Mandal Commission gave its recommendations. Choose the correct option :",
+     "options": [
+      "(ii), (iii), (i), (iv)",
+      "(i), (iv), (iii), (ii)",
+      "(iv), (ii), (i), (iii)",
+      "(iii), (i), (ii), (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the political party which has had a continuous growth in its Lok Sabha seats in the General Elections from 2009 to 2019.",
+     "options": [
+      "Indian National Congress (INC)",
+      "Bharatiya Janata Party (BJP)",
+      "Shiv Sena (SS)",
+      "Communist Party of India (CPI)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) Describe any four factors responsible for the rise of coalition governments at the centre after the year 1989.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Describe any four issues on which a broad agreement has emerged among most political parties.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/1/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 8,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which was the last state toured by Rajiv Gandhi for his election campaign in May 1991 ?",
+     "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 8
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The alliance that has formed the government at the centre the maximum number of times :",
+     "options": [
+      "United Progressive Alliance (UPA)",
+      "National Front",
+      "United Front",
+      "National Democratic Alliance (NDA)"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 12
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "SA",
+     "marks": 2,
+     "text": "Analyse the main reason responsible for the formation of Coalition Governments after 1989.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 4,
+     "text": "(a) Explain any four differences between the governments formed in the first three General Elections held in India after independence and the coalition governments formed after the year 1989.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": 19
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 4,
+     "text": "(b) Explain any four advantages of coalition governments with reference to Indian politics.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/2/1",
+       "qno": "19-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "SA",
+     "marks": 2,
+     "text": "Analyse any two factors responsible for the change in the nature of coalition governments at the Centre after the General Elections of 2014.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) How did the Mandal Commission recommendations prove to be an effort to solve the problems of Other Backward Classes (OBCs) ? Analyse.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": 29
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 29,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Examine any three grounds on which the regional parties support the various coalition governments formed at the Centre in India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/3/1",
+       "qno": "29-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 18,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "SA",
+     "marks": 2,
+     "text": "Analyse any two major problems of Indian politics from 1989 to 1999.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(a) State any four major political happenings of the decade of the nineties which had a widespread impact.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": 30
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 30,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "LA",
+     "marks": 6,
+     "text": "(b) Describe any four issues on which a broad agreement has emerged among most of the political parties in India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/4/1",
+       "qno": "30-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 11,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The government of which political party/alliance decided to implement the recommendations of the Mandal Commission ?",
+     "options": [
+      "Indian National Congress",
+      "National Front",
+      "United Front",
+      "Janata Party"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 11
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "SA",
+     "marks": 2,
+     "text": "Explain any two immediate consequences of the implementation of the recommendations of the Mandal Commission in August 1990.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 18
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Recent Developments in Indian Politics",
+     "type": "Passage-based",
+     "marks": 4,
+     "text": "Read the following passage carefully and answer the questions based on it : “The defeat of the Congress party in 1989 marked the end of Congress dominance over the Indian party system. It did not, however, mean the emergence of any other single party to fill in its place. Thus, began an era of multi-party system, in which regional parties played a crucial role in forming the alliances.” (i) In which year did the Congress party face a setback for the first time and lose power in some states ? (A) 1962 (B) 1967 (C) 1971 (D) 1977 (ii) Which political party/alliance formed the first coalition government in December 1989 ? (A) National Conference (B) National Front (C) Indian National Congress (D) United Front (iii) Which one of the following regional parties never formed a government in any state ? (A) Bahujan Samaj Party (B) Dravida Munnetra Kazhagam (C) Bharatiya Kranti Dal (D) Shiromani Akali Dal (iv) Which party was the largest party in the Lok Sabha after the 1989 elections ? (A) National Front (B) Indian National Congress (C) Bharatiya Janata Party (D) Janata Party",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "59/5/1",
+       "qno": 24
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
