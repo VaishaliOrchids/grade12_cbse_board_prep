@@ -5,7 +5,7 @@
  "years": [
   2023
  ],
- "total_questions": 29,
+ "total_questions": 58,
  "chapter_order": [
   "Reading Comprehension: Discursive Passage",
   "Reading Comprehension: Case-based Factual Passage",
@@ -37,7 +37,7 @@
  "chapters": [
   {
    "chapter": "Reading Comprehension: Discursive Passage",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "1",
@@ -54,13 +54,29 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "1",
+     "chapter": "Reading Comprehension: Discursive Passage",
+     "type": "Reading Comprehension",
+     "marks": 10,
+     "text": "Read the passage given below :\n1 When we think of the game of cricket, we come to the conclusion that it is primarily a game that depends on outstanding physical activities, good hand-eye co-ordination, speed, skill and strength. It provides entertainment and generates strong feelings of excitement. A good match of cricket or of any other game neither adds to the existing stock of human knowledge nor reveals any secret of existence. It does not carry any deep meaning but most people, particularly the lover of sports attach deep emotions and numerous meanings to it. Games are thought of as a metaphor for life. They are supposed to teach many lessons. In fact, more is said and written about a cricket match than about scientific findings or great philosophy.\n2 This is because games, like a morality play, in which settings and rules are made by us, can easily make people test their fair and foul conduct, principles of reward and punishment, and emotions of joy and disappointment. They can make us experience the thrill of war without exposing us to its dangers. A man watching a cricket match on T.V. and munching popcorn is like a surrogate warrior. In fact, games provide us with a safe outlet for our aggressiveness. If games become aggressive, they lose the very purpose of providing entertainment and purging us of our aggressiveness. They can calm our impatience without creating any conflict.\n3 Commentators, journalists, politicians and analysts can do a great favour to the competing teams by keeping the excitement within limits. The teams should play without being dominated by feelings of national honour and shame. Excellent performance of the players of both teams should be enjoyed and appreciated.\nWinning or losing in a game should not be taken seriously. A game is fun if it is played with true spirit of sportsmanship.",
+     "text_after": "Based on your understanding of the passage, answer the questions given below : (i) Complete the sentence by choosing an appropriate option : Most people conclude that cricket is primarily a game because ______. (a) it is played as a match (b) it requires two teams (c) it includes physical activity (d) it depends only on skill and strength (ii) Comment on the writer’s reference to that cricket does not reveal any secret of existence. (iii) List two responses which watching a game of cricket gives rise to. (iv) Select the option that conveys the opposite of ‘destroy’ from words used in the passage. (a) reveals (b) experience (c) generate (d) purging (v) The writer would not agree with the given statements based on paragraph 2, EXCEPT (a) Rules of any game are made by people. (b) Watching a cricket match makes the viewer believe that he is fighting a battle ? (c) It is necessary for a game to be aggressive in order to build excitement. (d) A game can test people’s sense of fair judgement. (vi) With reference to the passage, a spectator is compared to a ‘surrogate warrior’. Choose the option that best describes this phrase : (a) a spectator who is paid to watch. (b) a spectator who is in pain while watching the match. (c) a spectator who enjoys the match as an armchair soldier. (d) a spectator who makes judgement about reward and punishment. (vii) Why does the writer compare games to a morality play ? (viii) Complete the given sentence with an appropriate inference with respect to the following : The writer says that games can calm our impatience without creating any conflict by _________. (ix) The writer advises the players that games should not become aggressive because ____________. (x) Select the most suitable title for the above passage. (a) Excellent Performance by Cricketers (b) The Benefits of Playing Cricket (c) Cricket – The King of Games (d) The True Spirit of Playing Games",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "1"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Reading Comprehension: Case-based Factual Passage",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "2",
@@ -121,13 +137,32 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "2",
+     "chapter": "Reading Comprehension: Case-based Factual Passage",
+     "type": "Reading Comprehension",
+     "marks": 10,
+     "text": "Read the following report and answer the questions by choosing the correct/most appropriate option :\n1 How bird hits happen, why they are a concern ?\nNew Delhi June 20\nAt least two bird strike incidents happened on Sunday. Both aircrafts returned to their airports of origin and were grounded for maintenance. An ABC aircraft, which took off from Guwahati towards Delhi, suffered damage to its left engine following a bird hit at 1600 feet. The pilots returned to Guwahati. The other strike happened on another flight from Patna to Delhi. The pilots of the aircraft suspected a bird strike during the take-off roll but continued to climb. Following the take off rotation, they were informed by the cabin crew of sparks emanating from the left engine. Subsequently, the pilots were also informed by air traffic control of smoke coming out of one of the engines. The pilots declared an emergency and returned to Patna.\n2 Why are bird strikes a concern ?\nBird strikes are among the most common threats to aircraft safety, and they typically occur during take-off or landing. Dozens of bird-strikes happen each day but some can be more dangerous than others. Typically, when birds collide with an aircraft’s airframe, it is unlikely to cause significant problems for the pilots flying. But there are instances when the aircraft engine ingests the birds. This can lead to a loss of thrust for the engine and cause maneuverability problems for the crew. In these cases, where a jet engine ingests a bird, procedures would generally call for pilots to land the plane at the closest airport. While most airframe bird strikes are not considered critical to air safety, if a collision cracks a window or a wind screen, pilots will look to land as early as possible.\n3 How critical are bird strikes to air safety ?\nSmaller planes would generally be more susceptible to the dangers of bird strikes than larger ones. However, given that bird strikes mostly happen during take-off and landing, these incidents could distract the pilots during what are highly critical phases of flights that demand the complete attention of the crew.\n4 What causes bird-strikes ?\nThe presence of birds around an aircraft increases the chances of a bird strike. In the monsoon, as water puddles emerge on open grounds attracting insects to breed, the presence of birds increases. In some cases, bird hits also happen at higher altitudes when a plane is cruising. These are more dangerous than the low-altitude hits, given that they can cause rapid depressurization of cabins. Other reasons for bird activity around the air field could be presence of landfills or waste disposal sites that can attract a large number of birds.",
+     "figures": [
+      "assets/figures/eng_2023_z2_q2_graph.png"
+     ],
+     "text_after": "(i) Does the following statement agree with the information given in paragraph 1. When an airplane is hit by a bird or is suspected to have been hit, the passengers must be asked to get down at once. Select from the following : True : If the statement agrees with the information. False : If the statement contradicts the information. Not Given : If there is no information on this. (ii) Select the option that displays the most likely reason for Bird hits. (a) when the aircraft is overloaded (b) at the time of landing or taking off (c) when the crew become negligent (d) when the passengers become panicky (iii) Complete the sentence appropriately with one word. Smaller planes are generally more _______ than the larger ones. (iv) Complete the sentence by selecting the most appropriate option : When the window or the windscreen of the air plane is cracked due to a bird hit ____________. (a) the crew must rush to the cockpit. (b) the pilot must land at the earliest airport. (c) the pilot must inform the maintenance engineer. (d) the pilot must get instructions from the aviation wing what should do in emergency. (v) Based on the reading of the text, state a point to further the statement. Dozens of bird hits take place every day ______. (a) but only a few are dangerous. (b) all of them are fatal. (c) but after every bird hit it is imperative to land the aircraft. (d) the pilot should ignore them. (vi) Complete the sentence based on the following statement : Complete attention of the crew is demanded during take off and landing. We can say this because __________. (vii) Complete the sentence appropriately with one/two words. In cases where the aircraft engine infests the bird, it leads to the loss of thrust and causes problems in __________. (viii) Which are the areas more prone to bird hits ? (ix) Based on the reading of the text, state a point to challenge the given statement : The area around air fields should be clear of any waste disposal sites. (x) Look at the graph. It shows that between 2016 and 2021, whereas air flights have come down, the bird-hits have gone up. This implies that the incidence of bird hits has _____. (a) decreased (b) increased (c) remained constant (d) been alarming [FOR THE VISUALLY IMPAIRED CANDIDATES. In lieu of Q. 2 (x)] (x) In order to save the lives of the passengers the pilots should (a) be instructed not to cruise at high altitudes. (b) should not rotate engines. (c) not permit the passengers to open windows. (d) vigilance should be beefed up.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "2"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Notice Writing",
-   "count": 2,
+   "count": 4,
    "questions": [
     {
      "qno": "3",
@@ -159,13 +194,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": "3",
+     "chapter": "Notice Writing",
+     "type": "Writing",
+     "marks": 5,
+     "text": "Attempt any ONE from (a) and (b) given below : (a) In collaboration with the Municipal Health Department your school is organizing a Health Camp with an emphasis on fit living and healthy eating for the benefit of students between the ages of 12 years to 17 years. Draft a notice in 50 words informing students of the event. Also state the day, date, time and venue. You are Amit/Amita – Secretary, Student council.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "3"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "3",
+     "chapter": "Notice Writing",
+     "type": "Writing",
+     "marks": 5,
+     "text": "(b) Members of the Resident Welfare Association have decided to visit the senior residents of the society as a gesture of affection and sensitivity. Draft a notice in 50 words inviting residents to volunteer for these visits. Mention relevant details. You are Ritika/Rahul, Secretary, R.W.A.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "3-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Invitation and Reply",
-   "count": 2,
+   "count": 4,
    "questions": [
     {
      "qno": "4",
@@ -197,13 +263,44 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": "4",
+     "chapter": "Invitation and Reply",
+     "type": "Writing",
+     "marks": 5,
+     "text": "Attempt any ONE from (a) and (b) given below : (a) Your school has invited a group of foreign students to attend your Annual Day function. Draft an invitation in 50 words to the guests and parents of the students. Also state the day, date and time of the function. You are Dr. Ahluwalia, Principal, Rohtak Public School.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "4"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "4",
+     "chapter": "Invitation and Reply",
+     "type": "Writing",
+     "marks": 5,
+     "text": "(b) You are Dr. Mehra, an eminent educationist who has been invited to address the students of Sunshine Public School on ‘The Benefits of Reading’ and release a book written by one of the students. Draft a formal letter in 50 words expressing your inability to attend the function. Mention day, date, time and venue.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "4-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Letter Writing",
-   "count": 2,
+   "count": 4,
    "questions": [
     {
      "qno": "5",
@@ -287,13 +384,64 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": "5",
+     "chapter": "Letter Writing",
+     "type": "Writing",
+     "marks": 5,
+     "text": "Attempt any ONE from (a) and (b) given below : (a) Draft a letter to the editor of a renowned daily in 120-150 words on the need to keep our surroundings clean to avoid outbreak of common diseases like malaria and dengue. You are Bharat/Bharati. Use the given cues along with your own ideas to compose this letter.",
+     "figures": [
+      "assets/figures/eng_2023_z2_q5_cues.png"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "5"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "5",
+     "chapter": "Letter Writing",
+     "type": "Writing",
+     "marks": 5,
+     "text": "(b) You are Anil/Anita of Vasant Road, Lucknow. You saw the given advertisement in the newspaper and wish to apply for the position advertised. Write a letter of application in 120-150 words along with a detailed biodata.",
+     "figures": [],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "5-OR"
+      }
+     ],
+     "topic": "General",
+     "table": {
+      "caption": "Credence Pvt. Ltd. — Required : Food Technologist",
+      "rows": [
+       [
+        "Preferred Skills and Qualifications :"
+       ],
+       [
+        "2 years degree/diploma in Food Technology, having minimum 2 years Lab experience."
+       ],
+       [
+        "Competency in basic computer skills."
+       ],
+       [
+        "Send your bio-data within 10 days to Manager, Credence Pvt. Ltd., Hazratganj, Lucknow. For further details, check our website - www.credence.com."
+       ]
+      ]
+     }
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Article Writing",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "6",
@@ -345,13 +493,31 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": "6",
+     "chapter": "Article Writing",
+     "type": "Writing",
+     "marks": 5,
+     "text": "(b) Draft an article in 120-150 words to be published in a prominent journal on the problem of stray dogs in your colony. Give suggestions to overcome this menace. You are Prerna/Prashant. Use the given cues along with your ideas to compose the article :",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "6-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": [
+      "assets/figures/eng_2023_z2_q6b_cues.png"
+     ]
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Report Writing",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "6",
@@ -387,13 +553,48 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "6",
+     "chapter": "Report Writing",
+     "type": "Writing",
+     "marks": 5,
+     "text": "Attempt any ONE from (a) and (b) given below : (a) Every Sunday morning, you have observed senior residents of the colony teaching children from the neighbouring slums. You are impressed by this spirit of giving back to the community. You are Shalu/Shalin, news reporter for a national daily. Write a report in 120-150 words on a community initiative. You may use following cues :",
+     "table": {
+      "caption": "Spirit of Community",
+      "rows": [
+       [
+        "Senior Residents – volunteerism"
+       ],
+       [
+        "Teach underprivileged children"
+       ],
+       [
+        "Be a part of fundraising"
+       ],
+       [
+        "Help with animal shelters"
+       ],
+       [
+        "Join groups for clean-up drives"
+       ]
+      ]
+     },
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "6"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "The Last Lesson",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "10(a)",
@@ -409,13 +610,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "10(a)",
+     "chapter": "The Last Lesson",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "When do the residents of Alsace realise how precious their language is to them ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "10(a)"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Lost Spring",
-   "count": 1,
+   "count": 3,
    "questions": [
     {
      "qno": "10(b)",
@@ -428,6 +644,36 @@
        "year": 2023,
        "set": "1/1/1",
        "qno": "10(b)"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "12",
+     "chapter": "Lost Spring",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer any ONE of the following in about 120-150 words : (a) ‘Last Spring’ and ‘Indigo’ bring out how the common man is a victim of exploitation. Explain.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "12"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "9",
+     "chapter": "Lost Spring",
+     "type": "Extract-based",
+     "marks": 6,
+     "text": "Attempt any ONE of two extracts given : (a) And in dark hutments, next to lines of flames of flickering oil lamps, sit boys and girls with their fathers and mothers, welding pieces of coloured glass into circles of bangles. Their eyes are more adjusted to the dark than to the light outside. That is why they often end up losing their eyesight before they become adults. (i) Complete the sentence with reference to the extract : Their eyes are more adjusted to the dark than to the light outside because ______. (ii) Which of the following would NOT be true ? (a) The hutments were shining and inviting. (b) The children’s lives were as bleak as their surrounding. (c) There were no electricity connections. (d) The boys and girls had got used to the dark. (iii) The bangle workers lose their eyesight before they became adults because (a) they already have poor eyesight. (b) they work in dim light. (c) they are married in childhood. (d) they are malnourished. (iv) Which of the following most nearly means ‘adjusted’ in the context of the extract ? (a) conditioned (b) favoured (c) accepted (d) reconciled (v) ‘Flickering oil lamps’ suggests ________. (vi) What is the antonym from the extract of the word ‘rarely’ ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "9"
       }
      ],
      "topic": "General"
@@ -459,8 +705,24 @@
   },
   {
    "chapter": "The Rattrap",
-   "count": 1,
+   "count": 3,
    "questions": [
+    {
+     "qno": "9",
+     "chapter": "The Rattrap",
+     "type": "Extract-based",
+     "marks": 6,
+     "text": "(b) Read the following extract and answer the questions that follow : “I am thinking of this stranger here,” said Edla “He walks and walks the whole year long, and there is probably not a single place in the whole country where he is welcome and can feel at home. Wherever he turns he is chased away. Always he is afraid of being arrested and cross-examined. I should like to have him enjoy a day of peace with us here-just one in the whole year.” (i) Complete the following sentence with the most appropriate option : Edla wished the Pedlar to have a peaceful day because ______ (a) the Pedlar had worked for Edla. (b) the Pedlar had not been released from jail. (c) the Pedlar had been staying at the forge. (d) the Pedlar had always been looked with suspicion. (ii) Select the suitable word from the extract to complete analogy. single : multiple :: abroad : _________ (iii) In the above extract, Edla comes across as (a) conscientious (b) pretentions (c) compassionate (d) selfless (iv) Based on the above extract, choose the statement which is true. (a) relationships are rattraps. (b) money is important in the world. (c) criminal is not born but made. (d) christmas is a time of charity (v) In the context of the given extract, which day is referred to in the expression ‘just one in the whole year’ ? (vi) What does the expression ‘he is cross examined’ suggest ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "9-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": "10(d)",
      "chapter": "The Rattrap",
@@ -475,13 +737,28 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "10(e)",
+     "chapter": "The Rattrap",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "Explain the metaphor of the rattrap.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "10(e)"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Indigo",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "13",
@@ -494,6 +771,21 @@
        "year": 2023,
        "set": "1/1/1",
        "qno": "13"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "10(c)",
+     "chapter": "Indigo",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "Describe the role of Raj Kumar Shukla in Indigo.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "10(c)"
       }
      ],
      "topic": "General"
@@ -586,7 +878,7 @@
   },
   {
    "chapter": "My Mother at Sixty-six",
-   "count": 1,
+   "count": 3,
    "questions": [
     {
      "qno": "7",
@@ -602,13 +894,43 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "10(b)",
+     "chapter": "My Mother at Sixty-six",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "What are the feelings of the poet about her aged mother with reference to the poem ‘My Mother at Sixty Six’ ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "10(b)"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "7",
+     "chapter": "My Mother at Sixty-six",
+     "type": "Extract-based",
+     "marks": 6,
+     "text": "Read the given extracts to attempt the questions with reference to context : (a) Read the following extract and answer the questions that follow : \nbut after airport’s\nsecurity check, standing a few yards\naway, I looked again at her, Wan,\npale\nas a late winter’s moon and felt that\nold\nfamiliar ache, my childhood’s fear\nbut all I said was, see you soon,\nAmma,\nAll I did was smile and smile and\nsmile ------\n(i) Choose the correct option : In the above extract the narrator feels (a) satisfied (b) fearful (c) nostalgic (d) regretful (ii) Identify the word in the extract that means ‘colourless’. (iii) Complete the following analogy correctly : She sang like a bird : Simile All I did was smile and smile and smile : ______ (iv) Read the following statement and choose the correct option : (1) The poet had gone through the security check. (2) She did not want to look at her mother. (a) (1) is true, but (2) is false. (b) (1) is false, but (2) is true. (c) Both (1) and (2) are true. (d) Both (1) and (2) are false. (v) What childhood fear is the poet referring to ? (vi) Fill the blank with appropriate words with reference to the extract : Pale as a winter’s moon suggests _______.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "7"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Keeping Quiet",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "7",
@@ -625,14 +947,90 @@
      ],
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": "10(d)",
+     "chapter": "Keeping Quiet",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "‘There can be life under apparent stillness’. Explain. (Keeping Quiet)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "10(d)"
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "A Thing of Beauty",
+   "count": 1,
+   "questions": [
+    {
+     "qno": "10(f)",
+     "chapter": "A Thing of Beauty",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "Do we experience things of beauty only for short moments or do they make a lasting impression ? Explain. (A Thing of Beauty)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "10(f)"
+      }
+     ],
+     "topic": "General"
+    }
+   ],
+   "topic_order": []
+  },
+  {
+   "chapter": "A Roadside Stand",
+   "count": 1,
+   "questions": [
+    {
+     "qno": "7",
+     "chapter": "A Roadside Stand",
+     "type": "Extract-based",
+     "marks": 6,
+     "text": "(b) Read the following extract and answer the questions that follow : \nSometimes I feel myself I can hardly bear\nThe thought of so much childish longing in vain,\nThe sadness that lurks near the open window there,\nThat waits all day in almost open prayer.\nFor the squeal of brakes, the sound of a stopping car,\nOf all the thousand selfish cars that pass,\nJust one to inquire what a farmer’s prices are,\n(i) What is the sentiment expressed in the above extract ? (i) remorse (ii) regret (iii) empathy (iv) disappointment (v) guilt Choose the correct appropriate option. (a) (iii) and (iv) (b) (ii) and (iii) (c) (iv) and (v) (d) (i) and (v) (ii) Identify the phrase in the extract that suggests ‘innocent desires’. (iii) The roadside stand owners pray for ______. (a) a relief from the heat (b) free housing (c) cars stopping (d) benefits from pollution (iv) Complete the following analogy correctly : He fought like a lion : Simile :: selfish cars : _____ (v) On the basis of the extract, choose the correct option with reference to (1) and (2) given below : (1) The people who have put up the roadside stand keep waiting for customers. (2) They become sad when someone turns up. (a) (1) is true, but (2) is false. (b) (1) is false, but (2) is true. (c) Both (1) and (2) are true. (d) Both (1) and (2) are false. (vi) Fill the blank appropriately with reference to the extract. ‘Squeal of brakes’ implies ________",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "7-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Aunt Jennifer's Tigers",
-   "count": 1,
+   "count": 2,
    "questions": [
+    {
+     "qno": "12",
+     "chapter": "Aunt Jennifer's Tigers",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) ‘Aunt Jennifer’s Tigers’ and ‘A Thing of Beauty’, can be read together to show the permanence and everlasting impact of art and of things of beauty. Comment.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "12-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": "10(f)",
      "chapter": "Aunt Jennifer's Tigers",
@@ -653,7 +1051,7 @@
   },
   {
    "chapter": "The Third Level",
-   "count": 1,
+   "count": 3,
    "questions": [
     {
      "qno": "11(c)",
@@ -669,13 +1067,43 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "11(c)",
+     "chapter": "The Third Level",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "What extraordinary experience did Charley have when he went to the Grand station ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "11(c)"
+      }
+     ],
+     "topic": "General"
+    },
+    {
+     "qno": "8",
+     "chapter": "The Third Level",
+     "type": "Extract-based",
+     "marks": 4,
+     "text": "Attempt any ONE of two extracts given : (a) The clerk figured the fare – he glanced at my fancy hat band, but he figured the fare – and I had enough for two coach tickets, one way. But when I counted out the money and looked up, the clerk was staring at me. He nodded at the bills. “That ain’t money, mister,” he said, “and if you’re trying to skin me, you won’t get very far,” and he glanced at the cash drawer, beside him. Of course the money was old-style bills half again as big as the money we use nowadays and different looking. (i) Why did Charley ask for two tickets ? (ii) Complete the sentence by choosing the correct option : When Charley offered money to the booking clerk, the latter stared at Charley because the booking clerk (a) thought it wasn’t money. (b) did not trust Charley. (c) thought Charley was trying to tease him. (d) thought that Charley had given him less money. (iii) Select the option that best describes Charley in this extract. He is (a) a cheat (b) gullible (c) an opportunist (d) an escapist (iv) ‘If you’re trying to skin me’ suggests ________.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "8"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "The Tiger King",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "11(a)",
@@ -691,14 +1119,44 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "11(b)",
+     "chapter": "The Tiger King",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "Do you agree with the Tiger King’s statement ? You may kill even a cow in self defence.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "11(b)"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Journey to the End of the Earth",
-   "count": 1,
+   "count": 2,
    "questions": [
+    {
+     "qno": "11(a)",
+     "chapter": "Journey to the End of the Earth",
+     "type": "Short Answer",
+     "marks": 2,
+     "text": "Describe Gondwana.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "11(a)"
+      }
+     ],
+     "topic": "General"
+    },
     {
      "qno": "12",
      "chapter": "Journey to the End of the Earth",
@@ -720,7 +1178,7 @@
   },
   {
    "chapter": "The Enemy",
-   "count": 1,
+   "count": 2,
    "questions": [
     {
      "qno": "12",
@@ -736,14 +1194,45 @@
       }
      ],
      "topic": "General"
+    },
+    {
+     "qno": "13",
+     "chapter": "The Enemy",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "Answer any ONE of the following in about 120-150 words : (a) After seeing off the enemy soldier, Dr. Sadao must have felt relieved. He was able to uphold the oath that he had taken as a doctor. Dr. Sadao made an entry into his daily diary explaining the dilemma faced by him and how he resolved it. Imagine yourself to be Dr. Sadao and express his thoughts. (You may begin like this : I was able to uphold the oath that I had taken as a doctor….)",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "13"
+      }
+     ],
+     "topic": "General"
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "On the Face of It",
-   "count": 2,
+   "count": 3,
    "questions": [
+    {
+     "qno": "8",
+     "chapter": "On the Face of It",
+     "type": "Extract-based",
+     "marks": 4,
+     "text": "(b) Read the following extract and answer the questions that follow : \nMr. Lamb : Well that needn’t stop you, you needn’t mind.\nDerry : It’d stop them. They’d mind me. When they saw me here. They look at my face and run.\nMr. Lamb : They might. They might not. You’d have to take the risk. So would they.\nDerry : No, you would, you might have me and lose all your other friends, because nobody wants to stay near me if they can help it.\nMr. Lamb : I’ve not moved.\nDerry : No …….\nMr. Lamb : When I go down the street, the kids shout ‘Lamey-Lamb’. But they still come into the Garden, into my house; it’s a game. They’re not afraid of me. Why should they be ? Because I’m not afraid of them, that’s why not.’\n(i) The kids tease Mr. Lamb but still come into his garden. Why ? (ii) Choose the best option that describes Mr. Lamb. (a) headstrong (b) pessimist (c) negligent (d) positive (iii) Choose the correct option with reference to the extract : What makes Derry tell Mr. Lamb that if he comes, others would stop coming ? (a) Mr. Lamb would not let others come. (b) They would be repulsed by Derry. (c) Mr. Lamb will have to choose between him and others. (d) Derry would flare up. (iv) What does Mr. Lamb mean by ‘They might, they might not’ ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "8-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": "11(b)",
      "chapter": "On the Face of It",
@@ -780,8 +1269,24 @@
   },
   {
    "chapter": "Memories of Childhood",
-   "count": 1,
+   "count": 2,
    "questions": [
+    {
+     "qno": "13",
+     "chapter": "Memories of Childhood",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Both Bama and Zitkala-Sa were from marginalised communities. They challenged the system to bring dignity into their lives. Justify.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "1/2/1",
+       "qno": "13-OR"
+      }
+     ],
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": "8",
      "chapter": "Memories of Childhood",
