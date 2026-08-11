@@ -53,9 +53,14 @@
     return fetch(dv("data/subjects.json")).then(function (r) { return r.json(); })
       .then(function (j) { return j.subjects; });
   }
+  // Name of the subject whose data was loaded last. Renderers that don't have a
+  // state object at hand (paper/worksheet rows) consult it to decide how
+  // aggressively to split inline sub-parts onto their own lines.
+  var CUR_SUBJECT = "";
   function getSubjectData(sub) {
-    if (INLINE) return Promise.resolve(INLINE.data[sub.id]);
-    return fetch(dv(sub.data)).then(function (r) { return r.json(); });
+    var keep = function (d) { CUR_SUBJECT = (d && d.subject) || ""; return d; };
+    if (INLINE) return Promise.resolve(keep(INLINE.data[sub.id]));
+    return fetch(dv(sub.data)).then(function (r) { return r.json(); }).then(keep);
   }
 
   function esc(s) {
@@ -92,14 +97,28 @@
       /([.?!:;])[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-h]|\d{1,2})\))(?=[ \t])/g,
       "$1\n$2");
   }
-  // Aggressive variant (accountancy/economics case-study questions): break
-  // before EVERY part marker (i)-(xii)/(a)-(h)/(1)-(99) AND every embedded MCQ
-  // option marker (A)-(H) that is surrounded by whitespace, so each part and
-  // each of its options sits on its own line.
+  // Aggressive variant (accountancy/economics case studies, and the humanities'
+  // passage- / source- / cartoon-based questions): break before EVERY part
+  // marker (i)-(xii)/(a)-(h)/(1)-(99)/(24.1)-style numbered sub-parts AND every
+  // embedded MCQ option marker (A)-(H) that is surrounded by whitespace, so each
+  // part and each of its options sits on its own line. The "Note :" block that
+  // carries the Visually-Impaired-Candidates variant also starts a new line.
   function partOptLines(t) {
     return t.replace(
-      /[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-hA-H]|\d{1,2})\))(?=[ \t]|$)/g,
-      "\n$1");
+      /[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-hA-H]|\d{1,2}\.\d{1,2}|\d{1,2})\))(?=[ \t]|$)/g,
+      "\n$1")
+      .replace(/[ \t]+(\(?Note\s*:)/g, "\n$1");
+  }
+  // Subjects whose questions carry long passages with inline sub-parts and
+  // embedded options — those read as a wall of text unless every part and option
+  // is put on its own line.
+  var FULL_PARTS =
+    /^(Accountancy|Economics|Business Studies|English|Political Science|History|Geography)\b/;
+  // Line-splitting options for a paper/worksheet row, whose renderer has no
+  // state object at hand: "full" for the subjects above, conservative elsewhere.
+  function partOpts() {
+    var s = CUR_SUBJECT || (typeof STATE !== "undefined" && STATE.data && STATE.data.subject);
+    return FULL_PARTS.test(s || "") ? { parts: "full" } : { parts: true };
   }
   // Math is written with $...$ / $$...$$ delimiters; leave it intact for MathJax,
   // but escape stray HTML-significant chars that are NOT inside math. With
@@ -324,11 +343,12 @@
         tags += '<span class="tag diff diff-' + esc(q.difficulty.toLowerCase()) +
           '" title="Difficulty level">' + esc(q.difficulty) + "</span>";
     }
-    // Accountancy/Economics/Business Studies/English case-study & multi-part
-    // questions: put each part and each embedded option on its own line for
-    // readability (English reading passages carry (i)–(x) sub-parts).
+    // Case-study & multi-part questions in the passage-heavy subjects (see
+    // FULL_PARTS): put each part and each embedded option on its own line for
+    // readability — English reading passages carry (i)–(x) sub-parts, and the
+    // humanities' passage/source/cartoon questions carry (24.1)-style ones.
     var fp = (typeof STATE !== "undefined" && STATE.data &&
-      /^(Accountancy|Economics|Business Studies|English)\b/.test(STATE.data.subject || "")) ? { parts: "full" } : null;
+      FULL_PARTS.test(STATE.data.subject || "")) ? { parts: "full" } : null;
     var body =
       "<div class=\"qbody\"><p>" + mathHTML(q.text, fp) + "</p>" +
       tableHTML(q.table) + figHTML(q.figures) + afterHTML(q.text_after, fp) +
@@ -845,7 +865,7 @@
   function caseHTML(q) {
     var p = parseCase(q.text);
     if (!p || !p.blocks.length)                      // no structure found -> render as plain text (with part line-breaks)
-      return '<div class="qbody"><p>' + mathHTML(q.text, { parts: true }) + "</p>" + tableHTML(q.table) + figHTML(q.figures) + "</div>";
+      return '<div class="qbody"><p>' + mathHTML(q.text, partOpts()) + "</p>" + tableHTML(q.table) + figHTML(q.figures) + "</div>";
     var h = '<div class="qbody cb">';
     if (p.passage) h += '<p class="cb-passage">' + mathHTML(p.passage) + "</p>";
     h += tableHTML(q.table) + figHTML(q.figures);    // figures/table belong to the passage
@@ -1069,7 +1089,7 @@
     // used to mark it against.
     var tags = (opts && opts.hideTags) ? "" : diffBadge(q) + cbseYearBadges(q);
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
-      '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + "</div>" +
+      '<div class="ws-qc">' + bpQuestionHTML(q, partOpts()) + "</div>" +
       '<div class="ws-qmeta">' + tags +
         '<span class="ws-qm">[' + (q.marks || 0) + "]</span>" + rep + del + "</div></div>";
   }
@@ -1314,7 +1334,7 @@
   function paperRowAns(q, n) {
     var keep = (q.type === "MCQ" || q.type === "Assertion-Reason") ? " ws-q-keep" : "";
     return '<div class="ws-q' + keep + '"><div class="ws-qn">' + n + '.</div>' +
-      '<div class="ws-qc">' + bpQuestionHTML(q, { parts: true }) + ansBlock(q) + "</div>" +
+      '<div class="ws-qc">' + bpQuestionHTML(q, partOpts()) + ansBlock(q) + "</div>" +
       '<div class="ws-qmeta">' + diffBadge(q) +
         cbseYearBadges(q) +
         '<span class="ws-qm">[' + (q.marks || 0) + "]</span></div></div>";
