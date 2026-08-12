@@ -103,11 +103,38 @@
   // embedded MCQ option marker (A)-(H) that is surrounded by whitespace, so each
   // part and each of its options sits on its own line. The "Note :" block that
   // carries the Visually-Impaired-Candidates variant also starts a new line.
+  // Some MCQ options are themselves built by combining EARLIER roman-numeral
+  // statements ("(a) (iii) and (iv)", "(A) (i) & (ii)", "(C) (ii), (iii) & (v)")
+  // rather than stating new content -- a letter marker followed by one roman
+  // marker, then any further romans joined by an explicit "and"/"or"/"&"/",".
+  // (The connector is REQUIRED from the 2nd roman onward, not optional, so a
+  // later unrelated part marker that just happens to follow with a plain space
+  // -- e.g. "...(d) (i) and (v) (ii) Identify..." -- can't be swallowed into
+  // the combo.) Disguise the roman markers inside the combo (hide their parens
+  // from the marker-detector regex below, restore after) rather than touching
+  // whitespace -- so the letter marker itself is untouched and still gets its
+  // own line break exactly as before, while the numerals it's built from can
+  // no longer be mistaken for fresh sub-parts and shattered onto their own
+  // lines. (Scoped tight to this exact shape so it can't touch a genuine
+  // inline reference like "identified in part (i), except the".)
+  var ROMAN_ALT = "(?:xii|xi|x|ix|viii|vii|vi|iv|iii|ii|i|v)";
+  var GLUE_COMBO = new RegExp(
+    "\\([a-hA-H]\\)([ \\t]*\\(" + ROMAN_ALT + "\\)(?:[ \\t]*(?:,|&|\\band\\b|\\bor\\b)[ \\t]*\\(" + ROMAN_ALT + "\\))*)",
+    "gi");
+  var ROMAN_PAREN = new RegExp("\\(" + ROMAN_ALT + "\\)", "gi");
+  var GLUE_OPEN = "\u0002", GLUE_CLOSE = "\u0003";
   function partOptLines(t) {
-    return t.replace(
+    var s = t.replace(GLUE_COMBO, function (whole, tail) {
+      var disguised = tail.replace(ROMAN_PAREN, function (p) {
+        return GLUE_OPEN + p.slice(1, -1) + GLUE_CLOSE;
+      });
+      return whole.slice(0, whole.length - tail.length) + disguised;
+    });
+    s = s.replace(
       /[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-hA-H]|\d{1,2}\.\d{1,2}|\d{1,2})\))(?=[ \t]|$)/g,
       "\n$1")
       .replace(/[ \t]+(\(?Note\s*:)/g, "\n$1");
+    return s.replace(new RegExp(GLUE_OPEN, "g"), "(").replace(new RegExp(GLUE_CLOSE, "g"), ")");
   }
   // Subjects whose questions carry long passages with inline sub-parts and
   // embedded options — those read as a wall of text unless every part and option
