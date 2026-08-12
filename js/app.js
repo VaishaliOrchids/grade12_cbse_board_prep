@@ -106,20 +106,25 @@
   // Some MCQ options are themselves built by combining EARLIER roman-numeral
   // statements ("(a) (iii) and (iv)", "(A) (i) & (ii)", "(C) (ii), (iii) & (v)")
   // rather than stating new content -- a letter marker followed by one roman
-  // marker, then any further romans joined by an explicit "and"/"or"/"&"/",".
-  // (The connector is REQUIRED from the 2nd roman onward, not optional, so a
-  // later unrelated part marker that just happens to follow with a plain space
-  // -- e.g. "...(d) (i) and (v) (ii) Identify..." -- can't be swallowed into
-  // the combo.) Disguise the roman markers inside the combo (hide their parens
-  // from the marker-detector regex below, restore after) rather than touching
-  // whitespace -- so the letter marker itself is untouched and still gets its
-  // own line break exactly as before, while the numerals it's built from can
-  // no longer be mistaken for fresh sub-parts and shattered onto their own
-  // lines. (Scoped tight to this exact shape so it can't touch a genuine
-  // inline reference like "identified in part (i), except the".)
+  // marker, then at least one MORE roman joined by an explicit "and"/"or"/
+  // "&"/",". (2+ romans required, not 1: a LONE roman right after a letter is
+  // ambiguous -- it's just as often a coincidence, e.g. an option block ending
+  // "...(D) Both (A) and (B)" immediately followed by an unrelated "(vi) What
+  // does..." sub-part, where "(B) (vi)" would wrongly look like a combo if a
+  // single roman were enough. Requiring a connector-joined pair keeps this
+  // scoped to the real pattern. The connector is REQUIRED from the 2nd roman
+  // onward too, so a later unrelated marker that just happens to follow with a
+  // plain space can't extend the combo indefinitely.) Disguise the roman
+  // markers inside the combo (hide their parens from the marker-detector regex
+  // below, restore after) rather than touching whitespace -- so the letter
+  // marker itself is untouched and still gets its own line break exactly as
+  // before, while the numerals it's built from can no longer be mistaken for
+  // fresh sub-parts and shattered onto their own lines. (Scoped tight to this
+  // exact shape so it can't touch a genuine inline reference like "identified
+  // in part (i), except the".)
   var ROMAN_ALT = "(?:xii|xi|x|ix|viii|vii|vi|iv|iii|ii|i|v)";
   var GLUE_COMBO = new RegExp(
-    "\\([a-hA-H]\\)([ \\t]*\\(" + ROMAN_ALT + "\\)(?:[ \\t]*(?:,|&|\\band\\b|\\bor\\b)[ \\t]*\\(" + ROMAN_ALT + "\\))*)",
+    "\\([a-hA-H]\\)([ \\t]*\\(" + ROMAN_ALT + "\\)(?:[ \\t]*(?:,|&|\\band\\b|\\bor\\b)[ \\t]*\\(" + ROMAN_ALT + "\\))+)",
     "gi");
   var ROMAN_PAREN = new RegExp("\\(" + ROMAN_ALT + "\\)", "gi");
   var GLUE_OPEN = "\u0002", GLUE_CLOSE = "\u0003";
