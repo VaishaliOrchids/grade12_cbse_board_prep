@@ -18,18 +18,15 @@
   "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
   "An Imperial Capital: Vijayanagara",
   "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
-  "Kings and Chronicles: The Mughal Courts",
   "Colonialism and the Countryside: Exploring Official Archives",
   "Rebels and the Raj: 1857 Revolt and its Representations",
-  "Colonial Cities: Urbanisation, Planning and Architecture",
   "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
-  "Understanding Partition: Politics, Memories, Experiences",
   "Framing the Constitution: The Beginning of a New Era"
  ],
  "chapters": [
   {
    "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
-   "count": 99,
+   "count": 100,
    "questions": [
     {
      "qno": 1,
@@ -50,6 +47,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -71,6 +70,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -86,6 +87,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -101,6 +104,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -147,6 +152,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -168,6 +175,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -183,6 +192,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -204,6 +215,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -225,6 +238,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -240,6 +255,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -261,6 +278,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -282,6 +301,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -297,6 +318,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -342,6 +365,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -357,6 +382,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -372,6 +399,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -394,6 +423,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -409,6 +440,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -424,6 +457,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -443,6 +478,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -459,6 +496,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -480,6 +519,31 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Bricks, Beads and Bones: The Harappan Civilisation",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements is not correct about the subsistence strategy of Harappa ?",
+     "options": [
+      "Terracotta sculpture of oxen indicates ploughing.",
+      "Two sets of furrows at right angles indicate two cropping patterns.",
+      "Traces of canals have been found at Shortughai, Afghanistan.",
+      "Deep water reservoirs have been found in Sindh for irrigation."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "61/2/1",
+       "qno": 5
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -495,6 +559,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -510,6 +576,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -529,6 +597,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -545,6 +615,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -566,6 +638,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -587,6 +661,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -608,6 +684,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -623,6 +701,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -638,6 +718,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -657,6 +739,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -673,6 +757,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -694,6 +780,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -715,6 +803,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -730,6 +820,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -745,6 +837,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -767,6 +861,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -788,6 +884,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -809,6 +907,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -824,6 +924,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -839,6 +941,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -858,6 +962,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -874,6 +980,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -895,6 +1003,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -916,6 +1026,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -931,6 +1043,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -949,6 +1063,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -965,6 +1081,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -986,6 +1104,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1007,6 +1127,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1022,6 +1144,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1037,6 +1161,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1056,6 +1182,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1072,6 +1200,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1093,6 +1223,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1114,6 +1246,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -1129,6 +1263,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1147,6 +1283,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1163,6 +1301,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1184,6 +1324,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1199,6 +1341,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1220,6 +1364,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1241,6 +1387,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1256,6 +1404,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1274,6 +1424,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1290,6 +1442,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1311,6 +1465,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1326,6 +1482,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1341,6 +1499,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1360,6 +1520,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1376,6 +1538,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1421,6 +1585,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1442,6 +1608,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1457,6 +1625,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1475,6 +1645,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1491,6 +1663,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1506,6 +1680,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -1521,6 +1697,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -1540,6 +1718,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1556,6 +1736,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1577,6 +1759,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -1622,6 +1806,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1637,6 +1823,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1652,6 +1840,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1671,6 +1861,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1687,6 +1879,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1708,6 +1902,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1753,6 +1949,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1768,6 +1966,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1783,6 +1983,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1802,6 +2004,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1818,6 +2022,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1839,6 +2045,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1884,6 +2092,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1899,6 +2109,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1914,6 +2126,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1933,6 +2147,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1949,6 +2165,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     }
    ],
@@ -1956,7 +2174,7 @@
   },
   {
    "chapter": "Kings, Farmers and Towns: Early States and Economies",
-   "count": 80,
+   "count": 85,
    "questions": [
     {
      "qno": 5,
@@ -1977,6 +2195,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1998,6 +2218,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2013,6 +2235,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2031,6 +2255,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2047,6 +2273,31 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following dynasties queen Prabhavati belonged to ?",
+     "options": [
+      "Gupta",
+      "Maurya",
+      "Kushana",
+      "Vakataka"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/2/1",
+       "qno": 1
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2068,6 +2319,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2083,6 +2336,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2098,6 +2353,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2117,6 +2374,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2133,6 +2392,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2154,6 +2415,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2175,6 +2438,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2196,6 +2461,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2211,6 +2478,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2226,6 +2495,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2245,6 +2516,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2261,6 +2534,31 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements is correct about Prabhavati Gupta ?",
+     "options": [
+      "She was a Gupta Queen.",
+      "She had no access to resources.",
+      "She donated land to elites.",
+      "She was the daughter of Chandragupta II."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/4/1",
+       "qno": 5
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2282,6 +2580,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2297,6 +2597,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2315,6 +2617,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2331,6 +2635,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2352,6 +2658,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2373,6 +2681,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2394,6 +2704,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2415,6 +2727,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2430,6 +2744,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2448,6 +2764,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2464,6 +2782,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2485,6 +2805,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2506,6 +2828,31 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Sushruta's book 'Sushruta Samhita' is based on which of the following theme ?",
+     "options": [
+      "Grammar",
+      "Medicine (Ayurveda)",
+      "Astronomy",
+      "Mathematics"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "61/1/1",
+       "qno": 4
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2521,6 +2868,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2542,6 +2891,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2563,27 +2914,31 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
-     "qno": 5,
+     "qno": 4,
      "chapter": "Kings, Farmers and Towns: Early States and Economies",
      "type": "MCQ",
      "marks": 1,
-     "text": "Which of the following statements is not correct about the subsistence strategy of Harappa ?",
+     "text": "Panini's book 'Ashtadhyayi' is based on which of the following themes ?",
      "options": [
-      "Terracotta sculpture of oxen indicates ploughing.",
-      "Two sets of furrows at right angles indicate two cropping patterns.",
-      "Traces of canals have been found at Shortughai, Afghanistan.",
-      "Deep water reservoirs have been found in Sindh for irrigation."
+      "Puranas",
+      "Grammar",
+      "Mathematics",
+      "Medicine (Ayurveda)"
      ],
      "papers": [
       {
        "year": 2024,
        "set": "61/2/1",
-       "qno": 5
+       "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2604,6 +2959,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2625,6 +2982,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2646,6 +3005,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2661,6 +3022,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2682,6 +3045,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2703,6 +3068,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2718,6 +3085,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2739,6 +3108,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2754,6 +3125,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2769,6 +3142,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -2791,6 +3166,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2812,6 +3189,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2827,6 +3206,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2842,6 +3223,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2864,6 +3247,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2879,7 +3264,44 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(a) Examine the nature and characteristics of the land grants in ancient Indian society.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/2/1",
+       "qno": 28
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Kings, Farmers and Towns: Early States and Economies",
+     "type": "Long Answer",
+     "marks": 8,
+     "text": "(b) Examine the various strategies used to enhance agricultural output from the sixth BCE onwards.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/2/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 2,
@@ -2900,6 +3322,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2924,6 +3348,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2939,6 +3365,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2954,6 +3382,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2976,6 +3406,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2997,6 +3429,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3018,6 +3452,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3033,6 +3469,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3054,6 +3492,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3075,6 +3515,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3096,6 +3538,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3111,6 +3555,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3132,6 +3578,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3177,6 +3625,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3198,6 +3648,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3213,6 +3665,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3228,6 +3682,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -3250,6 +3706,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3271,6 +3729,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3316,6 +3776,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3331,6 +3793,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3352,6 +3816,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3373,6 +3839,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3388,6 +3856,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3409,6 +3879,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3430,6 +3902,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3445,6 +3919,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3466,6 +3942,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3487,6 +3965,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3502,6 +3982,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -3509,7 +3991,7 @@
   },
   {
    "chapter": "Kinship, Caste and Class: Early Societies",
-   "count": 55,
+   "count": 50,
    "questions": [
     {
      "qno": 4,
@@ -3530,6 +4012,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3545,27 +4029,8 @@
        "qno": 23
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 1,
-     "chapter": "Kinship, Caste and Class: Early Societies",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following dynasties queen Prabhavati belonged to ?",
-     "options": [
-      "Gupta",
-      "Maurya",
-      "Kushana",
-      "Vakataka"
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/2/1",
-       "qno": 1
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3581,6 +4046,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3596,6 +4063,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3617,27 +4086,8 @@
        "qno": 3
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 5,
-     "chapter": "Kinship, Caste and Class: Early Societies",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following statements is correct about Prabhavati Gupta ?",
-     "options": [
-      "She was a Gupta Queen.",
-      "She had no access to resources.",
-      "She donated land to elites.",
-      "She was the daughter of Chandragupta II."
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/4/1",
-       "qno": 5
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3653,6 +4103,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3668,6 +4120,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3690,6 +4144,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3705,6 +4161,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3726,6 +4184,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3741,6 +4201,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3756,6 +4218,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3772,6 +4236,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3787,6 +4253,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -3809,6 +4277,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3830,6 +4300,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3851,6 +4323,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3866,6 +4340,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3881,6 +4357,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3903,6 +4381,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3918,21 +4398,8 @@
        "qno": 23
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 23,
-     "chapter": "Kinship, Caste and Class: Early Societies",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "“The mid-first millennium BCE is considered as a significant turning point in the course of World History.” Justify the statement.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/1/1",
-       "qno": 23
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3948,6 +4415,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3963,6 +4432,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3985,38 +4456,9 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
-    },
-    {
-     "qno": 28,
-     "chapter": "Kinship, Caste and Class: Early Societies",
-     "type": "Long Answer",
-     "marks": 8,
-     "text": "(a) Examine the nature and characteristics of the land grants in ancient Indian society.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/2/1",
-       "qno": 28
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 28,
-     "chapter": "Kinship, Caste and Class: Early Societies",
-     "type": "Long Answer",
-     "marks": 8,
-     "text": "(b) Examine the various strategies used to enhance agricultural output from the sixth BCE onwards.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/2/1",
-       "qno": "28-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 7,
@@ -4037,6 +4479,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4052,6 +4496,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4067,6 +4513,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4089,6 +4537,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4110,6 +4560,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4125,6 +4577,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4140,6 +4594,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4162,6 +4618,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4207,6 +4665,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4222,6 +4682,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4237,6 +4699,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4253,6 +4717,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4268,6 +4734,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4284,6 +4752,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4305,6 +4775,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4320,6 +4792,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4341,6 +4815,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4362,6 +4838,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4377,6 +4855,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4392,6 +4872,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4414,6 +4896,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4435,6 +4919,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4450,6 +4936,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4465,6 +4953,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4487,6 +4977,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4502,6 +4994,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -4530,6 +5024,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4551,6 +5047,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4566,6 +5064,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4581,6 +5081,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4606,6 +5108,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4627,6 +5131,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4648,6 +5154,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4663,6 +5171,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4678,6 +5188,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4700,6 +5212,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4715,6 +5229,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4730,6 +5246,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4752,6 +5270,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4773,6 +5293,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4788,6 +5310,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4803,6 +5327,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4825,6 +5351,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4846,6 +5374,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4861,27 +5391,8 @@
        "qno": 31
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 4,
-     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Sushruta's book 'Sushruta Samhita' is based on which of the following theme ?",
-     "options": [
-      "Grammar",
-      "Medicine (Ayurveda)",
-      "Astronomy",
-      "Mathematics"
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "61/1/1",
-       "qno": 4
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4903,6 +5414,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4927,6 +5440,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4942,27 +5457,8 @@
        "qno": 31
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 4,
-     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Panini's book 'Ashtadhyayi' is based on which of the following themes ?",
-     "options": [
-      "Puranas",
-      "Grammar",
-      "Mathematics",
-      "Medicine (Ayurveda)"
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "61/2/1",
-       "qno": 4
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4984,6 +5480,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5008,6 +5506,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5023,6 +5523,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5047,6 +5549,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5062,6 +5566,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5077,6 +5583,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -5093,6 +5601,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5117,6 +5627,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5138,6 +5650,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5153,6 +5667,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5171,6 +5687,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5187,6 +5705,34 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 4,
+     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the following picture from the given options :",
+     "options": [
+      "Sultan Jahan Begum",
+      "Shahjahan Begum",
+      "Jahanara Begum",
+      "Ruksar Begum"
+     ],
+     "figures": [
+      "assets/figures/hist_2024_z5_q4_begum.png"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "61/5/1",
+       "qno": 4
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5208,6 +5754,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5223,6 +5771,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5244,6 +5794,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5265,6 +5817,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5289,6 +5843,25 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Thinkers, Beliefs and Buildings: Cultural Developments",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“The mid-first millennium BCE is considered as a significant turning point in the course of World History.” Justify the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/1/1",
+       "qno": 23
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5310,6 +5883,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5331,6 +5906,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5355,6 +5932,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5370,6 +5949,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5391,6 +5972,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5412,6 +5995,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5427,6 +6012,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5472,6 +6059,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5496,6 +6085,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5511,6 +6102,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5526,6 +6119,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -5545,6 +6140,8 @@
        "qno": 34
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5561,6 +6158,8 @@
        "qno": "34-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5582,6 +6181,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5606,6 +6207,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5621,6 +6224,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5636,6 +6241,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5658,6 +6265,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5682,6 +6291,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5703,6 +6314,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5724,6 +6337,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5739,6 +6354,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5760,6 +6377,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5784,6 +6403,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5799,6 +6420,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5814,6 +6437,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5836,6 +6461,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5857,6 +6484,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5881,6 +6510,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5896,6 +6527,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5911,6 +6544,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5936,6 +6571,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5951,6 +6588,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5975,6 +6614,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5990,6 +6631,8 @@
        "qno": 31
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6014,6 +6657,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6035,6 +6680,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6050,6 +6697,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6065,6 +6714,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -6073,7 +6724,7 @@
   },
   {
    "chapter": "Through the Eyes of Travellers: Perceptions of Society",
-   "count": 58,
+   "count": 65,
    "questions": [
     {
      "qno": 8,
@@ -6094,6 +6745,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6115,6 +6768,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6136,6 +6791,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6157,6 +6814,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6178,6 +6837,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6193,6 +6854,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6214,6 +6877,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6235,6 +6900,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6256,6 +6923,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -6271,6 +6940,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6292,6 +6963,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6313,6 +6986,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -6328,6 +7003,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6343,6 +7020,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6365,6 +7044,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6380,6 +7061,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6401,6 +7084,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6422,6 +7107,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6437,6 +7124,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6458,6 +7147,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6479,6 +7170,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6494,6 +7187,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6515,6 +7210,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6536,6 +7233,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6551,6 +7250,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6566,6 +7267,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -6581,6 +7284,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -6603,6 +7308,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6618,6 +7325,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6639,6 +7348,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6660,6 +7371,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6681,6 +7394,25 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source and answer the questions that follow : “A warning for Europe” — Bernier warned that if European kings followed the Mughal model : Their kingdoms would be very far from being well-cultivated and peopled, so well built, so rich, so polite and flourishing as we see them. Our kings are otherwise rich and powerful; and we must avow that they are much better and more royally served. They would soon be kings of deserts and solitudes, of beggars and barbarians, such as those are whom I have been representing. (the Mughals) … We should find the great Cities and the great Burroughs (boroughs) rendered uninhabitable because of ill air, and to fall to ruine (ruin) without anybodies (anybody) taking care of repairing them; the hillocks abandon'd, and the fields overspread with bushes, or fill'd with pestilential marishes (marshes), as hath been already intimated. (32.1) Mention any one prominent contribution of Bernier. (1) (32.2) How did Bernier describe the difference between European kingdom and the Mughal territories ? (1) (32.3) Explain Bernier's views on the socio-economic status of people under Mughal rule. (2)",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/1/1",
+       "qno": 32
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6696,6 +7428,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6711,6 +7445,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6733,6 +7469,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6754,6 +7492,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6769,6 +7509,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6790,6 +7532,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6811,6 +7555,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6826,6 +7572,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6847,6 +7595,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6868,6 +7618,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6883,6 +7635,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6898,6 +7652,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6944,6 +7700,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6965,6 +7723,25 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source carefully and answer the questions that follow : “The imperial \\textit{karkhanas}” — Bernier is perhaps the only historian who provides a detailed account of the working of the imperial \\textit{karkhanas} or workshops: Large halls are seen at many places, called \\textit{karkhanas} or workshops for the artisans. In one hall, embroiderers are busily employed, superintended by a master. In another, you see the goldsmiths; in a third, painters; in a fourth, varnishers in lacquer-work; in a fifth, joiners, turners, tailors and shoe-makers; in a sixth, manufacturers of silk, brocade and fine muslins … The artisans come every morning to their \\textit{karkhanas} where they remain employed the whole day; and in the evening return to their homes. In this quiet regular manner, their time glides away; no one aspiring for any improvement in the condition of life wherein he happens to be born. (32.1) How did Bernier's description reflect the economic significance of the \\textit{karkhanas} in the Mughal empire ? (32.2) How did the crafts in the \\textit{karkhanas} reflect the cultural diversity of the Mughal empire ? (32.3) Analyse the relationship between the Mughal empire and its artisans.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/7/1",
+       "qno": 32
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6986,6 +7763,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7007,6 +7786,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7022,6 +7803,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7043,6 +7826,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7088,6 +7873,25 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source carefully and answer the questions that follow : “A warning for Europe” — Bernier warned that if European kings followed the Mughal model : Their kingdoms would be very far from being well cultivated and peopled, so well built, so rich, so polite and flourishing as we see them. Our kings are otherwise rich and powerful; and we must avow that they are much better and more royally served. They would soon be kings of deserts and solitudes, of beggars and barbarians, such as those are whom I have been representing (the Mughals). … We should find the great Cities and the great Burroughs (boroughs) rendered uninhabitable because of ill air, and to fall to ruine (ruin) without any bodies (anybody) taking care of repairing them; the hillocks abandon'd, and the fields overspread with bushes, or fill'd with pestilential marishes (marshes), as hath been already intimated. (32.1) Why did Bernier warn their European kings against following Mughal model of kingship ? (32.2) Mention any one difference between Mughal \\& European land-ownership. (32.3) How did Bernier's description influence the western theorists from 18$^{th}$ century onwards ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/2/1",
+       "qno": 32
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7133,6 +7937,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7154,6 +7960,42 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "How did Bernier's account highlight the positive role of Indian women ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/3/1",
+       "qno": 24
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source carefully and answer the questions that follow : “How Silver Came to India” — This excerpt from Giovanni Careri's account (based on Bernier's account) gives an idea of the enormous amount of wealth that found its way into the Mughal Empire : That the Reader may form some idea of the Wealth of this (Mughal) Empire, he is to observe that all the Gold and Silver, which circulates throughout the World at last Centres here. It is well known that as much of it comes out of America, after running through several Kingdoms of Europe, goes partly into Turky (Turkey), for several sorts of Commodities; and part into Persia, by the way of Smirna for Silk. Now the Turks not being able to abstain from Coffee, which comes from Hyeman (Oman), and Arabia … nor Persia, Arabia, and the Turks themselves to go without the commodities of India, send vast quantities of Mony (money) to Moka (Mocha) on the Red Sea, near Babel Mandel; to Bassora (Basra) at the bottom of the Persian Gulgh (Gulf); … which is afterwards sent over in Ships to Indostan (Hindustan). Besides the Indian, Dutch, English, and Portuguese Ships, that every Year carry the Commodities of Indostan to Pegu, Tanasserri (parts of Myanmar), Siam (Thailand), Ceylon (Sri Lanka) … the Maldive Islands, Mozambique and other Places, must of necessity convey much Gold and Silver thither, from those Countries. All that the Dutch fetch from the Mines in Japan, sooner or later, goes to Indostan; and the goods carry'd hence into Europe, whether to France, England, or Portugal, are all purchas'd for ready Mony, which remains there. (32.1) How did silver and gold from America reach India ? (32.2) How did ships contribute to the flow of silver and gold to India ? (32.3) How did India benefit from global trade networks in the 17$^{th}$ century ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/3/1",
+       "qno": 32
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7199,6 +8041,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7220,6 +8064,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7235,6 +8081,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7280,6 +8128,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7301,7 +8151,44 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain the ways in which the European thinkers like Montesquieu and Karl Marx used Bernier's description of India.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/5/1",
+       "qno": 24
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Through the Eyes of Travellers: Perceptions of Society",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) Explain the distinctive features of Al-Biruni’s Kitab-Ul-Hind.",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
@@ -7329,6 +8216,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7350,6 +8239,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7365,6 +8256,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7380,23 +8273,9 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 25,
-     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "(b) Explain the distinctive features of Al-Biruni’s Kitab-Ul-Hind.",
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/1/1",
-       "qno": "25-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 6,
@@ -7417,6 +8296,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7462,6 +8343,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7477,6 +8360,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7498,6 +8383,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7513,6 +8400,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7528,6 +8417,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7574,6 +8465,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7589,6 +8482,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7604,6 +8499,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7626,6 +8523,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7641,6 +8540,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7656,6 +8557,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7678,6 +8581,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7693,6 +8598,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7708,6 +8615,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7730,6 +8639,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7745,6 +8656,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7760,6 +8673,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7782,6 +8697,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7797,6 +8714,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7812,6 +8731,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7834,6 +8755,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7855,6 +8778,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7870,6 +8795,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7891,6 +8818,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7912,6 +8841,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7933,6 +8864,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7948,6 +8881,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7969,6 +8904,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7984,6 +8921,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7999,6 +8938,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8021,6 +8962,31 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the ruler of India from the sixteenth century with the following information and choose the correct option : – He went on a pilgrimage to Ajmer fourteen times. – He sought blessings for new conquests and the birth of sons from Ajmer Sharif.",
+     "options": [
+      "Sultan Ghias-ud-din Khalji",
+      "Shah-Jehan",
+      "Akbar",
+      "Muhammad Bin Tughlaq"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/2/1",
+       "qno": 11
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8042,6 +9008,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8057,6 +9025,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8078,6 +9048,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8099,6 +9071,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8114,6 +9088,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8135,6 +9111,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8150,6 +9128,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8165,6 +9145,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8187,6 +9169,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8208,6 +9192,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8223,6 +9209,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8268,6 +9256,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8283,6 +9273,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8328,6 +9320,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8349,6 +9343,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8364,6 +9360,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8385,6 +9383,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -8406,6 +9406,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8421,6 +9423,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8442,6 +9446,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -8487,6 +9493,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8502,6 +9510,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8517,6 +9527,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8539,6 +9551,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -8560,6 +9574,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8575,6 +9591,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8590,6 +9608,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8612,6 +9632,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -8627,6 +9649,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -8655,6 +9679,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8670,6 +9696,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8685,6 +9713,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8707,6 +9737,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8722,6 +9754,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -8737,6 +9771,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -8759,6 +9795,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8783,6 +9821,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8798,6 +9838,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8813,6 +9855,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8835,6 +9879,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8856,6 +9902,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8871,6 +9919,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8892,6 +9942,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8916,6 +9968,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8937,6 +9991,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8952,6 +10008,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8967,6 +10025,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8989,6 +10049,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9010,6 +10072,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9025,6 +10089,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9046,6 +10112,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9067,6 +10135,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9082,6 +10152,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9097,6 +10169,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9119,6 +10193,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9134,6 +10210,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9155,6 +10233,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9176,6 +10256,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9197,6 +10279,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9212,6 +10296,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9233,6 +10319,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9248,6 +10336,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9263,6 +10353,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -9285,6 +10377,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9300,6 +10394,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9315,6 +10411,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9337,6 +10435,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9358,6 +10458,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9373,6 +10475,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9388,6 +10492,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9410,6 +10516,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9431,6 +10539,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9446,6 +10556,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9461,6 +10573,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9483,6 +10597,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9504,6 +10620,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9519,6 +10637,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9534,6 +10654,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9556,6 +10678,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9577,6 +10701,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9592,6 +10718,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9613,6 +10741,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9658,6 +10788,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9673,6 +10805,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9688,6 +10822,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9710,6 +10846,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9731,6 +10869,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9746,6 +10886,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9761,6 +10903,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9783,6 +10927,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9798,6 +10944,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9813,6 +10961,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -9835,6 +10985,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9850,6 +11002,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9865,6 +11019,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -9887,6 +11043,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9902,6 +11060,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9917,6 +11077,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9939,6 +11101,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9960,6 +11124,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9975,6 +11141,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9990,6 +11158,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -9998,7 +11168,7 @@
   },
   {
    "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
-   "count": 58,
+   "count": 63,
    "questions": [
     {
      "qno": 14,
@@ -10019,6 +11189,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10034,6 +11206,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10079,6 +11253,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10100,6 +11276,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10115,6 +11293,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10130,6 +11310,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10152,6 +11334,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -10173,6 +11357,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -10188,6 +11374,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10209,6 +11397,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10230,6 +11420,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10245,6 +11437,8 @@
        "qno": 32
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10266,6 +11460,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10287,6 +11483,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10302,6 +11500,31 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements is correct regarding Ain-i-Akbari ?",
+     "options": [
+      "Akbar Nama was the third book of Ain-i-Akbari.",
+      "Manzil-abadi deals with the civil administration of the Mughals.",
+      "Sipah-abadi deals with the imperial household of the Mughals.",
+      "Mulk-abadi deals with the fiscal side of the Mughal empire."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "61/1/1",
+       "qno": 11
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10323,6 +11546,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10338,6 +11563,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10359,6 +11586,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10380,6 +11609,25 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "“There are some limitations of Ain-i-Akbari.” Examine the statement.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "61/2/1",
+       "qno": 25
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10401,6 +11649,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10422,6 +11672,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10437,6 +11689,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10458,6 +11712,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10479,6 +11735,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10494,6 +11752,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10515,6 +11775,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10536,6 +11798,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10551,6 +11815,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10572,6 +11838,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10593,6 +11861,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10608,42 +11878,8 @@
        "qno": 25
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 32,
-     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
-     "type": "Source-based",
-     "marks": 4,
-     "text": "Read the given source and answer the questions that follow : “A warning for Europe” — Bernier warned that if European kings followed the Mughal model : Their kingdoms would be very far from being well-cultivated and peopled, so well built, so rich, so polite and flourishing as we see them. Our kings are otherwise rich and powerful; and we must avow that they are much better and more royally served. They would soon be kings of deserts and solitudes, of beggars and barbarians, such as those are whom I have been representing. (the Mughals) … We should find the great Cities and the great Burroughs (boroughs) rendered uninhabitable because of ill air, and to fall to ruine (ruin) without anybodies (anybody) taking care of repairing them; the hillocks abandon'd, and the fields overspread with bushes, or fill'd with pestilential marishes (marshes), as hath been already intimated. (32.1) Mention any one prominent contribution of Bernier. (1) (32.2) How did Bernier describe the difference between European kingdom and the Mughal territories ? (1) (32.3) Explain Bernier's views on the socio-economic status of people under Mughal rule. (2)",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/1/1",
-       "qno": 32
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 11,
-     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Identify the ruler of India from the sixteenth century with the following information and choose the correct option : – He went on a pilgrimage to Ajmer fourteen times. – He sought blessings for new conquests and the birth of sons from Ajmer Sharif.",
-     "options": [
-      "Sultan Ghias-ud-din Khalji",
-      "Shah-Jehan",
-      "Akbar",
-      "Muhammad Bin Tughlaq"
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/2/1",
-       "qno": 11
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10665,6 +11901,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10686,6 +11924,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10701,6 +11941,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10722,6 +11964,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10737,6 +11981,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -10752,6 +11998,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -10774,6 +12022,31 @@
        "qno": 11
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 12,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following options represents the correct chronological order of Mughal rulers in India ? I. Reign of Aurangzeb II. Reign of Akbar III. Reign of Shah Jahan IV. Reign of Jahangir",
+     "options": [
+      "I, II, III, IV",
+      "II, III, IV, I",
+      "III, II, I, IV",
+      "II, IV, III, I"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/5/1",
+       "qno": 12
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10789,6 +12062,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10834,6 +12109,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10849,6 +12126,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10864,6 +12143,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10886,6 +12167,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10901,6 +12184,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10916,22 +12201,32 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
     {
-     "qno": 32,
+     "qno": 8,
      "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
-     "type": "Source-based",
-     "marks": 4,
-     "text": "Read the given source carefully and answer the questions that follow : “The imperial \\textit{karkhanas}” — Bernier is perhaps the only historian who provides a detailed account of the working of the imperial \\textit{karkhanas} or workshops: Large halls are seen at many places, called \\textit{karkhanas} or workshops for the artisans. In one hall, embroiderers are busily employed, superintended by a master. In another, you see the goldsmiths; in a third, painters; in a fourth, varnishers in lacquer-work; in a fifth, joiners, turners, tailors and shoe-makers; in a sixth, manufacturers of silk, brocade and fine muslins … The artisans come every morning to their \\textit{karkhanas} where they remain employed the whole day; and in the evening return to their homes. In this quiet regular manner, their time glides away; no one aspiring for any improvement in the condition of life wherein he happens to be born. (32.1) How did Bernier's description reflect the economic significance of the \\textit{karkhanas} in the Mughal empire ? (32.2) How did the crafts in the \\textit{karkhanas} reflect the cultural diversity of the Mughal empire ? (32.3) Analyse the relationship between the Mughal empire and its artisans.",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following chronicles was authored by Abul-Fazl ?",
+     "options": [
+      "Babur-Nama",
+      "Humayun-Nama",
+      "Akbar-Nama",
+      "Padshah-Nama"
+     ],
      "papers": [
       {
-       "year": 2025,
-       "set": "61/7/1",
-       "qno": 32
+       "year": 2026,
+       "set": "61/1/1",
+       "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10947,6 +12242,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10962,6 +12259,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10984,6 +12283,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11005,6 +12306,25 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 24,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Why were regular hunting expeditions undertaken by the Mughal Emperors ? Explain.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/2/1",
+       "qno": 24
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11026,6 +12346,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11047,6 +12369,31 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Fill in the blank with the appropriate word from the options given below : The \\textit{Ain-i-Akbari} was part of a larger history called the __________ \\textit{Nama}.",
+     "options": [
+      "Babur",
+      "Akbar",
+      "Jahangir",
+      "Shahjahan"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/4/1",
+       "qno": 11
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11068,6 +12415,48 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 32,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source carefully and answer the questions that follow : “Trade between the hill tribes and the plains, c. 1595” — This is how Abu'l Fazl describes the transactions between the hill tribes and the plains in the \\textit{suba} of Awadh (part of present-day Uttar Pradesh) : From the northern mountains quantities of goods are carried on the backs of men, of stout ponies and of goats, such as gold, copper, lead, musk, tails of the \\textit{kutas} cow (the yak), honey, \\textit{chuk} (an acid composed of orange juice and lemon boiled together), pomegranate seed, ginger, long pepper, \\textit{majith} (a plant producing a red dye) root, borax, zedoary (a root resembling turmeric), wax, woollen stuffs, wooden ware, hawks, falcons, black falcons, merlins (a kind of bird), and other articles. In exchange they carry back white and coloured clothes, amber, salt, asafoetida, ornaments, glass and earthen ware. (32.1) Why was trade between the mountains and plains important for the Mughal economy ? (32.2) How did the people of the plains benefit from trade with the hill tribes ? (32.3) How did Abu'l Fazl describe the variety of goods carried by the hill tribes ?",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/4/1",
+       "qno": 32
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 11,
+     "chapter": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Fill in the blank with the appropriate word from the given options. The chronicle \\textit{Ain-i-Akbari} was authored by Akbar's court historian __________.",
+     "options": [
+      "Inayat Khan",
+      "Abu'l Fazl",
+      "Abdul Hamid Lahori",
+      "Abdul Qadir Badayuni"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "61/5/1",
+       "qno": 11
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11089,6 +12478,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11104,6 +12495,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11119,6 +12512,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     }
@@ -11126,225 +12521,8 @@
    "topic_order": []
   },
   {
-   "chapter": "Kings and Chronicles: The Mughal Courts",
-   "count": 12,
-   "questions": [
-    {
-     "qno": 11,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following statements is correct regarding Ain-i-Akbari ?",
-     "options": [
-      "Akbar Nama was the third book of Ain-i-Akbari.",
-      "Manzil-abadi deals with the civil administration of the Mughals.",
-      "Sipah-abadi deals with the imperial household of the Mughals.",
-      "Mulk-abadi deals with the fiscal side of the Mughal empire."
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "61/1/1",
-       "qno": 11
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 25,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "“There are some limitations of Ain-i-Akbari.” Examine the statement.",
-     "papers": [
-      {
-       "year": 2024,
-       "set": "61/2/1",
-       "qno": 25
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 12,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following options represents the correct chronological order of Mughal rulers in India ? I. Reign of Aurangzeb II. Reign of Akbar III. Reign of Shah Jahan IV. Reign of Jahangir",
-     "options": [
-      "I, II, III, IV",
-      "II, III, IV, I",
-      "III, II, I, IV",
-      "II, IV, III, I"
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/5/1",
-       "qno": 12
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 8,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following chronicles was authored by Abul-Fazl ?",
-     "options": [
-      "Babur-Nama",
-      "Humayun-Nama",
-      "Akbar-Nama",
-      "Padshah-Nama"
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/1/1",
-       "qno": 8
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 24,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "Why were regular hunting expeditions undertaken by the Mughal Emperors ? Explain.",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/2/1",
-       "qno": 24
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 32,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Source-based",
-     "marks": 4,
-     "text": "Read the given source carefully and answer the questions that follow : “A warning for Europe” — Bernier warned that if European kings followed the Mughal model : Their kingdoms would be very far from being well cultivated and peopled, so well built, so rich, so polite and flourishing as we see them. Our kings are otherwise rich and powerful; and we must avow that they are much better and more royally served. They would soon be kings of deserts and solitudes, of beggars and barbarians, such as those are whom I have been representing (the Mughals). … We should find the great Cities and the great Burroughs (boroughs) rendered uninhabitable because of ill air, and to fall to ruine (ruin) without any bodies (anybody) taking care of repairing them; the hillocks abandon'd, and the fields overspread with bushes, or fill'd with pestilential marishes (marshes), as hath been already intimated. (32.1) Why did Bernier warn their European kings against following Mughal model of kingship ? (32.2) Mention any one difference between Mughal \\& European land-ownership. (32.3) How did Bernier's description influence the western theorists from 18$^{th}$ century onwards ? Explain.",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/2/1",
-       "qno": 32
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 24,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "How did Bernier's account highlight the positive role of Indian women ? Explain.",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/3/1",
-       "qno": 24
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 32,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Source-based",
-     "marks": 4,
-     "text": "Read the given source carefully and answer the questions that follow : “How Silver Came to India” — This excerpt from Giovanni Careri's account (based on Bernier's account) gives an idea of the enormous amount of wealth that found its way into the Mughal Empire : That the Reader may form some idea of the Wealth of this (Mughal) Empire, he is to observe that all the Gold and Silver, which circulates throughout the World at last Centres here. It is well known that as much of it comes out of America, after running through several Kingdoms of Europe, goes partly into Turky (Turkey), for several sorts of Commodities; and part into Persia, by the way of Smirna for Silk. Now the Turks not being able to abstain from Coffee, which comes from Hyeman (Oman), and Arabia … nor Persia, Arabia, and the Turks themselves to go without the commodities of India, send vast quantities of Mony (money) to Moka (Mocha) on the Red Sea, near Babel Mandel; to Bassora (Basra) at the bottom of the Persian Gulgh (Gulf); … which is afterwards sent over in Ships to Indostan (Hindustan). Besides the Indian, Dutch, English, and Portuguese Ships, that every Year carry the Commodities of Indostan to Pegu, Tanasserri (parts of Myanmar), Siam (Thailand), Ceylon (Sri Lanka) … the Maldive Islands, Mozambique and other Places, must of necessity convey much Gold and Silver thither, from those Countries. All that the Dutch fetch from the Mines in Japan, sooner or later, goes to Indostan; and the goods carry'd hence into Europe, whether to France, England, or Portugal, are all purchas'd for ready Mony, which remains there. (32.1) How did silver and gold from America reach India ? (32.2) How did ships contribute to the flow of silver and gold to India ? (32.3) How did India benefit from global trade networks in the 17$^{th}$ century ?",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/3/1",
-       "qno": 32
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 11,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Fill in the blank with the appropriate word from the options given below : The \\textit{Ain-i-Akbari} was part of a larger history called the __________ \\textit{Nama}.",
-     "options": [
-      "Babur",
-      "Akbar",
-      "Jahangir",
-      "Shahjahan"
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/4/1",
-       "qno": 11
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 32,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Source-based",
-     "marks": 4,
-     "text": "Read the given source carefully and answer the questions that follow : “Trade between the hill tribes and the plains, c. 1595” — This is how Abu'l Fazl describes the transactions between the hill tribes and the plains in the \\textit{suba} of Awadh (part of present-day Uttar Pradesh) : From the northern mountains quantities of goods are carried on the backs of men, of stout ponies and of goats, such as gold, copper, lead, musk, tails of the \\textit{kutas} cow (the yak), honey, \\textit{chuk} (an acid composed of orange juice and lemon boiled together), pomegranate seed, ginger, long pepper, \\textit{majith} (a plant producing a red dye) root, borax, zedoary (a root resembling turmeric), wax, woollen stuffs, wooden ware, hawks, falcons, black falcons, merlins (a kind of bird), and other articles. In exchange they carry back white and coloured clothes, amber, salt, asafoetida, ornaments, glass and earthen ware. (32.1) Why was trade between the mountains and plains important for the Mughal economy ? (32.2) How did the people of the plains benefit from trade with the hill tribes ? (32.3) How did Abu'l Fazl describe the variety of goods carried by the hill tribes ?",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/4/1",
-       "qno": 32
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 11,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Fill in the blank with the appropriate word from the given options. The chronicle \\textit{Ain-i-Akbari} was authored by Akbar's court historian __________.",
-     "options": [
-      "Inayat Khan",
-      "Abu'l Fazl",
-      "Abdul Hamid Lahori",
-      "Abdul Qadir Badayuni"
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/5/1",
-       "qno": 11
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 24,
-     "chapter": "Kings and Chronicles: The Mughal Courts",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "Explain the ways in which the European thinkers like Montesquieu and Karl Marx used Bernier's description of India.",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "61/5/1",
-       "qno": 24
-      }
-     ],
-     "topic": "General"
-    }
-   ],
-   "topic_order": []
-  },
-  {
    "chapter": "Colonialism and the Countryside: Exploring Official Archives",
-   "count": 60,
+   "count": 62,
    "questions": [
     {
      "qno": 15,
@@ -11365,6 +12543,31 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 21,
+     "chapter": "Colonialism and the Countryside: Exploring Official Archives",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the East India Company’s officer with the help of following information : • Was a physician of Lord Wellesley • He surveyed Bengal • He established zoo in Bengal",
+     "options": [
+      "Colin Mackenzie",
+      "John Marshall",
+      "Marco Polo",
+      "Francis Buchanan"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 21
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11380,6 +12583,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11401,6 +12606,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11422,6 +12629,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11437,6 +12646,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11458,6 +12669,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11479,6 +12692,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11494,6 +12709,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11539,6 +12756,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11554,6 +12773,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11569,8 +12790,33 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 9,
+     "chapter": "Colonialism and the Countryside: Exploring Official Archives",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the British official with the help of the following information and select the correct option : • He was a Physician, came to India during 1794 to 1815. • He served in the Bengal Medical Services. • He served as Surgeon to the Lord Wellesley. • He organised ‘Calcutta Alipore Zoo’.",
+     "options": [
+      "Marco Polo",
+      "Francis Buchanan",
+      "Francois Bernier",
+      "Colon Meckenzie"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/5/1",
+       "qno": 9
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
+     "topic": "General"
     },
     {
      "qno": 33,
@@ -11585,6 +12831,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11606,6 +12854,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11627,6 +12877,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11642,6 +12894,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11663,6 +12917,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11684,6 +12940,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11699,6 +12957,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11720,6 +12980,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11735,6 +12997,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11750,6 +13014,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -11772,6 +13038,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11793,6 +13061,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11808,6 +13078,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11829,6 +13101,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11844,6 +13118,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11865,6 +13141,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11886,6 +13164,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11901,6 +13181,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11922,6 +13204,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11937,6 +13221,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11952,6 +13238,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -11974,6 +13262,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11995,6 +13285,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12010,6 +13302,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12031,6 +13325,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -12052,6 +13348,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12067,6 +13365,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12088,6 +13388,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12109,6 +13411,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12124,6 +13428,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12145,6 +13451,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12166,6 +13474,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12181,6 +13491,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12202,6 +13514,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -12223,6 +13537,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12238,6 +13554,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12259,6 +13577,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12304,6 +13624,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12325,6 +13647,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12340,6 +13664,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12361,6 +13687,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12382,6 +13710,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12397,6 +13727,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -12418,6 +13750,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12439,6 +13773,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12454,6 +13790,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12475,6 +13813,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12496,6 +13836,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12511,6 +13853,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -12518,8 +13862,31 @@
   },
   {
    "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
-   "count": 64,
+   "count": 68,
    "questions": [
+    {
+     "qno": 16,
+     "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements are correct ? (i) The English introduced western education in India. (ii) They set up English-medium schools and colleges. (iii) They established laws to abolish sati system. (iv) They did not permit widow remarriage.",
+     "options": [
+      "(i), (ii) and (iii)",
+      "(ii), (iii) and (iv)",
+      "(i), (iii) and (iv)",
+      "(i), (ii) and (iv)"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 16
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
+     "topic": "General"
+    },
     {
      "qno": 20,
      "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
@@ -12539,6 +13906,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12554,6 +13923,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12575,6 +13946,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12596,6 +13969,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12611,6 +13986,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12632,6 +14009,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12653,6 +14032,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12668,6 +14049,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12689,6 +14072,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12710,6 +14095,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12725,6 +14112,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12746,6 +14135,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12767,6 +14158,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12782,6 +14175,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12797,6 +14192,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12819,6 +14216,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12840,6 +14239,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12855,6 +14256,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12870,6 +14273,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12892,6 +14297,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12913,6 +14320,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -12928,6 +14337,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12949,6 +14360,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12970,6 +14383,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12985,6 +14400,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13006,6 +14423,31 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 20,
+     "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Identify the name of a British official from the information given below. • He adopted policies of reforming Indian society by introducing western education. • He established laws to abolish Sati system. • He permitted remarriage of Hindu widows",
+     "options": [
+      "Lord Mountbatten",
+      "Lord Wellesley",
+      "Lord William Bentinck",
+      "Lord Ripon"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "61/4/1",
+       "qno": 20
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13021,6 +14463,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13036,6 +14480,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13058,6 +14504,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13079,6 +14527,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13100,6 +14550,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13115,6 +14567,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13130,6 +14584,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13152,6 +14608,31 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 19,
+     "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following was a key feature of the 'Subsidiary Alliance' introduced by Lord Wellesley in 1798 ?",
+     "options": [
+      "Free Trade Policy brought by British",
+      "Maintenance of native army by British",
+      "Imposition of Western Customs by British",
+      "Protection of native territory by British"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/1/1",
+       "qno": 19
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13167,6 +14648,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13188,6 +14671,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13209,6 +14694,25 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 26,
+     "chapter": "Rebels and the Raj: 1857 Revolt and its Representations",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Analyse the policies adopted by William Bentinck to reform Indian society.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "61/2/1",
+       "qno": 26
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13230,6 +14734,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13251,6 +14757,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13266,6 +14774,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13287,6 +14797,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13308,6 +14820,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13323,6 +14837,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13344,6 +14860,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13365,6 +14883,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13380,6 +14900,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13401,6 +14923,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13422,6 +14946,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13437,6 +14963,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13458,6 +14986,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13503,6 +15033,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13518,6 +15050,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13539,6 +15073,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13554,6 +15090,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13569,6 +15107,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13591,6 +15131,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13612,6 +15154,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13627,6 +15171,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13648,6 +15194,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13669,6 +15217,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13684,6 +15234,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13705,6 +15257,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13726,6 +15280,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13741,136 +15297,8 @@
        "qno": 33
       }
      ],
-     "topic": "General"
-    }
-   ],
-   "topic_order": []
-  },
-  {
-   "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-   "count": 6,
-   "questions": [
-    {
-     "qno": 16,
-     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following statements are correct ? (i) The English introduced western education in India. (ii) They set up English-medium schools and colleges. (iii) They established laws to abolish sati system. (iv) They did not permit widow remarriage.",
-     "options": [
-      "(i), (ii) and (iii)",
-      "(ii), (iii) and (iv)",
-      "(i), (iii) and (iv)",
-      "(i), (ii) and (iv)"
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/1/1",
-       "qno": 16
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 21,
-     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Identify the East India Company’s officer with the help of following information : • Was a physician of Lord Wellesley • He surveyed Bengal • He established zoo in Bengal",
-     "options": [
-      "Colin Mackenzie",
-      "John Marshall",
-      "Marco Polo",
-      "Francis Buchanan"
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/1/1",
-       "qno": 21
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 9,
-     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Identify the British official with the help of the following information and select the correct option : • He was a Physician, came to India during 1794 to 1815. • He served in the Bengal Medical Services. • He served as Surgeon to the Lord Wellesley. • He organised ‘Calcutta Alipore Zoo’.",
-     "options": [
-      "Marco Polo",
-      "Francis Buchanan",
-      "Francois Bernier",
-      "Colon Meckenzie"
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/5/1",
-       "qno": 9
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 4,
-     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Identify the following picture from the given options :",
-     "options": [
-      "Sultan Jahan Begum",
-      "Shahjahan Begum",
-      "Jahanara Begum",
-      "Ruksar Begum"
-     ],
-     "figures": [
-      "assets/figures/hist_2024_z5_q4_begum.png"
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "61/5/1",
-       "qno": 4
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 19,
-     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which one of the following was a key feature of the 'Subsidiary Alliance' introduced by Lord Wellesley in 1798 ?",
-     "options": [
-      "Free Trade Policy brought by British",
-      "Maintenance of native army by British",
-      "Imposition of Western Customs by British",
-      "Protection of native territory by British"
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/1/1",
-       "qno": 19
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 26,
-     "chapter": "Colonial Cities: Urbanisation, Planning and Architecture",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "Analyse the policies adopted by William Bentinck to reform Indian society.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "61/2/1",
-       "qno": 26
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -13878,7 +15306,7 @@
   },
   {
    "chapter": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
-   "count": 68,
+   "count": 67,
    "questions": [
     {
      "qno": 17,
@@ -13899,6 +15327,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13914,6 +15344,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13929,6 +15361,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -13951,6 +15385,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13966,6 +15402,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13981,6 +15419,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -14003,6 +15443,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14018,6 +15460,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14033,6 +15477,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14055,6 +15501,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14076,6 +15524,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14091,6 +15541,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14112,6 +15564,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14127,6 +15581,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14142,6 +15598,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -14164,6 +15622,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14179,6 +15639,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14194,6 +15656,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14216,6 +15680,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14231,6 +15697,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14246,6 +15714,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14268,6 +15738,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14289,6 +15761,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14304,6 +15778,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14319,6 +15795,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -14341,27 +15819,8 @@
        "qno": 19
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 20,
-     "chapter": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Identify the name of a British official from the information given below. • He adopted policies of reforming Indian society by introducing western education. • He established laws to abolish Sati system. • He permitted remarriage of Hindu widows",
-     "options": [
-      "Lord Mountbatten",
-      "Lord Wellesley",
-      "Lord William Bentinck",
-      "Lord Ripon"
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "61/4/1",
-       "qno": 20
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14383,6 +15842,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14401,6 +15862,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14422,6 +15885,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14437,6 +15902,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14452,6 +15919,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -14474,6 +15943,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14489,6 +15960,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14504,6 +15977,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14526,6 +16001,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14547,6 +16024,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14562,6 +16041,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14583,6 +16064,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14598,6 +16081,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14613,6 +16098,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -14635,6 +16122,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14650,6 +16139,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14665,6 +16156,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14711,6 +16204,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14732,6 +16227,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14747,6 +16244,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14768,6 +16267,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14789,6 +16290,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14804,6 +16307,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14819,6 +16324,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14841,6 +16348,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14856,6 +16365,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14871,6 +16382,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -14893,6 +16406,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14914,6 +16429,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14929,6 +16446,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14950,6 +16469,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14971,6 +16492,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14986,6 +16509,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -15001,6 +16526,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -15023,6 +16550,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15044,6 +16573,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15059,6 +16590,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -15074,6 +16607,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -15096,6 +16631,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15111,6 +16648,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -15126,6 +16665,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -15133,30 +16674,8 @@
    "topic_order": []
   },
   {
-   "chapter": "Understanding Partition: Politics, Memories, Experiences",
-   "count": 1,
-   "questions": [
-    {
-     "qno": 33,
-     "chapter": "Understanding Partition: Politics, Memories, Experiences",
-     "type": "Source-based",
-     "marks": 4,
-     "text": "Read the given source and answer the questions that follow : “The British element is gone, but they have left the mischief behind” — Sardar Vallabh Bhai Patel said : “It is no use saying that we ask for separate electorates, because it is good for us. We have heard it long enough. We have heard it for years, and as a result of this agitation we are now a separate nation … Can you show me one free country where there are separate electorates ? If so, I shall be prepared to accept it. But in this unfortunate country if this separate electorate is going to be persisted in, even after the division of the country, woe betide the country; it is not worth living in. Therefore, I say, it is not for my good alone, it is for your own good that I say it, forget the past. One day, we may be united … The British element is gone, but they have left the mischief behind. We do not want to perpetuate that mischief. (Hear, hear). When the British introduced this element they had not expected that they will have to go so soon. They wanted it for their easy administration. That is all right. But they have left the legacy behind. Are we to get out of it or not ?” (33.1) Mention the meaning of separate electorates. (33.2) Why did Sardar Patel insist on unity ? (33.3) Why was separate electorate considered a mischief by the British ?",
-     "papers": [
-      {
-       "year": 2023,
-       "set": "61/1/1",
-       "qno": 33
-      }
-     ],
-     "topic": "General"
-    }
-   ],
-   "topic_order": []
-  },
-  {
    "chapter": "Framing the Constitution: The Beginning of a New Era",
-   "count": 59,
+   "count": 60,
    "questions": [
     {
      "qno": 18,
@@ -15177,6 +16696,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15198,6 +16719,25 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 33,
+     "chapter": "Framing the Constitution: The Beginning of a New Era",
+     "type": "Source-based",
+     "marks": 4,
+     "text": "Read the given source and answer the questions that follow : “The British element is gone, but they have left the mischief behind” — Sardar Vallabh Bhai Patel said : “It is no use saying that we ask for separate electorates, because it is good for us. We have heard it long enough. We have heard it for years, and as a result of this agitation we are now a separate nation … Can you show me one free country where there are separate electorates ? If so, I shall be prepared to accept it. But in this unfortunate country if this separate electorate is going to be persisted in, even after the division of the country, woe betide the country; it is not worth living in. Therefore, I say, it is not for my good alone, it is for your own good that I say it, forget the past. One day, we may be united … The British element is gone, but they have left the mischief behind. We do not want to perpetuate that mischief. (Hear, hear). When the British introduced this element they had not expected that they will have to go so soon. They wanted it for their easy administration. That is all right. But they have left the legacy behind. Are we to get out of it or not ?” (33.1) Mention the meaning of separate electorates. (33.2) Why did Sardar Patel insist on unity ? (33.3) Why was separate electorate considered a mischief by the British ?",
+     "papers": [
+      {
+       "year": 2023,
+       "set": "61/1/1",
+       "qno": 33
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15219,6 +16759,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15240,6 +16782,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15255,6 +16799,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15276,6 +16822,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15297,6 +16845,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15312,6 +16862,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15333,6 +16885,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15354,6 +16908,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15369,6 +16925,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15414,6 +16972,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15435,6 +16995,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15450,6 +17012,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15471,6 +17035,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15492,6 +17058,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15507,6 +17075,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15528,6 +17098,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15549,6 +17121,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15564,6 +17138,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15585,6 +17161,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15606,6 +17184,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -15621,6 +17201,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15642,6 +17224,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15657,6 +17241,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15672,6 +17258,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -15694,6 +17282,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15715,6 +17305,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15730,6 +17322,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15751,6 +17345,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15772,6 +17368,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15787,6 +17385,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15808,6 +17408,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -15829,6 +17431,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15844,6 +17448,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15865,6 +17471,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15886,6 +17494,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15901,6 +17511,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15922,6 +17534,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -15967,6 +17581,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -15982,6 +17598,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16003,6 +17621,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -16018,6 +17638,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16033,6 +17655,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -16079,6 +17703,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -16094,6 +17720,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16115,6 +17743,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -16160,6 +17790,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16175,6 +17807,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16196,6 +17830,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -16211,6 +17847,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16226,6 +17864,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -16272,6 +17912,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16287,6 +17929,8 @@
        "qno": 33
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16332,6 +17976,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16347,6 +17993,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16392,6 +18040,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -16413,6 +18063,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -16428,6 +18080,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
