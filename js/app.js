@@ -103,38 +103,59 @@
   // embedded MCQ option marker (A)-(H) that is surrounded by whitespace, so each
   // part and each of its options sits on its own line. The "Note :" block that
   // carries the Visually-Impaired-Candidates variant also starts a new line.
-  // Some MCQ options are themselves built by combining EARLIER roman-numeral
-  // statements ("(a) (iii) and (iv)", "(A) (i) & (ii)", "(C) (ii), (iii) & (v)")
-  // rather than stating new content -- a letter marker followed by one roman
-  // marker, then at least one MORE roman joined by an explicit "and"/"or"/
-  // "&"/",". (2+ romans required, not 1: a LONE roman right after a letter is
-  // ambiguous -- it's just as often a coincidence, e.g. an option block ending
-  // "...(D) Both (A) and (B)" immediately followed by an unrelated "(vi) What
-  // does..." sub-part, where "(B) (vi)" would wrongly look like a combo if a
-  // single roman were enough. Requiring a connector-joined pair keeps this
-  // scoped to the real pattern. The connector is REQUIRED from the 2nd roman
-  // onward too, so a later unrelated marker that just happens to follow with a
-  // plain space can't extend the combo indefinitely.) Disguise the roman
-  // markers inside the combo (hide their parens from the marker-detector regex
-  // below, restore after) rather than touching whitespace -- so the letter
-  // marker itself is untouched and still gets its own line break exactly as
-  // before, while the numerals it's built from can no longer be mistaken for
-  // fresh sub-parts and shattered onto their own lines. (Scoped tight to this
-  // exact shape so it can't touch a genuine inline reference like "identified
-  // in part (i), except the".)
-  var ROMAN_ALT = "(?:xii|xi|x|ix|viii|vii|vi|iv|iii|ii|i|v)";
-  var GLUE_COMBO = new RegExp(
-    "\\([a-hA-H]\\)([ \\t]*\\(" + ROMAN_ALT + "\\)(?:[ \\t]*(?:,|&|\\band\\b|\\bor\\b)[ \\t]*\\(" + ROMAN_ALT + "\\))+)",
-    "gi");
-  var ROMAN_PAREN = new RegExp("\\(" + ROMAN_ALT + "\\)", "gi");
+  // Some MCQ options are themselves built by COMBINING earlier statement labels
+  // rather than stating new content, e.g. "(a) (iii) and (iv)", "(A) (i) & (ii)",
+  // "(C) (ii), (iii) & (v)", "(A) (a) and (e)", "(C) (b) only", "(A) only (e)" --
+  // a letter-marker option whose entire "content" is a reference (or two, joined
+  // by "and"/"or"/"&"/",", or singular with "only") back to earlier-listed roman
+  // numerals or (when the option itself is uppercase) lowercase-letter items.
+  // The split below would otherwise break before every one of those referenced
+  // markers too, shattering the option across a line each. Two passes, run
+  // UPPERCASE-outer first: lowercase-outer options may only reference roman
+  // numerals (never bare letters -- that would be ambiguous with a genuinely
+  // separate adjacent lowercase option), while uppercase-outer options may
+  // reference romans OR lowercase letters, since CBSE always keeps the two
+  // marker alphabets case-distinct within one such question. A single bare
+  // reference is only treated as a combo when marked with "only" (before or
+  // after it) -- otherwise it's ambiguous with unrelated content coincidentally
+  // followed by a fresh part marker, e.g. "...(D) Both (A) and (B) (vi) What
+  // does..." must NOT treat "(B) (vi)" as a combo. Disguise the referenced
+  // markers' parens (hide them from the marker-detector regex below, restore
+  // after) rather than touching whitespace, so the option's own letter marker
+  // is untouched and still gets its own line break exactly as before, while the
+  // markers it's built from can no longer be mistaken for fresh sub-parts.
+  // (Scoped tight to this exact shape so it can't touch a genuine inline
+  // reference like "identified in part (i), except the".)
+  var ROMAN_LOWER = "(?:xii|xi|x|ix|viii|vii|vi|iv|iii|ii|i|v)";
+  var ROMAN_UPPER = "(?:XII|XI|X|IX|VIII|VII|VI|IV|III|II|I|V)";
+  var ROMAN_ANY = "(?:" + ROMAN_LOWER + "|" + ROMAN_UPPER + ")";
+  function buildGlue(outer, inner) {
+    // "g" so every combo option in the text gets protected, not just the
+    // first -- but no "i": outer case must be exact so the lowercase- and
+    // uppercase-outer passes stay disjoint (that's what keeps bare-letter
+    // references unambiguous -- they're only ever allowed under an
+    // UPPERCASE option).
+    return new RegExp(
+      "\\(" + outer + "\\)(" +
+      "(?:[ \\t]*\\(" + inner + "\\)(?:[ \\t]*(?:,|&|and|or)[ \\t]*\\(" + inner + "\\))+)" +
+      "|(?:[ \\t]*\\(" + inner + "\\)[ \\t]+only\\b|[ \\t]+only\\b[ \\t]*\\(" + inner + "\\))" +
+      ")", "g");
+  }
+  var GLUE_UC = buildGlue("[A-H]", "(?:" + ROMAN_ANY + "|[a-h])");
+  var GLUE_LC = buildGlue("[a-h]", ROMAN_ANY);
+  var GLUE_INNER_PAREN = new RegExp("\\((?:" + ROMAN_ANY + "|[a-h])\\)", "g");
   var GLUE_OPEN = "\u0002", GLUE_CLOSE = "\u0003";
-  function partOptLines(t) {
-    var s = t.replace(GLUE_COMBO, function (whole, tail) {
-      var disguised = tail.replace(ROMAN_PAREN, function (p) {
+  function discomboPass(t, glue) {
+    return t.replace(glue, function (whole, tail) {
+      var disguised = tail.replace(GLUE_INNER_PAREN, function (p) {
         return GLUE_OPEN + p.slice(1, -1) + GLUE_CLOSE;
       });
       return whole.slice(0, whole.length - tail.length) + disguised;
     });
+  }
+  function partOptLines(t) {
+    var s = discomboPass(t, GLUE_UC);
+    s = discomboPass(s, GLUE_LC);
     s = s.replace(
       /[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-hA-H]|\d{1,2}\.\d{1,2}|\d{1,2})\))(?=[ \t]|$)/g,
       "\n$1")
