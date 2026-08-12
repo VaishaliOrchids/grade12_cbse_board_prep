@@ -2813,8 +2813,13 @@
    * difficulty where the bank has one, leaving an honest "Not enough
    * questions" placeholder where it doesn't (never borrowing across chapters).
    */
+  // All 11 subjects are live: the four humanities subjects were tagged
+  // Average/Difficult in Aug 2026 (history, geography, english, political science),
+  // which is all this tab needs — it selects on difficulty and board weightage,
+  // not on NCERT sub-topics.
   var QC_LIVE = { mathematics: 1, physics: 1, chemistry: 1, biology: 1,
-                  accountancy: 1, economics: 1, "business-studies": 1 };
+                  accountancy: 1, economics: 1, "business-studies": 1,
+                  history: 1, geography: 1, english: 1, "political-science": 1 };
   function qcSubjects(subs) { return subs.filter(function (s) { return !!QC_LIVE[s.id]; }); }
 
   function qcBuildSet(data) {
@@ -3090,8 +3095,11 @@
     crumbs.innerHTML = '<a href="#/">Home</a> › Dashboard';
     document.title = "Dashboard — Chapter Analysis";
     getSubjectsIndex().then(function (subs) {
+      // All 11 subjects live. NOTE history / geography / english / political science
+      // have no NCERT sub-topic map yet (topics.py), so their chapter rows expand to a
+      // single "Other / Mixed" sub-topic row until TOPIC_MAP covers them.
       var TRIAL = { mathematics: 1, physics: 1, chemistry: 1, biology: 1, economics: 1, accountancy: 1,
-        "business-studies": 1 };   // all subjects live (business studies NCERT-tagged 2026-07-29)
+        "business-studies": 1, history: 1, geography: 1, english: 1, "political-science": 1 };
       if (!TRIAL[DASH.sub]) DASH.sub = "mathematics";
       var tabs = subs.map(function (s) {
         var live = !!TRIAL[s.id], on = s.id === DASH.sub && live;

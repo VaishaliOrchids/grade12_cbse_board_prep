@@ -50,6 +50,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -71,6 +73,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -86,6 +90,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -101,6 +107,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -123,6 +131,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -138,6 +148,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -153,6 +165,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -169,6 +183,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -184,6 +200,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -199,6 +217,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -221,6 +241,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -236,6 +258,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -251,6 +275,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -267,6 +293,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -288,6 +316,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -309,6 +339,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -324,6 +356,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -342,6 +376,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -363,6 +399,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -384,6 +422,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -405,6 +445,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -426,6 +468,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -441,6 +485,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -456,6 +502,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -472,6 +520,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -487,6 +537,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -508,6 +560,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -529,6 +583,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -544,6 +600,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -559,6 +617,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -580,6 +640,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -601,6 +663,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -616,6 +680,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -631,6 +697,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -646,6 +714,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -668,6 +738,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -689,6 +761,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -704,6 +778,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -719,6 +795,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -735,6 +813,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -750,6 +830,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -766,6 +848,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -781,6 +865,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -803,6 +889,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -824,6 +912,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -839,6 +929,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -860,6 +952,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -875,6 +969,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -890,6 +986,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -905,6 +1003,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -920,6 +1020,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -942,6 +1044,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -963,6 +1067,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -984,6 +1090,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -999,6 +1107,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -1021,6 +1131,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1036,6 +1148,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1051,6 +1165,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1073,6 +1189,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1091,6 +1209,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1106,6 +1226,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1121,6 +1243,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1143,6 +1267,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1164,6 +1290,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1182,6 +1310,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1205,6 +1335,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1220,6 +1352,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1235,6 +1369,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1250,6 +1386,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1269,6 +1407,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1284,6 +1424,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1299,6 +1441,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1321,6 +1465,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1342,6 +1488,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1357,6 +1505,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1372,6 +1522,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1388,6 +1540,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1403,6 +1557,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1419,6 +1575,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1434,6 +1592,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1456,6 +1616,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1471,6 +1633,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1486,6 +1650,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1501,6 +1667,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1516,6 +1684,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1532,6 +1702,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1547,6 +1719,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1563,6 +1737,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -1578,6 +1754,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1594,6 +1772,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1609,6 +1789,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1625,6 +1807,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1640,6 +1824,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1662,6 +1848,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1683,6 +1871,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1701,6 +1891,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1716,6 +1908,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1734,6 +1928,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1755,6 +1951,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1770,6 +1968,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1785,6 +1985,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1804,6 +2006,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1825,6 +2029,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1846,6 +2052,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1861,6 +2069,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1876,6 +2086,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1900,6 +2112,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1918,6 +2132,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1933,6 +2149,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1948,6 +2166,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1963,6 +2183,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -1989,6 +2211,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2004,6 +2228,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2027,6 +2253,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2048,6 +2276,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2063,6 +2293,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2084,6 +2316,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2102,6 +2336,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2123,6 +2359,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2146,6 +2384,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2161,6 +2401,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2182,6 +2424,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2203,6 +2447,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2218,6 +2464,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2238,6 +2486,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2253,6 +2503,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2268,6 +2520,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2289,6 +2543,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2312,6 +2568,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2333,6 +2591,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2348,6 +2608,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2363,6 +2625,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2381,6 +2645,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2402,6 +2668,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2423,6 +2691,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2438,6 +2708,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2453,6 +2725,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2475,6 +2749,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2496,6 +2772,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2511,6 +2789,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2526,6 +2806,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2542,6 +2824,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2557,6 +2841,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2572,6 +2858,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -2588,6 +2876,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2606,6 +2896,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2621,6 +2913,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2636,6 +2930,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2651,6 +2947,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2667,6 +2965,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2682,6 +2982,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2704,6 +3006,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2719,6 +3023,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2734,6 +3040,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2749,6 +3057,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2764,6 +3074,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2779,6 +3091,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2795,6 +3109,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2810,6 +3126,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2825,6 +3143,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2840,6 +3160,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2855,6 +3177,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2877,6 +3201,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2892,6 +3218,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2907,6 +3235,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2929,6 +3259,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2950,6 +3282,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2965,6 +3299,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2980,6 +3316,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3004,6 +3342,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3025,6 +3365,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3043,6 +3385,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -3071,6 +3415,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3086,6 +3432,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3101,6 +3449,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3122,6 +3472,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3137,6 +3489,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3152,6 +3506,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3167,6 +3523,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3183,6 +3541,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3198,6 +3558,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3219,6 +3581,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3241,6 +3605,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3256,6 +3622,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3271,6 +3639,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3286,6 +3656,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3301,6 +3673,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3316,6 +3690,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3338,6 +3714,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3359,6 +3737,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3374,6 +3754,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3389,6 +3771,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3405,6 +3789,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3420,6 +3806,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3436,6 +3824,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3454,6 +3844,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3475,6 +3867,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3496,6 +3890,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3514,6 +3910,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3529,6 +3927,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3544,6 +3944,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3566,6 +3968,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3587,6 +3991,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3602,6 +4008,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3617,6 +4025,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3633,6 +4043,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3648,6 +4060,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -3670,6 +4084,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3691,6 +4107,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3706,6 +4124,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3721,6 +4141,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3737,6 +4159,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3752,6 +4176,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3774,6 +4200,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3795,6 +4223,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3810,6 +4240,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3831,6 +4263,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3852,6 +4286,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3867,6 +4303,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3882,6 +4320,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -3904,6 +4344,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3925,6 +4367,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3943,6 +4387,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3958,6 +4404,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     }
    ],
@@ -3986,6 +4434,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4001,6 +4451,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4022,6 +4474,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4042,6 +4496,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4057,6 +4513,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4072,6 +4530,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4093,6 +4553,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4114,6 +4576,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4129,6 +4593,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4144,6 +4610,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4166,6 +4634,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4189,6 +4659,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4204,6 +4676,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4219,6 +4693,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4241,6 +4717,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4262,6 +4740,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4277,6 +4757,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4292,6 +4774,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4307,6 +4791,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4322,6 +4808,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4344,6 +4832,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4365,6 +4855,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4380,6 +4872,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4395,6 +4889,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4410,6 +4906,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4425,6 +4923,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4441,6 +4941,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4456,6 +4958,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -4478,6 +4982,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4496,6 +5002,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4511,6 +5019,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4526,6 +5036,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4541,6 +5053,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4563,6 +5077,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4586,6 +5102,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4601,6 +5119,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4622,6 +5142,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4643,6 +5165,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4658,6 +5182,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4673,6 +5199,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4688,6 +5216,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4703,6 +5233,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4719,6 +5251,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4734,6 +5268,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4755,6 +5291,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4776,6 +5314,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4791,6 +5331,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4812,6 +5354,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4833,6 +5377,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4848,6 +5394,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4863,6 +5411,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4878,6 +5428,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4894,6 +5446,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4909,6 +5463,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4931,6 +5487,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4946,6 +5504,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -4974,6 +5534,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4989,6 +5551,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5010,6 +5574,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5025,6 +5591,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5040,6 +5608,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5055,6 +5625,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5071,6 +5643,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5086,6 +5660,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5108,6 +5684,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5123,6 +5701,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5138,6 +5718,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5153,6 +5735,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5175,6 +5759,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5198,6 +5784,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5213,6 +5801,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5228,6 +5818,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5243,6 +5835,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5265,6 +5859,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5288,6 +5884,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5303,6 +5901,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5324,6 +5924,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5347,6 +5949,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5362,6 +5966,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5377,6 +5983,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5397,6 +6005,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5412,6 +6022,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5433,6 +6045,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5448,6 +6062,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5463,6 +6079,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5478,6 +6096,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5493,6 +6113,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5508,6 +6130,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5530,6 +6154,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5551,6 +6177,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5566,6 +6194,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5581,6 +6211,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5596,6 +6228,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5611,6 +6245,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5633,6 +6269,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5654,6 +6292,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5669,6 +6309,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5684,6 +6326,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -5708,6 +6352,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5729,6 +6375,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5744,6 +6392,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5759,6 +6409,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5774,6 +6426,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -5803,6 +6457,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5818,6 +6474,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5839,6 +6497,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5854,6 +6514,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5869,6 +6531,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5884,6 +6548,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5905,6 +6571,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5920,6 +6588,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5935,6 +6605,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5950,6 +6622,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5965,6 +6639,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5981,6 +6657,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5996,6 +6674,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6011,6 +6691,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6027,6 +6709,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6048,6 +6732,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6071,6 +6757,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6086,6 +6774,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6107,6 +6797,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6122,6 +6814,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6137,6 +6831,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6160,6 +6856,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6181,6 +6879,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6196,6 +6896,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6217,6 +6919,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6238,6 +6942,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6253,6 +6959,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6268,6 +6976,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6289,6 +6999,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6310,6 +7022,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6325,6 +7039,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6348,6 +7064,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6369,6 +7087,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6384,6 +7104,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6402,6 +7124,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6417,6 +7141,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6432,6 +7158,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6447,6 +7175,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6462,6 +7192,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6477,6 +7209,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -6499,6 +7233,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6514,6 +7250,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6536,6 +7274,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6557,6 +7297,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6575,6 +7317,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6590,6 +7334,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6605,6 +7351,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6620,6 +7368,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6635,6 +7385,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6651,6 +7403,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6666,6 +7420,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6682,6 +7438,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6697,6 +7455,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6713,6 +7473,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6728,6 +7490,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6750,6 +7514,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6765,6 +7531,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6780,6 +7548,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6798,6 +7568,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6813,6 +7585,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6828,6 +7602,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6844,6 +7620,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6859,6 +7637,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6875,6 +7655,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6893,6 +7675,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6916,6 +7700,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6937,6 +7723,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6958,6 +7746,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6973,6 +7763,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6994,6 +7786,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7009,6 +7803,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7024,6 +7820,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7046,6 +7844,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7067,6 +7867,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7085,6 +7887,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7100,6 +7904,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7115,6 +7921,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7137,6 +7945,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7158,6 +7968,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7173,6 +7985,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7194,6 +8008,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7215,6 +8031,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7230,6 +8048,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7245,6 +8065,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7267,6 +8089,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7290,6 +8114,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7308,6 +8134,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -7330,6 +8158,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7345,6 +8175,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7361,6 +8193,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7376,6 +8210,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7391,6 +8227,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7413,6 +8251,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7428,6 +8268,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7449,6 +8291,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7472,6 +8316,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7487,6 +8333,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7508,6 +8356,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7529,6 +8379,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7544,6 +8396,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7562,6 +8416,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7577,6 +8433,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7598,6 +8456,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7613,6 +8473,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7634,6 +8496,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7655,6 +8519,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7675,6 +8541,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7696,6 +8564,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7717,6 +8587,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7732,6 +8604,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7753,6 +8627,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7768,6 +8644,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7789,6 +8667,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7810,6 +8690,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7828,6 +8710,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7849,6 +8733,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7864,6 +8750,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7879,6 +8767,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7894,6 +8784,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7915,6 +8807,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7936,6 +8830,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7951,6 +8847,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7972,6 +8870,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7987,6 +8887,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8002,6 +8904,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -8030,6 +8934,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8051,6 +8957,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8066,6 +8974,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8081,6 +8991,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8103,6 +9015,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8118,6 +9032,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8139,6 +9055,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8160,6 +9078,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8175,6 +9095,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8196,6 +9118,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8217,6 +9141,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8232,6 +9158,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8247,6 +9175,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8262,6 +9192,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8277,6 +9209,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8292,6 +9226,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8307,6 +9243,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8328,6 +9266,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8349,6 +9289,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8370,6 +9312,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8391,6 +9335,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8406,6 +9352,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8427,6 +9375,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8448,6 +9398,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8469,6 +9421,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8490,6 +9444,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8505,6 +9461,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8528,6 +9486,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8549,6 +9509,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8564,6 +9526,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8587,6 +9551,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8608,6 +9574,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8623,6 +9591,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8644,6 +9614,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8665,6 +9637,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8686,6 +9660,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8707,6 +9683,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -8729,6 +9707,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8744,6 +9724,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8759,6 +9741,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8782,6 +9766,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8803,6 +9789,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8818,6 +9806,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8833,6 +9823,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8854,6 +9846,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8877,6 +9871,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8898,6 +9894,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8913,6 +9911,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8928,6 +9928,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8943,6 +9945,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8958,6 +9962,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8976,6 +9982,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8997,6 +10005,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9018,6 +10028,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9033,6 +10045,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9054,6 +10068,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9075,6 +10091,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9090,6 +10108,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9105,6 +10125,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -9121,6 +10143,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9136,6 +10160,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9151,6 +10177,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9173,6 +10201,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9194,6 +10224,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9209,6 +10241,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9224,6 +10258,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9239,6 +10275,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9255,6 +10293,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9270,6 +10310,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9292,6 +10334,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9313,6 +10357,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9334,6 +10380,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9349,6 +10397,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9364,6 +10414,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9379,6 +10431,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9394,6 +10448,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9409,6 +10465,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9425,6 +10483,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9440,6 +10500,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9461,6 +10523,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9476,6 +10540,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9491,6 +10557,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9507,6 +10575,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9522,6 +10592,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9538,6 +10610,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9553,6 +10627,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9575,6 +10651,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9590,6 +10668,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9605,6 +10685,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9620,6 +10702,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9635,6 +10719,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9650,6 +10736,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9665,6 +10753,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9681,6 +10771,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9696,6 +10788,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -9719,6 +10813,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9742,6 +10838,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9763,6 +10861,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9784,6 +10884,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9802,6 +10904,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9823,6 +10927,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9838,6 +10944,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9859,6 +10967,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9880,6 +10990,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9895,6 +11007,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9913,6 +11027,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9931,6 +11047,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9949,6 +11067,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9972,6 +11092,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9993,6 +11115,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10008,6 +11132,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10029,6 +11155,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10050,6 +11178,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10065,6 +11195,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10080,6 +11212,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10095,6 +11229,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10111,6 +11247,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10129,6 +11267,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10144,6 +11284,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10159,6 +11301,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10174,6 +11318,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10193,6 +11339,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10208,6 +11356,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10223,6 +11373,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10244,6 +11396,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10259,6 +11413,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10277,6 +11433,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10292,6 +11450,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10310,6 +11470,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10328,6 +11490,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10343,6 +11507,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10358,6 +11524,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -10387,6 +11555,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10409,6 +11579,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10430,6 +11602,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10445,6 +11619,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10460,6 +11636,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10475,6 +11653,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10497,6 +11677,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10518,6 +11700,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10533,6 +11717,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10548,6 +11734,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10563,6 +11751,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10578,6 +11768,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10593,6 +11785,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10612,6 +11806,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10630,6 +11826,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10651,6 +11849,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10672,6 +11872,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10687,6 +11889,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10702,6 +11906,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10717,6 +11923,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10733,6 +11941,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10756,6 +11966,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10777,6 +11989,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10792,6 +12006,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10807,6 +12023,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10822,6 +12040,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10838,6 +12058,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10853,6 +12075,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10868,6 +12092,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10889,6 +12115,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10910,6 +12138,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10925,6 +12155,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10946,6 +12178,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10967,6 +12201,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10982,6 +12218,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10997,6 +12235,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11012,6 +12252,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -11040,6 +12282,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11061,6 +12305,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11076,6 +12322,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11091,6 +12339,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11109,6 +12359,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11130,6 +12382,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11145,6 +12399,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11160,6 +12416,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11181,6 +12439,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11202,6 +12462,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11217,6 +12479,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11232,6 +12496,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11247,6 +12513,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11269,6 +12537,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11292,6 +12562,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11313,6 +12585,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11328,6 +12602,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11349,6 +12625,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11370,6 +12648,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11385,6 +12665,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11408,6 +12690,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11429,6 +12713,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11444,6 +12730,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11465,6 +12753,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11480,6 +12770,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11495,6 +12787,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11510,6 +12804,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11525,6 +12821,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11540,6 +12838,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11555,6 +12855,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11571,6 +12873,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11589,6 +12893,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11610,6 +12916,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11625,6 +12933,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11640,6 +12950,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11655,6 +12967,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11670,6 +12984,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11686,6 +13002,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11701,6 +13019,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11717,6 +13037,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11732,6 +13054,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11747,6 +13071,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -11763,6 +13089,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11781,6 +13109,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11796,6 +13126,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11811,6 +13143,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11827,6 +13161,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11842,6 +13178,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11858,6 +13196,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11873,6 +13213,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     }
@@ -11902,6 +13244,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11917,6 +13261,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11937,6 +13283,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11952,6 +13300,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11970,6 +13320,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11991,6 +13343,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12012,6 +13366,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12027,6 +13383,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12042,6 +13400,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12063,6 +13423,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12078,6 +13440,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12093,6 +13457,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12108,6 +13474,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12123,6 +13491,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12138,6 +13508,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12160,6 +13532,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12175,6 +13549,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12190,6 +13566,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12212,6 +13590,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12233,6 +13613,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12248,6 +13630,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12266,6 +13650,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12281,6 +13667,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12296,6 +13684,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12311,6 +13701,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12327,6 +13719,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12342,6 +13736,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12358,6 +13754,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12373,6 +13771,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12388,6 +13788,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12404,6 +13806,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12419,6 +13823,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12434,6 +13840,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -12456,6 +13864,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12477,6 +13887,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12492,6 +13904,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12507,6 +13921,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12529,6 +13945,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12544,6 +13962,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12559,6 +13979,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12581,6 +14003,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12607,6 +14031,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12622,6 +14048,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12637,6 +14065,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12653,6 +14083,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12668,6 +14100,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12690,6 +14124,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12711,6 +14147,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12726,6 +14164,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12741,6 +14181,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12757,6 +14199,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12778,6 +14222,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12799,6 +14245,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12814,6 +14262,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12829,6 +14279,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12851,6 +14303,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12872,6 +14326,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12887,6 +14343,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12902,6 +14360,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12917,6 +14377,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12933,6 +14395,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12948,6 +14412,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12963,6 +14429,8 @@
        "qno": "29-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12979,6 +14447,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12994,6 +14464,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13009,6 +14481,8 @@
        "qno": "30-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13031,6 +14505,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13046,6 +14522,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13061,6 +14539,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
