@@ -31,7 +31,7 @@
  "chapters": [
   {
    "chapter": "Human Geography: Nature and Scope",
-   "count": 36,
+   "count": 35,
    "questions": [
     {
      "qno": 20,
@@ -46,6 +46,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -61,6 +63,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -83,6 +87,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -104,6 +110,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -125,6 +133,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -140,6 +150,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -155,6 +167,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -170,6 +184,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -185,6 +201,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -200,6 +218,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -216,6 +236,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -231,6 +253,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -247,6 +271,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -262,6 +288,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -277,6 +305,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -292,6 +322,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -308,6 +340,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -323,6 +357,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -345,6 +381,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -366,6 +404,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -387,6 +427,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -402,6 +444,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -417,6 +461,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -433,6 +479,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -448,6 +496,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -470,6 +520,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -491,6 +543,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -512,27 +566,8 @@
        "qno": 17
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 1,
-     "chapter": "Human Geography: Nature and Scope",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following statements related to the concept of ‘development’ are correct ? Choose the appropriate option. I. Development means positive change in life. II. When positive growth is there, it is development. III. When quantity is greater, it is development. IV. Development is always relative to value.",
-     "options": [
-      "Only I, II and III are correct.",
-      "Only I, II and IV are correct.",
-      "Only I, III and IV are correct.",
-      "Only II, III and IV are correct."
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "64/1/1",
-       "qno": 1
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -548,6 +583,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -570,6 +607,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -591,6 +630,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -612,6 +653,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -627,6 +670,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -642,6 +687,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -657,6 +704,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -685,6 +734,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -706,6 +757,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -727,6 +780,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -742,6 +797,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -757,6 +814,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -773,6 +832,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -794,6 +855,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -815,6 +878,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -836,6 +901,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -851,6 +918,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -866,6 +935,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -882,6 +953,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -897,6 +970,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -919,6 +994,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -940,6 +1017,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -961,6 +1040,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -976,6 +1057,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -991,6 +1074,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1012,6 +1097,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1033,6 +1120,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1054,6 +1143,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1069,6 +1160,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1084,6 +1177,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1099,6 +1194,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1114,6 +1211,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1139,6 +1238,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1161,6 +1262,8 @@
        "qno": "15-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1182,6 +1285,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1203,6 +1308,8 @@
        "qno": "16-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1225,6 +1332,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1246,6 +1355,8 @@
        "qno": "17-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1262,6 +1373,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1283,6 +1396,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1301,6 +1416,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1317,6 +1434,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1332,6 +1451,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1347,6 +1468,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1370,6 +1493,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1391,6 +1516,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1412,6 +1539,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -1427,6 +1556,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1442,6 +1573,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1461,6 +1594,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1477,6 +1612,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1498,6 +1635,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1520,6 +1659,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1535,6 +1676,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1550,6 +1693,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1566,6 +1711,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -1573,7 +1720,7 @@
   },
   {
    "chapter": "Human Development",
-   "count": 54,
+   "count": 52,
    "questions": [
     {
      "qno": 2,
@@ -1594,6 +1741,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1615,6 +1764,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1636,6 +1787,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1651,6 +1804,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1666,6 +1821,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1682,6 +1839,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1703,6 +1862,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1724,6 +1885,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1745,6 +1908,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1760,6 +1925,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1781,6 +1948,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1796,6 +1965,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1811,6 +1982,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1833,6 +2006,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1848,6 +2023,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1863,6 +2040,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -1885,6 +2064,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1906,6 +2087,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1927,6 +2110,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -1948,6 +2133,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1969,6 +2156,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -1990,38 +2179,9 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
-    },
-    {
-     "qno": 28,
-     "chapter": "Human Development",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(a) Evaluate the ‘National Youth Policy of India’ for overall development of youths and adolescents.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/1/1",
-       "qno": 28
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 28,
-     "chapter": "Human Development",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) Suggest the measure for overall development of youths and adolescents in India.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/1/1",
-       "qno": "28-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 24,
@@ -2036,27 +2196,8 @@
        "qno": 24
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 10,
-     "chapter": "Human Development",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which one of the following is not a challenge of adolescent population faced by the society ?",
-     "options": [
-      "High marriage age",
-      "Drug abuse and alcoholism",
-      "Low female literacy",
-      "Dropouts from school"
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/4/1",
-       "qno": 10
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2072,6 +2213,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2094,6 +2237,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2115,6 +2260,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2136,6 +2283,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2157,6 +2306,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2172,6 +2323,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2193,6 +2346,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2214,6 +2369,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2235,6 +2392,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2250,6 +2409,31 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 1,
+     "chapter": "Human Development",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following statements related to the concept of ‘development’ are correct ? Choose the appropriate option. I. Development means positive change in life. II. When positive growth is there, it is development. III. When quantity is greater, it is development. IV. Development is always relative to value.",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only I, II and IV are correct.",
+      "Only I, III and IV are correct.",
+      "Only II, III and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "64/1/1",
+       "qno": 1
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2271,6 +2455,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2286,6 +2472,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2308,6 +2496,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2329,6 +2519,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2350,6 +2542,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2365,6 +2559,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2386,6 +2582,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2407,6 +2605,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2429,6 +2629,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2450,6 +2652,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2471,38 +2675,9 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
-    },
-    {
-     "qno": 22,
-     "chapter": "Human Development",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "(a) “The adolescent people of India have high potential but they are quite vulnerable.” Explain the statement.",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "64/3/1",
-       "qno": 22
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 22,
-     "chapter": "Human Development",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "(b) “The Indian government formulated the National Policy for Skill Development.” Explain the need for the policy.",
-     "papers": [
-      {
-       "year": 2026,
-       "set": "64/3/1",
-       "qno": "22-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 21,
@@ -2517,6 +2692,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2532,6 +2709,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2554,6 +2733,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2575,6 +2756,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2596,14 +2779,52 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Human Development",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “If development is not engendered, it is endangered.” Examine the statement in the context of inclusive development.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "64/5/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 23,
+     "chapter": "Human Development",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) “Welfare approach of human development emphasizes on the actions for development of human beings.” Explain the statement with examples.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "64/3/1",
+       "qno": "23-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Primary Activities",
-   "count": 48,
+   "count": 47,
    "questions": [
     {
      "qno": 4,
@@ -2624,6 +2845,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2645,6 +2868,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2666,6 +2891,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2687,6 +2914,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -2702,6 +2931,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2717,6 +2948,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2739,6 +2972,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2760,6 +2995,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2775,6 +3012,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2796,6 +3035,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2811,6 +3052,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2826,6 +3069,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2848,6 +3093,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2863,6 +3110,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2878,6 +3127,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2900,6 +3151,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -2915,6 +3168,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2930,6 +3185,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2946,6 +3203,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2961,6 +3220,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -2976,6 +3237,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -2998,6 +3261,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3013,6 +3278,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3034,6 +3301,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3049,23 +3318,9 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 25,
-     "chapter": "Primary Activities",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) “High-tech industries are regionally concentrated, self-sustained and highly specialized.” Justify the statement.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/4/1",
-       "qno": "25-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 2,
@@ -3086,6 +3341,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3101,23 +3358,9 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 25,
-     "chapter": "Primary Activities",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) “Mixed economies have public, private and joint sector industries.” Examine the statement.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/5/1",
-       "qno": "25-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 25,
@@ -3132,6 +3375,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3147,6 +3392,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3169,6 +3416,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3187,6 +3436,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3203,6 +3454,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3224,6 +3477,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3242,6 +3497,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3258,6 +3515,8 @@
        "qno": "18-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3279,6 +3538,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3294,6 +3555,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3309,6 +3572,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3328,6 +3593,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3344,6 +3611,8 @@
        "qno": "18-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3365,6 +3634,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3380,6 +3651,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3395,6 +3668,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3418,6 +3693,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3436,6 +3713,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3452,15 +3731,71 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
+    },
+    {
+     "qno": 25,
+     "chapter": "Primary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) ‘Dairy farming is practised mainly near urban and industrial centres.’ Justify the statement with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/1/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
   },
   {
    "chapter": "Secondary Activities",
-   "count": 43,
+   "count": 44,
    "questions": [
+    {
+     "qno": 25,
+     "chapter": "Secondary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “High-tech industries are regionally concentrated, self-sustained and highly specialized.” Justify the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
+    },
+    {
+     "qno": 25,
+     "chapter": "Secondary Activities",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “Mixed economies have public, private and joint sector industries.” Examine the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "25-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": 24,
      "chapter": "Secondary Activities",
@@ -3474,6 +3809,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3489,6 +3826,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3511,6 +3850,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3526,6 +3867,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3541,6 +3884,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3563,6 +3908,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3584,6 +3931,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3605,6 +3954,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3626,6 +3977,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -3641,6 +3994,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3656,6 +4011,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3678,6 +4035,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3693,6 +4052,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3708,6 +4069,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3730,6 +4093,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -3752,6 +4117,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3767,6 +4134,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3788,6 +4157,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3810,6 +4181,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3832,6 +4205,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3847,6 +4222,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3869,6 +4246,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3884,23 +4263,9 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 25,
-     "chapter": "Secondary Activities",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) ‘Dairy farming is practised mainly near urban and industrial centres.’ Justify the statement with examples.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/1/1",
-       "qno": "25-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 25,
@@ -3915,6 +4280,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3930,6 +4297,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -3953,6 +4322,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3975,6 +4346,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -3990,6 +4363,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4005,6 +4380,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4027,6 +4404,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4042,6 +4421,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4057,6 +4438,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -4073,6 +4456,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4094,6 +4479,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4115,6 +4502,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4136,6 +4525,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4157,6 +4548,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4178,6 +4571,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4199,6 +4594,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4220,6 +4617,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4235,6 +4634,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4250,6 +4651,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -4258,7 +4661,7 @@
   },
   {
    "chapter": "Tertiary and Quaternary Activities",
-   "count": 42,
+   "count": 41,
    "questions": [
     {
      "qno": 18,
@@ -4273,6 +4676,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4294,6 +4699,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4309,6 +4716,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4330,6 +4739,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4351,6 +4762,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4372,6 +4785,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4393,6 +4808,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4414,6 +4831,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4435,6 +4854,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4456,6 +4877,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4477,6 +4900,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4492,6 +4917,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4513,6 +4940,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4534,6 +4963,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4556,6 +4987,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4577,6 +5010,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4598,6 +5033,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4613,6 +5050,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4628,6 +5067,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4649,6 +5090,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4664,6 +5107,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4679,23 +5124,9 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 26,
-     "chapter": "Tertiary and Quaternary Activities",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) Assess the growth and significance of transport and communication services in the world economy.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/2/1",
-       "qno": "26-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 21,
@@ -4710,6 +5141,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4731,6 +5164,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4746,6 +5181,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4767,6 +5204,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4788,6 +5227,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4809,6 +5250,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4830,6 +5273,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4851,6 +5296,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4872,6 +5319,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4893,6 +5342,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -4914,6 +5365,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4935,6 +5388,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -4950,6 +5405,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4965,6 +5422,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4980,6 +5439,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -4995,6 +5456,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5018,6 +5481,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5039,6 +5504,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -5060,6 +5527,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     }
    ],
@@ -5069,6 +5538,24 @@
    "chapter": "Transport and Communication: World",
    "count": 75,
    "questions": [
+    {
+     "qno": 26,
+     "chapter": "Transport and Communication: World",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Assess the growth and significance of transport and communication services in the world economy.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/2/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": 8,
      "chapter": "Transport and Communication: World",
@@ -5088,6 +5575,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5103,6 +5592,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5121,6 +5612,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5142,6 +5635,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5160,6 +5655,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5176,6 +5673,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5194,6 +5693,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5212,6 +5713,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5228,6 +5731,8 @@
        "qno": "18-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5243,6 +5748,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5258,6 +5765,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5277,6 +5786,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5292,6 +5803,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5307,6 +5820,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5326,6 +5841,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5341,6 +5858,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5356,6 +5875,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5371,6 +5892,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5390,6 +5913,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5405,6 +5930,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5420,6 +5947,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -5439,6 +5968,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5460,6 +5991,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5478,6 +6011,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5494,6 +6029,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5512,6 +6049,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5533,6 +6072,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5551,6 +6092,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5567,6 +6110,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5585,6 +6130,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5600,6 +6147,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5618,6 +6167,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5636,6 +6187,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5652,6 +6205,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5670,6 +6225,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5691,6 +6248,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5709,6 +6268,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5725,6 +6286,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5743,6 +6306,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5761,6 +6326,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5777,6 +6344,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5795,6 +6364,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5816,6 +6387,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5837,6 +6410,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5855,6 +6430,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5871,6 +6448,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5889,6 +6468,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5910,6 +6491,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -5928,6 +6511,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5944,6 +6529,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -5959,23 +6546,9 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 26,
-     "chapter": "Transport and Communication: World",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) Analyse the changing pattern of imports in India.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/5/1",
-       "qno": "26-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 29,
@@ -5993,6 +6566,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6011,6 +6586,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6027,6 +6604,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6045,6 +6624,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6060,6 +6641,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6075,6 +6658,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6094,6 +6679,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6109,6 +6696,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6124,6 +6713,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6143,6 +6734,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6161,6 +6754,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6177,6 +6772,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6192,6 +6789,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6210,6 +6809,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6225,6 +6826,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6240,6 +6843,8 @@
        "qno": "25-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6259,6 +6864,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6277,6 +6884,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6293,6 +6902,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6311,6 +6922,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6329,6 +6942,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6345,6 +6960,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6363,6 +6980,8 @@
        "qno": 29
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -6385,6 +7004,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6400,6 +7021,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6415,6 +7038,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6430,6 +7055,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6446,6 +7073,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6467,6 +7096,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6482,6 +7113,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6497,6 +7130,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6520,6 +7155,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6541,6 +7178,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6556,6 +7195,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6571,6 +7212,8 @@
        "qno": "24-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6593,6 +7236,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6608,6 +7253,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6623,6 +7270,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -6646,6 +7295,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6668,6 +7319,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6689,6 +7342,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6710,6 +7365,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6725,6 +7382,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6746,6 +7405,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -6768,6 +7429,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -6789,6 +7452,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6810,6 +7475,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6825,6 +7492,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6846,6 +7515,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6868,6 +7539,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6883,6 +7556,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6904,6 +7579,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6925,6 +7602,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6946,6 +7625,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -6967,6 +7648,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -6988,6 +7671,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7009,6 +7694,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7030,6 +7717,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7052,6 +7741,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7067,6 +7758,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7082,6 +7775,8 @@
        "qno": "20-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7104,6 +7799,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7125,6 +7822,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7146,6 +7845,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7161,6 +7862,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -7168,7 +7871,7 @@
   },
   {
    "chapter": "Population: Distribution, Density, Growth and Composition",
-   "count": 58,
+   "count": 64,
    "questions": [
     {
      "qno": 3,
@@ -7189,6 +7892,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7210,6 +7915,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7231,6 +7938,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7252,6 +7961,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7273,6 +7984,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7294,6 +8007,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7315,6 +8030,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7330,6 +8047,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7348,6 +8067,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7363,6 +8084,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7378,6 +8101,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7399,6 +8124,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7420,6 +8147,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7435,6 +8164,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7450,6 +8181,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7469,6 +8202,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7484,6 +8219,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7502,6 +8239,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7523,6 +8262,31 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 5,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following objectives regarding National Policy for Skill Development and Entrepreneurship (2015) carefully and choose the most appropriate option : I. To improve the literacy rate of different age groups in India. II. To provide umbrella framework to all skilling activities. III. To align all skilling activities to common standards. IV. To link skilling activities with demand centres.",
+     "options": [
+      "Only I, II and III are correct.",
+      "Only II, III and IV are correct.",
+      "Only I, III and IV are correct.",
+      "Only I, II and IV are correct."
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "64/1/1",
+       "qno": 5
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7538,6 +8302,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7559,6 +8325,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7574,6 +8342,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7589,6 +8359,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -7608,6 +8380,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7629,6 +8403,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7644,6 +8420,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7659,6 +8437,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7678,6 +8458,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7696,6 +8478,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7712,6 +8496,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7730,7 +8516,44 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(a) Evaluate the ‘National Youth Policy of India’ for overall development of youths and adolescents.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/1/1",
+       "qno": 28
+      }
+     ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
+     "topic": "General"
+    },
+    {
+     "qno": 28,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Suggest the measure for overall development of youths and adolescents in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/1/1",
+       "qno": "28-OR"
+      }
+     ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 30,
@@ -7748,6 +8571,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7763,6 +8588,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7778,8 +8605,33 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 10,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is not a challenge of adolescent population faced by the society ?",
+     "options": [
+      "High marriage age",
+      "Drug abuse and alcoholism",
+      "Low female literacy",
+      "Dropouts from school"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": 10
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
     },
     {
      "qno": 11,
@@ -7800,6 +8652,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7821,6 +8675,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7842,6 +8698,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7863,6 +8721,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -7884,6 +8744,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -7899,6 +8761,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7914,6 +8778,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7930,6 +8796,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7945,6 +8813,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -7967,6 +8837,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -7989,6 +8861,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8007,6 +8881,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8028,6 +8904,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8049,6 +8927,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8065,6 +8945,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8083,6 +8965,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8104,7 +8988,44 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(a) “The adolescent people of India have high potential but they are quite vulnerable.” Explain the statement.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "64/3/1",
+       "qno": 22
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 22,
+     "chapter": "Population: Distribution, Density, Growth and Composition",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "(b) “The Indian government formulated the National Policy for Skill Development.” Explain the need for the policy.",
+     "papers": [
+      {
+       "year": 2026,
+       "set": "64/3/1",
+       "qno": "22-OR"
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
     },
     {
      "qno": 9,
@@ -8125,6 +9046,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8147,6 +9070,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8168,6 +9093,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8189,6 +9116,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8204,6 +9133,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8219,6 +9150,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8238,6 +9171,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -8245,7 +9180,7 @@
   },
   {
    "chapter": "Human Settlements",
-   "count": 53,
+   "count": 47,
    "questions": [
     {
      "qno": 19,
@@ -8261,6 +9196,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8276,6 +9213,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8298,6 +9237,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8319,6 +9260,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8340,6 +9283,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8358,6 +9303,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8373,6 +9320,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8388,6 +9337,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8407,6 +9358,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8428,6 +9381,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8449,6 +9404,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8470,6 +9427,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8491,6 +9450,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8512,6 +9473,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8533,6 +9496,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8554,6 +9519,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8575,21 +9542,8 @@
        "qno": 12
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 23,
-     "chapter": "Human Settlements",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "Explain any three problems of slums in India.",
-     "papers": [
-      {
-       "year": 2024,
-       "set": "64/1/1",
-       "qno": 23
-      }
-     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8605,21 +9559,8 @@
        "qno": 22
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 18,
-     "chapter": "Human Settlements",
-     "type": "Source-based",
-     "marks": 3,
-     "text": "Read the given passage carefully and answer the questions that follow : Dharavi -- There is only one main road that traverses Dharavi, which has been reduced to less than half of that for most of its length. Some of the side alleys and lanes are so narrow that not even a bicycle can pass. The whole neighbourhood consists of temporary buildings, two or three storeyed high with rusty iron stairways to the upper part, where a single room is rented by a whole family, sometimes accommodating 10 – 12 people; it is a kind of tropical version of the industrial dwelling of Victorian London’s East End. But Dharavi is a keeper of more sombre secrets than the revulsion it inspires in the rich; a revulsion, moreover, that is, in direct proportion to the role it serves in the creation of the wealth of Bombay. In this place of shadowless, treeless sunlight, uncollected garbage, stagnant pools of foul water, where the only creatures are the shining black crows and long grey rats, some of the of the most beautiful, valuable and useful articles in India are made. From Dharavi come delicate ceramics and pottery, exquisite embroidery and zari work, sophisticated leather goods, high-fashion garments, finely-wrought metalwork, delicate jewellery settings, wood carvings and furniture that would find its way into the houses, both in India and abroad. (18.1) Describe the physical condition of Dharavi. (18.2) Explain one major problem of Dharavi. (18.3) Explain the main objective of ‘Swachh Bharat Mission’ in the context of Dharavi.",
-     "papers": [
-      {
-       "year": 2024,
-       "set": "64/3/1",
-       "qno": 18
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8635,6 +9576,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8650,6 +9593,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8672,6 +9617,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8693,6 +9640,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8714,6 +9663,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8735,6 +9686,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8756,6 +9709,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8771,6 +9726,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8786,6 +9743,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -8802,23 +9761,9 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 27,
-     "chapter": "Human Settlements",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) “If development is not engendered, it is endangered.” Examine the statement in the context of inclusive development.",
-     "papers": [
-      {
-       "year": 2024,
-       "set": "64/5/1",
-       "qno": "27-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 14,
@@ -8839,6 +9784,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8855,6 +9802,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8876,6 +9825,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8897,6 +9848,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -8918,6 +9871,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -8944,28 +9899,8 @@
        "qno": 22
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 10,
-     "chapter": "Human Settlements",
-     "type": "MCQ",
-     "marks": 1,
-     "assertion": "Lack of basic necessities such as housing, health and drinking water, etc. are found in slum settlements.",
-     "reason": "The Government of India launched the ‘Swachh Bharat Mission’ to improve the quality of life in urban slums.",
-     "ar_options": [
-      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
-      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
-      "(A) is correct, but (R) is incorrect.",
-      "(A) is incorrect, but (R) is correct."
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/6/1",
-       "qno": 10
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -8987,6 +9922,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9008,6 +9945,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9029,6 +9968,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9044,23 +9985,9 @@
        "qno": 24
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
-    },
-    {
-     "qno": 24,
-     "chapter": "Human Settlements",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) “The land degradation due to man-made processes has greater concern than natural processes.” Evaluate the statement with examples.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/7/1",
-       "qno": "24-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 22,
@@ -9075,6 +10002,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9090,6 +10019,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9107,6 +10038,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9128,6 +10061,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9143,6 +10078,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9165,6 +10102,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9180,27 +10119,8 @@
        "qno": 22
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 13,
-     "chapter": "Human Settlements",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "The ‘Swachh Bharat Mission’ is part of which one of the following ?",
-     "options": [
-      "Urban Land Development Mission",
-      "Urban Renewal Mission",
-      "Urban Housing Development Drive",
-      "Urban Plantation Drive"
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "64/5/1",
-       "qno": 13
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9216,6 +10136,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9231,6 +10153,8 @@
        "qno": "22-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -9239,8 +10163,26 @@
   },
   {
    "chapter": "Land Resources and Agriculture",
-   "count": 55,
+   "count": 48,
    "questions": [
+    {
+     "qno": 24,
+     "chapter": "Land Resources and Agriculture",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “The land degradation due to man-made processes has greater concern than natural processes.” Evaluate the statement with examples.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/7/1",
+       "qno": "24-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": 12,
      "chapter": "Land Resources and Agriculture",
@@ -9260,6 +10202,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9275,27 +10219,8 @@
        "qno": 22
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 15,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Study the following source and answer the Question No. 15 to 17. A Case Study -- Jhabua district is located in the westernmost agro-climatic zone in Madhya Pradesh. It is, in fact, one of the five most backward districts of the country. It is characterized by high concentration of tribal population (mostly Bhils). The people suffer due to poverty which has been accentuated by the high rate of resource degradation, both forest and land. The watershed management programmes funded by both the ministries of “Rural Development” and “Agriculture”, Government of India, have been successfully implemented in Jhabua district which has gone a long way in preventing land degradation and improving soil quality. Watershed Management Programmes acknowledge the linkage between land, water and vegetation and attempts to improve livelihoods of people through natural resource management and community participation. In the past five years, the programmes funded by the Ministry of Rural Development alone (implemented by Rajiv Gandhi Mission for Watershed Management) has treated 20 percent of the total area under Jhabua district. Which among the following is correct meaning of ‘land degradation’ ?",
-     "options": [
-      "Waterlogging in degraded land",
-      "Declining productivity of the land",
-      "Increasing of degraded forests",
-      "Increasing of agricultural land"
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "64/2/1",
-       "qno": 15
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9317,27 +10242,8 @@
        "qno": 16
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 17,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which statement is NOT correct regarding Jhabua ?",
-     "options": [
-      "Jhabua is tribal concentrated district.",
-      "Poverty has increased in the people due to land degradation.",
-      "State government has provided money to implement watershed management programme.",
-      "Watershed management programme has outstanding contribution in land treatment."
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "64/2/1",
-       "qno": 17
-      }
-     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9353,6 +10259,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9374,69 +10282,8 @@
        "qno": 13
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 15,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Read the following source and answer the question no. 15 to 17. A Case Study -- Jhabua district is located in the westernmost agro-climatic zone in Madhya Pradesh. It is, in fact, one of the five most backward districts of the country. It is characterized by high concentration of tribal population (mostly Bhils). The people suffer due to poverty which has been accentuated by the high rate of resource degradation, both forest and land. The watershed management programmes funded by both the Ministries of “Rural Development” and “Agriculture”, Government of India, have been successfully implemented in Jhabua district which has gone a long way in preventing land degradation and improving soil quality. Watershed Management Programmes acknowledge the linkage between land, water and vegetation and attempts to improve livelihoods of people through natural resource management and community participation. In the past five years the programmes funded by the Ministry of Rural Development alone (implemented by Rajiv Gandhi Mission for Watershed Management) has treated 20 percent of the total area under Jhabua district. The Petlawad Development block of Jhabua is located in the northernmost part of the district and represents an interesting and successful case of Government-NGO partnership and community participation in managing watershed programmes. The Bhils in Petlawad Development block, for example, (Sat Rundi hamlet of Karravat village) through their own efforts, have revitalized large parts of common property resources. Each household planted and maintained one tree on the common property. They also have planted fodder grass on the pasture land and adopted social-fencing of these lands for at least two years. Even after that, they say, there would be no open grazing on these lands, but stall feeding of cattle, and they are thus confident that the pastures they have developed would sustain their cattle in future. An interesting aspect of this experience is that before the community embarked upon the process of management of the pasture, there was encroachment on this land by a villager from an adjoining village. The villagers called the tehsildar to ascertain the rights of the common land. The ensuing conflict was tackled by the villagers by offering to make the defaulter encroaching on the CPR a member of their user group and sharing the benefits of greening the common lands / pastures. Why did the people of Jhabua tribal community suffer from poverty ? Choose the option which is NOT correct.",
-     "options": [
-      "High rate of forests degradation",
-      "Land degradation",
-      "Illiteracy",
-      "Implementation of watershed management"
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "64/5/1",
-       "qno": 15
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 16,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "How did people manage to develop pasture lands ? Choose the correct option.",
-     "options": [
-      "Use of barbed wire to protect pastures.",
-      "Pasture lands were not under any encroachment.",
-      "Pastures were common property resources, hence they developed it.",
-      "Govt. officials did not interfere in any work of the villagers."
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "64/5/1",
-       "qno": 16
-      }
-     ],
-     "topic": "General"
-    },
-    {
-     "qno": 17,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "How did the Bhils, through their own efforts revitalise the common property resources ? Choose the correct option.",
-     "options": [
-      "Common land was brought under cultivation.",
-      "They controlled open grazing on the common property resources.",
-      "No tree plantation was taken up.",
-      "They developed water resources."
-     ],
-     "papers": [
-      {
-       "year": 2023,
-       "set": "64/5/1",
-       "qno": 17
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9452,6 +10299,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9473,6 +10322,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9488,6 +10339,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9503,6 +10356,8 @@
        "qno": "19-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9525,6 +10380,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9546,6 +10403,8 @@
        "qno": "15-OR"
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General",
      "figures": []
     },
@@ -9568,6 +10427,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9589,6 +10450,8 @@
        "qno": "16-OR"
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General",
      "figures": []
     },
@@ -9611,6 +10474,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -9632,6 +10497,8 @@
        "qno": "17-OR"
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General",
      "figures": []
     },
@@ -9648,6 +10515,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9663,6 +10532,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9684,27 +10555,8 @@
        "qno": 6
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 14,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which of the following tribes is in majority in Jhabua district of Madhya Pradesh ?",
-     "options": [
-      "Bhil",
-      "Tharu",
-      "Bakarwal",
-      "Gaddi"
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "64/4/1",
-       "qno": 14
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9726,6 +10578,8 @@
        "qno": 5
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -9747,6 +10601,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9765,6 +10621,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9786,27 +10644,8 @@
        "qno": 13
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 14,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "The watershed management programme in Jhabua district of Madhya Pradesh is funded by which one of the following ministries ?",
-     "options": [
-      "Rural Development",
-      "Environment",
-      "Transport",
-      "Irrigation"
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/2/1",
-       "qno": 14
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9823,6 +10662,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9844,6 +10685,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9862,6 +10705,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9883,6 +10728,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9898,6 +10745,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9913,6 +10762,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -9932,27 +10783,8 @@
        "qno": 30
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 8,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "The successful implementation of watershed management programme in Jhabua district of Madhya Pradesh was funded by which one of the following ?",
-     "options": [
-      "Non-Governmental Organisation",
-      "Jhabua District Administration",
-      "Madhya Pradesh Government",
-      "Central Government"
-     ],
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/6/1",
-       "qno": 8
-      }
-     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9968,6 +10800,8 @@
        "qno": 24
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9983,6 +10817,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -9998,6 +10834,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10013,6 +10851,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10035,6 +10875,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10050,6 +10892,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10065,6 +10909,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10081,6 +10927,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10096,6 +10944,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10115,27 +10965,8 @@
        "qno": 30
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 13,
-     "chapter": "Land Resources and Agriculture",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "The Watershed Management Programme in Jhabua district of Madhya Pradesh was funded by which one of the following ministries ?",
-     "options": [
-      "Ministry of Agriculture",
-      "Ministry of Urban Development",
-      "Ministry of Human Development",
-      "Ministry of Finance"
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "64/3/1",
-       "qno": 13
-      }
-     ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10157,6 +10988,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10172,6 +11005,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10187,6 +11022,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10206,6 +11043,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10227,6 +11066,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10248,6 +11089,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10266,6 +11109,31 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Land Resources and Agriculture",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which one of the following is the main cause of land degradation in the irrigated area of desert ?",
+     "options": [
+      "Soil salinity",
+      "Soil erosion",
+      "Ravine erosion",
+      "Pastures degradation"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "64/5/1",
+       "qno": 14
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -10273,7 +11141,7 @@
   },
   {
    "chapter": "Water Resources",
-   "count": 31,
+   "count": 30,
    "questions": [
     {
      "qno": 15,
@@ -10294,6 +11162,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10315,6 +11185,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10336,6 +11208,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10351,6 +11225,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10366,6 +11242,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10387,6 +11265,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10402,6 +11282,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10417,6 +11299,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10439,6 +11323,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10460,6 +11346,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10475,6 +11363,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10490,6 +11380,8 @@
        "qno": "21-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10512,6 +11404,8 @@
        "qno": 1
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10533,6 +11427,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10554,6 +11450,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10575,6 +11473,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10597,6 +11497,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10618,6 +11520,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -10633,6 +11537,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -10648,6 +11554,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10663,6 +11571,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10685,6 +11595,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10706,6 +11618,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -10721,6 +11635,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10736,6 +11652,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10758,6 +11676,8 @@
        "qno": 4
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10779,6 +11699,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10800,27 +11722,8 @@
        "qno": 12
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 14,
-     "chapter": "Water Resources",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Which one of the following is the main cause of land degradation in the irrigated area of desert ?",
-     "options": [
-      "Soil salinity",
-      "Soil erosion",
-      "Ravine erosion",
-      "Pastures degradation"
-     ],
-     "papers": [
-      {
-       "year": 2026,
-       "set": "64/5/1",
-       "qno": 14
-      }
-     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10836,6 +11739,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10851,6 +11756,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -10874,6 +11781,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10889,6 +11798,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10905,6 +11816,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10920,6 +11833,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -10936,6 +11851,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10951,6 +11868,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10966,6 +11885,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -10981,6 +11902,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11003,6 +11926,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11018,6 +11943,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11033,6 +11960,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11048,6 +11977,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11070,6 +12001,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11091,6 +12024,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11112,6 +12047,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11133,6 +12070,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11148,6 +12087,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11163,6 +12104,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11178,6 +12121,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11197,6 +12142,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11218,6 +12165,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11233,6 +12182,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11254,6 +12205,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11269,6 +12222,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11287,6 +12242,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11309,6 +12266,8 @@
        "qno": 2
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11324,6 +12283,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11339,6 +12300,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11361,6 +12324,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11382,6 +12347,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11403,6 +12370,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11424,6 +12393,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11439,6 +12410,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11454,6 +12427,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11476,6 +12451,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -11483,7 +12460,7 @@
   },
   {
    "chapter": "Planning and Sustainable Development in Indian Context",
-   "count": 21,
+   "count": 28,
    "questions": [
     {
      "qno": 27,
@@ -11498,6 +12475,54 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Study the following source and answer the Question No. 15 to 17. A Case Study -- Jhabua district is located in the westernmost agro-climatic zone in Madhya Pradesh. It is, in fact, one of the five most backward districts of the country. It is characterized by high concentration of tribal population (mostly Bhils). The people suffer due to poverty which has been accentuated by the high rate of resource degradation, both forest and land. The watershed management programmes funded by both the ministries of “Rural Development” and “Agriculture”, Government of India, have been successfully implemented in Jhabua district which has gone a long way in preventing land degradation and improving soil quality. Watershed Management Programmes acknowledge the linkage between land, water and vegetation and attempts to improve livelihoods of people through natural resource management and community participation. In the past five years, the programmes funded by the Ministry of Rural Development alone (implemented by Rajiv Gandhi Mission for Watershed Management) has treated 20 percent of the total area under Jhabua district. Which among the following is correct meaning of ‘land degradation’ ?",
+     "options": [
+      "Waterlogging in degraded land",
+      "Declining productivity of the land",
+      "Increasing of degraded forests",
+      "Increasing of agricultural land"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "64/2/1",
+       "qno": 15
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which statement is NOT correct regarding Jhabua ?",
+     "options": [
+      "Jhabua is tribal concentrated district.",
+      "Poverty has increased in the people due to land degradation.",
+      "State government has provided money to implement watershed management programme.",
+      "Watershed management programme has outstanding contribution in land treatment."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "64/2/1",
+       "qno": 17
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11513,6 +12538,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11534,6 +12561,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11555,6 +12584,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11576,6 +12607,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11597,6 +12630,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11618,6 +12653,77 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 15,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Read the following source and answer the question no. 15 to 17. A Case Study -- Jhabua district is located in the westernmost agro-climatic zone in Madhya Pradesh. It is, in fact, one of the five most backward districts of the country. It is characterized by high concentration of tribal population (mostly Bhils). The people suffer due to poverty which has been accentuated by the high rate of resource degradation, both forest and land. The watershed management programmes funded by both the Ministries of “Rural Development” and “Agriculture”, Government of India, have been successfully implemented in Jhabua district which has gone a long way in preventing land degradation and improving soil quality. Watershed Management Programmes acknowledge the linkage between land, water and vegetation and attempts to improve livelihoods of people through natural resource management and community participation. In the past five years the programmes funded by the Ministry of Rural Development alone (implemented by Rajiv Gandhi Mission for Watershed Management) has treated 20 percent of the total area under Jhabua district. The Petlawad Development block of Jhabua is located in the northernmost part of the district and represents an interesting and successful case of Government-NGO partnership and community participation in managing watershed programmes. The Bhils in Petlawad Development block, for example, (Sat Rundi hamlet of Karravat village) through their own efforts, have revitalized large parts of common property resources. Each household planted and maintained one tree on the common property. They also have planted fodder grass on the pasture land and adopted social-fencing of these lands for at least two years. Even after that, they say, there would be no open grazing on these lands, but stall feeding of cattle, and they are thus confident that the pastures they have developed would sustain their cattle in future. An interesting aspect of this experience is that before the community embarked upon the process of management of the pasture, there was encroachment on this land by a villager from an adjoining village. The villagers called the tehsildar to ascertain the rights of the common land. The ensuing conflict was tackled by the villagers by offering to make the defaulter encroaching on the CPR a member of their user group and sharing the benefits of greening the common lands / pastures. Why did the people of Jhabua tribal community suffer from poverty ? Choose the option which is NOT correct.",
+     "options": [
+      "High rate of forests degradation",
+      "Land degradation",
+      "Illiteracy",
+      "Implementation of watershed management"
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "64/5/1",
+       "qno": 15
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 16,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "How did people manage to develop pasture lands ? Choose the correct option.",
+     "options": [
+      "Use of barbed wire to protect pastures.",
+      "Pasture lands were not under any encroachment.",
+      "Pastures were common property resources, hence they developed it.",
+      "Govt. officials did not interfere in any work of the villagers."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "64/5/1",
+       "qno": 16
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 17,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "How did the Bhils, through their own efforts revitalise the common property resources ? Choose the correct option.",
+     "options": [
+      "Common land was brought under cultivation.",
+      "They controlled open grazing on the common property resources.",
+      "No tree plantation was taken up.",
+      "They developed water resources."
+     ],
+     "papers": [
+      {
+       "year": 2023,
+       "set": "64/5/1",
+       "qno": 17
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11639,27 +12745,8 @@
        "qno": 4
       }
      ],
-     "topic": "General"
-    },
-    {
-     "qno": 5,
-     "chapter": "Planning and Sustainable Development in Indian Context",
-     "type": "MCQ",
-     "marks": 1,
-     "text": "Read the following objectives regarding National Policy for Skill Development and Entrepreneurship (2015) carefully and choose the most appropriate option : I. To improve the literacy rate of different age groups in India. II. To provide umbrella framework to all skilling activities. III. To align all skilling activities to common standards. IV. To link skilling activities with demand centres.",
-     "options": [
-      "Only I, II and III are correct.",
-      "Only II, III and IV are correct.",
-      "Only I, III and IV are correct.",
-      "Only I, II and IV are correct."
-     ],
-     "papers": [
-      {
-       "year": 2024,
-       "set": "64/1/1",
-       "qno": 5
-      }
-     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11675,23 +12762,9 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 23,
-     "chapter": "Planning and Sustainable Development in Indian Context",
-     "type": "Short Answer",
-     "marks": 3,
-     "text": "(b) “Welfare approach of human development emphasizes on the actions for development of human beings.” Explain the statement with examples.",
-     "papers": [
-      {
-       "year": 2024,
-       "set": "64/3/1",
-       "qno": "23-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 27,
@@ -11706,6 +12779,31 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 14,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "Which of the following tribes is in majority in Jhabua district of Madhya Pradesh ?",
+     "options": [
+      "Bhil",
+      "Tharu",
+      "Bakarwal",
+      "Gaddi"
+     ],
+     "papers": [
+      {
+       "year": 2024,
+       "set": "64/4/1",
+       "qno": 14
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11721,6 +12819,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11736,6 +12836,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11751,8 +12853,56 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
+    },
+    {
+     "qno": 14,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The watershed management programme in Jhabua district of Madhya Pradesh is funded by which one of the following ministries ?",
+     "options": [
+      "Rural Development",
+      "Environment",
+      "Transport",
+      "Irrigation"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/2/1",
+       "qno": 14
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
+    },
+    {
+     "qno": 8,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The successful implementation of watershed management programme in Jhabua district of Madhya Pradesh was funded by which one of the following ?",
+     "options": [
+      "Non-Governmental Organisation",
+      "Jhabua District Administration",
+      "Madhya Pradesh Government",
+      "Central Government"
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 8
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
+     "topic": "General"
     },
     {
      "qno": 6,
@@ -11774,6 +12924,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11795,6 +12947,31 @@
        "qno": 8
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Planning and Sustainable Development in Indian Context",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The Watershed Management Programme in Jhabua district of Madhya Pradesh was funded by which one of the following ministries ?",
+     "options": [
+      "Ministry of Agriculture",
+      "Ministry of Urban Development",
+      "Ministry of Human Development",
+      "Ministry of Finance"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "64/3/1",
+       "qno": 13
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11810,6 +12987,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11825,6 +13004,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11841,6 +13022,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11856,6 +13039,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     }
@@ -11864,7 +13049,7 @@
   },
   {
    "chapter": "Transport and Communication: India",
-   "count": 62,
+   "count": 63,
    "questions": [
     {
      "qno": 13,
@@ -11885,6 +13070,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -11906,6 +13093,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11921,6 +13110,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11936,6 +13127,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -11958,6 +13151,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -11973,6 +13168,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -11988,6 +13185,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12010,6 +13209,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12031,6 +13232,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12052,6 +13255,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12073,6 +13278,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12094,6 +13301,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12115,6 +13324,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12136,6 +13347,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12157,6 +13370,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12175,6 +13390,8 @@
        "qno": 30
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12196,6 +13413,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12217,6 +13436,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12232,6 +13453,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12247,6 +13470,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12269,6 +13494,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12290,6 +13517,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12311,6 +13540,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12332,6 +13563,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12353,6 +13586,8 @@
        "qno": "15-OR"
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General",
      "figures": []
     },
@@ -12375,6 +13610,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12396,6 +13633,8 @@
        "qno": "16-OR"
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General",
      "figures": []
     },
@@ -12418,6 +13657,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12439,6 +13680,8 @@
        "qno": "17-OR"
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General",
      "figures": []
     },
@@ -12461,6 +13704,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12482,6 +13727,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12497,6 +13744,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12512,6 +13761,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12534,6 +13785,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12555,6 +13808,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12576,6 +13831,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12598,6 +13855,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12620,6 +13879,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12635,6 +13896,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12650,6 +13913,8 @@
        "qno": "27-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12666,6 +13931,8 @@
        "qno": 22
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12687,6 +13954,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12709,6 +13978,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12730,6 +14001,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12751,6 +14024,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12766,6 +14041,8 @@
        "qno": 21
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12787,6 +14064,8 @@
        "qno": 3
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12808,6 +14087,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12829,6 +14110,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12850,6 +14133,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12871,6 +14156,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12892,6 +14179,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12907,6 +14196,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12928,6 +14219,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -12943,6 +14236,8 @@
        "qno": 26
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -12958,6 +14253,8 @@
        "qno": "26-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -12980,6 +14277,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13001,6 +14300,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13022,6 +14323,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13043,6 +14346,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13064,6 +14369,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13085,7 +14392,27 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
+    },
+    {
+     "qno": 27,
+     "chapter": "Transport and Communication: India",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) “Satellites are mode of communication in themselves as well as they regulate the use of other means of communication.” Substantiate the statement.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/4/1",
+       "qno": "27-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
     }
    ],
    "topic_order": []
@@ -13094,6 +14421,24 @@
    "chapter": "International Trade: India",
    "count": 25,
    "questions": [
+    {
+     "qno": 26,
+     "chapter": "International Trade: India",
+     "type": "Long Answer",
+     "marks": 5,
+     "text": "(b) Analyse the changing pattern of imports in India.",
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/5/1",
+       "qno": "26-OR"
+      }
+     ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General",
+     "figures": []
+    },
     {
      "qno": 14,
      "chapter": "International Trade: India",
@@ -13113,6 +14458,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13128,6 +14475,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13143,6 +14492,8 @@
        "qno": "18-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13159,6 +14510,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13174,6 +14527,8 @@
        "qno": 27
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13195,6 +14550,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13210,6 +14567,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13231,6 +14590,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13253,6 +14614,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13274,6 +14637,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13295,6 +14660,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13310,23 +14677,9 @@
        "qno": 27
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
-    },
-    {
-     "qno": 27,
-     "chapter": "International Trade: India",
-     "type": "Long Answer",
-     "marks": 5,
-     "text": "(b) “Satellites are mode of communication in themselves as well as they regulate the use of other means of communication.” Substantiate the statement.",
-     "papers": [
-      {
-       "year": 2025,
-       "set": "64/4/1",
-       "qno": "27-OR"
-      }
-     ],
-     "topic": "General",
-     "figures": []
     },
     {
      "qno": 23,
@@ -13341,6 +14694,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13356,6 +14711,8 @@
        "qno": "23-OR"
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13372,6 +14729,8 @@
        "qno": 25
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13387,6 +14746,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13402,6 +14763,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13424,6 +14787,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13439,6 +14804,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13454,6 +14821,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General",
      "figures": []
     },
@@ -13477,6 +14846,8 @@
        "qno": 15
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13498,6 +14869,8 @@
        "qno": 16
       }
      ],
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13519,6 +14892,8 @@
        "qno": 17
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13534,6 +14909,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
@@ -13541,7 +14918,7 @@
   },
   {
    "chapter": "Geographical Perspective on Selected Issues and Problems",
-   "count": 33,
+   "count": 37,
    "questions": [
     {
      "qno": 18,
@@ -13556,6 +14933,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13577,6 +14956,8 @@
        "qno": 7
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13598,6 +14979,8 @@
        "qno": 8
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13619,6 +15002,8 @@
        "qno": 9
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13634,6 +15019,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13649,6 +15036,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13670,6 +15059,25 @@
        "qno": 13
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 23,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "Short Answer",
+     "marks": 3,
+     "text": "Explain any three problems of slums in India.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "64/1/1",
+       "qno": 23
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13691,6 +15099,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13712,6 +15122,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13733,6 +15145,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13754,6 +15168,25 @@
        "qno": 14
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 18,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "Source-based",
+     "marks": 3,
+     "text": "Read the given passage carefully and answer the questions that follow : Dharavi -- There is only one main road that traverses Dharavi, which has been reduced to less than half of that for most of its length. Some of the side alleys and lanes are so narrow that not even a bicycle can pass. The whole neighbourhood consists of temporary buildings, two or three storeyed high with rusty iron stairways to the upper part, where a single room is rented by a whole family, sometimes accommodating 10 – 12 people; it is a kind of tropical version of the industrial dwelling of Victorian London’s East End. But Dharavi is a keeper of more sombre secrets than the revulsion it inspires in the rich; a revulsion, moreover, that is, in direct proportion to the role it serves in the creation of the wealth of Bombay. In this place of shadowless, treeless sunlight, uncollected garbage, stagnant pools of foul water, where the only creatures are the shining black crows and long grey rats, some of the of the most beautiful, valuable and useful articles in India are made. From Dharavi come delicate ceramics and pottery, exquisite embroidery and zari work, sophisticated leather goods, high-fashion garments, finely-wrought metalwork, delicate jewellery settings, wood carvings and furniture that would find its way into the houses, both in India and abroad. (18.1) Describe the physical condition of Dharavi. (18.2) Explain one major problem of Dharavi. (18.3) Explain the main objective of ‘Swachh Bharat Mission’ in the context of Dharavi.",
+     "papers": [
+      {
+       "year": 2024,
+       "set": "64/3/1",
+       "qno": 18
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13775,6 +15208,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13790,6 +15225,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13805,6 +15242,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13820,6 +15259,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -13842,6 +15283,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13863,6 +15306,8 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13884,6 +15329,8 @@
        "qno": 12
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13905,6 +15352,8 @@
        "qno": 13
       }
      ],
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13920,6 +15369,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -13935,6 +15386,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -13957,6 +15410,8 @@
        "qno": 10
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -13978,6 +15433,32 @@
        "qno": 11
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
+     "topic": "General"
+    },
+    {
+     "qno": 10,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "MCQ",
+     "marks": 1,
+     "assertion": "Lack of basic necessities such as housing, health and drinking water, etc. are found in slum settlements.",
+     "reason": "The Government of India launched the ‘Swachh Bharat Mission’ to improve the quality of life in urban slums.",
+     "ar_options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is correct, but (R) is incorrect.",
+      "(A) is incorrect, but (R) is correct."
+     ],
+     "papers": [
+      {
+       "year": 2025,
+       "set": "64/6/1",
+       "qno": 10
+      }
+     ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -13993,6 +15474,8 @@
        "qno": 20
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14014,6 +15497,8 @@
        "qno": 6
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14029,6 +15514,8 @@
        "qno": 23
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14050,6 +15537,8 @@
        "qno": 14
       }
      ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14065,6 +15554,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14080,6 +15571,8 @@
        "qno": 28
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General"
     },
     {
@@ -14095,6 +15588,8 @@
        "qno": "28-OR"
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "General",
      "figures": []
     },
@@ -14111,6 +15606,8 @@
        "qno": 19
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     },
     {
@@ -14126,6 +15623,31 @@
        "qno": 24
       }
      ],
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
+     "topic": "General"
+    },
+    {
+     "qno": 13,
+     "chapter": "Geographical Perspective on Selected Issues and Problems",
+     "type": "MCQ",
+     "marks": 1,
+     "text": "The ‘Swachh Bharat Mission’ is part of which one of the following ?",
+     "options": [
+      "Urban Land Development Mission",
+      "Urban Renewal Mission",
+      "Urban Housing Development Drive",
+      "Urban Plantation Drive"
+     ],
+     "papers": [
+      {
+       "year": 2026,
+       "set": "64/5/1",
+       "qno": 13
+      }
+     ],
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "General"
     },
     {
@@ -14141,6 +15663,8 @@
        "qno": 18
       }
      ],
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "General"
     }
    ],
