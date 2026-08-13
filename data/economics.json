@@ -2672,7 +2672,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Some Basic Concepts of Macroeconomics"
+     "topic": "Some Basic Concepts of Macroeconomics",
+     "answer": {
+      "opt": "B",
+      "text": "Only II"
+     }
     },
     {
      "qno": 3,
@@ -2720,7 +2724,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Circular Flow of Income and Methods of Calculating National Income"
+     "topic": "Circular Flow of Income and Methods of Calculating National Income",
+     "answer": {
+      "opt": "D",
+      "text": "150"
+     }
     },
     {
      "qno": 11,
@@ -2737,7 +2745,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Average",
-     "topic": "Some Macroeconomic Identities"
+     "topic": "Some Macroeconomic Identities",
+     "answer": {
+      "text": "Gross Domestic Capital Formation refers to addition to the capital stock which includes replacement for the wear and tear which the capital stock undergoes.\nTwo components: Gross Domestic Fixed Capital Formation; Inventory Investment. (Any other valid component to be awarded marks)"
+     }
     },
     {
      "qno": 11,
@@ -2755,7 +2766,10 @@
      "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "A good can be classified as a final good or not, depending on the economic nature of its use. Once a good is sold to the consumer, it crosses the production boundary and any further transformation at the hands of the producer is not possible. Although it may undergo further transformation at the hands of the ultimate purchaser but it is non-economic in nature. However, if the same product is used for further production or resale in the same year, it will be treated as an intermediate good as value addition at any further stage is possible. (To be marked as a whole)"
+     }
     },
     {
      "qno": 16,
@@ -2836,7 +2850,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Circular Flow of Income and Methods of Calculating National Income"
+     "topic": "Circular Flow of Income and Methods of Calculating National Income",
+     "answer": {
+      "text": "Operating Surplus = (i) + (ii) + (ix) = 120 + 200 + 30 = ₹350 crore.\nGross Domestic Product at Market Price (GDPMP) = (iii) + (viii) + {(vi) - (vii)} = 720 + 200 + (150 - 50) = ₹1,020 crore."
+     }
     },
     {
      "qno": 16,
@@ -2854,7 +2871,36 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "GDP and Welfare",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Real Gross Domestic Product (GDP) refers to the market value of final goods and services produced in the domestic territory of an economy during a given period of time, measured at constant prices. Nominal Gross Domestic Product (GDP) refers to the market value of final goods and services produced in the domestic territory of an economy during a given period of time, measured at current year prices. See table for a numerical example (base year 2022). Externalities refer to benefits/harms which are caused by one entity to another without being paid/penalised for it. (Any other valid example to be awarded marks)",
+      "table": {
+       "caption": "Real GDP vs Nominal GDP example (base year 2022)",
+       "headers": [
+        "Year",
+        "Price (in ₹)",
+        "Output (in units)",
+        "Real GDP (P0Q1)",
+        "Nominal GDP (P1Q1)"
+       ],
+       "rows": [
+        [
+         "2022",
+         "10",
+         "100",
+         "1,000",
+         "1,000"
+        ],
+        [
+         "2025",
+         "15",
+         "100",
+         "1,000",
+         "1,500"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 3,
@@ -2878,7 +2924,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Some Macroeconomic Identities"
+     "topic": "Some Macroeconomic Identities",
+     "answer": {
+      "opt": "C",
+      "text": "Net Factor Income from Abroad, Net Domestic Product"
+     }
     },
     {
      "qno": 5,
@@ -2902,7 +2952,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Some Basic Concepts of Macroeconomics"
+     "topic": "Some Basic Concepts of Macroeconomics",
+     "answer": {
+      "opt": "B",
+      "text": "(i) and (ii)"
+     }
     },
     {
      "qno": 11,
@@ -2983,7 +3037,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Macroeconomic Identities"
+     "topic": "Some Macroeconomic Identities",
+     "answer": {
+      "text": "Gross Domestic Product at Market Price (GDPMP) = (i) + (ii) + {(iv) + (v) + (vi) + (viii)} – (iii) = 800 + 700 + {100 + 50 + 300 + 130} - 200 = ₹1,880 crore.\nGross Domestic Product at Factor Cost (GDPFC) = GDPMP – (vii) = 1,880 – 70 = ₹1,810 crore."
+     }
     },
     {
      "qno": 11,
@@ -3001,7 +3058,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Two precautions to be adopted while estimating National Income by Income method are: Income from sale of financial assets should not be included in the estimation of National Income, as such transactions are mere paper claims and do not add to the current flow of goods and services; Transfer income should not be included as such income is not earned through any productive activity and is unilateral in nature. (Any other valid precaution to be awarded marks)"
+     }
     },
     {
      "qno": 17,
@@ -3018,7 +3078,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "GDP and Welfare"
+     "topic": "GDP and Welfare",
+     "answer": {
+      "text": "(i) Domestic Product refers to the value of all final goods and services arising out of economic activity within the domestic territory of a country over a specific period of time. National Product measures the value of all final goods and services arising out of economic activity undertaken by the normal residents of a country over a specific period of time.\n(ii) National Income measured at constant prices is a better indicator of the overall real increase in production of the country as it changes only with the change in physical output. Thus, it eliminates the effect of changes in prices, showing the real growth of the economy. In contrast, National Income measured at current year prices might change with the change in output or/and change in prices. (To be marked as a whole)"
+     }
     },
     {
      "qno": 1,
@@ -3041,7 +3104,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Nominal and Real GDP"
+     "topic": "Nominal and Real GDP",
+     "answer": {
+      "opt": "A",
+      "text": "Real, constant"
+     }
     },
     {
      "qno": 5,
@@ -3065,7 +3132,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Circular Flow of Income and Methods of Calculating National Income"
+     "topic": "Circular Flow of Income and Methods of Calculating National Income",
+     "answer": {
+      "opt": "B",
+      "text": "(iv), (ii), (i), (iii)"
+     }
     },
     {
      "qno": 7,
@@ -3088,7 +3159,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "GDP and Welfare"
+     "topic": "GDP and Welfare",
+     "answer": {
+      "opt": "D",
+      "text": "Both Statements I and II are false."
+     }
     },
     {
      "qno": 11,
@@ -3159,7 +3234,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Circular Flow of Income and Methods of Calculating National Income"
+     "topic": "Circular Flow of Income and Methods of Calculating National Income",
+     "answer": {
+      "text": "Income from Property and Entrepreneurship = (ii) + (iv) + (vi) + (v) + (ix) + (viii) = 700 + 200 + 350 + 100 + 200 + 150 = ₹1,700 crore."
+     }
     },
     {
      "qno": 14,
@@ -3176,7 +3254,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Some Basic Concepts of Macroeconomics"
+     "topic": "Some Basic Concepts of Macroeconomics",
+     "answer": {
+      "text": "No. Final Goods: Machinery purchased to manufacture printers; Printer sold to Households. Intermediate Good: Printer sold to Dealer. Final goods refer to those goods which are used either for consumption purposes or for investment purpose. Intermediate goods refer to those goods which are either used for production or resale purposes in the same year."
+     }
     },
     {
      "qno": 14,
@@ -3194,7 +3275,10 @@
      "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) Gross investments refer to addition to the capital stock which includes replacement for the wear and tear which the capital stock undergoes.\n(ii) Two components indicated in the given image are: Gross Public Investment; Gross Residential Construction Investment. (Any other valid indicated component to be awarded marks)\n(iii) Gross Public Investment refers to the expenditure incurred by the government on creating fixed assets such as flyovers, roads, dams etc. (Any other valid component to be awarded marks)"
+     }
     }
    ],
    "topic_order": [
@@ -4984,7 +5068,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Policy Tools to Control Money Supply"
+     "topic": "Policy Tools to Control Money Supply",
+     "answer": {
+      "text": "The monetary measure being exercised in the text above by the Reserve Bank of India (RBI) is Margin Requirement. Margin requirement refers to the difference between the amount of the loan and the value of the security offered by the borrower against the loan. An increase in the loan amount to 90% of the security value, from the prior rate of 80% reflects a reduction in margin requirement which in turn encourages the public to borrow more. Consequently, money supply will increase leading to increase in the Aggregate Demand in the economy."
+     }
     },
     {
      "qno": 17,
@@ -5001,7 +5088,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Policy Tools to Control Money Supply"
+     "topic": "Policy Tools to Control Money Supply",
+     "answer": {
+      "text": "(i) A Bank is an institution which accepts deposits from the public and advances loans.\n(ii) Two traits that distinguish Central Bank from Commercial Bank: Commercial banks accept deposits and grant loans to the public whereas Central bank does not directly deal with the public; Commercial banks create credit whereas the Central Bank is responsible for controlling credit creation in the economy. (Any other valid trait to be awarded marks)\n(iii) The Reserve Bank of India (RBI) can regulate the money supply in the economy by the sale/purchase of government securities in the open market. When RBI sells government securities, the availability of funds with commercial banks reduces, which in turn curtails their lending capacity. Consequently, the money supply in the economy reduces. On the contrary, when RBI buys government securities, the availability of funds with commercial banks rises, which in turn increases their lending capacity. Consequently, the money supply in the economy rises. (To be marked as a whole)"
+     }
     },
     {
      "qno": 2,
@@ -5024,7 +5114,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Money Creation by Banking System"
+     "topic": "Money Creation by Banking System",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statements I and II are true."
+     }
     },
     {
      "qno": 6,
@@ -5047,7 +5141,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Money Creation by Banking System"
+     "topic": "Money Creation by Banking System",
+     "answer": {
+      "opt": "B",
+      "text": "20"
+     }
     },
     {
      "qno": 9,
@@ -5071,7 +5169,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Money Creation by Banking System"
+     "topic": "Money Creation by Banking System",
+     "answer": {
+      "opt": "C",
+      "text": "(i), (ii) and (iv)"
+     }
     },
     {
      "qno": 12,
@@ -5088,7 +5190,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Demand for Money and Supply of Money"
+     "topic": "Demand for Money and Supply of Money",
+     "answer": {
+      "text": "(a) Money supply refers to the total volume of money held by the public at a particular point of time.\n(b) Net Demand Deposits (DD) held by commercial banks is one of the components of money supply. These are chequable deposits that can be withdrawn by the account-holder on demand. (Any other valid component to be awarded marks)"
+     }
     },
     {
      "qno": 15,
@@ -5105,7 +5210,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Policy Tools to Control Money Supply"
+     "topic": "Policy Tools to Control Money Supply",
+     "answer": {
+      "text": "(i) The decision of the Monetary Policy Committee (MPC) to reduce Cash Reserve Ratio (CRR) addresses the deflationary pressure in the economy. The rationale behind this reduction was to ensure infusion of greater liquidity in the economy to maintain overall economic stability. Reduction in the CRR will lead to greater availability of funds with the commercial banks, which may increase the lending capacity of commercial banks. Thereby, reducing CRR, will increase the money supply and Aggregate Demand in the economy, ultimately addressing the issue of deficient demand.\n(ii) Cash Reserve Ratio (CRR) refers to the percentage of deposits which commercial banks are required to keep as cash reserves with the Central Bank."
+     }
     },
     {
      "qno": 3,
@@ -5128,7 +5236,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Demand for Money and Supply of Money"
+     "topic": "Demand for Money and Supply of Money",
+     "answer": {
+      "opt": "C",
+      "text": "stock, public"
+     }
     },
     {
      "qno": 8,
@@ -5152,7 +5264,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Money Creation by Banking System"
+     "topic": "Money Creation by Banking System",
+     "answer": {
+      "opt": "A",
+      "text": "increase, 5,000"
+     }
     },
     {
      "qno": 10,
@@ -5176,7 +5292,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Money Creation by Banking System"
+     "topic": "Money Creation by Banking System",
+     "answer": {
+      "opt": "C",
+      "text": "deposits"
+     }
     },
     {
      "qno": 12,
@@ -5193,7 +5313,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Policy Tools to Control Money Supply"
+     "topic": "Policy Tools to Control Money Supply",
+     "answer": {
+      "text": "The given statement is defended. Repo Rate and Bank Rate are the rates at which the Central Bank lends money to the commercial banks, the key difference lies in terms of short-term and long-term needs. A change in either of them will have the similar implication on the money supply in the economy. A decrease in Repo/Bank Rate by the Central Bank will encourage the commercial banks to decrease their lending rates making the credit more affordable for the general public, thereby, encouraging the borrowings. Consequently, money supply will rise and vice versa. (To be marked as a whole)"
+     }
     },
     {
      "qno": 12,
@@ -5211,7 +5334,10 @@
      "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Yes. The Reserve Bank of India (RBI) is the sole authority for issuing currency in India, except for the ₹1 note and coins, which are issued by the Ministry of Finance. The monopoly of RBI ensures uniformity in note circulation and strengthens public faith in the currency system. Furthermore, it enables the RBI to effectively regulate the money supply and maintain the value of rupee (₹). (To be marked as a whole)"
+     }
     },
     {
      "qno": 15,
@@ -5228,7 +5354,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Policy Tools to Control Money Supply"
+     "topic": "Policy Tools to Control Money Supply",
+     "answer": {
+      "text": "(i) The likely cause behind reduction in Cash Reserve Ratio (CRR) by Reserve Bank of India (RBI) is to stimulate private consumption and investment in the economy, thereby controlling deficient demand/deflation.\n(ii) A decrease in the CRR by the Reserve Bank of India may lead to greater availability of funds with commercial banks. This may increase the lending capacity of commercial banks. Thereby, increasing the money supply and Aggregate Demand in the economy ultimately addressing the issue of deficient demand."
+     }
     }
    ],
    "topic_order": [
@@ -8015,7 +8144,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Aggregate Demand and its Components"
+     "topic": "Aggregate Demand and its Components",
+     "answer": {
+      "opt": "B",
+      "text": "II and III"
+     }
     },
     {
      "qno": 7,
@@ -8038,7 +8171,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "The Multiplier Mechanism"
+     "topic": "The Multiplier Mechanism",
+     "answer": {
+      "opt": "A",
+      "text": "5"
+     }
     },
     {
      "qno": 9,
@@ -8061,7 +8198,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Aggregate Demand and its Components"
+     "topic": "Aggregate Demand and its Components",
+     "answer": {
+      "opt": "B",
+      "text": "Statement I is false and Statement II is true."
+     }
     },
     {
      "qno": 14,
@@ -8078,7 +8219,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "The Multiplier Mechanism"
+     "topic": "The Multiplier Mechanism",
+     "answer": {
+      "text": "Given, Increase in Income (ΔY) = ₹50,000 crore; Marginal Propensity to Save (MPS) = 0.5. Investment Multiplier (K) = 1/MPS = 1/0.5 = 2. Also, Investment Multiplier (K) = Change in Income (ΔY) / Change in Investment (ΔI); 2 = 50,000 / Change in Investment (ΔI). Change in Investment (ΔI) = ₹25,000 crore."
+     }
     },
     {
      "qno": 1,
@@ -8101,7 +8245,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Aggregate Demand and its Components"
+     "topic": "Aggregate Demand and its Components",
+     "answer": {
+      "opt": "C",
+      "text": "$0{\\cdot}75$"
+     }
     },
     {
      "qno": 7,
@@ -8125,7 +8273,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Determination of Equilibrium Income in the Short Run"
+     "topic": "Determination of Equilibrium Income in the Short Run",
+     "answer": {
+      "opt": "C",
+      "text": "Aggregate Demand"
+     }
     },
     {
      "qno": 7,
@@ -8149,7 +8301,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "A",
+      "text": "Autonomous Consumption"
+     }
     },
     {
      "qno": 8,
@@ -8172,7 +8328,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Determination of Equilibrium Income in the Short Run"
+     "topic": "Determination of Equilibrium Income in the Short Run",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 14,
@@ -8189,7 +8349,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Determination of Equilibrium Income in the Short Run"
+     "topic": "Determination of Equilibrium Income in the Short Run",
+     "answer": {
+      "text": "When ex-ante Aggregate Demand is more than ex-ante Aggregate Supply, it means that the households and firms are planning to consume more than what the firms are planning to produce. Thus, the inventories with the producers will fall below the desired level. As a result, the producers may increase the output to restore the desired stock of inventories till the equilibrium level of output is attained. (To be marked as a whole)"
+     }
     },
     {
      "qno": 14,
@@ -8207,7 +8370,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Multiplier Mechanism",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "The working process of the Investment Multiplier is based on the assumption that one's expenditure is another's income. For the given hypothetical economy, the change in investment is ₹2,000 crore and Marginal Propensity to Consume (MPC) is 0.8. Round 1 – increase in investment ₹2,000 crore leads to increase in income of ₹2,000 crore, increase in consumption of ₹1,600 crore (=0.8×2,000) and increase in savings of ₹400 crore; Round 2 – increase in income of ₹1,600 crore leads to increase in consumption of ₹1,280 crore and increase in savings of ₹320 crore; and so on. Summing all rounds, total increase in income (ΔY) = ₹10,000 crore, total increase in consumption (ΔC) = ₹8,000 crore, total increase in savings (ΔS) = ₹2,000 crore. Thus, an increase in investment (ΔI) of ₹2,000 crore leads to a total increase in national income (ΔY) of ₹10,000 crore, which is 5 times the increase in investment. Investment Multiplier = 1/(1-MPC) = 1/(1-0.8) = 5. (Any other valid explanation to be awarded marks)"
+     }
     },
     {
      "qno": 2,
@@ -8231,7 +8397,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Aggregate Demand and its Components"
+     "topic": "Aggregate Demand and its Components",
+     "answer": {
+      "opt": "C",
+      "text": "Sum of (i) and (ii)"
+     }
     },
     {
      "qno": 2,
@@ -8255,7 +8425,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "A",
+      "text": "Autonomous Consumption"
+     }
     },
     {
      "qno": 6,
@@ -8279,7 +8453,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Determination of Equilibrium Income in the Short Run"
+     "topic": "Determination of Equilibrium Income in the Short Run",
+     "answer": {
+      "opt": "C",
+      "text": "Only (iii)"
+     }
     },
     {
      "qno": 16,
@@ -8331,7 +8509,45 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Some More Concepts"
+     "topic": "Some More Concepts",
+     "answer": {
+      "text": "(i) See table for the completed schedule (AD at Y=100 is 140; AD at Y=200 is 220).\n(ii) Effective Demand refers to that level of Aggregate Demand (AD) which can be met by the corresponding Aggregate Supply (AS) in the economy.\n(iii) No. At Y = 200, Aggregate Demand (AD) is greater than the Aggregate Supply (AS). When ex-ante Aggregate Demand is more than ex-ante Aggregate Supply, it means that the households and firms are planning to consume more than what the firms are planning to produce. Thus, the inventories with the producers will fall below the desired level. As a result, the producers may increase the output to restore the desired stock of inventories till the equilibrium level of output is attained. (To be marked as a whole)",
+      "table": {
+       "caption": "Completed Aggregate Demand schedule",
+       "headers": [
+        "Income (Y)",
+        "Consumption (C)",
+        "Investment (I)",
+        "Aggregate Demand (AD)"
+       ],
+       "rows": [
+        [
+         "0",
+         "40",
+         "20",
+         "60"
+        ],
+        [
+         "100",
+         "120",
+         "20",
+         "140"
+        ],
+        [
+         "200",
+         "200",
+         "20",
+         "220"
+        ],
+        [
+         "300",
+         "280",
+         "20",
+         "300"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 16,
@@ -8349,7 +8565,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Multiplier Mechanism",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) Given, Change in Investment Expenditure (ΔI) = ₹1, Change in National Income (ΔY) = ₹4. Investment Multiplier (K) = ΔY/ΔI = 4/1 = 4.\n(ii) Given, Income (Y) changes from ₹400 to ₹500, so Change in Income (ΔY) = ₹100. Investment Multiplier (K) = 1/(1-MPC); 4 = 1/(1-MPC); MPC = 0.75. Change in Consumption (ΔC) = MPC × ΔY = 0.75 × 100 = ₹75.\n(iii) We know that Income earned may either be consumed or saved, i.e., Y = C + S. Change in Income (ΔY) = Change in Consumption (ΔC) + Change in Savings (ΔS); ΔY = ΔC + ΔS. Dividing both sides by ΔY: ΔY/ΔY = ΔC/ΔY + ΔS/ΔY; 1 = MPC + MPS. Thus, the sum of Marginal Propensity to Consume (MPC) and Marginal Propensity to Save (MPS) is always equal to one."
+     }
     }
    ],
    "topic_order": [
@@ -9299,7 +9518,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Measures of Government Deficit"
+     "topic": "Measures of Government Deficit",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 8,
@@ -9323,7 +9546,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Objectives of Government Budget"
+     "topic": "Objectives of Government Budget",
+     "answer": {
+      "opt": "A",
+      "text": "Public goods"
+     }
     },
     {
      "qno": 13,
@@ -9340,7 +9567,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Classification of Expenditure"
+     "topic": "Classification of Expenditure",
+     "answer": {
+      "text": "Revenue expenditure is the expenditure of the government that neither leads to creation of assets nor reduction in liabilities of the government. For example: Salaries paid to government employees.\nCapital expenditure is the expenditure of the government that either leads to creation of assets or reduction in liabilities of the government. For example: Construction of flyovers. (Any other valid example to be awarded marks)"
+     }
     },
     {
      "qno": 13,
@@ -9358,7 +9588,10 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Classification of Receipts",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Revenue receipts are the receipts of the government that neither lead to increase in liabilities nor reduction in assets of the government. For example: Taxes received by the government.\nCapital receipts are the receipts of the government that either lead to increase in liabilities or reduction in assets of the government. For example: Proceeds from disinvestment. (Any other valid example to be awarded marks)"
+     }
     },
     {
      "qno": 16,
@@ -9375,7 +9608,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Classification of Receipts"
+     "topic": "Classification of Receipts",
+     "answer": {
+      "text": "(i) The highlighted government budget objective is the 'Redistribution Function'. Government can reduce inequalities of income through taxes and public expenditure like subsidies. The Credit Linked Subsidy Scheme (CLSS) of the government aims at providing affordable housing for the Economically Weaker Sections (EWS), Lower-income Groups (LIG) and Middle-income Groups (MIG) in India. It will reduce the financial burden on these groups and will promote equitable distribution of income, thereby bridging the gap between rich and poor.\n(ii) The two types of tax revenue sources of the government are Direct Taxes and Indirect Taxes. Direct taxes are those taxes whose impact and incidence lies on the same entity. In other words, the liability of paying direct taxes can't be shifted. Indirect taxes are those taxes whose impact and incidence may lie on different entities. In other words, the liability of paying indirect taxes can be shifted."
+     }
     },
     {
      "qno": 16,
@@ -9393,7 +9629,10 @@
      "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Measures of Government Deficit",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) No. The expenditure on salaries and pensions of armed forces personnel is revenue expenditure as it neither leads to creation of assets nor reduces liabilities of the government. However, expenditure incurred by the government on acquiring new platforms (jets, submarines etc.) is capital expenditure as it leads to the creation of assets for the government.\n(ii) Primary Deficit (PD) = Fiscal Deficit (FD) – Interest Payment (IP). 1,000 = FD – 20% of FD; 1,000 = 80% of FD; FD = (1000 × 100) / 80; Fiscal Deficit = ₹1,250 crore."
+     }
     },
     {
      "qno": 17,
@@ -9410,7 +9649,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Classification of Receipts"
+     "topic": "Classification of Receipts",
+     "answer": {
+      "text": "(i) The two types of taxes indicated in the above text are direct and indirect taxes. Direct taxes are those taxes whose impact and incidence lies on the same entity. In other words, the liability of paying direct taxes can't be shifted. For example: Income tax etc. Indirect taxes are those taxes whose impact and incidence may lie on different entities. In other words, the liability of paying indirect taxes can be shifted. For example: Goods and Services Tax (GST) etc.\n(ii) The higher growth rate projected for direct taxes suggests a push to enhance tax buoyancy through improved tax compliance and reforms, while indirect taxes are expected to benefit from consumption trends and Goods and Services Tax (GST) administration improvements. (To be marked as a whole)"
+     }
     }
    ],
    "topic_order": [
@@ -11316,7 +11558,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Foreign Exchange Rate"
+     "topic": "Foreign Exchange Rate",
+     "answer": {
+      "opt": "A",
+      "text": "Investments made by Indians in Japan"
+     }
     },
     {
      "qno": 6,
@@ -11339,7 +11585,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Current Account"
+     "topic": "Current Account",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statements I and II are true."
+     }
     },
     {
      "qno": 10,
@@ -11363,7 +11613,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Foreign Exchange Rate"
+     "topic": "Foreign Exchange Rate",
+     "answer": {
+      "opt": "A",
+      "text": "Devaluation"
+     }
     },
     {
      "qno": 12,
@@ -11380,7 +11634,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "The Balance of Payments"
+     "topic": "The Balance of Payments",
+     "answer": {
+      "text": "The imposition of high tariffs to the magnitude of 50% by the US administration, would make Indian goods relatively expensive in the international markets. Thereby, demand for Indian goods in the global market may fall leading to reduction in exports of India. (To be marked as a whole)"
+     }
     },
     {
      "qno": 4,
@@ -11404,7 +11661,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Foreign Exchange Rate"
+     "topic": "Foreign Exchange Rate",
+     "answer": {
+      "opt": "A",
+      "text": "Fixed"
+     }
     },
     {
      "qno": 10,
@@ -11428,7 +11689,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "The Balance of Payments"
+     "topic": "The Balance of Payments",
+     "answer": {
+      "opt": "D",
+      "text": "Debit, Capital"
+     }
     },
     {
      "qno": 13,
@@ -11445,7 +11710,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Balance of Payments Surplus and Deficit"
+     "topic": "Balance of Payments Surplus and Deficit",
+     "answer": {
+      "text": "(a) Accommodating items are those international economic transactions which are undertaken (by competent authorities) to correct the situation of surplus/deficit in Balance of Payments (BoP).\n(b) No. The current account includes transactions relating to merchandise (visible items) and invisibles. However, trade balance includes merchandise transactions only. Additionally, trade surplus refers to a situation where the value of exports of merchandise exceeds the value of imports of merchandise. Hence, net inflows from both merchandise and invisibles together determine the current account balance, not Trade Surplus. (To be marked as a whole)"
+     }
     },
     {
      "qno": 4,
@@ -11469,7 +11737,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Foreign Exchange Rate"
+     "topic": "Foreign Exchange Rate",
+     "answer": {
+      "opt": "B",
+      "text": "Only (ii)"
+     }
     },
     {
      "qno": 9,
@@ -11492,7 +11764,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Capital Account"
+     "topic": "Capital Account",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 13,
@@ -11509,7 +11785,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Balance of Payments Surplus and Deficit"
+     "topic": "Balance of Payments Surplus and Deficit",
+     "answer": {
+      "text": "(a) The Balance of Payments (BoP) account records the transactions in goods, services and assets between residents of a country and the rest of the world for a specified time period typically, a year.\n(b) Autonomous transactions are those international economic transactions which are independent of the state of Balance of Payments (BoP). These transactions are generally undertaken with an 'economic motive'. Such transactions are called 'above the line' items in the BoP account. Accommodating transactions are those international economic transactions which are undertaken (by competent authorities) to cover the surplus or deficit in Balance of Payments (BoP). These transactions are independent of any economic motive. Such transactions are called 'below the line' items in the BoP account."
+     }
     }
    ],
    "topic_order": [
@@ -12342,7 +12621,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Infrastructure"
+     "topic": "Infrastructure",
+     "answer": {
+      "opt": "A",
+      "text": "Statement I is true and Statement II is false."
+     }
     },
     {
      "qno": 32,
@@ -12359,7 +12642,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Infrastructure"
+     "topic": "Infrastructure",
+     "answer": {
+      "text": "(i) The Suez Canal.\n(ii) The Suez Canal was officially opened for international navigation in 1869.\n(iii) Opening up of the Suez Canal provided a direct and shorter trade route for ships operating between Britain and India and avoided the need to sail around Africa, thereby reducing around 5,100 miles of travel. Thus, it intensified British control over India's foreign trade as it reduced the cost of transportation and made access to the Indian market easier."
+     }
     },
     {
      "qno": 30,
@@ -12376,7 +12662,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Low Level of Economic Development under the Colonial Rule"
+     "topic": "Low Level of Economic Development under the Colonial Rule",
+     "answer": {
+      "text": "Two infrastructural developments initiated by the British in India, with self-serving interests were: Development of roads and railways – built primarily to mobilise the army within India, drawing out raw materials from the countryside to the nearest railway station/port to export; Development of communication system – tools like telephone and telegraph were introduced to strengthen administrative control and maintain law and order across the country. (Any other valid development to be awarded marks)"
+     }
     },
     {
      "qno": 30,
@@ -12394,7 +12683,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Low Level of Economic Development under the Colonial Rule",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Yes. In the post-independence era, India adopted a protective tariff policy to: promote domestic production by substituting imports with locally produced goods; safeguard emerging industries from intense foreign competition, allowing them to grow and develop sustainably."
+     }
     },
     {
      "qno": 19,
@@ -12417,7 +12709,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Industrial Sector"
+     "topic": "Industrial Sector",
+     "answer": {
+      "opt": "A",
+      "text": "Statement I is true and Statement II is false."
+     }
     },
     {
      "qno": 25,
@@ -12441,7 +12737,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Foreign Trade"
+     "topic": "Foreign Trade",
+     "answer": {
+      "opt": "D",
+      "text": "(ii) and (iii)"
+     }
     }
    ],
    "topic_order": [
@@ -13414,7 +13714,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Easy",
-     "topic": "Agriculture"
+     "topic": "Agriculture",
+     "answer": {
+      "opt": "B",
+      "text": "Increase in prices of food grains"
+     }
     },
     {
      "qno": 24,
@@ -13438,7 +13742,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "The Goals of Five Year Plans"
+     "topic": "The Goals of Five Year Plans",
+     "answer": {
+      "opt": "B",
+      "text": "Planning Commission"
+     }
     },
     {
      "qno": 28,
@@ -13455,7 +13763,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "The Goals of Five Year Plans"
+     "topic": "The Goals of Five Year Plans",
+     "answer": {
+      "text": "Growth refers to an increase in a country's capacity to produce goods and services, whereas equity refers to reducing inequality of income and wealth. Thus, growth with equity ensures that the benefits of economic development are enjoyed by all the sections of society. Economists believe that rise in Gross Domestic Product and equitable distribution of income are equally important. Thus, ensuring equitable growth was taken up as an important objective of Indian economic planning. (To be marked as a whole)"
+     }
     }
    ],
    "topic_order": [
@@ -14222,7 +14533,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Privatisation"
+     "topic": "Privatisation",
+     "answer": {
+      "opt": "B",
+      "text": "Globalization"
+     }
     },
     {
      "qno": 28,
@@ -14239,7 +14554,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Globalisation"
+     "topic": "Globalisation",
+     "answer": {
+      "text": "As a member of the World Trade Organization (WTO), India has been at the forefront of framing fair global rules and regulations advocating the interests of the developing world. India has kept its commitments towards liberalisation of trade by removing quantitative restrictions on imports and reducing tariff rates. (To be marked as a whole)"
+     }
     },
     {
      "qno": 28,
@@ -14257,7 +14575,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Privatisation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "The licensing policy, introduced under the IPR 1956, required industries to obtain prior permission from the government for production decisions. The aim of this policy was to ensure balanced regional growth, and prevent concentration of economic power. While the licensing system initially helped in guiding industrialization and protecting small industries, it gradually led to bureaucratic delays, corruption, reduced competition, and inefficient resource allocation, thereby hindering growth. (To be marked as a whole)"
+     }
     },
     {
      "qno": 26,
@@ -14280,7 +14601,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Globalisation"
+     "topic": "Globalisation",
+     "answer": {
+      "opt": "D",
+      "text": "World Trade Organisation (WTO)"
+     }
     },
     {
      "qno": 33,
@@ -14297,7 +14622,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Privatisation"
+     "topic": "Privatisation",
+     "answer": {
+      "text": "(i) Yes. Subsidies are meant to benefit the farmers but a substantial amount of fertiliser subsidy also benefits the fertiliser industry; and among farmers, the subsidy largely benefits the farmers in the more prosperous regions. This limits the effectiveness of subsidies in reaching the intended beneficiaries. Additionally, such subsidies impose a heavy fiscal burden on the government. Therefore, phasing them out and adopting better-targeted support measures would be more efficient and equitable. (To be marked as a whole)\n(ii) The government can execute the step of disinvestment by: withdrawal of the government from the ownership and management of the public sector companies; outright sale of public sector companies."
+     }
     },
     {
      "qno": 33,
@@ -14315,7 +14643,10 @@
      "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Privatisation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) The financial sector in India witnessed a major revamp under the economic reforms of 1991. The role of Reserve Bank of India (RBI) was changed from regulator to facilitator. This means that the financial sector was allowed to take decisions on many financial matters without consulting RBI. The policy changes led to the establishment of private sector banks, both Indian as well as foreign. Thus, these reforms enhanced efficiency, competitiveness and global integration of the Indian financial sector, contributing significantly to the overall growth and stability of the economy. (To be marked as a whole)\n(ii) Maharatna – Steel Authority of India Ltd. (SAIL). Navratna – Hindustan Aeronautics Ltd. (HAL). (Any other valid name of the company to be awarded marks)"
+     }
     },
     {
      "qno": 33,
@@ -14332,7 +14663,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Indian Economy During Reforms: An Assessment"
+     "topic": "Indian Economy During Reforms: An Assessment",
+     "answer": {
+      "text": "(i) Yes. The Industrial Policy Resolution 1956 classified industries into three categories: the first category comprised industries to be exclusively owned by the government; the second category consisted of industries in which the private sector could supplement the efforts of the public sector, with the government taking the sole responsibility for starting new units; the third category consisted of the remaining industries which were to be in the private sector, however these industries were kept under state control through the system of licenses.\n(ii) Yes. The agricultural sector was adversely affected by the reform process due to: fall in the public investment in agriculture sector especially in infrastructure like irrigation, power etc.; reduction of fertilizer subsidy has increased the cost of production, thereby affecting the small and marginal farmers; increased international competitiveness owing to liberalisation and reduction of import duties. (Any other valid reason to be awarded marks)"
+     }
     },
     {
      "qno": 33,
@@ -14350,7 +14684,10 @@
      "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Privatisation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) The government has implemented the policy of disinvestment in case of Life Insurance Corporation (LIC). Disinvestment is referred to the privatization of public sector enterprises (PSEs) by selling off part of the equity of PSEs to the public.\n(ii)(I) Inward-looking trade strategy aimed at: replacing imports with domestic production; saving foreign exchange. (Any other valid reason to be awarded marks)\n(II) The government implemented this policy through tariffs and quotas: Tariffs are a tax on the imported goods, they make imported goods more expensive and discourage their usage; Quotas specify the quantity of goods which can be imported, these are imposed to restrict imports and therefore protect domestic firms from foreign competition."
+     }
     }
    ],
    "topic_order": [
@@ -15320,7 +15657,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Sources of Human Capital"
+     "topic": "Sources of Human Capital",
+     "answer": {
+      "text": "The Government plays a crucial role in promoting the efficiency of human capital formation. Government intervention is essential as spending on education and health has long-term, irreversible impact. Moreover, consumers often lack complete information about service quality and costs, leading to monopoly power and potential exploitation by private service providers. To avoid this, the government must regulate these services, ensuring adherence to standards and fair pricing. Hence, government plays a crucial role in making these essential services accessible to all sections of society. (To be marked as a whole)"
+     }
     },
     {
      "qno": 31,
@@ -15338,7 +15678,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Yes. Traditionally, India adopted eco-friendly practices in agriculture, healthcare, housing, and transport. All of these practices used naturally available products and processes, which had very few side effects. The adoption of the modern systems caused environmental degradation. However, India has a rich traditional healthcare system like Ayurveda, Unani etc. which are now a days in great demand. Moreover, many herbal cosmetic products are regaining popularity, as they are eco-friendly, safer and require less industrial processing and help in ensuring sustainable development. (To be marked as a whole)"
+     }
     },
     {
      "qno": 20,
@@ -15361,7 +15704,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Human Capital and Economic Growth"
+     "topic": "Human Capital and Economic Growth",
+     "answer": {
+      "opt": "B",
+      "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 24,
@@ -15385,7 +15732,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Human Capital and Human Development"
+     "topic": "Human Capital and Human Development",
+     "answer": {
+      "opt": "C",
+      "text": "Education, Health"
+     }
     },
     {
      "qno": 29,
@@ -15402,7 +15753,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Sources of Human Capital"
+     "topic": "Sources of Human Capital",
+     "answer": {
+      "text": "No. Rohan invested in physical capital by purchasing advanced machinery, irrigation systems and HYV seeds, which are tangible assets used in the production process. In contrast, Anaya invested in human capital as she enhanced knowledge and skills by learning modern farming techniques and training workers in crop rotation, soil management and pest control."
+     }
     },
     {
      "qno": 29,
@@ -15420,7 +15774,10 @@
      "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Yes. Expenditure on health as a source of human capital formation, in an economy, may take different forms like expenditure on preventive medicine, curative medicine and social medicine, etc. A healthy person provides uninterrupted labour supply for a longer period of time. Thus, such expenditures lead to human capital formation, contributing towards economic development of the country. (To be marked as a whole)"
+     }
     },
     {
      "qno": 27,
@@ -15444,7 +15801,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Education Sector in India"
+     "topic": "Education Sector in India",
+     "answer": {
+      "opt": "D",
+      "text": "Right to Education Act"
+     }
     }
    ],
    "topic_order": [
@@ -16987,7 +17348,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Credit and Marketing in Rural Areas"
+     "topic": "Credit and Marketing in Rural Areas",
+     "answer": {
+      "opt": "B",
+      "text": "Farmers"
+     }
     },
     {
      "qno": 24,
@@ -17010,7 +17375,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Diversification into Productive Activities"
+     "topic": "Diversification into Productive Activities",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statements I and II are true."
+     }
     },
     {
      "qno": 29,
@@ -17027,7 +17396,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Credit and Marketing in Rural Areas"
+     "topic": "Credit and Marketing in Rural Areas",
+     "answer": {
+      "text": "The given statement is defended. Subsidies may be gradually withdrawn once technology becomes profitable as agricultural subsidies have proved to be a huge burden on the finances of the government. Moreover, farmers in the prosperous regions largely benefited from farm subsidies rather than the target group. (To be marked as a whole) (Any other valid argument with alternative point of view may be awarded marks)"
+     }
     },
     {
      "qno": 19,
@@ -17051,7 +17423,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Easy",
-     "topic": "Credit and Marketing in Rural Areas"
+     "topic": "Credit and Marketing in Rural Areas",
+     "answer": {
+      "opt": "D",
+      "text": "Farmers who have the required information on prevailing prices often sell their produce at low prices."
+     }
     },
     {
      "qno": 23,
@@ -17074,7 +17450,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Diversification into Productive Activities"
+     "topic": "Diversification into Productive Activities",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statements I and II are true."
+     }
     },
     {
      "qno": 22,
@@ -17098,7 +17478,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Diversification into Productive Activities"
+     "topic": "Diversification into Productive Activities",
+     "answer": {
+      "opt": "C",
+      "text": "(i) and (iii)"
+     }
     },
     {
      "qno": 23,
@@ -17122,7 +17506,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Credit and Marketing in Rural Areas"
+     "topic": "Credit and Marketing in Rural Areas",
+     "answer": {
+      "opt": "D",
+      "text": "Generally provide collateral-free credit to their members"
+     }
     },
     {
      "qno": 34,
@@ -17139,7 +17527,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Sustainable Development and Organic Farming"
+     "topic": "Sustainable Development and Organic Farming",
+     "answer": {
+      "text": "(i) Organic farming is a system of farming that restores, maintains and enhances the ecological balance. Two merits of Organic Farming: Organically grown food has more nutritional value than chemical farming; Organic farming offers a means to substitute costlier agricultural inputs with locally produced organic inputs that are cheaper. (Any other valid merit to be awarded marks)\n(ii) The two thrust areas of Paramparagat Krishi Vikas Yojana (PKVY) are: Reduce farming costs and increase farmers' income through sustainable organic practices; Chemical-free and nutritious food for human consumption. (Any other valid thrust area to be awarded marks)"
+     }
     }
    ],
    "topic_order": [
@@ -18465,7 +18856,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Unemployment"
+     "topic": "Unemployment",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 33,
@@ -18482,7 +18877,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Formalisation and Informalisation of Workforce"
+     "topic": "Formalisation and Informalisation of Workforce",
+     "answer": {
+      "text": "(i) Information Technology (IT) plays a crucial role in achieving sustainable development and food security, as the government can predict areas of food insecurity and vulnerability using appropriate information and software tools. It also helps in disseminating information regarding emerging technologies and their applications, prices, weather and soil conditions for growing different crops etc. (To be marked as a whole)\n(ii) Self-employed are those workers who own and operate an enterprise to earn their livelihood. For example: a cement shop owner. (Any other valid example to be awarded marks)"
+     }
     },
     {
      "qno": 33,
@@ -18500,7 +18898,10 @@
      "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Participation of People in Employment",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) Formal Sector includes all the public sector establishments and those private sector establishments which employ 10 hired workers or more. Formal sector workers get regular income and are entitled to social security benefits. For example, a government hospital etc.\nInformal Sector includes those private sector establishments which employ less than 10 hired workers. Workers in informal sector often lack job security, regular income and can be dismissed without any compensation. For example, a grocery shop employing two workers etc. (Any other valid example to be awarded marks)\n(ii) Worker Population Ratio is defined as the total number of workers in a country divided by population. It is represented in percentage. Worker Population Ratio is an indicator which is used for analysing the employment situation in the country. This ratio is useful in knowing the proportion of population that is actively contributing to the production of goods and services of a country. Higher the worker population ratio, higher the engagement of people in economic activities and vice versa."
+     }
     },
     {
      "qno": 18,
@@ -18523,7 +18924,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Participation of People in Employment"
+     "topic": "Participation of People in Employment",
+     "answer": {
+      "opt": "A",
+      "text": "Statement I is true and Statement II is false."
+     }
     },
     {
      "qno": 22,
@@ -18547,7 +18952,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Easy",
-     "topic": "Formalisation and Informalisation of Workforce"
+     "topic": "Formalisation and Informalisation of Workforce",
+     "answer": {
+      "opt": "A",
+      "text": "Information related to employment is collected by Union Ministry of Labour."
+     }
     },
     {
      "qno": 31,
@@ -18564,7 +18973,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Government and Employment Generation"
+     "topic": "Government and Employment Generation",
+     "answer": {
+      "text": "Government of India has played an important role in generating employment directly or indirectly in two ways: Direct Employment – the government directly provides jobs by recruiting people in administrative departments, public sector industries and government run organisations; Indirect Employment – when government enterprises increase production, related private sector businesses also expand, creating additional job opportunities in the private sector."
+     }
     },
     {
      "qno": 18,
@@ -18588,7 +19000,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Formalisation and Informalisation of Workforce"
+     "topic": "Formalisation and Informalisation of Workforce",
+     "answer": {
+      "opt": "B",
+      "text": "Agriculture, mining and quarrying"
+     }
     },
     {
      "qno": 20,
@@ -18626,7 +19042,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Workers and Employment"
+     "topic": "Workers and Employment",
+     "answer": {
+      "opt": "B",
+      "text": "40"
+     }
     },
     {
      "qno": 32,
@@ -18643,7 +19063,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Formalisation and Informalisation of Workforce"
+     "topic": "Formalisation and Informalisation of Workforce",
+     "answer": {
+      "text": "Rayansh is working in the formal sector. On the other hand, Mohan is working in the informal sector. Formal sector includes all the public sector establishments and those private sector establishments which employ 10 hired workers or more. Formal sector workers are entitled to fair wages and other social security measures such as pension, provident fund, etc. Additionally, they get paid leaves and medical allowances. Informal sector includes those private sector establishments which employ less than 10 hired workers. Workers in the informal sector do not get regular income and social security benefits. They can be dismissed without any compensation. Additionally, they may not get paid leaves and medical allowances."
+     }
     },
     {
      "qno": 32,
@@ -18661,7 +19084,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Workers and Employment",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) Human Capital Formation refers to the addition to the stock of human capital over a given period of time.\n(ii) People migrate in search of job opportunities that fetch them higher earnings. Technically qualified persons like engineers and doctors, migrate to other areas because of higher incomes and better opportunities. Migration also involves transportation costs, higher cost of living and psychic costs of change in socio-cultural setup. However, the enhanced earnings at the new place outweighs the costs of migration; hence, expenditure on migration is the source of human capital formation. (To be marked as a whole)"
+     }
     }
    ],
    "topic_order": [
@@ -19584,7 +20010,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "State of India's Environment"
+     "topic": "State of India's Environment",
+     "answer": {
+      "text": "(a) India has taken the following steps to ensure sustainable development: Pradhan Mantri Ujjwala Scheme has actively contributed to cleaner air; The Jal Jeevan Mission was launched with the objective of achieving water security. (Any other valid strategy/step to be awarded marks)\n(b) Two factors that have challenged the carrying capacity of the environment: The rising population of the developing countries; The affluent consumption and production standards of the developed world.\n(c) The greenhouse effect is a natural process that warms the Earth's surface, where the heat from the sun gets trapped inside atmosphere due to greenhouse gases."
+     }
     },
     {
      "qno": 27,
@@ -19607,7 +20036,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Sustainable Development"
+     "topic": "Sustainable Development",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statements I and II are true."
+     }
     },
     {
      "qno": 34,
@@ -19624,7 +20057,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "State of India's Environment"
+     "topic": "State of India's Environment",
+     "answer": {
+      "text": "(a) The four sources of air pollution in India are: Vehicular emission; Industrial waste; Cooking smoke; Construction sector. (Any other valid source to be awarded marks)\n(b) Scientists have linked persistent exposure to PM 2.5 to many long-term health issues including heart and lung disease, as well as 7.5 million premature deaths each year.\n(c) Full form of CPCB is Central Pollution Control Board."
+     }
     },
     {
      "qno": 21,
@@ -19648,7 +20084,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Easy",
-     "topic": "Strategies for Sustainable Development"
+     "topic": "Strategies for Sustainable Development",
+     "answer": {
+      "opt": "C",
+      "text": "Use of coal to produce electricity"
+     }
     },
     {
      "qno": 30,
@@ -19665,7 +20105,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "State of India's Environment"
+     "topic": "State of India's Environment",
+     "answer": {
+      "text": "Owing to rapid population explosion and advent of industrial revolution the demand of resources for both the production and consumption went beyond the rate of regeneration of resources. Consequently, the pressure on the absorptive capacity of the environment increased tremendously. Thus, as indicated in the image, issues like climate change, biodiversity loss and pollution have intensified, leading to a serious environmental crisis. (To be marked as a whole)"
+     }
     }
    ],
    "topic_order": [
@@ -22296,7 +22739,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Development Strategies – An Appraisal"
+     "topic": "Development Strategies – An Appraisal",
+     "answer": {
+      "opt": "D",
+      "text": "II, IV, I, III"
+     }
     },
     {
      "qno": 23,
@@ -22319,7 +22766,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Development Strategies – An Appraisal"
+     "topic": "Development Strategies – An Appraisal",
+     "answer": {
+      "opt": "D",
+      "text": "Great Proletarian Cultural Revolution"
+     }
     },
     {
      "qno": 25,
@@ -22343,7 +22794,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Developmental Path – A Snapshot View"
+     "topic": "Developmental Path – A Snapshot View",
+     "answer": {
+      "opt": "A",
+      "text": "Strengthen their economies"
+     }
     },
     {
      "qno": 27,
@@ -22367,7 +22822,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Indicators of Human Development"
+     "topic": "Indicators of Human Development",
+     "answer": {
+      "opt": "C",
+      "text": "GDP per capita"
+     }
     },
     {
      "qno": 30,
@@ -22415,7 +22874,42 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Gross Domestic Product and Sectors"
+     "topic": "Gross Domestic Product and Sectors",
+     "answer": {
+      "text": "According to the given data, output growth in the agriculture sector for India remained stable at 3.1%, while Pakistan's declined sharply from 4% to 1.7%. In the industrial sector, both countries experienced a slowdown, however, the decline was marginal (7.4% to 6.9%) for India and more severe for Pakistan (7.7% to 4.8%). In the service sector, India showed improvement, with growth rising from 6.9% to 7.6%, whereas Pakistan's growth fell from 6.8% to 5%. Overall, India's economic growth during this period was largely driven by the service sector, while Pakistan experienced deceleration in all the three sectors. (To be marked as a whole)",
+      "table": {
+       "caption": "Output growth by sector, India and Pakistan (1980–2018)",
+       "headers": [
+        "Country",
+        "1980–90 Agriculture",
+        "1980–90 Industry",
+        "1980–90 Services",
+        "2014–18 Agriculture",
+        "2014–18 Industry",
+        "2014–18 Services"
+       ],
+       "rows": [
+        [
+         "India",
+         "3.1",
+         "7.4",
+         "6.9",
+         "3.1",
+         "6.9",
+         "7.6"
+        ],
+        [
+         "Pakistan",
+         "4",
+         "7.7",
+         "6.8",
+         "1.7",
+         "4.8",
+         "5.0"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 25,
@@ -22439,7 +22933,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Development Strategies – An Appraisal"
+     "topic": "Development Strategies – An Appraisal",
+     "answer": {
+      "opt": "B",
+      "text": "Dual Pricing Policy"
+     }
     },
     {
      "qno": 28,
@@ -22456,7 +22954,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Average",
-     "topic": "Indicators of Human Development"
+     "topic": "Indicators of Human Development",
+     "answer": {
+      "text": "Liberty indicator may be defined as the measure of the extent of democratic participation in the social and political decision making. Without including these indicators, the construction of a human development index may be incomplete and its usefulness limited."
+     }
     },
     {
      "qno": 32,
@@ -22522,7 +23023,51 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Gross Domestic Product and Sectors"
+     "topic": "Gross Domestic Product and Sectors",
+     "answer": {
+      "text": "The given data pertains to the sectoral share of employment and Gross Value Added (GVA). Due to topographic and climatic conditions, the cultivable area in China is relatively smaller than that of India. Hence, the contribution of the agricultural sector to the GVA in China is 8% employing 23% of its workforce, whereas in India it is 19% employing 46% of its workforce. Owing to rapid industrialisation in China, the contribution of the industrial sector to GVA stands at 39% with 32% of the workforce as against corresponding figures of 29% and 25% in India. Both the nations have similar contribution of the Service sector to GVA standing at 52% and 53% with corresponding 29% and 45% to the workforce, respectively in India and China. (To be marked as a whole)",
+      "table": {
+       "caption": "Sectoral share of GVA and workforce, 2021 (%)",
+       "headers": [
+        "Sector",
+        "GVA: India",
+        "GVA: China",
+        "GVA: Pakistan",
+        "Workforce: India",
+        "Workforce: China",
+        "Workforce: Pakistan"
+       ],
+       "rows": [
+        [
+         "Agriculture",
+         "19",
+         "8",
+         "24",
+         "46",
+         "23",
+         "37"
+        ],
+        [
+         "Industry",
+         "29",
+         "39",
+         "20",
+         "25",
+         "32",
+         "25"
+        ],
+        [
+         "Services",
+         "52",
+         "53",
+         "56",
+         "29",
+         "45",
+         "38"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 26,
@@ -22545,7 +23090,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Developmental Path – A Snapshot View"
+     "topic": "Developmental Path – A Snapshot View",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 29,
@@ -22562,7 +23111,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Development Strategies – An Appraisal"
+     "topic": "Development Strategies – An Appraisal",
+     "answer": {
+      "text": "Two similar developmental strategies adopted by India and Pakistan are: Both the nations have followed the path of mixed economic system involving the public as well as the private sector; Both India and Pakistan adopted import substitution policy in order to protect their domestic industries from foreign competition. (Any other valid strategy to be awarded marks)"
+     }
     },
     {
      "qno": 29,
@@ -22580,7 +23132,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(i) The rationale behind the introduction of Great Leap Forward (GLF) campaign was to promote industrialization in China on a massive scale. People were encouraged to set up industries in their backyards.\n(ii) The two failures of the Great Leap Forward (GLF) campaign were: A severe drought caused havoc in China; Russia had conflicts with China and it withdrew its professionals."
+     }
     },
     {
      "qno": 31,
@@ -22625,7 +23180,39 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Gross Domestic Product and Sectors"
+     "topic": "Gross Domestic Product and Sectors",
+     "answer": {
+      "text": "The given data indicates that China gained economic strength after the reforms initiated in late 1970's. When many developed countries were finding it difficult to maintain a growth rate of even 5%, China was able to maintain near double-digit growth during the decade of 1980s. The growth rate of China has decelerated to 6.8% in 2015-17 and further to 3.0% in 2022. Whereas India had maintained a reasonable growth rate of 5.7% in the decade of 1980's, it has shown remarkable progress by registering an annual growth of Gross Domestic Product of 7.3% and 7.0% respectively in 2015-17 and 2022. (To be marked as a whole)",
+      "table": {
+       "caption": "Annual growth of GDP (%), 1980–2017",
+       "headers": [
+        "Country",
+        "1980–90",
+        "2015–17",
+        "2022"
+       ],
+       "rows": [
+        [
+         "India",
+         "5.7",
+         "7.3",
+         "7.0"
+        ],
+        [
+         "China",
+         "10.3",
+         "6.8",
+         "3.0"
+        ],
+        [
+         "Pakistan",
+         "6.3",
+         "5.3",
+         "4.8"
+        ]
+       ]
+      }
+     }
     }
    ],
    "topic_order": [

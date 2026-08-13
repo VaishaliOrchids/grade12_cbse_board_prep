@@ -885,7 +885,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Guarantee of Profit to a Partner"
+     "topic": "Guarantee of Profit to a Partner",
+     "answer": {
+      "opt": "A",
+      "text": "₹ 17,500"
+     }
     },
     {
      "qno": 6,
@@ -910,7 +914,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Distribution of Profit among Partners"
+     "topic": "Distribution of Profit among Partners",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 7,
@@ -933,7 +941,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Distribution of Profit among Partners"
+     "topic": "Distribution of Profit among Partners",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 30,000"
+     }
     },
     {
      "qno": 8,
@@ -956,7 +968,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Distribution of Profit among Partners"
+     "topic": "Distribution of Profit among Partners",
+     "answer": {
+      "opt": "C",
+      "text": "Nil"
+     }
     },
     {
      "qno": 20,
@@ -973,7 +989,35 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Distribution of Profit among Partners"
+     "topic": "Distribution of Profit among Partners",
+     "answer": {
+      "text": "Working Notes — Statement of Adjustment: Interest on capital to be debited: Mohan (6,000), Suhaan (3,000), Adit (3,000). Profit to be credited now (₹12,000 in 3:2:1): Mohan 6,000, Suhaan 4,000, Adit 2,000. Net Adjustment: Mohan Nil, Suhaan 1,000 Cr., Adit 1,000 Dr. (Full credit given if working notes are prepared in any other form.)",
+      "table": {
+       "caption": "In the Books of Mohan, Suhaan and Adit — JOURNAL",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "Adit's Current A/c Dr.",
+         "1,000",
+         ""
+        ],
+        [
+         "   To Suhaan's Current A/c",
+         "",
+         "1,000"
+        ],
+        [
+         "(Adjustment entry for Interest on Capital credited at a higher rate)",
+         "",
+         ""
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 20,
@@ -991,7 +1035,35 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Past Adjustments",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Working Notes — Calculation of Opening Capital: Closing Capital: Manoj 90,000, Nitin 80,000. Add: Drawings: Manoj 40,000, Nitin 20,000. Less: Profit (₹30,000 in 2:1): Manoj (20,000), Nitin (10,000). Opening Capital: Manoj 1,10,000, Nitin 90,000.\nStatement of Adjustment: Amount to be credited — Interest on Capital: Manoj 11,000, Nitin 9,000; Less Interest on Drawings: Manoj (3,000), Nitin (2,000); Net: Manoj 8,000, Nitin 7,000. Amount to be debited now (₹15,000 in 2:1): Manoj (10,000), Nitin (5,000). Adjustment: Manoj 2,000 Dr., Nitin 2,000 Cr. (Full credit given if working notes are prepared in any other form.)",
+      "table": {
+       "caption": "In the Books of Manoj and Nitin — JOURNAL",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "Manoj's Capital A/c Dr.",
+         "2,000",
+         ""
+        ],
+        [
+         "   To Nitin's Capital A/c",
+         "",
+         "2,000"
+        ],
+        [
+         "(Adjustment entry for omission of Interest on Capital and Interest on Drawings)",
+         "",
+         ""
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 2,
@@ -1692,7 +1764,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Distribution of Profit among Partners"
+     "topic": "Distribution of Profit among Partners",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 32,000"
+     }
     },
     {
      "qno": 2,
@@ -1717,7 +1793,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Nature of Partnership"
+     "topic": "Nature of Partnership",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 9,
@@ -1740,7 +1820,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Partnership Deed"
+     "topic": "Partnership Deed",
+     "answer": {
+      "opt": "C",
+      "text": "₹ 4,200"
+     }
     },
     {
      "qno": 11,
@@ -1763,7 +1847,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Maintenance of Capital Accounts of Partners"
+     "topic": "Maintenance of Capital Accounts of Partners",
+     "answer": {
+      "opt": "C",
+      "text": "Debit side of Partner's Current Account."
+     }
     },
     {
      "qno": 2,
@@ -3500,7 +3588,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjustment for Accumulated Profits and Losses"
+     "topic": "Adjustment for Accumulated Profits and Losses",
+     "answer": {
+      "opt": "C",
+      "text": "Furhan's Capital A/c Dr. 27,000; To Dan's Capital A/c 27,000"
+     }
     },
     {
      "qno": 15,
@@ -3524,7 +3616,11 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Change in Profit Sharing Ratio among the Existing Partners",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "A",
+      "text": "Sia's Capital A/c Dr. 30,000; Tom's Capital A/c Dr. 20,000; Vidhi's Capital A/c Dr. 10,000; To Profit and Loss A/c 60,000"
+     }
     },
     {
      "qno": 5,
@@ -3780,7 +3876,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Goodwill"
+     "topic": "Goodwill",
+     "answer": {
+      "opt": "A",
+      "text": "Lalit's Capital A/c Dr. 40,000; To Kartik's Capital A/c 40,000"
+     }
     },
     {
      "qno": 4,
@@ -3804,7 +3904,11 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Change in Profit Sharing Ratio among the Existing Partners",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "C",
+      "text": "Nidhi's Capital A/c Dr. 2,00,000; Pranav's Capital A/c Dr. 1,60,000; Ishu's Capital A/c Dr. 40,000; To Profit & Loss A/c 4,00,000"
+     }
     },
     {
      "qno": 8,
@@ -3827,7 +3931,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Sacrificing Ratio"
+     "topic": "Sacrificing Ratio",
+     "answer": {
+      "opt": "A",
+      "text": "Misha's sacrifice 1/6, Isha's gain 1/6"
+     }
     },
     {
      "qno": 8,
@@ -3851,7 +3959,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Change in Profit Sharing Ratio among the Existing Partners",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "B",
+      "text": "4 : 1"
+     }
     },
     {
      "qno": 18,
@@ -3868,7 +3980,67 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Change in Profit Sharing Ratio among the Existing Partners"
+     "topic": "Change in Profit Sharing Ratio among the Existing Partners",
+     "answer": {
+      "text": "(If an examinee has shown the correct working in any other form, full credit should be given)",
+      "table": [
+       {
+        "caption": "Books of Amish, Nitish and Misha — Journal (Adjustment Entry)",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Amish's Capital A/c Dr.\nNitish's Capital A/c Dr.\n   To Misha's Capital A/c\n(Adjustment of profit for the last three years on account of change in profit sharing ratio)",
+          "30,000\n30,000",
+          "60,000"
+         ]
+        ]
+       },
+       {
+        "caption": "Adjustment Table",
+        "headers": [
+         "Partners",
+         "Dr. Profits (₹) 2:2:1",
+         "Cr. Profits (₹) 1:1:1",
+         "Net Effect Dr. (₹)",
+         "Net Effect Cr. (₹)"
+        ],
+        "rows": [
+         [
+          "Amish",
+          "1,80,000",
+          "1,50,000",
+          "30,000",
+          ""
+         ],
+         [
+          "Nitish",
+          "1,80,000",
+          "1,50,000",
+          "30,000",
+          ""
+         ],
+         [
+          "Misha",
+          "90,000",
+          "1,50,000",
+          "",
+          "60,000"
+         ],
+         [
+          "Total",
+          "4,50,000",
+          "4,50,000",
+          "60,000",
+          "60,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 18,
@@ -3886,7 +4058,52 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Change in Profit Sharing Ratio among the Existing Partners",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Vidhi, Manas and Ansh — Journal",
+        "headers": [
+         "Date",
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "2024 Mar. 31",
+          "Profit & Loss Appropriation A/c Dr.\n   To Vidhi's Capital A/c\n   To Manas's Capital A/c\n   To Ansh's Capital A/c\n(Profit distributed among the partners in their profit sharing ratio)",
+          "2,00,000",
+          "40,000\n60,000\n1,00,000"
+         ],
+         [
+          "”",
+          "Vidhi's Capital A/c Dr.\nManas's Capital A/c Dr.\n   To Ansh's Capital A/c\n(Deficiency for Ansh borne by Vidhi and Manas equally)",
+          "10,000\n10,000",
+          "20,000"
+         ]
+        ]
+       },
+       {
+        "caption": "Alternate Answer — Books of Vidhi, Manas and Ansh — Journal",
+        "headers": [
+         "Date",
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "2024 Mar. 31",
+          "Profit & Loss Appropriation A/c Dr.\n   To Vidhi's Capital A/c\n   To Manas's Capital A/c\n   To Ansh's Capital A/c\n(Profit distributed among the partners in their profit sharing ratio with guaranteed amount to Ansh)",
+          "2,00,000",
+          "30,000\n50,000\n1,20,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 15,
@@ -5452,7 +5669,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "New Profit Sharing Ratio"
+     "topic": "New Profit Sharing Ratio",
+     "answer": {
+      "opt": "B",
+      "text": "4 : 7 : 5 : 4"
+     }
     },
     {
      "qno": 1,
@@ -5476,7 +5697,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "New Profit Sharing Ratio",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "C",
+      "text": "2 : 2 : 3"
+     }
     },
     {
      "qno": 4,
@@ -5499,7 +5724,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Goodwill"
+     "topic": "Goodwill",
+     "answer": {
+      "opt": "D",
+      "text": "Old partners in sacrificing ratio"
+     }
     },
     {
      "qno": 5,
@@ -5522,7 +5751,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjustment of Capitals"
+     "topic": "Adjustment of Capitals",
+     "answer": {
+      "opt": "A",
+      "text": "₹ 75,000"
+     }
     },
     {
      "qno": 18,
@@ -5539,7 +5772,51 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Goodwill"
+     "topic": "Goodwill",
+     "answer": {
+      "text": "Calculation of Normal Adjusted Profit:",
+      "table": {
+       "caption": "Calculation of Normal Adjusted Profit",
+       "headers": [
+        "Year",
+        "Profit (₹)",
+        "Adjustment (₹)",
+        "Adjusted Profit (₹)"
+       ],
+       "rows": [
+        [
+         "2019-20",
+         "35,000",
+         "-",
+         "35,000"
+        ],
+        [
+         "2020-21",
+         "25,000",
+         "-",
+         "25,000"
+        ],
+        [
+         "2021-22",
+         "32,000",
+         "-",
+         "32,000"
+        ],
+        [
+         "2022-23",
+         "33,000",
+         "(5,000)",
+         "28,000"
+        ],
+        [
+         "TOTAL",
+         "",
+         "",
+         "1,20,000"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 26,
@@ -5598,7 +5875,116 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Admission of a New Partner"
+     "topic": "Admission of a New Partner",
+     "answer": {
+      "text": "Revaluation Account: Fixed Assets depreciated by ₹27,000; Stock revalued up by ₹7,000; net loss ₹20,000 shared by Shubhi and Revanshi in old ratio (3:2) — Shubhi 12,000, Revanshi 8,000. Partners' Capital Accounts adjusted for Pari's capital and premium for goodwill brought in, and old partners' capitals adjusted (cash paid/brought in) taking Pari's capital as base.",
+      "table": [
+       {
+        "caption": "Revaluation A/c (Shubhi and Revanshi)",
+        "headers": [
+         "Particulars",
+         "Amount (₹)",
+         "Particulars",
+         "Amount (₹)"
+        ],
+        "rows": [
+         [
+          "To Fixed Assets A/c",
+          "27,000",
+          "By Stock A/c",
+          "7,000"
+         ],
+         [
+          "",
+          "",
+          "By Loss transferred to Partners' Capital A/c: Shubhi 12,000, Revanshi 8,000",
+          "20,000"
+         ],
+         [
+          "Total",
+          "27,000",
+          "Total",
+          "27,000"
+         ]
+        ]
+       },
+       {
+        "caption": "Partners' Capital A/c (Shubhi, Revanshi, Pari)",
+        "headers": [
+         "Particulars",
+         "Shubhi (₹)",
+         "Revanshi (₹)",
+         "Pari (₹)",
+         "Particulars",
+         "Shubhi (₹)",
+         "Revanshi (₹)",
+         "Pari (₹)"
+        ],
+        "rows": [
+         [
+          "To Revaluation A/c",
+          "12,000",
+          "8,000",
+          "",
+          "By Bal b/d",
+          "60,000",
+          "32,000",
+          ""
+         ],
+         [
+          "To Cash A/c",
+          "6,000",
+          "",
+          "",
+          "By General Reserve A/c",
+          "18,000",
+          "12,000",
+          ""
+         ],
+         [
+          "To Bal c/d",
+          "90,000",
+          "60,000",
+          "50,000",
+          "By Cash A/c",
+          "",
+          "",
+          "50,000"
+         ],
+         [
+          "",
+          "",
+          "",
+          "",
+          "By Premium for Goodwill A/c",
+          "30,000",
+          "20,000",
+          ""
+         ],
+         [
+          "",
+          "",
+          "",
+          "",
+          "By Cash A/c",
+          "",
+          "4,000",
+          ""
+         ],
+         [
+          "Total",
+          "1,08,000",
+          "68,000",
+          "50,000",
+          "Total",
+          "1,08,000",
+          "68,000",
+          "50,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 26,
@@ -5658,7 +6044,116 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Admission of a New Partner",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Shashi retired: Fixed Assets revalued down ₹24,000; Stock revalued up ₹6,000; net loss ₹18,000 shared by all partners in old ratio (Rishi 1/2, Shashi 1/6, Trishi 1/3) — Rishi 9,000, Shashi 3,000, Trishi 6,000. Shashi took over Stock at ₹26,000. Goodwill of firm valued at ₹18,000 on Shashi's retirement — gaining partners Rishi and Trishi compensate Shashi via their capital accounts. Balance in Shashi's Capital Account transferred to her loan account.",
+      "table": [
+       {
+        "caption": "Revaluation A/c (Rishi, Shashi, Trishi)",
+        "headers": [
+         "Particulars",
+         "Amount (₹)",
+         "Particulars",
+         "Amount (₹)"
+        ],
+        "rows": [
+         [
+          "To Fixed Assets A/c",
+          "24,000",
+          "By Stock A/c",
+          "6,000"
+         ],
+         [
+          "",
+          "",
+          "By Loss transferred to Partners' Capital A/c: Rishi 9,000, Shashi 3,000, Trishi 6,000",
+          "18,000"
+         ],
+         [
+          "Total",
+          "24,000",
+          "Total",
+          "24,000"
+         ]
+        ]
+       },
+       {
+        "caption": "Partners' Capital A/c (Rishi, Shashi, Trishi)",
+        "headers": [
+         "Particulars",
+         "Rishi (₹)",
+         "Shashi (₹)",
+         "Trishi (₹)",
+         "Particulars",
+         "Rishi (₹)",
+         "Shashi (₹)",
+         "Trishi (₹)"
+        ],
+        "rows": [
+         [
+          "To Revaluation A/c",
+          "9,000",
+          "3,000",
+          "6,000",
+          "By Bal b/d",
+          "36,000",
+          "30,000",
+          "20,000"
+         ],
+         [
+          "To Stock A/c (taken over)",
+          "",
+          "26,000",
+          "",
+          "By General Reserve A/c",
+          "15,000",
+          "5,000",
+          "10,000"
+         ],
+         [
+          "To Shashi's Capital A/c",
+          "1,800",
+          "",
+          "1,200",
+          "By Rishi's Capital A/c",
+          "",
+          "1,800",
+          ""
+         ],
+         [
+          "To Shashi's Loan A/c",
+          "",
+          "9,000",
+          "",
+          "By Trishi's Capital A/c",
+          "",
+          "1,200",
+          ""
+         ],
+         [
+          "To Bal c/d",
+          "40,200",
+          "",
+          "22,800",
+          "",
+          "",
+          "",
+          ""
+         ],
+         [
+          "Total",
+          "51,000",
+          "38,000",
+          "30,000",
+          "Total",
+          "51,000",
+          "38,000",
+          "30,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 3,
@@ -6453,7 +6948,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Goodwill"
+     "topic": "Goodwill",
+     "answer": {
+      "opt": "B",
+      "text": "₹ 4,00,000"
+     }
     },
     {
      "qno": 16,
@@ -6476,7 +6975,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "New Profit Sharing Ratio"
+     "topic": "New Profit Sharing Ratio",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 5,00,000"
+     }
     },
     {
      "qno": 20,
@@ -6493,7 +6996,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Goodwill"
+     "topic": "Goodwill",
+     "answer": {
+      "text": "Goodwill = Super profit × Number of years' purchase\nNormal profit = Normal Rate of return/100 × Capital Employed = 12/100 × ₹15,00,000 = ₹1,80,000\nAverage profit = (₹2,40,000 + ₹2,80,000 + ₹3,20,000)/3 = ₹2,80,000\nAverage profit less partners' salary = ₹2,80,000 − ₹50,000 = ₹2,30,000\nAverage Super profit = Average profit − Normal profit = ₹2,30,000 − ₹1,80,000 = ₹50,000\nGoodwill = Super profit × Number of years' purchase = ₹50,000 × 2 = ₹1,00,000\n\nAlternate answer:\nInterest on capital employed = 12/100 × ₹15,00,000 = ₹1,80,000\nPartners' salary = ₹20,000 + ₹30,000 = ₹50,000\nNormal Profit = Interest on capital employed + Partners' salary = ₹1,80,000 + ₹50,000 = ₹2,30,000\nAverage profit = (₹2,40,000 + ₹2,80,000 + ₹3,20,000)/3 = ₹2,80,000\nAverage Super profit = Average profit − Normal profit = ₹2,80,000 − ₹2,30,000 = ₹50,000\nGoodwill = Super profit × Number of years' purchase = ₹50,000 × 2 = ₹1,00,000"
+     }
     },
     {
      "qno": 26,
@@ -6564,7 +7070,116 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Admission of a New Partner"
+     "topic": "Admission of a New Partner",
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Aryan and Adya — Revaluation A/c",
+        "headers": [
+         "Dr. — Particulars",
+         "Amount (₹)",
+         "Cr. — Particulars",
+         "Amount (₹)"
+        ],
+        "rows": [
+         [
+          "To Provision for doubtful debts",
+          "3,500",
+          "By Machinery A/c",
+          "60,000"
+         ],
+         [
+          "To Profit transferred to:\nAryan's Capital A/c 45,000\nAdya's Capital A/c 15,000",
+          "60,000",
+          "By Creditors A/c",
+          "3,500"
+         ],
+         [
+          "Total",
+          "63,500",
+          "Total",
+          "63,500"
+         ]
+        ]
+       },
+       {
+        "caption": "Partners' Capital Accounts",
+        "headers": [
+         "Dr. — Particulars",
+         "Aryan (₹)",
+         "Adya (₹)",
+         "Dev (₹)",
+         "Cr. — Particulars",
+         "Aryan (₹)",
+         "Adya (₹)",
+         "Dev (₹)"
+        ],
+        "rows": [
+         [
+          "To Profit & Loss A/c",
+          "15,000",
+          "5,000",
+          "",
+          "By balance b/d",
+          "3,20,000",
+          "2,40,000",
+          ""
+         ],
+         [
+          "To balance c/d",
+          "3,95,000",
+          "2,65,000",
+          "1,65,000",
+          "By Cash A/c",
+          "",
+          "",
+          "1,65,000"
+         ],
+         [
+          "",
+          "",
+          "",
+          "",
+          "By Premium for goodwill A/c",
+          "30,000",
+          "10,000",
+          ""
+         ],
+         [
+          "",
+          "",
+          "",
+          "",
+          "By Workmen Compensation Reserve",
+          "15,000",
+          "5,000",
+          ""
+         ],
+         [
+          "",
+          "",
+          "",
+          "",
+          "By Revaluation A/c",
+          "45,000",
+          "15,000",
+          ""
+         ],
+         [
+          "Total",
+          "4,10,000",
+          "2,70,000",
+          "1,65,000",
+          "Total",
+          "4,10,000",
+          "2,70,000",
+          "1,65,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 26,
@@ -6630,7 +7245,59 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Admission of a New Partner",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Ashish, Vinit and Reema — Journal",
+        "headers": [
+         "Date",
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "2024 Mar. 31",
+          "Patents A/c Dr.\n   To Revaluation A/c\n(Patents were found undervalued by 20%)",
+          "20,000",
+          "20,000"
+         ],
+         [
+          "",
+          "Revaluation A/c Dr.\n   To Stock A/c\n(Value of stock reduced)",
+          "10,000",
+          "10,000"
+         ],
+         [
+          "",
+          "Revaluation A/c Dr.\n   To Ashish's Capital A/c\n   To Vinit's Capital A/c\n   To Reema's Capital A/c\n(Profit on revaluation credited to partners' capital accounts)",
+          "10,000",
+          "4,000\n4,000\n2,000"
+         ],
+         [
+          "",
+          "General Reserve A/c Dr.\n   To Ashish's Capital A/c\n   To Vinit's Capital A/c\n   To Reema's Capital A/c\n(General Reserve credited to partners' capital accounts)",
+          "50,000",
+          "20,000\n20,000\n10,000"
+         ],
+         [
+          "",
+          "Ashish's Capital A/c Dr.\nReema's Capital A/c Dr.\n   To Vinit's Capital A/c\n(Vinit's share of goodwill adjusted in the capital accounts of Ashish and Reema in the gaining ratio)",
+          "12,000\n12,000",
+          "24,000"
+         ],
+         [
+          "",
+          "Vinit's Capital A/c Dr.\n   To Cash A/c\n   To Vinit's Loan A/c\n(Vinit was paid ₹20,000 on retirement, and the balance transferred to his loan account)",
+          "2,48,000",
+          "20,000\n2,28,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 1,
@@ -9657,7 +10324,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Gaining Ratio"
+     "topic": "Gaining Ratio",
+     "answer": {
+      "opt": "C",
+      "text": "3 : 1"
+     }
     },
     {
      "qno": 16,
@@ -9681,7 +10352,11 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "New Profit Sharing Ratio",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "B",
+      "text": "8 : 7"
+     }
     },
     {
      "qno": 17,
@@ -9698,7 +10373,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Treatment of Goodwill"
+     "topic": "Treatment of Goodwill",
+     "answer": {
+      "text": "Gain = New Share − Old Share.\nAamir's Gain = 1/3 − 3/8 = −1/24 (sacrifice)\nBashir's Gain = 2/3 − 3/8 = 7/24 (gain)\nGaining ratio: Bashir gains 7/24 (Chirag's whole share goodwill of ₹5,40,000 is to be borne by the gaining partner(s) only, since Aamir has sacrificed).\nJournal entry (in the books of Aamir, Bashir and Chirag):\nBashir's Capital A/c Dr. 1,57,500\n   To Aamir's Capital A/c 22,500\n   To Chirag's Capital A/c 1,35,000\n(Goodwill treated on Chirag's retirement without opening Goodwill account)"
+     }
     },
     {
      "qno": 23,
@@ -9757,7 +10435,63 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Ascertaining the Amount Due to Retiring/Deceased Partner"
+     "topic": "Ascertaining the Amount Due to Retiring/Deceased Partner",
+     "answer": {
+      "text": "Working Notes: (i) Goodwill = 3 × 56,000/4 = 42,000. Robit's share in firm's goodwill = 42,000 × 1/5 = 8,400. Gaining ratio between Azhar and Sumit = 3:1. (ii) Robit's share in the profit upto the date of death = 15,000 × 1/5 × 3/12 = 750. (Note: no marks awarded for the working note.)",
+      "table": {
+       "caption": "Robit's Capital A/c",
+       "headers": [
+        "Particulars",
+        "Amount (₹)",
+        "Particulars",
+        "Amount (₹)"
+       ],
+       "rows": [
+        [
+         "To Robit's Executor's A/c / Legal Representatives A/c",
+         "41,650",
+         "By Bal b/d",
+         "20,000"
+        ],
+        [
+         "",
+         "",
+         "By General Reserve A/c",
+         "12,000"
+        ],
+        [
+         "",
+         "",
+         "By Interest on Capital A/c",
+         "500"
+        ],
+        [
+         "",
+         "",
+         "By Azhar's Capital A/c",
+         "6,300"
+        ],
+        [
+         "",
+         "",
+         "By Sumit's Capital A/c",
+         "2,100"
+        ],
+        [
+         "",
+         "",
+         "By P&L Suspense A/c",
+         "750"
+        ],
+        [
+         "Total",
+         "41,650",
+         "Total",
+         "41,650"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 17,
@@ -10387,7 +11121,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "New Profit Sharing Ratio"
+     "topic": "New Profit Sharing Ratio",
+     "answer": {
+      "opt": "D",
+      "text": "27 : 23"
+     }
     },
     {
      "qno": 10,
@@ -10411,7 +11149,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "New Profit Sharing Ratio",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "B",
+      "text": "8 : 7"
+     }
     },
     {
      "qno": 15,
@@ -10434,7 +11176,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Treatment of Goodwill"
+     "topic": "Treatment of Goodwill",
+     "answer": {
+      "opt": "A",
+      "text": "Ashmit ₹ 3,75,000 and Rohan ₹ 1,25,000"
+     }
     },
     {
      "qno": 17,
@@ -10451,7 +11197,27 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Death of a Partner"
+     "topic": "Death of a Partner",
+     "answer": {
+      "text": "Calculation of Firm's profits till Zaina's death:\nIf sale is ₹4,00,000, the profit = ₹1,00,000\nIf sale is ₹1,50,000, the profit = (₹1,00,000 × ₹1,50,000) / ₹4,00,000 = ₹37,500\nCalculation of Zaina's share of profit till death = ₹37,500 × 2/5 = ₹15,000\n(If an examinee has shown correct calculation in any other form, full credit is to be given)",
+      "table": {
+       "caption": "Books of Zaina, Yash and Kiran — Journal",
+       "headers": [
+        "Date",
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "2024 July 1",
+         "Profit and Loss Suspense A/c Dr.\n   To Zaina's Capital A/c\n(Zaina's share of profit transferred to her capital account)",
+         "15,000",
+         "15,000"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 22,
@@ -10516,7 +11282,63 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Ascertaining the Amount Due to Retiring/Deceased Partner"
+     "topic": "Ascertaining the Amount Due to Retiring/Deceased Partner",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Books of Raja, Bharat and Vedika — Vedika's Capital A/c",
+       "headers": [
+        "Dr. — Particulars",
+        "Amount (₹)",
+        "Cr. — Particulars",
+        "Amount (₹)"
+       ],
+       "rows": [
+        [
+         "To Drawings A/c",
+         "12,000",
+         "By Balance b/d",
+         "90,000"
+        ],
+        [
+         "To Vedika's Executors A/c",
+         "1,09,400",
+         "By General Reserve A/c",
+         "10,000"
+        ],
+        [
+         "",
+         "",
+         "By Interest on Capital A/c",
+         "2,400"
+        ],
+        [
+         "",
+         "",
+         "By P & L Suspense A/c",
+         "3,000"
+        ],
+        [
+         "",
+         "",
+         "By Raja's Capital A/c",
+         "8,000"
+        ],
+        [
+         "",
+         "",
+         "By Bharat's Capital A/c",
+         "8,000"
+        ],
+        [
+         "Total",
+         "1,21,400",
+         "Total",
+         "1,21,400"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 16,
@@ -12120,7 +12942,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Settlement of Accounts"
+     "topic": "Settlement of Accounts",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 15,000"
+     }
     },
     {
      "qno": 22,
@@ -12185,7 +13011,63 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Accounting Treatment"
+     "topic": "Accounting Treatment",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Realisation Account",
+       "headers": [
+        "Particulars",
+        "Amount (₹)",
+        "Particulars",
+        "Amount (₹)"
+       ],
+       "rows": [
+        [
+         "To Investments A/c",
+         "80,000",
+         "By Creditors A/c",
+         "60,000"
+        ],
+        [
+         "To Plant A/c",
+         "1,00,000",
+         "By Bank A/c (Debtors 40,000 + Stock 50,000 + Plant 60,000)",
+         "1,50,000"
+        ],
+        [
+         "To Stock A/c",
+         "40,000",
+         "By Vandana's Capital A/c",
+         "18,000"
+        ],
+        [
+         "To Debtors A/c",
+         "50,000",
+         "By Archana's Capital A/c",
+         "54,000"
+        ],
+        [
+         "To Bank A/c (realisation expenses)",
+         "60,000",
+         "By Loss transferred to Partners' Capital A/c: Archana 34,000, Vandana 20,400, Arti 13,600",
+         "68,000"
+        ],
+        [
+         "To Arti's Capital A/c",
+         "20,000",
+         "",
+         ""
+        ],
+        [
+         "Total",
+         "3,50,000",
+         "Total",
+         "3,50,000"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 6,
@@ -12471,7 +13353,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Accounting Treatment"
+     "topic": "Accounting Treatment",
+     "answer": {
+      "opt": "C",
+      "text": "₹ 52,000"
+     }
     },
     {
      "qno": 24,
@@ -12488,7 +13374,50 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Settlement of Accounts"
+     "topic": "Settlement of Accounts",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Books of Vibha and Ajit — Journal",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "(i) Realisation A/c Dr.\n   To Cash A/c\n(Creditors accepted cash and furniture in full settlement of their claim)",
+         "9,000",
+         "9,000"
+        ],
+        [
+         "(ii) Ajit Capital A/c Dr.\nCash/Bank A/c Dr.\n   To Realisation A/c\n(40% of the stock was taken over by Ajit and the remaining stock sold for ₹18,000)",
+         "7,200\n18,000",
+         "25,200"
+        ],
+        [
+         "(iii) Realisation A/c Dr.\n   To Vibha's Capital A/c\n(Vibha was allowed a remuneration to look after dissolution work)",
+         "16,000",
+         "16,000"
+        ],
+        [
+         "(iv) Ajit Loan A/c Dr.\n   To Cash/Bank A/c\n   To Realisation A/c\n(Ajit's loan was settled)",
+         "45,000",
+         "42,000\n3,000"
+        ],
+        [
+         "(v) Vibha's Capital A/c Dr.\n   To Realisation A/c\n(Unrecorded machinery taken over by Vibha)",
+         "23,000",
+         "23,000"
+        ],
+        [
+         "(vi) Vibha's Capital A/c Dr.\nAjit's Capital A/c Dr.\n   To Profit and Loss A/c\n(Debit balance of Profit and Loss account debited to the partners' capital accounts)",
+         "10,000\n10,000",
+         "20,000"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 3,
@@ -14164,7 +15093,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Issue of Shares"
+     "topic": "Issue of Shares",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 26,00,000"
+     }
     },
     {
      "qno": 10,
@@ -14187,7 +15120,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Share Capital of a Company"
+     "topic": "Share Capital of a Company",
+     "answer": {
+      "opt": "C",
+      "text": "Uncalled"
+     }
     },
     {
      "qno": 11,
@@ -14210,7 +15147,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "opt": "C",
+      "text": "₹ 13,500"
+     }
     },
     {
      "qno": 13,
@@ -14233,7 +15174,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Issue of Shares"
+     "topic": "Issue of Shares",
+     "answer": {
+      "opt": "B",
+      "text": "credited to calls in advance account"
+     }
     },
     {
      "qno": 13,
@@ -14257,7 +15202,11 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Nature and Classes of Shares",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "C",
+      "text": "Private placement of shares"
+     }
     },
     {
      "qno": 14,
@@ -14280,7 +15229,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 20"
+     }
     },
     {
      "qno": 14,
@@ -14304,7 +15257,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Forfeiture of Shares",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "A",
+      "text": "₹ 3,000"
+     }
     },
     {
      "qno": 21,
@@ -14321,7 +15278,43 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "text": "Shivalik Ltd. — Balance Sheet (extract) as at ......\nI. Equity and Liabilities: 1. Shareholders' Funds (a) Share Capital (Note 1) — ₹4,68,000",
+      "table": {
+       "caption": "Notes to Accounts",
+       "headers": [
+        "Particulars",
+        "Amount (₹)"
+       ],
+       "rows": [
+        [
+         "1. Share Capital",
+         ""
+        ],
+        [
+         "Authorised Capital: 1,00,000 equity shares of ₹10 each",
+         "10,00,000"
+        ],
+        [
+         "Issued Capital: 50,000 equity shares of ₹10 each",
+         "5,00,000"
+        ],
+        [
+         "Subscribed Capital — Subscribed & fully paid-up: 46,000 equity shares of ₹10 each",
+         "4,60,000"
+        ],
+        [
+         "Add: Share Forfeiture A/c",
+         "8,000"
+        ],
+        [
+         "Total",
+         "4,68,000"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 25,
@@ -14338,7 +15331,145 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "In the Books of Qumtan Ltd. — JOURNAL",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "(i) Bank A/c Dr.",
+         "12,80,000",
+         ""
+        ],
+        [
+         "   To Equity Share Application and Allotment A/c",
+         "",
+         "12,80,000"
+        ],
+        [
+         "(Application and allotment money received on 1,60,000 shares)",
+         "",
+         ""
+        ],
+        [
+         "(ii) Equity Share Application and Allotment A/c Dr.",
+         "12,80,000",
+         ""
+        ],
+        [
+         "   To Equity Share Capital A/c",
+         "",
+         "5,00,000"
+        ],
+        [
+         "   To Securities Premium A/c",
+         "",
+         "3,00,000"
+        ],
+        [
+         "   To Bank A/c",
+         "",
+         "4,80,000"
+        ],
+        [
+         "(Application money transferred to Share Capital and Securities Premium; excess amount returned)",
+         "",
+         ""
+        ],
+        [
+         "(v) Equity Share First & Final Call A/c Dr.",
+         "8,00,000",
+         ""
+        ],
+        [
+         "   To Equity Share Capital A/c",
+         "",
+         "5,00,000"
+        ],
+        [
+         "   To Securities Premium A/c",
+         "",
+         "3,00,000"
+        ],
+        [
+         "(Share First & Final Call money due)",
+         "",
+         ""
+        ],
+        [
+         "(vi) Bank A/c Dr.",
+         "7,98,400",
+         ""
+        ],
+        [
+         "Calls-in-Arrears A/c Dr.",
+         "1,600",
+         ""
+        ],
+        [
+         "   To Equity Share First & Final Call A/c",
+         "",
+         "8,00,000"
+        ],
+        [
+         "(Share first and final call money received except on 200 shares)",
+         "",
+         ""
+        ],
+        [
+         "(vii) Equity Share Capital A/c Dr.",
+         "2,000",
+         ""
+        ],
+        [
+         "Securities Premium A/c Dr.",
+         "600",
+         ""
+        ],
+        [
+         "   To Calls-in-Arrears A/c",
+         "",
+         "1,600"
+        ],
+        [
+         "   To Share Forfeiture A/c",
+         "",
+         "1,000"
+        ],
+        [
+         "(200 equity shares forfeited for non-payment of first and final call)",
+         "",
+         ""
+        ],
+        [
+         "(viii) Bank A/c Dr.",
+         "1,000",
+         ""
+        ],
+        [
+         "Share Forfeiture A/c Dr.",
+         "1,000",
+         ""
+        ],
+        [
+         "   To Equity Share Capital A/c",
+         "",
+         "2,000"
+        ],
+        [
+         "(200 forfeited shares reissued)",
+         "",
+         ""
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 25,
@@ -14356,7 +15487,130 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Issue of Shares",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "In the books of Printkit Limited — JOURNAL",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "(i) Bank A/c Dr.",
+         "4,50,000",
+         ""
+        ],
+        [
+         "   To Equity Share Application A/c",
+         "",
+         "4,50,000"
+        ],
+        [
+         "(Application money received on 1,50,000 shares)",
+         "",
+         ""
+        ],
+        [
+         "(ii) Equity Share Application A/c Dr.",
+         "4,50,000",
+         ""
+        ],
+        [
+         "   To Equity Share Capital A/c",
+         "",
+         "2,40,000"
+        ],
+        [
+         "   To Equity Share Allotment A/c",
+         "",
+         "1,40,000"
+        ],
+        [
+         "   To Calls-in-Advance A/c",
+         "",
+         "40,000"
+        ],
+        [
+         "   To Bank A/c",
+         "",
+         "30,000"
+        ],
+        [
+         "(Application money transferred to Share Capital and excess amount adjusted to Share Allotment A/c and calls-in-advance; application money on 10,000 shares refunded)",
+         "",
+         ""
+        ],
+        [
+         "(iii) Equity Share Allotment A/c Dr.",
+         "1,60,000",
+         ""
+        ],
+        [
+         "   To Equity Share Capital A/c",
+         "",
+         "1,60,000"
+        ],
+        [
+         "(Allotment money due on 80,000 shares)",
+         "",
+         ""
+        ],
+        [
+         "(iv) Bank A/c Dr.",
+         "20,000",
+         ""
+        ],
+        [
+         "   To Equity Share Allotment A/c",
+         "",
+         "20,000"
+        ],
+        [
+         "(Allotment money received after adjusting excess application money)",
+         "",
+         ""
+        ],
+        [
+         "(v) Equity Share First & Final Call A/c Dr.",
+         "4,00,000",
+         ""
+        ],
+        [
+         "   To Equity Share Capital A/c",
+         "",
+         "4,00,000"
+        ],
+        [
+         "(Share First & Final Call money due)",
+         "",
+         ""
+        ],
+        [
+         "(vi) Bank A/c Dr.",
+         "3,60,000",
+         ""
+        ],
+        [
+         "Calls-in-Advance A/c Dr.",
+         "40,000",
+         ""
+        ],
+        [
+         "   To Equity Share First & Final Call A/c",
+         "",
+         "4,00,000"
+        ],
+        [
+         "(Share first and final call money received after adjusting calls-in-advance)",
+         "",
+         ""
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 1,
@@ -15033,7 +16287,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Issue of Shares"
+     "topic": "Issue of Shares",
+     "answer": {
+      "opt": "D",
+      "text": "₹ 11,00,000"
+     }
     },
     {
      "qno": 3,
@@ -15057,7 +16315,11 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Issue of Shares",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "B",
+      "text": "₹ 1,50,000"
+     }
     },
     {
      "qno": 6,
@@ -15080,7 +16342,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Issue of Shares"
+     "topic": "Issue of Shares",
+     "answer": {
+      "opt": "A",
+      "text": "credited to calls in advance account."
+     }
     },
     {
      "qno": 12,
@@ -15103,7 +16369,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "opt": "A",
+      "text": "₹ 8,000"
+     }
     },
     {
      "qno": 23,
@@ -15120,7 +16390,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "text": "(i) (C) Nil\n(ii) (D) 80,000\n(iii) (A) ₹16,000\n(iv) (B) ₹9,00,000\n(v) (C) Subscribed capital\n(vi) (B) ₹8,16,000"
+     }
     },
     {
      "qno": 25,
@@ -15137,7 +16410,52 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Forfeiture of Shares"
+     "topic": "Forfeiture of Shares",
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Altima Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Bank A/c Dr.\n   To Equity Share Application and Allotment A/c\n(Application money received on 2,40,000 shares @₹7 per share, including premium ₹1)",
+          "16,80,000",
+          "16,80,000"
+         ],
+         [
+          "Equity Share Application and Allotment A/c Dr.\n   To Equity Share Capital A/c\n   To Securities Premium A/c\n   To Bank A/c\n(Transfer of application money to share capital and excess application money refunded)",
+          "16,80,000",
+          "12,00,000\n2,00,000\n2,80,000"
+         ],
+         [
+          "Equity Share First and Final Call A/c Dr.\n   To Equity Share Capital A/c\n   To Securities Premium A/c\n(Amount due on share first and final call)",
+          "14,00,000",
+          "8,00,000\n6,00,000"
+         ],
+         [
+          "Bank A/c Dr.\n   To Equity Share First and Final Call A/c\n(Amount received on share first and final call)\n[or: Bank A/c Dr. 13,72,000; Call in Arrears A/c Dr. 28,000; To Equity Share First and Final Call A/c 14,00,000]",
+          "13,72,000",
+          "13,72,000"
+         ],
+         [
+          "Equity Share Capital A/c Dr.\nSecurities Premium A/c Dr.\n   To Share Forfeiture A/c\n   To Equity Share First and Final Call/Calls in Arrears A/c\n(4,000 shares forfeited for non-payment of first and final call money)",
+          "40,000\n12,000",
+          "24,000\n28,000"
+         ],
+         [
+          "Bank A/c Dr.\nShare Forfeiture A/c Dr.\n   To Equity Share Capital A/c\n(Reissue of 4,000 shares at ₹4 per share fully paid)",
+          "16,000\n24,000",
+          "40,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 25,
@@ -15155,7 +16473,62 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Forfeiture of Shares",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "(i) Books of Macil Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Share Capital A/c Dr.\nSecurities Premium A/c Dr.\n   To Share Forfeiture A/c\n   To Share Allotment A/c\n   To Share First Call A/c\n(3,000 shares forfeited for non-payment of allotment and first call money)\n[or: ...To Calls in Arrears A/c 2,10,000]",
+          "2,40,000\n30,000",
+          "60,000\n90,000\n1,20,000"
+         ],
+         [
+          "Bank A/c Dr.\n   To Share Capital A/c\n   To Securities Premium A/c\n(Reissue of 2,000 shares @₹90 per share, ₹80 paid up)",
+          "1,80,000",
+          "1,60,000\n20,000"
+         ],
+         [
+          "Share Forfeiture A/c Dr.\n   To Capital Reserve A/c\n(Balance in share forfeiture account transferred to capital reserve)",
+          "40,000",
+          "40,000"
+         ]
+        ]
+       },
+       {
+        "caption": "(ii) Books of Avian Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Share Capital A/c Dr.\n   To Share Forfeiture A/c\n   To Share First Call/Calls in Arrears A/c\n(10,000 shares forfeited for non-payment of first call money)",
+          "90,000",
+          "50,000\n40,000"
+         ],
+         [
+          "Bank A/c Dr.\nShare Forfeiture A/c Dr.\n   To Share Capital A/c\n(Reissue of 4,000 shares @₹9 per share fully paid up)",
+          "36,000\n4,000",
+          "40,000"
+         ],
+         [
+          "Share Forfeiture A/c Dr.\n   To Capital Reserve A/c\n(Balance in share forfeiture account transferred to capital reserve)",
+          "16,000",
+          "16,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 10,
@@ -17181,7 +18554,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Redemption of Debentures"
+     "topic": "Redemption of Debentures",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are correct and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 19,
@@ -17198,7 +18575,65 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Issue of Debentures"
+     "topic": "Issue of Debentures",
+     "answer": {
+      "text": "Working Note: No. of debentures = Purchase Consideration / Issue Price = 4,80,000 / 96 = 5,000",
+      "table": {
+       "caption": "In the books of Sunrise Ltd. — JOURNAL",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "Sundry Assets A/c Dr.",
+         "3,60,000",
+         ""
+        ],
+        [
+         "Goodwill A/c Dr.",
+         "2,20,000",
+         ""
+        ],
+        [
+         "   To Creditors A/c",
+         "",
+         "1,00,000"
+        ],
+        [
+         "   To Moonlight Ltd.",
+         "",
+         "4,80,000"
+        ],
+        [
+         "(Assets acquired and liabilities taken over from Moonlight Ltd)",
+         "",
+         ""
+        ],
+        [
+         "Moonlight Ltd. Dr.",
+         "4,80,000",
+         ""
+        ],
+        [
+         "Discount on Issue of Debentures A/c Dr.",
+         "20,000",
+         ""
+        ],
+        [
+         "   To 9% Debentures A/c",
+         "",
+         "5,00,000"
+        ],
+        [
+         "(Purchase consideration settled by issuing 5,000 9% debentures at 4% discount)",
+         "",
+         ""
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 19,
@@ -17216,7 +18651,65 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Issue of Debentures",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Working Note: No. of debentures = Purchase Consideration / Issue Price = 18,00,000 / 120 = 15,000",
+      "table": {
+       "caption": "In the books of Grapple Ltd. — JOURNAL",
+       "headers": [
+        "Particulars",
+        "Dr. Amount (₹)",
+        "Cr. Amount (₹)"
+       ],
+       "rows": [
+        [
+         "Sundry Assets A/c Dr.",
+         "25,00,000",
+         ""
+        ],
+        [
+         "   To Liabilities A/c",
+         "",
+         "5,00,000"
+        ],
+        [
+         "   To Allore Ltd.",
+         "",
+         "18,00,000"
+        ],
+        [
+         "   To Capital Reserve A/c",
+         "",
+         "2,00,000"
+        ],
+        [
+         "(Assets acquired and liabilities taken over from Allore Ltd.)",
+         "",
+         ""
+        ],
+        [
+         "Allore Ltd. Dr.",
+         "18,00,000",
+         ""
+        ],
+        [
+         "   To 11% Debentures A/c",
+         "",
+         "15,00,000"
+        ],
+        [
+         "   To Securities Premium A/c",
+         "",
+         "3,00,000"
+        ],
+        [
+         "(Purchase consideration settled by issuing 15,000 11% debentures at 20% premium)",
+         "",
+         ""
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 24,
@@ -17233,7 +18726,111 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Redemption of Debentures"
+     "topic": "Redemption of Debentures",
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Zubian Ltd. — JOURNAL",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "(i) Bank A/c Dr.",
+          "10,60,000",
+          ""
+         ],
+         [
+          "   To Debenture Application & Allotment A/c",
+          "",
+          "10,60,000"
+         ],
+         [
+          "(Application money received on 10,000, 7% Debentures)",
+          "",
+          ""
+         ],
+         [
+          "(ii) Debenture Application & Allotment A/c Dr.",
+          "10,60,000",
+          ""
+         ],
+         [
+          "Loss on Issue of Debentures A/c Dr.",
+          "40,000",
+          ""
+         ],
+         [
+          "   To 7% Debentures A/c",
+          "",
+          "10,00,000"
+         ],
+         [
+          "   To Securities Premium A/c",
+          "",
+          "60,000"
+         ],
+         [
+          "   To Premium on Redemption of Debentures A/c",
+          "",
+          "40,000"
+         ],
+         [
+          "(Debentures issued at 6% premium, redeemable at 4% premium on redemption)",
+          "",
+          ""
+         ],
+         [
+          "(iii) 2023 Mar 31: Securities Premium A/c Dr.",
+          "40,000",
+          ""
+         ],
+         [
+          "   To Loss on Issue of Debentures A/c",
+          "",
+          "40,000"
+         ],
+         [
+          "(Loss on issue of debentures written off)",
+          "",
+          ""
+         ]
+        ]
+       },
+       {
+        "caption": "Loss on Issue of Debentures A/c",
+        "headers": [
+         "Date",
+         "Particulars",
+         "Amount (₹)",
+         "Date",
+         "Particulars",
+         "Amount (₹)"
+        ],
+        "rows": [
+         [
+          "1.4.22",
+          "To Premium on Redemption of Debentures A/c",
+          "40,000",
+          "31.3.23",
+          "By Securities Premium A/c",
+          "40,000"
+         ],
+         [
+          "",
+          "Total",
+          "40,000",
+          "",
+          "Total",
+          "40,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 7,
@@ -17675,7 +19272,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Redemption of Debentures"
+     "topic": "Redemption of Debentures",
+     "answer": {
+      "opt": "C",
+      "text": "Registered debentures"
+     }
     },
     {
      "qno": 7,
@@ -17699,7 +19300,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Issue of Debentures",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "A",
+      "text": "Paid up capital"
+     }
     },
     {
      "qno": 13,
@@ -17722,7 +19327,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Redemption of Debentures"
+     "topic": "Redemption of Debentures",
+     "answer": {
+      "opt": "B",
+      "text": "₹ 2,60,000"
+     }
     },
     {
      "qno": 19,
@@ -17739,7 +19348,32 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Issue of Debentures"
+     "topic": "Issue of Debentures",
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Delight Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Assets A/c Dr.\nGoodwill A/c Dr.\n   To Liabilities A/c\n   To Marvel Ltd.\n(Assets and liabilities of Marvel Ltd. taken over)",
+          "4,00,000\n30,000",
+          "70,000\n3,60,000"
+         ],
+         [
+          "Marvel Ltd. Dr.\n   To 11% Debentures A/c\n   To Securities Premium A/c\n(Issue of 3,000 debentures at a premium of 20%)",
+          "3,60,000",
+          "3,00,000\n60,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 19,
@@ -17757,7 +19391,32 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Issue of Debentures",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Books of Prime Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Assets A/c Dr.\n   To Liabilities A/c\n   To Rabi Ltd.\n   To Capital Reserve A/c\n(Assets and liabilities of Rabi Ltd. taken over)",
+          "6,00,000",
+          "1,00,000\n3,60,000\n1,40,000"
+         ],
+         [
+          "Rabi Ltd. Dr.\nDiscount on issue of debentures A/c Dr.\n   To 10% Debentures A/c\n(Issue of 4,000 debentures at a discount of 10%)",
+          "3,60,000\n40,000",
+          "4,00,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 21,
@@ -17774,7 +19433,52 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Redemption of Debentures"
+     "topic": "Redemption of Debentures",
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "(i) Books of Kiero Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Bank A/c Dr.\n   To Debenture Application and Allotment A/c\n(Debenture application money received)",
+          "80,00,000",
+          "80,00,000"
+         ],
+         [
+          "Debenture Application and Allotment A/c Dr.\nLoss on Issue of Debentures A/c Dr.\n   To 9% Debentures A/c\n   To Premium on Redemption of Debentures A/c\n(Debenture application money transferred to debentures and premium on redemption of debentures account)",
+          "80,00,000\n8,00,000",
+          "80,00,000\n8,00,000"
+         ]
+        ]
+       },
+       {
+        "caption": "(ii) Books of Naro Ltd. — Journal",
+        "headers": [
+         "Particulars",
+         "Dr. Amount (₹)",
+         "Cr. Amount (₹)"
+        ],
+        "rows": [
+         [
+          "Bank A/c Dr.\n   To Debenture Application and Allotment A/c\n(Debenture application money received)",
+          "52,50,000",
+          "52,50,000"
+         ],
+         [
+          "Debenture Application and Allotment A/c Dr.\nLoss on Issue of Debentures A/c Dr.\n   To 10% Debentures A/c\n   To Securities Premium A/c\n   To Premium on Redemption of Debentures A/c\n(Debenture application money transferred to debentures and premium on redemption of debentures account)",
+          "52,50,000\n5,00,000",
+          "50,00,000\n2,50,000\n5,00,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 13,
@@ -19148,7 +20852,35 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Financial Statements"
+     "topic": "Types of Financial Statements",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Classification under Schedule III",
+       "headers": [
+        "Item",
+        "Major Head",
+        "Sub-head"
+       ],
+       "rows": [
+        [
+         "(a) Long Term Loans from Bank",
+         "Non-Current Liabilities",
+         "Long Term Borrowings"
+        ],
+        [
+         "(b) Loose Tools",
+         "Current Assets",
+         "Inventories"
+        ],
+        [
+         "(c) Outstanding Expenses",
+         "Current Liabilities",
+         "Other Current Liabilities"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 31,
@@ -19233,7 +20965,35 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Types of Financial Statements"
+     "topic": "Types of Financial Statements",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Classification of items under major heads",
+       "headers": [
+        "Item",
+        "Major head",
+        "Sub-head"
+       ],
+       "rows": [
+        [
+         "Computer software",
+         "Non-Current Assets",
+         "Property, Plant and Equipment and Intangible Assets – Intangible Assets"
+        ],
+        [
+         "Outstanding salary",
+         "Current Liabilities",
+         "Other Current Liabilities"
+        ],
+        [
+         "Work in progress",
+         "Current Assets",
+         "Inventories"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 31,
@@ -19692,7 +21452,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Meaning of Analysis of Financial Statements"
+     "topic": "Meaning of Analysis of Financial Statements",
+     "answer": {
+      "opt": "B",
+      "text": "Trade Payables"
+     }
     },
     {
      "qno": 29,
@@ -19716,7 +21480,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Meaning of Analysis of Financial Statements",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "C",
+      "text": "Solvency"
+     }
     },
     {
      "qno": 33,
@@ -19804,7 +21572,92 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Common Size Statement"
+     "topic": "Common Size Statement",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Geox Ltd. — Common Size Balance Sheet as at March 31, 2022 and March 31, 2023",
+       "headers": [
+        "Particulars",
+        "31.3.2022 (₹)",
+        "31.3.2023 (₹)",
+        "31.3.2022 (%)",
+        "31.3.2023 (%)"
+       ],
+       "rows": [
+        [
+         "I – Equity and Liabilities:",
+         "",
+         "",
+         "",
+         ""
+        ],
+        [
+         "1. Shareholders' Funds — (a) Share Capital",
+         "2,50,000",
+         "4,00,000",
+         "50",
+         "50"
+        ],
+        [
+         "2. Non-Current Liabilities — (a) Long Term Borrowings",
+         "1,50,000",
+         "2,00,000",
+         "30",
+         "25"
+        ],
+        [
+         "3. Current Liabilities — (a) Trade Payables",
+         "1,00,000",
+         "2,00,000",
+         "20",
+         "25"
+        ],
+        [
+         "TOTAL",
+         "5,00,000",
+         "8,00,000",
+         "100",
+         "100"
+        ],
+        [
+         "II – Assets:",
+         "",
+         "",
+         "",
+         ""
+        ],
+        [
+         "1. Non-Current Assets — (a) Fixed Assets/PPE and Intangible Assets",
+         "3,50,000",
+         "4,00,000",
+         "70",
+         "50"
+        ],
+        [
+         "2. Current Assets — (a) Inventories",
+         "70,000",
+         "2,00,000",
+         "14",
+         "25"
+        ],
+        [
+         "(b) Trade Receivables",
+         "80,000",
+         "2,00,000",
+         "16",
+         "25"
+        ],
+        [
+         "TOTAL",
+         "5,00,000",
+         "8,00,000",
+         "100",
+         "100"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 33,
@@ -19856,7 +21709,64 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Comparative Statements",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Comparative Statement of Profit & Loss for the year ended March 31, 2023",
+       "headers": [
+        "Particulars",
+        "2021-22 (₹)",
+        "2022-23 (₹)",
+        "Absolute Increase/Decrease (₹)",
+        "Percentage Increase/Decrease (%)"
+       ],
+       "rows": [
+        [
+         "I Revenue from Operations",
+         "8,00,000",
+         "10,00,000",
+         "2,00,000",
+         "25"
+        ],
+        [
+         "II Less: Expenses — Employee Benefit Expenses",
+         "1,00,000",
+         "2,50,000",
+         "1,50,000",
+         "150"
+        ],
+        [
+         "Other Expenses",
+         "4,00,000",
+         "5,50,000",
+         "1,50,000",
+         "37.5"
+        ],
+        [
+         "III Profit before Tax",
+         "3,00,000",
+         "2,00,000",
+         "(1,00,000)",
+         "(33.3)"
+        ],
+        [
+         "IV Less: Tax @ 50%",
+         "1,50,000",
+         "1,00,000",
+         "(50,000)",
+         "(33.3)"
+        ],
+        [
+         "V Profit after Tax",
+         "1,50,000",
+         "1,00,000",
+         "(50,000)",
+         "(33.3)"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 27,
@@ -20505,7 +22415,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Comparative Statements"
+     "topic": "Comparative Statements",
+     "answer": {
+      "opt": "A",
+      "text": "Comparative Statements"
+     }
     },
     {
      "qno": 27,
@@ -20529,7 +22443,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Meaning of Analysis of Financial Statements",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "C",
+      "text": "Turnover ratios"
+     }
     },
     {
      "qno": 32,
@@ -20575,7 +22493,78 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Common Size Statement"
+     "topic": "Common Size Statement",
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Common Size Statement of Profit and Loss of CN Ltd. for the years ended 31st March, 2023 and 31st March, 2024",
+       "headers": [
+        "Particulars",
+        "2022-23 (₹)",
+        "2023-24 (₹)",
+        "2022-23 (%)",
+        "2023-24 (%)"
+       ],
+       "rows": [
+        [
+         "Revenue from Operations",
+         "20,00,000",
+         "40,00,000",
+         "100",
+         "100"
+        ],
+        [
+         "Less Expenses:",
+         "",
+         "",
+         "",
+         ""
+        ],
+        [
+         "Purchase of stock in trade",
+         "4,00,000",
+         "8,00,000",
+         "20",
+         "20"
+        ],
+        [
+         "Other expenses",
+         "2,00,000",
+         "4,00,000",
+         "10",
+         "10"
+        ],
+        [
+         "Total expenses",
+         "6,00,000",
+         "12,00,000",
+         "30",
+         "30"
+        ],
+        [
+         "Profit before tax",
+         "14,00,000",
+         "28,00,000",
+         "70",
+         "70"
+        ],
+        [
+         "Less Tax @50%",
+         "7,00,000",
+         "14,00,000",
+         "35",
+         "35"
+        ],
+        [
+         "Profit after tax",
+         "7,00,000",
+         "14,00,000",
+         "35",
+         "35"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 29,
@@ -21861,7 +23850,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Liquidity Ratios"
+     "topic": "Liquidity Ratios",
+     "answer": {
+      "opt": "B",
+      "text": "Sold goods on credit"
+     }
     },
     {
      "qno": 32,
@@ -21878,7 +23871,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Liquidity Ratios"
+     "topic": "Liquidity Ratios",
+     "answer": {
+      "text": "(a) Quick Ratio = Quick Assets / Current Liabilities. Quick Assets = Current Assets − Inventory = 4,00,000 − 1,00,000 = ₹3,00,000. Quick Ratio = 3,00,000 / 2,00,000 = 1.5 : 1.\n(b) Inventory Turnover Ratio = Cost of Revenue from Operations / Average Inventory. Cost of Revenue from Operations = Revenue from Operations − Gross Profit = 10,00,000 − 2,00,000 = ₹8,00,000. Inventory Turnover Ratio = 8,00,000 / 1,00,000 = 8 times."
+     }
     },
     {
      "qno": 28,
@@ -22157,7 +24153,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Solvency Ratios"
+     "topic": "Solvency Ratios",
+     "answer": {
+      "opt": "C",
+      "text": "Issue of debentures ₹ 6,00,000."
+     }
     },
     {
      "qno": 33,
@@ -22174,7 +24174,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Activity (or Turnover) Ratio"
+     "topic": "Activity (or Turnover) Ratio",
+     "answer": {
+      "text": "Trade payables turnover ratio = Net Credit purchases / Average Trade Payables\nTotal purchases = Cash purchases + Credit purchases\n₹15,00,000 = 1/4 Credit purchases + Credit purchases\n₹15,00,000 = 5/4 Credit Purchases\nCredit Purchases = ₹15,00,000 × 4/5 = ₹12,00,000\n4 = ₹12,00,000 / Average Trade Payables\nAverage Trade Payables = ₹3,00,000\nAverage Trade Payables = (Opening Trade Payables + Closing Trade Payables)/2\n₹3,00,000 = (Opening Trade Payables + 2 × Opening Trade Payables)/2\nOpening Trade Payables = ₹3,00,000 × 2/3 = ₹2,00,000\nClosing Trade Payables = 2 × Opening Trade Payables = 2 × ₹2,00,000 = ₹4,00,000"
+     }
     },
     {
      "qno": 33,
@@ -22192,7 +24195,10 @@
      "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Profitability Ratios",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Return on Investment = Profit before interest and tax / Capital Employed × 100\nProfit before Interest and Tax = Net profit after tax + Tax + Interest on Debentures = ₹3,00,000 + ₹1,00,000 + ₹80,000 = ₹4,80,000\nCapital employed = Shareholders' Funds + Debentures = ₹16,00,000 + ₹8,00,000 = ₹24,00,000\n(or: Capital employed = Non-Current assets + Current Assets − Current Liabilities = ₹21,00,000 + ₹5,00,000 − ₹2,00,000 = ₹24,00,000)\nReturn on investment = (₹4,80,000 / ₹24,00,000) × 100 = 20%"
+     }
     },
     {
      "qno": 27,
@@ -24020,7 +26026,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Ascertaining Cash Flow from Operating Activities"
+     "topic": "Ascertaining Cash Flow from Operating Activities",
+     "answer": {
+      "opt": "D",
+      "text": "Amount received from debtors"
+     }
     },
     {
      "qno": 30,
@@ -24043,7 +26053,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Ascertainment of Cash Flow from Investing and Financing Activities"
+     "topic": "Ascertainment of Cash Flow from Investing and Financing Activities",
+     "answer": {
+      "opt": "D",
+      "text": "No flow of cash"
+     }
     },
     {
      "qno": 30,
@@ -24067,7 +26081,11 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Ascertaining Cash Flow from Operating Activities",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "B",
+      "text": "Investing Activities"
+     }
     },
     {
      "qno": 34,
@@ -24136,7 +26154,85 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Ascertaining Cash Flow from Operating Activities"
+     "topic": "Ascertaining Cash Flow from Operating Activities",
+     "answer": {
+      "text": "Calculation of Net Profit before Tax and Extraordinary items: Surplus (Balance in Statement of P&L) 6,28,000 + Provision for Tax 1,50,000 + Proposed Dividend 72,000 = 8,50,000.",
+      "table": {
+       "caption": "Cash Flows from Operating Activities",
+       "headers": [
+        "Particulars",
+        "Details (₹)",
+        "Amount (₹)"
+       ],
+       "rows": [
+        [
+         "Net Profit before Tax and Extraordinary items",
+         "8,50,000",
+         ""
+        ],
+        [
+         "Adjustments for Non-Cash and Non-operating items:",
+         "",
+         ""
+        ],
+        [
+         "Add: Depreciation",
+         "1,40,000",
+         ""
+        ],
+        [
+         "Add: Loss on Sale of Machinery",
+         "30,000",
+         ""
+        ],
+        [
+         "Less: Gain on Sale of Investments",
+         "(20,000)",
+         ""
+        ],
+        [
+         "Less: Dividend Received on Investments",
+         "(6,000)",
+         ""
+        ],
+        [
+         "Operating profit before Working Capital changes",
+         "9,94,000",
+         ""
+        ],
+        [
+         "Add: Increase in Current Liabilities",
+         "1,61,000",
+         ""
+        ],
+        [
+         "Less: Increase in Current Assets",
+         "(6,00,000)",
+         ""
+        ],
+        [
+         "Less: Decrease in Current Liabilities",
+         "(64,000)",
+         ""
+        ],
+        [
+         "Cash generated from operations",
+         "4,91,000",
+         ""
+        ],
+        [
+         "Less: Income Tax paid",
+         "(1,18,000)",
+         ""
+        ],
+        [
+         "Net cash inflow from Operating Activities",
+         "",
+         "3,73,000"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 29,
@@ -24840,7 +26936,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Ascertaining Cash Flow from Operating Activities"
+     "topic": "Ascertaining Cash Flow from Operating Activities",
+     "answer": {
+      "opt": "B",
+      "text": "(i) and (iii)"
+     }
     },
     {
      "qno": 29,
@@ -24864,7 +26964,11 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Ascertaining Cash Flow from Operating Activities",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "opt": "C",
+      "text": "Receipt of interest and dividend will result in cash inflow from financing activities."
+     }
     },
     {
      "qno": 30,
@@ -24887,7 +26991,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Ascertainment of Cash Flow from Investing and Financing Activities"
+     "topic": "Ascertainment of Cash Flow from Investing and Financing Activities",
+     "answer": {
+      "opt": "A",
+      "text": "Both the Statements are true."
+     }
     },
     {
      "qno": 34,
@@ -24929,7 +27037,122 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Ascertainment of Cash Flow from Investing and Financing Activities"
+     "topic": "Ascertainment of Cash Flow from Investing and Financing Activities",
+     "answer": {
+      "text": "",
+      "table": [
+       {
+        "caption": "Calculation of Cash Flows from Investing Activities for the year ended 31st March, 2024",
+        "headers": [
+         "Particulars",
+         "₹"
+        ],
+        "rows": [
+         [
+          "Purchase of Machinery",
+          "(1,30,000)"
+         ],
+         [
+          "Sale of Machinery",
+          "33,000"
+         ],
+         [
+          "Net Cash used in Investing Activities",
+          "(97,000)"
+         ]
+        ]
+       },
+       {
+        "caption": "Machinery A/c",
+        "headers": [
+         "Dr. — Particulars",
+         "Amount (₹)",
+         "Cr. — Particulars",
+         "Amount (₹)"
+        ],
+        "rows": [
+         [
+          "To Balance b/d",
+          "3,00,000",
+          "By Bank/Cash A/c",
+          "33,000"
+         ],
+         [
+          "To Statement of Profit & Loss – Profit on sale",
+          "3,000",
+          "By Accumulated Depreciation A/c",
+          "20,000"
+         ],
+         [
+          "To Bank/Cash A/c (Balancing figure)",
+          "1,30,000",
+          "By Balance c/d",
+          "3,80,000"
+         ],
+         [
+          "Total",
+          "4,33,000",
+          "Total",
+          "4,33,000"
+         ]
+        ]
+       },
+       {
+        "caption": "Accumulated Depreciation A/c",
+        "headers": [
+         "Dr. — Particulars",
+         "Amount (₹)",
+         "Cr. — Particulars",
+         "Amount (₹)"
+        ],
+        "rows": [
+         [
+          "To Machinery A/c",
+          "20,000",
+          "By Balance b/d",
+          "45,000"
+         ],
+         [
+          "To Balance c/d",
+          "62,000",
+          "By Depreciation A/c",
+          "37,000"
+         ],
+         [
+          "Total",
+          "82,000",
+          "Total",
+          "82,000"
+         ]
+        ]
+       },
+       {
+        "caption": "Calculation of Cash Flows from Financing Activities for the year ended 31st March, 2024",
+        "headers": [
+         "Particulars",
+         "₹"
+        ],
+        "rows": [
+         [
+          "Issue of Equity Shares (including premium of ₹40,000)",
+          "4,40,000"
+         ],
+         [
+          "Redemption of 11% Debentures",
+          "(1,00,000)"
+         ],
+         [
+          "Interest paid on debentures",
+          "(40,000)"
+         ],
+         [
+          "Net Cash flows from Financing Activities",
+          "3,00,000"
+         ]
+        ]
+       }
+      ]
+     }
     },
     {
      "qno": 28,
