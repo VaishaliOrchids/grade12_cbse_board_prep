@@ -1332,7 +1332,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Coordination - The Essence of Management"
+     "topic": "Coordination - The Essence of Management",
+     "answer": {
+      "opt": "B",
+      "text": "Coordination"
+     }
     },
     {
      "qno": 28,
@@ -1349,7 +1353,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Levels of Management"
+     "topic": "Levels of Management",
+     "answer": {
+      "text": "(a) Shreedar - Top Level; Mukesh - Top Level.\n(b) Functions required to be performed by both at the level of management they are working (any three): They have to integrate diverse elements and coordinate the activities of different departments according to the overall objectives of the organisation. They are responsible for the welfare and survival of the organization. They analyse the business environment and its implications for the survival of the firm. They formulate overall organisational goals and strategies for their achievement. They are responsible for all the activities of the business and for its impact on society."
+     }
     },
     {
      "qno": 2,
@@ -1372,7 +1379,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Characteristics of Management"
+     "topic": "Characteristics of Management",
+     "answer": {
+      "opt": "C",
+      "text": "Management is an intangible force."
+     }
     },
     {
      "qno": 30,
@@ -1389,7 +1400,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Objectives of Management"
+     "topic": "Objectives of Management",
+     "answer": {
+      "text": "Objectives of management highlighted in the above case:\n(a) Organisational objectives: The main objective of any organization should be to utilize human and material resources to the maximum possible advantage to fulfil the economic objectives of a business. These are: Survival, Profit and Growth.\n(i) In order to survive, an organisation must earn enough revenues to cover costs.\n(ii) Profit provides vital incentive and is essential for covering costs and risks of the business.\n(iii) A business needs to add to its prospects in the long run, hence management must exploit fully the growth potential of the organisation to remain in the industry.\n(b) Social objectives involve consistently creating economic value for various constituents of society by using environmental friendly methods of production, providing employment opportunities, etc."
+     }
     },
     {
      "qno": 9,
@@ -2626,7 +2640,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Nature of Principles of Management"
+     "topic": "Nature of Principles of Management",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 5,
@@ -2649,7 +2667,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Fayol's Principles of Management"
+     "topic": "Fayol's Principles of Management",
+     "answer": {
+      "opt": "B",
+      "text": "Discipline"
+     }
     },
     {
      "qno": 7,
@@ -2672,7 +2694,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Techniques of Scientific Management"
+     "topic": "Techniques of Scientific Management",
+     "answer": {
+      "opt": "C",
+      "text": "It is an extension of the principle of unity of command to the shop floor."
+     }
     },
     {
      "qno": 26,
@@ -2689,7 +2715,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Fayol's Principles of Management"
+     "topic": "Fayol's Principles of Management",
+     "answer": {
+      "text": "Principles of management not followed in 'RK Hair and Beauty Salon' (any two):\n1. Division of work: The principle of Division of work suggests that work can be performed more efficiently if it is divided into specialized tasks. The intent of division of work is to produce more and better work for the same effort. A trained specialist who is competent, is required to perform each job leading to specialisation. This results in efficient and effective output.\n2. Stability of Personnel: Selected employees should be kept at their post/position for a minimum fixed tenure and should be given reasonable time to show results. Any adhocism in this regard will create instability among employees and this increases the cost of recruitment, selection and training.\n3. Order: The principle of order states that 'a place for everything (everyone) and everything (everyone) in its (her/his) place'. If there is a fixed place for everything and it is present there, then this will result in increased productivity and efficiency."
+     }
     },
     {
      "qno": 31,
@@ -2706,7 +2735,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Principles of Scientific Management"
+     "topic": "Principles of Scientific Management",
+     "answer": {
+      "text": "Principles of Scientific Management:\n(i) Science, not Rule of Thumb: It states that there is only one best method to maximise efficiency, which can be developed through work study and analysis. This best method should substitute 'Rule of Thumb' throughout the organisation. Scientific method involves unifying the best practices and developing a standard method to be followed throughout the organisation.\n(ii) Harmony, not Discord: This principle emphasises that there should be complete harmony between the management and the workers. Both should realise that each one is important. There should be complete mental revolution on the part of both management and workers and both should transform their thinking. Management should share the gains of the company, if any, with the workers. At the same time, workers should work hard and be willing to embrace change for the good of the company.\n(iii) Development of Each and Every Person to His or Her Greatest Efficiency and Prosperity: It states that each person should be scientifically selected and assigned work to suit their physical, mental and intellectual capabilities. To increase efficiency of the workers, they should be trained to learn the best method developed through scientific study. Efficient employees would produce more and earn more. This will ensure greatest efficiency and prosperity for both the company and the workers."
+     }
     },
     {
      "qno": 31,
@@ -2724,7 +2756,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Nature of Principles of Management",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Features of principles of management:\n(i) Universal applicability: The principles of management are intended to apply to all types of organisations, business as well as non-business, small as well as large, etc. However, the extent of their applicability would vary with the nature of the organisation, business activity, scale of operations, etc.\n(ii) Cause and effect relationships: The principles of management are intended to establish relationship between cause and effect so that they can be used in similar situations in a large number of cases. The principles of management are less than perfect since they mainly apply to human behaviour and in real life, situations are not identical, so accurate cause and effect relationships may be difficult to establish.\n(iii) General guidelines: The principles are guidelines to action but do not provide readymade solutions to all managerial problems. This is so because real business situations are very complex and dynamic and are a result of many factors."
+     }
     },
     {
      "qno": 2,
@@ -3976,7 +4011,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Dimensions of Business Environment"
+     "topic": "Dimensions of Business Environment",
+     "answer": {
+      "opt": "A",
+      "text": "Political environment"
+     }
     },
     {
      "qno": 22,
@@ -3993,7 +4032,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Business Environment - Concept and Features"
+     "topic": "Business Environment - Concept and Features",
+     "answer": {
+      "text": "Two features of Business Environment highlighted in the case:\n1. Interrelatedness: Different elements or parts of business environment are closely interrelated. Increase in awareness of different products or services may lead to increase in demand of certain products or services and they in turn change people's lifestyles.\n2. Dynamic: Business environment is dynamic as it keeps on changing. It can be in terms of technological improvement, shifts in consumer preferences or entry of new competition in the market."
+     }
     },
     {
      "qno": 6,
@@ -4016,7 +4058,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Dimensions of Business Environment"
+     "topic": "Dimensions of Business Environment",
+     "answer": {
+      "opt": "B",
+      "text": "Social environment"
+     }
     },
     {
      "qno": 14,
@@ -4039,7 +4085,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Business Environment - Concept and Features"
+     "topic": "Business Environment - Concept and Features",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 21,
@@ -4056,7 +4106,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Importance of Business Environment"
+     "topic": "Importance of Business Environment",
+     "answer": {
+      "text": "Importance of business environment (any three):\n1. It enables the firm to identify opportunities early and get the first mover advantage and be the first to exploit them instead of losing them to competitors.\n2. Environmental awareness helps the firm to identify threats and serve as early warning signals.\n3. Understanding business environment enables the enterprise in tapping useful resources so that it can convert those resources into outputs that the environment desires.\n4. It helps the managers in coping with rapid changes by understanding and examining the dynamic environment and developing suitable courses of action.\n5. It helps in assisting in planning and policy formulation by understanding and analysing the environment which becomes the basis for deciding the future course of action (planning) or framing guidelines for decision making (policy).\n6. It helps in improving performance in present and future as enterprises continuously monitor their environment and adopt suitable business practices."
+     }
     },
     {
      "qno": 21,
@@ -4074,7 +4127,10 @@
      "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Demonetisation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Features of demonetisation (any three):\n(i) Demonetisation is viewed as a tax administration measure and people with black money had to declare their unaccounted wealth and pay taxes at a penalty rate.\n(ii) Demonetisation is also interpreted as a shift on the part of the government indicating that tax evasion will no longer be tolerated or accepted.\n(iii) Demonetisation led to tax administration channelizing savings into the formal financial system.\n(iv) It creates a less-cash or cash-lite economy, thus improves tax compliance."
+     }
     },
     {
      "qno": 11,
@@ -5252,7 +5308,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Plans"
+     "topic": "Types of Plans",
+     "answer": {
+      "opt": "B",
+      "text": "Statement I is false and Statement II is true."
+     }
     },
     {
      "qno": 11,
@@ -5275,7 +5335,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Limitations of Planning"
+     "topic": "Limitations of Planning",
+     "answer": {
+      "opt": "C",
+      "text": "Planning guarantees success."
+     }
     },
     {
      "qno": 25,
@@ -5292,7 +5356,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Importance of Planning"
+     "topic": "Importance of Planning",
+     "answer": {
+      "text": "(a)(i) Planning provides direction: Planning ensures that the goals or objectives are clearly stated so that they act as a guide for deciding what action should be taken and in which direction. If goals are well defined, employees are aware of what the organisation has to do and what they must do to achieve those goals.\n(ii) Planning reduces the risk of uncertainty: Planning is an activity which enables a manager to look ahead and anticipate changes. By deciding in advance the tasks to be performed, planning shows the way to deal with changes and uncertain events. Changes or events cannot be eliminated but they can be anticipated and managerial responses to them can be developed."
+     }
     },
     {
      "qno": 25,
@@ -5310,7 +5377,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Features of Planning",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Planning is futuristic: Planning involves looking ahead and preparing for the future to meet future events effectively to the best advantage of an organisation. Planning is regarded as a forward-looking function based on forecasting future events and drawing plans accordingly.\n(ii) Planning is a mental exercise: Planning requires application of the mind involving foresight, intelligent imagination and sound judgement. It is an intellectual activity of logical thinking rather than doing, because planning determines the action to be taken based on analysis of facts and forecast."
+     }
     },
     {
      "qno": 22,
@@ -5327,7 +5397,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Features of Planning"
+     "topic": "Features of Planning",
+     "answer": {
+      "text": "(a)(i) Planning focuses on achieving objectives: Specific goals are set out in the plans along with the activities to be undertaken, to achieve the goals. Hence, planning contributes to the achievement of predetermined organizational goals.\n(ii) Planning is a mental exercise: Planning requires application of the mind involving foresight, intelligent imagination and sound judgement. It is an intellectual activity of logical thinking rather than doing, because planning determines the action to be taken."
+     }
     },
     {
      "qno": 22,
@@ -5345,7 +5418,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Types of Plans",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Strategy: A strategy refers to future decisions defining the organisation's direction and scope in the long run. It is a comprehensive plan for accomplishing organisation's objectives and involves determining long term objectives, adopting a particular course of action and allocating necessary resources. Whenever a strategy is formulated, the business environment needs to be taken into consideration.\n(ii) Policy: Policy is a general statement that guides thinking and channelizes energies towards a particular direction. It brings uniformity in decision making for achievement of predetermined objectives. It defines the broad parameters within which a manager may function. A manager may use his discretion to interpret and apply a policy."
+     }
     },
     {
      "qno": 25,
@@ -5362,7 +5438,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Planning Process"
+     "topic": "Planning Process",
+     "answer": {
+      "text": "(a) The step of the planning process highlighted in the above case is 'Developing premises'.\n(b) Next three steps to be followed by 'Mefco Ltd.' after the step identified above:\n(i) Identifying alternative courses of action, by discussing amongst the members of the organization.\n(ii) Evaluating alternative courses of action by weighing pros and cons of each alternative in the light of the objectives to be achieved.\n(iii) Selecting an alternative which is most feasible, profitable and with least negative consequences."
+     }
     },
     {
      "qno": 13,
@@ -6870,7 +6949,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Organisation Structure"
+     "topic": "Organisation Structure",
+     "answer": {
+      "opt": "C",
+      "text": "1-(iii), 2-(ii), 3-(iv), 4-(i)"
+     }
     },
     {
      "qno": 24,
@@ -6887,7 +6970,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Importance of Organising"
+     "topic": "Importance of Organising",
+     "answer": {
+      "text": "(a) Concept identified: Delegation.\n(b) Importance of Delegation (any two): Effective management; Employee development; Motivation of employees; Facilitation of growth; Basis of management hierarchy; Better coordination."
+     }
     },
     {
      "qno": 30,
@@ -6904,7 +6990,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Organisation Structure"
+     "topic": "Organisation Structure",
+     "answer": {
+      "text": "(a) Organizational structure adopted: Divisional Structure.\n(b) Advantages of Divisional Structure (any two): Product specialisation helps in the development of varied skills in a divisional head and prepares him for higher positions. It helps in fixation of responsibility in case of poor performance of the division because the divisional heads are accountable for profits. It promotes flexibility and initiative because each division functions as an autonomous unit which leads to faster decision making. It facilitates expansion and growth as new divisions can be added without interrupting the existing operations by merely adding another divisional head and staff for the new product line.\nDisadvantage of Divisional Structure (any one): Conflict may arise among different divisions with reference to allocation of funds and a particular division may seek to maximise its profits at the cost of other divisions. It may lead to increase in costs since there may be duplication of activities across products. A divisional manager may gain power for activities of his division and in a bid to assert his independence may ignore organisational interests."
+     }
     },
     {
      "qno": 5,
@@ -6927,7 +7016,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Delegation of Authority"
+     "topic": "Delegation of Authority",
+     "answer": {
+      "opt": "D",
+      "text": "Decentralisation"
+     }
     },
     {
      "qno": 32,
@@ -6944,7 +7037,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Organisation Structure"
+     "topic": "Organisation Structure",
+     "answer": {
+      "text": "(a) 'TnG' should choose divisional structure after it decided to diversify. This organisational structure comprises of separate business units or divisions, each unit having a divisional manager responsible for its performance.\nReason: Divisional structure is suitable when an organisation grows and starts manufacturing a large variety of products using different productive resources.\n(b) Advantages of divisional structure to the organization:\n(i) Divisional heads are accountable for profits, as revenues and costs related to different departments can be easily identified and assigned to them, which helps the organization in fixation of responsibility.\n(ii) It facilitates expansion and growth as new divisions can be added without interrupting the existing operations by merely adding another divisional head and staff for the new product line.\nAdvantages of divisional structure to the heads of different departments:\n(i) Product specialisation helps in the development of varied skills in a divisional head and prepares him for higher positions.\n(ii) Each division functions as an autonomous unit which helps the divisional head in faster decision making as well as promotes flexibility and initiative."
+     }
     },
     {
      "qno": 14,
@@ -8584,7 +8680,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Recruitment"
+     "topic": "Recruitment",
+     "answer": {
+      "text": "(a)(i) Transfers: It involves shifting of an employee from one job to another, one department to another or from one shift to another, without a substantive change in the responsibilities, status and salary of the employee. Transfer is useful for filling the vacancies with employees from overstaffed departments. It can also be used for training of employees for learning different jobs.\n(ii) Promotions: It leads to shifting of an employee to a higher position carrying higher responsibilities, facilities, status and pay. This practice helps to improve the motivation, loyalty and satisfaction level of employees. Promotions at a higher level leads to a chain of promotions at lower levels in the organisation."
+     }
     },
     {
      "qno": 23,
@@ -8602,7 +8701,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Training and Development",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b)(i) Internship training: It is a joint programme of training in which educational institutions and business firms cooperate. Selected candidates carry on regular studies for the prescribed period in an educational institute. To acquire practical knowledge and skills, they work in a factory or office.\n(ii) Vestibule training: In this method, training is conducted away from the actual work floor. Actual work environments are created in a class room and employees use the same materials, files and equipment. This is usually done when employees are required to handle sophisticated machinery and equipment."
+     }
     },
     {
      "qno": 7,
@@ -8625,7 +8727,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Selection Process"
+     "topic": "Selection Process",
+     "answer": {
+      "opt": "C",
+      "text": "1-(iv), 2-(iii), 3-(ii), 4-(i)"
+     }
     },
     {
      "qno": 11,
@@ -8648,7 +8754,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Selection Process"
+     "topic": "Selection Process",
+     "answer": {
+      "opt": "A",
+      "text": "Employment interview, reference and background checks, selection decision, medical examination, job offer, contract of employment"
+     }
     },
     {
      "qno": 20,
@@ -8671,7 +8781,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Training and Development"
+     "topic": "Training and Development",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statement I and Statement II are true."
+     }
     },
     {
      "qno": 26,
@@ -8688,7 +8802,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Staffing Process"
+     "topic": "Staffing Process",
+     "answer": {
+      "text": "Steps of the staffing process discussed in the above case:\n(a) Recruitment is a process of searching for prospective employees and stimulating them to apply for jobs in the organisation in order to create a pool of the prospective job candidates.\n(b) Selection is the process of choosing the most suitable candidate from the pool of prospective candidates, in order to ensure that the organisation gets the best among available candidates.\n(c) Placement and Orientation refer to employee occupying the post for which he has been selected and introducing the selected employees to his seniors, subordinates and colleagues as well as familiarising him with the rules and policies of the organisation.\n(d) Performance appraisal involves evaluation of an employee's current/past performance as against certain predetermined standards and providing feedback."
+     }
     },
     {
      "qno": 26,
@@ -10368,7 +10485,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Directing - Concept, Features and Importance"
+     "topic": "Directing - Concept, Features and Importance",
+     "answer": {
+      "opt": "D",
+      "text": "It establishes standards for controlling."
+     }
     },
     {
      "qno": 17,
@@ -10391,7 +10512,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Motivation"
+     "topic": "Motivation",
+     "answer": {
+      "opt": "D",
+      "text": "Retirement benefits"
+     }
     },
     {
      "qno": 29,
@@ -10408,7 +10533,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Motivation"
+     "topic": "Motivation",
+     "answer": {
+      "text": "(a) Features of 'Motivation' as an element of Directing (any four):\n(i) Motivation is an internal feeling because the urge, drives, desires, aspirations, striving or needs of human being influence human behaviour.\n(ii) Motivation produces goal directed behaviour, with the objective of improving employees performance.\n(iii) Motivation can be either positive like increase in pay, promotion, etc. or negative like punishment, stopping increments, etc.\n(iv) Motivation is a complex process as any type of motivation may not have uniform effect on all the members because they are heterogeneous in their expectations, perceptions and reactions."
+     }
     },
     {
      "qno": 29,
@@ -10426,7 +10554,10 @@
      "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Motivation",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(c) Job enrichment: It is concerned with designing jobs that include a greater variety of work content, require higher level of knowledge and skill, gives workers more autonomy and responsibility and provides opportunity for personal growth. If jobs are enriched and made interesting, the job itself becomes a source of motivation to the individual.\nEmployee participation: It refers to involving employees in decision-making of the issues related to them. Employee participation may be in the form of joint management committees, work committees, etc."
+     }
     },
     {
      "qno": 31,
@@ -10443,7 +10574,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "Motivation"
+     "topic": "Motivation",
+     "answer": {
+      "text": "(a) Element identified: Communication. Communication is the process of transferring information from the sender to the receiver with the information being understood by the receiver.\n(b) Elements of Communication (any four):\n1. Sender - 'Sara shared her thoughts and ideas with her father.'\n2. Message - 'The proposal contained her ideas, feelings and suggestions which she intended to convey to the government.'\n3. Encoding - 'She then converted her ideas, feelings and suggestions into words and pictures.' or 'She used clear concise language and visual aids such as charts and graphs, to make complex information more understandable.'\n4. Media - 'Sara had a face-to-face meeting'\n5. Receiver - 'Sara.......with the government'\n(c) Three other elements of Communication: Decoding is the process of converting encoded symbols of the sender. Feedback includes actions/response of the receiver on receiving and understanding the message of the sender. Noise means some obstruction or hindrance caused to sender, message or receiver in the process of communication."
+     }
     },
     {
      "qno": 23,
@@ -10460,7 +10594,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Communication"
+     "topic": "Communication",
+     "answer": {
+      "text": "(a) The element in the communication process that led to Shrinivas missing out on important points discussed in the meeting is Noise. Noise means some obstruction or hindrance caused to sender, message or receiver in the process of communication.\n(b) Other elements of the communication process (any two):\n(i) Sender is the person who conveys his thoughts or ideas to the receiver.\n(ii) Message is the content of ideas, feelings, suggestions, order etc., intended to be communicated.\n(iii) Encoding is the process of converting the message into communication symbols such as words, pictures, gestures etc.\n(iv) Media is the path through which encoded message is transmitted to receiver.\n(v) Decoding is the process of converting encoded symbols of the sender.\n(vi) Receiver is the person who receives communication of the sender.\n(vii) Feedback includes all those actions of receiver indicating that he has received and understood message of the sender."
+     }
     },
     {
      "qno": 27,
@@ -10477,7 +10614,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Motivation"
+     "topic": "Motivation",
+     "answer": {
+      "text": "Organisational Climate: It indicates the characteristics which describe an organisation and distinguish one organisation from the other. Individual autonomy, reward orientation, consideration to employees, risk-taking, etc. are the characteristics which help in developing better organisational climate.\nEmployee Recognition: It means acknowledging and appreciating the work performed by the employees by congratulating them, giving them awards etc. When such appreciation is given to the work performed by employees, they feel motivated to perform/work at higher level."
+     }
     },
     {
      "qno": 27,
@@ -10495,7 +10635,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Communication",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Psychological barriers to effective communication (any two with suitable explanation):\n(i) Premature evaluation\n(ii) Lack of attention\n(iii) Loss by transmission and poor retention\n(iv) Distrust"
+     }
     },
     {
      "qno": 28,
@@ -10512,7 +10655,10 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Motivation"
+     "topic": "Motivation",
+     "answer": {
+      "text": "Features of 'Motivation' as an element of Directing (any four):\n(i) Motivation is an internal feeling because the urge, drives, desires, aspirations, striving or needs of human being influence human behaviour.\n(ii) Motivation produces goal directed behaviour, with the objective of improving employees' performance.\n(iii) Motivation can be either positive like increase in pay, promotion, recognition etc. or negative like punishment, stopping increments, threatening etc.\n(iv) Motivation is a complex process as any type of motivation may not have uniform effect on all the members because they are heterogeneous in their expectations, perceptions and reactions."
+     }
     },
     {
      "qno": 28,
@@ -10530,7 +10676,10 @@
      "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Directing - Concept, Features and Importance",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Importance of Directing function (any four):\n(i) Directing helps to initiate action by people in the organisation towards attainment of desired objectives by guiding the people and clarifying the doubts in performing a task.\n(ii) Directing integrates employees' efforts in the organisation in such a way that every individual effort contributes to the organisational performance.\n(iii) Directing guides employees to fully realise their potential and capabilities by motivating and providing effective leadership.\n(iv) Directing facilitates introduction of needed changes in the organisation by reducing resistance to change through motivation, communication and leadership.\n(v) Effective directing helps to bring stability and balance in the organisation by fostering cooperation and commitment among the people."
+     }
     },
     {
      "qno": 4,
@@ -11757,7 +11906,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Relationship between Planning and Controlling"
+     "topic": "Relationship between Planning and Controlling",
+     "answer": {
+      "opt": "C",
+      "text": "Both Statement I and Statement II are true."
+     }
     },
     {
      "qno": 20,
@@ -11780,7 +11933,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Controlling Process"
+     "topic": "Controlling Process",
+     "answer": {
+      "opt": "A",
+      "text": "Taking corrective action"
+     }
     },
     {
      "qno": 21,
@@ -11797,7 +11954,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Importance of Controlling"
+     "topic": "Importance of Controlling",
+     "answer": {
+      "text": "(a)(i) Ensuring order and discipline: Controlling creates an atmosphere of order and discipline in the organisation. It helps to minimise dishonest behaviour on the part of the employees by keeping a close check on their activities.\n(ii) Judging accuracy of standards: Controlling enables management to verify whether the standards set are accurate and objective. It keeps a careful check on the changes taking place in the organisation and in the environment and helps to review and revise the standards in light of such changes."
+     }
     },
     {
      "qno": 21,
@@ -11815,7 +11975,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Importance of Controlling",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Importance of 'Staffing' function of management (any three):\nIt helps in discovering and obtaining competent personnel for various jobs.\nIt makes for higher performance by putting right person on the right job.\nIt ensures the continuous survival and growth of the enterprise through the succession planning for managers.\nIt helps to ensure optimum utilisation of the human resources by avoiding overmanning and the shortages of personnel.\nIt improves job satisfaction and morale of employees through objective assessment and fair reward for their contribution."
+     }
     },
     {
      "qno": 3,
@@ -11838,7 +12001,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Controlling Process"
+     "topic": "Controlling Process",
+     "answer": {
+      "opt": "B",
+      "text": "Statement I is false and Statement II is true."
+     }
     },
     {
      "qno": 10,
@@ -11861,7 +12028,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Importance of Controlling"
+     "topic": "Importance of Controlling",
+     "answer": {
+      "opt": "D",
+      "text": "Ensuring order and discipline"
+     }
     },
     {
      "qno": 17,
@@ -13661,7 +13832,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Capital Structure"
+     "topic": "Capital Structure",
+     "answer": {
+      "opt": "A",
+      "text": "Trading on equity"
+     }
     },
     {
      "qno": 32,
@@ -13678,7 +13853,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Working Capital"
+     "topic": "Working Capital",
+     "answer": {
+      "text": "(a)(i) Nature of business: A trading organisation needs a smaller amount of working capital as compared to a manufacturing organization as there is no processing. In a manufacturing business, higher working capital is required as raw material needs to be converted into finished goods before any sales become possible. Service industries which do not have to maintain inventory require less working capital.\n(ii) Credit availed: Just as a firm allows credit to its customers it also may get credit from its suppliers. To the extent it avails the credit on purchases, the working capital requirement is reduced.\n(iii) Operating efficiency: Firms manage their operations with varied degrees of efficiency in managing raw material, sales etc. Operating efficiency reduces the level of raw materials, finished goods and debtors resulting in lower requirement of working capital.\n(iv) Seasonal factors: In peak season, because of higher level of activity, larger amount of working capital is required by the business. As against this, the level of activity as well as the requirement for working capital will be lower during the lean season by the business."
+     }
     },
     {
      "qno": 32,
@@ -13696,7 +13874,55 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Financial Decisions",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "",
+      "table": {
+       "caption": "Difference between Money Market and Capital Market (any six)",
+       "headers": [
+        "Basis",
+        "Money Market",
+        "Capital Market"
+       ],
+       "rows": [
+        [
+         "Participants",
+         "The participants are RBI, banks, Financial Institutions, State Governments, Corporate Houses.",
+         "The participants are Financial Institutions, banks, corporate entities, foreign investors and retail investors."
+        ],
+        [
+         "Instruments traded",
+         "Instruments traded are Treasury bills, Call money, Certificate of deposit, Commercial paper, Commercial bill.",
+         "Instruments traded are shares, debentures and bonds."
+        ],
+        [
+         "Investment Outlay",
+         "Investment Outlay is large.",
+         "Investment Outlay is small."
+        ],
+        [
+         "Duration",
+         "It deals in short term securities.",
+         "It deals in medium and long term securities."
+        ],
+        [
+         "Liquidity",
+         "Money market instruments enjoy a higher degree of liquidity as DFHI provides a ready market for these instruments.",
+         "Capital market instruments are less liquid as a share may not be actively traded on stock exchange."
+        ],
+        [
+         "Safety",
+         "Money market is much safer with a minimum risk of default.",
+         "Capital market instruments are riskier."
+        ],
+        [
+         "Expected returns",
+         "The investment in money market yields a lesser return for investors.",
+         "The investment in capital market generally yields a higher return for investors."
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 33,
@@ -13713,7 +13939,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Fixed Capital"
+     "topic": "Fixed Capital",
+     "answer": {
+      "text": "Factors affecting the fixed capital requirement of 'Sankalp Builders' (any four):\n1. Nature of business: A trading concern needs a lower investment in fixed assets as compared to a manufacturing concern since it doesn't require to purchase plant and machinery.\n2. Scale of Operations: A larger organisation operating at a higher scale needs bigger plant, more space etc. and therefore, requires higher investment in fixed assets when compared with the small organisation.\n3. Technology Upgradation: In industries where assets become obsolete sooner, higher investment in fixed assets would be required.\n4. Financing Alternatives: Availability of leasing facilities, may reduce the funds required to be invested in fixed assets, thereby reducing the fixed capital requirements.\n5. Diversification: A firm may choose to diversify its operations which results in increase in fixed capital requirements."
+     }
     },
     {
      "qno": 4,
@@ -13736,7 +13965,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Capital Structure"
+     "topic": "Capital Structure",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 16,
@@ -13759,7 +13992,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Capital Structure"
+     "topic": "Capital Structure",
+     "answer": {
+      "opt": "C",
+      "text": "The proportion of equity in the overall capital is called financial leverage."
+     }
     },
     {
      "qno": 17,
@@ -13782,7 +14019,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Investment Decision (Capital Budgeting)"
+     "topic": "Investment Decision (Capital Budgeting)",
+     "answer": {
+      "opt": "A",
+      "text": "Investment criteria involved"
+     }
     },
     {
      "qno": 19,
@@ -13805,7 +14046,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Fixed Capital"
+     "topic": "Fixed Capital",
+     "answer": {
+      "opt": "D",
+      "text": "1, 2 and 4"
+     }
     },
     {
      "qno": 24,
@@ -13822,7 +14067,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Financial Decisions"
+     "topic": "Financial Decisions",
+     "answer": {
+      "text": "(a) Calculation of Earning Per Share:\nCapital employed: Amrit Ltd. Rs.80 lakhs; Nimrit Ltd. Rs.80 lakhs.\nEquity share capital: Amrit Ltd. Rs.40 lakhs (40,000 shares @Rs.100 each); Nimrit Ltd. Rs.80 lakhs (80,000 shares @Rs.100 each).\n6% Debt: Amrit Ltd. Rs.40 lakhs; Nimrit Ltd. nil.\nROI: 10% for both.\nEarnings Before Interest and Tax (EBIT): Rs.8,00,000 for both.\nLess: Interest on debt (6%): Amrit Ltd. Rs.2,40,000; Nimrit Ltd. nil.\nEarnings Before Tax (EBT): Amrit Ltd. Rs.5,60,000; Nimrit Ltd. Rs.8,00,000.\nLess: Tax @50%: Amrit Ltd. Rs.2,80,000; Nimrit Ltd. Rs.4,00,000.\nEarnings After Tax (EAT): Amrit Ltd. Rs.2,80,000; Nimrit Ltd. Rs.4,00,000.\nEarning Per Share (EPS) = EAT/Number of equity shares: Amrit Ltd. Rs.7 per share (2,80,000/40,000); Nimrit Ltd. Rs.5 per share (4,00,000/80,000).\n(If an examinee has shown calculations in any other way, full credit should be given)\n(b) Amrit Ltd has better Earning Per Share as compared with Nimrit Ltd. The use of debt by Amrit Ltd. has increased the EPS because ROI of Amrit Ltd. is 10%, which is greater than its rate of interest on debt (6%)."
+     }
     },
     {
      "qno": 33,
@@ -13839,7 +14087,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Working Capital"
+     "topic": "Working Capital",
+     "answer": {
+      "text": "Factors affecting requirements of working capital of a company:\n(i) Nature of business: A trading organisation usually needs a smaller amount of working capital as compared to a manufacturing organisation because there is usually no processing. Service industries which usually do not have to maintain inventory require less working capital.\n(ii) Inflation: With rising prices, larger amounts are required even to maintain a constant volume of production and sales. The working capital requirement of a business becomes higher with higher rate of inflation.\n(iii) Seasonal factors: In peak season, because of higher level of activity, larger amount of working capital is required by the business. As against this, the level of activity as well as the requirement for working capital will be lower during the lean season by the business.\n(iv) Growth prospects: If the growth potential of a concern is higher, it will require larger amount of working capital. This is to enable it to meet higher production and sales target whenever required."
+     }
     },
     {
      "qno": 33,
@@ -13857,7 +14108,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Dividend Decision",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Factors affecting dividend decisions of a company:\n(i) Stability of dividend: Companies generally follow a policy of stabilising dividend per share. The increase in dividends is generally made when there is confidence that their earning potential has gone up and not just the earnings of the current year.\n(ii) Shareholders' preference: If the shareholders desire that at least a certain amount is paid as dividend, in general the companies are likely to declare the same. There are always some shareholders who depend upon a regular income from their investments.\n(iii) Access to capital market: Large and reputed companies depend less on retained earnings to finance their growth as they have easy access to the capital market. Such companies pay higher dividends than the smaller companies which have relatively low access to the market.\n(iv) Legal constraints: Certain provisions of the Companies Act place restrictions on payouts as dividend. Such provisions must be adhered to while declaring the dividend."
+     }
     },
     {
      "qno": 12,
@@ -16091,7 +16345,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Stock Exchange"
+     "topic": "Stock Exchange",
+     "answer": {
+      "opt": "A",
+      "text": "(iii), (i), (iv), (ii)"
+     }
     },
     {
      "qno": 19,
@@ -16114,7 +16372,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Securities and Exchange Board of India (SEBI)"
+     "topic": "Securities and Exchange Board of India (SEBI)",
+     "answer": {
+      "opt": "A",
+      "text": "Registration of brokers and sub-brokers and other players in the market"
+     }
     },
     {
      "qno": 1,
@@ -16137,7 +16399,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Securities and Exchange Board of India (SEBI)"
+     "topic": "Securities and Exchange Board of India (SEBI)",
+     "answer": {
+      "opt": "B",
+      "text": "Training of intermediaries of securities market"
+     }
     },
     {
      "qno": 13,
@@ -16160,7 +16426,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Securities and Exchange Board of India (SEBI)"
+     "topic": "Securities and Exchange Board of India (SEBI)",
+     "answer": {
+      "opt": "B",
+      "text": "Stock Exchange"
+     }
     },
     {
      "qno": 7,
@@ -18377,7 +18647,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Functions of Marketing"
+     "topic": "Functions of Marketing",
+     "answer": {
+      "opt": "A",
+      "text": "gathering and analysing market information"
+     }
     },
     {
      "qno": 14,
@@ -18400,7 +18674,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Product"
+     "topic": "Product",
+     "answer": {
+      "opt": "A",
+      "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+     }
     },
     {
      "qno": 27,
@@ -18417,7 +18695,30 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Marketing Management Philosophies"
+     "topic": "Marketing Management Philosophies",
+     "answer": {
+      "text": "(a) Marketing management philosophy followed by 'BNG Ltd.' is Production philosophy. It is based on the belief that profits could be maximised by producing at large scale to reduce the average cost of production, thereby making the goods affordable and widely available.\nMarketing management philosophy followed by 'KMV Ltd.' is Product philosophy. It is based on the belief that profits could be maximised by bringing continuous improvement in the product quality and adding new features in the product.",
+      "table": {
+       "caption": "Difference between Production Philosophy and Product Philosophy",
+       "headers": [
+        "Basis",
+        "Production Philosophy",
+        "Product Philosophy"
+       ],
+       "rows": [
+        [
+         "Main focus",
+         "Its main focus is on quantity of the product.",
+         "Its main focus is on quality of product, performance and features of product."
+        ],
+        [
+         "Ends",
+         "Its objective is to earn profit through volume of production.",
+         "Its objective is to earn profit through product quality."
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 34,
@@ -18434,7 +18735,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Physical Distribution (Place)"
+     "topic": "Physical Distribution (Place)",
+     "answer": {
+      "text": "(a) Four major components of physical distribution: Order Processing, Transportation, Warehousing, Inventory Control."
+     }
     },
     {
      "qno": 34,
@@ -18452,7 +18756,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Promotion",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Four communication tools used by the marketers to inform and persuade customers about their firm's products: Advertising, Personal Selling, Sales Promotion, Public Relations."
+     }
     },
     {
      "qno": 9,
@@ -18475,7 +18782,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Functions of Marketing"
+     "topic": "Functions of Marketing",
+     "answer": {
+      "opt": "D",
+      "text": "Packaging and labelling"
+     }
     },
     {
      "qno": 29,
@@ -18492,7 +18803,35 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "Marketing Management Philosophies"
+     "topic": "Marketing Management Philosophies",
+     "answer": {
+      "text": "(a) 'Reliable Appliances' used 'Production' marketing management philosophy and 'Modern Appliances' used 'Product' marketing management philosophy.",
+      "table": {
+       "caption": "Difference between Production Philosophy and Product Philosophy",
+       "headers": [
+        "Bases",
+        "Production philosophy",
+        "Product philosophy"
+       ],
+       "rows": [
+        [
+         "Main focus",
+         "Its main focus is on quantity of product.",
+         "Its main focus is on quality, performance and features of product."
+        ],
+        [
+         "Means",
+         "According to this philosophy, products are to be made available at an affordable price.",
+         "According to this philosophy, product improvements are key to success."
+        ],
+        [
+         "Ends",
+         "Its objective is to earn profit through volume of production.",
+         "Its objective is to earn profit through product quality."
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 34,
@@ -18509,7 +18848,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "Marketing Mix"
+     "topic": "Marketing Mix",
+     "answer": {
+      "text": "Elements of marketing mix (any three):\nProduct/Product mix: Quote: 'The company offers customized exclusive services to ultra wealthy clients such as making restaurant reservations, booking private jets, arranging tickets for shows, etc.' Product means goods or services or 'anything of value', which is offered to the market for sale. It relates to decisions regarding planning, designing and developing the right type of products and services for the consumers. It includes branding, labelling and packaging.\nPrice/Price mix: Quote: 'Ramneek Bros. charges premium prices for their services reflecting the exclusive and top quality offerings they provide.' Price is the amount of money customers have to pay to obtain the product. It involves decisions regarding the basic price of the product, discount to customers, traders, credit terms etc.\nPlace/Physical Distribution mix: Quote: 'The company also provides a mobile app allowing their clients to access and request for services from anywhere in the world.' Place or Physical Distribution include activities that make firm's products available to the target customers. It includes decisions like selection of dealers or intermediaries (channels of distribution), providing support to the intermediaries, managing inventory, storage and warehousing and transportation of goods from the place it is produced to the place it is required by the buyers.\nPromotion/Promotion mix: Quote: '...Ramneek Bros. advertises in high class magazines and depends upon word of mouth recommendations from existing clients.' Promotion refers to communicating availability, features, merits, etc. of the products and services to the target customers and persuading them to buy it. It uses a combination of promotional tools such as advertising, personal selling and sales promotion techniques."
+     }
     },
     {
      "qno": 6,
@@ -19706,7 +20048,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Consumer Rights"
+     "topic": "Consumer Rights",
+     "answer": {
+      "opt": "B",
+      "text": "Right to seek redressal"
+     }
     },
     {
      "qno": 10,
@@ -19729,7 +20075,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Consumer Responsibilities"
+     "topic": "Consumer Responsibilities",
+     "answer": {
+      "opt": "B",
+      "text": "Ask for a Cash Memo on purchase of goods and services."
+     }
     },
     {
      "qno": 18,
@@ -19752,7 +20102,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Consumer Protection Act, 2019 - Redressal Machinery"
+     "topic": "Consumer Protection Act, 2019 - Redressal Machinery",
+     "answer": {
+      "opt": "A",
+      "text": "District Commission"
+     }
     },
     {
      "qno": 8,
@@ -19775,7 +20129,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Consumer Rights"
+     "topic": "Consumer Rights",
+     "answer": {
+      "opt": "C",
+      "text": "Right to safety"
+     }
     },
     {
      "qno": 12,
@@ -19798,7 +20156,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Consumer Protection Act, 2019 - Redressal Machinery"
+     "topic": "Consumer Protection Act, 2019 - Redressal Machinery",
+     "answer": {
+      "opt": "C",
+      "text": "Due to widespread ignorance of consumers about their rights and reliefs available to them, it becomes necessary to educate them about the same, so as to achieve consumer awareness."
+     }
     },
     {
      "qno": 15,
@@ -19821,7 +20183,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Consumer Protection Act, 2019 - Redressal Machinery"
+     "topic": "Consumer Protection Act, 2019 - Redressal Machinery",
+     "answer": {
+      "opt": "A",
+      "text": "45 days"
+     }
     },
     {
      "qno": 18,
@@ -19844,7 +20210,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Consumer Responsibilities"
+     "topic": "Consumer Responsibilities",
+     "answer": {
+      "opt": "B",
+      "text": "Learn about the risks associated with products and services, follow manufacturer’s instructions and use the product safely."
+     }
     },
     {
      "qno": 1,

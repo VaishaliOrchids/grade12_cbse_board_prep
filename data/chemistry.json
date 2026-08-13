@@ -8612,7 +8612,7 @@
      "difficulty": "Average",
      "topic": "Isomerism in Coordination Compounds",
      "answer": {
-      "text": "(a) $[Co(en)_2Cl_2]^+$ shows cis–trans (geometrical) isomerism:\n– cis isomer: the two $Cl$ ligands occupy adjacent positions; it is optically active (its mirror image is non-superimposable).\n– trans isomer: the two $Cl$ ligands occupy opposite positions; it is optically inactive because its mirror image is superimposable.\n(b) The hybridisation is $sp^3d^2$ and the complex is paramagnetic."
+      "text": "$[Co(en)_2Cl_2]^{2+}$ shows cis–trans (geometrical) isomerism:\n– cis isomer: the two $Cl$ ligands occupy adjacent positions.\n– trans isomer: the two $Cl$ ligands occupy opposite positions.\nThe trans isomer is NOT optically active, because it has a plane of symmetry — its mirror image is superimposable on itself."
      }
     },
     {
@@ -8631,7 +8631,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Bonding in Coordination Compounds",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "For $[CoF_6]^{3-}$: $F^-$ is a weak field ligand, so it does not pair up the $d$ electrons of $Co^{3+}$ ($3d^6$).\nHybridisation: $sp^3d^2$ (outer orbital complex).\nMagnetic behaviour: paramagnetic (four unpaired electrons)."
+     }
     },
     {
      "qno": 12,

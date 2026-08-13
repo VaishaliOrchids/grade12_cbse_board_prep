@@ -354,7 +354,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Functions"
+     "topic": "Types of Functions",
+     "answer": {
+      "opt": "A",
+      "text": "one-one but not onto"
+     }
     },
     {
      "qno": 32,
@@ -371,7 +375,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Types of Relations"
+     "topic": "Types of Relations",
+     "answer": {
+      "text": "For reflexive : clearly $x + x$, i.e. $2x$, is an integer divisible by $2$.\n$\\Rightarrow (x, x) \\in R \\Rightarrow R$ is reflexive.\nFor symmetric : $(x, y) \\in R \\Rightarrow x + y$ is an integer divisible by $2$.\n$\\Rightarrow y + x$ is an integer divisible by $2 \\Rightarrow (y, x) \\in R$, so $R$ is symmetric.\nFor transitive : $(x, y) \\in R \\Rightarrow x + y$ is an integer divisible by $2$,\nand $(y, z) \\in R \\Rightarrow y + z$ is an integer divisible by $2$.\nso, $(x + z) + 2y$ is an integer divisible by $2$.\n$\\Rightarrow x + z$ is an integer divisible by $2 \\Rightarrow (x, z) \\in R$, so $R$ is transitive.\nHence $R$ is an equivalence relation.\nEquivalence class $[2] = \\{-4, -2, 0, 2, 4\\}$"
+     }
     },
     {
      "qno": 19,
@@ -396,7 +403,11 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Composition of Functions and Invertible Function"
+     "topic": "Composition of Functions and Invertible Function",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 33,
@@ -1255,7 +1266,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Properties of Inverse Trigonometric Functions"
+     "topic": "Properties of Inverse Trigonometric Functions",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 24,
@@ -1500,7 +1515,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Basic Concepts"
+     "topic": "Basic Concepts",
+     "answer": {
+      "text": "$\\sec^2\\left(\\tan^{-1}\\dfrac{1}{2}\\right) + \\operatorname{cosec}^2\\left(\\cot^{-1}\\dfrac{1}{3}\\right)$\n$= \\left[1 + \\tan^2\\left(\\tan^{-1}\\dfrac{1}{2}\\right)\\right] + \\left[1 + \\cot^2\\left(\\cot^{-1}\\dfrac{1}{3}\\right)\\right]$\n$= \\left[1 + \\left(\\dfrac{1}{2}\\right)^2\\right] + \\left[1 + \\left(\\dfrac{1}{3}\\right)^2\\right]$\n$= \\dfrac{85}{36}$"
+     }
     },
     {
      "qno": 21,
@@ -2232,7 +2250,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Invertible Matrices"
+     "topic": "Invertible Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "$2$"
+     }
     },
     {
      "qno": 4,
@@ -2363,7 +2385,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "$0$"
+     }
     },
     {
      "qno": 3,
@@ -2386,7 +2412,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "$AB = BA$"
+     }
     },
     {
      "qno": 4,
@@ -2409,7 +2439,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Transpose of a Matrix"
+     "topic": "Transpose of a Matrix",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{\\pi}{6}$"
+     }
     },
     {
      "qno": 34,
@@ -2825,7 +2859,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "D",
+      "text": "$a_{ij} = \\begin{cases} 0, & \\text{if } i \\neq j \\\\ 1, & \\text{if } i = j \\end{cases}$"
+     }
     },
     {
      "qno": 12,
@@ -2848,7 +2886,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Symmetric and Skew Symmetric Matrices"
+     "topic": "Symmetric and Skew Symmetric Matrices",
+     "answer": {
+      "opt": "B",
+      "text": "a symmetric matrix"
+     }
     },
     {
      "qno": 19,
@@ -2873,7 +2915,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Types of Matrices"
+     "topic": "Types of Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 1,
@@ -2923,7 +2969,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "A",
+      "text": "$\\begin{bmatrix} -1 & -1 \\\\ 4 & 3 \\end{bmatrix}$"
+     }
     },
     {
      "qno": 5,
@@ -2946,7 +2996,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Operations on Matrices"
+     "topic": "Operations on Matrices",
+     "answer": {
+      "opt": "C",
+      "text": "$2$"
+     }
     },
     {
      "qno": 2,
@@ -4265,7 +4319,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "A",
+      "text": "$12$"
+     }
     },
     {
      "qno": 5,
@@ -4288,7 +4346,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Area of a Triangle"
+     "topic": "Area of a Triangle",
+     "answer": {
+      "opt": "B",
+      "text": "$\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix} = \\pm 2A$"
+     }
     },
     {
      "qno": 5,
@@ -4549,7 +4611,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "A",
+      "text": "$2a$"
+     }
     },
     {
      "qno": 13,
@@ -4572,7 +4638,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Determinant"
+     "topic": "Determinant",
+     "answer": {
+      "opt": "D",
+      "text": "$\\mp 2$"
+     }
     },
     {
      "qno": 18,
@@ -4595,7 +4665,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "A",
+      "text": "$\\begin{bmatrix} \\frac{1}{2} & 0 & 0 \\\\ 0 & \\frac{1}{3} & 0 \\\\ 0 & 0 & \\frac{1}{5} \\end{bmatrix}$"
+     }
     },
     {
      "qno": 38,
@@ -4665,7 +4739,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Adjoint and Inverse of a Matrix"
+     "topic": "Adjoint and Inverse of a Matrix",
+     "answer": {
+      "opt": "D",
+      "text": "$1000$"
+     }
     },
     {
      "qno": 34,
@@ -5747,7 +5825,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "opt": "D",
+      "text": "$0$"
+     }
     },
     {
      "qno": 16,
@@ -5770,7 +5852,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "opt": "A",
+      "text": "$-\\sec^2\\left(\\dfrac{\\pi}{4} - x\\right)$"
+     }
     },
     {
      "qno": 25,
@@ -6275,7 +6361,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "$f(x) = -\\tan 2x$, $\\dfrac{\\pi}{4} < x < \\dfrac{\\pi}{2}$\n$f'(x) = -2\\sec^2 2x$, $\\dfrac{\\pi}{4} < x < \\dfrac{\\pi}{2}$\n$f'\\!\\left(\\dfrac{\\pi}{3}\\right) = -2(-2)^2 = -8$"
+     }
     },
     {
      "qno": 22,
@@ -6293,7 +6382,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "$y = \\sqrt{1 + \\cot^2\\left(\\cot^{-1}x\\right)} = \\sqrt{1 + x^2}$\n$\\Rightarrow \\dfrac{dy}{dx} = \\dfrac{x}{\\sqrt{1 + x^2}}$\n$\\Rightarrow \\sqrt{1 + x^2}\\,\\dfrac{dy}{dx} - x = 0$"
+     }
     },
     {
      "qno": 26,
@@ -6310,7 +6402,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Derivatives of Functions in Parametric Forms"
+     "topic": "Derivatives of Functions in Parametric Forms",
+     "answer": {
+      "text": "$\\dfrac{dx}{dt} = e^{\\cos 3t} \\times (-\\sin 3t) \\times 3$\n$\\dfrac{dy}{dt} = e^{\\sin 3t} \\times (\\cos 3t) \\times 3$\n$\\dfrac{dy}{dx} = \\dfrac{\\frac{dy}{dt}}{\\frac{dx}{dt}} = \\dfrac{e^{\\sin 3t} \\times (\\cos 3t)}{-e^{\\cos 3t} \\times (\\sin 3t)}$\n$x = e^{\\cos 3t} \\Rightarrow \\cos 3t = \\log x$\n$y = e^{\\sin 3t} \\Rightarrow \\sin 3t = \\log y$\n$\\therefore\\ \\dfrac{dy}{dx} = \\dfrac{-y\\log x}{x\\log y}$"
+     }
     },
     {
      "qno": 26,
@@ -6328,7 +6423,10 @@
      "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Differentiability",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "$\\dfrac{d(|x|)}{dx} = \\dfrac{d\\left(\\sqrt{x^2}\\right)}{dx}$, $x \\neq 0$\n$= \\dfrac{1}{2}\\left(x^2\\right)^{-\\frac{1}{2}} \\times \\dfrac{d\\left(x^2\\right)}{dx}$\n$= \\dfrac{1}{2\\sqrt{x^2}} \\cdot 2x = \\dfrac{x}{|x|}$"
+     }
     },
     {
      "qno": 4,
@@ -6351,7 +6449,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "D",
+      "text": "continuous everywhere"
+     }
     },
     {
      "qno": 14,
@@ -6374,7 +6476,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "opt": "C",
+      "text": "$\\left(\\dfrac{2}{3}\\right)^x \\dfrac{\\log 2}{\\log 3}$"
+     }
     },
     {
      "qno": 22,
@@ -6432,7 +6538,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Differentiability"
+     "topic": "Differentiability",
+     "answer": {
+      "text": "$x\\cos(p + y) + \\cos p\\,\\sin(p + y) = 0$\n$\\Rightarrow x = \\dfrac{-\\cos p\\,\\sin(p + y)}{\\cos(p + y)} \\Rightarrow x = -\\cos p\\cdot\\tan(p + y)$\n$\\Rightarrow \\dfrac{dx}{dy} = -\\cos p\\cdot\\sec^2(p + y)$\n$\\Rightarrow \\dfrac{dy}{dx} = \\dfrac{-1}{\\cos p\\cdot\\sec^2(p + y)}$\n$\\Rightarrow \\cos p\\,\\dfrac{dy}{dx} = -\\cos^2(p + y)$"
+     }
     },
     {
      "qno": 26,
@@ -6450,7 +6559,10 @@
      "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Continuity",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "$f(x) = \\begin{cases} \\dfrac{x - 2}{-(x - 2)} + a, & x < 2 \\\\ a + b, & x = 2 \\\\ \\dfrac{x - 2}{(x - 2)} + b, & x > 2 \\end{cases} \\Rightarrow f(x) = \\begin{cases} -1 + a, & x < 2 \\\\ a + b, & x = 2 \\\\ 1 + b, & x > 2 \\end{cases}$\n$\\displaystyle\\lim_{x \\to 2^-} f(x) = -1 + a$, $\\displaystyle\\lim_{x \\to 2^+} f(x) = 1 + b$ and $f(2) = a + b$\nas $f$ is continuous at $x = 2$, $\\therefore\\ -1 + a = 1 + b = a + b$\n$\\Rightarrow a = 1,\\ b = -1$"
+     }
     },
     {
      "qno": 6,
@@ -6473,7 +6585,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Exponential and Logarithmic Functions"
+     "topic": "Exponential and Logarithmic Functions",
+     "answer": {
+      "opt": "B",
+      "text": "$2e^x$"
+     }
     },
     {
      "qno": 7,
@@ -6496,7 +6612,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Continuity"
+     "topic": "Continuity",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{1}{4}$"
+     }
     },
     {
      "qno": 22,
@@ -8549,7 +8669,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Rate of Change of Quantities"
+     "topic": "Rate of Change of Quantities",
+     "answer": {
+      "opt": "B",
+      "text": "$6$ cm/s"
+     }
     },
     {
      "qno": 27,
@@ -8654,7 +8778,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Increasing and Decreasing Functions"
+     "topic": "Increasing and Decreasing Functions",
+     "answer": {
+      "opt": "A",
+      "text": "$k > 1$"
+     }
     },
     {
      "qno": 23,
@@ -10075,7 +10203,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{2^{x+2}}{\\log 2} + C$"
+     }
     },
     {
      "qno": 7,
@@ -10098,7 +10230,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Integration"
+     "topic": "Methods of Integration",
+     "answer": {
+      "opt": "B",
+      "text": "$x + 2\\cos x + C$"
+     }
     },
     {
      "qno": 27,
@@ -10760,7 +10896,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Some Properties of Definite Integrals"
+     "topic": "Some Properties of Definite Integrals",
+     "answer": {
+      "opt": "B",
+      "text": "$f(-x) = -f(x)$"
+     }
     },
     {
      "qno": 23,
@@ -10818,7 +10958,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Integration by Partial Fractions"
+     "topic": "Integration by Partial Fractions",
+     "answer": {
+      "text": "$I = \\displaystyle\\int \\dfrac{x^2 + 1}{\\left(x^2 + 2\\right)\\left(x^2 + 4\\right)}\\,dx$\nLet $x^2 = y$, then $\\dfrac{x^2 + 1}{\\left(x^2 + 2\\right)\\left(x^2 + 4\\right)} = \\dfrac{y + 1}{(y + 2)(y + 4)}$\nLet $\\dfrac{y + 1}{(y + 2)(y + 4)} = \\dfrac{A}{y + 2} + \\dfrac{B}{y + 4}$\nthis gives $A = -\\dfrac{1}{2},\\ B = \\dfrac{3}{2}$\n$\\therefore\\ I = -\\dfrac{1}{2}\\displaystyle\\int \\dfrac{1}{x^2 + 2}\\,dx + \\dfrac{3}{2}\\displaystyle\\int \\dfrac{1}{x^2 + 4}\\,dx$\n$\\Rightarrow I = -\\dfrac{1}{2\\sqrt{2}}\\tan^{-1}\\left(\\dfrac{x}{\\sqrt{2}}\\right) + \\dfrac{3}{4}\\tan^{-1}\\left(\\dfrac{x}{2}\\right) + c$"
+     }
     },
     {
      "qno": 29,
@@ -10882,7 +11025,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Definite Integral"
+     "topic": "Definite Integral",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\pi}{2}$"
+     }
     },
     {
      "qno": 25,
@@ -12398,7 +12545,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Area under Simple Curves"
+     "topic": "Area under Simple Curves",
+     "answer": {
+      "text": "Draw the parabola $y^2=4ax$ and its latus rectum $x=a$; the required region is bounded by the curve and the line $x=a$, and is symmetrical about the $x$-axis.\nRequired area $=2\\displaystyle\\int_0^a 2\\sqrt{ax}\\,dx$\n$=4\\sqrt{a}\\displaystyle\\int_0^a \\sqrt{x}\\,dx$\n$=4\\sqrt{a}\\left[\\dfrac{2x^{3/2}}{3}\\right]_0^a$\n$=\\dfrac{8}{3}\\,a\\sqrt{a}\\,\\sqrt{a}=\\dfrac{8}{3}a^2\\ \\text{sq units}$"
+     }
     },
     {
      "qno": 23,
@@ -13364,7 +13514,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "C",
+      "text": "$xy = C$"
+     }
     },
     {
      "qno": 9,
@@ -13550,7 +13704,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "text": "Due to an error in the question, one mark is to be awarded to every candidate who attempted this question."
+     }
     },
     {
      "qno": 38,
@@ -13762,7 +13919,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "General and Particular Solutions of a Differential Equation"
+     "topic": "General and Particular Solutions of a Differential Equation",
+     "answer": {
+      "opt": "C",
+      "text": "first order linear differential equation"
+     }
     },
     {
      "qno": 37,
@@ -13805,7 +13966,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "A",
+      "text": "$xy = c$"
+     }
     },
     {
      "qno": 10,
@@ -13828,7 +13993,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Methods of Solving First Order, First Degree Differential Equations"
+     "topic": "Methods of Solving First Order, First Degree Differential Equations",
+     "answer": {
+      "opt": "D",
+      "text": "$\\dfrac{1}{y}$"
+     }
     },
     {
      "qno": 29,
@@ -15030,7 +15199,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Some Basic Concepts"
+     "topic": "Some Basic Concepts",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\pi}{2}$"
+     }
     },
     {
      "qno": 11,
@@ -15053,7 +15226,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "A",
+      "text": "$\\dfrac{\\pi}{2}$"
+     }
     },
     {
      "qno": 12,
@@ -15076,7 +15253,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "opt": "D",
+      "text": "$2\\hat{i} + 3\\hat{k}$"
+     }
     },
     {
      "qno": 21,
@@ -15462,7 +15643,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "$\\cos A = \\dfrac{\\overrightarrow{AB}\\cdot\\overrightarrow{AC}}{\\left|\\overrightarrow{AB}\\right|\\left|\\overrightarrow{AC}\\right|} = \\dfrac{\\left(-\\hat{i} - 2\\hat{j} - 6\\hat{k}\\right)\\cdot\\left(\\hat{i} - 3\\hat{j} - 5\\hat{k}\\right)}{\\sqrt{41}\\,\\sqrt{35}} = \\dfrac{35}{\\sqrt{41}\\,\\sqrt{35}} = \\dfrac{\\sqrt{35}}{\\sqrt{41}}$\n$A = \\cos^{-1}\\left(\\dfrac{\\sqrt{35}}{\\sqrt{41}}\\right)$\n$\\cos B = \\dfrac{\\overrightarrow{BA}\\cdot\\overrightarrow{BC}}{\\left|\\overrightarrow{BA}\\right|\\left|\\overrightarrow{BC}\\right|} = \\dfrac{\\left(\\hat{i} + 2\\hat{j} + 6\\hat{k}\\right)\\cdot\\left(2\\hat{i} - \\hat{j} + \\hat{k}\\right)}{\\sqrt{41}\\,\\sqrt{6}} = \\dfrac{6}{\\sqrt{41}\\,\\sqrt{6}} = \\dfrac{\\sqrt{6}}{\\sqrt{41}}$\n$B = \\cos^{-1}\\left(\\dfrac{\\sqrt{6}}{\\sqrt{41}}\\right)$\n$\\cos C = \\dfrac{\\overrightarrow{CB}\\cdot\\overrightarrow{CA}}{\\left|\\overrightarrow{CB}\\right|\\left|\\overrightarrow{CA}\\right|} = \\dfrac{\\left(-2\\hat{i} + \\hat{j} - \\hat{k}\\right)\\cdot\\left(-\\hat{i} + 3\\hat{j} + 5\\hat{k}\\right)}{\\left|\\overrightarrow{CB}\\right|\\left|\\overrightarrow{CA}\\right|} = 0$\n$\\cos C = 0 \\Rightarrow C = \\dfrac{\\pi}{2}$"
+     }
     },
     {
      "qno": 8,
@@ -15485,7 +15669,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "perpendicular vectors"
+     }
     },
     {
      "qno": 15,
@@ -15508,7 +15696,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "opt": "D",
+      "text": "$[0, 6]$"
+     }
     },
     {
      "qno": 20,
@@ -15533,7 +15725,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "D",
+      "text": "Assertion (A) is false, but Reason (R) is true."
+     }
     },
     {
      "qno": 24,
@@ -15550,7 +15746,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Multiplication of a Vector by a Scalar"
+     "topic": "Multiplication of a Vector by a Scalar",
+     "answer": {
+      "text": "Position vector of $C = \\vec{r} = \\dfrac{4\\vec{b} - \\vec{a}}{3}$\ni.e. $\\vec{r} = \\dfrac{1}{3}\\left(-5\\hat{i} + 2\\hat{j} + 5\\hat{k}\\right)$\nNow, $\\overrightarrow{AB} = -2\\hat{i} - \\hat{j} + 2\\hat{k} \\Rightarrow \\left|\\overrightarrow{AB}\\right| = 3$\n$\\overrightarrow{BC} = -\\dfrac{1}{3}\\left(2\\hat{i} + \\hat{j} - 2\\hat{k}\\right) \\Rightarrow \\left|\\overrightarrow{BC}\\right| = 1$\n$\\left|\\overrightarrow{AB}\\right| : \\left|\\overrightarrow{BC}\\right| = 3 : 1$"
+     }
     },
     {
      "qno": 25,
@@ -15593,7 +15792,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{5\\pi}{6}$"
+     }
     },
     {
      "qno": 12,
@@ -15616,7 +15819,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Addition of Vectors"
+     "topic": "Addition of Vectors",
+     "answer": {
+      "opt": "D",
+      "text": "a right-angled triangle"
+     }
     },
     {
      "qno": 13,
@@ -15639,7 +15846,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Product of Two Vectors"
+     "topic": "Product of Two Vectors",
+     "answer": {
+      "opt": "B",
+      "text": "$2a^2$"
+     }
     },
     {
      "qno": 37,
@@ -17280,7 +17491,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Angle between Two Lines"
+     "topic": "Angle between Two Lines",
+     "answer": {
+      "opt": "A",
+      "text": "$-4$"
+     }
     },
     {
      "qno": 20,
@@ -17305,7 +17520,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "C",
+      "text": "Assertion (A) is true, but Reason (R) is false."
+     }
     },
     {
      "qno": 22,
@@ -17872,7 +18091,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Direction Cosines and Direction Ratios of a Line"
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "answer": {
+      "opt": "D",
+      "text": "$\\cos\\alpha + \\cos\\beta + \\cos\\gamma = 1$"
+     }
     },
     {
      "qno": 16,
@@ -17895,7 +18118,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Direction Cosines and Direction Ratios of a Line"
+     "topic": "Direction Cosines and Direction Ratios of a Line",
+     "answer": {
+      "opt": "C",
+      "text": "$\\dfrac{\\pi}{2}$"
+     }
     },
     {
      "qno": 35,
@@ -17959,7 +18186,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "B",
+      "text": "$\\vec{r} = \\hat{i} - \\hat{j} + \\lambda\\hat{j}$"
+     }
     },
     {
      "qno": 15,
@@ -17982,7 +18213,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Equation of a Line in Space"
+     "topic": "Equation of a Line in Space",
+     "answer": {
+      "opt": "C",
+      "text": "$2$"
+     }
     },
     {
      "qno": 35,
@@ -19177,7 +19412,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "The correct option is not given in the question — one mark is to be awarded to every candidate who attempted this question."
+     }
     },
     {
      "qno": 31,
@@ -19248,7 +19486,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "D",
+      "text": "infinite"
+     }
     },
     {
      "qno": 18,
@@ -19274,7 +19516,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "$x + 2y \\geq 4$, $x + y \\geq 3$, $x \\geq 0$, $y \\geq 0$"
+     }
     },
     {
      "qno": 30,
@@ -19389,7 +19635,35 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "text": "Draw the lines $x+2y=8$ and $3x+2y=12$ and shade the feasible region.\nThe feasible region determined by $x+2y\\leq8$, $3x+2y\\leq12$, $x\\geq0$, $y\\geq0$ is bounded, with corner points $O(0,0)$, $B(0,4)$, $E(2,3)$ and $D(4,0)$.\n$\\therefore$ The minimum value of $z$ is $-12$ and it occurs at the point $D(4,0)$.",
+      "table": {
+       "caption": "Value of $z=-3x+4y$ at the corner points",
+       "headers": [
+        "Corner point",
+        "Value of $z=-3x+4y$"
+       ],
+       "rows": [
+        [
+         "$O(0,0)$",
+         "$0$"
+        ],
+        [
+         "$B(0,4)$",
+         "$16$"
+        ],
+        [
+         "$D(4,0)$",
+         "$-12\\ \\longrightarrow$ Minimum"
+        ],
+        [
+         "$E(2,3)$",
+         "$6$"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 34,
@@ -19637,7 +19911,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "constraints"
+     }
     },
     {
      "qno": 17,
@@ -19663,7 +19941,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "D",
+      "text": "$x + 2y \\geq 76$, $2x + y \\leq 104$, $x, y \\geq 0$"
+     }
     },
     {
      "qno": 30,
@@ -19741,7 +20023,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "C",
+      "text": "$120$"
+     }
     },
     {
      "qno": 20,
@@ -19769,7 +20055,11 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Average",
-     "topic": "Linear Programming Problem and its Mathematical Formulation"
+     "topic": "Linear Programming Problem and its Mathematical Formulation",
+     "answer": {
+      "opt": "B",
+      "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A)."
+     }
     },
     {
      "qno": 30,
@@ -21165,7 +21455,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "A",
+      "text": "$\\dfrac{1}{2}$"
+     }
     },
     {
      "qno": 31,
@@ -21653,7 +21947,32 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "text": "Probability distribution of $X$ :",
+      "table": {
+       "headers": [
+        "$X$",
+        "$0$",
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+       ],
+       "rows": [
+        [
+         "$P(X)$",
+         "$\\dfrac{6}{36} = \\dfrac{1}{6}$",
+         "$\\dfrac{10}{36} = \\dfrac{5}{18}$",
+         "$\\dfrac{8}{36} = \\dfrac{2}{9}$",
+         "$\\dfrac{6}{36} = \\dfrac{1}{6}$",
+         "$\\dfrac{4}{36} = \\dfrac{1}{9}$",
+         "$\\dfrac{2}{36} = \\dfrac{1}{18}$"
+        ]
+       ]
+      }
+     }
     },
     {
      "qno": 38,
@@ -21696,7 +22015,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Easy",
-     "topic": "Conditional Probability"
+     "topic": "Conditional Probability",
+     "answer": {
+      "opt": "D",
+      "text": "$0$"
+     }
     },
     {
      "qno": 31,
@@ -21802,7 +22125,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Random Variables and its Probability Distributions"
+     "topic": "Random Variables and its Probability Distributions",
+     "answer": {
+      "opt": "B",
+      "text": "$\\dfrac{2}{5}$"
+     }
     },
     {
      "qno": 31,
