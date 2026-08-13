@@ -6487,7 +6487,7 @@
      "chapter": "Continuity and Differentiability",
      "type": "Very Short Answer",
      "marks": 2,
-     "text": "If $x = e^{xy}$, prove that $\\dfrac{dy}{dx} = \\dfrac{\\log x - 1}{(\\log x)^2}$.",
+     "text": "If $x = e^{x/y}$, prove that $\\dfrac{dy}{dx} = \\dfrac{\\log x - 1}{(\\log x)^2}$.",
      "papers": [
       {
        "year": 2024,
@@ -15655,7 +15655,7 @@
      "marks": 1,
      "text": "If $\\vec{a} = 2\\hat{i} - \\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{i} + \\hat{j} - \\hat{k}$, then $\\vec{a}$ and $\\vec{b}$ are :",
      "options": [
-      "collinear vectors",
+      "collinear vectors which are not parallel",
       "parallel vectors",
       "perpendicular vectors",
       "unit vectors"
@@ -19929,8 +19929,8 @@
      "options": [
       "$x + 2y \\leq 76$, $2x + y \\geq 104$, $x, y \\geq 0$",
       "$x + 2y \\leq 76$, $2x + y \\leq 104$, $x, y \\geq 0$",
-      "$x + 2y \\geq 76$, $2x + y \\geq 104$, $x, y \\geq 0$",
-      "$x + 2y \\geq 76$, $2x + y \\leq 104$, $x, y \\geq 0$"
+      "$x + 2y \\geq 76$, $2x + y \\leq 104$, $x, y \\geq 0$",
+      "$x + 2y \\geq 76$, $2x + y \\geq 104$, $x, y \\geq 0$"
      ],
      "papers": [
       {
@@ -19943,7 +19943,7 @@
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
-      "opt": "D",
+      "opt": "C",
       "text": "$x + 2y \\geq 76$, $2x + y \\leq 104$, $x, y \\geq 0$"
      }
     },
