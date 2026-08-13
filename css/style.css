@@ -144,6 +144,33 @@ a:hover { text-decoration: underline; }
 .options { list-style: none; margin: 8px 0 0; padding: 0; }
 .options li { padding: 3px 0 3px 30px; position: relative; }
 .options li .lab { position: absolute; left: 0; font-weight: 600; color: var(--muted); }
+/* Short options share a row instead of each taking a full line: 4-up for tiny
+   values (numbers/single words), 2-up for short phrases. Set by optCols() in
+   app.js, which only tags a full 4-option set. column-gap keeps the (A)/(B)
+   hanging labels from colliding with the previous column's text. */
+.options.opt-c2, .options.opt-c4 { display: grid; column-gap: 18px; }
+.options.opt-c2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.options.opt-c4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 720px) {
+  .options.opt-c4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 460px) {
+  .options.opt-c2, .options.opt-c4 { display: block; }
+}
+/* Same idea for subjects whose options are embedded in the question text
+   (Political Science cartoon/picture questions, History/Economics case studies):
+   partOptLines() puts each on its own line, and a short (a)-(d) run is grouped
+   into this grid instead of four near-empty lines. */
+.optgrid { display: grid; column-gap: 18px; margin: 2px 0; }
+.optgrid-c2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.optgrid-c4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.optgrid .optcell { padding: 3px 0; }
+@media (max-width: 720px) {
+  .optgrid-c4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 460px) {
+  .optgrid { display: block; }
+}
 .or-block { margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--line); }
 .or-tag { display:inline-block; color: var(--or); font-weight: 700; font-size: 12px; letter-spacing: .5px; margin-bottom: 6px; }
 /* Case-based ("case study") layout: passage, then each sub-question on its own

@@ -153,6 +153,51 @@
       return whole.slice(0, whole.length - tail.length) + disguised;
     });
   }
+  // Sentinels that survive esc(): a run of short (a)-(d) options is collapsed to a
+  // single line here and rebuilt as a real grid in finishOptGrids(), after the
+  // math segments have been rejoined. Same trick as GLUE_OPEN / DOLLAR_MASK.
+  var OPTG_C2 = "", OPTG_C4 = "", OPTG_SEP = "", OPTG_END = "";
+  var OPTG_L = "", OPTG_R = "";  // strip the <br> hugging the grid
+  // A run of exactly (a)(b)(c)(d) starting at `i`, all short enough to share
+  // rows. Requires the full a-d sequence, so roman sub-part markers ((i),(ii),
+  // (iii),(iv)) can never be mistaken for options even though c/d/i are also
+  // roman numerals.
+  function optionRunAt(lines, i) {
+    var want = ["a", "b", "c", "d"], got = [], max = 0;
+    for (var k = 0; k < 4; k++) {
+      var ln = lines[i + k];
+      if (ln == null) return null;
+      var m = /^\(([a-dA-D])\)\s*([\s\S]*)$/.exec(ln.trim());
+      if (!m || m[1].toLowerCase() !== want[k]) return null;
+      got.push(ln.trim());
+      max = Math.max(max, optVisualLen(m[2]));
+    }
+    if (max > 34) return null;
+    return (max <= 14 ? OPTG_C4 : OPTG_C2) + got.join(OPTG_SEP) + OPTG_END;
+  }
+  function groupShortOptionRuns(s) {
+    var lines = s.split("\n"), out = [];
+    for (var i = 0; i < lines.length; i++) {
+      var run = optionRunAt(lines, i);
+      if (run) { out.push(run); i += 3; } else out.push(lines[i]);
+    }
+    return out.join("\n");
+  }
+  function finishOptGrids(html) {
+    function build(cls) {
+      return function (_, body) {
+        return OPTG_L + '<span class="optgrid ' + cls + '">' + body.split(OPTG_SEP).map(function (x) {
+          return '<span class="optcell">' + x + "</span>";
+        }).join("") + "</span>" + OPTG_R;
+      };
+    }
+    return html
+      .replace(new RegExp(OPTG_C4 + "([\\s\\S]*?)" + OPTG_END, "g"), build("optgrid-c4"))
+      .replace(new RegExp(OPTG_C2 + "([\\s\\S]*?)" + OPTG_END, "g"), build("optgrid-c2"))
+      // the grid is block-level, so a <br> either side would add a blank line
+      .replace(new RegExp("<br>" + OPTG_L, "g"), "").replace(new RegExp(OPTG_L, "g"), "")
+      .replace(new RegExp(OPTG_R + "<br>", "g"), "").replace(new RegExp(OPTG_R, "g"), "");
+  }
   function partOptLines(t) {
     var s = discomboPass(t, GLUE_UC);
     s = discomboPass(s, GLUE_LC);
@@ -160,7 +205,8 @@
       /[ \t]+(\((?:viii|vii|vi|iv|iii|ii|ix|xii|xi|x|i|v|[a-hA-H]|\d{1,2}\.\d{1,2}|\d{1,2})\))(?=[ \t]|$)/g,
       "\n$1")
       .replace(/[ \t]+(\(?Note\s*:)/g, "\n$1");
-    return s.replace(new RegExp(GLUE_OPEN, "g"), "(").replace(new RegExp(GLUE_CLOSE, "g"), ")");
+    s = s.replace(new RegExp(GLUE_OPEN, "g"), "(").replace(new RegExp(GLUE_CLOSE, "g"), ")");
+    return groupShortOptionRuns(s);
   }
   // Subjects whose questions carry long passages with inline sub-parts and
   // embedded options — those read as a wall of text unless every part and option
@@ -195,11 +241,11 @@
       .replace(/\\textcircled\s*\{?(\d)\}?/g, function (_, d) { return circledNum(d); })
       .replace(/\\\$/g, DOLLAR_MASK);
     var parts = String(s).split(/(\$\$[\s\S]*?\$\$|\$[\s\S]*?\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\])/);
-    return parts.map(function (p, i) {
+    return finishOptGrids(parts.map(function (p, i) {
       if (i % 2 === 1) return p.replace(new RegExp(DOLLAR_MASK, "g"), "$");  // math segment, keep raw
       var seg = (opts && opts.parts) ? (opts.parts === "full" ? partOptLines(p) : partLines(p)) : p;
       return textCmds(esc(seg)).replace(/\n/g, "<br>").replace(new RegExp(DOLLAR_MASK, "g"), "$");
-    }).join("");
+    }).join(""));
   }
 
   // Structured renderer for marking-scheme answers: turns "•"/"·" bullet lines
@@ -366,10 +412,44 @@
     if (!t) return "";
     return (Array.isArray(t) ? t : [t]).map(tableHTML).join("");
   }
+  // Rough estimate of how WIDE an option will render, so short options can share
+  // a line instead of each burning a full row. LaTeX source is much longer than
+  // its rendered output ($\dfrac{\pi}{4}$ is ~5 glyphs wide, 17 chars of source),
+  // so strip the delimiters/commands/braces before measuring.
+  function optVisualLen(s) {
+    var mathWeight = 0;
+    var plain = String(s == null ? "" : s)
+      .replace(/\$([^$]*)\$/g, function (_, inner) {
+        // Typeset math is wider per glyph than prose (fractions, radicals, big
+        // parens), and each \command still paints something. Count it, weighted,
+        // rather than letting a wide expression look "short" and get squeezed
+        // into a quarter-width column.
+        var cmds = (inner.match(/\\[a-zA-Z]+/g) || []).length;
+        var glyphs = inner.replace(/\\[a-zA-Z]+\s*/g, "").replace(/[{}\\]/g, "").length;
+        mathWeight += Math.round(glyphs * 1.6) + cmds;
+        return "";
+      })
+      .replace(/<[^>]*>/g, "")
+      .trim().length;
+    return plain + mathWeight;
+  }
+  // 4 options on one line when they are tiny (numbers, single words), 2 per line
+  // when they are short sentences, otherwise one per line as before. Only ever
+  // applied to a full 4-option set so partial rows never look ragged.
+  function optCols(opts) {
+    if (!opts || opts.length !== 4) return 1;
+    var max = 0;
+    for (var i = 0; i < opts.length; i++) max = Math.max(max, optVisualLen(opts[i]));
+    if (max <= 14) return 4;
+    if (max <= 34) return 2;
+    return 1;
+  }
   function optionsHTML(opts) {
     if (!opts || !opts.length) return "";
     var labs = ["(A)", "(B)", "(C)", "(D)", "(E)"];
-    return '<ul class="options">' + opts.map(function (o, i) {
+    var cols = optCols(opts);
+    var cls = "options" + (cols > 1 ? " opt-c" + cols : "");
+    return '<ul class="' + cls + '">' + opts.map(function (o, i) {
       return '<li><span class="lab">' + labs[i] + '</span>' + mathHTML(o) + "</li>";
     }).join("") + "</ul>";
   }
