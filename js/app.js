@@ -2419,6 +2419,9 @@
     var n = Object.keys(keys).length;
     fab.style.display = n ? "flex" : "none";
     fab.querySelector(".ef-count").textContent = n;
+    // both live in the bottom-right corner; lift the arrow clear of the bar
+    var top = document.getElementById("to-top");
+    if (top) top.classList.toggle("above-fab", !!n);
   }
 
   // Rebuild the whole single-file HTML with cropped images baked into the data block.
@@ -2429,7 +2432,7 @@
     if (d) d.textContent = JSON.stringify(INLINE).replace(/<\//g, "<\\/");
     var a = clone.querySelector("#app"); if (a) a.innerHTML = "";
     var c = clone.querySelector("#crumbs"); if (c) c.innerHTML = "";
-    ["#crop-modal", "#export-fab"].forEach(function (s) { var n = clone.querySelector(s); if (n) n.parentNode.removeChild(n); });
+    ["#crop-modal", "#export-fab", "#to-top"].forEach(function (s) { var n = clone.querySelector(s); if (n) n.parentNode.removeChild(n); });
     Array.prototype.forEach.call(
       clone.querySelectorAll('mjx-container, mjx-assistive-mml, svg[id^="MJX-SVG-global-cache"], style[id^="MJX"]'),
       function (n) { n.parentNode.removeChild(n); });
@@ -3318,9 +3321,36 @@
     else if (m) renderSubject(decodeURIComponent(m[1]));
     else renderHome();
   }
+  // Back-to-top arrow: subject pages run to thousands of questions, so scrolling
+  // back by hand is a long haul. Appears once you are a screenful down, and gets
+  // out of the way of the figure-export bar when that is showing (see updateFab).
+  function initTopBtn() {
+    var btn = document.createElement("button");
+    btn.id = "to-top";
+    btn.className = "to-top";
+    btn.type = "button";
+    btn.setAttribute("aria-label", "Back to top");
+    btn.title = "Back to top";
+    btn.innerHTML = "↑";
+    document.body.appendChild(btn);
+    btn.addEventListener("click", function () {
+      // "auto" respects a reader's prefers-reduced-motion; smooth otherwise.
+      var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+    });
+    function sync() {
+      var y = window.pageYOffset || (document.scrollingElement || document.documentElement).scrollTop || 0;
+      btn.classList.toggle("show", y > 400);
+    }
+    window.addEventListener("scroll", sync, { passive: true });
+    window.addEventListener("hashchange", sync);
+    sync();
+  }
+
   window.addEventListener("hashchange", route);
   initFigTools();
   initReplaceTool();
+  initTopBtn();
   if (INLINE && Object.keys(CROPS).length) applyStoredCrops().then(route);
   else route();
 })();

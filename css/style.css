@@ -239,7 +239,26 @@ a:hover { text-decoration: underline; }
 .export-fab { position: fixed; bottom: 20px; right: 20px; z-index: 900; display: none; align-items: center; gap: 12px; background: #fff; border: 1px solid var(--line); box-shadow: 0 8px 24px rgba(16,24,40,.18); border-radius: 12px; padding: 10px 14px; }
 .export-fab .ef-txt { font-size: 13px; color: #374151; }
 .export-fab .ef-count { font-weight: 700; color: var(--brand); }
-@media print { .fig-crop, .fig-size, .crop-modal, .export-fab, .ws-replace, .ws-del, .ws-restore, .rp-modal { display: none !important; } }
+/* Back-to-top arrow (screen only). Hidden until you are a screenful down, so it
+   never covers content on a short page. .above-fab lifts it over the figure
+   export bar, which shares the bottom-right corner. */
+.to-top {
+  position: fixed; bottom: 20px; right: 20px; z-index: 950;
+  width: 42px; height: 42px; border-radius: 50%;
+  background: var(--brand); color: #fff;
+  border: 0; box-shadow: 0 6px 18px rgba(16,24,40,.28);
+  font-size: 20px; line-height: 1; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  opacity: 0; visibility: hidden; transform: translateY(8px);
+  transition: opacity .18s ease, transform .18s ease, visibility .18s;
+}
+.to-top.show { opacity: 1; visibility: visible; transform: none; }
+.to-top:hover { filter: brightness(1.08); }
+.to-top:focus-visible { outline: 3px solid var(--brand); outline-offset: 3px; }
+.to-top.above-fab { bottom: 84px; }
+@media (max-width: 460px) { .to-top { width: 38px; height: 38px; bottom: 14px; right: 14px; } }
+@media (prefers-reduced-motion: reduce) { .to-top { transition: none; } }
+@media print { .fig-crop, .fig-size, .crop-modal, .export-fab, .ws-replace, .ws-del, .ws-restore, .rp-modal, .to-top { display: none !important; } }
 table.qtable { border-collapse: collapse; margin: 10px 0; font-size: 14px; }
 table.qtable th, table.qtable td { border: 1px solid var(--line); padding: 5px 12px; text-align: center; }
 table.qtable th { background: #f3f4f6; }
