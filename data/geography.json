@@ -48,7 +48,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Human beings developed technology after developing a better understanding of natural laws: technology indicates the level of cultural development of society; understanding of concepts of friction and heat helped discover fire; understanding of secrets of DNA and genetics enables conquering diseases; laws of aerodynamics are used to develop faster planes; knowledge about nature is extremely important to develop technology, and technology loosens the shackles of environment on human beings; in early stages of interaction with their natural environment humans were greatly influenced by it. (Any three points to be analyzed)"
+     }
     },
     {
      "qno": 20,
@@ -66,7 +69,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) The imprints of human activities are created everywhere: people begin to understand their environment and the forces of nature with the passage of time; with social and cultural development humans develop better and more efficient technology; they move from a state of necessity to a state of freedom; they create possibilities with resources obtained from the environment; human activities create cultural landscape e.g. health resorts on highlands, huge urban sprawls, fields, orchards and pastures in plains and rolling hills, ports, oceanic routes on oceanic surface and satellites. (Any three points to be evaluated)"
+     }
     },
     {
      "qno": 1,
@@ -89,7 +95,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Ratzel"
+     }
     },
     {
      "qno": 2,
@@ -112,7 +122,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "I, IV, III, II"
+     }
     },
     {
      "qno": 3,
@@ -135,7 +149,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Behavioural Geography"
+     }
     },
     {
      "qno": 20,
@@ -203,7 +221,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Environmental determinism: the interaction between primitive human society and strong forces of nature is known as environmental determinism — human beings listened to nature, were afraid of its fury, and worshipped nature. Examples: direct relationship of a household belonging to an economically primitive society with nature; nature is the powerful force, worshipped, revered and conserved; there is a direct dependence of human beings on nature for resources which sustained them (any three points to be explained)."
+     }
     },
     {
      "qno": 22,
@@ -221,7 +242,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) The dichotomy between physical and human is not a very valid one because nature and human are inseparable elements; it should be seen holistically; both physical and human phenomena are described in metaphors using symbols from human anatomy. Examples: 'mouth' of the river, 'neck' of isthmus, 'profile' of the soil, 'face' of the earth, 'eye' of the storm, etc.; networks of roads, railways and waterways have been described as 'arteries of circulation'; regions, villages, towns have been described as 'organisms' (any three points to be explained)."
+     }
     },
     {
      "qno": 20,
@@ -342,7 +366,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Nature and human are intricately inter-twined: (i) Nature and humans are inseparable elements and should be seen holistically. (ii) Both physical and human phenomena are described in metaphors using symbols from human anatomy. (iii) Face of the earth, eye of the storm, mouth of the river, snout of the glacier are some examples. (iv) Similarly, regions, villages, towns have been described as 'Organism'. Networks of roads, railways and waterways have been described as arteries of circulation. (any three points, or any other relevant point)"
+     }
     },
     {
      "qno": 20,
@@ -360,7 +387,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Human beings utilize the opportunities provided by nature: (i) Humans create possibilities with resources obtained from the environment. (ii) Humans move from the state of necessity to the state of freedom. (iii) Human activity creates a cultural landscape. (iv) The imprints of human activities are everywhere - health resorts on highlands, huge urban sprawls, fields, orchards and pastures in plains and rolling hills, ports on the coasts, oceanic routes on the oceanic surface and satellites in space. (any three points, or any other relevant point)"
+     }
     },
     {
      "qno": 1,
@@ -585,7 +615,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Any three points to be examined: the earth is dynamic in nature; man is also not static but very dynamic on the earth; their relationship keeps on changing; man cultivates, builds houses, roads, etc. on the earth; human beings use the resources provided by the physical environment and greatly modify it, and it has in turn impacted human lives."
+     }
     },
     {
      "qno": 1,
@@ -609,7 +642,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "(A) is incorrect but (R) is correct."
+     }
     },
     {
      "qno": 2,
@@ -632,7 +669,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Neo-determinism"
+     }
     },
     {
      "qno": 3,
@@ -655,7 +696,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "II and III are correct."
+     }
     },
     {
      "qno": 20,
@@ -736,7 +781,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Urbanization"
+     }
     },
     {
      "qno": 7,
@@ -759,7 +808,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "High birth rate, low death rate and high immigration"
+     }
     },
     {
      "qno": 8,
@@ -782,7 +835,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Statement I and II are correct. Statement II is the correct result of statement I."
+     }
     },
     {
      "qno": 20,
@@ -799,7 +856,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Pattern of population distribution in the world: population of the world is unevenly distributed; Asia has many places where people are few and few places where people are many; patterns of population distribution and density help us understand the demographic characteristics of any area; the 10 most populous countries of the world contribute about 60% of the world's population, of these 10 countries, 6 are located in Asia. (Any three points to be explained)"
+     }
     },
     {
      "qno": 20,
@@ -817,7 +877,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Factors influencing migration: migration may be permanent, temporary or seasonal, and may take place from rural to urban areas, rural to rural areas, urban to urban areas and urban to rural areas; people migrate for a better economic and social life; push factors make the place of origin seem less attractive for reasons like unemployment, poor living conditions, political turmoil, unpleasant climate, natural disasters, epidemics and socio-economic backwardness; pull factors make the place of destination seem more attractive than the place of origin for reasons like better job opportunities and living conditions, peace and stability, security of life and property and pleasant climate. (Any three points to be examined)"
+     }
     },
     {
      "qno": 24,
@@ -996,7 +1059,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Only the second stage"
+     }
     },
     {
      "qno": 16,
@@ -1019,7 +1086,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Births, deaths and migration"
+     }
     },
     {
      "qno": 17,
@@ -1042,7 +1113,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Only first and last stages"
+     }
     },
     {
      "qno": 21,
@@ -1179,7 +1254,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Immigration: Migrants who move into a new place are called immigrants. Emigration: Migrants who move out of a place are called emigrants. Demographic Transition Theory: (i) It can be used to describe and predict the future population of any area. (ii) The theory tells us that the population of any region changes from high births and high deaths to low births and low deaths as society progresses from a rural, agrarian, illiterate state to an urban, industrial, literate one. (iii) The first stage has high fertility and high mortality, with slow population growth due to epidemics and variable food supply. (iv) The second stage is marked by high fertility in the beginning which declines with time, and reduced mortality rate due to improvement in sanitation and health. (v) In the last stage, both fertility and mortality decline considerably, and population is either stable or grows slowly due to urbanised and literate population. (any three points, or any other relevant point)"
+     }
     },
     {
      "qno": 20,
@@ -1495,7 +1573,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "5"
+     }
     },
     {
      "qno": 16,
@@ -1518,7 +1600,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Australia and Europe"
+     }
     },
     {
      "qno": 17,
@@ -1541,7 +1627,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "19.88"
+     }
     },
     {
      "qno": 24,
@@ -1558,7 +1648,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Landforms and urbanisation influencing distribution of world population. Landforms (any two points, plus example): people prefer living on flat plains and gentle slopes; plain areas are favourable for the production of crops; plain areas are favourable to build roads and industries; mountainous and hilly areas hinder the development of transport networks and agricultural/industrial development, so these areas are less populated. Example: the Ganga plains are among the most densely populated areas of the world, while the mountain zones in the Himalayas are scarcely populated. Urbanisation (any two points, plus example): cities offer better employment opportunities, educational and medical facilities, and better means of transport and communication; good civic amenities and the attraction of city life draw people to cities; it leads to rural-to-urban migration and cities grow in size. Example: mega cities like Tokyo, Delhi, New York and London continue to attract a large number of migrants every year."
+     }
     },
     {
      "qno": 24,
@@ -1576,7 +1669,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Water availability and industrialization influencing distribution of world population. Water availability (any two points, plus example): water is the most important factor for life, so people prefer to live where fresh water is easily available; water is used for drinking, bathing and cooking; it is also used for cattle, crops, industries and navigation. Example: river valleys like the Ganga or Nile are densely populated areas of the world. Industrialisation (any two points, plus example): industrial belts provide job opportunities and attract a large number of people, including transport operators and shopkeepers; they also attract institutions like banks, consultancies, research institutes and educational centres. Example: the Kobe-Osaka industrial region of Japan is thickly populated."
+     }
     },
     {
      "qno": 21,
@@ -1743,7 +1839,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Basic need"
+     }
     },
     {
      "qno": 7,
@@ -1766,7 +1866,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Australia"
+     }
     },
     {
      "qno": 10,
@@ -1789,7 +1893,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Statement I and II are correct, and Statement I is correct explanation of II."
+     }
     },
     {
      "qno": 22,
@@ -1927,7 +2035,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Human Development Index (HDI) ranks countries based on their performance in the key areas of health, education and access to resources; rankings are based on a score between 0 and 1 — the closer the score is to 1, the greater the level of human development. Key areas: Health — the indicator chosen to assess health is life expectancy at birth; Access to knowledge — the adult literacy rate and the gross enrolment ratio represent access to knowledge; Access to resources — measured in terms of purchasing power (US $) (any three points to be explained)."
+     }
     },
     {
      "qno": 2,
@@ -2135,7 +2246,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "maximum investment in social sector."
+     }
     },
     {
      "qno": 16,
@@ -2158,7 +2273,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Society oriented policies"
+     }
     },
     {
      "qno": 17,
@@ -2181,7 +2300,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "0.149"
+     }
     },
     {
      "qno": 24,
@@ -2434,7 +2557,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Only I, II and IV are correct."
+     }
     },
     {
      "qno": 2,
@@ -2457,7 +2584,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "a-iii, b-iv, c-i, d-ii"
+     }
     },
     {
      "qno": 21,
@@ -2474,7 +2605,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Any three points to be examined: sustainability refers to the continuity in the availability of opportunities; each generation must have the same opportunities to have sustainable human development; all environmental, financial, and human resources should be used judiciously keeping the future in mind; misuse of any of these resources will lead to fewer opportunities for future generations; each generation must ensure the availability of choices and opportunities to its future generations."
+     }
     },
     {
      "qno": 15,
@@ -2498,7 +2632,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "4"
+     }
     },
     {
      "qno": 16,
@@ -2521,7 +2659,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Medium"
+     }
     },
     {
      "qno": 17,
@@ -2544,7 +2686,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Belarus"
+     }
     },
     {
      "qno": 27,
@@ -2561,7 +2707,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Beti Bachao - Beti Padhao as an effective step to empower women (any five points): there are social constructs and roles assigned to individuals which are reinforced by social institutions; biological differences become the basis of social differentiations, discriminations and exclusions; the exclusion of over half of the population becomes a serious handicap to any developing and civilised society; it is a global challenge which has been acknowledged by the United Nations Development Programme (UNDP); gender discrimination in particular is a crime against humanity; all efforts need to be made to address the denial of opportunities of education, employment, political representation, low wages for similar work, and disregard for entitlement to a dignified life; the Government of India has duly acknowledged the adverse impact of these discriminations and launched a nationwide campaign called Beti Bachao - Beti Padhao."
+     }
     },
     {
      "qno": 1,
@@ -2847,7 +2996,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Vegetables production"
+     }
     },
     {
      "qno": 5,
@@ -2870,7 +3023,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "North Western Europe"
+     }
     },
     {
      "qno": 6,
@@ -2893,7 +3050,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Mixed"
+     }
     },
     {
      "qno": 5,
@@ -2916,7 +3077,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Only I and II are correct"
+     }
     },
     {
      "qno": 25,
@@ -3054,7 +3219,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Main features of Plantation Agriculture in the world: introduced by Europeans in colonies situated in the tropics; important crops are tea, coffee, cocoa, rubber, cotton, oil palm, sugarcane, bananas and pineapples; large estates/plantations; large capital investment; managerial and technical support; scientific methods of cultivation; cheap labour; single-crop specialisation; a good transportation system linking estates to factories and markets for export (any five points to be analysed)."
+     }
     },
     {
      "qno": 26,
@@ -3072,7 +3240,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Main features of extensive commercial grain cultivation in the world: practised in the interior parts of semi-arid lands of the mid-latitudes; wheat is the principal crop, though barley, oats and rye are also grown; size of the farm is very large; entire operations are mechanised; low yield per acre but high yield per person; best developed in the Eurasian Steppes, the Canadian and American Prairies, the Pampas of Argentina, the Velds of South Africa, the Australian Downs, and the Canterbury Plains of New Zealand (any five points to be analysed)."
+     }
     },
     {
      "qno": 3,
@@ -3263,7 +3434,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Only i, iii and iv are correct."
+     }
     },
     {
      "qno": 18,
@@ -3479,7 +3654,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Southeast Asia"
+     }
     },
     {
      "qno": 18,
@@ -3499,7 +3678,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "18.1 The area marked A is the Canadian and American prairies. 18.2 Major crops grown in region A: wheat, corn, barley, oats, rye (any two). 18.3 Agricultural importance of area B: in this area commercial grain farming is practised; it is practised on large-sized farms; entire operations of cultivation from ploughing to harvesting are mechanised; per acre yield is low but per person yield is high (any one point to be explained)."
+     }
     },
     {
      "qno": 18,
@@ -3517,7 +3699,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "For Visually Impaired Candidates, in lieu of Q18: Main characteristics of extensive commercial grain farming in the world - it is practised in the interior parts of semi-arid lands of the mid-latitudes; the size of the farm is very large; entire operations of cultivation from ploughing to harvesting are mechanised; there is low yield per acre but high yield per person; major crops grown are wheat, corn, barley, oats and rye; major areas are the Canadian and American prairies, the Pampas of Argentina, the Velds of South Africa, the Australian Downs and the Canterbury Plains of New Zealand (any three points to be explained)."
+     }
     },
     {
      "qno": 4,
@@ -3540,7 +3725,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Horticulture"
+     }
     },
     {
      "qno": 25,
@@ -3557,7 +3746,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Hunting and gathering - the earliest human beings depended on their immediate environment (any five points): the earliest human beings subsisted on animals which they hunted and edible plants which they gathered from forests in the vicinity; gathering and hunting are the oldest economic activities known; primitive societies depended on wild animals, and people located in very cold and extremely hot climates survived on hunting; people in coastal areas still catch fish, though fishing has experienced modernisation due to technological progress; early hunters used primitive tools made of stones, twigs or arrows, so the number of animals killed was limited; these activities are carried out at different levels with different orientations."
+     }
     },
     {
      "qno": 25,
@@ -3575,7 +3767,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Commercial livestock rearing compared with nomadic herding (any five points): commercial livestock rearing is essentially associated with western culture and practised on permanent ranches, whereas in nomadic herding there are no permanent ranches and each nomadic community occupies a well-identified territory as a matter of tradition; ranches cover a large area divided into a number of parcels which are fenced to regulate grazing, whereas nomads move from one place to another with their livestock depending on the amount and quality of pastures and water; commercial livestock rearing is a specialised activity in which only one type of animal is reared, whereas in nomadic herding a variety of animals are kept in different regions; in commercial livestock rearing, ranching is organised on a scientific basis with emphasis on breeding, genetic improvement, disease control and health care, which is not present in nomadic herding; in commercial livestock rearing animals are reared for meat, wool, hides and skin which are processed and packed scientifically and exported to world markets, whereas in nomadic herding/pastoral nomadism herders rely on animals for food, clothing, shelter, tools and transport."
+     }
     },
     {
      "qno": 18,
@@ -3751,7 +3946,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Dairy farming near urban and industrial centres: (i) Dairy is the most advanced and efficient type of rearing of milch animals. (ii) It is practised mainly near urban and industrial centres, which provide a neighbourhood market for fresh milk and dairy products. (iii) The development of transportation, refrigeration, pasteurisation and other preservation processes are easily available near urban areas. (iv) It is highly capital intensive - animal sheds, storage facilities for fodder, feeding and milching machines add to the cost of dairy farming. (v) Special emphasis is laid on cattle breeding, health care and veterinary services, which are more available in urban centres; it is also highly labour intensive. (any five points, or any other relevant point)"
+     }
     }
    ],
    "topic_order": []
@@ -3811,7 +4009,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Factors affecting the location of industries in the world: access to market; access to raw material; access to labour supply; access to sources of energy; access to transportation and communication facilities; government policy. (Any five points to be analyzed)"
+     }
     },
     {
      "qno": 24,
@@ -3829,7 +4030,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Classification of industries on the basis of raw materials: agro-based industries; mineral-based industries; chemical-based industries; forest-based industries; animal-based industries. (Any five points to be analyzed)"
+     }
     },
     {
      "qno": 4,
@@ -3852,7 +4056,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Salt"
+     }
     },
     {
      "qno": 24,
@@ -3869,7 +4077,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) High technology manufacturing activities: it is best understood as the application of intensive research and development (R and D); it is based on advanced scientific and engineering character; professional workers (white collars) make up a large share of the total work force; these highly skilled specialists greatly outnumber the actual production (blue collar) workers; robotics on the assembly line, computer-aided design (CAD) and manufacturing, electronic controls of smelting and refining processes; the constant development of new chemical and pharmaceutical products are notable examples; the Silicon Valley near San Francisco and Silicon Forest near Seattle are examples of Technopolis. (Any five points to be explained)"
+     }
     },
     {
      "qno": 24,
@@ -3887,7 +4098,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Factors affecting location of industries in the world: access to raw material; access to market; access to labour supply; access to sources of energy; access to transportation and communication facilities; government policy; access to agglomeration economies. (Any five points to be explained)"
+     }
     },
     {
      "qno": 1,
@@ -4095,7 +4309,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Chemical-based industry"
+     }
     },
     {
      "qno": 4,
@@ -4248,7 +4466,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)."
+     }
     },
     {
      "qno": 25,
@@ -4265,7 +4487,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Cost of transport in location of industries: (i) Speedy and efficient transport facilities to carry raw materials to the factory and move finished goods to the market are essential for the development of industries. (ii) Lower transportation cost tends to concentrate more industries. (iii) Western Europe and eastern North America have a highly developed transport system which has always induced the concentration of industries in these areas. (iv) Modern industry is inseparably tied to transportation systems. (v) Improvements in transportation led to integrated economic development and regional specialization of manufacturing. (any five points, or any other relevant point)"
+     }
     },
     {
      "qno": 25,
@@ -4458,7 +4683,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Any five points to be examined: access to market; access to raw material; access to labour supply; access to sources of energy; access to transportation and communication facilities; government policy; access to agglomeration economies/links between industries."
+     }
     },
     {
      "qno": 5,
@@ -4481,7 +4709,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Cement industry"
+     }
     },
     {
      "qno": 4,
@@ -4678,7 +4910,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "18.1 The main difference between secondary and tertiary activities is that the expertise provided by tertiary (services) relies more heavily on specialized skills, experience, and knowledge of the workers rather than on production techniques, machinery and factory process.\n18.2 Relation of tertiary activity with production and exchange: professionals provide their services/skill against payment of fee e.g. lawyer, doctor, education, consultants, skilled labour etc.; professionals providing their services in trading (goods and services), transportation and communication. (Any one point)\n18.3 Examples: Trade, Transport, Health, Education. (Any two)"
+     }
     },
     {
      "qno": 6,
@@ -4701,7 +4936,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Quaternary"
+     }
     },
     {
      "qno": 25,
@@ -4718,7 +4957,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Services occur at different levels throughout the world: services are geared to industry; some to people; some to both industry and people, for example the transport system; low-order services such as grocery shops and laundries are more common; high-order services are more specialized like accountants, consultants etc.; many services have now been regulated; services are provided to individual consumers who can afford to pay for them, for example the gardeners, the launderers and the barber. (Any five points to be explained)"
+     }
     },
     {
      "qno": 4,
@@ -4902,7 +5144,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Chain Stores"
+     }
     },
     {
      "qno": 18,
@@ -4919,7 +5165,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(18.1) Common and widespread services: grocery shops or laundry (any one). (18.2) State and Union legislation have established corporations to supervise and control the marketing of services (such as transport, telecommunication, energy and water supply). (18.3) Services occur at many different levels: some are geared to industry, some to people, and some to both industry and people; there are high-order/specialized services and more common/widespread low-order services."
+     }
     },
     {
      "qno": 5,
@@ -5092,7 +5341,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "It is concerned with research and development."
+     }
     },
     {
      "qno": 21,
@@ -5109,7 +5362,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Differences between rural and urban marketing centres: (i) Rural marketing centres serve as trading centres of the most rudimentary type, while urban centres have more specialized urban services. (ii) Personal and professional services are not well developed in rural marketing centres, while urban centres are well developed. (iii) Mostly rural areas have weekly bazars; urban centres have weekly bazars as well as organized bazars. (iv) Most rural mandis act as wholesale and retail markets, whereas urban markets offer manufactured goods as well as specialized markets. (any three points of difference, or any other relevant point)"
+     }
     },
     {
      "qno": 26,
@@ -5344,7 +5600,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Only I, II and IV are correct."
+     }
     },
     {
      "qno": 7,
@@ -5367,7 +5627,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Gold collar worker – Senior business executive"
+     }
     },
     {
      "qno": 8,
@@ -5390,7 +5654,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Tourists travel specially for availing cheap medical facilities."
+     }
     },
     {
      "qno": 18,
@@ -5407,7 +5675,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "18.1 Outsourcing is giving work to an outside agency to improve efficiency and to reduce costs. 18.2 More than 50 percent of all workers in developed countries belong to the Knowledge Sector. 18.3 Mutual fund managers are demanding consumption of information-based services."
+     }
     },
     {
      "qno": 24,
@@ -5577,7 +5848,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Statements I and II both are correct, Statement II is the correct result of Statement I."
+     }
     },
     {
      "qno": 25,
@@ -5594,7 +5869,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Pipelines are used extensively to transport liquids and gases in the world: water, petroleum and natural gas are moved through pipelines for an uninterrupted flow; water supplied through pipelines is familiar to all; cooking gas or LPG is supplied through pipelines in many parts of the world; pipelines can also be used to transport liquefied coal; in New Zealand, milk is being supplied through pipelines from farms to factories; in USA there is a dense network of oil pipelines from the producing areas to the consuming areas. (Any five points to be explained)"
+     }
     },
     {
      "qno": 29,
@@ -5614,7 +5892,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "29.1 Algeria\n29.2 Pampas\n29.3 Yokohama\n29.4 Panama\n29.5 Auckland\n29.6 Perth\n29.7 Brazil\n(Attempt any five)"
+     }
     },
     {
      "qno": 9,
@@ -5637,7 +5918,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Trans-Siberian Railway"
+     }
     },
     {
      "qno": 19,
@@ -5657,7 +5942,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "19.1 Suez Canal\n19.2 Mediterranean Sea and Red Sea\n19.3 A. Port Said  B. Port Suez"
+     }
     },
     {
      "qno": 19,
@@ -5675,7 +5963,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "For Visually Impaired Candidates only: 19.1 The Atlantic and Pacific Oceans are connected by the Panama Canal.\n19.2 The Panama Canal was constructed by USA.\n19.3 The terminal ports of the Panama Canal are Panama City and Colon."
+     }
     },
     {
      "qno": 29,
@@ -5695,7 +5986,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "29.1 Brazil\n29.2 Velds\n29.3 Vladivostok\n29.4 Auckland\n29.5 Panama Canal\n29.6 Mumbai\n29.7 London\n(Attempt any five)"
+     }
     },
     {
      "qno": 18,
@@ -5932,7 +6226,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) The Panama Canal connects the Atlantic Ocean and the Pacific Ocean. Features: constructed across the Panama Isthmus between Panama City and Colon by the US government; about 72 km long; has a six-lock system; shortens the distance between New York and San Francisco; shortens the distance between western Europe and the west coast of the USA, and between north-eastern/central USA and East/South-east Asia; vital to the economies of Latin America (any four points to be explained)."
+     }
     },
     {
      "qno": 25,
@@ -5950,7 +6247,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Features of the Rhine Waterways: flows through Germany and the Netherlands; navigable from Rotterdam in the Netherlands to Basel in Switzerland; the Ruhr river joins the Rhine from the east; this waterway is the world's most heavily used; each year more than 20,000 ocean-going ships and 2,00,000 inland vessels exchange their cargo; it connects the industrial areas of Switzerland, Germany, France, Belgium and the Netherlands with the North Atlantic sea route (any five points to be explained)."
+     }
     },
     {
      "qno": 29,
@@ -5970,7 +6270,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "On the World-Political outline map: A. Velds of South Africa (an area of extensive commercial grain farming) B. Suez Canal (a shipping canal) C. Perth (a major sea port in Australia) D. Tokyo (a major airport in Japan) E. Rio de Janeiro (a major sea port of South America) F. Tropical Africa (an area of subsistence gathering) G. St. Lawrence (a major inland waterway). (Attempt any five.)"
+     }
     },
     {
      "qno": 7,
@@ -6250,7 +6553,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "iii, iv, i and ii"
+     }
     },
     {
      "qno": 19,
@@ -6270,7 +6577,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(19.1) This railway line is located in the southern part of the continent. (19.2) A - Port Augusta; B - Broken Hill. (19.3) Easternmost station - Sydney; Westernmost station - Perth."
+     }
     },
     {
      "qno": 19,
@@ -6288,7 +6598,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "For Visually Impaired Candidates only, in lieu of Q19 - three characteristics of the Australian Trans-Continental Railway: (i) It runs east-west across the southern part of the continent. (ii) It runs from Perth on the west coast to Sydney on the east coast. (iii) It passes through Kalgoorlie, Port Augusta and Broken Hill. (any three points, or any other relevant point)"
+     }
     },
     {
      "qno": 29,
@@ -6308,7 +6621,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Answer any five: (29.1) A - Cape Town/Durban (major sea-port). (29.2) B - Darwin/Wellington/Perth/Sydney (major airport). (29.3) C - Panama Canal (inland waterway). (29.4) D - Arabian Peninsula (major area of nomadic herding). (29.5) E - Argentina/Uruguay/Brazil/Venezuela/Guyana (major area of commercial livestock rearing). (29.6) F - Downs, Australia (major area of extensive commercial grain farming). (29.7) G - Temperate latitudes, South Africa/Eastern part of North America (major area of mixed farming)."
+     }
     },
     {
      "qno": 21,
@@ -6698,7 +7014,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Significance of railways in the world (any five points): railways are the significant mode of surface transport over long distances - there are around 13 lakh km of railways open for traffic in the world; commuter trains are popular in UK, USA, Japan and India; there are about 4,40,000 km of railways in Europe, the densest rail network in the world; North America has one of the most extensive rail networks; in Russia railways account for 90% of the country's total transport; there are trans-continental railways in Russia, Canada, USA, Australia and South America; in Asia the rail network is densest in the thickly populated areas of Japan, China and India; Africa has 40,000 km of railways with almost half of it in South Africa."
+     }
     },
     {
      "qno": 25,
@@ -6716,7 +7035,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Significance of road transport in the world (any five points): roads are very economical for short distances; they offer door-to-door services; they act as feeders to railways, airways and waterways; the quality of roads varies from developed to developing countries; in North America road density is very high with good connectivity; Europe has a well-developed highway network; in Russia a dense highway network is developed in the industrialised region west of the Urals; in China all major cities are connected with roads; in India there are many highways linking major cities; roads play a vital role in a nation's trade, commerce and in promoting tourism; North America accounts for 33 per cent of total motorable road length."
+     }
     },
     {
      "qno": 29,
@@ -6736,7 +7058,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "On the world political outline map (attempt any five): A - St. Petersburg (terminal station of Trans-Siberian Railway); B - Valparaiso (a major sea port); C - Nairobi (a major airport); D - Panama (an international shipping canal, the Panama Canal); E - Tropical Africa (an area of subsistence gathering); F - western United States of America (an area of commercial livestock rearing); G - South-Eastern Australia (an area of dairy farming)."
+     }
     },
     {
      "qno": 19,
@@ -6756,7 +7081,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "19.1 The easternmost terminal station of the given rail route is Vladivostok. 19.2 The most important agro centre along the rail route is Chita. 19.3 The sea near the westernmost terminal station is the Baltic Sea."
+     }
     },
     {
      "qno": 19,
@@ -6774,7 +7102,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "For Visually Impaired Candidates, in lieu of Q19, any three features of the Trans-Siberian Railway: it is a major rail route of Russia running from St. Petersburg to Vladivostok; it is the longest rail route of Asia; it has helped in opening up its Asian region to West European markets; it is the longest double-tracked and electrified trans-continental railway in the world."
+     }
     },
     {
      "qno": 21,
@@ -6791,7 +7122,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Importance of the Northern Atlantic Sea Route (any three points): it links north-eastern USA and north-western Europe, the two industrially developed regions of the world; the foreign trade over this route is greater than that of the rest of the world combined; one-fourth of the world's foreign trade moves on this route; both coasts have highly advanced ports and harbour facilities; it is the busiest route in the world and is called the Big Trunk Route."
+     }
     },
     {
      "qno": 29,
@@ -6811,7 +7145,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "On the world political outline map (attempt any five): A - Vancouver (a major sea port); B - Tokyo (a major airport); C - Suez Canal (a major shipping canal); D - Amazon Basin (a major area of subsistence gathering); E - South-West Africa (a major area of nomadic herding); F - New Zealand (a major area of commercial livestock rearing); G - Downs (a major area of extensive commercial grain farming)."
+     }
     },
     {
      "qno": 25,
@@ -7006,7 +7343,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "International trade is the exchange of goods and services among countries across national boundaries. Types of international trade in the world: Bilateral trade - done by two countries with each other; they enter into agreement to trade specified commodities amongst them, e.g. country A may agree to trade some raw material with agreement to purchase some specified item from country B or vice versa. Multi-lateral trade - conducted with many trading countries; the same country can trade with a number of other countries; the country may also grant the status of the Most Favoured Nation (MFN) to some of its trading partners."
+     }
     },
     {
      "qno": 26,
@@ -7023,7 +7363,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Basis of international trade in the world: difference in national resources - geological structure, mineral resources, climate; population factors - cultural, size of population; stage of economic development; extent of foreign investment; transport. (Any five points to be analyzed)"
+     }
     },
     {
      "qno": 26,
@@ -7098,7 +7441,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "World Trade Organisation"
+     }
     },
     {
      "qno": 20,
@@ -7115,7 +7462,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Criticisms faced by the World Trade Organization: it has been opposed by those worried about the effects of free trade and economic globalisation; free trade does not make ordinary people's lives more prosperous; it widens the gulf between rich and poor by making rich countries richer; influential nations in the WTO focus on their own commercial interests; many developed countries have not fully opened their markets to products from developing countries; issues of health, workers' rights, child labour and environment are ignored (any three points to be explained)."
+     }
     },
     {
      "qno": 20,
@@ -7133,7 +7483,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Balance of Trade is the volume of goods and services imported as well as exported by a country to other countries. Characteristics: if the value of imports is more than the value of exports, the country has a negative/unfavourable balance of trade; if the value of exports is more than the value of imports, the country has a positive/favourable balance of trade (any two points to be explained)."
+     }
     },
     {
      "qno": 8,
@@ -7367,7 +7720,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Entrepot Ports"
+     }
     },
     {
      "qno": 18,
@@ -7384,7 +7741,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(18.1) Trade liberalization means bringing down trade barriers like tariffs and opening up economies for trading. (18.2) Globalization and free trade have adversely affected the economies of developing countries, as developed countries do not give them an equal playing field, imposing conditions unfavourable to their development. (18.3) Developing countries should: (i) keep their own markets protected from foreign products; (ii) be cautious about dumped goods of cheaper prices, which can harm domestic producers; (any two points, or any other relevant point)."
+     }
     },
     {
      "qno": 4,
@@ -7719,7 +8079,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Maracaibo, Esskhira, Tripoli"
+     }
     },
     {
      "qno": 5,
@@ -7743,7 +8107,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "(A) is false but (R) is true."
+     }
     },
     {
      "qno": 20,
@@ -7760,7 +8128,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) International trade is mutually beneficial to nations (any three points): it leads to regional specialisation; it also leads to a higher level of production; it results in a better standard of living; it ensures worldwide availability of goods and services; it leads to equalisation of prices and wages and diffusion of knowledge and culture."
+     }
     },
     {
      "qno": 20,
@@ -7778,7 +8149,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Global sea ports are the gateways of international trade (any three points): the ports provide facilities of docking, loading and unloading; they also provide storage facilities for cargo; the port authorities make arrangements for maintaining navigable channels and arranging tugs and barges; ports provide services to their hinterland; the importance of a port is judged by the size of cargo and number of ships handled."
+     }
     },
     {
      "qno": 3,
@@ -7894,7 +8268,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Only I, II and III are correct"
+     }
     },
     {
      "qno": 9,
@@ -7917,7 +8295,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Natural disasters"
+     }
     },
     {
      "qno": 10,
@@ -7940,7 +8322,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Mizoram"
+     }
     },
     {
      "qno": 11,
@@ -7963,7 +8349,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Indo-European, Dravidian, Austric and Sino-Tibetan"
+     }
     },
     {
      "qno": 15,
@@ -7986,7 +8376,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Money sent by migrants"
+     }
     },
     {
      "qno": 16,
@@ -8009,7 +8403,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Employment"
+     }
     },
     {
      "qno": 17,
@@ -8032,7 +8430,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Imbalance in age and sex"
+     }
     },
     {
      "qno": 21,
@@ -8049,7 +8451,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Growth of population in Phase III (1951-1981) is referred to as a period of population explosion in India because of: rapid fall in mortality rate but a high fertility rate of population in the country; the average annual growth rate was as high as 2.2%; it is in this period after independence that developmental activities were introduced through a centralized planning process and economy started showing up, ensuring the improvement of living conditions of people at large. (Any three points of argument)"
+     }
     },
     {
      "qno": 30,
@@ -8069,7 +8474,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "30.1 Bihar\n30.2 Kolkata\n30.3 Gujarat\n30.4 Mathura\n30.5 Neyveli\n30.6 Paradwip\n30.7 Amritsar\n(Attempt any five)"
+     }
     },
     {
      "qno": 21,
@@ -8086,7 +8494,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Causes of uneven spatial distribution of population in India: physical/geographical factors - climate, relief, availability of water; socio-economic factors - development of irrigation and agriculture, availability of minerals and energy resources, development of transport, industrialization and urbanization; historical factors - evolution of settled agriculture, pattern of human settlement; religious and cultural factors. (Any three points to be analyzed)"
+     }
     },
     {
      "qno": 27,
@@ -8264,7 +8675,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Sanskrit, Bodo and Manipuri"
+     }
     },
     {
      "qno": 5,
@@ -8287,7 +8702,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Only II, III and IV are correct."
+     }
     },
     {
      "qno": 21,
@@ -8304,7 +8723,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Characteristics of 'Phase II' of growth of population in India: the decades 1921-1951 are referred to as the period of steady population growth; an overall improvement in health and sanitation throughout the country brought down the mortality rate; better transport and communication system improved the distribution system; the crude birth rate remained high in this period leading to a higher growth rate (any three points to be explained)."
+     }
     },
     {
      "qno": 1,
@@ -8535,7 +8957,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) National Youth Policy of India: (i) The National Youth Policy was launched in February 2014. (ii) The Government of India has undertaken certain policies to impart proper education to adolescent groups so that their talents could be channelized and properly utilized. (iii) It proposes a holistic 'vision' for the youth of India. (iv) To empower the youth of the country to achieve their full potential and, through them, enable India to find its rightful place in the community of nations. (v) The National Policy for Skill Development and Entrepreneurship, also formulated in 2015, provides an umbrella framework to all skilling activities. (any five points, or any other relevant point)"
+     }
     },
     {
      "qno": 28,
@@ -8553,7 +8978,10 @@
      "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Measures for overall development of youth and adolescents in India: (i) Proper education to the adolescent groups. (ii) Talents should be better channelised. (iii) Skill development programmes should be effectively implemented. (iv) Encourage entrepreneurship among the youths. (v) Eradicate social evils like drug abuse, alcoholism, juvenile delinquency and committing of crime. (vi) Overcome physical and mental disability. (vii) Overcome challenges of lower age at marriage, illiteracy (particularly female illiteracy), school dropouts, low intake of nutrients, high rate of maternal mortality of adolescent mothers, high rate of HIV and AIDS infection. (any five points, or any other relevant point)"
+     }
     },
     {
      "qno": 30,
@@ -8573,7 +9001,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Answer any five: (30.1) Arunachal Pradesh - state with the lowest population density (2011). (30.2) Uttar Pradesh - state leading in production of sugarcane. (30.3) Kandla - major sea port in Gujarat. (30.4) Hazaribagh/Singhbhum - copper mining centre in Jharkhand. (30.5) Balaghat - manganese mining centre in Madhya Pradesh. (30.6) Ratnagiri/Chandrapur - Iron-ore mining centre in Maharashtra. (30.7) Bengaluru - international airport in Karnataka."
+     }
     },
     {
      "qno": 27,
@@ -8906,7 +9337,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Tamil Nadu, Kerala and Karnataka"
+     }
     },
     {
      "qno": 10,
@@ -8929,7 +9364,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Phase I"
+     }
     },
     {
      "qno": 23,
@@ -8947,7 +9386,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "23.1 The large difference between primary and tertiary categories of female workers is because most of the male population from rural areas migrated to urban areas, so a large number of the female workforce remains engaged in the primary sector; participation of female workers in tertiary activities is low and is a recent phenomenon. 23.2 The low variation between male workers of the primary and tertiary sectors is due to a change in the workforce pattern in India; male workers are still engaged in the primary sector and many of them are also shifting to the tertiary sector with increasing job opportunities, so both sectors have a large number of male workers. 23.3 The secondary sector has a low contribution in India's workforce because India's secondary sector has low workforce contribution due to low industrial growth; there are skill gaps and a shift towards services."
+     }
     },
     {
      "qno": 30,
@@ -8967,7 +9409,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "On the political outline map of India, locate and label any five of the following (attempt any five): 30.1 Bihar - the state with the highest density of population (2011). 30.2 Assam - the state leading in tea production. 30.3 Bailadila/ Durg/ Dantewara/ Rajhara - an iron-ore mining area in southern Chhattisgarh. 30.4 Koraput/ Kalahandi/ Sambalpur/ Bolangir - a major area of bauxite mining in Odisha. 30.5 Mathura - an oil refinery in Uttar Pradesh. 30.6 Kandla/ Deendayal port - a major seaport located at the head of the Gulf of Kuchchh. 30.7 Amritsar/ Raja Sansi/ Sri Guru Ram Dass Jee - an international airport in Punjab."
+     }
     },
     {
      "qno": 9,
@@ -9198,7 +9643,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "19.1 1981, 46.14%\n19.2 In 2001, the total urban population was 2,85,355.\n19.3 Total growth of number of towns between 1901 to 2011 in India was 4,344 or 238%."
+     }
     },
     {
      "qno": 19,
@@ -9216,7 +9664,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "For Visually Impaired Candidates only: Any three characteristics of urban settlements - urban settlements are generally compact and large in size; they are engaged in a variety of non-agricultural, economic and administrative functions; cities are functionally linked to rural areas and towns around them; exchange of goods and services take place. (Any three)"
+     }
     },
     {
      "qno": 11,
@@ -9239,7 +9690,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "In rural areas way of life is complex and fast."
+     }
     },
     {
      "qno": 12,
@@ -9262,7 +9717,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Mining - Singrauli"
+     }
     },
     {
      "qno": 13,
@@ -9285,7 +9744,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Mhow"
+     }
     },
     {
      "qno": 30,
@@ -9305,7 +9768,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "30.1 Goa\n30.2 Arunachal Pradesh\n30.3 Karnataka\n30.4 Khetri\n30.5 Jamnagar\n30.6 Srinagar\n30.7 Tuticorin\n(Attempt any five)"
+     }
     },
     {
      "qno": 21,
@@ -9498,7 +9964,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Both statements I and II are correct and statement II is the correct example of statement I."
+     }
     },
     {
      "qno": 10,
@@ -9521,7 +9991,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "For maximum utilization of available water resources."
+     }
     },
     {
      "qno": 12,
@@ -9544,7 +10018,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Ankaleshwar, Singrauli and Digboi"
+     }
     },
     {
      "qno": 22,
@@ -9786,7 +10264,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Two third"
+     }
     },
     {
      "qno": 23,
@@ -9804,7 +10286,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(23.1) The decennial growth of urban population was the highest in 1981. (23.2) The urban population in India has shown a regular increasing trend from 1961 to 2011 - it was 17.97% in 1961 and 31.16% in 2011. (23.3) The number of towns in India has increased regularly since 1961 up to 2011 - it was 2365 in 1961 and 6171 in 2011; rapid growth of towns was recorded between 1981-1991."
+     }
     },
     {
      "qno": 7,
@@ -10004,7 +10489,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Main characteristics of urban settlements in India (any three): urban settlements are generally compact and larger in size; they specialise in secondary and tertiary activities; urban centres act as centres of economic growth and provide goods and services not only to city dwellers but also to rural areas; urban centres have a better network of transport and communication; cities are connected directly as well as indirectly with villages and with one another; in cities the way of life is complex and fast and social relations are formal."
+     }
     },
     {
      "qno": 22,
@@ -10022,7 +10510,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Evolution of towns in India (any three points): in India, towns have flourished since prehistoric times like Harappa and Mohenjodaro; India witnessed evolution of towns with many ups and downs until the arrival of Europeans; on the basis of their evolution, Indian towns are classified as (a) Ancient Towns - having a historical background spanning over 2000 years, developed as religious/cultural centres e.g. Varanasi, Prayag (Allahabad), Pataliputra (Patna), Madurai; (b) Medieval Towns - rooted in the medieval period, developed as fort towns on the ruins of ancient towns as headquarters of principalities and kingdoms e.g. Delhi, Hyderabad, Jaipur, Lucknow, Agra, Nagpur; (c) Modern Towns - developed by the British and other Europeans such as Surat, Daman, Goa, Pondicherry; the British later consolidated their hold around Mumbai, Chennai and Kolkata, and built hill towns, industrial towns and administrative towns; after independence many towns developed as administrative headquarters - Delhi, Chandigarh, Gandhinagar, Dispur; many industrial towns developed like Durgapur, Bhilai; some old towns developed as satellite towns like Ghaziabad, Rohtak, Gurugram around Delhi."
+     }
     },
     {
      "qno": 22,
@@ -10040,7 +10531,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "22.1 The net increase in number of towns/UAs was lowest during the decade 1961-1971. 22.2 The net increase in number of towns/UAs during 1981-91 was 1311 towns. 22.3 The decennial growth rate of urban population has been increasing continuously since 1961; it was 17.97% in 1961-71 (base) and increased to a level of 31.16 percent by 2001-2011 (any one point to be explained)."
+     }
     },
     {
      "qno": 10,
@@ -10204,7 +10698,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Only I and IV are correct."
+     }
     },
     {
      "qno": 22,
@@ -10221,7 +10719,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "The objectives of National Mission for Sustainable Agriculture are: to make agriculture more productive; sustainable; remunerative; climate resilient by promoting location-specific integrated/composite farming systems; to conserve natural resources through appropriate soil and moisture conservation measures. (Any three objectives to be described)"
+     }
     },
     {
      "qno": 16,
@@ -10244,7 +10745,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Soil erosion"
+     }
     },
     {
      "qno": 22,
@@ -10261,7 +10766,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Erratic monsoon is a problem of Indian agriculture: irrigation covers only about 33 percent of the cultivated area in India, the crop production in the rest of the cultivated land directly depends on rain; poor performance of the South-West monsoon adversely affects the supply of canal water for irrigation; rainfall in drought-prone areas is too meagre and highly unreliable; areas receiving high annual rainfall experience considerable fluctuations; erratic monsoon may cause flood or drought. (Any three points to be explained)"
+     }
     },
     {
      "qno": 13,
@@ -10324,7 +10832,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Barani"
+     }
     },
     {
      "qno": 19,
@@ -10341,7 +10853,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(19.1) Forest — category with the highest net increase in 2014-15 compared to 1950-51. (19.2) Barren and unculturable waste land — category with the highest net decline in 2014-15 compared to 1950-51. (19.3) Reasons for decline in land under culturable wasteland: pressure from the agricultural sector; pressure from non-agricultural sector/activities (any other relevant point)."
+     }
     },
     {
      "qno": 19,
@@ -10359,7 +10874,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "Note: For Visually Impaired Candidates only, in lieu of Q. No. 19 — Land use in a region is influenced by the nature of economic activities carried out in that region: (i) the size of the economy, (ii) the composition of the economy, (iii) though the contribution of agricultural activities reduces over time, the pressure on land for agricultural activities does not decline (any other relevant point; any three points to be explained)."
+     }
     },
     {
      "qno": 15,
@@ -10646,7 +11164,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Both i and iii"
+     }
     },
     {
      "qno": 19,
@@ -10877,7 +11399,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Gully erosion"
+     }
     },
     {
      "qno": 26,
@@ -10894,7 +11420,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Land-use in a region influenced by economic activities (any five points): the nature of economic activities changes over time but land is a fixed resource; the size of the economy increases as a result of increasing population and income levels, which increases pressure on land and marginal land is put to use; the composition of the economy undergoes change over time, resulting in growth of the secondary and tertiary sectors, resulting in a shift of land from agriculture to non-agricultural uses; with growth of the economy the demand for land increases, so forest land is put to other uses; with increase in population, demand for more food increases and pressure on agricultural land increases, so culturable wasteland and fallow land other than current fallow are included in agricultural land to increase food production."
+     }
     },
     {
      "qno": 26,
@@ -10912,7 +11441,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Indian agricultural problems - physical constraints and institutional hindrances (any five points): dependence on erratic monsoon; low productivity; constraints of financial resources and indebtedness; lack of land reforms; small farm size and fragmentation of land holdings; lack of commercialisation; vast underemployment; degradation of cultivable land."
+     }
     },
     {
      "qno": 26,
@@ -10929,7 +11461,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Problem of low productivity of Indian agriculture (any two points): the yield of crops in the country is low in comparison to the international level; per hectare output of most crops such as rice, wheat, cotton and oil seeds in India is much lower than that of USA, Russia and Japan; labour productivity is low in comparison to the international level; vast rainfed areas in the country, especially in drylands, have low yields. National Mission for Sustainable Agriculture (any three points): it aims to make agriculture more productive, sustainable, remunerative and climate resilient; it promotes location-specific and integrated farming systems; it conserves natural resources through appropriate soil and moisture conservation measures; the government has been promoting schemes such as Paramparagat Krishi Vikas Yojana (PKVY) and Rashtriya Krishi Vikas Yojana (RKVY)."
+     }
     },
     {
      "qno": 26,
@@ -10947,7 +11482,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Problems of indebtedness of Indian farmers (any two points): the inputs of modern agriculture are very expensive; this resource-intensive approach has become unmanageable for marginal and small farmers as they have very meagre or no savings to invest in agriculture; to tide over these difficulties, most farmers have resorted to availing credit from various institutions and money lenders; crop failures and low returns from agriculture have forced them into the trap of indebtedness. Importance of farmer's portal (any three points): it is a platform for farmers to seek any information related to agriculture; detailed information on farmers' insurance, agriculture storage, crops, extension activities, seeds, pesticides and farm machinery is provided; details of fertilizers, market prices, package and practices, and programmes are provided; welfare schemes are also given; block-level details related to soil fertility, storage, insurance and training are available in an interactive map."
+     }
     },
     {
      "qno": 30,
@@ -10967,7 +11505,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "On the political outline map of India, locate and label any five of the following (attempt any five): 30.1 Uttar Pradesh - the state leading in the production of sugarcane. 30.2 Barauni - an oil refinery located in Bihar. 30.3 Raniganj - important coal mines located in West Bengal. 30.4 Ratnagiri - important iron-ore mines located in coastal Maharashtra. 30.5 Balaghat - important manganese mines located in Madhya Pradesh. 30.6 Paradwip - a major sea port located in Odisha. 30.7 Hyderabad - an important international airport in Telangana."
+     }
     },
     {
      "qno": 14,
@@ -11325,7 +11866,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "To divert the flow of the river from the cities"
+     }
     },
     {
      "qno": 9,
@@ -11475,7 +12020,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Ganganagar"
+     }
     },
     {
      "qno": 10,
@@ -11783,7 +12332,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Characteristics of the mineral belt of the South-Western Plateau region of India: this belt extends over Karnataka, Goa, and contiguous Tamil Nadu uplands and Kerala; this belt is rich in ferrous metals and bauxite; it also contains high grade iron ore, manganese and limestone; this belt lacks coal deposits except the Neyveli lignite mines. (Any three points to be mentioned)"
+     }
     },
     {
      "qno": 23,
@@ -11801,7 +12353,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Characteristics of the mineral belt of the North-Western region of India: this belt extends along the Aravali in Rajasthan and part of Gujarat; minerals are associated with the Dharwar system of rocks; copper and zinc have been the major minerals; Rajasthan is rich in building stones, i.e. sandstone, granite, marble etc. (Any three points to be mentioned)"
+     }
     },
     {
      "qno": 23,
@@ -11818,7 +12373,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Coal as a source of conventional energy in India: it is an exhaustible resource; coal is one of the important minerals mainly used in the generation of thermal power; coal is also used in smelting of iron ore; about 80% of the coal deposits in India is of bituminous type; the most important Gondwana coal fields of India are located in the Damodar Valley. (Any three points to be explained)"
+     }
     },
     {
      "qno": 23,
@@ -11836,7 +12394,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Importance of solar energy as a source of non-conventional energy in India: sun rays tapped in photovoltaic cells can be converted into energy, known as solar energy; solar thermal technology has some relative advantages over all other non-renewable energy sources; it is cost competitive; it is environment friendly; it is easy to construct; it is generally used in appliances like solar heaters, crop dryers, cookers etc. (Any three points to be explained)"
+     }
     },
     {
      "qno": 28,
@@ -11887,7 +12448,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Relationship between conservation of mineral resources and sustainable development: the challenge of sustainable development requires integrating the quest for economic development with environmental concerns; traditional methods of resource use generate enormous quantities of waste and create other environmental problems; sustainable development calls for protection of resources for future generations, so there is an urgent need to conserve resources; alternative energy sources like solar, wind, wave and geothermal energy are inexhaustible and should be developed to replace exhaustible resources; for metallic minerals, use of scrap metal enables recycling, especially significant for metals like copper, lead and zinc; use of substitutes for scarce metals may reduce their consumption; export of strategic and scarce minerals must be reduced (any five points to be analysed)."
+     }
     },
     {
      "qno": 28,
@@ -11905,7 +12469,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Advantages of non-conventional energy sources: inexhaustible resources which are abundantly available; more equitably distributed; environment-friendly; renewable energy sources like solar, wind, hydro, geothermal, biomass, etc.; more sustained and eco-friendly; cheaper energy sources; full potential to replace conventional sources of energy. Solar energy example: cost-competitive; environment-friendly; easy to construct; used more in appliances like heaters, crop dryers, coolers, etc.; the western part of India like Gujarat and Rajasthan has greater potential (any five points to be analysed)."
+     }
     },
     {
      "qno": 10,
@@ -12049,7 +12616,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "ii, iv, i and iii"
+     }
     },
     {
      "qno": 8,
@@ -12072,7 +12643,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "To transport, process and market natural gas."
+     }
     },
     {
      "qno": 22,
@@ -12089,7 +12664,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Non-conventional sources of energy should be used in India for sustainable development: (i) Sustainable development requires integration of the quest for economic development with environmental concerns. (ii) Traditional methods of resource use generate enormous quantities of waste and create other environmental problems like pollution. (iii) It calls for protection of resources for future generations. (iv) Alternative sources of energy like solar power, wind, wave and geo-thermal energy are inexhaustible. (v) Non-conventional sources of energy are more cost-effective than conventional sources, particularly petroleum, as the import cost of petroleum is higher. (any three points, or any other relevant point)"
+     }
     },
     {
      "qno": 28,
@@ -12285,7 +12863,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Significance of petroleum as a major source of energy (any three points): petroleum is an essential source of energy for all internal combustion engines in automobiles, railways and aircraft; it has numerous by-products processed and used in petrochemical industries like fertilizers, synthetic rubber, fibre, medicines, vaseline, lubricants, wax, soap and cosmetics; petroleum is scarce but has diversified uses, so it is referred to as liquid gold; in 1956 the government set up the Oil and Natural Gas Commission (ONGC) for systematic exploration and production of oil and natural gas. Distribution of petroleum in India (any two points): Digboi, Naharkatiya and Moran in Assam; Ankaleshwar, Kalol, Mehsana, Nawagam, Kosamba and Lunej in Gujarat; Mumbai High in the Arabian Sea; exploratory wells of the Krishna-Godavari and Kaveri basins on the east coast."
+     }
     },
     {
      "qno": 27,
@@ -12303,7 +12884,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Significance of iron-ore as industrial raw material (any three points): it provides a strong base for the development of metallurgical industries; India is endowed with fairly abundant resources of iron ore and has the largest reserve of iron ore in Asia; the two main types of iron ore found in India are hematite and magnetite; it has great demand in the international market due to its superior quality; iron ore mines occur in close proximity to coal fields in the north-eastern plateau region, which adds to its advantage. Distribution of iron ore in India (any two points): Odisha is the leading producer, with iron ore occurring in a series of hill ranges in Sundergarh, Mayurbhanj and Jhar; major regions in Jharkhand are Poorbi and Pashchimi Singhbhum districts; major regions in Chhattisgarh are Durg, Dantewara and Bailadila; major regions in Karnataka are Ballari, Chikkamagaluru, Shivamogga, Chitradurg and Tumakuru; major regions in Maharashtra are Chandrapur, Bhandara and Ratnagiri; major regions in Telangana are Karimnagar and Warangal; major regions in Andhra Pradesh are Kurnool, Cuddapah and Anantapur; major regions in Tamil Nadu are Salem and Nilgiris; Goa has also emerged as an important producer of iron ore."
+     }
     },
     {
      "qno": 7,
@@ -12326,7 +12910,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "II, I, IV, III"
+     }
     },
     {
      "qno": 9,
@@ -12349,7 +12937,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "a-iii, b-iv, c-i, d-ii"
+     }
     },
     {
      "qno": 10,
@@ -12372,7 +12964,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Bauxite"
+     }
     },
     {
      "qno": 12,
@@ -12477,7 +13073,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Attaining sustainable development in the Indira Gandhi Canal (Nahar) Command Area requires major thrust on measures to achieve ecological sustainability: strict implementation of water management policy is the first requirement; the canal project envisages protective irrigation in Stage-I and extensive irrigation of crops and pasture development in Stage-II; in general the cropping pattern shall not include water intensive crops, people should be encouraged to grow plantation crops such as citrus fruits; CAD programmes such as lining of water courses, land development and levelling and warabandi system shall be effectively implemented to reduce the conveyance loss of water; areas affected by water-logging and soil salinity shall be reclaimed; eco-development through afforestation, shelter belt plantation and pasture development is necessary particularly in the fragile environment of Stage-II. (Any five points to be explained)"
+     }
     },
     {
      "qno": 15,
@@ -12500,7 +13099,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Declining productivity of the land"
+     }
     },
     {
      "qno": 17,
@@ -12523,7 +13126,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "State government has provided money to implement watershed management programme."
+     }
     },
     {
      "qno": 27,
@@ -12540,7 +13147,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Integrated tribal development project in the context of Bharmaur region: development of infrastructure in terms of schools, healthcare facilities, potable water, roads, communication and electricity; tremendous increase in literacy rate; improvement in sex ratio; decline in child marriage; the female literacy rate increased; gender inequality has declined; during the last three decades the cultivation of pulses and other cash crops has increased. (Any five points to be examined)"
+     }
     },
     {
      "qno": 15,
@@ -12747,7 +13357,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Indira Gandhi Canal Command Area — Ganganagar, Hanumangarh"
+     }
     },
     {
      "qno": 23,
@@ -12838,7 +13452,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Target Area Planning: The approach to address regional imbalance by focusing on the resource base of the economically backward region is known as target area planning. Need of target area planning for development: (i) The economic development of a region depends upon its resource base; sometimes resource-rich regions remain backward. (ii) To arrest the accentuation of regional and social disparities, the Planning Commission introduced the 'target area' and 'target group' approaches to planning. (iii) It was realized that regional imbalances in economic development were getting accentuated. (iv) Target areas include 'Command Area Development Programme', 'Drought Prone Areas Development Programme', 'Desert Development Programme', etc. (v) In the 8th Five Year Plan, special area programmes were designed to develop infrastructure in hill areas, north-eastern states, tribal areas and backward areas. (any four points, or any other relevant point)"
+     }
     },
     {
      "qno": 26,
@@ -12856,7 +13473,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Regional Planning: Planning to reduce regional imbalance in development is termed as regional planning. Outcomes of Integrated Tribal Development Project in Bharmaur region: (i) Development of infrastructure in terms of schools, healthcare facilities and potable water. (ii) Increased facilities of roads and communication. (iii) Improvement in availability of electricity. (iv) Tremendous increase in literacy rate, especially female literacy. (v) Improvement in sex ratio. (vi) Decline in child marriage. (vii) Gender inequality declined. (viii) The cultivation of pulses and other cash crops has increased in Bharmaur region. (any four points, or any other relevant point)"
+     }
     },
     {
      "qno": 14,
@@ -12926,7 +13546,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "(A) is incorrect but (R) is correct."
+     }
     },
     {
      "qno": 8,
@@ -12949,7 +13573,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "II and IV"
+     }
     },
     {
      "qno": 13,
@@ -13072,7 +13700,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Kandla"
+     }
     },
     {
      "qno": 14,
@@ -13095,7 +13727,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "i – 2, ii – 3, iii – 4, iv – 1"
+     }
     },
     {
      "qno": 28,
@@ -13112,7 +13748,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) India has one of the second largest road networks in the world: about 85% of passengers are carried by roads every year; 70% of freight traffic is carried by roads every year; for construction and maintenance, roads are classified as NH, SH, Major District Roads and Rural Roads; NH connect state capitals, major cities, ports, railway junctions etc., e.g. Golden Quadrilateral, North-South and East-West corridors; SH connects the state capital with district headquarters; district roads connect district headquarters with important nodes in the district; most roads in rural areas provide vital links; border roads are of strategic importance in frontier areas. (Any five points to be explained)"
+     }
     },
     {
      "qno": 28,
@@ -13130,7 +13769,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Indian Railways network is one of the longest in the world: Indian Railways is the largest government undertaking in the country; it facilitates the movement of passengers and goods and contributes to the growth of the economy; it integrates people of different castes, religion, culture and economic conditions; in India, the railway system has been divided into 16 zones for better management; Konkan Railway is an important achievement of Indian Railways; the railway system is being upgraded, e.g. the operation of the Metro in cities. (Any five points to be explained)"
+     }
     },
     {
      "qno": 14,
@@ -13153,7 +13795,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Only I, II and IV are correct."
+     }
     },
     {
      "qno": 28,
@@ -13170,7 +13816,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Pipelines as a convenient mode of transportation in India: solids can be transported through pipelines after converting them into slurry; Asia's first cross-country pipeline covering a distance of 1157 km was constructed by OIL from Naharkatiya oil field in Assam to Barauni refinery in Bihar; it was further extended up to Kanpur; another extensive network of pipeline has been constructed in Western and Northern India; Hajira-Vijaipur-Jagdishpur (HVJ) is the most important pipeline constructed by GAIL; natural gas is transported from Mumbai High and Bassein gas fields to various fertilizer, power and industries. (Any five points to be explained)"
+     }
     },
     {
      "qno": 28,
@@ -13188,7 +13837,10 @@
      "bloom": "Understand",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Importance of Indian ports as gateways of international trade: India is surrounded by sea on three sides and is bestowed with a long coastline; water provides a smooth surface for very cheap transport; India has a long tradition of sea-faring; its West coast has more ports than its East coast; Kandla port receives a large quantity of petroleum, petroleum products and fertilizers; Mumbai port trades mineral oil; Vishakhapatnam port developed for handling iron ore, petroleum and general cargo. (Any five points to be explained)"
+     }
     },
     {
      "qno": 10,
@@ -13349,7 +14001,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Allahabad/Prayagraj – Haldia"
+     }
     },
     {
      "qno": 11,
@@ -13372,7 +14028,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Indian Railways"
+     }
     },
     {
      "qno": 30,
@@ -13392,7 +14052,10 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "On the India-Political outline map: (30.1) Tuticorin — major sea port. (30.2) Khetri — copper mines. (30.3) Amritsar — international airport in Punjab. (30.4) West Bengal — leading rice producing state. (30.5) Bihar — state with the highest density of population. (30.6) Mathura — oil refinery in Uttar Pradesh. (30.7) Jharia — coal mines. (Attempt any five.)"
+     }
     },
     {
      "qno": 11,
@@ -13881,7 +14544,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "(A) is correct, but (R) is incorrect."
+     }
     },
     {
      "qno": 27,
@@ -13898,7 +14565,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Indian railways facilitating movement of freight and passengers: (i) Indian railway network is one of the longest in the world. (ii) Conversion of metre and narrow gauge to broad gauge and replacement of steam engines by diesel and electric engines has increased speed and haulage capacity. (iii) Metro rail has revolutionised the urban transport system in India, facilitating movement of people and enhancing their working efficiency and spatial spheres. (iv) Areas around towns, raw-material-producing areas, plantation and other commercial-crop areas, hill stations and cantonment towns were well connected by railways from the British colonial era. (v) After independence, railway routes have been extended to other areas; the most significant development has been the Konkan railway along the west coast, providing a direct link between Mumbai and Mangalore. (vi) Railway continues to remain the main means of transport for the masses as well as goods. (any five points, or any other relevant point)"
+     }
     },
     {
      "qno": 27,
@@ -13916,7 +14586,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Indian ports growing for successful international trade: (i) Indian ports are growing continuously after independence. (ii) Indian ports are handling large volumes of domestic as well as overseas trade. (iii) Most of the ports are equipped with modern infrastructure. (iv) Previously, the development and modernization was the responsibility of government agencies. (v) Considering the increase in function and the need to bring these ports at par with international ports, private entrepreneurs have been invited for modernisation of ports in India. (vi) The capacity of Indian ports increased more than forty times in 2016 since 1951. (any five points, or any other relevant point)"
+     }
     },
     {
      "qno": 22,
@@ -14089,7 +14762,11 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Delhi, Kolkata, Chennai and Mumbai"
+     }
     },
     {
      "qno": 12,
@@ -14112,7 +14789,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Kolkata"
+     }
     },
     {
      "qno": 12,
@@ -14135,7 +14816,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Airport Authority of India"
+     }
     },
     {
      "qno": 13,
@@ -14158,7 +14843,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Marmagao"
+     }
     },
     {
      "qno": 14,
@@ -14181,7 +14870,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "National Waterways No. 1 – Allahabad – Haldia"
+     }
     },
     {
      "qno": 23,
@@ -14198,7 +14891,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Need to extend the network of national highways in India (any three points): national highways constitute about 2% of the road length but carry 40% of the road traffic, so extending the network of national highways is crucial; these roads are meant for inter-state transport; movement of defence personnel and material in strategic areas is through these highways; these highways connect state capitals, major cities, important ports and railway junctions; goods, services and passengers move to different places for transportation through them; they reduce time and cost to cover long distances; they reduce traffic congestion on roads."
+     }
     },
     {
      "qno": 11,
@@ -14529,7 +15225,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Indian sea ports as gateways of international trade: India is surrounded by sea on three sides and has a long coastline; India has a long tradition of seafaring; the Indian west coast has more ports than the east coast; there are variations in the size and quality of ports; ports act as suction points of resources from their hinterlands; extension of railways linked the ports to local, regional and national markets; Indian ports handle a large volume of domestic as well as overseas trade; at present India has 12 major ports and about 200 minor/intermediate ports (any five points to be explained)."
+     }
     },
     {
      "qno": 10,
@@ -14748,7 +15447,10 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Importance of Indian seaports in international trade (any five points): India has 12 major and about 200 minor or intermediate ports; these ports are the gateways of international trade; Indian ports handle a large volume of domestic as well as overseas trade; approximately 95 per cent of India's foreign trade by volume and 70 per cent by value moves through ocean routes; most of the ports are equipped with modern infrastructure; the capacity of Indian ports increased from 20 million tonnes of cargo handling in 1951 to more than 837 million tonnes in 2016."
+     }
     },
     {
      "qno": 28,
@@ -14766,7 +15468,10 @@
      "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Changing pattern of India's international trade (any five points): India's international trade has increased manifold from 1950-51 to 2020-21; export of traditional agricultural products like cashews has decreased, whereas floricultural products, fresh fruits, marine products and sugar have increased; during the 1950s and 1960s foodgrains, capital goods, machinery and equipment were imported, but after the 1970s foodgrain imports were replaced by fertilizers as a result of the Green Revolution, and import of crude petroleum also increased, resulting in an increase in export of petroleum products; export of manufactured and engineering goods has significantly increased; machines and equipment, special steel, edible oil and chemicals make up a large part of the import basket; import of capital goods has declined; export of ore and minerals has largely remained constant over the years; pearls, precious and semi-precious stones, gold and silver have become part of both exports and imports, as India imports these, adds value by converting them into gems and jewellery, and exports them."
+     }
     },
     {
      "qno": 11,
@@ -14789,7 +15494,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Manufactured goods"
+     }
     },
     {
      "qno": 28,
@@ -14935,7 +15644,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "18.1 Noise pollution refers to the state of unbearable and uncomfortable conditions to human beings.\n18.2 Noise pollution is hazardous in metropolitan cities in India due to industrial areas, arteries of transportation, airports etc.\n18.3 Noise pollution is location specific because its intensity declines with increase in distance from the source of pollution."
+     }
     },
     {
      "qno": 7,
@@ -15061,7 +15773,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Leather, pulp and paper"
+     }
     },
     {
      "qno": 23,
@@ -15078,7 +15794,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "Problems of slums in India: residential areas of the least choice, dilapidated houses, poor hygienic conditions; lack of ventilation and basic amenities like drinking water, light and toilet facilities; open defecation, unregulated drainage system; overcrowded, narrow street patterns; prone to different types of diseases and illness; prone to social problems like drug abuse, alcoholism, crime, etc. (any three points to be explained)."
+     }
     },
     {
      "qno": 13,
@@ -15285,7 +16004,11 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "C",
+      "text": "Only i, ii and iv are correct."
+     }
     },
     {
      "qno": 11,
@@ -15308,7 +16031,11 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "B",
+      "text": "Decibel"
+     }
     },
     {
      "qno": 12,
@@ -15331,7 +16058,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "A",
+      "text": "Jhabua District – Bhil Tribe"
+     }
     },
     {
      "qno": 13,
@@ -15539,7 +16270,11 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "opt": "D",
+      "text": "Decibel"
+     }
     },
     {
      "qno": 19,
@@ -15556,7 +16291,10 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "19.1 Industries produce industrial waste, poisonous gases, chemical effluents, dust, smoke and heavy metals; when these mix with water they pollute it. 19.2 Ways to minimise water pollution (any one): preventing industrial waste disposal in rivers and lakes to protect their bio-system; preventing agricultural waste like fertilizers and pesticides from reaching fresh water bodies; organising public awareness programmes about the importance of water and the impact of water pollution; encouraging industries and households to reuse treated water. 19.3 Two highly polluted rivers of India: the Ganga/ the Yamuna/ the Sabarmati/ the Gomti/ the Kali/ the Adyar/ the Cooum/ the Vaigai/ the Musi (any two)."
+     }
     },
     {
      "qno": 28,
@@ -15573,7 +16311,10 @@
      ],
      "bloom": "Evaluate",
      "difficulty": "Difficult",
-     "topic": "General"
+     "topic": "General",
+     "answer": {
+      "text": "(a) Causes of air pollution (any two points): increasing use of varieties of fuels as a source of energy has marked a increase in emission of toxic gases into the atmosphere, resulting in pollution of air; combustion of fossil fuels, mining and industries are the main sources of air pollution; solid waste and sewage disposal are also responsible for air pollution; these processes release oxides of sulphur and nitrogen, hydrocarbons, carbon dioxide, carbon monoxide, lead and asbestos. Measures to overcome air pollution (any three): use of non-conventional sources of energy; control over mining and deforestation; use of pollution-free fuel in industries; increase the height of chimneys and use smoke stacks/filters/scrubbers; use of electric vehicles; reduce, reuse and recycle waste, and promote sewage treatment plants; more use of public transport."
+     }
     },
     {
      "qno": 28,
@@ -15591,7 +16332,10 @@
      "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "General",
-     "figures": []
+     "figures": [],
+     "answer": {
+      "text": "(b) Causes of noise pollution (any two points): noise pollution refers to a state that is unbearable and uncomfortable to human beings, caused by noise from different sources; the main sources of noise pollution are various factories, mechanised construction and demolition work; automobiles and aircraft are also sources of noise pollution; periodic noise from sirens and loudspeakers used in various programmes associated with community activities; the biggest nuisance is noise produced from traffic. Measures to overcome noise pollution (any three): machinery, equipment and generators should be fitted with silencers; machinery can be redesigned to reduce noise; noise-absorbing material may be used; personal use of earplugs and earphones; factories should not be located near human settlements."
+     }
     },
     {
      "qno": 19,
