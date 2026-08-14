@@ -63,6 +63,25 @@
     return fetch(dv(sub.data)).then(function (r) { return r.json(); }).then(keep);
   }
 
+  // ---- Issued-question ledger (data/issued.json) --------------------------
+  // A frozen record of which questions each exam's worksheets actually carried.
+  // It does two jobs: a circulated sheet REPLAYS from the ledger (so it reprints
+  // exactly as issued even after the bank changes underneath it), and every
+  // LATER exam excludes those questions, so a chapter is never set twice.
+  // Written by scripts/freeze_exam.py; absent file = nothing frozen yet.
+  var ISSUED = null, ISSUED_P = null;
+  var ISSUED_EMPTY = { version: 1, exams: {} };
+  function getIssued() {
+    if (ISSUED) return Promise.resolve(ISSUED);
+    if (ISSUED_P) return ISSUED_P;
+    if (INLINE) { ISSUED = INLINE.issued || ISSUED_EMPTY; return Promise.resolve(ISSUED); }
+    ISSUED_P = fetch(dv("data/issued.json"))
+      .then(function (r) { return r.ok ? r.json() : ISSUED_EMPTY; })
+      .catch(function () { return ISSUED_EMPTY; })
+      .then(function (j) { ISSUED = (j && j.exams) ? j : ISSUED_EMPTY; return ISSUED; });
+    return ISSUED_P;
+  }
+
   function esc(s) {
     return (s == null ? "" : String(s)).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -2631,11 +2650,14 @@
   var EXAM = { exam: "half", subId: "business-studies", data: null };
 
   // minutes per question at home-practice pace: 2 minutes per mark, uniformly.
-  var EXAM_TIME = { 1: 2, 2: 4, 3: 6, 4: 8, 5: 10, 6: 12 };
+  var EXAM_TIME = { 1: 2, 2: 4, 3: 6, 4: 8, 5: 10, 6: 12, 8: 16, 10: 20 };
   // Mark bands a worksheet may draw on. Subjects differ: Business Studies uses
   // 1/3/4/6, while Maths (and Physics/Chemistry/Biology) use 1/2/3/4/5 and have
   // no 6-markers at all. A blueprint row only lists the bands it actually wants.
-  var EXAM_BANDS = [1, 2, 3, 4, 5, 6];
+  // A band MISSING from this list is silently skipped by every builder, so it
+  // must cover every mark value any blueprint row asks for — History sets an
+  // 8-mark source-based question and English a 10-mark comprehension passage.
+  var EXAM_BANDS = [1, 2, 3, 4, 5, 6, 8, 10];
 
   var EXAM_PAPERS = [
     { id: "half", name: "Half Yearly", live: true },
@@ -2857,16 +2879,56 @@
   var EXAM_RESERVE_YEAR = 2026;
   var EXAM_DIFF_RANK = { Easy: 0, Average: 1, Difficult: 2 };
 
+  // ---- ledger lookups ----
+  // The question ids this exam froze for one sheet, or null if it isn't frozen.
+  function examFrozen(examId, subId, sheetName) {
+    var e = ISSUED && ISSUED.exams && ISSUED.exams[examId];
+    var s = e && e.subjects && e.subjects[subId];
+    var l = s && s[sheetName];
+    return l && l.length ? l : null;
+  }
+  function examFrozenAt(examId) {
+    var e = ISSUED && ISSUED.exams && ISSUED.exams[examId];
+    return (e && e.frozen) || "";
+  }
+  // Every question some OTHER exam has already issued in this subject — the set
+  // a freshly built sheet must avoid. An exam never excludes its own ledger:
+  // that one is replayed verbatim instead. Returns qid -> exam id.
+  function examUsedElsewhere(examId, subId) {
+    var out = {}, exams = (ISSUED && ISSUED.exams) || {};
+    Object.keys(exams).forEach(function (k) {
+      if (k === examId) return;
+      var s = exams[k].subjects && exams[k].subjects[subId];
+      if (!s) return;
+      Object.keys(s).forEach(function (sheet) {
+        (s[sheet] || []).forEach(function (id) { out[id] = k; });
+      });
+    });
+    return out;
+  }
+  // qid -> question across the WHOLE subject (a combo sheet spans chapters).
+  function examIndex(data) {
+    if (data.__qix) return data.__qix;
+    var ix = {};
+    (data.chapters || []).forEach(function (c) {
+      (c.questions || []).forEach(function (q) { ix[qId(q)] = q; });
+    });
+    try { Object.defineProperty(data, "__qix", { value: ix }); } catch (e) { data.__qix = ix; }
+    return ix;
+  }
+
   function examSubjects(subs) {
     var bp = EXAM_BLUEPRINT[EXAM.exam] || {};
     return subs.filter(function (s) { return !!bp[s.id]; });
   }
 
   // Deterministic pick: for one mark band, spread across sub-topics, easier first.
-  function examPickBand(qs, marks, n) {
+  // `exclude` is a qid map of questions another exam has already issued.
+  function examPickBand(qs, marks, n, exclude) {
     if (n <= 0) return [];
     var pool = qs.filter(function (q) {
       if ((q.marks || 0) !== marks) return false;
+      if (exclude && exclude[qId(q)]) return false;   // already issued by another exam
       var papers = q.papers || [];
       for (var i = 0; i < papers.length; i++) {
         if (papers[i].year === EXAM_RESERVE_YEAR) return false;   // reserved for pre-boards
@@ -2902,20 +2964,8 @@
     return out;
   }
 
-  function examBuildSet(data, row) {
-    if (row.parts) return examBuildComboSet(data, row);
-    var name = row[0];
-    var ch = (data.chapters || []).filter(function (c) { return c.chapter === name; })[0];
-    var qs = ch ? ch.questions : [];
-    var want = row[1] || {};
-    var picked = [], short = [];
-    EXAM_BANDS.forEach(function (m) {
-      var n = want[m] || 0;
-      if (!n) return;
-      var got = examPickBand(qs, m, n);
-      if (got.length < n) short.push(n - got.length + " × " + m + "m");
-      picked = picked.concat(got);
-    });
+  // Sum a picked list into the sheet object every builder path returns.
+  function examSet(name, picked, want, short, opts) {
     var marks = 0, mins = 0, topics = {}, withAns = 0;
     picked.forEach(function (q) {
       marks += q.marks || 0;
@@ -2928,29 +2978,78 @@
     return {
       chapter: name, questions: picked, marks: marks, mins: Math.round(mins),
       want: want, topics: Object.keys(topics).length, short: short,
-      withAns: withAns, available: !!ch
+      withAns: withAns, available: opts.available,
+      frozen: !!opts.frozen, missing: opts.missing || 0
     };
+  }
+
+  // Rebuild a sheet from its frozen ledger, in the order it was issued. A qid
+  // that no longer resolves (the bank changed since) is counted, not guessed at.
+  function examReplay(data, name, ids, want, available) {
+    var ix = examIndex(data), picked = [], missing = 0;
+    ids.forEach(function (id) {
+      var q = ix[id];
+      if (q) picked.push(q); else missing++;
+    });
+    var short = missing ? [missing + " question" + (missing > 1 ? "s" : "") + " no longer in the bank"] : [];
+    return examSet(name, picked, want, short,
+                   { available: available, frozen: true, missing: missing });
+  }
+
+  // isPart = this row is one chapter slice of a combo sheet; the ledger is keyed
+  // by the COMBO's name, so a slice must not look itself up.
+  // `carry` accumulates the qids this exam has already placed on an earlier
+  // sheet, so two sheets of the same exam can't land on the same question
+  // (only possible if a blueprint lists one chapter twice, but cheap to hold).
+  function examBuildSet(data, row, isPart, carry) {
+    if (row.parts) return examBuildComboSet(data, row, carry);
+    var name = row[0];
+    var ch = (data.chapters || []).filter(function (c) { return c.chapter === name; })[0];
+    var qs = ch ? ch.questions : [];
+    var want = row[1] || {};
+    if (!isPart) {
+      var ids = examFrozen(EXAM.exam, EXAM.subId, name);
+      if (ids) {
+        var rep = examReplay(data, name, ids, want, !!ch);
+        if (carry) ids.forEach(function (id) { carry[id] = 1; });
+        return rep;
+      }
+    }
+    var excl = examUsedElsewhere(EXAM.exam, EXAM.subId);
+    if (carry) Object.keys(carry).forEach(function (id) { excl[id] = EXAM.exam; });
+    var picked = [], short = [];
+    EXAM_BANDS.forEach(function (m) {
+      var n = want[m] || 0;
+      if (!n) return;
+      var got = examPickBand(qs, m, n, excl);
+      if (got.length < n) short.push(n - got.length + " × " + m + "m");
+      picked = picked.concat(got);
+    });
+    if (carry) picked.forEach(function (q) { carry[qId(q)] = 1; });
+    return examSet(name, picked, want, short, { available: !!ch });
   }
 
   // A combo worksheet spans several chapters in one sheet: build each chapter's
   // slice with the ordinary per-chapter logic, then merge the results in order
   // (grouped by chapter, so it's clear which section covers which topic).
-  function examBuildComboSet(data, row) {
-    var subSets = row.parts.map(function (p) { return examBuildSet(data, p); });
-    var questions = [], marks = 0, mins = 0, topics = {}, withAns = 0, short = [];
+  function examBuildComboSet(data, row, carry) {
     var want = {};
+    row.parts.forEach(function (p) {
+      EXAM_BANDS.forEach(function (m) { if ((p[1] || {})[m]) want[m] = (want[m] || 0) + p[1][m]; });
+    });
+    var ids = examFrozen(EXAM.exam, EXAM.subId, row.name);
+    if (ids) {
+      if (carry) ids.forEach(function (id) { carry[id] = 1; });
+      return examReplay(data, row.name, ids, want, true);
+    }
+    var subSets = row.parts.map(function (p) { return examBuildSet(data, p, true, carry); });
+    var questions = [], short = [];
     subSets.forEach(function (s) {
       questions = questions.concat(s.questions);
-      marks += s.marks; mins += s.mins; withAns += s.withAns;
-      EXAM_BANDS.forEach(function (m) { if (s.want[m]) want[m] = (want[m] || 0) + s.want[m]; });
       s.short.forEach(function (x) { short.push(s.chapter + ": " + x); });
     });
-    questions.forEach(function (q) { topics[q.topic || "General"] = 1; });
-    return {
-      chapter: row.name, questions: questions, marks: marks, mins: Math.round(mins),
-      want: want, topics: Object.keys(topics).length, short: short,
-      withAns: withAns, available: subSets.every(function (s) { return s.available; })
-    };
+    return examSet(row.name, questions, want, short,
+                   { available: subSets.every(function (s) { return s.available; }) });
   }
 
   function examRowsHTML(set, answers) {
@@ -2972,8 +3071,9 @@
                         meta, instr, examRowsHTML(set, answers));
   }
 
-  function examName() {
-    var p = EXAM_PAPERS.filter(function (x) { return x.id === EXAM.exam; })[0];
+  function examName() { return examLabel(EXAM.exam); }
+  function examLabel(id) {
+    var p = EXAM_PAPERS.filter(function (x) { return x.id === id; })[0];
     return p ? p.name : "Exam";
   }
 
@@ -3123,7 +3223,10 @@
   function renderExam() {
     crumbs.innerHTML = '<a href="#/">Home</a> › Exam Worksheet';
     document.title = "Exam-Oriented Worksheets";
-    getSubjectsIndex().then(function (subs) {
+    // The issued ledger decides both which sheets replay and what a fresh sheet
+    // must avoid, so it has to be in hand before anything is built.
+    Promise.all([getSubjectsIndex(), getIssued()]).then(function (r) {
+      var subs = r[0];
       var live = examSubjects(subs);
       if (!live.filter(function (s) { return s.id === EXAM.subId; }).length && live.length) EXAM.subId = live[0].id;
       var examTabs = EXAM_PAPERS.map(function (p) {
@@ -3170,11 +3273,41 @@
     var host = document.getElementById("exam-result");
     if (!host) return;
     var rows = (EXAM_BLUEPRINT[EXAM.exam] || {})[st.subId] || [];
-    var sets = rows.map(function (r) { return examBuildSet(st.data, r); });
+    var carry = {};   // qids this exam has already placed on an earlier sheet
+    var sets = rows.map(function (r) { return examBuildSet(st.data, r, false, carry); });
     EXAM.sets = sets;
     var preview = brandInner(SCHOOLS[0]);
     var tq = 0, tm = 0, tmin = 0;
     sets.forEach(function (s) { tq += s.questions.length; tm += s.marks; tmin += s.mins; });
+
+    // Ledger status for this exam + subject: is it frozen (replaying what was
+    // circulated), and how many questions is it having to steer around?
+    var nFrozen = sets.filter(function (s) { return s.frozen; }).length;
+    var nMissing = sets.reduce(function (a, s) { return a + (s.missing || 0); }, 0);
+    var excl = examUsedElsewhere(EXAM.exam, st.subId);
+    var exclBy = {};
+    Object.keys(excl).forEach(function (id) { exclBy[excl[id]] = (exclBy[excl[id]] || 0) + 1; });
+    var exclTxt = Object.keys(exclBy).map(function (k) {
+      return exclBy[k] + " from " + esc(examLabel(k));
+    }).join(", ");
+    var ledger = "";
+    if (nFrozen) {
+      var on = examFrozenAt(EXAM.exam);
+      ledger = '<div class="ex-ledger ex-ledger-frozen"><b>🔒 Frozen' + (on ? " on " + esc(on) : "") +
+        ".</b> " + nFrozen + " of " + sets.length + " sheets replay exactly the questions that were " +
+        "circulated, so reprinting gives the same paper even after the bank changes. Later exams exclude them." +
+        (nMissing ? ' <span class="ex-short">⚠ ' + nMissing + " frozen question" + (nMissing > 1 ? "s are" : " is") +
+          " no longer in the bank — those sheets are short by that much.</span>" : "") + "</div>";
+    } else if (exclTxt) {
+      ledger = '<div class="ex-ledger"><b>♻ No repeats.</b> These sheets are built fresh, avoiding ' +
+        exclTxt + " already issued in this subject. Freeze this exam once its papers are circulated " +
+        "(<code>python3 scripts/freeze_exam.py " + esc(EXAM.exam) + "</code>) so the next exam avoids them too.</div>";
+    } else {
+      ledger = '<div class="ex-ledger"><b>Not frozen yet.</b> Nothing has been issued in this subject, so ' +
+        "these sheets rebuild from scratch each time. Once they are circulated, run " +
+        "<code>python3 scripts/freeze_exam.py " + esc(EXAM.exam) + "</code> to lock them in — " +
+        "that both preserves this exact paper and keeps the later exams off these questions.</div>";
+    }
 
     function btns(si, ans) {
       return SCHOOLS.map(function (s) {
@@ -3191,8 +3324,10 @@
       'carry one here. No sheet has more than 6 MCQs. ' +
       '<b>2026 questions are reserved</b> for the pre-boards and never appear here. Easy/Average questions are ' +
       'preferred over Difficult, and questions are spread across NCERT sub-topics. Selection is deterministic — ' +
-      'the same sheet regenerates every time. <b>To save:</b> the button opens your browser\'s print window — ' +
-      'pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu, bottom-left).</div></div>' +
+      'the same sheet regenerates every time. <b>No question is ever set twice:</b> once an exam is frozen, its ' +
+      'questions are locked out of every later exam in the same subject. <b>To save:</b> the button opens your ' +
+      'browser\'s print window — pick <b>“Save as PDF”</b> as the destination (on Mac, the <b>PDF ▾</b> menu, ' +
+      'bottom-left).</div>' + ledger + "</div>" +
       '<div class="bp-actions">' +
       '<button class="btn-sm bp-dl ex-genbtn" type="button" data-si="all" data-school="intl" data-ans="0">⤓ Save all — OIS</button>' +
       '<button class="btn-sm bp-dl ex-genbtn" type="button" data-si="all" data-school="central" data-ans="0">⤓ Save all — OCSE</button>' +
@@ -3220,11 +3355,14 @@
     sets.forEach(function (set, si) {
       var id = "ex-sheet-" + si;
       var shortNote = set.short.length
-        ? '<span class="ex-short" title="The bank could not supply this many at this mark value once 2026 was reserved">⚠ short by ' + esc(set.short.join(", ")) + "</span>"
+        ? '<span class="ex-short" title="The bank could not supply this many at this mark value once the reserved year and the already-issued questions were taken out">⚠ short by ' + esc(set.short.join(", ")) + "</span>"
+        : "";
+      var lockNote = set.frozen
+        ? '<span class="ex-lock" title="Replayed from the issued ledger — exactly the questions this sheet carried when it was circulated">🔒 as issued</span>'
         : "";
       html += '<div class="ws-cset"><div class="ws-cset-h">' + (si + 1) + ". " + esc(set.chapter) +
         '<span class="ws-cset-code">' + set.questions.length + " q · " + set.marks + " marks · " + set.mins + " min · " + set.topics + " sub-topics</span>" +
-        shortNote + "</div>" +
+        lockNote + shortNote + "</div>" +
         '<div class="ws-sheet" id="' + id + '">' +
         '<div class="ws-sheet-bar"><span class="ws-sheet-t">' + esc(examName()) + ' Worksheet <em>· ' +
           set.questions.length + " q · " + set.marks + " marks · " + set.mins + " min</em></span>" +

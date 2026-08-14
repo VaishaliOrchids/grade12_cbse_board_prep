@@ -641,6 +641,16 @@ table.qtable th { background: #f3f4f6; }
 .ex-bptab tr:last-child td { border-bottom: 0; }
 .ex-bptab tr.ex-bptot td { background: #eef2f8; font-weight: 700; }
 .ex-short { margin-left: 10px; font-size: 12px; font-weight: 600; color: #b45309; }
+/* Issued-question ledger: frozen status banner + per-sheet lock badge. */
+.ex-ledger { margin-top: 10px; padding: 9px 12px; border-radius: 8px; font-size: 13px; line-height: 1.5;
+  background: #f6f9fc; border: 1px solid var(--line); color: #334155; }
+.ex-ledger b { color: #0f172a; }
+.ex-ledger code { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 12px;
+  background: #eef2f8; padding: 1px 5px; border-radius: 4px; }
+.ex-ledger-frozen { background: #f0fdf4; border-color: #bbf7d0; color: #14532d; }
+.ex-ledger-frozen b { color: #14532d; }
+.ex-ledger-frozen code { background: #dcfce7; }
+.ex-lock { margin-left: 10px; font-size: 12px; font-weight: 700; color: #15803d; white-space: nowrap; }
 .ex-head .bp-actions { flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; max-width: 340px; }
 .ex-genbtn { white-space: nowrap; }
 .ex-noans { color: #b45309; font-style: italic; }
