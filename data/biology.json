@@ -2525,7 +2525,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Female Reproductive System",
+     "topic": "Gametogenesis",
      "answer": {
       "opt": "C",
       "text": "it is penetrated by the sperm cell."
@@ -3164,7 +3164,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Menstrual Cycle",
+     "topic": "Parturition and Lactation",
      "answer": {
       "opt": "D",
       "text": "Oxytocin from maternal pituitary gland"
@@ -3261,7 +3261,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Menstrual Cycle",
+     "topic": "Parturition and Lactation",
      "answer": {
       "opt": "B",
       "text": "oxytocin, maternal pituitary"
@@ -3291,7 +3291,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Female Reproductive System",
+     "topic": "Menstrual Cycle",
      "answer": {
       "opt": "D",
       "text": "Both (A) and (B)."
@@ -5931,7 +5931,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Linkage and Recombination",
+     "topic": "Mendel's Laws and Dihybrid Cross",
      "answer": {
       "opt": "C",
       "text": "Linked genes located on the same chromosomes"
@@ -6989,7 +6989,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "DNA Replication",
+     "topic": "Transcription",
      "answer": {
       "opt": "C",
       "text": "Region X : Promoter; Factor Y : Sigma ($\\sigma$); Enzyme Z : RNA polymerase"
@@ -8412,7 +8412,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Transcription",
+     "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
       "opt": "C",
       "text": "Short non-coding repetitive sequences forming a large portion of eukaryotic genome."
@@ -9092,7 +9092,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Evidences for Evolution",
+     "topic": "Adaptive Radiation",
      "answer": {
       "opt": "A",
       "text": "Convergent Evolution"
@@ -10672,7 +10672,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Common Human Diseases",
+     "topic": "Immunity",
      "answer": {
       "opt": "B",
       "text": "Allergy"
@@ -12902,7 +12902,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Microbes in Household Products",
+     "topic": "Microbes in Industrial Products",
      "answer": {
       "opt": "A",
       "text": "Aspergillus niger"
@@ -13278,7 +13278,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Microbes in Industrial Products",
+     "topic": "Biocontrol Agents",
      "answer": {
       "opt": "B",
       "text": "Bacillus thuringiensis"

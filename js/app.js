@@ -2757,6 +2757,99 @@
         ["Human Capital Formation in India",                             { 1: 4, 3: 2, 4: 1, 6: 1 }],  // 20 · 40 min
         ["Rural Development",                                            { 1: 4, 3: 2, 4: 1, 6: 1 }],  // 20 · 40 min
         ["Employment: Growth, Informalisation and Other Issues",         { 1: 4, 3: 2, 4: 1, 6: 1 }]   // 20 · 40 min
+      ],
+      // Uses 1/3/4/5/8 (MCQ, SA, source-based, LA). 30-mark: Harappan,
+      // Mahatma Gandhi, Kings-Farmers-Towns and Thinkers-Beliefs (57-81 marks/yr).
+      // Rebels and the Raj has no 8-mark question in the bank, so that sheet is
+      // MCQ + short-answer only.
+      "history": [
+        ["Bricks, Beads and Bones: The Harappan Civilisation",                          { 1: 4, 3: 3, 4: 1, 5: 1, 8: 1 }],            // 30 · 60 min
+        ["Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",  { 1: 4, 3: 2, 4: 1, 8: 2 }],                  // 30 · 60 min
+        ["Kings, Farmers and Towns: Early States and Economies",                        { 1: 4, 3: 3, 4: 1, 5: 1, 8: 1 }],            // 30 · 60 min
+        ["Thinkers, Beliefs and Buildings: Cultural Developments",                      { 1: 4, 3: 3, 4: 1, 5: 1, 8: 1 }],            // 30 · 60 min
+        ["An Imperial Capital: Vijayanagara",                                           { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",   { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Kinship, Caste and Class: Early Societies",                                   { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",   { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Through the Eyes of Travellers: Perceptions of Society",                      { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Colonialism and the Countryside: Exploring Official Archives",                { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Framing the Constitution: The Beginning of a New Era",                        { 1: 5, 3: 1, 4: 1, 8: 1 }],                  // 20 · 40 min
+        ["Rebels and the Raj: 1857 Revolt and its Representations",                     { 1: 4, 3: 4, 4: 1 }]                        // 20 · 40 min
+      ],
+      // English has no 1-mark questions; bands are 2/4/5/6 (and 10/12 for the
+      // two Reading Comprehension passages, which are whole-passage questions —
+      // hence sheets of 3). 30-mark: Reading, the four Writing formats and the
+      // three heaviest literature chapters.
+      "english": [
+        ["Reading Comprehension: Discursive Passage",          { 10: 3 }],                                   // 30 · 60 min
+        ["Reading Comprehension: Case-based Factual Passage",  { 10: 3 }],                                   // 30 · 60 min
+        ["Letter Writing",                                     { 5: 6 }],                                    // 30 · 60 min
+        ["Notice Writing",                                     { 4: 5, 5: 2 }],                              // 30 · 60 min
+        ["Invitation and Reply",                               { 4: 5, 5: 2 }],                              // 30 · 60 min
+        ["Article Writing",                                    { 5: 6 }],                                    // 30 · 60 min
+        ["A Roadside Stand",                                   { 2: 1, 5: 2, 6: 3 }],                        // 30 · 60 min
+        ["The Enemy",                                          { 2: 1, 4: 2, 5: 4 }],                        // 30 · 60 min
+        ["Memories of Childhood",                              { 2: 1, 4: 2, 5: 4 }],                        // 30 · 60 min
+        ["Report Writing",                                     { 5: 4 }],                                    // 20 · 40 min
+        ["Lost Spring",                                        { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["Keeping Quiet",                                      { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["A Thing of Beauty",                                  { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["On the Face of It",                                  { 2: 1, 4: 2, 5: 2 }],                        // 20 · 40 min
+        ["Journey to the End of the Earth",                    { 2: 1, 4: 2, 5: 2 }],                        // 20 · 40 min
+        ["The Interview",                                      { 2: 1, 6: 3 }],                              // 20 · 40 min
+        ["Going Places",                                       { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["The Last Lesson",                                    { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["My Mother at Sixty-six",                             { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["Poets and Pancakes",                                 { 2: 1, 6: 3 }],                              // 20 · 40 min
+        ["The Third Level",                                    { 2: 1, 4: 2, 5: 2 }],                        // 20 · 40 min
+        ["The Tiger King",                                     { 2: 1, 4: 2, 5: 2 }],                        // 20 · 40 min
+        ["The Rattrap",                                        { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["Aunt Jennifer's Tigers",                             { 2: 2, 5: 2, 6: 1 }],                        // 20 · 40 min
+        ["Indigo",                                             { 2: 5, 5: 2 }],                              // 20 · 40 min
+        ["Deep Water",                                         { 2: 2, 5: 2, 6: 1 }]                        // 20 · 40 min
+      ],
+      // Uses 1/3/5. 30-mark: Transport & Communication (World), Population,
+      // Primary Activities, Land Resources, Transport & Communication (India)
+      // and Secondary Activities. Human Geography: Nature and Scope holds no
+      // 5-mark question in the bank, so that sheet is MCQ + short-answer.
+      "geography": [
+        ["Transport and Communication: World",                         { 1: 4, 3: 2, 5: 4 }],                        // 30 · 60 min
+        ["Population: Distribution, Density, Growth and Composition",  { 1: 4, 3: 2, 5: 4 }],                        // 30 · 60 min
+        ["Primary Activities",                                         { 1: 4, 3: 2, 5: 4 }],                        // 30 · 60 min
+        ["Land Resources and Agriculture",                             { 1: 4, 3: 2, 5: 4 }],                        // 30 · 60 min
+        ["Transport and Communication: India",                         { 1: 4, 3: 2, 5: 4 }],                        // 30 · 60 min
+        ["Secondary Activities",                                       { 1: 4, 3: 2, 5: 4 }],                        // 30 · 60 min
+        ["The World Population: Distribution, Density and Growth",     { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Mineral and Energy Resources",                               { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Human Settlements",                                          { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Human Development",                                          { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Geographical Perspective on Selected Issues and Problems",   { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["International Trade: World",                                 { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Human Geography: Nature and Scope",                          { 1: 5, 3: 5 }],                              // 20 · 40 min
+        ["Tertiary and Quaternary Activities",                         { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["International Trade: India",                                 { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Water Resources",                                            { 1: 4, 3: 2, 5: 2 }],                        // 20 · 40 min
+        ["Planning and Sustainable Development in Indian Context",     { 1: 4, 3: 2, 5: 2 }]                        // 20 · 40 min
+      ],
+      // Uses 1/2/4/6. 30-mark: the five heaviest chapters (43.8-60.5 marks/yr).
+      // Challenges to and Restoration of the Congress System and Globalisation
+      // have no 6-mark question in the bank, so those sheets top out at 4 marks.
+      "political-science": [
+        ["Recent Developments in Indian Politics",                { 1: 4, 2: 1, 4: 3, 6: 2 }],                  // 30 · 60 min
+        ["Contemporary Centres of Power",                         { 1: 4, 2: 1, 4: 3, 6: 2 }],                  // 30 · 60 min
+        ["India's External Relations",                            { 1: 4, 2: 1, 4: 3, 6: 2 }],                  // 30 · 60 min
+        ["The End of Bipolarity",                                 { 1: 4, 2: 1, 4: 3, 6: 2 }],                  // 30 · 60 min
+        ["Challenges of Nation-Building",                         { 1: 4, 2: 1, 4: 3, 6: 2 }],                  // 30 · 60 min
+        ["Contemporary South Asia",                               { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["Security in the Contemporary World",                    { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["Regional Aspirations",                                  { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["International Organizations",                           { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["Environment and Natural Resources",                     { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["The Crisis of Democratic Order",                        { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["Challenges to and Restoration of the Congress System",  { 1: 4, 2: 2, 4: 3 }],                        // 20 · 40 min
+        ["Globalisation",                                         { 1: 4, 2: 2, 4: 3 }],                        // 20 · 40 min
+        ["Era of One-Party Dominance",                            { 1: 4, 2: 1, 4: 2, 6: 1 }],                  // 20 · 40 min
+        ["Politics of Planned Development",                       { 1: 4, 2: 3, 4: 1, 6: 1 }]                  // 20 · 40 min
       ]
     }
   };

@@ -10638,7 +10638,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Some Properties of Definite Integrals",
+     "topic": "Definite Integral",
      "answer": {
       "opt": "B",
       "text": "$\\displaystyle\\int_{a}^{b} f(a + b - x)\\,dx$"

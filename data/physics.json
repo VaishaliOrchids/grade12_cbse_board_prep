@@ -12632,7 +12632,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Refraction through a Prism",
+     "topic": "Total Internal Reflection",
      "answer": {
       "opt": "A",
       "text": "Twinkling of stars"
@@ -17568,7 +17568,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Nuclear Energy",
+     "topic": "Size of the Nucleus",
      "answer": {
       "opt": "D",
       "text": "more stable nucleus than its neighbours"
@@ -18179,7 +18179,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Size of the Nucleus",
+     "topic": "Atomic Masses and Composition of Nucleus",
      "answer": {
       "opt": "C",
       "text": "same neutron number, but different atomic number"
@@ -18766,7 +18766,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Average",
-     "topic": "Extrinsic Semiconductor",
+     "topic": "Semiconductor Diode",
      "answer": {
       "opt": "B",
       "text": "diffusion of both electrons and holes"
@@ -18863,7 +18863,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Extrinsic Semiconductor",
+     "topic": "Semiconductor Diode",
      "answer": {
       "opt": "C",
       "text": "the potential barrier is raised."

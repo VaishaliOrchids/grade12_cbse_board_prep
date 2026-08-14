@@ -130,7 +130,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Objectives of Management",
+     "topic": "Management - Concept",
      "answer": {
       "opt": "D",
       "text": "Growth"
@@ -373,7 +373,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Objectives of Management",
+     "topic": "Importance of Management",
      "answer": {
       "opt": "C",
       "text": "Management helps in the development of society."
@@ -535,7 +535,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Coordination - The Essence of Management",
+     "topic": "Management - Concept",
      "answer": {
       "opt": "D",
       "text": "Efficiency"
@@ -852,7 +852,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Coordination - The Essence of Management",
+     "topic": "Management - Concept",
      "answer": {
       "opt": "A",
       "text": "Efficiency"
@@ -1237,7 +1237,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Objectives of Management",
+     "topic": "Importance of Management",
      "answer": {
       "opt": "D",
       "text": "Management helps in development of society."
@@ -1737,7 +1737,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Objectives of Management",
+     "topic": "Importance of Management",
      "answer": {
       "opt": "D",
       "text": "Management increases efficiency"
@@ -6046,7 +6046,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Organisation Structure",
+     "topic": "Organising Process",
      "answer": {
       "opt": "B",
       "text": "Establishing authority and reporting relationships"
@@ -6188,7 +6188,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Formal and Informal Organisation",
+     "topic": "Organisation Structure",
      "answer": {
       "opt": "C",
       "text": "Functional organisational structure"
@@ -6457,7 +6457,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Organisation Structure",
+     "topic": "Organising Process",
      "answer": {
       "opt": "D",
       "text": "Establishing authority and reporting relationship"
@@ -7063,7 +7063,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Organisation Structure",
+     "topic": "Organising Process",
      "answer": {
       "opt": "D",
       "text": "Identification and Division of work, Departmentalisation, Assignment of duties, Establishing authority and reporting relationship"
@@ -7251,7 +7251,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Delegation of Authority",
+     "topic": "Organisation Structure",
      "answer": {
       "opt": "B",
       "text": "Organisational structure"
@@ -7862,7 +7862,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Staffing Process",
+     "topic": "Training and Development",
      "answer": {
       "opt": "C",
       "text": "development."
@@ -8065,7 +8065,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Training and Development",
+     "topic": "Recruitment",
      "answer": {
       "opt": "D",
       "text": "Recruitment"
@@ -8416,7 +8416,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Selection Process",
+     "topic": "Recruitment",
      "answer": {
       "opt": "A",
       "text": "It helps in simplifying the process of selection."
@@ -10249,7 +10249,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Motivation",
+     "topic": "Supervision",
      "answer": {
       "opt": "C",
       "text": "Motivation"
@@ -10729,7 +10729,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Motivation",
+     "topic": "Communication",
      "answer": {
       "opt": "C",
       "text": "Lack of proper incentives"
@@ -12357,7 +12357,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Capital Structure",
+     "topic": "Financial Planning",
      "answer": {
       "opt": "A",
       "text": "Detailed plans of action prepared under financial planning increase waste, duplication of efforts and gaps in planning."
@@ -12404,7 +12404,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Working Capital",
+     "topic": "Capital Structure",
      "answer": {
       "opt": "C",
       "text": "capital structure"
@@ -12805,7 +12805,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Capital Structure",
+     "topic": "Financial Planning",
      "answer": {
       "opt": "B",
       "text": "Financial planning"
@@ -13042,7 +13042,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Capital Structure",
+     "topic": "Financial Planning",
      "answer": {
       "opt": "D",
       "text": "Detailed plans of action prepared under financial planning increases waste, duplication of efforts and gaps in planning."
@@ -13603,7 +13603,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Capital Structure",
+     "topic": "Financial Planning",
      "answer": {
       "opt": "C",
       "text": "Financial Planning"
@@ -14134,7 +14134,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Capital Structure",
+     "topic": "Dividend Decision",
      "answer": {
       "opt": "B",
       "text": "Financial risk"
@@ -14208,7 +14208,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Capital Structure",
+     "topic": "Financial Planning",
      "answer": {
       "opt": "D",
       "text": "Financial Planning"
@@ -14683,7 +14683,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Money Market",
+     "topic": "Capital Market",
      "answer": {
       "opt": "B",
       "text": "Primary market"
@@ -14933,7 +14933,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Securities and Exchange Board of India (SEBI)",
+     "topic": "Money Market",
      "answer": {
       "opt": "A",
       "text": "Discount Finance House of India"
@@ -15821,7 +15821,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Securities and Exchange Board of India (SEBI)",
+     "topic": "Stock Exchange",
      "answer": {
       "opt": "A",
       "text": "Depository"
@@ -16426,7 +16426,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Securities and Exchange Board of India (SEBI)",
+     "topic": "Capital Market",
      "answer": {
       "opt": "B",
       "text": "Stock Exchange"
@@ -16655,7 +16655,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Money Market",
+     "topic": "Capital Market",
      "answer": {
       "opt": "C",
       "text": "Secondary Market"
@@ -16919,7 +16919,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Promotion",
+     "topic": "Physical Distribution (Place)",
      "answer": {
       "opt": "B",
       "text": "Place"
@@ -17256,7 +17256,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Physical Distribution (Place)",
+     "topic": "Product",
      "answer": {
       "opt": "D",
       "text": "Primary packaging"
@@ -17688,7 +17688,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Functions of Marketing",
+     "topic": "Physical Distribution (Place)",
      "answer": {
       "opt": "B",
       "text": "Standardisation and grading"
@@ -17715,7 +17715,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Promotion",
+     "topic": "Physical Distribution (Place)",
      "answer": {
       "opt": "D",
       "text": "Public relations"
@@ -18059,7 +18059,7 @@
      ],
      "bloom": "Understand",
      "difficulty": "Easy",
-     "topic": "Physical Distribution (Place)",
+     "topic": "Product",
      "answer": {
       "opt": "B",
       "text": "Secondary packaging"
@@ -18874,7 +18874,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Physical Distribution (Place)",
+     "topic": "Product",
      "answer": {
       "opt": "C",
       "text": "Secondary packaging"
@@ -19056,7 +19056,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Physical Distribution (Place)",
+     "topic": "Product",
      "answer": {
       "opt": "A",
       "text": "Primary packaging"
@@ -19765,7 +19765,7 @@
      ],
      "bloom": "Apply",
      "difficulty": "Average",
-     "topic": "Consumer Responsibilities",
+     "topic": "Importance of Consumer Protection",
      "answer": {
       "opt": "A",
       "text": "Long term interest of the business"
@@ -20048,7 +20048,7 @@
      ],
      "bloom": "Remember",
      "difficulty": "Easy",
-     "topic": "Consumer Rights",
+     "topic": "Consumer Protection Act, 2019 - Redressal Machinery",
      "answer": {
       "opt": "B",
       "text": "Right to seek redressal"
@@ -20156,7 +20156,7 @@
      ],
      "bloom": "Analyse",
      "difficulty": "Average",
-     "topic": "Consumer Protection Act, 2019 - Redressal Machinery",
+     "topic": "Importance of Consumer Protection",
      "answer": {
       "opt": "C",
       "text": "Due to widespread ignorance of consumers about their rights and reliefs available to them, it becomes necessary to educate them about the same, so as to achieve consumer awareness."
