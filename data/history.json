@@ -166,7 +166,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Harappan Sites and Settlements",
      "answer": {
@@ -214,7 +214,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
@@ -241,7 +241,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Subsistence Strategies",
      "answer": {
       "opt": "C",
@@ -267,8 +267,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Seals, Script and Weights",
      "answer": {
       "opt": "B",
@@ -288,7 +288,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Discovering the Harappan Civilisation",
      "answer": {
@@ -362,7 +362,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ancient Authority",
      "answer": {
@@ -434,7 +434,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
       "text": "Town planning of Harappa: Harappa had a Citadel and a Lower Town; the Citadel was walled and constructed on mud-brick platforms, and the Lower Town was also walled, with buildings built on platforms and building activity restricted to a fixed area on the platforms; signs of planning include bricks of a standardised ratio, both sun-dried and baked; an efficient drainage system was an important feature, with roads and streets laid out in a grid pattern intersecting at right angles - streets with drains were laid out first and houses built along them afterwards, and every house had one wall along a street so domestic waste water could flow into the street drains; the Lower Town had residential buildings, with houses centred on a courtyard, rooms on all sides, and the courtyard as the centre of activities such as cooking and weaving; there were no windows in the walls at ground level, reflecting a concern for privacy, and the main entrance did not give a direct view of the interior or courtyard; every house had its own bathroom paved with bricks connected to street drains, some houses had remains of staircases to reach a second storey or the roof, and many houses had wells that could be reached from outside - Mohenjodaro alone had about 700 wells; the Citadel had structures used for public purposes, such as granaries and warehouses, and the Great Bath was a large rectangular tank in a courtyard surrounded by a corridor on all four sides, with two flights of steps leading into the tank, rooms on three sides (one with a large well), and water from the tank flowing into a huge drain."
@@ -454,7 +454,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Harappan Sites and Settlements",
      "figures": [],
      "answer": {
@@ -502,7 +502,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
       "text": "Harappan urban planning – most unique feature: (i) Citadel. (ii) Lower-town. (iii) Drainage. (iv) Domestic architecture which involves 700 wells, courtyard, kitchen staircase, etc. (v) Great Bath. (vi) Warehouse. (vii) Roads and their planning, the grid pattern. (viii) Dockyard at Lothal. (ix) Mackay's quote and his admiration of the efficient construction of drains. (x) The various materials used for construction like gypsum, limestone, mortar. (Any eight to be assessed)"
@@ -759,11 +759,11 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Discovering the Harappan Civilisation",
      "answer": {
-      "opt": "C",
-      "text": "I, II and III are correct"
+      "opt": "D",
+      "text": "I, II and IV are correct"
      }
     },
     {
@@ -785,7 +785,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Discovering the Harappan Civilisation",
      "answer": {
@@ -826,7 +826,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Tracking Social Differences",
      "figures": [],
@@ -945,7 +945,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Strategies for Procuring Materials",
      "answer": {
@@ -992,8 +992,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Subsistence Strategies",
      "answer": {
       "opt": "A",
@@ -1087,7 +1087,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Harappan Sites and Settlements",
      "figures": [],
@@ -1158,8 +1158,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Seals, Script and Weights",
      "answer": {
       "opt": "C",
@@ -1206,7 +1206,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
@@ -1344,7 +1344,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ancient Authority",
      "figures": [],
@@ -1415,7 +1415,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
@@ -1443,7 +1443,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Seals, Script and Weights",
      "answer": {
       "opt": "A",
@@ -1463,7 +1463,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Discovering the Harappan Civilisation",
      "answer": {
@@ -1533,7 +1533,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Tracking Social Differences",
      "answer": {
@@ -1554,7 +1554,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
@@ -1580,7 +1580,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Problems of Interpretation: Religious Beliefs",
      "answer": {
@@ -1628,7 +1628,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Problems of Interpretation: Religious Beliefs",
      "answer": {
@@ -1698,7 +1698,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
@@ -1720,7 +1720,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
       "text": "How archaeological discoveries at Harappa explain urban planning of the Indus Valley Civilization:\nHarappa had a Citadel and a Lower Town, both walled, though the Citadel was constructed on higher mud platforms; roads and streets were laid out in a grid pattern, intersecting at right angles.\nBuildings were built on platforms, with an efficient drainage system as an important feature; many houses had wells that could be reached from outside - Mohenjodaro alone had about 700 wells.\nThe Citadel had structures used for public purposes such as granaries and warehouses, while the Lower Town had residential buildings; houses were centred on a courtyard with rooms on all sides, and the courtyard was the centre of activities such as cooking and weaving - there were no windows in the walls along the ground level, and the main entrance did not give a direct view of the interior or courtyard.\nEvery house had its own bathroom paved with bricks, connected to the street drains; the Great Bath was a large rectangular tank in a courtyard surrounded by a corridor on all four sides. Signs of planning include bricks of a standardised ratio."
@@ -1739,8 +1739,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Discovering the Harappan Civilisation",
      "figures": [],
      "answer": {
@@ -1946,7 +1946,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Mohenjodaro: A Planned Urban Centre",
      "answer": {
@@ -2038,7 +2038,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Seals, Script and Weights",
      "answer": {
       "opt": "C",
@@ -2109,7 +2109,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Seals, Script and Weights",
      "answer": {
@@ -2129,7 +2129,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Problems of Interpretation: Religious Beliefs",
      "figures": [],
@@ -2200,8 +2200,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Seals, Script and Weights",
      "answer": {
       "opt": "D",
@@ -2272,7 +2272,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Subsistence Strategies",
      "answer": {
@@ -2292,7 +2292,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Seals, Script and Weights",
      "figures": [],
@@ -2435,7 +2435,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Tracking Social Differences",
      "answer": {
@@ -2455,7 +2455,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Tracking Social Differences",
      "figures": [],
@@ -2690,8 +2690,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
       "opt": "C",
@@ -2711,8 +2711,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Prinsep and the Piyadassi: Deciphering Inscriptions",
      "answer": {
       "text": "Inscriptions of the Maurya period were deciphered by James Prinsep, an officer in the mint of the East India Company, who deciphered Brahmi and Kharosthi, the two scripts used in the earliest inscriptions; he matched inscriptions in terms of content, style, language and palaeography, and discovered that Asoka was the name of the ruler, while devanampiya and piyadassi were titles used for him in many inscriptions. Limitations of epigraphy: there are technical limitations in studying inscriptions; in some inscriptions the letters are very faintly engraved, some inscriptions are damaged and letters are missing, making reconstructions uncertain; it is not always easy to be sure of the exact meaning of words used; several thousand inscriptions were made but only some hundreds have been discovered, and not all of these have been deciphered, published and translated; politically and economically significant matters are recorded in inscriptions, but routine agricultural practices and the joys and sorrows of daily existence are not found in them."
@@ -2732,7 +2732,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "An Early Empire: The Mauryas",
      "figures": [],
      "answer": {
@@ -2802,7 +2802,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
@@ -2829,8 +2829,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
       "opt": "A",
@@ -2877,7 +2877,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Earliest States: Mahajanapadas and Magadha",
      "answer": {
@@ -3016,7 +3016,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "An Early Empire: The Mauryas",
      "answer": {
@@ -3259,7 +3259,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "A Changing Countryside: Land Grants",
      "answer": {
       "opt": "B",
@@ -3285,7 +3285,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "An Early Empire: The Mauryas",
      "answer": {
@@ -3360,7 +3360,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Earliest States: Mahajanapadas and Magadha",
      "answer": {
       "opt": "B",
@@ -3386,7 +3386,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Prinsep and the Piyadassi: Deciphering Inscriptions",
      "answer": {
@@ -3466,7 +3466,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Earliest States: Mahajanapadas and Magadha",
      "answer": {
       "opt": "A",
@@ -3513,7 +3513,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "An Early Empire: The Mauryas",
      "answer": {
@@ -3539,7 +3539,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
@@ -3613,7 +3613,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
@@ -3654,7 +3654,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Prinsep and the Piyadassi: Deciphering Inscriptions",
      "figures": [],
@@ -3817,7 +3817,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "A Changing Countryside: Land Grants",
      "answer": {
@@ -3837,7 +3837,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "A Changing Countryside: Land Grants",
      "figures": [],
@@ -3864,7 +3864,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "An Early Empire: The Mauryas",
      "answer": {
@@ -3894,7 +3894,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "An Early Empire: The Mauryas",
      "answer": {
@@ -3915,8 +3915,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Prinsep and the Piyadassi: Deciphering Inscriptions",
      "answer": {
       "text": "Challenges of inscriptional evidence restrict our ability to understand the past:\nHistories of ancient rulers have been reconstructed from literature, coins and inscriptions including prashastis, but there are technical limitations - letters may be very faintly engraved, leading to uncertainty in reconstruction, and inscriptions may be damaged or have missing letters.\nIt is not always easy to be sure of the exact meaning of words used, some of which may be specific to a particular place or time, leading scholars to debate alternative readings; a few inscriptions remain undeciphered, and not all of the several thousand discovered have been deciphered, published and translated.\nMany more inscriptions must have existed but have not survived the ravages of time, so what is available today is probably only a fraction of what was originally inscribed.\nNot everything we consider politically or economically significant was necessarily recorded in inscriptions - routine agricultural practices and the joys and sorrows of daily existence find no mention, as inscriptions focus more often on grand, unique events.\nThe content of inscriptions almost invariably reflects the perspective of the persons who commissioned them (often kings, e.g. Ashoka's edicts, or land grants such as Prabhavati Gupta's), so inscriptions need to be corroborated with other evidence, and epigraphy alone does not provide a full understanding of political and economic history."
@@ -3935,8 +3935,8 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Towns and Trade: Coins and Kings",
      "figures": [],
      "answer": {
@@ -3990,7 +3990,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Towns and Trade: Urban Centres",
      "answer": {
       "opt": "B",
@@ -4016,7 +4016,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "New Notions of Kingship",
      "answer": {
@@ -4037,7 +4037,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "An Early Empire: The Mauryas",
      "answer": {
@@ -4063,8 +4063,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "New Notions of Kingship",
      "answer": {
       "opt": "B",
@@ -4091,7 +4091,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Towns and Trade: Coins and Kings",
      "answer": {
       "opt": "D",
@@ -4117,7 +4117,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "New Notions of Kingship",
      "answer": {
@@ -4138,7 +4138,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Towns and Trade: Urban Centres",
      "answer": {
@@ -4263,7 +4263,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Prinsep and the Piyadassi: Deciphering Inscriptions",
      "answer": {
@@ -4283,7 +4283,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "An Early Empire: The Mauryas",
      "figures": [],
@@ -4409,7 +4409,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Towns and Trade: Coins and Kings",
      "answer": {
@@ -4536,8 +4536,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
       "text": "None of the options given in the question is correct; one mark was awarded to all candidates who attempted the question."
@@ -4609,7 +4609,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Chronology of Dynasties and Texts",
      "answer": {
@@ -4674,7 +4674,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -4715,7 +4715,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -4761,7 +4761,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -4782,8 +4782,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "answer": {
       "text": "According to Brahmanical theory only Kshatriyas could be kings in the early states, but this prescription does not hold good, as several other ruling lineages probably had different origins: as per Brahmanical texts, the Mauryas were of low origin; the Shungas and the Kanvas were Brahmins, not Kshatriyas; the Shakas, who came from Western Asia, were considered Mlecchas, and Rudradaman, a Shaka ruler, was a powerful 'Mlechchha'; Gautamiputra Satakarni was also a Brahmin, and he entered into a marriage alliance with the Rudradaman kin, even though the Satavahanas claimed to be Brahmanas; the Brahmanical theory therefore does not hold good — it was ultimately the powerful person who became king."
@@ -4803,7 +4803,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "figures": [],
      "answer": {
@@ -4829,7 +4829,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "answer": {
@@ -4917,7 +4917,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Critical Edition of the Mahabharata",
      "figures": [],
@@ -4939,7 +4939,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "answer": {
       "text": "Familial relations during the Mahabharata period: (i) Kinship and blood relationships. (ii) Tradition and rituals. (iii) Gotra system and each gotra named after a vedic seer. (iv) Endogamy and exogamy. (v) Polyandry, e.g. marriage of Draupadi with the Pandavas, and Polygyny, e.g. many Satavahana rulers had more than one wife. (vi) Metronymics, e.g. the list of successive generations of teachers and students given in the Brihadranyaka Upanishada. (vii) Eight forms of marriage recognized by the Dharamshastras and Dharmasutras. (viii) Guru-Shishya relationships were quite prevalent. (ix) Importance of sons for the continuity of the patrilineage. (x) No claims of daughters on the resources of household. (xi) Kanyadaan was considered an important religious duty of the father. (xii) Codes of social behaviour were laid down in Dharamshastras and Dharmsutras, e.g. Manusmriti. (Any eight to be explained)"
@@ -4989,8 +4989,8 @@
      "difficulty": "Average",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
-      "opt": "B",
-      "text": "1-(ii), 2-(i), 3-(iv), 4-(iii)"
+      "opt": "D",
+      "text": "1-(ii), 2-(iv), 3-(iii), 4-(i)"
      }
     },
     {
@@ -5039,7 +5039,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -5060,8 +5060,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "answer": {
       "text": "(a) Kingship of Kshatriyas and Non-Kshatriyas in ancient India: Kshatriya rulers – according to the shastras only Kshatriyas could be kings, e.g. Mahapadmananda, Ajatashatru; according to the Brahmanas kings ought to have been Kshatriyas, e.g. Pandavas, Kauravas, Pratiharas, Guptas, Palas, Rashtrakutas; they followed the Manusmriti and Dharmashastras. (Any four to be explained) Non-Kshatriya rulers – several important ruling lineages probably had different origins; the social background of the Mauryas has been hotly debated, and Brahminical texts describe them as of low origin; the Shungas and Kanvas, immediate successors of the Mauryas, were Brahmins/non-Kshatriyas; the Shakas who came from Central Asia were regarded as mlechchhas; the Satavahana ruler claimed to be a Brahmin; putting kings in the framework of caste was often difficult; only those who could command resources and muster support could become king, other than Kshatriyas. (Any four to be explained)"
@@ -5081,7 +5081,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "figures": [],
      "answer": {
@@ -5149,7 +5149,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "answer": {
       "text": "Features of familial relationships during the Mahabharata period:\nFamilies were usually parts of larger networks of people defined as relatives; familial ties, though regarded as 'natural' and based on blood, were defined in many different ways.\nThe Mahabharata describes a feud over land and power between the Kauravas and the Pandavas, cousins belonging to a single ruling family.\nThe Pandavas emerged victorious and proclaimed patrilineal succession; while patriliny existed before this feud, the story of the Mahabharata reinforced the ideal.\nUnder patriliny, sons could claim resources (including the throne) of their fathers, though there were variations - sometimes brothers succeeded one another or other kinsmen claimed the throne, and in exceptional circumstances women inherited the throne or ancestral property, e.g. Prabhavati Gupta.\nThe Brahmins laid down codes of social behaviour, which were not followed by everybody, though many common people did follow these rules.\nThere were eight different kinds of marriage - e.g. Draupadi's marriage, Bhima's marriage to Hidimba.\nGotra rules were not followed by all ruling dynasties, e.g. the Satavahanas.\nMothers had an important place in the family, but their advice was not always upheld, e.g. Kunti and Gandhari.\nRespect was shown on the basis of hierarchy - caste and gender."
@@ -5168,8 +5168,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "figures": [],
      "answer": {
@@ -5195,8 +5195,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "answer": {
       "opt": "C",
@@ -5223,7 +5223,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Handling Texts: Historians and the Mahabharata",
      "answer": {
       "opt": "B",
@@ -5317,7 +5317,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -5457,7 +5457,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "answer": {
@@ -5477,7 +5477,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "figures": [],
@@ -5539,7 +5539,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "answer": {
@@ -5565,8 +5565,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
       "opt": "C",
@@ -5612,7 +5612,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "answer": {
@@ -5639,7 +5639,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "answer": {
@@ -5661,7 +5661,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Handling Texts: Historians and the Mahabharata",
      "answer": {
       "text": "The growth of the Mahabharata did not stop with the Sanskrit version; the epic was written in a variety of languages.\nThe epic was an ongoing process of dialogue between peoples, communities, and those who wrote the texts.\nSeveral stories that originated in specific regions or circulated amongst certain people found their way into the epic; the central story was often retold in different ways.\nMany episodes were depicted in sculpture and painting; it provided themes for a wide range of performing arts - plays, dance and other kinds of narrations.\nIt is depicted in sculpture and relief carvings in temples, and gave rise to texts like the Bhagavad Gita."
@@ -5681,7 +5681,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Kinship and Marriage: Rules and Varied Practices",
      "figures": [],
      "answer": {
@@ -5707,7 +5707,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -5755,8 +5755,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "answer": {
       "text": "The Mahabharata describes a feud over land and power between two groups of cousins, the Kauravas and the Pandavas, who belonged to a single ruling family, that of the Kurus, a lineage dominating one of the janapadas.\nMost ruling dynasties claimed to follow patrilineal succession, although there were variations: sometimes brothers succeeded one another, sometimes other kinsmen claimed the throne, and in very exceptional circumstances women such as Prabhavati Gupta exercised power.\nThe concern with patriliny was not unique to ruling families - it is evident in mantras in ritual texts such as the Rigveda, and was possibly shared by wealthy men and Brahmanas.\nThe Dharmasutras and Dharmashastras recognised as many as eight forms of marriage; the first four were considered 'good' while the remaining were condemned - possibly practised by those who did not accept Brahmanical norms.\nThe names of women who married Satavahana rulers indicate many had names derived from their father's gotra, such as Gotama and Vasistha.\nEndogamy, or marriage within the kin group, was prevalent amongst several communities in south India; such marriages amongst kinfolk ensured a close-knit community.\nSatavahana rulers were identified through metronymics (names derived from that of the mother).\nAccording to the Shastras, only Kshatriyas could be kings, but several important ruling lineages probably had different origins - the social background of the Mauryas is debated, the Shakas who came from Central Asia were regarded as mlechchhas by the Brahmanas, and Gotami-puta Siri-Satakani of the Satavahana dynasty claimed to be both a unique Brahmana and a destroyer of the pride of Kshatriyas, while also entering a marriage alliance with the kin of Rudradaman."
@@ -5776,7 +5776,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Critical Edition of the Mahabharata",
      "figures": [],
      "answer": {
@@ -5802,7 +5802,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Beyond the Four Varnas: Integration and Subordination",
      "answer": {
@@ -5823,7 +5823,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Social Differences: Caste, Varna and Kingship",
      "answer": {
@@ -5910,8 +5910,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
       "text": "The Stupa at Sanchi is among the best preserved ancient monuments because it escaped destruction: it was of great interest to Europeans; the French sought permission of Shah Jahan Begum to take away the eastern gateway to keep in their museum, and the English wanted to do the same; the Begum refused, and they had to be content with plaster copies; the Begums of Bhopal provided money for the preservation of the monument and also funded a museum and guest house in the Stupa complex; due to the wise decisions of the Begums, and the good luck of escaping the eyes of railway contractors and builders, it survives today as a key archaeological site and one of the best preserved monuments of the earliest times."
@@ -5931,7 +5931,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "figures": [],
      "answer": {
@@ -5960,7 +5960,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -6104,7 +6104,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Mid-first Millennium BCE: A Turning Point",
      "answer": {
       "text": "The mid-first millennium BCE is often regarded as a turning point in world history: this period saw the emergence of thinkers such as Zarathustra in Iran, Kong Zi (Confucius) in China, Socrates, Plato and Aristotle in Greece, and Mahavira and Gautama Buddha in India, who tried to understand the mysteries of existence and the relationship between human beings and the cosmic order; it was also a time when new kingdoms and cities were developing all over the world, and social and economic life was changing in a variety of ways in the Ganga valley; the early Vedic tradition was one of the pre-existing traditions of thought — the Rig Veda consists of hymns in praise of deities such as Agni, Indra and Soma, chanted when sacrifices were performed, where people prayed for cattle, sons, good health and long life; at first sacrifices were performed collectively, but more elaborate sacrifices such as the Rajasuya and Ashvamedha were performed by chiefs and kings who depended on Brahmana priests to conduct the rituals; the Upanishads reflect a new questioning of this tradition."
@@ -6123,8 +6123,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "figures": [],
      "answer": {
@@ -6178,7 +6178,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Followers of the Buddha and Buddhist Texts",
      "answer": {
       "opt": "C",
@@ -6246,7 +6246,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
       "opt": "D",
@@ -6293,7 +6293,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Followers of the Buddha and Buddhist Texts",
      "answer": {
@@ -6349,8 +6349,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "opt": "B",
@@ -6370,7 +6370,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Followers of the Buddha and Buddhist Texts",
      "answer": {
@@ -6426,7 +6426,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -6447,7 +6447,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Background: Sacrificial Traditions and the Upanishads",
      "answer": {
@@ -6476,12 +6476,12 @@
        "qno": 4
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
-      "opt": "C",
-      "text": "Gandhara school of art"
+      "opt": "B",
+      "text": "Mathura school of art"
      }
     },
     {
@@ -6497,7 +6497,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -6538,7 +6538,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Background: Sacrificial Traditions and the Upanishads",
      "answer": {
@@ -6567,8 +6567,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "answer": {
       "opt": "B",
@@ -6688,8 +6688,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
       "opt": "B",
@@ -6715,8 +6715,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "answer": {
       "opt": "B",
@@ -6736,7 +6736,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Followers of the Buddha and Buddhist Texts",
      "answer": {
@@ -6790,7 +6790,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Beyond Worldly Pleasures: The Message of Mahavira",
      "answer": {
       "opt": "C",
@@ -6819,8 +6819,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "answer": {
       "opt": "B",
@@ -6866,8 +6866,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "text": "This was a defective matching question (Column-I sculpture symbols vs Column-II symbolic importance) - the 'empty seat' indicates the meditation of the Buddha, which is not among the given options in Column-II. As per the marking scheme, the mark was to be awarded to all candidates who attempted Q5."
@@ -6892,7 +6892,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -6922,8 +6922,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "opt": "D",
@@ -6943,7 +6943,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Background: Sacrificial Traditions and the Upanishads",
      "answer": {
@@ -7017,7 +7017,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -7097,8 +7097,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "opt": "B",
@@ -7138,7 +7138,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "figures": [],
@@ -7210,7 +7210,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Followers of the Buddha and Buddhist Texts",
      "answer": {
       "opt": "D",
@@ -7261,7 +7261,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Buddha and His Teachings",
      "answer": {
       "text": "The Buddha was considered one of the most influential teachers of his times - his teachings:\nHe taught that the world is transient (anicca) and constantly changing, and soulless (anatta), with nothing permanent or eternal in it; sorrow (dukkha) is intrinsic to human existence, but by following the path of moderation human beings can rise above worldly troubles.\nIn Buddhism the concept of god was irrelevant; he regarded the social world as the creation of human beings, and advised kings and gahapatis to be humane and ethical, expecting individual effort to transform social relations.\nHe taught Dhamma, the path of righteous living, and propagated the middle path or path of moderation, along with the eightfold path; he told his disciples, 'Be lamps unto yourselves as all of you must work out your own liberation.'\nHis teachings had a profound impact on people and were easy to comprehend, spreading to China, Japan, Sri Lanka, Myanmar, Thailand and Indonesia."
@@ -7281,7 +7281,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "figures": [],
      "answer": {
@@ -7307,8 +7307,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
       "opt": "B",
@@ -7337,7 +7337,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
@@ -7391,7 +7391,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "New Religious Traditions: Puranic Hinduism and Temples",
      "answer": {
@@ -7439,7 +7439,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Beyond Worldly Pleasures: The Message of Mahavira",
      "answer": {
       "opt": "D",
@@ -7468,8 +7468,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
       "opt": "B",
@@ -7489,7 +7489,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -7564,7 +7564,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Buddha and His Teachings",
      "answer": {
       "opt": "A",
@@ -7593,8 +7593,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "opt": "B",
@@ -7634,7 +7634,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "figures": [],
@@ -7664,8 +7664,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "opt": "A",
@@ -7714,8 +7714,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Sculpture: Reading Images and Schools of Art",
      "answer": {
       "opt": "D",
@@ -7735,7 +7735,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
@@ -7764,8 +7764,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Stupas: Sanchi and Amaravati",
      "answer": {
       "opt": "B",
@@ -7813,7 +7813,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Buddha and His Teachings",
      "answer": {
       "text": "The world is transient (anicca) and constantly changing; it is soulless (anatta) as there is nothing permanent or eternal, and sorrow (dukkha) is intrinsic to human existence.\nThe Path of Moderation between severe penance and self-indulgence is to be followed; Buddha emphasised righteous living (dhamma) as the means to escape the cycle of rebirth and attain nibbana.\nHumans have to rise above worldly pleasures; Buddha regarded the social world as the creation of humans rather than of divine origin, and advised kings and gahapatis to be humane and ethical.\nIndividual effort was expected to transform social relations; all should strive for attaining self-realisation ('Be lamps unto yourselves')."
@@ -7833,7 +7833,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Beyond Worldly Pleasures: The Message of Mahavira",
      "figures": [],
      "answer": {
@@ -8086,7 +8086,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
       "opt": "B",
@@ -8160,7 +8160,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
       "opt": "A",
@@ -8200,7 +8200,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Francois Bernier and the Degenerate East",
      "figures": [],
@@ -8322,7 +8322,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Travellers and their Accounts",
      "answer": {
@@ -8375,7 +8375,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
@@ -8396,7 +8396,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Travellers and their Accounts",
      "answer": {
@@ -8453,8 +8453,8 @@
      "difficulty": "Average",
      "topic": "Travellers and their Accounts",
      "answer": {
-      "opt": "C",
-      "text": "1-(ii), 2-(i), 3-(iv), 4-(iii)"
+      "opt": "A",
+      "text": "1-(iv), 2-(iii), 3-(ii), 4-(i)"
      }
     },
     {
@@ -8510,7 +8510,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Ibn Battuta's Rihla",
      "figures": [],
@@ -8537,7 +8537,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
@@ -8558,7 +8558,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Al-Biruni and the Kitab-ul-Hind",
      "answer": {
@@ -8611,7 +8611,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
@@ -8679,8 +8679,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
       "text": "Francois Bernier contrasted what he saw in India with the situation in Europe:\nIn India there was a lack of private property in land, unlike Europe; Bernier believed private property had its own virtues, but in India the entire land was under the crown.\nDue to crown ownership, land holders could not pass on land to their children, and this led to a continuous decline in living standards, unlike in Europe.\nIndia had either rich or poor with no middle class, and he projected the Mughal state as tyrannical, unlike Europe.\nIn India artisans had no incentive to improve quality since profits were appropriated by the Indian state, and manufacturing was on the decline.\nBy the 16th century, 15% of the Indian population lived in towns, a higher proportion than in Europe, yet Indian society consisted of impoverished poor people subjugated by a small minority of the rich and powerful.\nThe absence of private property prevented the emergence of a class of improving landlords."
@@ -8700,7 +8700,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Ibn Battuta's Rihla",
      "figures": [],
      "answer": {
@@ -8753,8 +8753,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
       "opt": "C",
@@ -8774,7 +8774,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Al-Biruni and the Kitab-ul-Hind",
      "answer": {
@@ -8800,8 +8800,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Travellers and their Accounts",
      "answer": {
       "opt": "B",
@@ -8827,8 +8827,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
       "opt": "C",
@@ -8848,7 +8848,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
@@ -9041,7 +9041,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
@@ -9067,7 +9067,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
@@ -9291,7 +9291,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Al-Biruni and the Kitab-ul-Hind",
      "answer": {
       "opt": "A",
@@ -9331,7 +9331,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Francois Bernier and the Degenerate East",
      "answer": {
@@ -9409,7 +9409,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
       "opt": "B",
@@ -9507,7 +9507,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Ibn Battuta's Rihla",
      "answer": {
       "opt": "A",
@@ -9781,7 +9781,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Poems of Prayer: The Alvars and Nayanars",
      "answer": {
       "opt": "D",
@@ -9802,7 +9802,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Kabir",
      "answer": {
       "text": "Philosophy and teachings of Kabir: he was a nirguna poet-saint whose mystical experiences were many, used to describe the Ultimate Reality, which he described as Allah, Khuda, Hazrat and Pir; he also used terms drawn from Vedantic traditions such as Alakh (the unseen), Nirakar (formless), Brahman and Atman, and mystical terms such as Shabda (sound) or Shunya (emptiness) drawn from yogic traditions; diverse and sometimes conflicting ideas are expressed in his poems, including the Ulat Bansi (upside-down sayings) style; some poems draw on Islamic monotheism, and he used the Sufi concept of love to express the Hindu practice of Nam-simaran (remembrance of God's name); he remains, even today, a source of inspiration for those who question entrenched religious and social institutions in their search for the Divine; verses attributed to him use the words Guru and Satguru, and he argued against distinctions made between the gods of different communities."
@@ -9822,7 +9822,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "A Mosaic of Religious Beliefs and Practices",
      "figures": [],
      "answer": {
@@ -9894,7 +9894,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Baba Guru Nanak and the Sikh Tradition",
      "answer": {
       "text": "Philosophy and teachings of Guru Nanak Dev: he advocated Nirguna Bhakti and rejected sacrifices, ritual baths, image worship and the scriptures of both Hindus and Muslims; for him the Absolute, or Rab, had no gender or form, and he proposed a simple way to connect to the divine by remembering and repeating the name of Rab; he set up rules for congregational worship (sangat) and expressed his ideas through hymns called shabad, which Baba Guru Nanak would sing in various ragas while his attendant Mardana played the rabab; his hymns are compiled in the Adi Granth Sahib; Baba Guru Nanak did not wish to establish a new religion, but after his death his followers consolidated his practices and distinguished themselves from both Hindus and Muslims."
@@ -9914,7 +9914,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "figures": [],
      "answer": {
@@ -9941,7 +9941,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "A Mosaic of Religious Beliefs and Practices",
      "answer": {
       "opt": "A",
@@ -9962,7 +9962,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Kabir",
      "answer": {
       "text": "Kabir Das is one of the most outstanding examples of a poet-saint who gave extensive views on social situations, institutions and the Ultimate Reality: according to tradition he was born a Hindu and raised in a family of Muslim weavers; he was a nirguna saint, influenced by both Bhakti and Sufi ideals, and his verses are compiled in the Kabir Bijak, the Kabir Granthavali and the Adi Granth Sahib; his poems are found in several languages and dialects, including the sant bhasha of nirguna poets and the ulatbansi (upside-down sayings) style, and his mystical experiences describe the Ultimate Reality on the basis of Islamic, Vedantic and yogic traditions, expressing diverse and sometimes conflicting ideas; his poems draw on Islamic ideas such as monotheism and iconoclasm, and he used the concepts of zikr and ishq along with the Hindu practice of Nam-simaran; he was against the caste system, critical of rituals and idol worship, and equally critical of both Hinduism and Islam; Kabir remains a source of inspiration for many people today, and the verses attributed to him use the words guru and satguru."
@@ -9982,7 +9982,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "figures": [],
      "answer": {
@@ -10030,7 +10030,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Kabir",
      "answer": {
       "text": "Kabir's contribution to the Bhakti Movement: (i) Kabir was one of the most outstanding examples of a poet saint of the fourteenth-fifteenth centuries. (ii) His early childhood. (iii) Verses ascribed to Kabir have been compiled in three distinct but overlapping traditions. (iv) The Kabir Bijak, Kabir Granthavali, Adi Granth serve as a major source to know Kabir and his philosophies. (v) His poems have survived in several languages. (vi) The striking range of traditions Kabir drew on to describe the Ultimate Reality. (vii) He drew terms from vedantic traditions – Alakh, Nirankar, Brahman etc. (viii) Other terms having mystical connotations were also being used (shabada or shunya). (ix) His ideas were crystallized through debates and poems. (x) Hagiographies also play an important role. (xi) He was against idolatry and polytheism. (xii) Reference of ulatbansi and sant bhasha. (Any eight to be assessed)"
@@ -10050,7 +10050,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Baba Guru Nanak and the Sikh Tradition",
      "figures": [],
      "answer": {
@@ -10076,7 +10076,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
@@ -10098,7 +10098,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Kabir",
      "answer": {
       "text": "Philosophy and teachings of Kabir: (i) God called by different names like Allah, Ram, Karim, Keshav, Hari and Hazrat. (ii) Advocated communal harmony. (iii) Shunya and Yoga. (iv) He described the ultimate reality using terms from Islamic, Vedantic and Yogic traditions. (v) He described his mystical experiences through upside-down sayings (Ulatbansi). (vi) He advocated caste equality. (vii) He was against all rituals and idol worship. (viii) He believed in Nirguna bhakti. (ix) He used the sufi concept of Zikr and Ishq (love) to express the Hindu practice of Naam-Simran (remembrance of God's name). (x) He gave references from Vedantic traditions – Alakh, Nirakar, Brahman, and Atman, and from Yogic tradition. (Any eight to be explained)"
@@ -10118,7 +10118,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Baba Guru Nanak and the Sikh Tradition",
      "figures": [],
      "answer": {
@@ -10166,7 +10166,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Poems of Prayer: The Alvars and Nayanars",
      "answer": {
       "text": "(a) Ideas of Alvars and Nayanars and their relations with the states: Ideas – Alvars and Nayanars initiated a movement against the caste system; they criticised the dominance of Brahmins; they tried to reform the system; they claimed their compositions were as important as the Vedas; their anthology 'Nalayira Divyaprabandham' was described as the Tamil Veda; the most striking feature was the presence of women, e.g. Andal who saw herself as the beloved of Vishnu, and Karaikkal Ammaiyar, a devotee of Shiva. (Any four to be explained) Relations with the state – they had cordial relations with rulers and received royal patronage; Cholas gave grants for constructing temples of Vishnu and Shiva; important temples at Thanjavur and Chidambaram were built under Chola patronage; Chola rulers claimed divine support and proclaimed their power by building splendid temples; they introduced the singing of Tamil hymns and organized them into a text (Tevaram); Chola ruler Prantaka I consecrated metal images of saints Appar, Sambandar and Sundarar in a Shiva temple. (Any four to be explained)"
@@ -10185,8 +10185,8 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "figures": [],
      "answer": {
@@ -10212,7 +10212,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Women Devotees: Mirabai",
      "answer": {
@@ -10260,7 +10260,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "New Devotional Paths: Kabir",
      "answer": {
@@ -10313,8 +10313,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Basavanna's Virashaivism",
      "answer": {
       "opt": "A",
@@ -10409,7 +10409,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Baba Guru Nanak and the Sikh Tradition",
      "answer": {
       "text": "Main beliefs and teachings of Guru Nanak Dev:\nHis message is spelt out in his hymns and teachings; he advocated a form of nirguna bhakti.\nHe repudiated the external practices of religions, rejecting sacrifices, ritual baths, image worship, austerities and the scriptures of both Hindus and Muslims.\nThe Absolute or 'rab' had no gender or form.\nHe proposed a simple way to connect to the Divine by remembering and repeating the Divine Name, and expressed his ideas through hymns called 'shabad'.\nHe organised his followers into a community and set up rules for congregational worship (sangat) involving collective recitation.\nHe appointed one of his disciples, Angad, to succeed him as the preceptor (guru)."
@@ -10429,7 +10429,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "figures": [],
      "answer": {
@@ -10482,7 +10482,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
@@ -10530,7 +10530,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
@@ -10583,7 +10583,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Poems of Prayer: The Alvars and Nayanars",
      "answer": {
@@ -10630,7 +10630,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
@@ -10652,7 +10652,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Baba Guru Nanak and the Sikh Tradition",
      "answer": {
       "text": "How the legacy of Guru Nanak Dev's teachings influenced the principles of Sikhism:\nGuru Nanak's message is spelt out in his hymns and teachings; he advocated a form of nirguna bhakti, rejecting external practices - sacrifices, ritual baths, image worship, austerities, and the scriptures of both Hindus and Muslims.\nAccording to him, 'Rab' has no gender or form; he proposed a simple way to connect to the Divine by remembering and repeating the Divine Name (Nam simran), expressing his ideas through hymns called 'shabad' in Punjabi.\nHe organised his followers into a community and set up rules for congregational worship (sangat) involving collective recitation; he appointed Angad to succeed him as preceptor (guru), a practice followed for nearly 200 years.\nThis led to compilation of the Adi Granth Sahib - hymns/Gurbani composed by religious poets in various languages; Guru Gobind Singh included the compositions of the ninth guru, Guru Tegh Bahadur, and this scripture came to be called the Guru Granth Sahib."
@@ -10672,7 +10672,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "New Devotional Paths: Kabir",
      "figures": [],
      "answer": {
@@ -10698,8 +10698,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "New Devotional Paths: Kabir",
      "answer": {
       "opt": "D",
@@ -10746,7 +10746,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
@@ -10817,7 +10817,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Women Devotees: Mirabai",
      "answer": {
@@ -10942,7 +10942,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Poems of Prayer: The Alvars and Nayanars",
      "answer": {
       "opt": "D",
@@ -10968,7 +10968,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
@@ -10989,7 +10989,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "New Devotional Paths: Baba Guru Nanak and the Sikh Tradition",
      "answer": {
@@ -11016,7 +11016,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Growth of Sufism: Khanqahs and Silsilas",
      "answer": {
       "opt": "B",
@@ -11135,7 +11135,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Women Devotees: Mirabai",
      "answer": {
       "opt": "B",
@@ -11230,7 +11230,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Basavanna's Virashaivism",
      "answer": {
       "opt": "B",
@@ -11250,7 +11250,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Poems of Prayer: The Alvars and Nayanars",
      "answer": {
@@ -11291,7 +11291,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Water Resources and Fortifications",
      "answer": {
@@ -11312,8 +11312,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Vijayanagara: The Capital and its Environs",
      "answer": {
       "text": "Reasons for the apogee and fall of the Vijayanagara Empire: Krishnadeva Raya was a powerful ruler who expanded and consolidated the empire; he acquired the Raichur Doab and defeated the rulers of Orissa and the Sultans of Bijapur; the Amara-Nayaka system also helped consolidate the empire; in times of peace many temples and impressive gopurams were built. After the death of Krishnadeva Raya, strain began to show within the imperial structure; Nayakas or military chiefs started troubling his successors; Rama Raya became very ambitious and played one Sultan against another; the Sultans saw through his tricks and combined their forces; Rama Raya led his army against the combined Sultans in a battle where his army was routed; in this way the Sultans ruined Vijayanagara."
@@ -11333,7 +11333,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Royal Centre",
      "figures": [],
      "answer": {
@@ -11359,8 +11359,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "The Sacred Centre: Gopurams and Mandapas",
      "answer": {
       "opt": "C",
@@ -11380,7 +11380,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Vijayanagara: The Capital and its Environs",
      "answer": {
@@ -11400,7 +11400,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "The Royal Centre",
      "figures": [],
@@ -11427,8 +11427,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Water Resources and Fortifications",
      "answer": {
       "opt": "C",
@@ -11457,8 +11457,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "The Sacred Centre: Gopurams and Mandapas",
      "answer": {
       "opt": "D",
@@ -11629,8 +11629,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "The Sacred Centre: Gopurams and Mandapas",
      "answer": {
       "opt": "C",
@@ -11656,7 +11656,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "answer": {
@@ -11751,7 +11751,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "answer": {
@@ -11846,7 +11846,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "answer": {
@@ -11866,7 +11866,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "figures": [],
@@ -11967,8 +11967,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "answer": {
       "opt": "C",
@@ -12015,7 +12015,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Discovery of Hampi",
      "answer": {
@@ -12082,7 +12082,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Water Resources and Fortifications",
      "figures": [],
@@ -12110,7 +12110,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Discovery of Hampi",
      "answer": {
       "opt": "A",
@@ -12150,7 +12150,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "figures": [],
@@ -12225,7 +12225,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "answer": {
@@ -12320,7 +12320,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Water Resources and Fortifications",
      "answer": {
@@ -12340,7 +12340,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Vijayanagara: The Capital and its Environs",
      "figures": [],
@@ -12415,7 +12415,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Royal Centre",
      "answer": {
@@ -12435,7 +12435,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "figures": [],
@@ -12462,8 +12462,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Water Resources and Fortifications",
      "answer": {
       "opt": "B",
@@ -12489,8 +12489,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Rayas, Nayakas and Sultans",
      "answer": {
       "opt": "A",
@@ -12587,7 +12587,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Discovery of Hampi",
      "answer": {
@@ -12609,7 +12609,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Sacred Centre: Gopurams and Mandapas",
      "answer": {
       "text": "The Virupaksha temple of the Vijayanagara empire was known for its unique architecture:\nThe temple was built over centuries; the earliest shrine dated to the ninth-tenth centuries and was substantially enlarged with the establishment of the Vijayanagara Empire.\nThe hall in front of the main shrine was built by Krishnadeva Raya to mark his accession, decorated with delicately carved pillars; he is also credited with the construction of the eastern gopuram.\nThese additions meant the central shrine came to occupy a relatively small part of the complex; the halls were used for a variety of purposes - some were spaces where images of gods were placed to witness special programmes of music, dance and drama, some were used to celebrate the marriages of deities, and others were meant for the deities to swing in, with special images (distinct from those kept in the small central shrine) used on special occasions."
@@ -12629,7 +12629,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Royal Centre",
      "figures": [],
      "answer": {
@@ -12839,7 +12839,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "The Royal Centre",
      "answer": {
@@ -12859,7 +12859,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Water Resources and Fortifications",
      "figures": [],
@@ -12908,7 +12908,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Sacred Centre: Gopurams and Mandapas",
      "answer": {
       "text": "The raya gopurams or royal gateways often dwarfed the towers on the central shrines, signalling the presence of the temple from a great distance, and were also probably meant as reminders of the power of kings able to command the resources needed to construct them.\nOther distinctive features include mandapas or pavilions and long, pillared corridors that often ran around the shrines within the temple complex.\nThe Virupaksha temple was built over centuries: while inscriptions suggest the earliest shrine dated to the ninth-tenth centuries, it was substantially enlarged with the establishment of the Vijayanagara Empire; the hall in front of the main shrine was built by Krishnadeva Raya to mark his accession, decorated with delicately carved pillars, and he is also credited with the eastern gopuram.\nThe halls in the temple were used for a variety of purposes: some were spaces where images of gods were placed to witness music, dance and drama; others were used to celebrate the marriages of deities, or for deities to swing in, using special images distinct from those in the central shrine.\nThe Vitthala temple had Vitthala, a form of Vishnu generally worshipped in Maharashtra, as its principal deity, and had several halls and a unique shrine designed as a chariot.\nA characteristic feature of the temple complexes is the chariot streets that extended from the temple gopuram in a straight line, paved with stone slabs and lined with pillared pavilions where merchants set up shops.\nThe Hazara Rama temple, one of the most spectacular, was located in the royal centre and probably meant to be used only by the king and his family; the images in the central shrine are missing, but sculpted panels survive, including scenes from the Ramayana sculpted on the inner walls."
@@ -12928,7 +12928,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Royal Centre",
      "figures": [],
      "answer": {
@@ -13161,8 +13161,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Ain-i-Akbari",
      "answer": {
       "opt": "A",
@@ -13230,7 +13230,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Land Revenue System",
      "answer": {
       "opt": "C",
@@ -13257,7 +13257,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Ain-i-Akbari",
      "answer": {
       "opt": "B",
@@ -13277,7 +13277,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Peasants and Agricultural Production",
      "answer": {
@@ -13425,7 +13425,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Zamindars",
      "answer": {
@@ -13499,7 +13499,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Peasants and Agricultural Production",
      "answer": {
@@ -13525,8 +13525,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Forests and Tribes",
      "answer": {
       "opt": "B",
@@ -13573,8 +13573,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "The Ain-i-Akbari",
      "answer": {
       "text": "Limitations of Ain-i-Akbari: (i) Numerous errors in totaling in the data. (ii) Skewed nature of quantitative data. (iii) Data was not collected uniformly from all provinces. (Any three to be explained)"
@@ -13774,7 +13774,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Forests and Tribes",
      "answer": {
@@ -13795,7 +13795,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Ain-i-Akbari",
      "answer": {
@@ -13848,7 +13848,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Zamindars",
      "answer": {
@@ -13869,7 +13869,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Village Community: Panchayats and Headmen",
      "answer": {
@@ -13922,8 +13922,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Women in Agrarian Society",
      "answer": {
       "opt": "B",
@@ -13969,8 +13969,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Ain-i-Akbari",
      "answer": {
       "opt": "B",
@@ -13990,7 +13990,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Forests and Tribes",
      "answer": {
@@ -14010,7 +14010,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Women in Agrarian Society",
      "figures": [],
@@ -14037,8 +14037,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "The Ain-i-Akbari",
      "answer": {
       "opt": "C",
@@ -14157,7 +14157,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Women in Agrarian Society",
      "answer": {
       "text": "The role of women in Mughal agrarian society was significant:\nMen and women worked shoulder to shoulder - men tilled and ploughed, while women sowed, weeded, threshed and winnowed the harvest; the basis of production was the labour and resources of the entire household, though menstruating women were not allowed to touch the plough or the potter's wheel.\nWomen spun yarn, kneaded clay for pottery, and undertook tasks like embroidery that were dependent on female labour; commercialised tasks also required women's labour, and peasant and artisan women worked in the houses of their employers and went to markets.\nWomen were considered an important resource in agrarian society as they were child bearers; high mortality rates among women meant a shortage of wives, leading to the emergence of social customs in peasant and artisan communities distinct from those among elite groups - marriages in many rural communities required payment of bride-price, and remarriage of women was allowed, though women were kept under strict control by male family members and the community.\nWomen inherited zamindaris, filed petitions to panchayats, and could sell or mortgage their land; widows actively participated in the rural land market as sellers of property inherited by them."
@@ -14177,7 +14177,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Ain-i-Akbari",
      "figures": [],
      "answer": {
@@ -14244,7 +14244,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Forests and Tribes",
      "figures": [],
@@ -14293,7 +14293,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Peasants and Agricultural Production",
      "answer": {
       "text": "Agriculture was being constantly expanded, based on the principle of individual ownership.\nThe abundance of land, availability of labour, and mobility of peasants were three factors that accounted for the constant expansion of agriculture.\nBasic staple foods such as rice, wheat, barley and millets were grown; monsoons were the backbone of Indian agriculture.\nArtificial systems of irrigation were used and irrigation projects received state support.\nAgriculture was labour intensive but peasants did use technologies that often harnessed cattle energy; rudimentary technology like the hoe, spade and ploughshare were used.\nAgriculture was organised around two major seasonal cycles, the kharif (autumn) and the rabi (spring).\nThe Mughal state also encouraged peasants to cultivate commercial crops such as cotton, sugarcane and oilseeds, as they brought in more revenue.\nDuring the seventeenth century several new crops from different parts of the world reached India, such as potatoes, tomatoes, maize and chillies.\nIn most regions a minimum of two crops a year (do-fasla) was produced; where rainfall or irrigation assured a continuous supply of water, three crops were grown."
@@ -14313,7 +14313,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Women in Agrarian Society",
      "figures": [],
      "answer": {
@@ -14515,7 +14515,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Ain-i-Akbari",
      "answer": {
@@ -14589,7 +14589,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "The Zamindars",
      "answer": {
@@ -14609,7 +14609,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "The Village Community: Panchayats and Headmen",
      "figures": [],
@@ -14678,7 +14678,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -14699,7 +14699,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -14725,7 +14725,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -14773,8 +14773,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "The Fifth Report",
      "answer": {
       "text": "(33.1) It was called the Fifth Report because it was the fifth of a series of reports on the administration and activities of the East India Company in India.\n(33.2) The activities of the East India Company were closely watched and debated in England because groups in Britain opposed the Company's monopoly over trade with India and China and wanted the Royal Charter revoked; an increasing number of private traders wanted a share in Indian trade; British industrialists were keen to open up the Indian market for British manufactures and argued that the conquest of Bengal was benefiting only the Company, not the British nation as a whole; and information about Company misrule and maladministration, including incidents of greed and corruption among Company officials, was widely and hotly debated in the British press.\n(33.3) Two limitations of the Fifth Report: it ran to 1002 pages, of which over 800 were appendices reproducing petitions of zamindars and ryots, collectors' reports, statistical tables and notes on revenue and judicial administration written by officials, making it unwieldy; and, being intent on criticising the Company's maladministration, the Report exaggerated the collapse of traditional zamindari power and overestimated the scale on which zamindars were losing their land."
@@ -14847,7 +14847,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Rise of the Jotedars",
      "answer": {
@@ -14965,7 +14965,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -14986,7 +14986,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -15012,7 +15012,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -15039,8 +15039,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Bengal and the Zamindars: The Permanent Settlement",
      "answer": {
       "opt": "A",
@@ -15060,7 +15060,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -15113,8 +15113,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
       "opt": "C",
@@ -15255,7 +15255,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -15302,7 +15302,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Bengal and the Zamindars: The Permanent Settlement",
      "answer": {
@@ -15349,7 +15349,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -15444,7 +15444,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -15464,7 +15464,7 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "figures": [],
@@ -15491,7 +15491,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -15518,8 +15518,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
       "opt": "B",
@@ -15566,7 +15566,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
       "opt": "C",
@@ -15592,8 +15592,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Bengal and the Zamindars: The Permanent Settlement",
      "answer": {
       "opt": "B",
@@ -15713,7 +15713,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -15761,7 +15761,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Rise of the Jotedars",
      "answer": {
@@ -15788,7 +15788,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
       "opt": "C",
@@ -15814,8 +15814,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Bengal and the Zamindars: The Permanent Settlement",
      "answer": {
       "opt": "C",
@@ -15835,7 +15835,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -15861,7 +15861,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -15939,7 +15939,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -15960,7 +15960,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -16108,7 +16108,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Hoe and the Plough: Paharias and Santhals",
      "answer": {
@@ -16182,7 +16182,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "A Revolt in the Countryside: The Bombay Deccan",
      "answer": {
@@ -16223,7 +16223,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Policies of the Raj: Annexation and Reform",
      "answer": {
       "opt": "A",
@@ -16270,7 +16270,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Images of the Revolt: Art and Literature",
      "answer": {
@@ -16296,7 +16296,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Awadh in Revolt",
      "answer": {
@@ -16370,7 +16370,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Leaders and Centres of the Revolt",
      "answer": {
@@ -16661,7 +16661,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Awadh in Revolt",
      "answer": {
@@ -16712,8 +16712,8 @@
      "difficulty": "Average",
      "topic": "Awadh in Revolt",
      "answer": {
-      "opt": "B",
-      "text": "III, II, IV, I"
+      "opt": "A",
+      "text": "II, III, I, IV"
      }
     },
     {
@@ -16735,8 +16735,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "The Leaders and Centres of the Revolt",
      "answer": {
       "opt": "B",
@@ -16830,7 +16830,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Awadh in Revolt",
      "answer": {
@@ -16883,7 +16883,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Policies of the Raj: Annexation and Reform",
      "answer": {
@@ -16904,7 +16904,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Pattern of the Rebellion",
      "answer": {
@@ -16924,7 +16924,7 @@
        "qno": "27-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Awadh in Revolt",
      "figures": [],
@@ -16978,7 +16978,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Awadh in Revolt",
      "answer": {
@@ -17100,8 +17100,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Policies of the Raj: Annexation and Reform",
      "answer": {
       "opt": "D",
@@ -17195,7 +17195,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Policies of the Raj: Annexation and Reform",
      "answer": {
@@ -17269,7 +17269,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "The Leaders and Centres of the Revolt",
      "answer": {
@@ -17322,8 +17322,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policies of the Raj: Annexation and Reform",
      "answer": {
       "opt": "C",
@@ -17343,7 +17343,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Leaders and Centres of the Revolt",
      "answer": {
@@ -17369,7 +17369,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Awadh in Revolt",
      "answer": {
@@ -17417,7 +17417,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Awadh in Revolt",
      "answer": {
@@ -17517,7 +17517,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Pattern of the Rebellion",
      "answer": {
@@ -17616,7 +17616,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Leaders and Centres of the Revolt",
      "answer": {
       "opt": "D",
@@ -17731,7 +17731,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Images of the Revolt: Art and Literature",
      "answer": {
@@ -18008,8 +18008,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Salt Satyagraha: A Case Study",
      "answer": {
       "text": "The Salt Satyagraha became an all-India campaign in opposition to the British: in 1930 Mahatma Gandhi announced he would lead a march to break one of the most unpopular laws in British India, which gave the State a monopoly over the manufacture and sale of salt; it was Gandhiji's tactical wisdom, since salt was used in every household yet people were forbidden from making it even for domestic use, and were compelled to buy it from shops at a high price — by making the Salt Law his target, Gandhiji mobilised wider discontent against British rule; on 12 March 1930 Gandhiji started his march from Sabarmati and reached Dandi three weeks later, giving speeches at villages en route calling on local officials to leave government jobs and join the freedom struggle, and appealing for the abolition of untouchability and the union of Hindus, Muslims, Parsees and Sikhs for real Swaraj; parallel salt marches were conducted in other parts of the country; across large parts of India peasants breached forest laws, factory workers went on strike, lawyers boycotted British courts, and students refused to attend government-run institutions while many officials resigned for the nationalist cause; the march was widely covered by the European and American press, and it was the first nationalist activity in which women participated in large numbers."
@@ -18028,8 +18028,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Making and Unmaking of Non-cooperation",
      "figures": [],
      "answer": {
@@ -18076,7 +18076,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Mahatma Gandhi and Indian Nationalism",
      "answer": {
@@ -18218,8 +18218,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Quit India Movement",
      "answer": {
       "text": "Causes and events of the Quit India Movement: causes included dissatisfaction with the Government of India Act of 1935; the Congress did not accept the offer to participate in the Second World War as the British refused to meet its demands, and the Congress ministries resigned in October 1939; between 1940-41 the Congress organised individual satyagrahas to pressurise the British into promising freedom once the war was over; the Cripps Mission failed in 1942, and on 9 August 1942 Gandhiji launched the Quit India Movement with the slogan 'Do or Die', following which he was arrested. Events: after the failure of the Cripps Mission, a large number of people protested - liquor shops were picketed and foreign cloth boycotted and burnt, people organised strikes and acts of sabotage, and in places such as Satara and Medinipur independent (parallel) governments were proclaimed; underground resistance was organised by socialist members such as Jayaprakash Narayan, and the British responded with force; many ordinary Indians, including students who left college to go to jail, joined the movement and followed Gandhi's call to lay down their lives for the nation, while the Muslim League expanded its influence during this period; Gandhiji was released from prison in 1944 and held meetings with Jinnah to try to bridge the gap between the Congress and the League; a Labour government came to power in Britain and resolved to leave India, and in August 1947 the British finally quit India."
@@ -18239,7 +18239,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Making and Unmaking of Non-cooperation",
      "figures": [],
      "answer": {
@@ -18286,7 +18286,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Knowing Gandhi: Sources for the Nationalist Movement",
      "answer": {
@@ -18306,7 +18306,7 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "The Last Heroic Days: Gandhi after Independence",
      "figures": [],
@@ -18432,8 +18432,8 @@
      "difficulty": "Average",
      "topic": "Quit India Movement",
      "answer": {
-      "opt": "C",
-      "text": "'Independent' governments were proclaimed in Satara and Medinipur."
+      "opt": "D",
+      "text": "A series of 'Praja Mandals' were established in princely states."
      }
     },
     {
@@ -18496,7 +18496,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Mahatma Gandhi and Indian Nationalism",
      "answer": {
@@ -18594,8 +18594,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Salt Satyagraha: A Case Study",
      "answer": {
       "text": "(a) Reasons behind Gandhiji's decision to initiate the Salt Satyagraha and its significance: Reasons – the salt law was unpopular; Gandhiji gave advance notice of his salt march to the British; on 12 March 1930 he started the march to break the Salt law; the British monopoly over manufacture and sale of salt was very unpopular; the government destroyed salt it could not sell profitably; people were not allowed to make salt for domestic use and were forced to buy it at a high price; salt, being used by everyone, became a symbol of protest; it deprived people of a valuable village industry and involved destruction of property nature produced in abundance; there was also the salt tax. (Any five to be explained) Significance – it brought Mahatma Gandhi to world attention; the march was widely covered by the European and American press; women participated in large numbers; it made the British realise their Raj would not last forever and that they would have to share power with Indians; all sections of society participated; people made salt at Dandi to protest against the British; it was a non-violent protest; the British used violent methods to control the march and became unpopular as a result. (Any three to be explained)"
@@ -18614,8 +18614,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Quit India Movement",
      "figures": [],
      "answer": {
@@ -18682,7 +18682,7 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "The Last Heroic Days: Gandhi after Independence",
      "figures": [],
@@ -18736,7 +18736,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Making and Unmaking of Non-cooperation",
      "answer": {
@@ -18757,7 +18757,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Salt Satyagraha: A Case Study",
      "answer": {
@@ -18805,7 +18805,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Making and Unmaking of Non-cooperation",
      "answer": {
       "text": "Major events and movements that defined India's political condition between 1919 and 1922:\nThe concepts of satyagraha and ahimsa marked the rise of Gandhiji as a mass leader; Khadi and Charkha became symbols of the national movement and self-reliance, promoting indigenous industry.\nGandhiji called for a nationwide campaign against the Rowlatt Act, and the Rowlatt Satyagraha was started; martial law was imposed, and in April 1919 British Brigadier Dyer ordered his troops to fire on a peaceful assembly at Jallianwala Bagh in Amritsar.\nThe Khilafat Movement, led by Mohammad Ali and Shaukat Ali, demanded restoration of the Caliphate; Gandhiji believed that by intermixing the Non-Cooperation and Khilafat Movements, Hindus and Muslims could collectively bring an end to colonial rule.\nSwadeshi and boycott were used as tools - students refused to attend schools and colleges, lawyers stopped going to courts, and the working class went on strike; tribes in Andhra Pradesh violated forest laws and farmers in Awadh stopped paying taxes.\nIn February 1922, Gandhiji called off the Non-Cooperation Movement following the Chauri Chaura incident, where several constables were burnt to death; during the movement thousands of Indians were jailed, and Gandhiji himself was arrested in March 1922, charged with sedition and given six years' imprisonment."
@@ -18824,8 +18824,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Salt Satyagraha: A Case Study",
      "figures": [],
      "answer": {
@@ -18851,7 +18851,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Nationalist Leaders and Social Reformers",
      "answer": {
@@ -18872,8 +18872,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Salt Satyagraha: A Case Study",
      "answer": {
       "text": "Gandhiji used the 'Salt Law' to mobilise a wider discontent against British rule:\nAt the Lahore session of 1929, the Congress committed to Purna Swaraj through Civil Disobedience; Gandhiji announced he would lead a march to break the salt law, which gave the state a monopoly in the manufacture and sale of salt.\nSalt was indispensable in every Indian household, but Indians were forbidden from making it and were compelled to buy it from shops at a high price; Gandhiji hoped to use the salt law to mobilise the masses, since the British monopoly on salt was seen as a fourfold curse that deprived people of a valuable, easy village industry.\nOn 12 March 1930, Gandhiji began walking from his ashram at Sabarmati and reached his destination three weeks later, making a fistful of salt at Dandi, in defiance of the Salt Law.\nThis was followed by Swadeshi and boycott, protests and demonstrations; across India peasants breached the hated colonial forest laws, factory workers went on strike in some towns, lawyers boycotted British courts, and students refused to attend government-run educational institutions.\nGandhiji called upon local officials to renounce government employment and join the freedom struggle; his meetings were well attended by villagers of all castes, and there was large-scale participation of women."
@@ -18970,8 +18970,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "The Making and Unmaking of Non-cooperation",
      "answer": {
       "opt": "A",
@@ -18991,7 +18991,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Mahatma Gandhi and Indian Nationalism",
      "answer": {
@@ -19133,8 +19133,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Making and Unmaking of Non-cooperation",
      "answer": {
       "text": "Gandhiji got enough experience from the localised small struggles like Champaran, Kheda and Ahmedabad.\nAfter the end of the First World War, the British had instituted censorship of the press and permitted detention without trial; in 1919 the Rowlatt Act was also promulgated.\nGandhiji called for a countrywide campaign against this Act; shops were shut down, schools were closed, and protests were intense in Punjab.\nGandhiji was detained while proceeding to Punjab.\nThe working class went on strike, students stopped attending schools and colleges, and lawyers refused to attend court.\nFarmers in Awadh did not pay taxes, hill tribes in northern Andhra violated the forest laws, and peasants in Kumaun refused to carry loads for colonial officials.\nIf non-cooperation was effectively carried out, said Gandhiji, India would win swaraj within a year.\nAs a consequence of the Non-Cooperation Movement, the British Raj was shaken to its foundations for the first time since the Revolt of 1857; the movement transformed the Indian national movement into a mass movement and Gandhiji into a popular leader."
@@ -19153,8 +19153,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Salt Satyagraha: A Case Study",
      "figures": [],
      "answer": {
@@ -19281,7 +19281,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Nationalist Leaders and Social Reformers",
      "answer": {
@@ -19376,7 +19376,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Nationalist Leaders and Social Reformers",
      "answer": {
@@ -19485,8 +19485,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Knowing Gandhi: Sources for the Nationalist Movement",
      "figures": [],
      "answer": {
@@ -19559,8 +19559,8 @@
      "difficulty": "Average",
      "topic": "The Vision of the Constitution: The Objectives Resolution",
      "answer": {
-      "opt": "B",
-      "text": "Jawaharlal Nehru – Lawyer of Constituent Assembly"
+      "opt": "D",
+      "text": "Dr. B. R. Ambedkar – Chairman of Drafting Committee"
      }
     },
     {
@@ -19576,7 +19576,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Defining Rights: Separate Electorates and Social Justice",
      "answer": {
@@ -19602,8 +19602,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Defining Rights: Separate Electorates and Social Justice",
      "answer": {
       "opt": "B",
@@ -19650,7 +19650,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Powers of the State: Centre-State Relations",
      "answer": {
@@ -19876,7 +19876,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Members and Committees of the Constituent Assembly",
      "answer": {
       "text": "This question was found to be defective as none of the given options matched the correct answer as per the question paper. As per the official marking scheme, full marks (1 mark) were awarded to every candidate irrespective of the answer chosen, including those who did not attempt the question."
@@ -19996,7 +19996,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "The Vision of the Constitution: The Objectives Resolution",
      "answer": {
       "opt": "D",
@@ -20022,7 +20022,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Making of the Constitution: A Tumultuous Time",
      "answer": {
@@ -20097,7 +20097,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Making of the Constitution: A Tumultuous Time",
      "answer": {
       "opt": "D",
@@ -20143,8 +20143,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Members and Committees of the Constituent Assembly",
      "answer": {
       "opt": "D",
@@ -20164,8 +20164,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Powers of the State: Centre-State Relations",
      "answer": {
       "text": "(a) Why some members of the Constituent Assembly argued for a strong Centre: (i) Jawaharlal Nehru advocated for a strong centre. (ii) He emphasised that a weak centre would be incapable of ensuring peace. (iii) A strong centre was a must to speak up in the international sphere. (iv) The rights of the states were most eloquently defended by K. Santhanam from Madras, who felt a reallocation of powers was necessary to strengthen both states and the Centre. (v) He described that the centre might break down with too many responsibilities. (vi) Ambedkar also supported a strong and united Centre; riots in the country could be controlled through a strong Centre. (vii) Foreign aggression could be controlled and foreign affairs guided in a balanced way if the Centre was strong. (viii) Santhanam felt the proposed power sharing would cripple the states. (ix) Reminding members of the nation's riots and violence, many stated that the Centre's powers needed to be greatly strengthened to stop communal frenzy. (x) Gopalaswami Ayyangar declared that 'the Centre should be strengthened.' (xi) Balakrishna Sharma, from the United Provinces, argued that only a strong central government could plan for the country's future, mobilise economic resources, establish proper administration, and defend it against foreign aggression. (Any eight to be explained)"
@@ -20185,7 +20185,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Making of the Constitution: A Tumultuous Time",
      "figures": [],
      "answer": {
@@ -20238,7 +20238,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Members and Committees of the Constituent Assembly",
      "answer": {
@@ -20312,7 +20312,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Members and Committees of the Constituent Assembly",
      "answer": {
@@ -20360,7 +20360,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Making of the Constitution: A Tumultuous Time",
      "answer": {
       "opt": "D",
@@ -20386,7 +20386,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Defining Rights: Separate Electorates and Social Justice",
      "answer": {
@@ -20434,7 +20434,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Members and Committees of the Constituent Assembly",
      "answer": {
       "opt": "A",
@@ -20481,7 +20481,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Powers of the State: Centre-State Relations",
      "answer": {
@@ -20626,8 +20626,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Powers of the State: Centre-State Relations",
      "answer": {
       "text": "Views of the members of the Constituent Assembly on division of powers between the Centre and the States:\nThe issue of division of power between the Centre and State governments was intensely debated; the Draft Constitution provided three lists of subjects - the Union List (Union government makes laws), the State List (State government makes laws) and the Concurrent List (both can make laws).\nIn India, the Union government was made more powerful so it could ensure peace, security, and coordinate on matters of vital interest; Article 356 gave the Centre power to take over a state administration on the recommendation of the Governor, while some taxes such as land, property and sales tax were collected by the states.\nK. Santhanam from Madras said reallocation of powers was necessary - not only to strengthen the states but also the Centre, warning that if the Centre was overburdened with responsibilities it could not function properly, and that some powers should be transferred to the states, cautioning against excessive centralisation.\nMany leaders, however, advocated for a strong Centre - Ambedkar wanted a strong and united Centre, Gopalaswami Ayyangar said the Centre should be made as strong as possible, and Balkrishna Sharma argued that only a strong Centre could plan for the well-being of the country, mobilise resources, establish proper administration and defend the country against aggression."
@@ -20647,7 +20647,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Vision of the Constitution: The Objectives Resolution",
      "figures": [],
      "answer": {
@@ -20698,7 +20698,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Members and Committees of the Constituent Assembly",
      "answer": {
       "opt": "C",
@@ -20718,7 +20718,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Vision of the Constitution: The Objectives Resolution",
      "answer": {
@@ -20744,7 +20744,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Vision of the Constitution: The Objectives Resolution",
      "answer": {
@@ -20864,7 +20864,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Vision of the Constitution: The Objectives Resolution",
      "answer": {
       "text": "The years immediately preceding the making of the Constitution had been exceptionally tumultuous; on 15 August 1947 India had been made free, but it had also been divided.\nThe Calcutta Killings of August 1946 began a year of almost continuous rioting across northern and eastern India; the violence culminated in massacres accompanying the transfer of populations when Partition was announced.\nMillions of refugees were on the move - Muslims into East and West Pakistan, Hindus and Sikhs into West Bengal and the eastern half of Punjab; many perished before reaching their destination.\nAnother problem faced by the new nation was that of the princely states; this was the background in which the Constituent Assembly met.\nJ.L. Nehru presented the vision of the constitution, proclaiming India to be an independent sovereign republic, guaranteeing citizens justice, equality and freedom, and providing adequate safeguards for backward classes, minorities and tribals; Nehru referred to the American and French revolutions."
@@ -20883,8 +20883,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Defining Rights: Separate Electorates and Social Justice",
      "figures": [],
      "answer": {
@@ -21026,7 +21026,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Powers of the State: Centre-State Relations",
      "answer": {
@@ -21103,7 +21103,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Making of the Constitution: A Tumultuous Time",
      "answer": {
