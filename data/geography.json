@@ -66,7 +66,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Humanisation of Nature: Possibilism and Neo-determinism",
      "figures": [],
@@ -121,7 +121,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Human Geography through the Corridors of Time",
      "answer": {
       "opt": "C",
@@ -168,7 +168,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Naturalisation of Humans: Environmental Determinism",
      "answer": {
@@ -350,7 +350,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Nature of Human Geography",
      "answer": {
@@ -370,7 +370,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Naturalisation of Humans: Environmental Determinism",
      "figures": [],
@@ -391,7 +391,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Nature of Human Geography",
      "answer": {
@@ -411,7 +411,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Humanisation of Nature: Possibilism and Neo-determinism",
      "figures": [],
@@ -513,7 +513,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Fields and Sub-fields of Human Geography",
      "answer": {
@@ -533,7 +533,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Nature of Human Geography",
      "figures": [],
@@ -554,7 +554,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Naturalisation of Humans: Environmental Determinism",
      "answer": {
@@ -574,7 +574,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Human Geography through the Corridors of Time",
      "figures": [],
@@ -601,8 +601,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "Naturalisation of Humans: Environmental Determinism",
      "answer": {
       "opt": "B",
@@ -629,7 +629,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Nature of Human Geography",
      "answer": {
       "opt": "A",
@@ -656,7 +656,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Naturalisation of Humans: Environmental Determinism",
      "answer": {
       "opt": "C",
@@ -703,7 +703,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Nature of Human Geography",
      "answer": {
@@ -730,8 +730,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Humanisation of Nature: Possibilism and Neo-determinism",
      "answer": {
       "opt": "B",
@@ -884,8 +884,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Components of Population Change",
      "answer": {
       "opt": "A",
@@ -932,7 +932,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Patterns of Population Distribution in the World",
      "answer": {
@@ -1000,7 +1000,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Patterns of Population Distribution in the World",
      "answer": {
       "opt": "A",
@@ -1074,7 +1074,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Patterns of Population Distribution in the World",
      "answer": {
@@ -1189,8 +1189,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Components of Population Change",
      "answer": {
       "opt": "A",
@@ -1216,8 +1216,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Demographic Transition Theory",
      "answer": {
       "opt": "D",
@@ -1237,7 +1237,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors Influencing the Distribution of Population",
      "answer": {
@@ -1257,7 +1257,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Population Growth",
      "answer": {
@@ -1310,7 +1310,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Demographic Transition Theory",
      "answer": {
@@ -1378,7 +1378,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Demographic Transition Theory",
      "answer": {
@@ -1418,7 +1418,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Demographic Transition Theory",
      "figures": [],
@@ -1476,8 +1476,8 @@
        "qno": "15-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Demographic Transition Theory",
      "answer": {
       "opt": "A",
@@ -1503,7 +1503,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Demographic Transition Theory",
      "answer": {
@@ -1558,7 +1558,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Demographic Transition Theory",
      "answer": {
@@ -1585,8 +1585,8 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Demographic Transition Theory",
      "figures": [],
      "answer": {
@@ -1698,7 +1698,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors Influencing the Distribution of Population",
      "answer": {
@@ -1719,7 +1719,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Population Change: Migration",
      "figures": [],
      "answer": {
@@ -1801,7 +1801,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Patterns of Population Distribution in the World",
      "answer": {
       "opt": "C",
@@ -1821,7 +1821,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors Influencing the Distribution of Population",
      "answer": {
@@ -1841,7 +1841,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors Influencing the Distribution of Population",
      "figures": [],
@@ -1940,7 +1940,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Patterns of Population Distribution in the World",
      "answer": {
@@ -2070,7 +2070,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Measuring Human Development",
      "answer": {
       "opt": "C",
@@ -2117,7 +2117,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
@@ -2137,7 +2137,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "figures": [],
@@ -2286,7 +2286,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Approaches to Human Development",
      "answer": {
       "opt": "C",
@@ -2421,8 +2421,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "A",
@@ -2449,7 +2449,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "The Concept of Human Development",
      "answer": {
       "opt": "B",
@@ -2475,8 +2475,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "C",
@@ -2502,7 +2502,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "International Comparisons of Human Development",
      "answer": {
@@ -2529,8 +2529,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "D",
@@ -2556,8 +2556,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "C",
@@ -2577,7 +2577,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Approaches to Human Development",
      "answer": {
@@ -2598,7 +2598,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Growth and Development",
      "answer": {
       "text": "Differentiate between growth and development, with examples: (i) Growth is quantitative and value-neutral. (ii) Growth may have a positive or a negative sign - the changes may be either positive or negative, whereas (iii) development means a qualitative change which is always value-positive. (iv) Development cannot take place unless there is an increment or addition to the existing conditions. (v) Development occurs when positive growth takes place, yet positive growth does not lead to development - development occurs when there is a positive change in quality. (vi) For example, if the population of a city grows from one lakh to two lakhs over a period of time, it shows the city has grown; however, if facilities like housing, provision of basic services and other characteristics remain the same, then this growth has not been accompanied by development. (any five points, or any other relevant point)"
@@ -2624,7 +2624,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
@@ -2678,7 +2678,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
@@ -2705,8 +2705,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Measuring Human Development",
      "answer": {
       "opt": "C",
@@ -2752,8 +2752,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Approaches to Human Development",
      "answer": {
       "opt": "B",
@@ -2779,8 +2779,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Growth and Development",
      "answer": {
       "opt": "B",
@@ -2827,7 +2827,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Four Pillars of Human Development",
      "answer": {
@@ -2854,7 +2854,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Growth and Development",
      "answer": {
       "opt": "B",
@@ -2901,7 +2901,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "The Four Pillars of Human Development",
      "answer": {
@@ -2955,8 +2955,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "C",
@@ -2982,8 +2982,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "D",
@@ -3003,8 +3003,8 @@
        "qno": 27
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Four Pillars of Human Development",
      "answer": {
       "text": "Beti Bachao - Beti Padhao as an effective step to empower women (any five points): there are social constructs and roles assigned to individuals which are reinforced by social institutions; biological differences become the basis of social differentiations, discriminations and exclusions; the exclusion of over half of the population becomes a serious handicap to any developing and civilised society; it is a global challenge which has been acknowledged by the United Nations Development Programme (UNDP); gender discrimination in particular is a crime against humanity; all efforts need to be made to address the denial of opportunities of education, employment, political representation, low wages for similar work, and disregard for entitlement to a dignified life; the Government of India has duly acknowledged the adverse impact of these discriminations and launched a nationwide campaign called Beti Bachao - Beti Padhao."
@@ -3029,7 +3029,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "The Concept of Human Development",
      "answer": {
@@ -3057,7 +3057,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "opt": "B",
@@ -3138,8 +3138,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "International Comparisons of Human Development",
      "answer": {
       "text": "Both (A) Asia and (C) Europe were accepted as correct; the examinee may write either of the two options."
@@ -3260,7 +3260,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Growth and Development",
      "answer": {
       "opt": "D",
@@ -3424,7 +3424,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Mining",
      "answer": {
       "opt": "A",
@@ -3519,7 +3519,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Pastoralism: Nomadic Herding and Commercial Livestock Rearing",
      "answer": {
       "opt": "C",
@@ -3539,7 +3539,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mining",
      "answer": {
@@ -3565,8 +3565,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Mixed Farming",
      "answer": {
       "opt": "B",
@@ -3586,7 +3586,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Plantation Agriculture",
      "answer": {
@@ -3606,7 +3606,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Extensive Commercial Grain Farming",
      "figures": [],
@@ -3783,7 +3783,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Co-operative and Collective Farming",
      "answer": {
@@ -3803,7 +3803,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Dairy Farming",
      "figures": [],
@@ -3831,7 +3831,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Mining",
      "answer": {
       "opt": "C",
@@ -3851,7 +3851,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Hunting and Gathering",
      "answer": {
@@ -3878,7 +3878,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Subsistence Agriculture",
      "answer": {
       "opt": "C",
@@ -3925,7 +3925,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Hunting and Gathering",
      "answer": {
       "opt": "A",
@@ -3965,7 +3965,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Plantation Agriculture",
      "answer": {
@@ -3985,7 +3985,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Pastoralism: Nomadic Herding and Commercial Livestock Rearing",
      "figures": [],
@@ -4012,8 +4012,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Extensive Commercial Grain Farming",
      "answer": {
       "opt": "D",
@@ -4057,7 +4057,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mining",
      "answer": {
@@ -4084,7 +4084,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Hunting and Gathering",
      "answer": {
       "opt": "C",
@@ -4107,7 +4107,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Extensive Commercial Grain Farming",
      "answer": {
@@ -4155,7 +4155,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Subsistence Agriculture",
      "answer": {
       "opt": "A",
@@ -4196,7 +4196,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Pastoralism: Nomadic Herding and Commercial Livestock Rearing",
      "figures": [],
      "answer": {
@@ -4219,7 +4219,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Pastoralism: Nomadic Herding and Commercial Livestock Rearing",
      "answer": {
@@ -4335,7 +4335,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mining",
      "answer": {
@@ -4359,7 +4359,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Dairy Farming",
      "answer": {
@@ -4461,7 +4461,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Industries based on Ownership",
      "figures": [],
@@ -4502,7 +4502,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Industries based on Raw Materials",
      "figures": [],
@@ -4570,7 +4570,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors of Industrial Location",
      "figures": [],
@@ -4598,7 +4598,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Industries based on Size",
      "answer": {
       "opt": "C",
@@ -4679,7 +4679,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Industries based on Size",
      "answer": {
       "opt": "B",
@@ -4699,7 +4699,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Characteristics of Modern Large Scale Manufacturing",
      "answer": {
@@ -4719,7 +4719,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "High Technology Industry",
      "figures": [],
@@ -4842,7 +4842,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Footloose Industries",
      "answer": {
@@ -4864,7 +4864,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Industries based on Size",
      "answer": {
       "text": "Cottage industries: smallest manufacturing unit; artisans use local raw materials; family members use simple and locally available tools to produce everyday goods in their homes; finished products may be for consumption in the same household or for sale; capital and transportation do not wield much influence; manufacturing at this level has low commercial significance. Large scale industries: large scale manufacturing involves a large market; requires various raw materials; requires enormous energy; requires specialized workers; uses advanced technology; assembly-line mass production and large capital (any five points of difference to be explained)."
@@ -4967,7 +4967,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Industries based on Size",
      "answer": {
       "text": "Differentiate the small and large scale manufacturing industries in the world: small scale manufacturing uses local raw material and simple power driven techniques, while large scale manufacturing requires various raw materials and enormous energy; small scale provides employment to local people, large scale needs specialized workers and advanced technology; small scale industries increase the local purchasing power while large scale industries increase the purchasing power of the whole countries; small scale manufacturing provides employment to local labour but large scale provides labour to specialized persons from different areas; transport and markets are required for both, but small scale needs local markets and large scale needs even overseas markets; small scale industries require less capital whereas large scale industries need huge capital infrastructure."
@@ -4993,8 +4993,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Manufacturing: Concept and Significance",
      "answer": {
       "opt": "B",
@@ -5082,7 +5082,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Footloose Industries",
      "answer": {
@@ -5131,7 +5131,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors of Industrial Location",
      "answer": {
@@ -5178,8 +5178,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Manufacturing: Concept and Significance",
      "answer": {
       "opt": "B",
@@ -5199,7 +5199,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Factors of Industrial Location",
      "answer": {
@@ -5294,7 +5294,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Industries based on Size",
      "answer": {
       "opt": "B",
@@ -5375,7 +5375,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Industries based on Size",
      "answer": {
       "opt": "B",
@@ -5507,7 +5507,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "People Engaged in Tertiary Activities",
      "answer": {
@@ -5770,7 +5770,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Rural and Urban Marketing Centres",
      "answer": {
       "opt": "D",
@@ -5844,7 +5844,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Retail Trading",
      "answer": {
       "opt": "B",
@@ -5871,7 +5871,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "People Engaged in Tertiary Activities",
      "answer": {
@@ -5899,7 +5899,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Outsourcing and the Digital Divide",
      "answer": {
       "opt": "C",
@@ -5926,7 +5926,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Retail Trading",
      "answer": {
       "opt": "A",
@@ -5946,7 +5946,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "People Engaged in Tertiary Activities",
      "answer": {
@@ -5992,8 +5992,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Quaternary Activities",
      "answer": {
       "opt": "C",
@@ -6100,7 +6100,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "People Engaged in Tertiary Activities",
      "answer": {
@@ -6154,7 +6154,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Tertiary Activities: The Service Sector",
      "answer": {
       "opt": "D",
@@ -6181,7 +6181,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Outsourcing and the Digital Divide",
      "answer": {
       "opt": "B",
@@ -6262,7 +6262,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Types of Tertiary Activities: Trade, Transport and Communication",
      "answer": {
       "opt": "C",
@@ -6289,7 +6289,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Tertiary Activities: The Service Sector",
      "answer": {
       "opt": "B",
@@ -6315,7 +6315,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Quinary Activities",
      "answer": {
@@ -6343,7 +6343,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Tourism",
      "answer": {
       "opt": "A",
@@ -6403,7 +6403,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Outsourcing and the Digital Divide",
      "answer": {
@@ -6423,8 +6423,8 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Outsourcing and the Digital Divide",
      "figures": [],
      "answer": {
@@ -6451,7 +6451,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Tourism",
      "answer": {
@@ -6479,7 +6479,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Retail Trading",
      "answer": {
       "opt": "B",
@@ -6665,7 +6665,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shipping Canals: Suez and Panama",
      "answer": {
@@ -6686,7 +6686,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Shipping Canals: Suez and Panama",
      "answer": {
@@ -6732,7 +6732,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shipping Canals: Suez and Panama",
      "answer": {
@@ -6793,7 +6793,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Water Transport: Ocean Routes",
      "figures": [],
@@ -6837,7 +6837,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Transport and Communication: Importance",
      "answer": {
@@ -6857,7 +6857,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Transport and Communication: Importance",
      "figures": [],
@@ -6901,7 +6901,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Transport and Communication: Importance",
      "answer": {
@@ -6921,7 +6921,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Road Transport",
      "answer": {
@@ -6941,7 +6941,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Trans-Continental Railways",
      "figures": [],
@@ -7079,7 +7079,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Trans-Continental Railways",
      "answer": {
@@ -7173,7 +7173,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7283,7 +7283,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7377,7 +7377,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Trans-Continental Railways",
      "answer": {
@@ -7444,7 +7444,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7465,7 +7465,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7514,8 +7514,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Road Transport",
      "answer": {
       "opt": "B",
@@ -7542,7 +7542,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Shipping Canals: Suez and Panama",
      "answer": {
       "opt": "D",
@@ -7565,7 +7565,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7586,7 +7586,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7659,7 +7659,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Trans-Continental Railways",
      "answer": {
@@ -7746,7 +7746,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -7894,7 +7894,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Road Transport",
      "figures": [],
@@ -7941,7 +7941,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Trans-Continental Railways",
      "answer": {
@@ -8092,7 +8092,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Shipping Canals: Suez and Panama",
      "answer": {
@@ -8159,7 +8159,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inland Waterways",
      "answer": {
@@ -8281,7 +8281,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "World Trade Organisation",
      "answer": {
@@ -8322,7 +8322,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basis of International Trade",
      "answer": {
@@ -8348,8 +8348,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "World Trade Organisation",
      "answer": {
       "opt": "B",
@@ -8485,7 +8485,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basis of International Trade",
      "figures": [],
@@ -8533,7 +8533,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basis of International Trade",
      "answer": {
@@ -8553,7 +8553,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "International Trade: Concept and Importance",
      "figures": [],
@@ -8609,7 +8609,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ports: The Gateways of International Trade",
      "answer": {
@@ -8711,7 +8711,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Ports: The Gateways of International Trade",
      "answer": {
       "opt": "B",
@@ -8738,8 +8738,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "World Trade Organisation",
      "answer": {
       "opt": "A",
@@ -8792,7 +8792,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ports: The Gateways of International Trade",
      "answer": {
@@ -8867,7 +8867,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "International Trade: Concept and Importance",
      "answer": {
@@ -8968,8 +8968,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "World Trade Organisation",
      "answer": {
       "opt": "A",
@@ -8995,8 +8995,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "Case for and against Free Trade",
      "answer": {
       "opt": "A",
@@ -9022,7 +9022,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Case for and against Free Trade",
      "answer": {
@@ -9050,7 +9050,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "International Trade: Concept and Importance",
      "answer": {
       "opt": "C",
@@ -9076,8 +9076,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Ports: The Gateways of International Trade",
      "answer": {
       "opt": "C",
@@ -9104,7 +9104,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "World Trade Organisation",
      "answer": {
@@ -9173,7 +9173,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Ports: The Gateways of International Trade",
      "answer": {
       "opt": "B",
@@ -9289,7 +9289,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Adolescent Population",
      "answer": {
       "opt": "B",
@@ -9343,7 +9343,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Growth of Population",
      "answer": {
       "opt": "C",
@@ -9369,8 +9369,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Population Composition: Linguistic Composition",
      "answer": {
       "opt": "A",
@@ -9396,8 +9396,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "Migration: Causes and Consequences",
      "answer": {
       "opt": "A",
@@ -9423,8 +9423,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Migration: Causes and Consequences",
      "answer": {
       "opt": "B",
@@ -9450,8 +9450,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Migration: Causes and Consequences",
      "answer": {
       "opt": "C",
@@ -9471,7 +9471,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Growth of Population",
      "answer": {
@@ -9534,7 +9534,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Density of Population",
      "answer": {
@@ -9588,7 +9588,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Population Composition: Linguistic Composition",
      "answer": {
       "opt": "D",
@@ -9608,7 +9608,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Growth of Population",
      "answer": {
@@ -9628,7 +9628,7 @@
        "qno": "23-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Growth of Population",
      "figures": [],
@@ -9721,8 +9721,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Population Composition: Linguistic Composition",
      "answer": {
       "opt": "A",
@@ -9749,7 +9749,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Adolescent Population",
      "answer": {
       "opt": "B",
@@ -9796,7 +9796,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Migration: Causes and Consequences",
      "answer": {
       "opt": "B",
@@ -9816,7 +9816,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Adolescent Population",
      "answer": {
@@ -9836,7 +9836,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Sex Composition and Gender Issues",
      "figures": [],
@@ -9887,7 +9887,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Migration: Causes and Consequences",
      "answer": {
       "opt": "C",
@@ -9907,7 +9907,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Distribution of Population",
      "answer": {
@@ -9974,7 +9974,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Population Composition: Rural-Urban and Occupational Structure",
      "answer": {
@@ -9995,7 +9995,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Population Composition: Rural-Urban and Occupational Structure",
      "answer": {
@@ -10038,8 +10038,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Adolescent Population",
      "answer": {
       "text": "(a) National Youth Policy of India: (i) The National Youth Policy was launched in February 2014. (ii) The Government of India has undertaken certain policies to impart proper education to adolescent groups so that their talents could be channelized and properly utilized. (iii) It proposes a holistic 'vision' for the youth of India. (iv) To empower the youth of the country to achieve their full potential and, through them, enable India to find its rightful place in the community of nations. (v) The National Policy for Skill Development and Entrepreneurship, also formulated in 2015, provides an umbrella framework to all skilling activities. (any five points, or any other relevant point)"
@@ -10058,8 +10058,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Adolescent Population",
      "figures": [],
      "answer": {
@@ -10177,7 +10177,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Growth of Population",
      "answer": {
       "opt": "C",
@@ -10258,7 +10258,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Growth of Population",
      "answer": {
       "opt": "B",
@@ -10285,7 +10285,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Migration: Causes and Consequences",
      "answer": {
       "opt": "D",
@@ -10305,7 +10305,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Density of Population",
      "answer": {
@@ -10325,7 +10325,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Distribution of Population",
      "figures": [],
@@ -10471,8 +10471,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Composition: Linguistic Composition",
      "answer": {
       "opt": "C",
@@ -10520,7 +10520,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Population Composition: Rural-Urban and Occupational Structure",
      "answer": {
@@ -10637,7 +10637,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Population Composition: Linguistic Composition",
      "answer": {
@@ -10665,8 +10665,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Growth of Population",
      "answer": {
       "opt": "D",
@@ -10692,7 +10692,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Growth of Population",
      "answer": {
@@ -10719,8 +10719,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Growth of Population",
      "answer": {
       "opt": "C",
@@ -10822,7 +10822,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Trends of Urbanisation in India",
      "answer": {
@@ -10896,7 +10896,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Classification of Towns on Functional Basis",
      "answer": {
@@ -11118,7 +11118,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Classification of Towns on Functional Basis",
      "answer": {
@@ -11199,7 +11199,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Types of Rural Settlements",
      "answer": {
@@ -11226,8 +11226,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Classification of Towns on Functional Basis",
      "answer": {
       "opt": "B",
@@ -11247,7 +11247,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Urban Settlements",
      "answer": {
@@ -11267,7 +11267,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Rural Settlements",
      "answer": {
@@ -11342,7 +11342,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Trends of Urbanisation in India",
      "answer": {
       "opt": "B",
@@ -11395,8 +11395,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Classification of Towns on Functional Basis",
      "answer": {
       "opt": "B",
@@ -11422,8 +11422,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Types of Rural Settlements",
      "answer": {
       "opt": "D",
@@ -11532,7 +11532,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Trends of Urbanisation in India",
      "answer": {
@@ -11586,7 +11586,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Smart Cities Mission",
      "answer": {
       "opt": "D",
@@ -11644,7 +11644,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Trends of Urbanisation in India",
      "answer": {
@@ -11724,7 +11724,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Classification of Towns on Functional Basis",
      "answer": {
@@ -11745,8 +11745,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Urban Settlements",
      "answer": {
       "text": "(a) Urban centres in India are more differentiated in terms of socio-economic, politico-cultural and other indicators of development - evaluated with examples: (i) in urban areas there are farmhouses and high income group localities characterised by well-developed urban infrastructure like wide roads, streetlights, water and sanitation facilities, lawns, well-developed green belts, parks, playgrounds and provisions for individual security and right to privacy. (ii) at the other extreme are slums, jhuggi-jhopari clusters and colonies of shanty structures. (iii) inhabited by people forced to migrate from rural areas in search of livelihood but who could not afford proper housing and landed up living in slums - residential areas of least choice, dilapidated houses, poor hygienic conditions, poor ventilation, lack of basic amenities like drinking water, light and toilet facilities etc. (iv) open defecation, unregulated drainage systems, overcrowded narrow street patterns are serious health and socio-environmental hazards. (v) the slum population works in low-paid, high-risk-prone, unorganised sectors of the urban economy; consequently they are undernourished, prone to different types of diseases and illness, and cannot afford to give proper education to their children. (vi) poverty makes them vulnerable to drug abuse, alcoholism, crime, vandalism, escapism, apathy and ultimately social exclusion. (any five points, or any other relevant point)"
@@ -11807,7 +11807,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Trends of Urbanisation in India",
      "answer": {
@@ -11833,7 +11833,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Trends of Urbanisation in India",
      "answer": {
@@ -11942,7 +11942,7 @@
        "qno": "22-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Smart Cities Mission",
      "figures": [],
@@ -12052,8 +12052,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Land Degradation",
      "answer": {
       "opt": "A",
@@ -12120,7 +12120,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Problems of Indian Agriculture",
      "answer": {
@@ -12167,7 +12167,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "answer": {
@@ -12187,7 +12187,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "figures": [],
@@ -12214,7 +12214,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "answer": {
@@ -12269,7 +12269,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "answer": {
@@ -12325,7 +12325,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "answer": {
       "opt": "C",
@@ -12373,7 +12373,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "answer": {
@@ -12419,7 +12419,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Agricultural Development in India",
      "answer": {
@@ -12446,8 +12446,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Cropping Seasons and Major Crops of India",
      "answer": {
       "opt": "A",
@@ -12473,7 +12473,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Cropping Seasons and Major Crops of India",
      "answer": {
@@ -12545,7 +12545,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Land-use Categories and Land-use Changes",
      "answer": {
@@ -12571,7 +12571,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Cropping Seasons and Major Crops of India",
      "answer": {
@@ -12663,7 +12663,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Farming: Sources of Moisture",
      "figures": [],
      "answer": {
@@ -12706,7 +12706,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Problems of Indian Agriculture",
      "answer": {
@@ -12766,7 +12766,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Common Property Resources",
      "figures": [],
@@ -12856,7 +12856,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Problems of Indian Agriculture",
      "answer": {
       "text": "(a) Problem of low productivity of Indian agriculture (any two points): the yield of crops in the country is low in comparison to the international level; per hectare output of most crops such as rice, wheat, cotton and oil seeds in India is much lower than that of USA, Russia and Japan; labour productivity is low in comparison to the international level; vast rainfed areas in the country, especially in drylands, have low yields. National Mission for Sustainable Agriculture (any three points): it aims to make agriculture more productive, sustainable, remunerative and climate resilient; it promotes location-specific and integrated farming systems; it conserves natural resources through appropriate soil and moisture conservation measures; the government has been promoting schemes such as Paramparagat Krishi Vikas Yojana (PKVY) and Rashtriya Krishi Vikas Yojana (RKVY)."
@@ -12876,7 +12876,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Problems of Indian Agriculture",
      "figures": [],
      "answer": {
@@ -12946,7 +12946,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Agricultural Development in India",
      "answer": {
@@ -13016,8 +13016,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Cropping Seasons and Major Crops of India",
      "answer": {
       "opt": "D",
@@ -13043,7 +13043,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Cropping Seasons and Major Crops of India",
      "answer": {
@@ -13093,7 +13093,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Land Degradation",
      "answer": {
@@ -13138,7 +13138,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Indira Gandhi Canal Command Area",
      "answer": {
       "opt": "A",
@@ -13165,7 +13165,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Indira Gandhi Canal Command Area",
      "answer": {
       "opt": "A",
@@ -13192,7 +13192,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Indira Gandhi Canal Command Area",
      "answer": {
       "opt": "B",
@@ -13212,7 +13212,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Emerging Water Problems",
      "answer": {
@@ -13232,7 +13232,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Watershed Management and Rainwater Harvesting",
      "answer": {
@@ -13299,7 +13299,7 @@
        "qno": "23-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Watershed Management and Rainwater Harvesting",
      "figures": [],
@@ -13374,7 +13374,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Jal Kranti Abhiyan and National Water Policy",
      "answer": {
@@ -13394,7 +13394,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Jal Kranti Abhiyan and National Water Policy",
      "figures": [],
@@ -13448,7 +13448,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Water Conservation and Management",
      "answer": {
@@ -13475,7 +13475,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Jal Kranti Abhiyan and National Water Policy",
      "answer": {
@@ -13502,8 +13502,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Indira Gandhi Canal Command Area",
      "answer": {
       "opt": "D",
@@ -13558,7 +13558,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Indira Gandhi Canal Command Area",
      "answer": {
       "opt": "D",
@@ -13578,8 +13578,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Namami Gange Programme",
      "answer": {
       "text": "Measures to achieve the objectives of the 'Namami Gange Programme': (i) Developing sewerage treatment systems in towns. (ii) Monitoring of industrial effluents. (iii) Development of river front. (iv) Afforestation along the banks for increased biodiversity. (v) Cleaning of the river surface. (vi) Development of 'Ganga Grams' in Uttarakhand, UP, Bihar, Jharkhand and West Bengal. (vii) Creating public awareness to avoid adding pollutants into the river even in the form of rituals. (any three points, or any other relevant point)"
@@ -13645,8 +13645,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Emerging Water Problems",
      "answer": {
       "opt": "C",
@@ -13740,8 +13740,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Indira Gandhi Canal Command Area",
      "answer": {
       "opt": "B",
@@ -13767,8 +13767,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Jal Kranti Abhiyan and National Water Policy",
      "answer": {
       "opt": "A",
@@ -13816,7 +13816,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Water Demand and Utilisation",
      "answer": {
       "text": "(a) Positive impacts (any three): provision of irrigation makes multiple cropping possible; irrigated lands have higher agricultural productivity than unirrigated lands; HYV crops need a regular moisture supply, made possible only by a developed irrigation system; wheat and rice are grown mainly with the help of irrigation in states like Punjab, Haryana and Western Uttar Pradesh. Negative impacts (any two): over-use of ground water resources in Punjab, Haryana and Western Uttar Pradesh has led to a decline in ground water, which will impact food production; salinity and alkalinity are increasing in the soil, which negatively affects crop growth; in some parts, accumulation of arsenic is taking place. (If a student writes three negative and two positive points instead, that should also be considered.)"
@@ -13973,7 +13973,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Conventional Sources of Energy",
      "answer": {
@@ -14061,7 +14061,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Non-Conventional Sources of Energy",
      "answer": {
@@ -14129,7 +14129,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Ferrous, Non-Ferrous and Non-Metallic Minerals",
      "answer": {
       "opt": "C",
@@ -14209,7 +14209,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Conventional Sources of Energy",
      "answer": {
@@ -14230,7 +14230,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Non-Conventional Sources of Energy",
      "answer": {
@@ -14270,7 +14270,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Non-Conventional Sources of Energy",
      "figures": [],
@@ -14320,7 +14320,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ferrous, Non-Ferrous and Non-Metallic Minerals",
      "answer": {
@@ -14388,7 +14388,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Non-Conventional Sources of Energy",
      "answer": {
@@ -14438,7 +14438,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Mineral Resources",
      "answer": {
@@ -14560,7 +14560,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Ferrous, Non-Ferrous and Non-Metallic Minerals",
      "answer": {
@@ -14655,7 +14655,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conventional Sources of Energy",
      "answer": {
@@ -14718,8 +14718,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Case Study: Jhabua District — Watershed Management",
      "answer": {
       "opt": "B",
@@ -14766,7 +14766,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Integrated Tribal Development Project: Bharmaur Region",
      "answer": {
@@ -14793,7 +14793,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Integrated Tribal Development Project: Bharmaur Region",
      "answer": {
       "opt": "B",
@@ -14819,7 +14819,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Integrated Tribal Development Project: Bharmaur Region",
      "answer": {
@@ -14847,7 +14847,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Integrated Tribal Development Project: Bharmaur Region",
      "answer": {
       "opt": "D",
@@ -15008,8 +15008,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Target Area Planning",
      "answer": {
       "opt": "C",
@@ -15136,7 +15136,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Integrated Tribal Development Project: Bharmaur Region",
      "figures": [],
@@ -15218,7 +15218,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
@@ -15293,7 +15293,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Case Study: Indira Gandhi Canal Command Area",
      "answer": {
@@ -15313,7 +15313,7 @@
        "qno": "27-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Integrated Tribal Development Project: Bharmaur Region",
      "figures": [],
@@ -15334,8 +15334,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Case Study: Indira Gandhi Canal Command Area",
      "answer": {
       "text": "(a) Any five measures to be suggested: strict implementation of the water management policy; the cropping pattern should be such that water-intensive crops are not grown; areas affected by salinity and water-logging should be reclaimed; ecological development through afforestation and shelter belts is necessary; agricultural and allied activities have to develop along with other sectors of the economy for diversification of the economic base; social sustainability in the region can be achieved by providing land, and adequate financial and institutional support, to land allottees of poor economic background; lining of water courses, land development and levelling, and the warabandi system should be effectively implemented."
@@ -15491,7 +15491,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Roads and Road Transport",
      "answer": {
       "opt": "C",
@@ -15511,7 +15511,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Oil and Gas Pipelines",
      "answer": {
@@ -15639,8 +15639,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Sea Ports as Gateways of Trade",
      "answer": {
       "opt": "C",
@@ -15973,7 +15973,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Inland Waterways: The National Waterways",
      "answer": {
@@ -16028,8 +16028,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Transport and Communication in India",
      "answer": {
       "opt": "C",
@@ -16083,8 +16083,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Transport and Communication in India",
      "answer": {
       "opt": "A",
@@ -16233,7 +16233,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Inland Waterways: The National Waterways",
      "answer": {
@@ -16343,7 +16343,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sea Ports as Gateways of Trade",
      "answer": {
@@ -16514,7 +16514,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Roads and Road Transport",
      "answer": {
       "opt": "D",
@@ -16615,7 +16615,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Railways",
      "answer": {
       "opt": "A",
@@ -16695,7 +16695,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Inland Waterways: The National Waterways",
      "answer": {
@@ -16716,7 +16716,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Roads and Road Transport",
      "answer": {
@@ -16864,7 +16864,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Railways",
      "answer": {
@@ -17072,7 +17072,7 @@
        "qno": "18-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Exports",
      "figures": [],
@@ -17093,7 +17093,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Sea Ports as Gateways of International Trade",
      "answer": {
@@ -17187,7 +17187,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Sea Ports as Gateways of International Trade",
      "answer": {
       "opt": "A",
@@ -17214,7 +17214,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Exports",
      "answer": {
@@ -17241,8 +17241,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Exports",
      "answer": {
       "opt": "D",
@@ -17268,8 +17268,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Exports",
      "answer": {
       "opt": "A",
@@ -17350,7 +17350,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Imports",
      "answer": {
@@ -17370,7 +17370,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Imports",
      "answer": {
@@ -17514,7 +17514,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Direction of India's Trade",
      "answer": {
       "opt": "A",
@@ -17561,7 +17561,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Changing Pattern of the Composition of India's Imports",
      "answer": {
@@ -17741,7 +17741,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Water Pollution",
      "answer": {
@@ -17843,7 +17843,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Urban Waste Disposal and Solid Waste",
      "answer": {
       "opt": "B",
@@ -17937,8 +17937,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Urban Waste Disposal and Solid Waste",
      "answer": {
       "text": "Any three measures to solve the problem of ‘Urban Waste Disposal’ in India: wastes should be treated as resources; utilised for generating energy; utilised for generating compost, organic manure; pollution is hazardous in many metropolitan and big cities in India."
@@ -17957,7 +17957,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Air Pollution",
      "answer": {
@@ -17977,7 +17977,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Water Pollution",
      "figures": [],
@@ -18031,8 +18031,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Noise Pollution",
      "answer": {
       "opt": "B",
@@ -18058,7 +18058,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Case Study: Daurala",
      "answer": {
@@ -18106,7 +18106,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Urban Waste Disposal and Solid Waste",
      "answer": {
@@ -18126,8 +18126,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Land Pollution and Land Degradation",
      "figures": [],
      "answer": {
@@ -18180,7 +18180,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Water Pollution",
      "answer": {
@@ -18208,8 +18208,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Problems of Slums",
      "answer": {
       "opt": "B",
@@ -18229,8 +18229,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Water Pollution",
      "answer": {
       "text": "Measures to overcome the problem of water pollution in India: (i) generate awareness about the importance of water and the impact of water pollution. (ii) waste water treatment. (iii) reducing plastic waste. (iv) reducing agricultural runoff. (v) conduct awareness campaigns on water conservation and pollution prevention. (vi) encouraging sustainable industrial practices. (any three points, or any other relevant point)"
@@ -18255,7 +18255,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Air Pollution",
      "answer": {
@@ -18276,7 +18276,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Water Pollution",
      "answer": {
@@ -18323,7 +18323,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Air Pollution",
      "answer": {
@@ -18343,7 +18343,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Air Pollution",
      "answer": {
@@ -18363,7 +18363,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Noise Pollution",
      "figures": [],
@@ -18404,7 +18404,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Air Pollution",
      "answer": {
@@ -18451,7 +18451,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Urban Waste Disposal and Solid Waste",
      "answer": {
