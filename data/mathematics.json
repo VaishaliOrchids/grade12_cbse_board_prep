@@ -43,7 +43,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
       "text": "$f(1)=2,\\ f(2)=4,\\ f(3)=6,\\ f(4)=8$\n$\\therefore\\ B=\\{2,4,6,8\\}$"
@@ -82,8 +82,8 @@
        "qno": 35
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
       "text": "Onto: Let $y=\\sqrt{16-x^2}\\Rightarrow y\\geq0$\nSquaring we get $x^2=16-y^2\\Rightarrow x=\\pm\\sqrt{16-y^2}$\nFor each $y\\in[-4,4]$, $x$ is a real number, $\\therefore 0\\leq y\\leq4\\Rightarrow R_f=[0,4]=$ co-domain $\\therefore f$ is an onto function.\nOne-One: $f(-1)=f(1)=\\sqrt{15}$ but $-1\\neq1$, $\\therefore f$ is not a one-one function.\n$f(a)=\\sqrt7\\Rightarrow\\sqrt{16-a^2}=\\sqrt7\\Rightarrow a=\\pm3$"
@@ -122,7 +122,7 @@
        "qno": 34
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Types of Relations",
      "answer": {
@@ -169,8 +169,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Types of Relations",
      "answer": {
       "opt": "B",
@@ -190,7 +190,7 @@
        "qno": 36
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
      "answer": {
@@ -216,8 +216,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
       "opt": "A",
@@ -238,7 +238,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Relations",
      "answer": {
       "text": "(a) Reflexive: $|x^2-x^2|=0<8\\ \\forall\\,x\\in A\\Rightarrow(x,x)\\in R$, so $R$ is reflexive.\nSymmetric: Let $(x,y)\\in R$, then $|x^2-y^2|<8\\Rightarrow|y^2-x^2|<8\\Rightarrow(y,x)\\in R$, so $R$ is symmetric.\nTransitive: $(1,2),(2,3)\\in R$ as $|1^2-2^2|<8$ and $|2^2-3^2|<8$, but $|1^2-3^2|=8\\not<8\\Rightarrow(1,3)\\notin R$.\nHence $R$ is not transitive."
@@ -257,7 +257,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "figures": [],
@@ -305,7 +305,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Types of Functions",
      "answer": {
@@ -325,7 +325,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Relations",
      "figures": [],
@@ -352,7 +352,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -373,7 +373,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Relations",
      "answer": {
@@ -401,8 +401,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Composition of Functions and Invertible Function",
      "answer": {
       "opt": "C",
@@ -422,8 +422,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
       "text": "Let $f(x_1)=f(x_2)$ for some $x_1,x_2\\in A$: $\\dfrac{x_1-3}{x_1-5}=\\dfrac{x_2-3}{x_2-5}$\n$\\Rightarrow(x_1-3)(x_2-5)=(x_2-3)(x_1-5)\\Rightarrow x_1=x_2$, so $f$ is one-one.\nLet $y=f(x)=\\dfrac{x-3}{x-5}\\Rightarrow y(x-5)=x-3\\Rightarrow x=\\dfrac{5y-3}{y-1}$\n$x$ is defined for all values of $y$ except $y=1$, so Range $=\\mathbb{R}-\\{1\\}$ and codomain is $\\mathbb{R}-\\{1\\}$.\nSince Range $=$ codomain, $f$ is onto. Thus $f$ is one-one and onto."
@@ -443,7 +443,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Relations",
      "figures": [],
      "answer": {
@@ -469,7 +469,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -540,7 +540,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Relations",
      "answer": {
       "text": "(i) $R_4$\n(ii) $R_5$\n(iii)(a) $R_1$ and $R_3$"
@@ -579,7 +579,7 @@
        "qno": 36
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
      "answer": {
@@ -605,8 +605,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Types of Functions",
      "answer": {
       "opt": "C",
@@ -632,7 +632,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -653,7 +653,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -673,7 +673,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
      "figures": [],
@@ -751,7 +751,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -792,8 +792,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Types of Functions",
      "figures": [],
      "answer": {
@@ -833,7 +833,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -854,7 +854,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Relations",
      "figures": [],
      "answer": {
@@ -875,7 +875,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Types of Relations",
      "answer": {
       "text": "Let $x\\in\\mathbb{Z}$. Then $|x-x|=0$, which is divisible by the prime $p$, so $(x,x)\\in R$; thus $R$ is reflexive. Let $(x,y)\\in R$, so $|x-y|$ is divisible by $p$; since $|x-y|=|y-x|$, $(y,x)\\in R$; thus $R$ is symmetric. Let $(x,y),(y,z)\\in R$, so $|x-y|$ and $|y-z|$ are divisible by $p$; then $(x-y)+(y-z)=x-z$ is divisible by $p$, so $|x-z|$ is divisible by $p$ and $(x,z)\\in R$; thus $R$ is transitive. Since $R$ is reflexive, symmetric and transitive, $R$ is an equivalence relation."
@@ -894,7 +894,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "figures": [],
@@ -962,8 +962,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Types of Functions",
      "answer": {
       "text": "$f(x)=\\dfrac{x}{\\sqrt{1+x^2}}$. One-one: $f(x_1)=f(x_2)\\Rightarrow x_1^2(1+x_2^2)=x_2^2(1+x_1^2)\\Rightarrow x_1^2=x_2^2\\Rightarrow x_1=x_2$ (both of the same sign, rejecting $x_1=-x_2$). Onto: $y=\\dfrac{x}{\\sqrt{1+x^2}}\\Rightarrow x=\\pm\\sqrt{\\dfrac{y^2}{1-y^2}}$, defined only for $y\\in(-1,1)$, so the range is $(-1,1)\\neq\\mathbb{R}$ (the codomain). Hence $f$ is one-one but not onto."
@@ -990,7 +990,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Functions",
      "answer": {
@@ -1081,7 +1081,7 @@
        "qno": 36
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Relations",
      "answer": {
@@ -1102,7 +1102,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Relations",
      "figures": [],
      "answer": {
@@ -1134,7 +1134,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "figures": [],
      "answer": {
@@ -1162,7 +1162,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
@@ -1191,7 +1191,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
@@ -1213,7 +1213,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
       "text": "$\\sin^{-1}\\!\\left(\\sin\\dfrac{3\\pi}{4}\\right)+\\cos^{-1}(\\cos\\pi)+\\tan^{-1}(1)=\\dfrac{\\pi}{4}+\\pi+\\dfrac{\\pi}{4}=\\dfrac{3\\pi}{2}$"
@@ -1232,8 +1232,8 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "figures": [],
      "answer": {
@@ -1264,7 +1264,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
@@ -1286,7 +1286,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
       "text": "Given expression $=3\\sin^{-1}\\!\\left(\\dfrac{1}{\\sqrt2}\\right)+2\\cos^{-1}\\!\\left(\\dfrac{\\sqrt3}{2}\\right)+\\cos^{-1}(0)=\\dfrac{3\\pi}{4}+\\dfrac{2\\pi}{6}+\\dfrac{\\pi}{2}=\\dfrac{19\\pi}{12}$"
@@ -1305,8 +1305,8 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "figures": [],
      "answer": {
@@ -1337,7 +1337,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
@@ -1359,7 +1359,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "answer": {
       "text": "Domain of $\\sin^{-1}x$ is $-1\\leq x\\leq1$\n$\\therefore -1\\leq x^2-4\\leq1$ or $x^2\\geq3$, $x^2\\leq5$\n$\\Rightarrow x\\geq\\sqrt3$ or $x\\leq-\\sqrt3$, $\\ x\\leq\\sqrt5$ or $x\\geq-\\sqrt5$\n$\\therefore$ Domain is $[-\\sqrt5,-\\sqrt3]\\cup[\\sqrt3,\\sqrt5]$"
@@ -1449,7 +1449,7 @@
        "qno": 38
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
@@ -1493,7 +1493,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "figures": [],
      "answer": {
@@ -1533,8 +1533,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
       "text": "$y=\\tan^{-1}\\!\\left[\\dfrac{\\cos x}{1-\\sin x}\\right]=\\tan^{-1}\\!\\left[\\dfrac{\\cos^2\\frac{x}{2}-\\sin^2\\frac{x}{2}}{\\left(\\cos\\frac{x}{2}-\\sin\\frac{x}{2}\\right)^2}\\right]$\n$y=\\tan^{-1}\\!\\left[\\dfrac{1+\\tan\\frac{x}{2}}{1-\\tan\\frac{x}{2}}\\right]=\\tan^{-1}\\!\\left[\\tan\\!\\left(\\dfrac{\\pi}{4}+\\dfrac{x}{2}\\right)\\right]=\\dfrac{\\pi}{4}+\\dfrac{x}{2}$"
@@ -1554,7 +1554,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "figures": [],
      "answer": {
@@ -1582,7 +1582,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
@@ -1627,7 +1627,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
@@ -1702,7 +1702,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "answer": {
       "opt": "C",
@@ -1722,8 +1722,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
       "text": "Put $x=\\tan\\theta\\Rightarrow\\theta=\\tan^{-1}x$\nNow $\\sin^{-1}\\left(\\dfrac{x}{\\sqrt{1+x^2}}\\right)=\\sin^{-1}\\left(\\dfrac{\\tan\\theta}{\\sec\\theta}\\right)=\\sin^{-1}(\\sin\\theta)=\\theta=\\tan^{-1}x$"
@@ -1770,7 +1770,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
       "opt": "D",
@@ -1791,7 +1791,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "answer": {
       "text": "Domain of $\\cos^{-1}x$ is $[-1,1]$\n$\\Rightarrow-1\\le x^2-4\\le1\\Rightarrow3\\le x^2\\le5$\n$\\Rightarrow x\\in[-\\sqrt5,-\\sqrt3]\\cup[\\sqrt3,\\sqrt5]$"
@@ -1897,7 +1897,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
       "opt": "A",
@@ -1952,7 +1952,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
@@ -1979,7 +1979,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
@@ -2000,8 +2000,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Properties of Inverse Trigonometric Functions",
      "answer": {
       "text": "$\\tan^{-1}\\!\\left(\\dfrac{\\cos 2x-\\sin 2x}{\\cos 2x+\\sin 2x}\\right)=\\tan^{-1}\\!\\left(\\dfrac{1-\\tan 2x}{1+\\tan 2x}\\right)=\\tan^{-1}\\!\\left(\\tan\\!\\left(\\dfrac{\\pi}{4}-2x\\right)\\right)=\\dfrac{\\pi}{4}-2x$ (for $0<x<\\dfrac{\\pi}{4}$)."
@@ -2041,7 +2041,7 @@
        "qno": 34
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "answer": {
@@ -2118,7 +2118,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
       "opt": "D",
@@ -2145,7 +2145,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
       "opt": "B",
@@ -2166,7 +2166,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "answer": {
       "text": "$\\tan^{-1}\\!\\left(-\\dfrac{1}{\\sqrt{3}}\\right)+\\cot^{-1}\\!\\left(\\dfrac{1}{\\sqrt{3}}\\right)+\\tan^{-1}\\!\\left(\\sin\\!\\left(-\\dfrac{\\pi}{2}\\right)\\right)+\\tan^{-1}\\!\\left(\\tan\\dfrac{2\\pi}{3}\\right)=-\\dfrac{\\pi}{6}+\\dfrac{\\pi}{3}+\\tan^{-1}(-1)+\\tan^{-1}\\!\\left(\\tan\\!\\left(-\\dfrac{\\pi}{3}\\right)\\right)=-\\dfrac{\\pi}{6}+\\dfrac{\\pi}{3}-\\dfrac{\\pi}{4}-\\dfrac{\\pi}{3}=-\\dfrac{5\\pi}{12}$."
@@ -2191,7 +2191,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
@@ -2213,7 +2213,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Basic Concepts",
      "answer": {
       "text": "$\\sin\\!\\left[\\tan^{-1}\\!\\left(\\tan\\dfrac{3\\pi}{4}\\right)\\right]=\\sin\\!\\left[\\tan^{-1}\\!\\left(\\tan\\!\\left(\\pi-\\dfrac{\\pi}{4}\\right)\\right)\\right]=\\sin\\!\\left[\\tan^{-1}(-1)\\right]=\\sin\\!\\left(-\\dfrac{\\pi}{4}\\right)=-\\dfrac{1}{\\sqrt{2}}$."
@@ -2276,7 +2276,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
       "opt": "B",
@@ -2384,7 +2384,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "D",
@@ -2410,7 +2410,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
@@ -2438,7 +2438,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Transpose of a Matrix",
      "answer": {
       "opt": "B",
@@ -2485,7 +2485,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "opt": "B",
@@ -2566,7 +2566,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Transpose of a Matrix",
      "answer": {
       "opt": "D",
@@ -2666,8 +2666,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
       "opt": "D",
@@ -2694,7 +2694,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "opt": "D",
@@ -2720,7 +2720,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
@@ -2774,7 +2774,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
@@ -2830,7 +2830,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
@@ -2857,7 +2857,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Easy",
      "topic": "Types of Matrices",
      "answer": {
@@ -2884,7 +2884,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
@@ -2913,7 +2913,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
@@ -2941,7 +2941,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
       "opt": "A",
@@ -2967,7 +2967,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
@@ -2995,7 +2995,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "opt": "C",
@@ -3022,7 +3022,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "A",
@@ -3103,7 +3103,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "opt": "A",
@@ -3129,8 +3129,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
       "opt": "B",
@@ -3157,7 +3157,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "D",
@@ -3183,8 +3183,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "C",
@@ -3237,7 +3237,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
@@ -3266,7 +3266,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
@@ -3293,7 +3293,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
@@ -3321,7 +3321,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "C",
@@ -3348,7 +3348,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "opt": "B",
@@ -3401,7 +3401,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
@@ -3429,7 +3429,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "C",
@@ -3503,7 +3503,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
       "opt": "B",
@@ -3529,8 +3529,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "D",
@@ -3578,7 +3578,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "text": "$A^2=\\begin{bmatrix}2&3\\\\-1&2\\end{bmatrix}\\begin{bmatrix}2&3\\\\-1&2\\end{bmatrix}=\\begin{bmatrix}1&12\\\\-4&1\\end{bmatrix}$\nL.H.S. $=A^2-4A+7I=\\begin{bmatrix}1&12\\\\-4&1\\end{bmatrix}-\\begin{bmatrix}8&12\\\\-4&8\\end{bmatrix}+\\begin{bmatrix}7&0\\\\0&7\\end{bmatrix}=\\begin{bmatrix}0&0\\\\0&0\\end{bmatrix}=O=$ R.H.S."
@@ -3604,7 +3604,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
       "opt": "A",
@@ -3630,7 +3630,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Transpose of a Matrix",
      "answer": {
@@ -3657,7 +3657,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
@@ -3712,7 +3712,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
       "opt": "A",
@@ -3739,7 +3739,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Transpose of a Matrix",
      "answer": {
       "opt": "C",
@@ -3765,7 +3765,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Symmetric and Skew Symmetric Matrices",
      "answer": {
@@ -3792,7 +3792,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Types of Matrices",
      "answer": {
@@ -3875,7 +3875,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
@@ -3897,7 +3897,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "text": "$A=\\begin{bmatrix}3&2&0\\\\1&4&0\\\\0&0&5\\end{bmatrix}$. $A^2=\\begin{bmatrix}11&14&0\\\\7&18&0\\\\0&0&25\\end{bmatrix}$. Then $A^2-7A+10I=\\begin{bmatrix}11&14&0\\\\7&18&0\\\\0&0&25\\end{bmatrix}-\\begin{bmatrix}21&14&0\\\\7&28&0\\\\0&0&35\\end{bmatrix}+\\begin{bmatrix}10&0&0\\\\0&10&0\\\\0&0&10\\end{bmatrix}=\\begin{bmatrix}0&0&0\\\\0&0&0\\\\0&0&0\\end{bmatrix}$, the null matrix."
@@ -3977,7 +3977,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Operations on Matrices",
      "answer": {
       "opt": "C",
@@ -4019,7 +4019,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Transpose of a Matrix",
      "figures": [],
      "answer": {
@@ -4061,7 +4061,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Types of Matrices",
      "figures": [],
      "answer": {
@@ -4095,7 +4095,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "figures": [],
      "answer": {
@@ -4122,7 +4122,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "opt": "C",
@@ -4170,7 +4170,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Determinant",
      "answer": {
       "text": "$A=\\begin{bmatrix}1&2&-2\\\\-1&3&0\\\\0&-2&1\\end{bmatrix}$, \\ $B^{-1}=\\begin{bmatrix}3&-1&1\\\\-15&6&-5\\\\5&-2&2\\end{bmatrix}$\n$(AB)^{-1}=B^{-1}A^{-1}$\n$|A|=1(3)-2(-1)-2(2)=3+2-4=1\\neq0$\n$\\operatorname{adj}(A)=\\begin{bmatrix}3&2&6\\\\1&1&2\\\\2&2&5\\end{bmatrix}$, \\ $A^{-1}=\\dfrac{1}{1}\\begin{bmatrix}3&2&6\\\\1&1&2\\\\2&2&5\\end{bmatrix}$\n$\\therefore\\ (AB)^{-1}=B^{-1}A^{-1}=\\begin{bmatrix}3&-1&1\\\\-15&6&-5\\\\5&-2&2\\end{bmatrix}\\begin{bmatrix}3&2&6\\\\1&1&2\\\\2&2&5\\end{bmatrix}=\\begin{bmatrix}10&7&21\\\\-49&-34&-103\\\\17&12&36\\end{bmatrix}$"
@@ -4292,7 +4292,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "$AB=\\begin{bmatrix}1&0&0\\\\0&1&0\\\\0&0&1\\end{bmatrix}=I\\Rightarrow B^{-1}=A$\nThe given system of equations can be written as $B^{T}X=C$, $X=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}$, $C=\\begin{bmatrix}3\\\\2\\\\3\\end{bmatrix}$\n$X=(B^{T})^{-1}C=(B^{-1})^{T}C=A^{T}C$\n$\\Rightarrow X=\\begin{bmatrix}-3&2&2\\\\-2&1&1\\\\-4&2&3\\end{bmatrix}\\begin{bmatrix}3\\\\2\\\\3\\end{bmatrix}\\Rightarrow\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\begin{bmatrix}1\\\\-1\\\\1\\end{bmatrix}\\therefore x=1,\\ y=-1,\\ z=1$"
@@ -4345,7 +4345,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Area of a Triangle",
      "answer": {
       "opt": "B",
@@ -4439,8 +4439,8 @@
        "qno": 37
       }
      ],
-     "bloom": "Create",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "(I) Matrix equation is $AX=B$, where $A=\\begin{bmatrix}5&3&1\\\\2&1&3\\\\1&2&4\\end{bmatrix}$, $X=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}$, $B=\\begin{bmatrix}160\\\\190\\\\250\\end{bmatrix}$\nwhere $x=$ number of pens, $y=$ number of bags, $z=$ number of instrument boxes.\n(II) $|A|=5(4-6)-3(8-3)+1(4-1)=-22$\n(III) $\\operatorname{adj}(A)=\\begin{bmatrix}-2&-5&3\\\\-10&19&-7\\\\8&-13&-1\\end{bmatrix}'=\\begin{bmatrix}-2&-10&8\\\\-5&19&-13\\\\3&-7&-1\\end{bmatrix}$\n$\\Rightarrow\\ A^{-1}=\\dfrac{1}{-22}\\begin{bmatrix}-2&-10&8\\\\-5&19&-13\\\\3&-7&-1\\end{bmatrix}$"
@@ -4494,8 +4494,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Determinant",
      "answer": {
       "opt": "A",
@@ -4584,7 +4584,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "Given system is equivalent to $AX=B$, where $A=\\begin{bmatrix}2&3&10\\\\4&-6&5\\\\6&9&-20\\end{bmatrix}$, $X=\\begin{bmatrix}\\frac1x\\\\[2pt]\\frac1y\\\\[2pt]\\frac1z\\end{bmatrix}$, $B=\\begin{bmatrix}4\\\\1\\\\2\\end{bmatrix}$\n$|A|=1200\\neq0$. Cofactors: $A_{11}=75,A_{12}=110,A_{13}=72$; $A_{21}=150,A_{22}=-100,A_{23}=0$; $A_{31}=75,A_{32}=30,A_{33}=-24$\n$A^{-1}=\\dfrac{\\operatorname{adj}A}{|A|}=\\dfrac{1}{1200}\\begin{bmatrix}75&150&75\\\\110&-100&30\\\\72&0&-24\\end{bmatrix}$\n$X=A^{-1}B=\\dfrac{1}{1200}\\begin{bmatrix}600\\\\400\\\\240\\end{bmatrix}=\\begin{bmatrix}\\frac12\\\\[2pt]\\frac13\\\\[2pt]\\frac15\\end{bmatrix}\\Rightarrow x=2,\\ y=3,\\ z=5$"
@@ -4609,7 +4609,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
@@ -4637,7 +4637,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Determinant",
      "answer": {
       "opt": "D",
@@ -4664,7 +4664,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "opt": "A",
@@ -4880,7 +4880,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "opt": "D",
@@ -4907,7 +4907,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "opt": "B",
@@ -4933,7 +4933,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
@@ -4955,7 +4955,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "Let $x,y,z$ be the number of students allocated to Sports, Music and Drama clubs respectively.\nHere $x=y+z,\\ y=\\dfrac{x}{2}+20,\\ x+y+z=180\\Rightarrow x-y-z=0,\\ x-2y=-40,\\ x+y+z=180$\n$AX=B$ where $A=\\begin{bmatrix}1&-1&-1\\\\1&-2&0\\\\1&1&1\\end{bmatrix}$, $B=\\begin{bmatrix}0\\\\-40\\\\180\\end{bmatrix}$, $X=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}$\n$|A|=-4\\neq0\\Rightarrow A^{-1}$ exists; $\\operatorname{adj}A=\\begin{bmatrix}-2&0&-2\\\\-1&2&-1\\\\3&-2&-1\\end{bmatrix}$\n$A^{-1}=\\dfrac{1}{|A|}\\operatorname{adj}A=\\dfrac14\\begin{bmatrix}2&0&2\\\\1&-2&1\\\\-3&2&1\\end{bmatrix}$\n$X=A^{-1}B=\\dfrac14\\begin{bmatrix}2&0&2\\\\1&-2&1\\\\-3&2&1\\end{bmatrix}\\begin{bmatrix}0\\\\-40\\\\180\\end{bmatrix}=\\begin{bmatrix}90\\\\65\\\\25\\end{bmatrix}$\n$\\therefore$ Number of students allocated in Sports, Music and Drama are $90,\\ 65$ and $25$ respectively."
@@ -4995,7 +4995,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "figures": [],
      "answer": {
@@ -5021,7 +5021,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Determinant",
      "answer": {
@@ -5063,7 +5063,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "text": "Consider $(kA)\\left(\\dfrac1k A^{-1}\\right)=k\\cdot\\dfrac1k(A\\cdot A^{-1})=I$\n$\\Rightarrow kA$ and $\\dfrac1k A^{-1}$ are inverse of each other $\\Rightarrow(kA)^{-1}=\\dfrac1k A^{-1}$\n$\\therefore(3A)^{-1}=\\dfrac13 A^{-1}$\nHere $|A|=4\\neq0\\Rightarrow A^{-1}$ exists.\n$\\operatorname{adj}A=\\begin{bmatrix}3&1&-1\\\\1&3&1\\\\-1&1&3\\end{bmatrix}$\n$\\therefore A^{-1}=\\dfrac{1}{|A|}\\operatorname{adj}A=\\dfrac14\\begin{bmatrix}3&1&-1\\\\1&3&1\\\\-1&1&3\\end{bmatrix}$\n$\\therefore(3A)^{-1}=\\dfrac{1}{12}\\begin{bmatrix}3&1&-1\\\\1&3&1\\\\-1&1&3\\end{bmatrix}$"
@@ -5089,7 +5089,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Determinant",
      "answer": {
       "opt": "C",
@@ -5116,7 +5116,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Determinant",
      "answer": {
       "opt": "B",
@@ -5143,7 +5143,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "opt": "C",
@@ -5164,7 +5164,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "Let the numbers of chairs, tables and beds produced be $x,y,z$ respectively.\n$\\therefore x+y+z=45;\\ -x+0\\cdot y+z=8;\\ x-2y+z=0$\n$A=\\begin{bmatrix}1&1&1\\\\-1&0&1\\\\1&-2&1\\end{bmatrix},\\ X=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix},\\ B=\\begin{bmatrix}45\\\\8\\\\0\\end{bmatrix}$\n$|A|=1(0+2)-1(-1-1)+1(2-0)=6\\neq0\\Rightarrow A^{-1}$ exists\n$AX=B\\Rightarrow X=A^{-1}B$\n$\\operatorname{adj}(A)=\\begin{bmatrix}2&-3&1\\\\2&0&-2\\\\2&3&1\\end{bmatrix},\\ A^{-1}=\\dfrac16\\begin{bmatrix}2&-3&1\\\\2&0&-2\\\\2&3&1\\end{bmatrix}$\n$\\therefore\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\dfrac16\\begin{bmatrix}2&-3&1\\\\2&0&-2\\\\2&3&1\\end{bmatrix}\\begin{bmatrix}45\\\\8\\\\0\\end{bmatrix}=\\begin{bmatrix}11\\\\15\\\\19\\end{bmatrix}$\nSo $x=11,\\ y=15,\\ z=19$. Hence the numbers of chairs, tables and beds produced are $11,\\ 15$ and $19$ respectively."
@@ -5183,8 +5183,8 @@
        "qno": 36
       }
      ],
-     "bloom": "Create",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "(i) Let the price of each pen, notepad, eraser be ₹$x$, ₹$y$, ₹$z$ respectively. The given system in the form $AX=B$ is $\\begin{bmatrix}4&3&2\\\\2&4&6\\\\6&2&3\\end{bmatrix}\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\begin{bmatrix}60\\\\90\\\\70\\end{bmatrix}$\n(ii) $|A|=50\\neq0$, hence $A^{-1}$ exists.\n(iii)(a) $A^{-1}=\\dfrac{\\operatorname{adj}A}{|A|}=\\dfrac{1}{50}\\begin{bmatrix}0&-5&10\\\\30&0&-20\\\\-20&10&10\\end{bmatrix}$; $\\ X=A^{-1}B$"
@@ -5283,7 +5283,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Determinant",
      "answer": {
@@ -5311,7 +5311,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Determinant",
      "answer": {
       "opt": "B",
@@ -5332,7 +5332,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "$A=\\begin{bmatrix}0&2&1\\\\-2&-1&-2\\\\1&-1&0\\end{bmatrix}$. $|A|=-2(2)+1(3)=-1\\neq 0$. $\\operatorname{adj}A=\\begin{bmatrix}-2&-1&-3\\\\-2&-1&-2\\\\3&2&4\\end{bmatrix}$, so $A^{-1}=\\dfrac{1}{|A|}\\operatorname{adj}A=\\begin{bmatrix}2&1&3\\\\2&1&2\\\\-3&-2&-4\\end{bmatrix}$. The system $-2y+z=7,\\ 2x-y-z=8,\\ x-2y=10$ is $A^{T}X=B$ with $X=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}$, $B=\\begin{bmatrix}7\\\\8\\\\10\\end{bmatrix}$. Then $X=(A^{T})^{-1}B=(A^{-1})^{T}B=\\begin{bmatrix}2&2&-3\\\\1&1&-2\\\\3&2&-4\\end{bmatrix}\\begin{bmatrix}7\\\\8\\\\10\\end{bmatrix}=\\begin{bmatrix}0\\\\-5\\\\-3\\end{bmatrix}$. Hence $x=0,\\ y=-5,\\ z=-3$."
@@ -5352,7 +5352,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Adjoint and Inverse of a Matrix",
      "figures": [],
      "answer": {
@@ -5446,8 +5446,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Determinant",
      "figures": [],
      "answer": {
@@ -5548,7 +5548,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Area of a Triangle",
      "answer": {
       "opt": "C",
@@ -5568,8 +5568,8 @@
        "qno": 37
       }
      ],
-     "bloom": "Create",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "text": "For a cuboid of length $l$, breadth $b$, height $h$: $l+b=h+3$, $2l+3b+h=10$, $b+7h=3l-1$. (i) In matrix form $AX=B$ with $A=\\begin{bmatrix}1&1&-1\\\\2&3&1\\\\-3&1&7\\end{bmatrix}$, $X=\\begin{bmatrix}l\\\\b\\\\h\\end{bmatrix}$, $B=\\begin{bmatrix}3\\\\10\\\\-1\\end{bmatrix}$. (ii) $|A|=-8\\neq 0$, so $A^{-1}$ exists. (iii)(a) $A^{-1}=\\dfrac{1}{-8}\\begin{bmatrix}20&-8&4\\\\-17&4&-3\\\\11&-4&1\\end{bmatrix}$. OR (iii)(b) $A^2+7I=\\begin{bmatrix}13&3&-7\\\\5&19&8\\\\-22&7&60\\end{bmatrix}$."
@@ -5594,8 +5594,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Adjoint and Inverse of a Matrix",
      "answer": {
       "opt": "A",
@@ -5643,7 +5643,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications of Determinants and Matrices",
      "answer": {
       "text": "Let an apple cost ₹$x$, an orange ₹$y$ and a banana ₹$z$: $4x+3y+2z=60$, $2x+4y+6z=90$, $6x+2y+3z=70$. With $A=\\begin{bmatrix}4&3&2\\\\2&4&6\\\\6&2&3\\end{bmatrix}$, $|A|=50\\neq 0$, so $A^{-1}$ exists. $\\operatorname{adj}A=\\begin{bmatrix}0&-5&10\\\\30&0&-20\\\\-20&10&10\\end{bmatrix}$, and $X=A^{-1}B=\\dfrac{1}{50}(\\operatorname{adj}A)B=\\begin{bmatrix}5\\\\8\\\\8\\end{bmatrix}$. Hence an apple costs ₹$5$, an orange ₹$8$ and a banana ₹$8$."
@@ -5728,7 +5728,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -5756,7 +5756,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "opt": "B",
@@ -5919,7 +5919,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
       "opt": "C",
@@ -5987,7 +5987,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "text": "(i) R.H.D. of $f(x)$ at $x=1=\\displaystyle\\lim_{h\\to0}\\dfrac{f(1+h)-f(1)}{h}=\\lim_{h\\to0}\\dfrac{|1+h-3|-|-2|}{h}=\\lim_{h\\to0}\\dfrac{2-h-2}{h}=-1$\n(ii) L.H.D. of $f(x)$ at $x=1=\\displaystyle\\lim_{h\\to0}\\dfrac{f(1-h)-f(1)}{-h}=\\lim_{h\\to0}\\dfrac{\\left[\\frac{(1-h)^2}{4}-\\frac{3(1-h)}{2}+\\frac{13}{4}\\right]-2}{-h}=\\lim_{h\\to0}\\dfrac{h^2+4h}{-4h}=-1$\n(iii)(a) Since L.H.D. of $f(x)$ at $x=1$ is the same as R.H.D. of $f(x)$ at $x=1$, $f(x)$ is differentiable at $x=1$."
@@ -6087,7 +6087,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
      "answer": {
@@ -6128,8 +6128,8 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "text": "Let $x=\\sin\\theta$. Then $U=\\sec^{-1}\\left(\\dfrac{1}{\\sqrt{1-\\sin^2\\theta}}\\right)=\\sec^{-1}\\left(\\dfrac{1}{\\cos\\theta}\\right)=\\sec^{-1}(\\sec\\theta)=\\theta=\\sin^{-1}x$\n$\\Rightarrow\\ \\dfrac{dU}{dx}=\\dfrac{1}{\\sqrt{1-x^2}}$\n$V=\\sin^{-1}\\{2\\sin\\theta\\sqrt{1-\\sin^2\\theta}\\}=\\sin^{-1}(2\\sin\\theta\\cos\\theta)=2\\theta=2\\sin^{-1}x$\n$\\Rightarrow\\ \\dfrac{dV}{dx}=\\dfrac{2}{\\sqrt{1-x^2}}$\n$\\therefore\\ \\dfrac{dU}{dV}=\\dfrac{dU/dx}{dV/dx}=\\dfrac12$\n(Note: if the substitution is made as $x=\\cos\\theta$, the answer will be $-\\dfrac12$.)"
@@ -6175,7 +6175,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -6265,7 +6265,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "text": "$\\sqrt{1-x^2}+\\sqrt{1-y^2}=a(x-y)$; \\ Put $x=\\sin\\theta,\\ y=\\sin\\phi$\n$\\Rightarrow\\cos\\theta+\\cos\\phi=a(\\sin\\theta-\\sin\\phi)$\n$\\Rightarrow2\\cos\\!\\left(\\dfrac{\\theta+\\phi}{2}\\right)\\cos\\!\\left(\\dfrac{\\theta-\\phi}{2}\\right)=2a\\sin\\!\\left(\\dfrac{\\theta-\\phi}{2}\\right)\\cos\\!\\left(\\dfrac{\\theta+\\phi}{2}\\right)$\n$\\Rightarrow\\cot\\!\\left(\\dfrac{\\theta-\\phi}{2}\\right)=a\\Rightarrow\\theta-\\phi=2\\cot^{-1}a\\Rightarrow\\sin^{-1}x-\\sin^{-1}y=2\\cot^{-1}a$\n$\\Rightarrow\\dfrac{1}{\\sqrt{1-x^2}}-\\dfrac{1}{\\sqrt{1-y^2}}\\dfrac{dy}{dx}=0\\Rightarrow\\dfrac{dy}{dx}=\\sqrt{\\dfrac{1-y^2}{1-x^2}}$"
@@ -6311,7 +6311,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -6360,7 +6360,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "text": "$f(x) = -\\tan 2x$, $\\dfrac{\\pi}{4} < x < \\dfrac{\\pi}{2}$\n$f'(x) = -2\\sec^2 2x$, $\\dfrac{\\pi}{4} < x < \\dfrac{\\pi}{2}$\n$f'\\!\\left(\\dfrac{\\pi}{3}\\right) = -2(-2)^2 = -8$"
@@ -6420,8 +6420,8 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Differentiability",
      "figures": [],
      "answer": {
@@ -6448,7 +6448,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Continuity",
      "answer": {
       "opt": "D",
@@ -6557,7 +6557,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Continuity",
      "figures": [],
      "answer": {
@@ -6584,7 +6584,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Exponential and Logarithmic Functions",
      "answer": {
       "opt": "B",
@@ -6673,7 +6673,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "text": "$y=(\\sin x)^x\\cdot x^{\\sin x}+a^x=u+a^x\\Rightarrow\\dfrac{dy}{dx}=\\dfrac{du}{dx}+\\dfrac{d(a^x)}{dx}$\nwhere $u=(\\sin x)^x\\cdot x^{\\sin x}\\Rightarrow\\log u=x\\log(\\sin x)+\\sin x\\cdot\\log x$\nDifferentiating both sides w.r.t. $x$:\n$\\dfrac{du}{dx}=(\\sin x)^x\\cdot x^{\\sin x}\\left[\\log(\\sin x)+x\\cot x+\\dfrac{\\sin x}{x}+\\log x\\cdot\\cos x\\right]$\n$\\therefore\\dfrac{dy}{dx}=(\\sin x)^x\\cdot x^{\\sin x}\\left[\\log(\\sin x)+x\\cot x+\\dfrac{\\sin x}{x}+\\log x\\cdot\\cos x\\right]+a^x\\log a$"
@@ -6767,7 +6767,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Differentiability",
      "figures": [],
      "answer": {
@@ -6808,7 +6808,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "figures": [],
      "answer": {
@@ -6829,7 +6829,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Second Order Derivative",
      "answer": {
       "text": "$\\dfrac{dx}{d\\theta}=3a\\sin^2\\theta\\cos\\theta$, \\ $\\dfrac{dy}{d\\theta}=-3b\\cos^2\\theta\\sin\\theta$\n$\\Rightarrow\\dfrac{dy}{dx}=\\dfrac{-3b\\cos^2\\theta\\sin\\theta}{3a\\sin^2\\theta\\cos\\theta}=-\\dfrac{b}{a}\\cot\\theta$\n$\\Rightarrow\\dfrac{d^2y}{dx^2}=\\dfrac{b}{a}\\csc^2\\theta\\cdot\\dfrac{d\\theta}{dx}=\\dfrac{b}{a}\\csc^2\\theta\\cdot\\dfrac{1}{3a\\sin^2\\theta\\cos\\theta}=\\dfrac{b}{3a^2}\\sec\\theta\\csc^4\\theta$\n$\\Rightarrow\\dfrac{d^2y}{dx^2}\\bigg|_{\\theta=\\pi/4}=\\dfrac{4\\sqrt2\\,b}{3a^2}$"
@@ -6854,7 +6854,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -6883,7 +6883,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -6946,7 +6946,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "text": "Let $x=\\sin A,\\ y=\\sin B\\Rightarrow A=\\sin^{-1}x,\\ B=\\sin^{-1}y$\n$\\sqrt{1-x^2}+\\sqrt{1-y^2}=a(x-y)\\Rightarrow\\cos A+\\cos B=a(\\sin A-\\sin B)$\n$\\Rightarrow2\\cos\\!\\left(\\dfrac{A+B}{2}\\right)\\cos\\!\\left(\\dfrac{A-B}{2}\\right)=2a\\cos\\!\\left(\\dfrac{A+B}{2}\\right)\\sin\\!\\left(\\dfrac{A-B}{2}\\right)$\n$\\Rightarrow\\cot\\!\\left(\\dfrac{A-B}{2}\\right)=a\\Rightarrow A-B=2\\cot^{-1}a\\Rightarrow\\sin^{-1}x-\\sin^{-1}y=2\\cot^{-1}a$\nDifferentiating both sides w.r.t. $x$: $\\dfrac{1}{\\sqrt{1-x^2}}-\\dfrac{1}{\\sqrt{1-y^2}}\\dfrac{dy}{dx}=0\\Rightarrow\\dfrac{dy}{dx}=\\sqrt{\\dfrac{1-y^2}{1-x^2}}$"
@@ -6991,7 +6991,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
       "opt": "B",
@@ -7032,7 +7032,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "figures": [],
      "answer": {
@@ -7053,7 +7053,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Second Order Derivative",
      "answer": {
       "text": "The given function can be written as $y=2\\log(x+1)-\\log x$\n$\\Rightarrow y_1=\\dfrac{2}{x+1}-\\dfrac1x=\\dfrac{x-1}{x(x+1)}$\n$\\Rightarrow(x+1)y_1=\\dfrac{x-1}{x}=1-\\dfrac1x$\n$\\Rightarrow(x+1)y_2+y_1=\\dfrac{1}{x^2}$\n$\\Rightarrow x(x+1)^2y_2+x(x+1)y_1=1+\\dfrac1x$\n$\\Rightarrow x(x+1)^2y_2+x(x+1)y_1=1+1-(x+1)y_1$\n$\\Rightarrow x(x+1)^2y_2+(x+1)^2y_1=2$"
@@ -7153,8 +7153,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
       "opt": "B",
@@ -7195,7 +7195,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Differentiability",
      "figures": [],
      "answer": {
@@ -7248,7 +7248,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -7300,7 +7300,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Second Order Derivative",
      "figures": [],
      "answer": {
@@ -7321,7 +7321,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Exponential and Logarithmic Functions",
      "answer": {
       "text": "Let $u=a^{t+\\frac1t}\\Rightarrow\\dfrac{du}{dt}=a^{t+\\frac1t}\\log a\\left(1-\\dfrac{1}{t^2}\\right)$\n$v=\\left(t+\\dfrac1t\\right)^a\\Rightarrow\\dfrac{dv}{dt}=a\\left(t+\\dfrac1t\\right)^{a-1}\\left(1-\\dfrac{1}{t^2}\\right)$\n$\\dfrac{du}{dv}=\\dfrac{du/dt}{dv/dt}=\\dfrac{a^{t+\\frac1t}\\log a}{a\\left(t+\\frac1t\\right)^{a-1}}$"
@@ -7448,7 +7448,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -7613,7 +7613,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -7803,7 +7803,7 @@
        "qno": 38
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -7924,7 +7924,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Exponential and Logarithmic Functions",
      "answer": {
       "opt": "C",
@@ -7977,7 +7977,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Differentiability",
      "answer": {
@@ -7998,7 +7998,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Continuity",
      "answer": {
@@ -8059,7 +8059,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Differentiability",
      "figures": [],
@@ -8114,7 +8114,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Differentiability",
      "answer": {
       "opt": "A",
@@ -8135,7 +8135,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Exponential and Logarithmic Functions",
      "answer": {
       "text": "$y\\sqrt{x^2+1}=\\log\\!\\left(\\sqrt{x^2+1}-x\\right)$. Differentiating: $\\sqrt{x^2+1}\\,\\dfrac{dy}{dx}+y\\cdot\\dfrac{x}{\\sqrt{x^2+1}}=\\dfrac{1}{\\sqrt{x^2+1}-x}\\cdot\\dfrac{x-\\sqrt{x^2+1}}{\\sqrt{x^2+1}}=-\\dfrac{1}{\\sqrt{x^2+1}}$. Multiplying by $\\sqrt{x^2+1}$: $(x^2+1)\\dfrac{dy}{dx}+xy=-1$, i.e. $(x^2+1)\\dfrac{dy}{dx}+xy+1=0$."
@@ -8155,7 +8155,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Differentiability",
      "figures": [],
      "answer": {
@@ -8237,7 +8237,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Rate of Change of Quantities",
      "answer": {
       "text": "(i) $v=\\dfrac13\\pi r^2 h=\\dfrac13\\pi r^3$ \\ [as $\\theta=45^\\circ$ gives $r=h$]\n(ii) $\\dfrac{dv}{dt}=\\pi r^2\\dfrac{dr}{dt}\\Rightarrow \\left(\\dfrac{dr}{dt}\\right)_{r=2\\sqrt2}=-\\dfrac{1}{4\\pi}\\ \\text{cm/sec}$\n(iii)(a) $C=\\pi r l=\\pi r\\cdot\\sqrt2\\,r=\\sqrt2\\,\\pi r^2$\n$\\dfrac{dC}{dt}=\\sqrt2\\,\\pi\\cdot 2r\\dfrac{dr}{dt}$, \\ $\\left(\\dfrac{dC}{dt}\\right)_{r=2\\sqrt2}=-2\\ \\text{cm}^2/\\text{sec}$"
@@ -8296,7 +8296,7 @@
        "qno": 36
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Maxima and Minima",
      "answer": {
@@ -8316,7 +8316,7 @@
        "qno": 38
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
@@ -8336,7 +8336,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
@@ -8356,8 +8356,8 @@
        "qno": 37
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "text": "(i) $C=40000h^2+5000x^2$; as $x^2 h=250$, $\\Rightarrow C=\\dfrac{40000(250)^2}{x^4}+5000x^2$\n(ii) $\\dfrac{dC}{dx}=\\dfrac{-160000(250)^2}{x^5}+10000x$\n(iii)(a) For minimum cost $\\dfrac{dC}{dx}=0\\Rightarrow 10000x^6=250\\times250\\times160000\\Rightarrow x=10$; showing $\\dfrac{d^2C}{dx^2}>0$ at $x=10$, $\\therefore$ cost is minimum when $x=10$"
@@ -8397,7 +8397,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Maxima and Minima",
      "answer": {
       "text": "We know that $-1\\leq\\sin2x\\leq1$\n$\\Rightarrow4\\leq\\sin2x+5\\leq1+5\\Rightarrow4\\leq\\sin2x+5\\leq6$\nSo, maximum value is $6$ and minimum value is $4$."
@@ -8580,7 +8580,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
@@ -8668,7 +8668,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Rate of Change of Quantities",
      "answer": {
       "opt": "B",
@@ -8798,7 +8798,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "text": "$f'(x)=4x^3-12x^2=4x^2(x-3)$\n$\\Rightarrow4x^2(x-3)<0$ for $x<3,\\ x\\neq0\\Rightarrow f'(x)<0$ for $x<3,\\ x\\neq0$\nThus, $f(x)=x^4-4x^3+10$ is strictly decreasing on $(-\\infty,0)\\cup(0,3)$ (or $(-\\infty,0]\\cup[0,3]$)."
@@ -8864,7 +8864,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Maxima and Minima",
      "answer": {
       "opt": "A",
@@ -8935,7 +8935,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Maxima and Minima",
      "answer": {
       "text": "(i) Let $A(x)$ be the area of the visiting card. As $xy=24$:\n$A(x)=(x+3)(y+2)=2x+3y+xy+6=2x+\\dfrac{72}{x}+30$\n(ii) $A'(x)=2-\\dfrac{72}{x^2}$ and $A''(x)=\\dfrac{144}{x^3}$\nSolving $A'(x)=0\\Rightarrow x=6$ is the critical point.\n$A''(6)=\\dfrac{144}{6}>0$, $\\therefore$ area of the card is minimum at $x=6,\\ y=4$.\nThe dimensions of the card with minimum area are Length $=9\\ \\text{cm}$, Breadth $=6\\ \\text{cm}$."
@@ -9068,7 +9068,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "opt": "D",
@@ -9135,7 +9135,7 @@
        "qno": 38
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
@@ -9162,7 +9162,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Maxima and Minima",
      "answer": {
       "opt": "C",
@@ -9188,7 +9188,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
@@ -9209,8 +9209,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "text": "$f(x)=2x^2-ax+3\\Rightarrow f'(x)=4x-a$\nNow $2\\le x\\le4\\Rightarrow8-a\\le4x-a\\le16-a$\nFor $f$ to be an increasing function, $f'(x)\\ge0\\Rightarrow8-a\\ge0\\Rightarrow a\\le8$\n$\\therefore$ Least value of $a$ does not exist."
@@ -9230,7 +9230,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "figures": [],
      "answer": {
@@ -9338,7 +9338,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "text": "Since $f(x)$ is a decreasing function $\\Rightarrow f'(x)\\le0$\n$\\Rightarrow\\sqrt3\\cos x+\\sin x-2a\\le0\\Rightarrow2\\left(\\dfrac{\\sqrt3}{2}\\cos x+\\dfrac12\\sin x\\right)-2a\\le0$\n$\\Rightarrow\\cos\\left(x-\\dfrac{\\pi}{6}\\right)\\le a$\nSince $-1\\le\\cos\\left(x-\\dfrac{\\pi}{6}\\right)\\le1\\Rightarrow a\\ge1$, i.e. $a\\in[1,\\infty)$ or $(1,\\infty)$"
@@ -9358,7 +9358,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Maxima and Minima",
      "answer": {
       "text": "(i) $V=x^2y\\Rightarrow y=\\dfrac{V}{x^2}\\quad\\ldots(i)$. Hence, $S=2x^2+4xy=2x^2+\\dfrac{4V}{x}$\n(ii) $\\dfrac{dS}{dx}=4\\left(x-\\dfrac{V}{x^2}\\right)$\n(iii)(a) $\\dfrac{dS}{dx}=0\\Rightarrow V=x^3\\Rightarrow x^2y=x^3\\Rightarrow y=x$\n$\\dfrac{d^2S}{dx^2}=4\\left(1+\\dfrac{2V}{x^3}\\right)>0\\Rightarrow S$ is minimum if $y=x$."
@@ -9377,7 +9377,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
@@ -9398,7 +9398,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Rate of Change of Quantities",
      "answer": {
       "text": "(i) $y^2=h^2-x^2$; $A=\\dfrac12xy=\\dfrac12x\\sqrt{h^2-x^2}$\n(ii) $\\dfrac{dA}{dx}=\\dfrac12\\sqrt{h^2-x^2}+\\dfrac12x\\cdot\\dfrac{-x}{\\sqrt{h^2-x^2}}$; $\\dfrac{dA}{dx}=0$ gives $x=\\dfrac{h}{\\sqrt2}$\n(iii)(a) $A''=\\dfrac12\\cdot\\dfrac{-4x\\sqrt{h^2-x^2}-(h^2-2x^2)\\frac{-x}{\\sqrt{h^2-x^2}}}{h^2-x^2}$ is $<0$ at $x=\\dfrac{h}{\\sqrt2}$. Hence $A$ is maximum at the critical point."
@@ -9450,8 +9450,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "opt": "B",
@@ -9498,7 +9498,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Maxima and Minima",
      "answer": {
       "opt": "A",
@@ -9570,8 +9570,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Maxima and Minima",
      "answer": {
       "opt": "C",
@@ -9633,7 +9633,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Increasing and Decreasing Functions",
      "answer": {
       "text": "$f(x)=\\cot^{-1}(\\sin x+\\cos x)$, $x\\in(0,\\pi)$. $f'(x)=\\dfrac{\\sin x-\\cos x}{1+(\\sin x+\\cos x)^2}$. $f'(x)=0\\Rightarrow\\sin x=\\cos x\\Rightarrow x=\\dfrac{\\pi}{4}$. On $\\left(0,\\dfrac{\\pi}{4}\\right)$, $f'(x)<0$, so $f$ is decreasing; on $\\left(\\dfrac{\\pi}{4},\\pi\\right)$, $f'(x)>0$, so $f$ is increasing."
@@ -9799,7 +9799,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Rate of Change of Quantities",
      "answer": {
       "text": "A conical cup has $R=5\\ \\text{cm}$, $H=15\\ \\text{cm}$; juice is poured at $\\dfrac{dV}{dt}=0{\\cdot}1\\ \\text{cm}^3/\\text{s}$. (i) $\\tan\\alpha=\\dfrac{r}{h}=\\dfrac{5}{15}=\\dfrac{1}{3}\\Rightarrow r=\\dfrac{h}{3}$. (ii) $V=\\dfrac{1}{3}\\pi r^2 h=\\dfrac{1}{27}\\pi h^3\\Rightarrow\\dfrac{dV}{dt}=\\dfrac{1}{9}\\pi h^2\\dfrac{dh}{dt}$; at $h=6$, $\\dfrac{dh}{dt}=\\dfrac{1}{40\\pi}\\ \\text{cm/s}$. (iii)(a) Upper surface area $A=\\pi r^2=\\dfrac{\\pi h^2}{9}\\Rightarrow\\dfrac{dA}{dt}=\\dfrac{2\\pi h}{9}\\dfrac{dh}{dt}=\\dfrac{1}{30}\\ \\text{cm}^2/\\text{s}$ at $h=6$. OR (iii)(b) Wetted surface area $S=\\pi r l=\\dfrac{\\sqrt{10}\\,\\pi h^2}{9}\\Rightarrow\\dfrac{dS}{dt}=\\dfrac{2\\sqrt{10}\\,\\pi h}{9}\\dfrac{dh}{dt}=\\dfrac{\\sqrt{10}}{30}\\ \\text{cm}^2/\\text{s}$ at $h=6$.",
@@ -9828,7 +9828,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Maxima and Minima",
      "answer": {
       "opt": "C",
@@ -9932,7 +9932,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Integration as an Inverse Process of Differentiation",
      "answer": {
       "opt": "B",
@@ -10039,8 +10039,8 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "figures": [],
      "answer": {
@@ -10067,7 +10067,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Integration as an Inverse Process of Differentiation",
      "answer": {
       "opt": "B",
@@ -10134,7 +10134,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "figures": [],
@@ -10155,8 +10155,8 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "answer": {
       "text": "Put $\\cot^{-1}x=t\\therefore x=\\cot t$ and $\\dfrac{1}{1+x^2}\\,dx=-dt$\n$\\therefore \\displaystyle\\int e^{\\cot^{-1}x}\\left(\\dfrac{1-x+x^2}{1+x^2}\\right)dx=-\\int e^{t}(1-\\cot t+\\cot^2 t)\\,dt=\\int e^{t}(\\cot t-\\csc^2 t)\\,dt$\n$=e^{t}\\cot t+c=x\\,e^{\\cot^{-1}x}+c$"
@@ -10202,7 +10202,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Methods of Integration",
      "answer": {
       "opt": "C",
@@ -10289,8 +10289,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "answer": {
       "text": "$I=\\displaystyle\\int\\dfrac{\\cos x}{3\\sin x-4\\sin^3 x}\\,dx$; \\ Let $\\sin x=t\\Rightarrow\\cos x\\,dx=dt$\n$I=\\displaystyle\\int\\dfrac{dt}{3t-4t^3}=\\int\\dfrac{1}{t^3\\left(\\frac{3}{t^2}-4\\right)}\\,dt$\nLet $\\dfrac{3}{t^2}-4=z\\Rightarrow-\\dfrac{6}{t^3}\\,dt=dz$\n$I=-\\dfrac16\\displaystyle\\int\\dfrac{dz}{z}=-\\dfrac16\\log|z|+C=-\\dfrac16\\log\\left|3\\csc^2 x-4\\right|+C$"
@@ -10337,7 +10337,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Methods of Integration",
      "answer": {
       "opt": "B",
@@ -10364,7 +10364,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Definite Integral",
      "answer": {
       "opt": "A",
@@ -10404,8 +10404,8 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Definite Integral",
      "answer": {
       "text": "$I=\\displaystyle\\int_{\\pi/4}^{\\pi/2}e^{2x}\\left(\\dfrac{1-\\sin2x}{1-\\cos2x}\\right)dx$\nPut $2x=t$ so that $2\\,dx=dt$. When $x=\\dfrac{\\pi}{2}$, $t=\\pi$; $\\ x=\\dfrac{\\pi}{4}$, $t=\\dfrac{\\pi}{2}$\nThus $I=\\displaystyle\\int_{\\pi/2}^{\\pi}e^{t}\\left(\\dfrac{1-\\sin t}{1-\\cos t}\\right)\\dfrac{dt}{2}=\\dfrac12\\int_{\\pi/2}^{\\pi}e^{t}\\left(\\dfrac12\\csc^2\\dfrac t2-\\cot\\dfrac t2\\right)dt$\n$=-\\dfrac12\\left|e^{t}\\cot\\dfrac t2\\right|_{\\pi/2}^{\\pi}=\\dfrac12 e^{\\pi/2}$"
@@ -10548,7 +10548,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
@@ -10719,7 +10719,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Definite Integral",
      "figures": [],
      "answer": {
@@ -10739,7 +10739,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
      "answer": {
@@ -10786,7 +10786,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Definite Integral",
      "answer": {
@@ -10869,7 +10869,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Integration by Parts",
      "answer": {
       "text": "Let $x^{3/2}=t\\Rightarrow\\dfrac32 x^{1/2}\\,dx=dt$\nThe given integral becomes $\\dfrac23\\displaystyle\\int t\\,\\sin^{-1}t\\,dt=\\dfrac23\\left[\\sin^{-1}t\\times\\dfrac{t^2}{2}-\\int\\dfrac{1}{\\sqrt{1-t^2}}\\times\\dfrac{t^2}{2}\\,dt\\right]$\n$=\\dfrac13\\left[t^2\\sin^{-1}t+\\displaystyle\\int\\dfrac{1-t^2-1}{\\sqrt{1-t^2}}\\,dt\\right]=\\dfrac13\\left[t^2\\sin^{-1}t+\\int\\sqrt{1-t^2}\\,dt-\\int\\dfrac{1}{\\sqrt{1-t^2}}\\,dt\\right]$\n$=\\dfrac13\\left[t^2\\sin^{-1}t+\\dfrac{t}{2}\\sqrt{1-t^2}-\\dfrac12\\sin^{-1}t\\right]+C$\n$=\\dfrac13\\left[x^3\\sin^{-1}\\!\\left(x^{3/2}\\right)+\\dfrac{x^{3/2}}{2}\\sqrt{1-x^3}-\\dfrac12\\sin^{-1}\\!\\left(x^{3/2}\\right)\\right]+C$"
@@ -10976,8 +10976,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "answer": {
       "text": "$I=\\displaystyle\\int\\dfrac{2+\\sin2x}{1+\\cos2x}e^x\\,dx=\\int\\dfrac{2+2\\sin x\\cos x}{2\\cos^2 x}e^x\\,dx$\n$=\\displaystyle\\int(\\sec^2 x+\\tan x)e^x\\,dx=e^x\\tan x+c$"
@@ -11085,7 +11085,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Integration by Parts",
      "figures": [],
      "answer": {
@@ -11158,8 +11158,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
       "opt": "D",
@@ -11267,8 +11267,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
       "opt": "B",
@@ -11335,7 +11335,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
      "figures": [],
@@ -11497,8 +11497,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
       "text": "$I=\\displaystyle\\int_{\\pi/2}^{\\pi}e^x\\left(\\dfrac{1-\\sin x}{1-\\cos x}\\right)dx=\\int_{\\pi/2}^{\\pi}e^x\\left(\\dfrac{1-2\\sin\\frac{x}{2}\\cos\\frac{x}{2}}{2\\sin^2\\frac{x}{2}}\\right)dx$\n$=\\displaystyle\\int_{\\pi/2}^{\\pi}e^x\\left(\\dfrac12\\csc^2\\dfrac{x}{2}-\\cot\\dfrac{x}{2}\\right)dx$\n$\\therefore I=-\\left[e^x\\cot\\dfrac{x}{2}\\right]_{\\pi/2}^{\\pi}=-\\left[e^\\pi\\cot\\dfrac{\\pi}{2}-e^{\\pi/2}\\cot\\dfrac{\\pi}{4}\\right]=e^{\\pi/2}$"
@@ -11518,7 +11518,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Integration by Partial Fractions",
      "answer": {
       "text": "$I=\\displaystyle\\int\\dfrac{\\cos x}{(4+\\sin^2 x)(5-4\\cos^2 x)}\\,dx=\\int\\dfrac{\\cos x}{(4+\\sin^2 x)(1+4\\sin^2 x)}\\,dx$\n$\\sin x=t$ gives $I=\\displaystyle\\int\\dfrac{dt}{(4+t^2)(1+4t^2)}$\n$=-\\dfrac{1}{15}\\displaystyle\\int\\dfrac{dt}{4+t^2}+\\dfrac{4}{15}\\int\\dfrac{dt}{1+4t^2}\\qquad(\\text{using partial fractions})$\n$=-\\dfrac{1}{30}\\tan^{-1}\\left(\\dfrac{t}{2}\\right)+\\dfrac{2}{15}\\tan^{-1}(2t)+C$\n$=-\\dfrac{1}{30}\\tan^{-1}\\left(\\dfrac{\\sin x}{2}\\right)+\\dfrac{2}{15}\\tan^{-1}(2\\sin x)+C$"
@@ -11538,7 +11538,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Definite Integral",
      "figures": [],
      "answer": {
@@ -11633,7 +11633,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Definite Integral",
      "figures": [],
      "answer": {
@@ -11660,7 +11660,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Integration as an Inverse Process of Differentiation",
      "answer": {
       "opt": "B",
@@ -11687,7 +11687,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "answer": {
       "opt": "C",
@@ -11781,7 +11781,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
@@ -11830,7 +11830,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Integration by Partial Fractions",
      "answer": {
       "text": "$\\displaystyle\\int\\dfrac{x^2+1}{(x^2+2)(2x^2+1)}\\,dx=\\dfrac13\\int\\dfrac{1}{x^2+2}\\,dx+\\dfrac13\\int\\dfrac{1}{2x^2+1}\\,dx\\qquad(\\text{using partial fractions})$\n$=\\dfrac13\\cdot\\dfrac{1}{\\sqrt2}\\tan^{-1}\\left(\\dfrac{x}{\\sqrt2}\\right)+\\dfrac13\\cdot\\dfrac{1}{\\sqrt2}\\tan^{-1}(\\sqrt2 x)+C$\nor $=\\dfrac{1}{3\\sqrt2}\\left(\\tan^{-1}\\dfrac{x}{\\sqrt2}+\\tan^{-1}\\sqrt2 x\\right)+C$"
@@ -11903,7 +11903,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
@@ -12146,7 +12146,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some Properties of Definite Integrals",
      "answer": {
@@ -12167,8 +12167,8 @@
        "qno": 26
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "answer": {
       "text": "$\\displaystyle\\int\\dfrac{dx}{x^{1/2}+x^{1/3}}$: put $x=t^6\\Rightarrow dx=6t^5\\,dt$. Then $I=6\\displaystyle\\int\\dfrac{t^3}{t+1}\\,dt=6\\int\\left(t^2-t+1-\\dfrac{1}{t+1}\\right)dt=6\\left(\\dfrac{t^3}{3}-\\dfrac{t^2}{2}+t-\\log|t+1|\\right)=2x^{1/2}-3x^{1/3}+6x^{1/6}-6\\log\\!\\left|x^{1/6}+1\\right|+c$."
@@ -12187,8 +12187,8 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Integration",
      "figures": [],
      "answer": {
@@ -12324,7 +12324,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Integration by Partial Fractions",
      "answer": {
       "text": "$\\displaystyle\\int\\dfrac{x}{(x-1)(x^2+4)}\\,dx$. Partial fractions give $\\dfrac{x}{(x-1)(x^2+4)}=\\dfrac{1/5}{x-1}+\\dfrac{-\\frac{1}{5}x+\\frac{4}{5}}{x^2+4}$. Then $I=\\dfrac{1}{5}\\int\\dfrac{dx}{x-1}-\\dfrac{1}{10}\\int\\dfrac{2x}{x^2+4}\\,dx+\\dfrac{4}{5}\\int\\dfrac{dx}{x^2+4}=\\dfrac{1}{5}\\log|x-1|-\\dfrac{1}{10}\\log(x^2+4)+\\dfrac{2}{5}\\tan^{-1}\\dfrac{x}{2}+c$."
@@ -12343,7 +12343,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Definite Integral",
      "figures": [],
@@ -12475,7 +12475,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Area under Simple Curves",
      "answer": {
       "text": "The $x$-coordinates of the points of intersection are $-1$ and $2$.\nRequired area $=\\displaystyle\\int_{-2}^{-1}(x+2)\\,dx+\\int_{-1}^{0}x^2\\,dx$\n$=\\left[\\dfrac{(x+2)^2}{2}\\right]_{-2}^{-1}+\\left[\\dfrac{x^3}{3}\\right]_{-1}^{0}=\\dfrac12+\\dfrac13=\\dfrac56$",
@@ -12633,7 +12633,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Area under Simple Curves",
      "answer": {
       "text": "$A_1=$ Area (region $OABO$) $=\\displaystyle\\int_0^{1}2\\sqrt x\\,dx=2\\left[\\dfrac{x^{3/2}}{3/2}\\right]_0^{1}=\\dfrac43$\n$A_2=$ Area (region $ODEO$) $=2\\displaystyle\\int_0^{4}2\\sqrt x\\,dx=4\\times\\dfrac23\\left[2^3\\right]=\\dfrac{64}{3}$\n$A_1:A_2=\\dfrac43:\\dfrac{64}{3}=1:16$",
@@ -12679,7 +12679,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Area under Simple Curves",
      "answer": {
       "text": "$y=x|x|=\\begin{cases}-x^2,&x<0\\\\x^2,&x\\ge0\\end{cases}$\nArea of the shaded region $=\\displaystyle\\int_{-2}^{2}y\\,dx=2\\int_0^{2}y\\,dx=2\\int_0^{2}x^2\\,dx=2\\left(\\dfrac{x^3}{3}\\right)_0^{2}=2\\left(\\dfrac83\\right)=\\dfrac{16}{3}$ (square units).",
@@ -12732,7 +12732,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
       "opt": "D",
@@ -12784,8 +12784,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
       "opt": "D",
@@ -12837,8 +12837,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
       "opt": "D",
@@ -12859,7 +12859,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Area under Simple Curves",
      "answer": {
       "text": "The required area\n$=\\left|\\displaystyle\\int_{-2}^{-2/5}(5x+2)\\,dx\\right|+\\int_{-2/5}^{2}(5x+2)\\,dx$\n$=\\left|\\left[\\dfrac{(5x+2)^2}{10}\\right]_{-2}^{-2/5}\\right|+\\left[\\dfrac{(5x+2)^2}{10}\\right]_{-2/5}^{2}$\n$=\\dfrac{64}{10}+\\dfrac{144}{10}=\\dfrac{104}{5}$ (square units).",
@@ -12988,7 +12988,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
       "opt": "D",
@@ -13032,7 +13032,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
       "text": "Equation of the circular table top: $x^2+y^2=64$; equation of line (scratch): $x=y$. The line and circle intersect at $x=4\\sqrt2$.\nArea of the shaded region $=\\displaystyle\\int_0^{4\\sqrt2}x\\,dx+\\int_{4\\sqrt2}^{8}\\sqrt{64-x^2}\\,dx$\n$=\\left[\\dfrac{x^2}{2}\\right]_0^{4\\sqrt2}+\\left[\\dfrac{x}{2}\\sqrt{64-x^2}+32\\sin^{-1}\\dfrac{x}{8}\\right]_{4\\sqrt2}^{8}$\n$=\\dfrac{32}{2}+32\\sin^{-1}1-2\\sqrt2\\cdot4\\sqrt2-32\\sin^{-1}\\dfrac{1}{\\sqrt2}=16+16\\pi-16-8\\pi=8\\pi\\ \\text{cm}^2$",
@@ -13110,7 +13110,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
@@ -13166,7 +13166,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
@@ -13267,7 +13267,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Area under Simple Curves",
      "answer": {
       "opt": "B",
@@ -13323,7 +13323,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
       "opt": "C",
@@ -13391,7 +13391,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "figures": [],
      "answer": {
@@ -13418,7 +13418,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
       "opt": "C",
@@ -13513,7 +13513,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "C",
@@ -13540,7 +13540,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
       "opt": "A",
@@ -13560,8 +13560,8 @@
        "qno": 26
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "text": "Given differential equation is $2xy\\dfrac{dy}{dx}+y^2=2y(1+x^2)$\n$\\Rightarrow\\dfrac{dy}{dx}+\\dfrac{y}{2x}=\\dfrac1x+x$\nIntegrating factor $=e^{\\int\\frac{1}{2x}dx}=e^{\\log\\sqrt x}=\\sqrt x$\nSolution is $y\\sqrt x=\\displaystyle\\int\\left(\\dfrac{1}{\\sqrt x}+x^{3/2}\\right)dx\\Rightarrow y\\sqrt x=2\\sqrt x+\\dfrac{2x^{5/2}}{5}+C$, or $y=2+\\dfrac{2x^2}{5}+\\dfrac{C}{\\sqrt x}$"
@@ -13608,7 +13608,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "D",
@@ -13702,8 +13702,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
       "text": "Due to an error in the question, one mark is to be awarded to every candidate who attempted this question."
@@ -13822,7 +13822,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
@@ -13890,8 +13890,8 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "figures": [],
      "answer": {
@@ -13917,8 +13917,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
       "opt": "C",
@@ -13965,7 +13965,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "A",
@@ -13991,8 +13991,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "D",
@@ -14101,7 +14101,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "figures": [],
      "answer": {
@@ -14127,7 +14127,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
@@ -14154,8 +14154,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "B",
@@ -14181,7 +14181,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
@@ -14271,7 +14271,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Basic Concepts",
      "answer": {
       "text": "(i) $\\dfrac{dT}{dt}=-k(T-25)\\Rightarrow\\dfrac{dT}{T-25}=-k\\,dt$\n$\\Rightarrow\\displaystyle\\int\\dfrac{dT}{T-25}=-k\\int dt\\Rightarrow\\log|T-25|=-kt+C$\nWhen $t=0,\\ T=85\\Rightarrow\\log 60=C$\n$\\therefore\\log|T-25|=-kt+\\log 60$\n(ii) When $k=0{\\cdot}03,\\ \\log\\left|\\dfrac{T-25}{60}\\right|=-0{\\cdot}03t\\Rightarrow T-25=60\\,e^{-0{\\cdot}03t}$\nWhen $T=40,\\ t=t_1:\\ \\dfrac{15}{60}=e^{-0{\\cdot}03t_1}\\Rightarrow e^{-0{\\cdot}03t_1}=\\dfrac14\\Rightarrow-0{\\cdot}03t_1=-\\log 4$\n$\\Rightarrow t_1=\\dfrac{\\log 4}{0{\\cdot}03}=\\dfrac{1{\\cdot}3863}{0{\\cdot}03}=46{\\cdot}21$ minutes."
@@ -14419,7 +14419,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "text": "The given differential equation can be written as $\\dfrac{dy}{dx}=\\dfrac{yx^2}{x^3+y^3}$\nPut $y=vx$, so $\\dfrac{dy}{dx}=v+x\\dfrac{dv}{dx}$\n$\\therefore v+x\\dfrac{dv}{dx}=\\dfrac{vx^3}{x^3+v^3x^3}=\\dfrac{v}{1+v^3}\\Rightarrow x\\dfrac{dv}{dx}=\\dfrac{-v^4}{1+v^3}$\n$\\Rightarrow\\left(\\dfrac{1}{v^4}+\\dfrac1v\\right)dv=\\dfrac{-dx}{x}$\nIntegrating: $\\dfrac{-1}{3v^3}+\\log|v|=-\\log|x|+C\\Rightarrow\\dfrac{-x^3}{3y^3}+\\log|y|=C$"
@@ -14460,7 +14460,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "text": "The given differential equation can be written as $\\dfrac{dy}{dx}+2y=\\cos x$, taking $P=2,\\ Q=\\cos x$\nIntegrating factor is $I=e^{\\int2\\,dx}=e^{2x}$\n$\\therefore$ The solution is $y\\cdot e^{2x}=\\displaystyle\\int e^{2x}\\cos x\\,dx$\nLet $I_1=\\displaystyle\\int\\cos x\\cdot e^{2x}\\,dx=\\cos x\\dfrac{e^{2x}}{2}-\\int(-\\sin x)\\dfrac{e^{2x}}{2}\\,dx=\\dfrac{e^{2x}\\cos x}{2}+\\dfrac12\\left[\\sin x\\cdot\\dfrac{e^{2x}}{2}-\\int\\cos x\\cdot\\dfrac{e^{2x}}{2}\\,dx\\right]$\n$\\Rightarrow I_1=\\dfrac{e^{2x}\\cos x}{2}+\\dfrac{e^{2x}\\sin x}{4}-\\dfrac14 I_1\\Rightarrow I_1=\\dfrac{e^{2x}}{5}(2\\cos x+\\sin x)$\n$\\therefore y\\cdot e^{2x}=\\dfrac{e^{2x}}{5}(2\\cos x+\\sin x)+C\\Rightarrow y=\\dfrac15(2\\cos x+\\sin x)+Ce^{-2x}$"
@@ -14532,7 +14532,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "General and Particular Solutions of a Differential Equation",
      "answer": {
@@ -14628,7 +14628,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "B",
@@ -14669,7 +14669,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "figures": [],
      "answer": {
@@ -14695,8 +14695,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "D",
@@ -14724,7 +14724,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
@@ -14819,8 +14819,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "opt": "C",
@@ -14840,7 +14840,7 @@
        "qno": 34
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
@@ -14935,8 +14935,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Methods of Solving First Order, First Degree Differential Equations",
      "answer": {
       "text": "$(x+2y^3)\\,dy=y\\,dx\\Rightarrow\\dfrac{dx}{dy}-\\dfrac{x}{y}=2y^2$. $\\text{I.F.}=e^{\\int(-1/y)\\,dy}=\\dfrac{1}{y}$. Solution: $x\\cdot\\dfrac{1}{y}=\\displaystyle\\int 2y^2\\cdot\\dfrac{1}{y}\\,dy=\\int 2y\\,dy=y^2+C\\Rightarrow\\dfrac{x}{y}=y^2+C\\Rightarrow x=y^3+Cy$."
@@ -14973,7 +14973,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
       "opt": "A",
@@ -15000,7 +15000,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
       "opt": "D",
@@ -15027,7 +15027,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Addition of Vectors",
      "answer": {
       "opt": "B",
@@ -15048,7 +15048,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
       "text": "Unit vector along $\\hat i+\\hat j+\\hat k$ is $\\dfrac{\\hat i+\\hat j+\\hat k}{\\sqrt3}$.\nRequired vectors are $3\\hat i+3\\hat j+3\\hat k$ and $-3\\hat i-3\\hat j-3\\hat k$."
@@ -15097,7 +15097,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
       "opt": "D",
@@ -15124,7 +15124,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
       "opt": "B",
@@ -15171,7 +15171,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -15299,7 +15299,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
       "opt": "B",
@@ -15326,7 +15326,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
       "opt": "B",
@@ -15372,7 +15372,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Types of Vectors",
      "answer": {
@@ -15495,7 +15495,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Addition of Vectors",
      "answer": {
       "opt": "D",
@@ -15564,7 +15564,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -15620,7 +15620,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -15642,7 +15642,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
       "text": "$\\cos A = \\dfrac{\\overrightarrow{AB}\\cdot\\overrightarrow{AC}}{\\left|\\overrightarrow{AB}\\right|\\left|\\overrightarrow{AC}\\right|} = \\dfrac{\\left(-\\hat{i} - 2\\hat{j} - 6\\hat{k}\\right)\\cdot\\left(\\hat{i} - 3\\hat{j} - 5\\hat{k}\\right)}{\\sqrt{41}\\,\\sqrt{35}} = \\dfrac{35}{\\sqrt{41}\\,\\sqrt{35}} = \\dfrac{\\sqrt{35}}{\\sqrt{41}}$\n$A = \\cos^{-1}\\left(\\dfrac{\\sqrt{35}}{\\sqrt{41}}\\right)$\n$\\cos B = \\dfrac{\\overrightarrow{BA}\\cdot\\overrightarrow{BC}}{\\left|\\overrightarrow{BA}\\right|\\left|\\overrightarrow{BC}\\right|} = \\dfrac{\\left(\\hat{i} + 2\\hat{j} + 6\\hat{k}\\right)\\cdot\\left(2\\hat{i} - \\hat{j} + \\hat{k}\\right)}{\\sqrt{41}\\,\\sqrt{6}} = \\dfrac{6}{\\sqrt{41}\\,\\sqrt{6}} = \\dfrac{\\sqrt{6}}{\\sqrt{41}}$\n$B = \\cos^{-1}\\left(\\dfrac{\\sqrt{6}}{\\sqrt{41}}\\right)$\n$\\cos C = \\dfrac{\\overrightarrow{CB}\\cdot\\overrightarrow{CA}}{\\left|\\overrightarrow{CB}\\right|\\left|\\overrightarrow{CA}\\right|} = \\dfrac{\\left(-2\\hat{i} + \\hat{j} - \\hat{k}\\right)\\cdot\\left(-\\hat{i} + 3\\hat{j} + 5\\hat{k}\\right)}{\\left|\\overrightarrow{CB}\\right|\\left|\\overrightarrow{CA}\\right|} = 0$\n$\\cos C = 0 \\Rightarrow C = \\dfrac{\\pi}{2}$"
@@ -15667,8 +15667,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
       "opt": "C",
@@ -15694,7 +15694,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
@@ -15723,7 +15723,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -15817,7 +15817,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Addition of Vectors",
      "answer": {
@@ -15920,7 +15920,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
@@ -15967,8 +15967,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
       "opt": "B",
@@ -16056,7 +16056,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts",
      "figures": [],
      "answer": {
@@ -16083,7 +16083,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
       "opt": "A",
@@ -16151,7 +16151,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Multiplication of a Vector by a Scalar",
      "figures": [],
      "answer": {
@@ -16219,7 +16219,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Product of Two Vectors",
      "answer": {
       "text": "Let $ABCD$ be the parallelogram with diagonals $\\overrightarrow{AB}=\\vec a$ and $\\overrightarrow{BD}=\\vec b$.\n$\\therefore\\overrightarrow{AB}=\\dfrac12(\\vec a-\\vec b)$ and $\\overrightarrow{AD}=\\dfrac12(\\vec a+\\vec b)$\nArea of $ABCD=\\left|\\overrightarrow{AB}\\times\\overrightarrow{AD}\\right|=\\left|\\dfrac12(\\vec a-\\vec b)\\times\\dfrac12(\\vec a+\\vec b)\\right|=\\dfrac14\\left|\\vec a\\times\\vec a+\\vec a\\times\\vec b-\\vec b\\times\\vec a-\\vec b\\times\\vec b\\right|$\n$=\\dfrac14\\left|2(\\vec a\\times\\vec b)\\right|=\\dfrac12\\left|\\vec a\\times\\vec b\\right|\\qquad(\\because\\vec a\\times\\vec a=\\vec0)$\nGiven $\\vec a=2\\hat i-\\hat j+\\hat k,\\ \\vec b=\\hat i+3\\hat j-\\hat k$\n$\\vec a\\times\\vec b=\\begin{vmatrix}\\hat i&\\hat j&\\hat k\\\\2&-1&1\\\\1&3&-1\\end{vmatrix}=-2\\hat i+3\\hat j+7\\hat k$\n$|\\vec a\\times\\vec b|=\\sqrt{62}$; $\\therefore$ Area of parallelogram $=\\dfrac12\\sqrt{62}$"
@@ -16312,8 +16312,8 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Product of Two Vectors",
      "figures": [],
      "answer": {
@@ -16380,7 +16380,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
@@ -16408,7 +16408,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -16430,7 +16430,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
       "text": "$C$ divides $BA$ in the ratio $3:2$ externally.\nRequired vector $=\\vec c=\\dfrac{3\\vec a-2\\vec b}{3-2}=3\\vec a-2\\vec b$",
@@ -16480,7 +16480,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
       "opt": "D",
@@ -16506,7 +16506,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Types of Vectors",
      "answer": {
@@ -16580,7 +16580,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
       "opt": "C",
@@ -16655,7 +16655,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts",
      "answer": {
       "text": "$\\vec{QP}=\\vec{OP}-\\vec{OQ}=2\\hat{i}+3\\hat{j}-6\\hat{k}$; $|\\vec{QP}|=\\sqrt{4+9+36}=7$. Unit vector along $\\vec{QP}=\\dfrac{2\\hat{i}+3\\hat{j}-6\\hat{k}}{7}$. The required vector of magnitude $14$ is $14\\times\\dfrac{\\vec{QP}}{|\\vec{QP}|}=4\\hat{i}+6\\hat{j}-12\\hat{k}$."
@@ -16700,7 +16700,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
@@ -16756,7 +16756,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -16803,7 +16803,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -16859,7 +16859,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Product of Two Vectors",
      "answer": {
@@ -17022,7 +17022,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Multiplication of a Vector by a Scalar",
      "answer": {
       "opt": "D",
@@ -17049,7 +17049,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Addition of Vectors",
      "answer": {
       "opt": "C",
@@ -17130,8 +17130,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Types of Vectors",
      "figures": [],
      "answer": {
@@ -17207,7 +17207,7 @@
        "qno": "23-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
@@ -17248,8 +17248,8 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
      "figures": [],
      "answer": {
@@ -17276,7 +17276,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "opt": "D",
@@ -17304,7 +17304,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
@@ -17372,8 +17372,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
       "opt": "D",
@@ -17401,7 +17401,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
@@ -17518,7 +17518,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
@@ -17607,7 +17607,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "opt": "D",
@@ -17662,7 +17662,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
@@ -17704,7 +17704,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "figures": [],
      "answer": {
@@ -17745,7 +17745,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Angle between Two Lines",
      "figures": [],
      "answer": {
@@ -17772,7 +17772,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "opt": "A",
@@ -17799,7 +17799,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Angle between Two Lines",
      "answer": {
       "opt": "D",
@@ -17820,7 +17820,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
      "answer": {
       "text": "The given line $5x-25=14-7y=35z$ can be written as $\\dfrac{x-5}{7}=\\dfrac{y-2}{-5}=\\dfrac{z}{1}$\n$\\therefore$ direction ratios of the given line are $\\langle 7,-5,1\\rangle$.\nVector equation of the required line through $A(1,2,-1)$:\n$\\vec r=(\\hat i+2\\hat j-\\hat k)+\\lambda(7\\hat i-5\\hat j+\\hat k)$\nCartesian equation: $\\dfrac{x-1}{7}=\\dfrac{y-2}{-5}=\\dfrac{z+1}{1}$"
@@ -17859,8 +17859,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "text": "Here $\\vec{a_1}=\\hat i+2\\hat j-4\\hat k$, \\ $\\vec{b_1}=2\\hat i+3\\hat j+6\\hat k$\n$\\vec{a_2}=3\\hat i+3\\hat j-5\\hat k$, \\ $\\vec{b_2}=4\\hat i+6\\hat j+12\\hat k$\nHere $\\vec{b_1}$ and $\\vec{b_2}$ are parallel vectors, so $\\vec b=2\\hat i+3\\hat j+6\\hat k$.\n$\\vec{a_2}-\\vec{a_1}=2\\hat i+\\hat j-\\hat k$\n$(\\vec{a_2}-\\vec{a_1})\\times\\vec b=\\begin{vmatrix}\\hat i&\\hat j&\\hat k\\\\2&1&-1\\\\2&3&6\\end{vmatrix}=9\\hat i-14\\hat j+4\\hat k$\nDistance $=\\dfrac{|(\\vec{a_2}-\\vec{a_1})\\times\\vec b|}{|\\vec b|}=\\dfrac{\\sqrt{81+196+16}}{\\sqrt{4+9+36}}=\\dfrac{\\sqrt{293}}{7}$ units."
@@ -17886,7 +17886,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "opt": "D",
@@ -17898,12 +17898,12 @@
      "chapter": "Three Dimensional Geometry",
      "type": "MCQ",
      "marks": 1,
-     "text": "The distance of point $P(a, b, c)$ from x-axis is :",
+     "text": "The distance of point $P(a, b, c)$ from y-axis is :",
      "options": [
+      "$b$",
+      "$b^2$",
       "$\\sqrt{a^2 + c^2}$",
-      "$\\sqrt{a^2 + b^2}$",
-      "$\\sqrt{b^2 + c^2}$",
-      "$b^2 + c^2$"
+      "$a^2 + c^2$"
      ],
      "papers": [
       {
@@ -17913,11 +17913,11 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "opt": "C",
-      "text": "$\\sqrt{b^2 + c^2}$"
+      "text": "$\\sqrt{a^2 + c^2}$"
      }
     },
     {
@@ -17941,7 +17941,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
@@ -17989,7 +17989,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "opt": "D",
@@ -18016,7 +18016,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "opt": "D",
@@ -18064,7 +18064,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
       "text": "Let direction ratios of the required line be $a,b,c$. Since it is perpendicular to both given lines:\n$3a-16b+7c=0$ \\ and \\ $3a+8b-5c=0$\n$\\Rightarrow\\dfrac{a}{24}=\\dfrac{b}{36}=\\dfrac{c}{72}\\Rightarrow\\dfrac{a}{2}=\\dfrac{b}{3}=\\dfrac{c}{6}$\nThe mid-point of the line segment $AB$ is $(3,4,6)$.\nHence, the required equation of the line is $\\dfrac{x-3}{2}=\\dfrac{y-4}{3}=\\dfrac{z-6}{6}$"
@@ -18089,8 +18089,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "opt": "D",
@@ -18184,8 +18184,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
       "opt": "B",
@@ -18212,7 +18212,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
      "answer": {
       "opt": "C",
@@ -18389,7 +18389,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "text": "Rewriting the lines: $\\vec r=(\\hat i-2\\hat j+3\\hat k)+\\lambda(-\\hat i+\\hat j-2\\hat k)$ and $\\vec r=(\\hat i-\\hat j-\\hat k)+\\mu(\\hat i+2\\hat j-2\\hat k)$\n$\\vec{a_1}=\\hat i-2\\hat j+3\\hat k,\\ \\vec{a_2}=\\hat i-\\hat j-\\hat k,\\ \\vec{b_1}=-\\hat i+\\hat j-2\\hat k,\\ \\vec{b_2}=\\hat i+2\\hat j-2\\hat k$\nThe d.r.'s are not proportional, so the lines are not parallel.\n$\\vec{a_2}-\\vec{a_1}=\\hat j-4\\hat k$, \\ $\\vec{b_1}\\times\\vec{b_2}=2\\hat i-4\\hat j-3\\hat k$\n$(\\vec{a_2}-\\vec{a_1})\\cdot(\\vec{b_1}\\times\\vec{b_2})=(\\hat j-4\\hat k)\\cdot(2\\hat i-4\\hat j-3\\hat k)=8\\neq0$, so the lines do not intersect; hence they are skew.\nShortest Distance $=\\dfrac{|(\\vec{a_2}-\\vec{a_1})\\cdot(\\vec{b_1}\\times\\vec{b_2})|}{|\\vec{b_1}\\times\\vec{b_2}|}=\\dfrac{8}{\\sqrt{4+16+9}}=\\dfrac{8}{\\sqrt{29}}$"
@@ -18429,7 +18429,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "figures": [],
      "answer": {
@@ -18456,7 +18456,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "text": "No option is correct — full marks awarded for attempting the question."
@@ -18482,7 +18482,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
       "opt": "C",
@@ -18508,8 +18508,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
       "opt": "C",
@@ -18530,7 +18530,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "text": "The vector equations of the lines are\n$\\vec r=-\\hat i+\\hat j+9\\hat k+\\lambda(2\\hat i+\\hat j-3\\hat k)$ and $\\vec r=3\\hat i-15\\hat j+9\\hat k+\\mu(2\\hat i-7\\hat j+5\\hat k)$\n$\\vec{a_1}=-\\hat i+\\hat j+9\\hat k,\\ \\vec{a_2}=3\\hat i-15\\hat j+9\\hat k$\n$\\vec{b_1}=2\\hat i+\\hat j-3\\hat k,\\ \\vec{b_2}=2\\hat i-7\\hat j+5\\hat k$\n$\\vec{a_2}-\\vec{a_1}=4\\hat i-16\\hat j$\n$\\vec{b_1}\\times\\vec{b_2}=\\begin{vmatrix}\\hat i&\\hat j&\\hat k\\\\2&1&-3\\\\2&-7&5\\end{vmatrix}=-16\\hat i-16\\hat j-16\\hat k$\nS.D. $=\\dfrac{|(\\vec{a_2}-\\vec{a_1})\\cdot(\\vec{b_1}\\times\\vec{b_2})|}{|\\vec{b_1}\\times\\vec{b_2}|}=\\dfrac{12}{\\sqrt3}=4\\sqrt3$"
@@ -18601,7 +18601,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "text": "$l_1:\\dfrac{x-1}{2}=\\dfrac{y-2}{3}=\\dfrac{z-3}{4}=\\lambda$. Any point on $l_1$ is $(2\\lambda+1,3\\lambda+2,4\\lambda+3)$.\n$l_2:\\dfrac{x-4}{5}=\\dfrac{y-1}{2}=\\dfrac{z-0}{1}=\\mu$. Any point on $l_2$ is $(5\\mu+4,2\\mu+1,\\mu)$.\nFor the point of intersection, $2\\lambda+1=5\\mu+4,\\ 3\\lambda+2=2\\mu+1$\nSolving, $\\lambda=\\mu=-1$. Since $\\lambda=\\mu=-1$ satisfy $4\\lambda+3=\\mu$,\n$\\therefore$ the point of intersection is $(-1,-1,-1)$.\nNow the distance of $(-1,-5,-10)$ from $(-1,-1,-1)$ is $\\sqrt{(-1+1)^2+(-1+5)^2+(-1+10)^2}=\\sqrt{97}$ units."
@@ -18620,7 +18620,7 @@
        "qno": 37
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
@@ -18707,7 +18707,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
@@ -18867,8 +18867,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
      "answer": {
       "opt": "D",
@@ -18888,8 +18888,8 @@
        "qno": 35
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
      "answer": {
       "text": "The direction ratios of the two lines are $\\langle 2,3,4\\rangle$ and $\\langle 5,2,1\\rangle$. Since these are not proportional, the lines are not parallel. A general point on the first line is $(2\\lambda+1,\\ 3\\lambda+2,\\ 4\\lambda+3)$ and on the second is $(5\\mu+4,\\ 2\\mu+1,\\ \\mu)$. For intersection: $2\\lambda+1=5\\mu+4$, $3\\lambda+2=2\\mu+1$, $4\\lambda+3=\\mu$. Solving the first two gives $\\lambda=-1$, $\\mu=-1$, which also satisfy the third equation. Hence the lines intersect, and the point of intersection is $(-1,-1,-1)$."
@@ -18915,7 +18915,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
       "opt": "B",
@@ -18943,7 +18943,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Direction Cosines and Direction Ratios of a Line",
      "answer": {
@@ -19010,8 +19010,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Angle between Two Lines",
      "answer": {
       "opt": "D",
@@ -19059,7 +19059,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
      "answer": {
       "text": "Line 1 has direction ratios $\\langle 1,-1,p\\rangle$; line 2, $\\dfrac{2-x}{3}=\\dfrac{y+1}{5}=\\dfrac{z+56}{2p}$, has direction ratios $\\langle -3,5,2p\\rangle$. Perpendicularity $\\Rightarrow 1(-3)+(-1)(5)+p(2p)=0\\Rightarrow 2p^2=8\\Rightarrow p=\\pm 2$."
@@ -19099,8 +19099,8 @@
        "qno": 35
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Equation of a Line in Space",
      "answer": {
       "text": "$l_1:\\dfrac{x+3}{-3}=\\dfrac{y-1}{1}=\\dfrac{z-5}{5}$, i.e. $\\vec{r}=(-3\\hat{i}+\\hat{j}+5\\hat{k})+\\lambda(-3\\hat{i}+\\hat{j}+5\\hat{k})$; and $l_2:\\dfrac{x+1}{-1}=\\dfrac{2-y}{-2}=\\dfrac{z-5}{5}$, i.e. $\\vec{r}=(-\\hat{i}+2\\hat{j}+5\\hat{k})+\\mu(-\\hat{i}+2\\hat{j}+5\\hat{k})$. Here $\\vec{a_2}-\\vec{a_1}=2\\hat{i}+\\hat{j}$ and $\\vec{b_1}\\times\\vec{b_2}=-5\\hat{i}+10\\hat{j}-5\\hat{k}$. Since $(\\vec{a_2}-\\vec{a_1})\\cdot(\\vec{b_1}\\times\\vec{b_2})=-10+10+0=0$, the lines are coplanar and hence intersecting."
@@ -19141,7 +19141,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Shortest Distance between Two Lines",
      "answer": {
       "text": "$\\dfrac{x-2}{3}=\\dfrac{1-y}{2}=\\dfrac{z-3}{2}=k\\Rightarrow P(3k+2,\\,-2k+1,\\,2k+3)$; the given point is $Q(1,2,3)$. $|PQ|=\\sqrt{2}\\Rightarrow(3k+1)^2+(-2k-1)^2+(2k)^2=2\\Rightarrow 17k^2+10k=0\\Rightarrow k=0$ or $k=-\\dfrac{10}{17}$. The required points are $(2,1,3)$ and $\\left(\\dfrac{4}{17},\\dfrac{37}{17},\\dfrac{31}{17}\\right)$."
@@ -19182,7 +19182,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Equation of a Line in Space",
      "answer": {
       "text": "A general point on the first line is $P(2a+1,\\,3a+2,\\,4a+3)$ and on the second is $Q(5b+4,\\,2b+1,\\,b)$; equating gives $a=b=-1$, so the point of intersection is $(-1,-1,-1)$. The required line through it parallel to $3\\hat{i}+2\\hat{j}-8\\hat{k}$ is, in Cartesian form, $\\dfrac{x+1}{3}=\\dfrac{y+1}{2}=\\dfrac{z+1}{-8}$, and in vector form $\\vec{r}=(-\\hat{i}-\\hat{j}-\\hat{k})+\\lambda(3\\hat{i}+2\\hat{j}-8\\hat{k})$."
@@ -19411,7 +19411,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "text": "The correct option is not given in the question — one mark is to be awarded to every candidate who attempted this question."
@@ -19612,8 +19612,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "opt": "D",
@@ -19741,7 +19741,7 @@
      "chapter": "Linear Programming",
      "type": "MCQ",
      "marks": 1,
-     "text": "The number of corner points of the feasible region determined by constraints $x \\geq 0$, $y \\geq 0$, $x + y \\leq 4$ is :",
+     "text": "The number of corner points of the feasible region determined by constraints $x \\geq 0$, $y \\geq 0$, $x + y \\geq 4$ is :",
      "options": [
       "$0$",
       "$1$",
@@ -19756,7 +19756,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "opt": "C",
@@ -19858,8 +19858,8 @@
        "qno": 37
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "text": "(i) Constraints are $x+2y\\ge10$, \\ $x+y\\ge6$, \\ $3x+y\\ge8$, \\ $x\\ge0$, \\ $y\\ge0$.\n(ii) The minimum cost is ₹$112$ (at $x=2,\\ y=4$).",
@@ -20181,7 +20181,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "opt": "C",
@@ -20202,7 +20202,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "text": "Maximise $Z=x+2y$. The corner points of the feasible region are $O(0,0)$ and $A(2,2)$.\nSince the feasible region is unbounded, plotting $x+2y>6$ shows a common region with the feasible region; thus $Z$ has no maximum value.",
@@ -20276,7 +20276,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -20352,7 +20352,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "opt": "D",
@@ -20380,7 +20380,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -20462,7 +20462,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -20494,7 +20494,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -20572,7 +20572,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -21002,7 +21002,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -21033,7 +21033,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "opt": "C",
@@ -21112,7 +21112,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
       "opt": "B",
@@ -21140,7 +21140,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linear Programming Problem and its Mathematical Formulation",
      "answer": {
@@ -21299,7 +21299,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Independent Events",
      "figures": [],
      "answer": {
@@ -21711,7 +21711,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
       "opt": "C",
@@ -21738,7 +21738,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
       "opt": "C",
@@ -21766,7 +21766,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
@@ -21857,7 +21857,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
@@ -22014,7 +22014,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
       "opt": "D",
@@ -22228,7 +22228,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
@@ -22461,7 +22461,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
@@ -22576,7 +22576,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Independent Events",
      "answer": {
@@ -22933,7 +22933,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
       "opt": "B",
@@ -23027,7 +23027,7 @@
      "marks": 1,
      "text": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R). Choose the correct answer.",
      "assertion": "In an experiment of throwing an unbiased die, the probability of getting a prime number given that number appearing on the die being odd is $\\dfrac{2}{3}$.",
-     "reason": "For any two events A and B, $P(A|B) = \\dfrac{P(A \\cap B)}{P(B)}$.",
+     "reason": "For any two events A and B, $P(A|B) = \\dfrac{P(A \\cup B)}{P(B)}$.",
      "ar_options": [
       "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
       "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
@@ -23041,7 +23041,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
@@ -23082,7 +23082,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Conditional Probability",
      "figures": [],
@@ -23104,7 +23104,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Bayes' Theorem",
      "answer": {
       "text": "One first prize of ₹$3{,}00{,}000$, two second prizes of ₹$2{,}00{,}000$ each and three third prizes of ₹$50{,}000$ each; $1{,}00{,}000$ tickets sold. (i) Possible winning amounts: ₹$3{,}00{,}000$, ₹$2{,}00{,}000$, ₹$50{,}000$. (ii)(a) $P(\\text{win at least }₹2{,}00{,}000)=\\dfrac{3}{1{,}00{,}000}$. OR (ii)(b) $P(\\text{no win})=1-\\dfrac{6}{1{,}00{,}000}=\\dfrac{99994}{100000}$. (iii) In another jackpot (prize ₹$5{,}00{,}000$, chance $1$ in $1{,}00{,}000$), $P(\\text{exactly one of the two tickets wins})=\\dfrac{6}{100000}\\times\\dfrac{99999}{100000}+\\dfrac{99994}{100000}\\times\\dfrac{1}{100000}=\\dfrac{699988}{10^{10}}$."
@@ -23129,7 +23129,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Conditional Probability",
      "answer": {
@@ -23392,7 +23392,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Independent Events",
      "figures": [],
