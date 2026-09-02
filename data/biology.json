@@ -53,7 +53,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
@@ -104,7 +104,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "text": "(a) The pollen tube enters the ovule from the micropylar end and passes into a synergid, guided by the filiform apparatus.\n(b) Double fertilisation: one male gamete fuses with the two polar nuclei to form the primary endosperm nucleus (triple fusion); the other male gamete fuses with the egg cell to form the zygote (syngamy)."
@@ -126,7 +126,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Pollination",
      "answer": {
@@ -152,7 +152,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Pre-fertilisation: Structures and Events",
      "answer": {
@@ -202,7 +202,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
@@ -231,8 +231,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
       "opt": "C",
@@ -252,7 +252,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
@@ -272,8 +272,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "text": "Megasporogenesis and the development of the embryo sac:\nThe megaspore mother cell (2n) undergoes meiosis to form a tetrad of four megaspores (n). Three of these degenerate, leaving one functional megaspore. This functional megaspore undergoes three successive mitotic divisions without cell-wall formation (free-nuclear division) to give an 8-nucleate stage. Cell walls then form, organising it into the 7-celled, 8-nucleate embryo sac shown below (with three antipodals at the chalazal end, two synergids and one egg at the micropylar end, and a central cell with two polar nuclei).",
@@ -301,8 +301,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "opt": "C",
@@ -346,8 +346,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Pre-fertilisation: Structures and Events",
      "answer": {
       "text": "A — wall of the fruit / wall of the ripened ovary;\nB — scutellum;\nC — radicle / plumule / epicotyl / hypocotyl;\nD — perisperm."
@@ -386,8 +386,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
       "text": "Each microspore mother cell in the sporogenous tissue of the anther undergoes meiosis (microsporogenesis), forming a cluster of four cells called the microspore tetrad. As the anther matures and dehydrates, each microspore undergoes an asymmetric (unequal) division to produce a large vegetative cell and a small generative cell — i.e. the pollen grain (the male gametophyte), labelled below.",
@@ -415,7 +415,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
@@ -436,7 +436,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
@@ -462,7 +462,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
@@ -539,7 +539,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Double Fertilisation",
      "answer": {
@@ -562,8 +562,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "text": "(i) Contrivances that prevent self-pollination (any four): the release of pollen and the receptivity of the stigma are not synchronised; the anther and stigma are placed at different positions so that the pollen cannot contact the stigma of the same flower; self-incompatibility (a genetic mechanism that prevents self-pollen from fertilising the ovule by inhibiting pollen germination or pollen-tube growth); and the production of unisexual flowers.\n(ii) To prevent inbreeding depression / to obtain more variation for better adaptation."
@@ -588,8 +588,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "opt": "A",
@@ -618,8 +618,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
       "opt": "A",
@@ -639,8 +639,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
       "text": "Labelled diagram of a pollen grain (below): exine, intine, vegetative cell, generative cell and germ pore. Functions: the vegetative cell contains abundant food reserve for pollen germination; the generative cell divides to produce the two male gametes; the exine is a protective layer; the intine is involved in the formation of the pollen tube; and the germ pore is the point from which the pollen tube emerges.",
@@ -668,7 +668,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Pollination",
      "answer": {
@@ -699,7 +699,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "opt": "B",
@@ -739,7 +739,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
@@ -768,8 +768,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
       "opt": "B",
@@ -795,8 +795,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
       "opt": "B",
@@ -864,8 +864,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
       "opt": "B",
@@ -885,7 +885,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
@@ -926,8 +926,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
       "text": "(a) 3200 male gametophytes (each pollen grain is a male gametophyte, and 800 pollen mother cells give $800 \\times 4 = 3200$ pollen grains).\n(b) The two layers of the pollen-grain wall:\n• Intine — the inner layer, made up of cellulose and pectin.\n• Exine — the outer layer, made up of sporopollenin."
@@ -946,8 +946,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "text": "(i) Development of the female gametophyte (embryo sac): the megaspore mother cell (2n) undergoes meiosis to form a tetrad of four megaspores (n); three degenerate and one functional megaspore remains. This megaspore undergoes three free-nuclear mitotic divisions (without cell-wall formation) to reach the 8-nucleate stage, after which cell walls are laid down to form the 7-celled, 8-nucleate embryo sac.\n(ii) A typical embryo sac (diagram below) is 7-celled and 8-nucleate: at the chalazal end are three antipodal cells; in the centre is the large central cell with two polar nuclei; and at the micropylar end is the egg apparatus (one egg cell and two synergids).",
@@ -975,7 +975,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
@@ -999,7 +999,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
@@ -1045,7 +1045,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
@@ -1070,7 +1070,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "text": "(a) The given type of pollination (cross-pollination / xenogamy) prevents inbreeding depression, prevents the loss of fertility, promotes hybrid vigour and improves genetic variability.\n(b) The plant will not show geitonogamy, because in this flowering plant the pollen release and stigma receptivity are not synchronised (or because the flowers are present on different plants)."
@@ -1090,7 +1090,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Seed and Fruit Formation",
      "answer": {
       "text": "(i) The embryo of a monocotyledonous seed (diagram below) has a single cotyledon called the scutellum, situated laterally (towards one side) of the embryonal axis. At the lower end of the embryonal axis are the radicle and the root cap, enclosed in an undifferentiated sheath called the coleorhiza. The portion of the embryonal axis above the level of attachment of the scutellum is the epicotyl, which has a few leaf primordia enclosed in a hollow foliar structure called the coleoptile.\n(ii) Some of the nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac and develop into embryos; this phenomenon (of forming embryos without fertilisation, giving many embryos) is apomixis / polyembryony.",
@@ -1118,8 +1118,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "opt": "C",
@@ -1140,7 +1140,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "text": "One petal of $Ophrys$ bears an uncanny resemblance to the female of a particular bee species in size, colour and markings. The male bee is attracted to what it perceives as a female and pseudo-copulates with the flower; during this process it is dusted with pollen from the flower, and when it pseudo-copulates with another flower it transfers the pollen — bringing about pollination."
@@ -1162,7 +1162,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
@@ -1238,7 +1238,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Pre-fertilisation: Structures and Events",
      "answer": {
@@ -1262,7 +1262,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Pollination",
      "answer": {
@@ -1288,8 +1288,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "opt": "D",
@@ -1329,7 +1329,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
@@ -1349,7 +1349,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
@@ -1381,8 +1381,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Megasporangium and Embryo Sac",
      "answer": {
       "opt": "B",
@@ -1431,8 +1431,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "answer": {
       "text": "Transverse section of the wall of a microsporangium (anther), showing its four layers (diagram below): the epidermis, the endothecium, the middle layers and the tapetum.\nFunctions: the outermost layer, the epidermis, helps in protection (and in the dehiscence of the anther to release the pollen); the innermost layer, the tapetum, provides nourishment to the developing pollen grains.",
@@ -1454,8 +1454,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "text": "(a)\n(i) Stigma has the ability to recognise the right or compatible and wrong or\nincompatible type of pollen\n(ii)\nCompatible pollen grain germinates on the stigma to produce pollen tube that\ngrows through the tissues of stigma and style and reaches to the ovary\nGenerative cell divides into two male gametes while moving through style\nand Pollen tube enters the ovule through the micropyle and then enters one of\nthe synergids through the filiform apparatus\nThe pollen tube releases the two male gametes in the cytoplasm of Synergid\nand one male gamete moves towards the egg cell and fuses with its nucleus\nforming a zygote (syngamy)\nThe other male gamete moves towards the two polar nuclei present in the\ncentral cell and fuses with them to form Primary Endosperm Nucleus / PEN\n(triple fusion).\n(Since syngamy and triple fusion both occur in embryo sac so it is termed as\nDouble Fertilization)"
@@ -1480,8 +1480,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Pollination",
      "answer": {
       "opt": "A",
@@ -1521,7 +1521,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Seed and Fruit Formation",
      "answer": {
@@ -1673,8 +1673,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Pre-fertilisation: Structures and Events",
      "answer": {
       "opt": "B",
@@ -1694,8 +1694,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Seed and Fruit Formation",
      "answer": {
       "text": "(a)(i) (Any correctly attempted answer is accepted.)\n(a)(ii) The endosperm provides nourishment to the developing embryo."
@@ -1714,8 +1714,8 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Apomixis and Polyembryony",
      "figures": [],
      "answer": {
@@ -1756,8 +1756,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Double Fertilisation",
      "answer": {
       "text": "(i) Double fertilisation is the occurrence of two types of fusion — syngamy and triple fusion — within the embryo sac of an angiosperm.\n• Syngamy: fusion of one male gamete with the egg cell, forming the (diploid) zygote.\n• Triple fusion: fusion of the other male gamete with the two polar nuclei, producing the (triploid) primary endosperm nucleus.\n(ii)(1) In apomixis, some of the nucellar cells surrounding the embryo sac start dividing and protrude into the embryo sac to form embryos.\n(2) In cashew, the thalamus also contributes to fruit formation along with the ovary (a false fruit develops from a part other than the ovary), whereas guava fruit develops only from the ovary after fertilisation."
@@ -1815,8 +1815,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Seed and Fruit Formation",
      "figures": [],
      "answer": {
@@ -1865,8 +1865,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Microsporangium and Pollen Grain",
      "figures": [],
      "answer": {
@@ -1889,8 +1889,8 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Seed and Fruit Formation",
      "figures": [],
      "answer": {
@@ -2065,8 +2065,8 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "figures": [],
      "answer": {
@@ -2089,7 +2089,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "figures": [],
@@ -2114,7 +2114,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "figures": [],
      "answer": {
@@ -2134,7 +2134,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "figures": [],
@@ -2224,7 +2224,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Male Reproductive System",
      "figures": [],
      "answer": {
@@ -2245,7 +2245,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Male Reproductive System",
      "figures": [],
      "answer": {
@@ -2266,7 +2266,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "figures": [],
      "answer": {
@@ -2346,7 +2346,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Gametogenesis",
      "figures": [],
@@ -2373,7 +2373,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
@@ -2397,8 +2397,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Pregnancy and Embryonic Development",
      "answer": {
       "text": "(a) Blastocyst.\n(b) The uterine wall / endometrium (the innermost layer of the uterine wall).\n(c) 'X' (outer layer / trophoblast) helps in implantation — attachment of the blastocyst to the endometrium.\n'Y' (inner cell mass) gets differentiated into the embryo."
@@ -2423,7 +2423,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Menstrual Cycle",
      "answer": {
@@ -2447,7 +2447,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
@@ -2523,7 +2523,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Gametogenesis",
      "answer": {
@@ -2544,8 +2544,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
       "text": "(a) The Sertoli cells in the seminiferous tubule release factors that induce spermiogenesis. (Meanwhile, LH acts on the Leydig cells and stimulates the synthesis and secretion of androgens for spermatogenesis.)\n(b)(i) Spermatogonia $\\xrightarrow{\\text{mitosis / differentiation}}$ primary spermatocyte.\n(ii) Primary spermatocyte $\\xrightarrow{\\text{meiosis I}}$ secondary spermatocyte $\\xrightarrow{\\text{meiosis II}}$ spermatid.\n(c) Rete testis and vasa efferentia."
@@ -2573,8 +2573,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Fertilisation and Implantation",
      "answer": {
       "opt": "C",
@@ -2598,7 +2598,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "answer": {
       "text": "X — in woman X the thickness of the uterine wall increases after the middle of the menstrual cycle. Reason: fertilisation of the egg has occurred (pregnancy / conception).\nY — in woman Y the thickness of the uterine wall decreases after the middle of the cycle. Reason: the egg has not been fertilised, leading to the breakdown of the lining of the uterus (menstrual flow / bleeding)."
@@ -2643,7 +2643,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Female Reproductive System",
      "answer": {
@@ -2688,7 +2688,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Gametogenesis",
      "answer": {
       "text": "Structure of a human sperm (labelled below): head, acrosome, nucleus, neck, middle piece with mitochondria, and tail. Functions (any four): the head contains the chromosomal (genetic) material; the acrosome is filled with enzymes whose secretion helps the sperm enter the cytoplasm of the ovum during fertilisation; the middle piece possesses mitochondria; the mitochondria produce the energy for the movement of the tail (swimming); the tail provides motility; and the plasma membrane envelops and protects the sperm.\n(ii) When a sperm comes into contact with the zona pellucida (a layer of the ovum), it induces changes in the membrane that block the entry of any additional sperm.",
@@ -2716,7 +2716,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Female Reproductive System",
      "answer": {
@@ -2766,8 +2766,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Gametogenesis",
      "answer": {
       "opt": "B",
@@ -2822,7 +2822,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
@@ -2869,7 +2869,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Female Reproductive System",
      "answer": {
@@ -2916,7 +2916,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
@@ -2977,7 +2977,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Pregnancy and Embryonic Development",
      "answer": {
@@ -2997,7 +2997,7 @@
        "qno": "18-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Gametogenesis",
      "figures": [],
@@ -3021,8 +3021,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Male Reproductive System",
      "answer": {
       "text": "(i) A = spermatozoa;  B = spermatid / spermatozoa;  C = Sertoli cells;  D = spermatogonium.\n(ii) A secondary spermatocyte has 23 chromosomes, and a spermatid also has 23 chromosomes (both are haploid).\n(iii) Spermiogenesis — the process by which spermatids are transformed into spermatozoa (sperms). (Spermiation — the process by which the spermatozoa, with their heads embedded in the Sertoli cells, are finally released from the seminiferous tubules.)"
@@ -3047,7 +3047,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Menstrual Cycle",
      "answer": {
@@ -3074,7 +3074,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Female Reproductive System",
      "answer": {
@@ -3095,7 +3095,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Fertilisation and Implantation",
      "answer": {
@@ -3115,7 +3115,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Female Reproductive System",
      "answer": {
@@ -3162,7 +3162,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Parturition and Lactation",
      "answer": {
@@ -3183,8 +3183,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Female Reproductive System",
      "answer": {
       "text": "(a)(i) Oogenesis (diagram below): the oogonia (2n gamete mother cells) multiply by mitosis in the foetal ovary and differentiate into primary oocytes; each primary oocyte gets surrounded by follicle cells to form a primary follicle. The primary oocyte remains arrested in prophase-I until puberty; after puberty, the oocyte inside the tertiary follicle completes meiosis-I to form a haploid secondary oocyte and a first polar body. The tertiary follicle changes into the Graafian follicle. The secondary oocyte starts meiosis-II and then stops; the Graafian follicle ruptures to release the secondary oocyte (the ovum) from the ovary (ovulation).\n(ii) The hormones that increase during the follicular phase are luteinising hormone (LH) and follicle-stimulating hormone (FSH).",
@@ -3212,7 +3212,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Menstrual Cycle",
      "answer": {
@@ -3259,7 +3259,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Parturition and Lactation",
      "answer": {
@@ -3340,7 +3340,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Fertilisation and Implantation",
      "answer": {
       "text": "(a)\n– Fertilisation: fertilisation occurs in the ampulla (the ampullary-isthmic junction) of the fallopian tube. When a sperm comes in contact with the ovum, it induces changes in the zona pellucida that block the entry of additional sperms, ensuring that only one sperm fertilises the ovum. Secretions of the acrosome help the sperm to enter the cytoplasm of the ovum by dissolving the zona pellucida and the plasma membrane. The entry of the sperm induces the completion of meiosis-II of the secondary oocyte; the nucleus of the ovum (ootid) then fuses with that of the sperm to form a diploid zygote.\n– Implantation: the trophoblast layer of the blastocyst gets attached to the endometrium; the uterine cells divide rapidly and cover the blastocyst, so that the blastocyst becomes embedded in the endometrium of the uterus."
@@ -3360,7 +3360,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Pregnancy and Embryonic Development",
      "figures": [],
      "answer": {
@@ -3397,7 +3397,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "figures": [],
      "answer": {
@@ -3417,7 +3417,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Contraception and Birth Control",
      "figures": [],
@@ -3444,7 +3444,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
@@ -3494,8 +3494,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
       "opt": "C",
@@ -3570,7 +3570,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
@@ -3594,8 +3594,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Easy",
      "topic": "Sexually Transmitted Infections",
      "answer": {
       "text": "(a) Accept all values within $47 \\pm 2$ years of age.\n(b) Accept all values from 6–8 years of age."
@@ -3640,7 +3640,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Contraception and Birth Control",
      "answer": {
@@ -3690,7 +3690,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Assisted Reproductive Technologies",
      "answer": {
@@ -3731,7 +3731,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
       "text": "Copper-releasing IUDs — CuT, Cu-7, Multiload-375 (any two). The $Cu^{+}$ ions released from these IUDs suppress sperm motility, reduce the fertilising capacity of the sperms, and increase the phagocytosis of sperms (any two)."
@@ -3783,7 +3783,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
       "text": "Progesterone or a progestogen–estrogen combination is used. 'Saheli' is a non-steroidal preparation — a 'once a week' pill with very few side effects, a high contraceptive value, easy availability and a cheaper cost (any one)."
@@ -3828,7 +3828,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
@@ -3850,7 +3850,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
       "text": "(a) There is no ovulation, so the menstrual cycle does not occur during this period / it is due to lactational amenorrhoea.\n(b) Because the majority of MTPs are performed illegally by quacks, which is unsafe, and to prevent female foeticide."
@@ -3878,8 +3878,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Assisted Reproductive Technologies",
      "answer": {
       "opt": "C",
@@ -3929,7 +3929,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Sexually Transmitted Infections",
      "answer": {
       "text": "(a) Amniocentesis — some of the amniotic fluid of the developing embryo is taken to analyse the foetal cells and dissolved substances in order to test for the presence of genetic disorders.\n(b) Medical Termination of Pregnancy (MTP). Yes, it is comparatively safe up to 12 weeks (the first trimester of pregnancy).\n(c) It is misused when performed by quacks, or when a normal female foetus is detected and followed by MTP, leading to female foeticide."
@@ -3998,7 +3998,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
       "text": "MTP stands for Medical Termination of Pregnancy — the intentional (voluntary) termination of a pregnancy before full term. One reason it is carried out: to get rid of unwanted pregnancies (due to casual unprotected intercourse, failure of the contraceptive used, or rape), or when the pregnancy is harmful or even fatal to the mother or to the foetus or both. (any one reason)"
@@ -4018,7 +4018,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sexually Transmitted Infections",
      "figures": [],
      "answer": {
@@ -4068,7 +4068,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
       "text": "(a) Amniocentesis — a technique in which some of the amniotic fluid of the developing foetus is taken to analyse the foetal cells and the dissolved substances. Its misuse: for the sex-determination of the foetus, which leads to an increase in female foeticide."
@@ -4088,7 +4088,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sexually Transmitted Infections",
      "figures": [],
      "answer": {
@@ -4137,7 +4137,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
@@ -4158,7 +4158,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sexually Transmitted Infections",
      "figures": [],
      "answer": {
@@ -4179,7 +4179,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Contraception and Birth Control",
      "answer": {
       "text": "(a) Comparison of two contraceptive methods:\n• Oral pills — Merits: effective with fewer side-effects, reversible, cost-effective and user-friendly. Demerits: may have side-effects when taken for a long time; if not taken in the correct pattern they may fail to prevent conception.\n• Surgical methods (sterilisation) — Merits: highly effective; they block gamete transport. Demerits: not (easily) reversible; can affect health if not performed under hygienic conditions.\n(b) IUDs prevent conception by (any two): increasing the phagocytosis of the sperms; suppressing sperm motility and the fertilising capacity of the sperms (the copper-releasing IUDs release $Cu^{++}$ ions); and, in the case of the hormone-releasing IUDs, making the uterus unsuitable for implantation and the cervix hostile to the sperms."
@@ -4204,7 +4204,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
@@ -4228,8 +4228,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Contraception and Birth Control",
      "answer": {
       "text": "(a) The technique is amniocentesis — some of the amniotic fluid of the developing foetus is taken to analyse the foetal cells and dissolved substances. Advantage: it can test for the presence of certain genetic disorders (e.g. Down's syndrome, haemophilia, sickle-cell anaemia) and determine the survivability of the foetus. Disadvantage: it can be misused to determine the sex of the unborn child, and if the foetus is found to be female it may lead to female foeticide.\n(b) Saheli differs from other pills in that its composition is non-steroidal; its advantages are that it is a once-a-week pill, has low side-effects and has a high contraceptive value."
@@ -4274,8 +4274,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Assisted Reproductive Technologies",
      "answer": {
       "opt": "C",
@@ -4296,7 +4296,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Contraception and Birth Control",
      "answer": {
       "text": "Implants work by inhibiting ovulation, inhibiting implantation and changing (thickening) the quality of the cervical mucus so as to retard the entry of sperms. Their effective period is much longer than that of pills."
@@ -4315,8 +4315,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Medical Termination of Pregnancy",
      "answer": {
       "text": "– Amniocentesis is a test/procedure in which some foetal cells present in the amniotic fluid are analysed for certain genetic disorders.\n– Sex determination can be done with the help of amniocentesis, which may be misused for female foeticide; hence it has been legally banned, to check the increasing menace of female foeticide."
@@ -4354,7 +4354,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linkage and Recombination",
      "answer": {
@@ -4407,7 +4407,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -4433,8 +4433,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "opt": "B",
@@ -4486,7 +4486,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -4597,7 +4597,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -4673,7 +4673,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -4713,7 +4713,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -4733,8 +4733,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "figures": [],
      "answer": {
@@ -4800,7 +4800,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Mendel's Laws and Dihybrid Cross",
      "answer": {
@@ -4827,8 +4827,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "opt": "A",
@@ -4888,7 +4888,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -4908,8 +4908,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
       "text": "(i) Comparison of a monohybrid cross in the pea plant (violet/white) with one in the snapdragon (red/white):\n(ii) The ABO blood-group system shows multiple allelism, with the alleles $I^A$, $I^B$ and $i$; $I^A$ and $I^B$ are co-dominant (blood group AB), while both $I^A$ and $I^B$ show complete dominance over $i$ (any two).",
@@ -4969,9 +4969,9 @@
      "marks": 1,
      "text": "In which of the given chromosomal disorders does the individual have tall stature with feminised character ?",
      "options": [
-      "Turner's syndrome",
       "Klinefelter's syndrome",
       "Down's syndrome",
+      "Turner's syndrome",
       "Edwards' syndrome"
      ],
      "papers": [
@@ -4981,12 +4981,12 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "opt": "A",
-      "text": "Turner's syndrome"
+      "text": "Klinefelter's syndrome"
      }
     },
     {
@@ -5022,8 +5022,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
       "text": "(a) The parental genotype cannot be determined from the given information.\n(b) Violet, axial × White, terminal — the parents are heterozygous dominant × homozygous recessive, i.e. $VvAa \\times vvaa$.\n(c) Violet, axial × Violet, axial — heterozygous for flower colour and homozygous dominant for flower position, i.e. $VvAA \\times VvAA$."
@@ -5042,7 +5042,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -5098,7 +5098,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -5119,7 +5119,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -5165,7 +5165,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -5192,7 +5192,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -5305,8 +5305,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
       "opt": "C",
@@ -5398,7 +5398,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "text": "(a) Individual 1 = $I^B i$;  Individual 2 = $I^A i$.\n(b) Individual 5 — both antigen A and antigen B are present on the RBCs; Individual 8 — neither antigen A nor antigen B is present on the RBCs."
@@ -5417,7 +5417,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -5505,8 +5505,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
       "opt": "C",
@@ -5532,8 +5532,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "opt": "C",
@@ -5580,7 +5580,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
       "text": "Cross 1 — $GG$ (homozygous dominant female) × $Gg$ (heterozygous male): all the F$_1$ progeny are dominant (see the first Punnett square).\nCross 2 — $gg$ (homozygous recessive female) × $Gg$ (heterozygous male): the F$_1$ progeny are 50 % dominant and 50 % recessive (see the second Punnett square).",
@@ -5650,7 +5650,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
@@ -5678,7 +5678,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Inheritance of One Gene",
      "answer": {
       "opt": "D",
@@ -5727,8 +5727,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Mendel's Laws and Dihybrid Cross",
      "answer": {
       "text": "(a) Reasons for the success of Mendel's experiments (any two): true-breeding pea varieties were selected; distinct contrasting characters were chosen for the different traits; artificial (self- and cross-) pollination was carried out carefully; a large sample size was used; and the results were confirmed by performing the experiments over several generations.\n(b) Law of Independent Assortment — when two pairs of traits are combined in a hybrid, the segregation of one pair of characters is independent of the other pair of characters."
@@ -5780,7 +5780,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -5830,7 +5830,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -5853,8 +5853,8 @@
        "qno": 26
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
       "text": "(a) Three alleles ($I^A$, $I^B$ and $i$) control the ABO blood group.\n(b) Co-dominance (the alleles $I^A$ and $I^B$ are co-dominant).\n(c) Yes, they can have a child with 'O' blood group. A father of blood group A ($I^A i$) crossed with a mother of blood group B ($I^B i$) can give children of all four blood groups — AB ($I^A I^B$), A ($I^A i$), B ($I^B i$) and O ($ii$) — as shown in the Punnett square.",
@@ -5929,8 +5929,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Mendel's Laws and Dihybrid Cross",
      "answer": {
       "opt": "C",
@@ -5999,8 +5999,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Sex Determination",
      "answer": {
       "text": "(a) The haplo-diploid sex-determination mechanism (as in honeybees).\n(b)(i) The females (queen and workers) develop from fertilised eggs by mitosis; (ii) a female (16 chromosomes in the gametes context) — as the diploid females have 32 chromosomes and the haploid males have 16; (iii) 32 chromosomes in the diploid female.\n(c) The drone (male) develops from an unfertilised egg by parthenogenesis; its sex is male and its chromosome number is 16 (haploid)."
@@ -6025,8 +6025,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sex Determination",
      "answer": {
       "opt": "B",
@@ -6107,8 +6107,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Linkage and Recombination",
      "answer": {
       "opt": "B",
@@ -6128,7 +6128,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sex Determination",
      "answer": {
@@ -6152,7 +6152,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "text": "(a) Pedigree analysis is the analysis of a trait (the inheritance of traits) across several generations of a family. Its importance: to trace the inheritance of a trait, an abnormality or a disease.\n(b)(i) The trait is autosomal recessive.\n(ii) Example (any one): sickle-cell anaemia / thalassaemia / phenylketonuria."
@@ -6200,8 +6200,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Mendel's Laws and Dihybrid Cross",
      "answer": {
       "opt": "B",
@@ -6242,7 +6242,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sex Determination",
      "answer": {
       "text": "Henking traced a specific nuclear structure (the X-body) all through spermatogenesis in a few insects, and observed that 50 % of the sperm received this special structure after spermatogenesis whereas the other 50 % did not. This observation later helped in understanding sex determination: the eggs fertilised by a sperm carrying the X chromosome developed into females, while the eggs fertilised by a sperm without the X chromosome developed into males."
@@ -6261,7 +6261,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Linkage and Recombination",
      "answer": {
@@ -6316,7 +6316,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -6337,8 +6337,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "answer": {
       "text": "Types and location of the gene:\n• $\\alpha$-Thalassemia is controlled by two genes, HBA1 and HBA2, both located on chromosome 16.\n• $\\beta$-Thalassemia is controlled by a single gene, HBB, located on chromosome 11.\n\nCause: mutation or deletion of one or more of the four alleles of the genes controlling the disease.\n\nSymptoms: anaemia, extreme tiredness, pale skin or breathlessness (any other correct symptom).\n\nHow sickle-cell anaemia differs from thalassemia:",
@@ -6380,7 +6380,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Inheritance of One Gene",
      "answer": {
       "opt": "D",
@@ -6400,7 +6400,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -6462,7 +6462,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "figures": [],
@@ -6484,7 +6484,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Mendel's Laws and Dihybrid Cross",
      "figures": [],
      "answer": {
@@ -6647,7 +6647,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Inheritance of One Gene",
      "answer": {
@@ -6771,7 +6771,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Disorders and Pedigree",
      "figures": [],
@@ -6849,7 +6849,7 @@
        "qno": "23-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "figures": [],
@@ -6870,8 +6870,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Regulation of Gene Expression",
      "figures": [],
      "answer": {
@@ -6912,7 +6912,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Regulation of Gene Expression",
      "figures": [],
@@ -6957,8 +6957,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "Genome Project and DNA Fingerprinting",
      "figures": [],
      "answer": {
@@ -6988,7 +6988,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "opt": "C",
@@ -7017,8 +7017,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
       "opt": "C",
@@ -7038,7 +7038,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
@@ -7058,7 +7058,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
@@ -7084,7 +7084,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
@@ -7114,8 +7114,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
       "opt": "A",
@@ -7135,7 +7135,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
@@ -7176,7 +7176,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -7202,8 +7202,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Code and Translation",
      "answer": {
       "text": "No correct option is available."
@@ -7268,8 +7268,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Code and Translation",
      "answer": {
       "opt": "C",
@@ -7299,7 +7299,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "C",
@@ -7345,7 +7345,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -7372,8 +7372,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "opt": "D",
@@ -7448,8 +7448,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "C",
@@ -7475,8 +7475,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "C",
@@ -7525,8 +7525,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Code and Translation",
      "answer": {
       "text": "(a) 8 amino acids — the genetic code is read in triplets, and here there is no change in the number of triplets (no change in the reading frame).\n(b) 3 amino acids — the fourth codon now reads as UGA, a stop codon."
@@ -7551,7 +7551,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -7581,7 +7581,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
@@ -7625,7 +7625,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Genetic Code and Translation",
      "answer": {
@@ -7651,7 +7651,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Regulation of Gene Expression",
      "answer": {
@@ -7678,8 +7678,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "opt": "A",
@@ -7699,7 +7699,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -7719,8 +7719,8 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "DNA Replication",
      "answer": {
       "text": "(a) Replication is discontinuous on one strand because carrying out replication continuously on both strands would be energetically very expensive (it would require a very high input of energy).\n(b) DNA-dependent DNA polymerase catalyses polymerisation along the template strand only in one direction, $5' \\rightarrow 3'$. So on the template strand with polarity $3' \\rightarrow 5'$ the replication is continuous, while on the other strand (with polarity $5' \\rightarrow 3'$) the replication is discontinuous (forming short Okazaki fragments)."
@@ -7765,8 +7765,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "opt": "B",
@@ -7819,7 +7819,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "text": "(a) Nucleosome.\n(b) P = DNA;  Q = histone octamer.\n(c) Basic / positively charged.\n(d) Difference between euchromatin and heterochromatin (see table).",
@@ -7864,8 +7864,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "B",
@@ -7894,7 +7894,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
@@ -7948,8 +7948,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "DNA Replication",
      "answer": {
       "opt": "B",
@@ -7972,8 +7972,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "text": "(a) The enzyme is DNA-dependent RNA polymerase.\n(b) B = coding strand;  A = template strand.\n(c) C is the promoter — the sequence of DNA where the enzyme DNA-dependent RNA polymerase binds for the initiation of transcription. D is the terminator — the sequence of DNA where the process of transcription is terminated.\nOR (d) C (the promoter) is located towards the 5' end (upstream) of the coding strand; D (the terminator) is located towards the 3' end (downstream) of the coding strand."
@@ -7998,7 +7998,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -8025,8 +8025,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
       "opt": "B",
@@ -8052,8 +8052,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
       "opt": "C",
@@ -8082,7 +8082,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
@@ -8103,7 +8103,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Genetic Code and Translation",
      "answer": {
@@ -8127,7 +8127,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "text": "(a) The linkages: (a) a phosphoester linkage (phosphoester bond) joins the phosphate to the sugar within a nucleotide; (b) a phosphodiester linkage (phosphodiester bond) joins adjacent nucleotides.\n(b) Two — a polynucleotide chain has a free phosphate at the 5' end and a free hydroxyl at the 3' end (two free ends).\n(c) A polynucleotide strand runs from a 5'-phosphate end to a 3'-hydroxyl (–OH) end. It has a sugar–phosphate backbone (the phosphate 'P' joined to the sugar), with the nitrogenous bases (e.g. A, T, G) projecting from each sugar."
@@ -8152,7 +8152,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -8179,8 +8179,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "D",
@@ -8206,8 +8206,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Code and Translation",
      "answer": {
       "opt": "C",
@@ -8233,8 +8233,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Search for Genetic Material",
      "answer": {
       "opt": "A",
@@ -8257,7 +8257,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Replication",
      "answer": {
@@ -8283,7 +8283,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Transcription",
      "answer": {
@@ -8310,7 +8310,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Regulation of Gene Expression",
      "answer": {
@@ -8337,7 +8337,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
@@ -8361,7 +8361,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -8410,7 +8410,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
@@ -8460,8 +8460,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Genetic Code and Translation",
      "answer": {
       "text": "(a) The amino-acid sequence lysine–serine–proline–tyrosine is coded by the mRNA $AAC-UCC-CCC-UAC$.\n(b) If serine is replaced by proline, the sequence becomes lysine–proline–proline–tyrosine.\n(c) A possible mRNA for this altered polypeptide is $AAG-CCC-CCC-UAC$ (any correct set of codons for lysine–proline–proline–tyrosine)."
@@ -8500,7 +8500,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "DNA Structure and Packaging",
      "answer": {
@@ -8520,7 +8520,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Transcription",
      "figures": [],
@@ -8547,7 +8547,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
@@ -8574,8 +8574,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "B",
@@ -8599,7 +8599,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "text": "(a)(i) The molecular basis of sickle-cell anaemia: the substitution of glutamic acid by valine at the sixth position of the beta-globin chain of the haemoglobin molecule, leading to the polymerisation of haemoglobin under low oxygen tension.\n(ii) The disease is sickle-cell anaemia; the RBC changes shape from biconcave to an elongated sickle-like structure, and the oxygen-carrying capacity of the haemoglobin is reduced."
@@ -8619,7 +8619,7 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Search for Genetic Material",
      "answer": {
@@ -8639,7 +8639,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Genetic Code and Translation",
      "answer": {
@@ -8662,7 +8662,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
@@ -8691,8 +8691,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "opt": "C",
@@ -8718,7 +8718,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Genetic Code and Translation",
      "answer": {
@@ -8747,7 +8747,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
@@ -8788,7 +8788,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Search for Genetic Material",
      "answer": {
@@ -8814,7 +8814,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
@@ -8835,7 +8835,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
@@ -8859,7 +8859,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Transcription",
      "answer": {
@@ -8885,8 +8885,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "DNA Structure and Packaging",
      "answer": {
       "opt": "B",
@@ -8914,7 +8914,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Genome Project and DNA Fingerprinting",
      "answer": {
@@ -8935,8 +8935,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "DNA Replication",
      "answer": {
       "text": "The process of DNA replication at the replication fork is shown below: the two strands of the template (parental) DNA separate; on one template continuous synthesis occurs (the leading strand), while on the other template discontinuous synthesis occurs (the lagging strand), the newly synthesised strands growing in the $5'\\rightarrow 3'$ direction.\nReplication of DNA occurs within a small replication fork (and not by opening up the whole molecule at once) because, DNA being a very long molecule, separation of the two strands along its entire length would require a very high amount of energy.",
@@ -8958,8 +8958,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Transcription",
      "answer": {
       "text": "(a) Because RNA polymerase carries out polymerisation only in the $5'\\rightarrow 3'$ direction.\n(b)(i) Since hnRNA contains both exons (coding sequences) and introns (non-coding sequences), it undergoes splicing to remove the introns.\nOR (b)(ii) Other processing of hnRNA:\n– Capping: an unusual nucleotide, methyl guanosine triphosphate ($^{m}G_{ppp}$), is added to the $5'$ end of the hnRNA.\n– Tailing: adenylate residues (about 200-300) are added at the $3'$ end as a poly-A tail.\n(c)\n– If a segment of DNA were to produce two polypeptides, the genetic-information machinery would become complicated; two different polypeptides would be formed, one of which may not be useful for the cell.\n– The two complementary RNA molecules produced simultaneously would form a double-stranded RNA that would not be translated into a polypeptide."
@@ -9024,8 +9024,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
       "opt": "C",
@@ -9045,7 +9045,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
@@ -9090,8 +9090,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Adaptive Radiation",
      "answer": {
       "opt": "A",
@@ -9171,7 +9171,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Human Evolution",
      "answer": {
@@ -9215,8 +9215,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "text": "The naturalist is Lamarck. He proposed that the evolution of life forms is driven by the use and disuse of organs. He argued that giraffes, in trying to forage leaves on tall trees, had to adapt by elongating their necks; they passed on this acquired character of an elongated neck to their offspring, and slowly, over generations, all future giraffes came to have long necks."
@@ -9261,8 +9261,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "opt": "D",
@@ -9315,7 +9315,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
@@ -9342,8 +9342,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Origin of Life",
      "answer": {
       "opt": "B",
@@ -9366,7 +9366,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
@@ -9392,7 +9392,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
@@ -9416,7 +9416,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
@@ -9466,7 +9466,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
       "opt": "B",
@@ -9532,7 +9532,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
@@ -9553,8 +9553,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
       "text": "The three types of natural selection (diagram below):\n• Stabilizing selection — the intermediate (medium-sized) individuals are favoured, so the peak of the curve gets higher and narrower.\n• Directional selection — individuals at one extreme are favoured, so the peak shifts in one direction.\n• Disruptive selection — individuals at both extremes are favoured while the intermediate ones are eliminated, so two peaks are formed.",
@@ -9582,7 +9582,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Human Evolution",
      "answer": {
@@ -9637,7 +9637,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
@@ -9663,8 +9663,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "opt": "D",
@@ -9708,8 +9708,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "text": "(a)(iii) Greater, greater.\n(b)(i) Divergent evolution; (ii) divergent evolution — both indicate a common ancestry, as in both cases cytochrome C is the respiratory pigment.\n(c)(i) Convergent evolution — different structures evolving for the same function and hence coming to have similarities.\nOR (c)(ii) Divergent evolution — the same structure developing along different directions due to adaptations to different needs."
@@ -9761,7 +9761,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Adaptive Radiation",
      "answer": {
@@ -9831,7 +9831,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Evidences for Evolution",
      "answer": {
@@ -9883,7 +9883,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Mechanism of Evolution (Hardy-Weinberg)",
      "answer": {
@@ -9905,7 +9905,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "text": "(a) An early ancestral primate (any one): $Dryopithecus$ / $Ramapithecus$.\n(b) Place where the fossils of early humans were found (any one): Tanzania / Ethiopia.\n(c) $Australopithecines$ (the man-like primates that first walked in East Africa).\n(d) $Homo\\ erectus$ (which probably ate meat)."
@@ -9950,7 +9950,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
@@ -10000,7 +10000,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Mechanism of Evolution (Hardy-Weinberg)",
      "answer": {
@@ -10026,8 +10026,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "opt": "B",
@@ -10047,7 +10047,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Origin of Life",
      "answer": {
@@ -10073,8 +10073,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
       "opt": "D",
@@ -10100,7 +10100,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
@@ -10121,7 +10121,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
@@ -10198,8 +10198,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Human Evolution",
      "answer": {
       "opt": "D",
@@ -10219,8 +10219,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Theories: Darwin and Lamarck",
      "answer": {
       "text": "Types of natural selection:\n– Stabilising selection: more individuals acquire the mean character value, so variation is much reduced (the peak of the distribution becomes higher and narrower).\n– Directional selection: more individuals acquire a value other than the mean character value (the peak shifts in one direction).\n– Disruptive selection: more individuals acquire the peripheral character values at both ends of the distribution curve, so two peaks are formed.",
@@ -10296,7 +10296,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Evidences for Evolution",
      "answer": {
@@ -10331,7 +10331,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Immunity",
      "figures": [],
@@ -10392,7 +10392,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
@@ -10413,8 +10413,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
       "text": "(i) Diacetylmorphine (heroin) — it is highly addictive and, being a depressant, slows down body functions.\n(ii) (1) $Cannabis\\ sativa$ — affects the cardiovascular system of the body.\n(2) $Erythroxylum\\ coca$ (coca plant) — interferes with the transport of the neurotransmitter dopamine, producing a sense of euphoria and increased energy.\n(3) $Papaver\\ somniferum$ — acts as a depressant, slows down body functions and relieves pain (sedative)."
@@ -10440,7 +10440,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
       "opt": "B",
@@ -10492,7 +10492,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
@@ -10515,8 +10515,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
       "text": "(i) Sporozoites.\n(ii) It undergoes asexual reproduction.\n(iii) The parasites multiply asexually and ultimately change into gametocytes (undergo gametogenesis).\n(iv) Fertilisation and development take place in host 'X', ultimately forming the infective stage — the sporozoites.\n(Alternatively: the bursting of RBCs releases haemozoin and causes the symptoms of malaria.)"
@@ -10546,8 +10546,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
       "opt": "D",
@@ -10641,7 +10641,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Common Human Diseases",
      "answer": {
@@ -10670,7 +10670,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
@@ -10691,7 +10691,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
@@ -10755,7 +10755,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
@@ -10775,8 +10775,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "Cancer",
      "answer": {
       "text": "(i) Contact inhibition is present in normal cells but not in cancer cells; when normal cells come into contact with other cells, this contact inhibits their further (uncontrolled) growth.\n(ii) Cellular oncogenes (proto-oncogenes), when activated under certain conditions, can lead to the oncogenic transformation of the cells.\n(iii)(1) Biopsy and histopathology — a piece of the suspected tissue is cut into thin sections, stained, and examined under a microscope by a pathologist for increased cell counts.\n(2) MRI — detects cancer of the internal organs; it uses strong magnetic fields and non-ionising radiation to detect pathological and physiological changes in living tissue."
@@ -10801,7 +10801,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Common Human Diseases",
      "answer": {
@@ -10875,8 +10875,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
       "text": "(A) Heroin / smack / diacetylmorphine / an opioid;\n(B) the cardiovascular system;\n(C) cocaine / coca alkaloid / coke / crack;\n(D) it stimulates the central nervous system, producing a sense of euphoria and increased energy (and can cause hallucinations)."
@@ -10896,7 +10896,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
       "text": "(a) Difference between the humoral and the cell-mediated immune response (any two):",
@@ -10938,8 +10938,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
       "text": "(a) The virus first infects the macrophages, where the RNA genome replicates.\n(b) Diagnosis: ELISA (enzyme-linked immunosorbent assay) / PCR. Treatment: the available antiviral drugs are only partially effective, as they only prolong the life of the patient.\n(c) Prevention (any two): making blood HIV-safe in blood banks; using only disposable needles and syringes in hospitals; free distribution of condoms; controlling drug abuse; advocating safe sex; and regular check-ups for the HIV-susceptible population. (AIDS causes a drastic reduction of the helper T-lymphocytes that fight infection, so the person becomes immune-deficient and unable to protect against other bacterial, viral, fungal or parasitic infections.)"
@@ -10964,8 +10964,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
       "opt": "C",
@@ -10993,7 +10993,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
@@ -11014,8 +11014,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
       "text": "A vaccine is a preparation of the antigenic proteins of a pathogen, or an inactivated / weakened pathogen. It works on the property of memory of the immune system: the antibodies produced in the body in response to these antigens neutralise the pathogenic agents, and the body mounts a rapid (anamnestic) response on a later exposure."
@@ -11057,8 +11057,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Cancer",
      "figures": [],
      "answer": {
@@ -11101,7 +11101,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
@@ -11122,7 +11122,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
@@ -11195,7 +11195,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
@@ -11245,8 +11245,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
       "text": "(a)(i) Sporozoites;  (ii) gametocytes.\n(b) After entering the body, the sporozoites undergo asexual reproduction in the liver and then in the RBCs; the RBCs burst and release haemozoin, which is responsible for the chills and high fever that recur every 3–4 days. (In the mosquito: the male and female gametocytes taken up with the blood meal are fertilised in the gut, and the resulting sporozoites escape from the gut and migrate into the salivary glands.)\n(c) $Aedes$ — dengue / chikungunya; or $Culex$ — filariasis / elephantiasis."
@@ -11271,7 +11271,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
@@ -11315,7 +11315,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
@@ -11335,7 +11335,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
@@ -11384,8 +11384,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
       "text": "In the case of a snakebite, a quick response is required; as the natural production of antibodies takes more time, preformed antibodies against the snake venom are injected. Similarly, in tetanus, preformed antibodies are directly injected because a quick immune response is required against the deadly microbes. (any other relevant example)"
@@ -11405,7 +11405,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Common Human Diseases",
      "figures": [],
      "answer": {
@@ -11425,7 +11425,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
@@ -11446,7 +11446,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
       "text": "(a) B-lymphocytes and T-lymphocytes.\n(b) Because the antibodies are found in the blood (humour), antibody-mediated immunity is also called the humoral immune response.\n(c)(i) Our immune system is able to distinguish between 'self' and 'non-self' cells / molecules.\n(ii) The cell-mediated immune response, in which the T-lymphocytes are involved.\nOR (d) Difference between active and passive immunity:",
@@ -11489,7 +11489,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Common Human Diseases",
      "answer": {
@@ -11539,7 +11539,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
@@ -11581,7 +11581,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
       "text": "(a) Opioids are generally taken intravenously, and the use of contaminated needles or contaminated injections increases the chances of hepatitis B (a liver disease).\n(b) A direct drug-related death means a death due to an overdose of the opioids (a fatal overdose).\n(c)(i) The source plant is $Papaver\\ somniferum$ (the opium poppy), and the drug is obtained from its latex.\nOR (c)(ii) Warning signs of drug/alcohol abuse (any two): a drop in academic performance, unexplained absence from school or college, lack of interest in personal hygiene, withdrawal and isolation, depression, fatigue, aggressive and rebellious behaviour, deteriorating relationships with family and friends, loss of interest in hobbies, change in sleeping and eating habits, and fluctuations in weight and appetite."
@@ -11606,7 +11606,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
@@ -11627,8 +11627,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
       "text": "Structure of an antibody molecule (diagram below). Each antibody molecule has four peptide chains and is represented as $H_2L_2$: two smaller light (L) chains and two longer heavy (H) chains. It has an antigen-binding site at the N-terminal (amino) end, and disulphide bonds hold the different chains together.",
@@ -11651,7 +11651,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "AIDS",
      "figures": [],
      "answer": {
@@ -11671,8 +11671,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
       "text": "(a) 15–16 years / the adolescence period (12–18 years of age).\n(b) Clearing of forests / deforestation (narco-deforestation) / extinction of species / it promotes monoculture, which will further lead to a loss of biodiversity.\n(c)(i) The parts of the $Cannabis$ plant used: the inflorescence / flower tops / leaves / resin. Its effect: it affects the cardiovascular system of the body.\nOR (c)(ii) The source plant of cocaine is $Erythroxylum\\ coca$; cocaine causes hallucinations."
@@ -11697,8 +11697,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Cancer",
      "answer": {
       "opt": "B",
@@ -11751,7 +11751,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "AIDS",
      "answer": {
       "text": "(a) Observations from the data (any two): the number of men taking treatment was higher than that of women (1 woman out of 18 was treated, while 1 man out of 7 was treated); 1 in 11 persons was addicted to $Cannabis\\ sativa$ or $Papaver\\ somniferum$; the number of drug users had increased by 20 %; and 292 million people were consuming drugs in 2022.\n(b) The sharing of contaminated needles among drug addicts transmits diseases such as hepatitis-B and HIV/AIDS; both diseases are primarily caused by viruses.\n(c)(i) The source plant of cannabinoids (marijuana / hashish) is $Cannabis\\ sativa$.\nOR (c)(ii) The source plant of opioids (morphine / heroin) is $Papaver\\ somniferum$ (the opium poppy)."
@@ -11803,7 +11803,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
@@ -11844,7 +11844,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Immunity",
      "figures": [],
@@ -11865,7 +11865,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
@@ -11891,8 +11891,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Immunity",
      "answer": {
       "opt": "C",
@@ -11912,8 +11912,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
       "text": "(a) Humoral (antibody-mediated) immunity is an immune response in which the B-lymphocytes produce an army of proteins (antibodies) in response to pathogens and release them into the blood to fight the pathogens.\n(b) Two types of antibodies (any two): IgA, IgE, IgM, IgG."
@@ -11952,7 +11952,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Common Human Diseases",
      "answer": {
@@ -12019,7 +12019,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Immunity",
      "answer": {
@@ -12075,7 +12075,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
@@ -12096,7 +12096,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Common Human Diseases",
      "answer": {
@@ -12116,7 +12116,7 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Immunity",
      "figures": [],
@@ -12140,8 +12140,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
       "text": "(a)(i) The maximum absorption of nicotine is 45 mg per cm$^3$, at 10 minutes.\n(b) Nicotine stimulates the adrenal gland, which releases adrenaline / noradrenaline into the blood, resulting in an increase in blood pressure and heart rate.\n(c) Nicotine is an alkaloid. Other examples of alkaloid drugs: cocaine (coke/crack), morphine, cannabinoids.\nOR (a)(ii) With smoking, the concentration of carbon monoxide increases and the concentration of haem-bound oxygen decreases (because CO binds to haemoglobin more strongly than oxygen)."
@@ -12166,7 +12166,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Drugs and Alcohol Abuse",
      "answer": {
@@ -12207,7 +12207,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
@@ -12252,7 +12252,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Immunity",
      "answer": {
       "text": "– The organ is the spleen.\n– It acts as a filter of the blood by trapping blood-borne microorganisms."
@@ -12339,7 +12339,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Cancer",
      "figures": [],
@@ -12374,7 +12374,7 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Microbes in Industrial Products",
      "figures": [],
@@ -12396,7 +12396,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Sewage Treatment",
      "figures": [],
      "answer": {
@@ -12437,7 +12437,7 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Microbes in Industrial Products",
      "figures": [],
@@ -12491,7 +12491,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Microbes in Industrial Products",
      "figures": [],
      "answer": {
@@ -12512,7 +12512,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Biocontrol Agents",
      "figures": [],
      "answer": {
@@ -12588,8 +12588,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Microbes in Household Products",
      "answer": {
       "text": "Mark to be awarded if attempted."
@@ -12608,8 +12608,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
       "text": "(a) The primary effluent passes to the aeration tank, where it is constantly agitated mechanically and air is pumped in. This allows the vigorous growth of flocs (masses of bacteria associated with fungal filaments, forming a mesh-like structure), which consume the organic matter and reduce the BOD of the primary effluent.\n(b) BOD is a measure of the organic matter / polluting potential in the water — the greater the BOD, the greater the polluting potential."
@@ -12681,7 +12681,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Microbes in Household Products",
      "answer": {
@@ -12729,7 +12729,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
@@ -12779,7 +12779,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Microbes in Industrial Products",
      "answer": {
@@ -12826,7 +12826,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sewage Treatment",
      "answer": {
@@ -12848,7 +12848,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Biofertilisers",
      "answer": {
       "text": "Benefits of a mycorrhizal association (any two): it absorbs phosphorus from the soil and passes it to the plant; it gives resistance to root-borne diseases; it gives tolerance to salinity and drought; and it brings about an overall increase in plant growth and development."
@@ -12927,7 +12927,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Microbes in Industrial Products",
      "answer": {
@@ -12948,7 +12948,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
@@ -12974,7 +12974,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Microbes in Industrial Products",
      "answer": {
@@ -13050,8 +13050,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Microbes in Industrial Products",
      "answer": {
       "opt": "B",
@@ -13071,7 +13071,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
@@ -13124,7 +13124,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
       "text": "(a) The plant is the sewage-treatment plant, used to treat sewage water before it can be released into a water body.\n(b) Air (oxygen) helps in the growth of the flocs (aerobic bacteria along with fungal filaments), which decompose the organic matter in the sewage using oxygen.\n(c)(i) The bacterial 'flocs' settle down (in the settling tank) to form the activated sludge.\nOR (c)(ii) BOD (Biochemical Oxygen Demand) is directly related to the amount of organic matter present in the water; the greater the BOD, the more is the polluting potential of the water."
@@ -13202,7 +13202,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
       "text": "Later steps of sewage treatment:\n• The effluent from the aeration tank is passed into settling tanks, where the flocs settle down to form the activated sludge.\n• A small part of the activated sludge is pumped back into the aeration tank to serve as inoculum, while the major remaining part is pumped into large tanks called anaerobic sludge digesters.\n• The anaerobic bacteria digest the sludge and produce a mixture of gases — methane, hydrogen sulphide and carbon dioxide — i.e. biogas.\nThe biogas produced can be used as a source of energy; the effluent from the secondary treatment plant is generally released into natural water bodies such as rivers and streams."
@@ -13250,7 +13250,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Biogas Production",
      "answer": {
@@ -13276,7 +13276,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Biocontrol Agents",
      "answer": {
@@ -13326,8 +13326,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sewage Treatment",
      "answer": {
       "text": "(a) Sample C is the most polluted, because it has the highest BOD.\n(b) Sample A – river water; Sample B – secondary effluent (least BOD); Sample C – untreated sewage water (highest BOD)."
@@ -13381,7 +13381,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Biocontrol Agents",
      "answer": {
@@ -13402,7 +13402,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Microbes in Industrial Products",
      "answer": {
@@ -13470,7 +13470,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Principles of Biotechnology",
      "answer": {
@@ -13535,7 +13535,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -13564,7 +13564,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
@@ -13586,7 +13586,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "text": "Insertional inactivation: the recombinant (desired) DNA is inserted into the coding sequence of the enzyme $\\beta$-galactosidase, which inactivates the gene for this enzyme. In the presence of a chromogenic substrate, bacteria whose plasmid has no insert (non-recombinants) produce blue colonies, whereas those carrying the insert (recombinants) produce colourless colonies."
@@ -13605,7 +13605,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -13631,8 +13631,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "opt": "D",
@@ -13681,7 +13681,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
@@ -13701,8 +13701,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Understand",
+     "difficulty": "Difficult",
      "topic": "Cloning and Bioreactor",
      "answer": {
       "text": "(i) Conditions required for the optimum growth of a micro-organism (any four): temperature, pH, substrate, salts, vitamins and oxygen.\n(ii) The log (exponential) phase.\n(iii) No — the product still needs separation and purification (down-streaming), quality-control testing, formulation with suitable preservatives, and clinical trials before it can be marketed."
@@ -13722,7 +13722,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "figures": [],
      "answer": {
@@ -13748,8 +13748,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "opt": "A",
@@ -13798,8 +13798,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "opt": "C",
@@ -13854,7 +13854,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "text": "• Ori — the site where replication starts; it is responsible for controlling the copy number of the linked DNA.\n• Restriction site — the site at which the alien / foreign / desirable DNA is ligated into the vector."
@@ -13874,7 +13874,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
       "text": "(i) DNA is a hydrophilic molecule and cannot pass through the cell membrane. A bacterial cell is made 'competent' by treating it with a specific concentration of a divalent cation such as calcium, which increases the efficiency with which DNA enters through pores in the cell wall (creating transient pores that let the cell take up DNA).\n(ii)(1) The step shown is the separation of DNA fragments.\n(2) DNA fragments are negatively charged, so they can be separated by size by forcing them to move towards the anode under an electric field through an agarose gel.\n(3) The DNA is stained so that it can be visualised on exposure to UV radiation."
@@ -13899,7 +13899,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -13924,8 +13924,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
       "opt": "B",
@@ -13977,7 +13977,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Principles of Biotechnology",
      "answer": {
@@ -13997,7 +13997,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14023,7 +14023,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14076,7 +14076,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Principles of Biotechnology",
      "answer": {
@@ -14102,7 +14102,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
@@ -14123,8 +14123,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "text": "(a) The enzyme is EcoRI; it recognises a palindromic (palindromic nucleotide) sequence.\n(b) The arrows indicate the site at which EcoRI makes a cut in the two strands of DNA (the restriction / recognition site of EcoRI); this cut thereafter gives rise to 'sticky ends'."
@@ -14172,7 +14172,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
@@ -14201,7 +14201,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Cloning and Bioreactor",
      "answer": {
@@ -14222,7 +14222,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14271,7 +14271,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14321,7 +14321,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14341,7 +14341,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
@@ -14390,7 +14390,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Principles of Biotechnology",
      "answer": {
@@ -14441,7 +14441,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "text": "(a) Taq polymerase.\n(b) They form overhanging stretches called sticky ends, which facilitate the formation of hydrogen bonds with their complementary cut parts and, with the help of DNA ligase, the joining of the two fragments.\n(c) $Escherichia\\ coli$ (E. coli)."
@@ -14466,8 +14466,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "opt": "C",
@@ -14569,7 +14569,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Cloning and Bioreactor",
      "answer": {
@@ -14618,7 +14618,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Principles of Biotechnology",
      "answer": {
       "text": "(a) The recognition sites of restriction enzymes are palindromic sequences; the enzyme itself is a restriction endonuclease (e.g. EcoRI).\n(b) Restriction endonucleases cut the strands of DNA a little away from the centre of the palindrome, between the same two bases on the opposite strands, so as to leave single-stranded overhangs called sticky ends. For example, EcoRI cuts the DNA between the bases G and A on both strands of the sequence $5'-GAATTC-3'$ / $3'-CTTAAG-5'$."
@@ -14641,8 +14641,8 @@
        "qno": 28
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
       "text": "(a) If the electrodes are connected wrongly, no bands will be seen in the agarose gel (in the expected region), because the DNA fragments, being negatively charged, will not move towards the negative electrode (cathode); instead they remain positioned at the anode (positive end).\n(b) To obtain a proper separation, the position of the positive terminal (anode) and the negative terminal (cathode) has to be interchanged. Then the band at X, being the smallest DNA fragment, will move the farthest towards the anode."
@@ -14667,7 +14667,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "PCR and Gel Electrophoresis",
      "answer": {
@@ -14718,7 +14718,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Cloning and Bioreactor",
      "answer": {
       "text": "Two methods of directly introducing recombinant DNA into a host cell:\n• Micro-injection — the recombinant DNA is directly injected into the nucleus of an animal cell.\n• Gene gun (biolistics) — the cells are bombarded with high-velocity micro-particles of gold or tungsten coated with DNA."
@@ -14737,7 +14737,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14763,7 +14763,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
@@ -14878,7 +14878,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "text": "(a)(i) Naming of the restriction enzyme EcoRI:\n– The first letter 'E' comes from the genus ($Escherichia$).\n– The next two letters 'co' come from the species ($coli$).\n– The letter 'R' is derived from the name of the strain.\n– The Roman numeral 'I' indicates the order in which the enzyme was isolated from that strain of the bacterium.\nEcoRI recognises and cuts the palindromic sequence as shown:\n$5'\\text{-}G{\\downarrow}AATTC\\text{-}3'$\n$3'\\text{-}CTTAA{\\uparrow}G\\text{-}5'$\n(a)(ii) The overhanging single-stranded stretches produced are called 'sticky ends'. They form hydrogen bonds with their complementary cut counterpart, which facilitates the action of the enzyme DNA ligase."
@@ -14898,7 +14898,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Restriction Enzymes and Vectors",
      "figures": [],
      "answer": {
@@ -14924,8 +14924,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "opt": "D",
@@ -14978,7 +14978,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "answer": {
       "text": "(a) Plasmids and bacteriophages can be used as cloning vectors because they have the ability to replicate (they multiply within the bacterial cell independently of the chromosomal DNA); an alien piece of DNA ligated to them is also multiplied, in keeping with their specific copy number.\n(b)(i)(I) ori (the origin of replication)\n(II) Pvu II\nOR (b)(ii) G: $amp^{R}$ (the ampicillin-resistance gene); H: $tet^{R}$ (the tetracycline-resistance gene).\n(c) Pst I, Pvu I, BamH I, Sal I"
@@ -14997,7 +14997,7 @@
        "qno": "27-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "figures": [],
@@ -15019,7 +15019,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Restriction Enzymes and Vectors",
      "figures": [],
      "answer": {
@@ -15112,7 +15112,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Cloning and Bioreactor",
      "figures": [],
      "answer": {
@@ -15146,7 +15146,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "figures": [],
      "answer": {
@@ -15251,7 +15251,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Applications in Medicine",
      "figures": [],
      "answer": {
@@ -15277,7 +15277,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Ethical Issues and Biopiracy",
      "answer": {
@@ -15420,7 +15420,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -15499,7 +15499,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Transgenic Animals",
      "answer": {
@@ -15568,7 +15568,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Medicine",
      "answer": {
@@ -15687,7 +15687,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Transgenic Animals",
      "answer": {
@@ -15713,7 +15713,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Ethical Issues and Biopiracy",
      "answer": {
@@ -15740,8 +15740,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
       "opt": "A",
@@ -15761,8 +15761,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Applications in Medicine",
      "answer": {
       "text": "The genetically engineered lymphocytes are not immortal, hence the patient requires periodic infusion of them. A permanent cure is possible if the gene isolated from bone-marrow cells producing ADA is introduced into cells (lymphocytes) at the early embryonic stages."
@@ -15807,7 +15807,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -15992,8 +15992,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
       "opt": "D",
@@ -16019,7 +16019,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -16081,7 +16081,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Transgenic Animals",
      "answer": {
@@ -16127,7 +16127,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -16203,8 +16203,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
       "opt": "B",
@@ -16250,7 +16250,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -16272,7 +16272,7 @@
       }
      ],
      "bloom": "Remember",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Ethical Issues and Biopiracy",
      "answer": {
       "text": "(a) The full form of GEAC is the Genetic Engineering Approval (Appraisal) Committee.\n(b) Two purposes of GEAC: to make decisions regarding the validity of GM research; and to ensure the safety of introducing GM organisms for public services."
@@ -16297,7 +16297,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -16324,7 +16324,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Applications in Agriculture",
      "answer": {
@@ -16345,7 +16345,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Applications in Medicine",
      "answer": {
@@ -16371,8 +16371,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Transgenic Animals",
      "answer": {
       "opt": "C",
@@ -16392,8 +16392,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Applications in Agriculture",
      "answer": {
       "text": "(a) The meristem is removed from a diseased plant and grown in vitro by tissue-culture methods; the plant so produced is virus-free."
@@ -16454,8 +16454,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Attributes",
      "answer": {
       "opt": "A",
@@ -16510,8 +16510,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "opt": "C",
@@ -16557,7 +16557,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Population Interactions",
      "answer": {
@@ -16584,7 +16584,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
@@ -16649,8 +16649,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Growth",
      "answer": {
       "opt": "C",
@@ -16693,8 +16693,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Attributes",
      "answer": {
       "text": "(a) Rwanda — the very broad base of Rwanda's age distribution indicates a rapidly growing (expanding) population, because a large number of individuals are in the pre-reproductive age group.\n(b) It indicates that the numbers of individuals in the pre-reproductive and post-reproductive age groups are the same (a stable population).\n(c) A declining age pyramid. (An expanding pyramid has a broad base; a declining one has a narrow base.)"
@@ -16745,7 +16745,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Population Growth",
      "answer": {
@@ -16788,7 +16788,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Population Interactions",
      "answer": {
@@ -16809,7 +16809,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Population Growth",
      "answer": {
       "text": "(a) The graph is a sigmoid (S-shaped) growth curve rising to the carrying capacity (K).\n(b) It is the Verhulst–Pearl logistic growth curve (sigmoid growth curve). A population grows this way because the resources for growth of most animal populations are finite and become limiting sooner or later.\n(c) The other type is the exponential (geometric) growth curve (J-shaped), which occurs when resources are unlimited. Its equation is $\\dfrac{dN}{dt} = rN$ (i.e. $\\dfrac{dN}{dt} = (b-d)N$), giving $N_t = N_0 e^{rt}$."
@@ -16829,7 +16829,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "text": "(a) The clownfish gets protection from predators due to the presence of the stinging tentacles of the sea anemone, thus deriving benefit from it, while the sea anemone neither derives any benefit nor is harmed by the clownfish. (This is commensalism.)"
@@ -16848,7 +16848,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Population Growth",
      "answer": {
@@ -16872,7 +16872,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "text": "(a) A fig species can be pollinated only by its 'partner' wasp species and no other species. The female wasp uses the fruit not only as an oviposition (egg-laying) site but also uses the developing seeds within the fruit for nourishing its larvae; while searching for a suitable egg-laying site, the wasp pollinates the fig inflorescence. (This is an example of mutualism / a one-to-one plant–pollinator relationship.)"
@@ -16892,7 +16892,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Population Growth",
      "answer": {
       "text": "(i) When the resources in the habitat are unlimited, each species has the ability to realise fully its innate potential to grow in number; the population then grows in an exponential (geometric) fashion, giving a J-shaped curve when the population density is plotted against time.\n(ii) The equation is $\\dfrac{dN}{dt} = (b-d)N = rN$, giving $N_t = N_0 e^{rt}$, where r = the intrinsic rate of natural increase, N = the size of the population, b = birth rate and d = death rate.\n(iii) This is the exponential (J-shaped) growth curve, shown below.",
@@ -16944,8 +16944,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "text": "(a) Competitive release. It is the phenomenon in which a species whose distribution is restricted to a small geographical area (because of the presence of a competitively superior species) expands its distributional range when the competing superior species is removed.\nOR (a) Gause's competitive exclusion principle states that two closely related species competing for the same resources cannot co-exist indefinitely, and the competitively inferior one will be eliminated eventually.\n(b) Example: in the shallow South American lakes, the visiting flamingos and the resident fishes compete for their common food, zooplankton.\n(c) By 'resource partitioning' — the competing species choose different times for feeding or different foraging patterns. E.g. five closely related species of warblers avoid competition and co-exist owing to behavioural differences in their foraging activities."
@@ -16970,8 +16970,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "opt": "D",
@@ -17041,7 +17041,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "opt": "D",
@@ -17065,7 +17065,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "text": "(a)(i) Curve (a) – the food and space are unlimited (exponential growth); Curve (b) – the food and space are limited (logistic growth).\n(ii) Curve 'a' (the J-shaped curve).\n(iii) It represents the carrying capacity, which means the maximum number of individuals that a given environment can support and beyond which further growth is not possible."
@@ -17111,8 +17111,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Population Interactions",
      "answer": {
       "opt": "B",
@@ -17178,8 +17178,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Population Growth",
      "figures": [],
      "answer": {
@@ -17202,8 +17202,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Population Growth",
      "figures": [],
      "answer": {
@@ -17303,8 +17303,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Ecological Pyramids",
      "answer": {
       "text": "Limitations of the pyramid of numbers (any two):\n• It does not take into account the same species belonging to two or more trophic levels.\n• It assumes a simple food chain, which never exists in nature; it does not accommodate a food web.\n• Saprophytes are not given any place, even though they play an important ecological role."
@@ -17352,8 +17352,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Productivity",
      "answer": {
       "opt": "A",
@@ -17381,7 +17381,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Decomposition",
      "answer": {
@@ -17408,8 +17408,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
       "opt": "C",
@@ -17432,8 +17432,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Ecological Pyramids",
      "answer": {
       "text": "A — zooplankton;  B — phytoplankton.\nIt is an inverted pyramid of biomass, characteristic of a sea / aquatic ecosystem."
@@ -17458,8 +17458,8 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Ecological Pyramids",
      "answer": {
       "opt": "A",
@@ -17480,7 +17480,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Decomposition",
      "answer": {
       "text": "• Detritus rich in lignin and chitin decomposes slowly, whereas detritus rich in nitrogen and water-soluble substances such as sugar decomposes faster.\n• A warm environment favours decomposition, while a low temperature inhibits it."
@@ -17499,7 +17499,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Decomposition",
      "answer": {
@@ -17527,7 +17527,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
@@ -17599,8 +17599,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Decomposition",
      "answer": {
       "opt": "A",
@@ -17676,7 +17676,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Ecosystem Structure and Function",
      "answer": {
@@ -17717,7 +17717,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
@@ -17767,7 +17767,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Decomposition",
      "answer": {
@@ -17820,11 +17820,11 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
-      "text": "(a)(i) It is an inverted pyramid of biomass.\n(ii) Such pyramids are seen in aquatic ecosystems, where a small standing crop of phytoplankton supports a large standing crop of zooplankton or fish; or in a terrestrial ecosystem where a large number of insects feed on a single tree."
+      "text": "(a)(i) It is an inverted pyramid of biomass. Such pyramids are seen in aquatic conditions, where a small standing crop of phytoplankton supports a large standing crop of zooplankton or fish; or in a terrestrial ecosystem where a large number of insects feed on a single tree. (ii) Limitations of ecological pyramids (any two): they do not take into account a species that belongs to two or more trophic levels; they do not accommodate a food web; and the saprophytes (decomposers) are not given any place, even though they play a vital role in the ecosystem."
      }
     },
     {
@@ -17850,7 +17850,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Decomposition",
      "answer": {
       "opt": "C",
@@ -17874,7 +17874,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Energy Flow and Food Chains",
      "answer": {
       "text": "(a) Abiotic components of an ecosystem (any two): water, soil, sunlight, temperature, organic substances, inorganic substances.\n(b) Roles of the producers and the decomposers (see table).\nOR (c) A food chain in an aquatic ecosystem: phytoplankton $\\rightarrow$ zooplankton $\\rightarrow$ fish. The trophic levels are: phytoplankton = producers (1st trophic level); zooplankton = primary consumers (2nd trophic level); fish = secondary consumers (3rd trophic level). Only about 10 % of the energy is transferred to the next trophic level, because at each step some energy is dissipated and lost as heat to the environment.",
@@ -18072,7 +18072,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "figures": [],
@@ -18096,8 +18096,8 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "figures": [],
      "answer": {
@@ -18141,7 +18141,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "figures": [],
@@ -18167,7 +18167,7 @@
      "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
-      "text": "Limitations of ecological pyramids (any two): they do not take into account a species that belongs to two or more trophic levels; they do not accommodate a food web; and the saprophytes (decomposers) are not given any place, even though they play a vital role in the ecosystem."
+      "text": "(b)(i) Effects of the loss of biodiversity (any two): a decline in plant production; a lowered resistance to environmental perturbations such as drought; and increased variability in certain ecosystem processes, such as water use and pest and disease cycles. (ii) Major causes of the loss of biodiversity (any two): habitat loss and fragmentation; alien species invasion; over-exploitation; and co-extinction."
      }
     },
     {
@@ -18183,8 +18183,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
       "text": "(a) $2{\\cdot}4$ percent.\n(b) $8{\\cdot}1$ percent — India's share of the global species diversity."
@@ -18206,8 +18206,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
       "text": "(a) Species diversity decreases as we move from region A to region B.\nReasons (any two): a lower constant mean annual temperature; less habitable land area; lower availability of solar energy; lower productivity in region B.\n(b) India has more than 1200 species of birds, the Indian land mass lying largely in the tropical latitudes.\nOR The Amazonian rainforest (in South America) shows the greatest biodiversity, mainly because it lies in the tropical region."
@@ -18232,7 +18232,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
@@ -18254,7 +18254,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
       "text": "Examples of alien species causing a threat to native species (any):\n• The Nile perch introduced into Lake Victoria led to the extinction of more than 200 species of Cichlid fish.\n• The African catfish ($Clarias\\ gariepinus$) poses a threat to indigenous catfish.\n• $Parthenium$ (carrot grass) / $Lantana$ / water hyacinth ($Eichhornia$) pose a threat to native species."
@@ -18324,7 +18324,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
       "text": "(a) This region is less seasonal, with a constant and more predictable environment, and receives more solar energy — giving higher productivity and higher diversity. It represents the tropical latitudes, which have remained relatively undisturbed for millions of years and have had a long evolutionary time for species diversification. (Region I, by contrast, is a temperate region subjected to frequent glaciation, with less evolutionary time, a more seasonal and less predictable environment, and lower available solar energy — hence lower diversity.)\n(b) This is the latitudinal gradient in diversity.\n(c) Conventional taxonomic methods are not suitable for identifying microbial species, and many microbial species cannot be cultured under laboratory conditions."
@@ -18351,7 +18351,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
@@ -18375,7 +18375,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
@@ -18395,7 +18395,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
@@ -18444,7 +18444,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
@@ -18504,7 +18504,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
@@ -18528,7 +18528,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Loss of Biodiversity",
      "figures": [],
      "answer": {
@@ -18548,7 +18548,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Loss of Biodiversity",
      "answer": {
@@ -18568,7 +18568,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
@@ -18608,7 +18608,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Loss of Biodiversity",
      "answer": {
@@ -18628,7 +18628,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Apply",
      "difficulty": "Difficult",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
@@ -18657,8 +18657,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
       "opt": "A",
@@ -18678,7 +18678,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Difficult",
      "topic": "Loss of Biodiversity",
      "answer": {
@@ -18731,7 +18731,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "In-situ Conservation",
      "answer": {
@@ -18758,8 +18758,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
       "opt": "A",
@@ -18812,7 +18812,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Levels and Patterns of Biodiversity",
      "answer": {
       "text": "(a) Wildlife sanctuaries conserve the highest number of species; this is a form of in-situ conservation.\n(b) Zoological parks and botanical gardens are different — they are examples of ex-situ conservation (see table).\nOR (c)(i) The two features that make a region a biodiversity hotspot: a high level of species richness and a high degree of endemism.\n(ii) The conservation of sacred groves is an example of in-situ conservation — tracts of forest were set aside, and all the trees and wildlife within them were venerated and given total protection.",
@@ -18893,7 +18893,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Loss of Biodiversity",
      "answer": {
