@@ -49,7 +49,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Some Macroeconomic Identities",
      "answer": {
@@ -76,8 +76,8 @@
        "qno": "2-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
      "answer": {
@@ -98,7 +98,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
@@ -118,8 +118,8 @@
        "qno": "11-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "figures": [],
      "table": {
@@ -337,8 +337,8 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Nominal and Real GDP",
      "figures": [],
      "answer": {
@@ -391,8 +391,8 @@
        "qno": "5-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
      "answer": {
@@ -413,7 +413,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
@@ -433,7 +433,7 @@
        "qno": "11-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "figures": [],
@@ -454,7 +454,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Nominal and Real GDP",
      "answer": {
@@ -507,8 +507,8 @@
        "qno": "5-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "figures": [],
      "answer": {
@@ -530,7 +530,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "text": "National Income (NNP at FC) = Gross Domestic Product at Market Price (GDP at MP) – Depreciation + Net factor income from abroad – Net Indirect Taxes\n850 = 1,100 – Depreciation + 100 – 150\nDepreciation = 1,100 + 100 – 150 – 850\nDepreciation = ₹200 crore"
@@ -602,8 +602,8 @@
        "qno": "5-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "figures": [],
      "answer": {
@@ -667,7 +667,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
@@ -687,7 +687,7 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
@@ -714,8 +714,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "C",
@@ -790,7 +790,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "text": "Net Domestic Product at Factor Cost (NDP_FC) = Household Final Consumption Expenditure + Government Final Consumption Expenditure + Gross Domestic Fixed Capital Formation + Inventory Investment (Net) + (Exports − Imports) − Consumption of Fixed Capital − Net Indirect Taxes\n= 470 + 320 + 200 + (−40) + (50−60) − 35 − 50\n= ₹ 855 crore"
@@ -942,7 +942,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "GDP and Welfare",
      "answer": {
       "text": "(i) Externalities refer to benefits/harms which are caused by one entity to another without being paid/penalised for it.\n(ii) Positive externalities refer to benefits caused by one entity to another, without being paid for it. Whereas, negative externalities refer to the harms caused by one entity to another, without being penalised for it.\n(iii) Carbon pricing should be promoted by either placing a fee on emitting or offering subsidies on lesser emission. Through instruments like carbon tax, green cess, eco tax, etc. economy moves toward greener technology, eliminating negative externalities. Hence, carbon pricing is an important tool to ensure ecological balance."
@@ -968,7 +968,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "D",
@@ -1043,7 +1043,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "text": "National Income (NNP_FC) = Private Final Consumption Expenditure + Government Final Consumption Expenditure + Gross Domestic Fixed Capital Formation + Increase in stock + Net Exports − Consumption of Fixed Capital − (Indirect Taxes − Subsidies) + Net Factor Income from Abroad\n= 200 + 110 + 30 + 20 + (−40) − 15 − 60 + 15 + (−40)\n= ₹ 220 crore"
@@ -1062,7 +1062,7 @@
        "qno": "11-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "figures": [],
@@ -1083,8 +1083,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "answer": {
       "text": "(i) In a two-sector economy model, households are the owners of factors of production (Land, Labour, Capital, Entrepreneur). Firms combine these factors of production to produce goods and services. They make factor payments (Rent, Wages, Interest, Profits) to households, which in turn, are spent by the households on the consumption of final goods and services. Thus, the income earned by the factors of production flows back to the production units in the form of aggregate consumption expenditure, thereby completing the circular flow of income.\n(ii) Gross Domestic Product (GDP) measures the market value of all the final goods and services produced within the domestic territory of a country, during an accounting year. Gross Value Added (GVA) measures the value addition by each production unit in an economy, during an accounting year. Therefore, the sum of Gross Value Added (GVA) by the three sectors is always equal to the Gross Domestic Product of the economy."
@@ -1208,7 +1208,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "text": "Net National Product at Factor Cost (NNP_FC) = Household Consumption Expenditure + Government Final Consumption Expenditure + Business Fixed Investment Expenditure + Public fixed investment + Change in Inventory − Excess of Imports over Exports − Consumption of fixed capital − Net Indirect Taxes + Net factor Income from Abroad\n= 1,200 + 500 + 800 + 70 + (−50) − 100 − 200 − 150 + 80\n= ₹ 2,150 crore"
@@ -1228,7 +1228,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
      "answer": {
@@ -1248,7 +1248,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "GDP and Welfare",
      "answer": {
@@ -1274,8 +1274,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "D",
@@ -1335,7 +1335,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
       "text": "Depreciation on fixed capital goods = Fixed Capital / Expected Life Span = 15 / 5 = ₹3 lakh\nNet Value Added at Factor Cost (NVA_FC) = Domestic Sales + Exports + Change in stock − Single use producer goods − Depreciation − Net indirect taxes\n= 200 + 10 + (−10) − 120 − 3 − 20\n= ₹57 lakh"
@@ -1355,7 +1355,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "figures": [],
      "answer": {
@@ -1375,8 +1375,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "GDP and Welfare",
      "answer": {
       "text": "(a) The increased sales of electric vehicles may have positive impacts on both GDP and welfare. An increase in sales of E-vehicles directly contributes to the value addition in the economy which in turn leads to increase in Gross Domestic Product. Electric vehicles are generally considered environment-friendly and improve public welfare. (To be marked as a whole)\n(b) In a two-sector economy model, households are the owners of factors of production (Land, Labour, Capital, Entrepreneur). Firms combine these factors of production to produce goods and services. They make factor payments (Rent, Wages, Interest, Profits) to households, which in turn, are spent by the households on the consumption of final goods and services.\nThus, the income earned by the factors of production flows back to the production units in the form of aggregate consumption expenditure, thereby completing the circular flow of income. (To be marked as a whole)"
@@ -1467,7 +1467,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
       "text": "Net Value Added at Factor Cost (NVA_FC) = (iii) + (ii) – (iv) – (v) – {(vii) – (vi)}\n= 10,625 + 600 – 2,625 – 500 – {1,200 – 400}\n= ₹7,300 crore"
@@ -1486,7 +1486,7 @@
        "qno": "11-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "figures": [],
@@ -1527,8 +1527,8 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
      "answer": {
@@ -1554,8 +1554,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "answer": {
       "opt": "D",
@@ -1575,7 +1575,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "answer": {
@@ -1691,7 +1691,7 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
@@ -1773,7 +1773,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "GDP and Welfare",
      "answer": {
@@ -1793,7 +1793,7 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
@@ -1820,7 +1820,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
@@ -1841,7 +1841,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
@@ -1902,7 +1902,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "GDP and Welfare",
      "answer": {
@@ -1922,7 +1922,7 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
@@ -1949,8 +1949,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "B",
@@ -2015,7 +2015,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "text": "Domestic Income (NDP_FC) = (i) – (ii) – (v) – {(iii) – (iv)}\n= 2,500 – 200 – 50 – {20 – 50}\n= ₹2,280 lakh"
@@ -2055,7 +2055,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "GDP and Welfare",
      "answer": {
@@ -2128,7 +2128,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "C",
@@ -2198,7 +2198,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
       "text": "Value of Sales = (viii) – {(iv) – (iii)} + (v) – (i) + (vi)\n= 2,000 – (600 – 100) + 3,000 – 200 + 700\n= ₹5,000 lakh"
@@ -2285,7 +2285,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Some Basic Concepts of Macroeconomics",
      "answer": {
@@ -2313,8 +2313,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "A",
@@ -2361,8 +2361,8 @@
        "qno": 11
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "GDP and Welfare",
      "answer": {
       "text": "Gross Domestic Product (GDP) after adjusting for inflation (Real GDP) is a better measure of welfare than GDP at current prices (Nominal GDP). Real GDP is a true indicator of economic growth of a country as it changes only with the change in physical output. Thus, it eliminates the effect of changes in prices, showing the real growth of the economy. In contrast, Nominal GDP might change with the change in output or/and change in prices."
@@ -2381,8 +2381,8 @@
        "qno": "11-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "figures": [],
      "answer": {
@@ -2456,8 +2456,8 @@
        "qno": "13-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "figures": [],
      "answer": {
@@ -2483,8 +2483,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "opt": "D",
@@ -2603,7 +2603,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
       "text": "Net Domestic Product at Factor Cost (NDPFC) = (iv) - (iii) - (vii) = 200 - 50 - 10 = ₹140 crore\nNDPFC = Compensation of Employees + (v) + (i) + (vi) + (ii)\nCompensation of Employees = 140 - 25 - 45 - 5 - 20 = ₹45 crore"
@@ -2622,8 +2622,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
      "answer": {
       "text": "Stock Variable: National Savings.\nFlow Variables: National Income, Gross Domestic Product, Depreciation on capital goods, Investment on new capital goods.\nStock variables are those variables which are measured at a particular point of time whereas; flow variables are those variables which are measured over a period of time."
@@ -2642,7 +2642,7 @@
        "qno": "13-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Nominal and Real GDP",
      "figures": [],
@@ -2670,8 +2670,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Some Basic Concepts of Macroeconomics",
      "answer": {
       "opt": "B",
@@ -2723,7 +2723,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
       "opt": "D",
@@ -2763,7 +2763,7 @@
        "qno": "11-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
@@ -2868,8 +2868,8 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "GDP and Welfare",
      "figures": [],
      "answer": {
@@ -2922,7 +2922,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Some Macroeconomic Identities",
      "answer": {
@@ -3036,7 +3036,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Some Macroeconomic Identities",
      "answer": {
       "text": "Gross Domestic Product at Market Price (GDPMP) = (i) + (ii) + {(iv) + (v) + (vi) + (viii)} – (iii) = 800 + 700 + {100 + 50 + 300 + 130} - 200 = ₹1,880 crore.\nGross Domestic Product at Factor Cost (GDPFC) = GDPMP – (vii) = 1,880 – 70 = ₹1,810 crore."
@@ -3076,8 +3076,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "GDP and Welfare",
      "answer": {
       "text": "(i) Domestic Product refers to the value of all final goods and services arising out of economic activity within the domestic territory of a country over a specific period of time. National Product measures the value of all final goods and services arising out of economic activity undertaken by the normal residents of a country over a specific period of time.\n(ii) National Income measured at constant prices is a better indicator of the overall real increase in production of the country as it changes only with the change in physical output. Thus, it eliminates the effect of changes in prices, showing the real growth of the economy. In contrast, National Income measured at current year prices might change with the change in output or/and change in prices. (To be marked as a whole)"
@@ -3102,8 +3102,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Nominal and Real GDP",
      "answer": {
       "opt": "A",
@@ -3130,7 +3130,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
@@ -3233,7 +3233,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Circular Flow of Income and Methods of Calculating National Income",
      "answer": {
       "text": "Income from Property and Entrepreneurship = (ii) + (iv) + (vi) + (v) + (ix) + (viii) = 700 + 200 + 350 + 100 + 200 + 150 = ₹1,700 crore."
@@ -3272,7 +3272,7 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Some Basic Concepts of Macroeconomics",
      "figures": [],
@@ -3339,7 +3339,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
@@ -3366,8 +3366,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "D",
@@ -3387,8 +3387,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "Inflation in the economy may be the cause behind the rise in the benchmark lending rate by the Central bank.\nThis step may force the commercial banks to increase the cost of borrowing for the general public. It may discourage the general public from taking loans. As a result, it may lead to fall in Aggregate Demand and subsequent fall in inflation. (Any other valid explanation to be allotted marks)"
@@ -3427,7 +3427,7 @@
        "qno": "15-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "figures": [],
@@ -3454,8 +3454,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "A",
@@ -3481,7 +3481,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
@@ -3508,7 +3508,7 @@
        "qno": "10-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Policy Tools to Control Money Supply",
      "figures": [],
@@ -3530,8 +3530,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Money Creation by Banking System",
      "answer": {
       "text": "The given statement is true. This can be proved with the help of the following example. The process of credit creation is based on the assumptions that the entire banking system is a single unit and all transactions are routed through the bank only.\nWhen a commercial bank receives initial/primary deposits (say ₹1,000), as per the requirement of the Central Bank, it has to maintain some reserves (say 20%). The remaining amount is made available for loans. The lent sum of money is received back in the next round of deposits as secondary deposits.\nRound 1: Deposits ₹1,000, Loans ₹800, Reserves ₹200\nRound 2: Deposits ₹800, Loans ₹640, Reserves ₹160\nRound 3: Deposits ₹640, Loans ₹512, Reserves ₹128\n...and so on, till Total Deposits ₹5,000, Total Loans ₹4,000, Total Reserves ₹1,000.\nTotal deposit creation = Initial deposits x (1/Reserve Ratio) = 1,000 x (1/0.2) = ₹5,000\nThis process of deposit, reserve and lending continues till initial deposits become equal to the sum total of reserves. (To be marked as a whole)"
@@ -3550,8 +3550,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "(a) Repo rate refers to the rate at which the Central Bank lends to the commercial banks for their short-term requirements.\n(b) The Monetary Policy Committee of Reserve Bank of India raised the repo rate by 50 basis points.\n(c) To deal with the situation of inflation, the Monetary Policy Committee (MPC) of Reserve Bank of India has increased the repo rate. An increase in repo rate will force the commercial banks to increase their lending rates making the credit costlier for the general public. Thereby, discouraging the borrowings. Consequently, Aggregate Demand will fall and thereby correcting the problem of inflation in the economy. (To be marked as a whole)"
@@ -3577,7 +3577,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "C",
@@ -3603,8 +3603,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "opt": "A",
@@ -3624,7 +3624,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
@@ -3644,7 +3644,7 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "figures": [],
@@ -3665,7 +3665,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
@@ -3718,7 +3718,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
@@ -3738,7 +3738,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
@@ -3764,8 +3764,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Functions of Money",
      "answer": {
       "opt": "C",
@@ -3812,8 +3812,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "Inflation in the economy may be the cause behind the rise in repo rate by the Monetary Policy Committee (MPC) of Reserve Bank of India (RBI).\nThis step may force commercial banks to increase the lending rates. It may discourage the borrowings by the general public. This may lead to fall in Aggregate Demand and thus may result in fall in rate of inflation.\n(Any other valid explanation to be allotted marks)"
@@ -3880,7 +3880,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "D",
@@ -3907,7 +3907,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "C",
@@ -3947,8 +3947,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "(a) Inflation in the economy may be the economic issue indicated in the above text. The situation of excess demand may be the underlying cause behind the decision taken by the Reserve Bank of India (RBI) to keep the benchmark lending rate unchanged at 6.5%. (Any other valid economic issue may be awarded marks)\n(b) If the rate setting panel would have decreased the benchmark lending rate, the commercial banks may reduce their lending rates. Consequently, it may encourage the borrowings by the general public leading to an increase in the money supply in the economy."
@@ -4001,7 +4001,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "opt": "C",
@@ -4115,8 +4115,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "D",
@@ -4136,8 +4136,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "The Reserve Bank of India (RBI) can regulate the money supply in the economy by the sale/purchase of government securities in the open market. When RBI sells government securities, the availability of funds with commercial banks reduces, which in turn curtails their lending capacity. Consequently, the money supply in the economy falls. On the contrary, when RBI buys government securities, the availability of funds with commercial banks rises, which in turn increases their lending capacity. Consequently, the money supply in the economy rises."
@@ -4183,8 +4183,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "A",
@@ -4211,7 +4211,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "D",
@@ -4257,8 +4257,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Functions of Money",
      "answer": {
       "opt": "D",
@@ -4284,7 +4284,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Money Creation by Banking System",
      "answer": {
@@ -4305,8 +4305,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "The Reserve Bank of India (RBI) can regulate the money supply in the economy by the sale/purchase of government securities in the open market.\nWhen RBI sells government securities, the availability of funds with commercial banks reduces, which in turn curtails their lending capacity. Consequently, the money supply in the economy falls.\nOn the contrary, when RBI buys government securities, the availability of funds with commercial banks rises, which in turn increases their lending capacity. Consequently, the money supply in the economy rises. (To be marked as a whole)"
@@ -4331,8 +4331,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Functions of Money",
      "answer": {
       "opt": "C",
@@ -4358,8 +4358,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "A",
@@ -4380,7 +4380,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "text": "Given, Primary Deposits = ₹500, Reserve Ratio = 25%\nTotal deposits = Primary deposits × (1/Reserve Ratio) = 500 × (1/0.25) = ₹2,000\nTotal lending = Total deposits – Primary deposits = 2,000 – 500 = ₹1,500"
@@ -4399,7 +4399,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
@@ -4425,7 +4425,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
@@ -4452,8 +4452,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "A",
@@ -4473,7 +4473,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
@@ -4513,7 +4513,7 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "figures": [],
@@ -4541,7 +4541,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "opt": "D",
@@ -4561,8 +4561,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Money Creation by Banking System",
      "answer": {
       "text": "(a) The process of credit creation is based on the assumptions that the entire banking system is a single unit and all transactions are routed through the bank only. When a commercial bank receives primary deposits (say ₹1,000), it has to maintain some statutory reserves (say 20%). The remaining amount is made available for loans. The lent sum of money is received back in the next round of deposits as secondary deposits. Total Deposits = Primary Deposits × (1/Reserve Ratio) = 1,000 × (1/0.2) = ₹5,000. This process continues till the sum total of reserves becomes equal to primary deposits.\n(b)(i) The indicated function of money is 'Unit of account'.\n(ii) Two other functions of money are: medium of exchange; standard of deferred payments. (Any other valid function to be awarded marks)"
@@ -4588,7 +4588,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "opt": "D",
@@ -4609,7 +4609,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "text": "(a) The indicated function of money is 'medium of exchange'. Money acts as a universally acceptable medium for any transaction. Money serves as a medium for buying/selling goods and services. It eliminates the limitation of lack of double coincidence of wants by facilitating exchange in the market.\n(b) M1 measure of money supply refers to the total volume of money held by the public at a particular point of time in the economy. The two components of M1 measure of money supply are: currency (notes and coins) held by the public; net demand deposits held by commercial banks.\n(c) Credit Multiplier = 1 / Reserve Ratio."
@@ -4634,8 +4634,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "B",
@@ -4661,8 +4661,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "C",
@@ -4783,7 +4783,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
@@ -4803,8 +4803,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "Margin requirement refers to the difference between the amount of the loan and the value of the security offered by the borrower against the loan. To correct the situation of the deflationary gap, the Central Bank may reduce the margin requirement. It may lead to an increase in the amount of loan available on the security offered. This will increase the availability of credit and consequently, the Aggregate Demand in the economy will increase. Thus, by altering the margin requirements, the Central Bank can alter the amount of loans made against securities by the banks."
@@ -4856,7 +4856,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
@@ -4883,8 +4883,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "C",
@@ -4904,7 +4904,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
@@ -4930,8 +4930,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Functions of Money",
      "answer": {
       "opt": "D",
@@ -4957,8 +4957,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
       "opt": "C",
@@ -4985,7 +4985,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "D",
@@ -5006,7 +5006,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Money Creation by Banking System",
      "answer": {
       "text": "Case I: Initial Deposits ₹1,000 crore, Money Multiplier 4, Credit Created = 1,000 x 4 = ₹4,000 crore.\nCase II: Initial Deposits ₹1,000 crore, Money Multiplier 5, Credit Created = 1,000 x 5 = ₹5,000 crore.\nThe above example depicts that there exists a direct relationship between money multiplier and the total amount of credit created by the commercial banks."
@@ -5046,8 +5046,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "(i) The economic issue indicated in the above text may be prevailing deflation in the economy.\n(ii) The Reserve Bank of India (RBI) announced a 50 basis point Repo Rate cut to 5.50% from 6% with an objective to curb deflationary situation by increasing Aggregate Demand. A cut in Repo Rate may encourage the commercial banks to decrease their lending rates. Consequently, making credit more affordable for the general public. This may stimulate borrowings, leading to an increase in Aggregate Demand in the economy."
@@ -5066,8 +5066,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "The monetary measure being exercised in the text above by the Reserve Bank of India (RBI) is Margin Requirement. Margin requirement refers to the difference between the amount of the loan and the value of the security offered by the borrower against the loan. An increase in the loan amount to 90% of the security value, from the prior rate of 80% reflects a reduction in margin requirement which in turn encourages the public to borrow more. Consequently, money supply will increase leading to increase in the Aggregate Demand in the economy."
@@ -5086,8 +5086,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "(i) A Bank is an institution which accepts deposits from the public and advances loans.\n(ii) Two traits that distinguish Central Bank from Commercial Bank: Commercial banks accept deposits and grant loans to the public whereas Central bank does not directly deal with the public; Commercial banks create credit whereas the Central Bank is responsible for controlling credit creation in the economy. (Any other valid trait to be awarded marks)\n(iii) The Reserve Bank of India (RBI) can regulate the money supply in the economy by the sale/purchase of government securities in the open market. When RBI sells government securities, the availability of funds with commercial banks reduces, which in turn curtails their lending capacity. Consequently, the money supply in the economy reduces. On the contrary, when RBI buys government securities, the availability of funds with commercial banks rises, which in turn increases their lending capacity. Consequently, the money supply in the economy rises. (To be marked as a whole)"
@@ -5167,8 +5167,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "C",
@@ -5208,8 +5208,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "(i) The decision of the Monetary Policy Committee (MPC) to reduce Cash Reserve Ratio (CRR) addresses the deflationary pressure in the economy. The rationale behind this reduction was to ensure infusion of greater liquidity in the economy to maintain overall economic stability. Reduction in the CRR will lead to greater availability of funds with the commercial banks, which may increase the lending capacity of commercial banks. Thereby, reducing CRR, will increase the money supply and Aggregate Demand in the economy, ultimately addressing the issue of deficient demand.\n(ii) Cash Reserve Ratio (CRR) refers to the percentage of deposits which commercial banks are required to keep as cash reserves with the Central Bank."
@@ -5234,7 +5234,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Demand for Money and Supply of Money",
      "answer": {
@@ -5262,8 +5262,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Money Creation by Banking System",
      "answer": {
       "opt": "A",
@@ -5352,8 +5352,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Policy Tools to Control Money Supply",
      "answer": {
       "text": "(i) The likely cause behind reduction in Cash Reserve Ratio (CRR) by Reserve Bank of India (RBI) is to stimulate private consumption and investment in the economy, thereby controlling deficient demand/deflation.\n(ii) A decrease in the CRR by the Reserve Bank of India may lead to greater availability of funds with commercial banks. This may increase the lending capacity of commercial banks. Thereby, increasing the money supply and Aggregate Demand in the economy ultimately addressing the issue of deficient demand."
@@ -5392,7 +5392,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "opt": "A",
@@ -5446,7 +5446,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -5473,7 +5473,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -5500,7 +5500,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -5521,7 +5521,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -5601,8 +5601,8 @@
        "qno": "9-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "figures": [],
      "answer": {
@@ -5623,7 +5623,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -5698,7 +5698,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "opt": "B",
@@ -5724,8 +5724,8 @@
        "qno": "6-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "The Multiplier Mechanism",
      "figures": [],
      "answer": {
@@ -5753,7 +5753,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
       "text": "One mark to be allotted to all the candidates."
@@ -5800,7 +5800,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "Given, C = 100 + 0.75Y; I0 = 200\n(a) At equilibrium level of income, Y = C + I. Y = (100 + 0.75Y) + 200. 0.25Y = 300. Y = 1,200.\n(b) At the Equilibrium level of income, AD = Y. Therefore AD = 1,200.\n(c) MPS = 1 – MPC = 1 – 0.75 = 0.25\n(Any other valid method to be allotted marks)"
@@ -5853,7 +5853,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "opt": "B",
@@ -5880,7 +5880,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "The Multiplier Mechanism",
      "figures": [],
      "answer": {
@@ -5907,7 +5907,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -5934,7 +5934,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -5956,7 +5956,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "Given, C = 80 + 0.75Y; I = ₹200 crore\nAt the equilibrium level, Y = C + I. Y = (80 + 0.75Y) + 200. 0.25Y = 280. Y = 280/0.25 = ₹1,120 crore\n(a) At equilibrium level of Income, Y = ₹1,120 crore\n(b) C = 80 + 0.75(1120) = ₹920 crore. Y = C + S. S = 1120 – 920 = ₹200 crore. (Any other valid calculation/method to be allotted marks correctly)"
@@ -5975,7 +5975,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some More Concepts",
      "answer": {
@@ -6028,8 +6028,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "opt": "A",
@@ -6055,8 +6055,8 @@
        "qno": "6-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "figures": [],
      "answer": {
@@ -6110,7 +6110,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -6131,7 +6131,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some More Concepts",
      "answer": {
@@ -6211,7 +6211,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -6239,7 +6239,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Easy",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "opt": "B",
@@ -6279,7 +6279,7 @@
        "qno": "13-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "figures": [],
@@ -6333,8 +6333,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "D",
@@ -6360,7 +6360,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -6387,7 +6387,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -6409,7 +6409,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Some More Concepts",
      "answer": {
       "text": "Given, ΔI = ₹10,000 crore. Marginal Propensity to Consume (MPC) = 80% of additional income consumed i.e. 0.8.\nK = 1/(1−MPC) = 1/(1−0.8) = 5\nIncrease in Income (ΔY) = K × ΔI = 5 × 10,000 = ₹50,000 crore\nMPC = ΔC/ΔY → 0.8 = ΔC/50,000 → ΔC = ₹40,000 crore"
@@ -6429,7 +6429,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
       "text": "Yes. If the actual demand for final goods falls short of the actual output corresponding to full employment level, it implies that demand by all the consumers and firms is less than the level of output produced at full employment level. Consequently, it may lead to an increase in the stock of unsold goods lying with the firms. Thereby, it may lead to an unintended accumulation of inventories."
@@ -6477,7 +6477,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -6531,8 +6531,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
       "opt": "D",
@@ -6626,7 +6626,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "D",
@@ -6675,8 +6675,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "B",
@@ -6750,7 +6750,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some More Concepts",
      "answer": {
@@ -6771,7 +6771,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "Given, Y = ₹40,000 crore, Marginal Propensity to Consume (MPC) = 0.8, Autonomous Consumption = ₹100 crore.\nAt equilibrium level of income, Y = C + I → Y = c̄ + (MPC)Y + I → 40,000 = 100 + (0.8) × 40,000 + I\nInvestment Expenditure (I) = ₹7,900 crore"
@@ -6790,7 +6790,7 @@
        "qno": "15-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some More Concepts",
      "figures": [],
@@ -6871,8 +6871,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "B",
@@ -6898,8 +6898,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "(B) II and III [the marking scheme also accepted (C) III and IV as correct, owing to ambiguity in the figure]."
@@ -6924,7 +6924,7 @@
        "qno": "9-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "figures": [],
@@ -6947,7 +6947,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "At equilibrium level of income, Y = C + I\nY = c̄ + (MPC) Y + I\n10,000 = 100 + (0.8) × 10,000 + I\nI = ₹1,900 crore"
@@ -6966,7 +6966,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -6986,7 +6986,7 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "figures": [],
@@ -7040,8 +7040,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "D",
@@ -7062,7 +7062,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
       "text": "Given, C = 200 + 0.75Y, Investment Expenditure = ₹4,000 crore\n(i) At equilibrium level of income, Y = C + I\nY = 200 + 0.75Y + 4,000\nY = ₹16,800 crore\n(ii) Total consumption expenditure at equilibrium level of income = 200 + 0.75Y = 200 + 0.75(16,800) = ₹12,800 crore"
@@ -7081,7 +7081,7 @@
        "qno": "15-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "figures": [],
@@ -7108,7 +7108,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7135,7 +7135,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -7189,7 +7189,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7211,7 +7211,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "text": "Given, Change in Investment (ΔI) = ₹1,200 crore, Marginal Propensity to Consume (MPC) = 0.8\n(a) Investment Multiplier (K) = 1/(1 – MPC) = 1/(1 – 0.8) = 5\nChange in Income (ΔY) = K × Change in Investment (ΔI) = 5 × 1,200 = ₹6,000 crore\n(b) MPC = Change in Consumption (ΔC) / Change in Income (ΔY)\n0.8 = ΔC / 6,000\nChange in Consumption (ΔC) = ₹4,800 crore"
@@ -7236,7 +7236,7 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7290,7 +7290,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7312,7 +7312,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "Given, Autonomous Consumption Expenditure (c̄) = ₹250 crore, Marginal Propensity to Save (MPS) = 0.2, Autonomous Investments (I₀) = ₹200 crore\nMarginal Propensity to Consume (MPC) = 1 – MPS = 1 – 0.20 = 0.80\nAt Break-even level of income: Y = C\nY = c̄ + (MPC)Y\nY = 250 + 0.80Y\nY = ₹1,250 crore\nAt equilibrium level of income: Y = C + I\nY = (250 + 0.80Y) + 200\nY = ₹2,250 crore"
@@ -7331,7 +7331,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Some More Concepts",
      "answer": {
@@ -7357,7 +7357,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7411,7 +7411,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7433,7 +7433,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "Given, Autonomous Consumption (c̄) = ₹400 crore, Investment Expenditure (I) = ₹2,000 crore. For economy A, MPC = 0.8; for economy B, MPC = 0.6.\n(a) At break-even level for economy A: Y = C\nY = c̄ + (MPC)Y\nY = 400 + 0.8Y\nY = ₹2,000 crore\n(b) Equilibrium level of income for economy B: Y = C + I\nY = c̄ + (MPC)Y + I\nY = 400 + 0.6Y + 2,000\nY = ₹6,000 crore"
@@ -7452,7 +7452,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7479,7 +7479,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "opt": "C",
@@ -7506,7 +7506,7 @@
       }
      ],
      "bloom": "Understand",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "C",
@@ -7594,8 +7594,8 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Some More Concepts",
      "answer": {
       "opt": "B",
@@ -7616,7 +7616,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "text": "(a) Marginal Propensity to Consume (MPC) = 1 – MPS = 1 – 0.2 = 0.8\nAggregate Demand (AD) = C + I = c̄ + (MPC)Y + I = 50 + (0.8 × 4,000) + 100 = ₹3,350 crore\n(b) Propensity to Consume refers to tendency of individuals to spend a portion of their income on consumption."
@@ -7635,7 +7635,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7655,7 +7655,7 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "The Multiplier Mechanism",
      "figures": [],
@@ -7709,7 +7709,7 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -7736,7 +7736,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7784,7 +7784,7 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7838,8 +7838,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "D",
@@ -7859,7 +7859,7 @@
        "qno": 15
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -7879,7 +7879,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -7925,7 +7925,7 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "figures": [],
@@ -7952,8 +7952,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "A",
@@ -7979,8 +7979,8 @@
        "qno": "1-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "figures": [],
      "answer": {
@@ -8028,7 +8028,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -8081,7 +8081,7 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Some More Concepts",
      "figures": [],
@@ -8142,7 +8142,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
@@ -8218,7 +8218,7 @@
       }
      ],
      "bloom": "Apply",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The Multiplier Mechanism",
      "answer": {
       "text": "Given, Increase in Income (ΔY) = ₹50,000 crore; Marginal Propensity to Save (MPS) = 0.5. Investment Multiplier (K) = 1/MPS = 1/0.5 = 2. Also, Investment Multiplier (K) = Change in Income (ΔY) / Change in Investment (ΔI); 2 = 50,000 / Change in Investment (ΔI). Change in Investment (ΔI) = ₹25,000 crore."
@@ -8243,8 +8243,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "C",
@@ -8271,8 +8271,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
       "opt": "C",
@@ -8298,7 +8298,7 @@
        "qno": "7-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "figures": [],
@@ -8347,7 +8347,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Determination of Equilibrium Income in the Short Run",
      "answer": {
@@ -8367,7 +8367,7 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "The Multiplier Mechanism",
      "figures": [],
@@ -8395,8 +8395,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Aggregate Demand and its Components",
      "answer": {
       "opt": "C",
@@ -8422,7 +8422,7 @@
        "qno": "2-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Aggregate Demand and its Components",
      "figures": [],
@@ -8507,8 +8507,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Some More Concepts",
      "answer": {
       "text": "(i) See table for the completed schedule (AD at Y=100 is 140; AD at Y=200 is 220).\n(ii) Effective Demand refers to that level of Aggregate Demand (AD) which can be met by the corresponding Aggregate Supply (AS) in the economy.\n(iii) No. At Y = 200, Aggregate Demand (AD) is greater than the Aggregate Supply (AS). When ex-ante Aggregate Demand is more than ex-ante Aggregate Supply, it means that the households and firms are planning to consume more than what the firms are planning to produce. Thus, the inventories with the producers will fall below the desired level. As a result, the producers may increase the output to restore the desired stock of inventories till the equilibrium level of output is attained. (To be marked as a whole)",
@@ -8643,8 +8643,8 @@
        "qno": 1
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
       "opt": "A",
@@ -8670,8 +8670,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Objectives of Government Budget",
      "answer": {
       "opt": "B",
@@ -8691,8 +8691,8 @@
        "qno": 15
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "Direct Taxes refer to those taxes whose impact and incidence lie on the same entity. Its burden cannot be shifted. For example: Wealth tax, Corporate tax etc.\nIndirect Taxes refer to those taxes whose impact and incidence may lie on different entities. Its burden can be shifted. For example: Goods and services tax, Excise duty etc. (Any other valid definition/explanation/example to be allotted marks)"
@@ -8711,8 +8711,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "(a)(i) Krish is suggesting the objective of 'Re-distribution of income' to reduce income inequalities in the economy. To ensure equitable distribution of income, the government may impose higher taxes on luxury items. This will reduce the purchasing power in the hands of rich. On the other hand, lower/no taxes may be imposed on commodities purchased by poorer section of society. They may also be provided with subsidies on the essential commodities. This may increase their disposable income. These steps may promote economic welfare through re-distribution of income in the economy.\n(ii) Two examples of non-tax receipts of the Government: Dividends and profits on investments; Fees and other receipts. (Any other relevant example to be awarded marks)"
@@ -8731,8 +8731,8 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Measures of Government Deficit",
      "figures": [],
      "answer": {
@@ -8752,8 +8752,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Measures of Government Deficit",
      "answer": {
       "text": "(a)(i) The government budget objective of 'Redistribution of Income' is indicated in the given statement. Government can influence inequalities of income through taxes and public expenditure. It can impose taxes on the rich reducing their disposable income. It can spend on free goods and services like food grains to the families below poverty line to ensure their welfare/raising their standard of living. (To be marked as a whole)\n(ii)(1) Revenue deficit is defined as the excess of revenue expenditure of the government over its revenue receipts.\n(2) Primary deficit is defined as the difference between fiscal deficit and interest payments."
@@ -8772,8 +8772,8 @@
        "qno": "17-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Measures of Government Deficit",
      "figures": [],
      "answer": {
@@ -8793,8 +8793,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "(a) Tax receipts — Individual Income Tax, Property Tax, Corporate Income Tax and Sales & Gross Receipts Tax.\nNon-tax receipts — Motor Vehicle License Fee and Fines.\n(b) Government's budgetary policy has two aspects — taxation and public expenditure. To reduce inequalities in income and wealth, the government may adopt an expenditure policy which is in favour of lower income groups. Government expenditure on providing free services like education and health to the poor may positively affect their disposable income.\nConsequently, budgetary policy of the government can be used to reduce inequalities of income.\n(To be marked as a whole)"
@@ -8813,7 +8813,7 @@
        "qno": 16
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Classification of Receipts",
      "answer": {
@@ -8834,7 +8834,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Measures of Government Deficit",
      "figures": [],
      "answer": {
@@ -8854,8 +8854,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "(i) Direct taxes are those taxes whose impact and incidence lies on the same entity. In other words, the liability of paying direct taxes can't be shifted. For example: income tax.\nWhereas, indirect taxes are those taxes whose impact and incidence may lie on different entities. In other words, the liability of paying indirect taxes can be shifted. For example: GST.\n(ii) The government budget objective of 'Redistribution of Income' aims to bring about equality in the distribution of income. Government can reduce inequalities of income through taxes and public expenditure. It may impose high taxes on the rich to reduce their disposable income. Furthermore, government may incur more public expenditure for the welfare of the poor, like providing free services etc. By adopting these measures, the government tries to bridge the gap between the rich and the poor."
@@ -8950,8 +8950,8 @@
        "qno": 16
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "(i) It is a revenue receipt as it neither creates any liability nor reduces any asset of the government.\n(ii) It is a capital receipt as it reduces the assets of the government.\n(iii) It is a capital receipt as it reduces the assets of the government."
@@ -9086,8 +9086,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Government Budget – Meaning and its Components",
      "answer": {
       "text": "The highlighted statement exhibits the Revenue Expenditure. Revenue expenditure is the expenditure that neither leads to creation of assets nor leads to reduction in liabilities of the government.\nThe indicated objective of the government budget is the 'Redistribution Function'.\nFree medical treatment under the Ayushmaan Bharat Scheme aims to bring equity in the income distribution in the economy. Such services to poorer sections of society reduce their medical expenses, leaving higher disposable income in their hands, thereby bridging the gap between the rich and the poor."
@@ -9112,8 +9112,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Measures of Government Deficit",
      "answer": {
       "opt": "D",
@@ -9166,7 +9166,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Measures of Government Deficit",
      "answer": {
@@ -9187,7 +9187,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
@@ -9207,7 +9207,7 @@
        "qno": "12-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Classification of Receipts",
      "figures": [],
@@ -9288,8 +9288,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Measures of Government Deficit",
      "answer": {
       "opt": "A",
@@ -9309,7 +9309,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Government Budget – Meaning and its Components",
      "answer": {
@@ -9335,8 +9335,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Objectives of Government Budget",
      "answer": {
       "opt": "C",
@@ -9362,8 +9362,8 @@
        "qno": 6
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Measures of Government Deficit",
      "answer": {
       "opt": "B",
@@ -9410,7 +9410,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Government Budget – Meaning and its Components",
      "answer": {
@@ -9451,7 +9451,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Government Budget – Meaning and its Components",
      "answer": {
       "text": "(a) Yes, Micro, Small, and Medium Enterprises (MSME) sector is one of the key engines in India's journey of development, along with agriculture, investment, and exports. The MSME sector plays a pivotal role in manufacturing sector, exports and employment generation.\n(b) The key measures initiated by the Government for strengthening MSMEs are supportive initiatives like Udyam registration portal, PM Vishwakarma, PMEGP, SFURTI, and the Public Procurement Policy to integrate and empower MSMEs."
@@ -9471,7 +9471,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "(i) The two types of taxes indicated in the above text are direct and indirect taxes. Direct taxes are those taxes whose impact and incidence lies on the same entity. In other words, the liability of paying direct taxes can't be shifted. For example: Income tax etc.\nIndirect taxes are those taxes whose impact and incidence may lie on different entities. In other words, the liability of paying indirect taxes can be shifted. For example: Goods and Services Tax (GST) etc.\n(ii) The projected increase in tax revenues is likely to strengthen the government's revenue base. Overall, this balanced tax strategy will help mobilise resources, support fiscal consolidation and promote sustainable economic growth."
@@ -9490,7 +9490,7 @@
        "qno": 17
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
@@ -9544,8 +9544,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Objectives of Government Budget",
      "answer": {
       "opt": "A",
@@ -9565,8 +9565,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Classification of Expenditure",
      "answer": {
       "text": "Revenue expenditure is the expenditure of the government that neither leads to creation of assets nor reduction in liabilities of the government. For example: Salaries paid to government employees.\nCapital expenditure is the expenditure of the government that either leads to creation of assets or reduction in liabilities of the government. For example: Construction of flyovers. (Any other valid example to be awarded marks)"
@@ -9585,8 +9585,8 @@
        "qno": "13-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Classification of Receipts",
      "figures": [],
      "answer": {
@@ -9626,7 +9626,7 @@
        "qno": "16-OR"
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Evaluate",
      "difficulty": "Difficult",
      "topic": "Measures of Government Deficit",
      "figures": [],
@@ -9648,7 +9648,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Classification of Receipts",
      "answer": {
       "text": "(i) The two types of taxes indicated in the above text are direct and indirect taxes. Direct taxes are those taxes whose impact and incidence lies on the same entity. In other words, the liability of paying direct taxes can't be shifted. For example: Income tax etc. Indirect taxes are those taxes whose impact and incidence may lie on different entities. In other words, the liability of paying indirect taxes can be shifted. For example: Goods and Services Tax (GST) etc.\n(ii) The higher growth rate projected for direct taxes suggests a push to enhance tax buoyancy through improved tax compliance and reforms, while indirect taxes are expected to benefit from consumption trends and Goods and Services Tax (GST) administration improvements. (To be marked as a whole)"
@@ -9713,8 +9713,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Current Account",
      "answer": {
       "opt": "C",
@@ -9740,8 +9740,8 @@
        "qno": "8-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Current Account",
      "figures": [],
      "answer": {
@@ -9815,8 +9815,8 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Balance of Payments",
      "answer": {
       "opt": "D",
@@ -9842,8 +9842,8 @@
        "qno": 7
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Current Account",
      "answer": {
       "opt": "C",
@@ -9863,7 +9863,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -9883,7 +9883,7 @@
        "qno": "12-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Balance of Payments",
      "figures": [],
@@ -9910,8 +9910,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "B",
@@ -9965,7 +9965,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "C",
@@ -9992,7 +9992,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Foreign Exchange Rate",
      "figures": [],
      "answer": {
@@ -10038,8 +10038,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Balance of Payments",
      "answer": {
       "opt": "C",
@@ -10119,8 +10119,8 @@
        "qno": "8-OR"
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Balance of Payments",
      "figures": [],
      "answer": {
@@ -10161,7 +10161,7 @@
        "qno": "12-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Current Account",
      "figures": [],
@@ -10188,8 +10188,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "C",
@@ -10215,7 +10215,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Capital Account",
      "answer": {
@@ -10242,8 +10242,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "B",
@@ -10269,8 +10269,8 @@
        "qno": "8-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Balance of Payments",
      "figures": [],
      "answer": {
@@ -10291,7 +10291,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -10311,7 +10311,7 @@
        "qno": "12-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "figures": [],
@@ -10338,8 +10338,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Capital Account",
      "answer": {
       "opt": "D",
@@ -10365,7 +10365,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Capital Account",
      "answer": {
@@ -10392,8 +10392,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Current Account",
      "answer": {
       "opt": "C",
@@ -10413,7 +10413,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -10439,8 +10439,8 @@
        "qno": 2
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "B",
@@ -10466,8 +10466,8 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Capital Account",
      "answer": {
       "opt": "B",
@@ -10493,7 +10493,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Capital Account",
      "answer": {
@@ -10514,7 +10514,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "answer": {
@@ -10561,8 +10561,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "D",
@@ -10701,7 +10701,7 @@
        "qno": 1
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -10729,7 +10729,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "D",
@@ -10755,7 +10755,7 @@
        "qno": 5
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -10776,7 +10776,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "answer": {
@@ -10802,7 +10802,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Current Account",
      "answer": {
@@ -10829,8 +10829,8 @@
        "qno": 8
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "C",
@@ -10856,7 +10856,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Balance of Payments Surplus and Deficit",
      "answer": {
@@ -10878,7 +10878,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Current Account",
      "answer": {
       "text": "The given statement is refuted. The Current Account Deficit (CAD) is a broader concept. CAD occurs when the foreign exchange payments on account of visible, invisibles and unilateral transfers are in excess over the foreign exchange receipts of visible, invisibles and unilateral transfers.\nA country may face a situation of CAD, even if the country has trade surplus, with negative balances on account of services and unilateral transfers. (To be marked as a whole)"
@@ -10904,7 +10904,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Current Account",
      "answer": {
       "opt": "D",
@@ -10957,7 +10957,7 @@
        "qno": 9
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Easy",
      "topic": "Current Account",
      "answer": {
@@ -10978,7 +10978,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -10998,8 +10998,8 @@
        "qno": 17
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "answer": {
       "text": "(a) Balance of Payments (BoP) systematically summarise the economic transactions between the residents of a country and the rest of the world, over a given period of time.\n(b) The two accounts of Balance of Payments are Current Account and Capital Account. Current Account records the trade in goods & services and transfer payments to/from abroad. The current account may be sub-divided into merchandise account and invisible account. Whereas, Capital Account records the net changes in financial claims on rest of the world. The capital account can be subdivided into Non-debt flows and Debt flows.\n(c) Balance of Payments (BoP) Deficit refers to a situation when, during the year, inflows of foreign exchange fall short of outflows of foreign exchange on account of autonomous transactions. Autonomous outflows of foreign exchange > Autonomous inflows of foreign exchange."
@@ -11024,7 +11024,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -11092,8 +11092,8 @@
        "qno": "13-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "figures": [],
      "answer": {
@@ -11119,7 +11119,7 @@
        "qno": 3
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -11146,7 +11146,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Current Account",
      "answer": {
@@ -11167,8 +11167,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Capital Account",
      "answer": {
       "text": "(i) Foreign Direct Investment (FDI) refers to direct investment from abroad in physical assets with a considerable degree of influence and control over the firm. Whereas, Foreign Portfolio Investment (FPI) refers to investment from abroad in stocks, bonds or other financial assets and does not entail active management or control over the firm.\n(ii) The given variables will be entered in the Capital Account of the Balance of Payments. Capital Account records all international transactions of assets."
@@ -11214,7 +11214,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -11242,7 +11242,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "D",
@@ -11289,7 +11289,7 @@
        "qno": 11
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "answer": {
@@ -11363,8 +11363,8 @@
        "qno": 14
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Current Account",
      "answer": {
       "text": "(i) Balance of Payments (BoP) is an accounting statement that provides a systematic record of all economic transactions between residents of a country and the rest of the world over a given period of time. It includes transactions in goods, services and assets. Whereas, Balance of Trade (BOT) is the difference between the value of exports and value of imports of goods of a country over a given period of time. It includes transactions in goods only.\n(ii) Current Account Surplus (CAS) arises when receipts from exports of goods & services and unilateral transfers are greater than the payments for imports of goods & services and unilateral transfers."
@@ -11383,8 +11383,8 @@
        "qno": "14-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Capital Account",
      "figures": [],
      "answer": {
@@ -11437,7 +11437,7 @@
        "qno": 8
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Capital Account",
      "answer": {
@@ -11532,7 +11532,7 @@
        "qno": 14
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Balance of Payments",
      "answer": {
@@ -11559,8 +11559,8 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Exchange Rate",
      "answer": {
       "opt": "A",
@@ -11614,7 +11614,7 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -11635,7 +11635,7 @@
        "qno": 12
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "The Balance of Payments",
      "answer": {
@@ -11662,7 +11662,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -11690,8 +11690,8 @@
        "qno": 10
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Balance of Payments",
      "answer": {
       "opt": "D",
@@ -11738,7 +11738,7 @@
        "qno": 4
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Foreign Exchange Rate",
      "answer": {
@@ -11786,8 +11786,8 @@
        "qno": 13
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Balance of Payments Surplus and Deficit",
      "answer": {
       "text": "(a) The Balance of Payments (BoP) account records the transactions in goods, services and assets between residents of a country and the rest of the world for a specified time period typically, a year.\n(b) Autonomous transactions are those international economic transactions which are independent of the state of Balance of Payments (BoP). These transactions are generally undertaken with an 'economic motive'. Such transactions are called 'above the line' items in the BoP account. Accommodating transactions are those international economic transactions which are undertaken (by competent authorities) to cover the surplus or deficit in Balance of Payments (BoP). These transactions are independent of any economic motive. Such transactions are called 'below the line' items in the BoP account."
@@ -11852,8 +11852,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Trade",
      "answer": {
       "opt": "A",
@@ -11879,7 +11879,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Infrastructure",
      "answer": {
@@ -11906,7 +11906,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Agricultural Sector",
      "answer": {
@@ -11933,7 +11933,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Industrial Sector",
      "answer": {
@@ -12028,8 +12028,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Trade",
      "answer": {
       "opt": "C",
@@ -12098,7 +12098,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Agricultural Sector",
      "answer": {
@@ -12125,7 +12125,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Low Level of Economic Development under the Colonial Rule",
      "answer": {
@@ -12173,7 +12173,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Foreign Trade",
      "answer": {
@@ -12193,7 +12193,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Infrastructure",
      "figures": [],
@@ -12261,7 +12261,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Low Level of Economic Development under the Colonial Rule",
      "answer": {
@@ -12329,7 +12329,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Low Level of Economic Development under the Colonial Rule",
      "answer": {
@@ -12397,7 +12397,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Industrial Sector",
      "answer": {
@@ -12438,7 +12438,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Foreign Trade",
      "answer": {
@@ -12459,7 +12459,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Infrastructure",
      "figures": [],
      "answer": {
@@ -12527,7 +12527,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Infrastructure",
      "figures": [],
      "answer": {
@@ -12554,7 +12554,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Low Level of Economic Development under the Colonial Rule",
      "answer": {
@@ -12575,8 +12575,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Trade",
      "answer": {
       "text": "The restrictive policies under the colonial rule, adversely affected India's foreign trade. India was made an exporter of primary products like cotton, jute, silk, and sugar, and an importer of finished goods and machinery from Britain. Furthermore, Britishers exercised monopoly control, over half of India's foreign trade directed towards them, while limited trade was allowed with other countries like China, Ceylon and Persia. The opening of the Suez Canal further strengthened British control, worsening the structure, composition and volume of India's foreign trade."
@@ -12643,8 +12643,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Infrastructure",
      "answer": {
       "text": "(i) The Suez Canal.\n(ii) The Suez Canal was officially opened for international navigation in 1869.\n(iii) Opening up of the Suez Canal provided a direct and shorter trade route for ships operating between Britain and India and avoided the need to sail around Africa, thereby reducing around 5,100 miles of travel. Thus, it intensified British control over India's foreign trade as it reduced the cost of transportation and made access to the Indian market easier."
@@ -12684,7 +12684,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Low Level of Economic Development under the Colonial Rule",
      "figures": [],
      "answer": {
@@ -12738,8 +12738,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Foreign Trade",
      "answer": {
       "opt": "D",
@@ -12808,7 +12808,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Industry and Trade",
      "figures": [],
      "answer": {
@@ -12929,7 +12929,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Goals of Five Year Plans",
      "figures": [],
@@ -12977,8 +12977,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Goals of Five Year Plans",
      "answer": {
       "opt": "D",
@@ -13004,7 +13004,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Goals of Five Year Plans",
      "figures": [],
@@ -13046,8 +13046,8 @@
        "qno": "34-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "The Goals of Five Year Plans",
      "figures": [],
      "answer": {
@@ -13073,7 +13073,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Agriculture",
      "answer": {
@@ -13100,7 +13100,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Goals of Five Year Plans",
      "figures": [],
@@ -13155,8 +13155,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Goals of Five Year Plans",
      "answer": {
       "opt": "C",
@@ -13176,8 +13176,8 @@
        "qno": 34
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Industry and Trade",
      "answer": {
       "text": "(i) In the initial years of economic development, the Government of India emphasized on a greater role of the public sector in the industrial development as industrialists did not have the capital to undertake the investment in industrial ventures. The market was not big enough to encourage industrialists to undertake major projects.\n(ii) Industrial policy Resolution 1956 classifies industries into three categories: The first category given in Schedule A, consists of industries the future development of which will be the exclusive responsibility of the State. In the second category given in Schedule B, are industries which will be progressively State-owned. However, in them, private enterprise will also be expected to participate. The third category comprises all the remaining industries, the further development of which will be left to the initiative and enterprise of the private sector."
@@ -13253,7 +13253,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "The Goals of Five Year Plans",
      "answer": {
       "text": "No. The goal of equity was not fully served by abolition of intermediaries, as in some areas the erstwhile zamindars continued to own large areas of land by making use of the loopholes in the legislation. There were cases where tenants were evicted and the landowners claimed to be self-cultivators. Even when the tillers got ownership of land, the poorest of the agricultural labourers did not benefit from land reforms."
@@ -13278,8 +13278,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The Goals of Five Year Plans",
      "answer": {
       "opt": "C",
@@ -13332,8 +13332,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Trade Policy: A Mix of Strategies",
      "answer": {
       "opt": "D",
@@ -13359,7 +13359,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Trade Policy: A Mix of Strategies",
      "figures": [],
@@ -13422,8 +13422,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "The Goals of Five Year Plans",
      "answer": {
       "text": "(a)(i) True. India's economy under the colonial rule remained fundamentally agrarian, there was hardly any capital goods industry. Furthermore, the growth rate of the newly devised industrial sector and its contribution to the Gross Domestic Product (GDP) remained very small.\n(ii) True. To promote regional equality, the process of obtaining an industrial license in an economically backward area was made easier. Moreover, to ensure the efficiency and effectiveness of industrial operations, such units were given certain concessions such as tax benefits and electricity at a lower tariff.\n(iii) True. Availability of skilled manpower at a relatively affordable cost has made India a leading outsourcing hub for Multinational Corporations (MNCs) to outsource their services to India."
@@ -13442,8 +13442,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Industry and Trade",
      "figures": [],
      "answer": {
@@ -13496,7 +13496,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Goals of Five Year Plans",
      "answer": {
@@ -13550,7 +13550,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "The Goals of Five Year Plans",
      "answer": {
@@ -13577,7 +13577,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Agriculture",
      "answer": {
@@ -13605,8 +13605,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Agriculture",
      "answer": {
       "opt": "D",
@@ -13667,7 +13667,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Agriculture",
      "answer": {
@@ -13687,7 +13687,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "The Goals of Five Year Plans",
      "figures": [],
@@ -13716,7 +13716,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Agriculture",
      "answer": {
       "opt": "B",
@@ -13818,7 +13818,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Liberalisation",
      "answer": {
       "text": "Yes. The agricultural sector was adversely affected by the reform process as public investment in agriculture sector especially in infrastructure had fallen. Further, the partial removal of fertiliser subsidy had led to increase in the cost of production, which had severely affected the small and marginal farmers. Moreover, there had been a shift from production for the domestic market towards production for the export market focusing on cash crops putting pressure on prices of food grains. (To be marked as a whole)"
@@ -13878,7 +13878,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Privatisation",
      "answer": {
@@ -13986,7 +13986,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Liberalisation",
      "figures": [],
@@ -14165,7 +14165,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Liberalisation",
      "answer": {
@@ -14185,7 +14185,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Liberalisation",
      "figures": [],
@@ -14206,8 +14206,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Globalisation",
      "answer": {
       "text": "(i) The causes of the tax reforms initiated during economic reforms in India were to curb tax evasion, encourage savings and voluntary disclosure of income. Additionally, indirect tax reforms were necessitated to facilitate the establishment of a common national market for commodities. The tax rate rationalisation during the reform period aimed at yielding larger tax revenue but did not result in an increase in tax revenue. Moreover, tax incentives provided to foreign investors further reduced the scope for raising tax revenues, which adversely impacted developmental and welfare expenditures. (Any other valid cause or consequence to be awarded marks)\n(ii) Multilateral trade is the trade by a country with more than two nations to exchange goods and services. Whereas, bilateral trade refers to the exchange of goods or services between two countries."
@@ -14253,7 +14253,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Liberalisation",
      "answer": {
@@ -14321,8 +14321,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Remember",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Liberalisation",
      "answer": {
       "opt": "C",
@@ -14362,7 +14362,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Liberalisation",
      "figures": [],
@@ -14389,7 +14389,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Globalisation",
      "answer": {
@@ -14410,7 +14410,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Globalisation",
      "answer": {
@@ -14437,8 +14437,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Liberalisation",
      "answer": {
       "opt": "B",
@@ -14459,7 +14459,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Globalisation",
      "answer": {
       "text": "(i) India has emerged as a preferred outsourcing destination because of:\nExpansion of Information Technology and Communication: Growth of fast modes of communication, particularly the growth of Information Technology (IT).\nAvailability of skilled manpower: Efficient and skilled manpower is available at a relatively affordable cost.\n(ii) Yes. In the post-independence era, India adopted a protective tariff policy to:\npromote domestic production by substituting imports with locally produced goods.\nsafeguard emerging industries from intense foreign competition, allowing them to grow and develop sustainably."
@@ -14479,7 +14479,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Privatisation",
      "figures": [],
      "answer": {
@@ -14506,8 +14506,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Liberalisation",
      "answer": {
       "opt": "C",
@@ -14576,7 +14576,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Privatisation",
      "figures": [],
      "answer": {
@@ -14643,8 +14643,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Privatisation",
      "figures": [],
      "answer": {
@@ -14665,7 +14665,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Indian Economy During Reforms: An Assessment",
      "answer": {
       "text": "(i) Yes. The Industrial Policy Resolution 1956 classified industries into three categories: the first category comprised industries to be exclusively owned by the government; the second category consisted of industries in which the private sector could supplement the efforts of the public sector, with the government taking the sole responsibility for starting new units; the third category consisted of the remaining industries which were to be in the private sector, however these industries were kept under state control through the system of licenses.\n(ii) Yes. The agricultural sector was adversely affected by the reform process due to: fall in the public investment in agriculture sector especially in infrastructure like irrigation, power etc.; reduction of fertilizer subsidy has increased the cost of production, thereby affecting the small and marginal farmers; increased international competitiveness owing to liberalisation and reduction of import duties. (Any other valid reason to be awarded marks)"
@@ -14684,8 +14684,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Apply",
+     "difficulty": "Difficult",
      "topic": "Privatisation",
      "figures": [],
      "answer": {
@@ -14725,7 +14725,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Sources of Human Capital",
      "answer": {
       "opt": "D",
@@ -14745,8 +14745,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "(a)(i) Less women are found in regular salaried employment in India as such jobs require skills and a higher level of literacy. Moreover, due to a lot of social constraints, mobility of women is generally restricted. (To be marked as a whole) (Any other valid argument to be allotted marks)\n(ii) Human capital refers to the stock of knowledge, skill and ability imbibed in the owner of the same, i.e., human capital is inseparable from its owner. It cannot be sold in the market, only its services can be sold in the market.\nPhysical capital are the assets (plant and machinery, building etc.), which are tangible in nature. It is separable from its owner. It can be transacted in the market."
@@ -14819,8 +14819,8 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Sources of Human Capital",
      "figures": [],
      "answer": {
@@ -14841,8 +14841,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "On-the-job training has become an integral part of work environment in the recent times as it adds to the productive capacity of employees. Firms encourage such trainings, as the benefits outweighs the cost of these trainings. It enables employees to adapt newer technologies and modern ideas and is an important source of human capital formation. (To be marked as whole)"
@@ -14888,8 +14888,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "opt": "B",
@@ -14929,7 +14929,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "figures": [],
@@ -14983,8 +14983,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "opt": "C",
@@ -15004,7 +15004,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15029,7 +15029,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15055,7 +15055,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15076,8 +15076,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "Investment in human capital formation enhances efficiency, skill, and capabilities implying economic growth. Human Capital formation stimulates innovation and creates the ability to absorb new technology. Technical skills acquired through sources of human capital formation such as education, training, sound health, etc. add to productivity and production. Thus, human capital formation may accelerate economic growth."
@@ -15103,7 +15103,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "opt": "D",
@@ -15170,8 +15170,8 @@
        "qno": "30-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "figures": [],
      "answer": {
@@ -15191,8 +15191,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "(a) Owing to traditional and socio-economic reasons, 'son preference' is common in India, Pakistan and China. Due to this, the sex ratio is skewed i.e. low and biased against females in all the three nations.\n(b) Two liberty indicators are: The extent of Constitutional protection given to rights of citizens; The extent of constitutional protection of the Independence of the Judiciary and the Rule of Law."
@@ -15237,7 +15237,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15258,7 +15258,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15284,7 +15284,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15306,7 +15306,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "(a) No, Danish has not made investment in human capital. As investment in human capital increases, the stock of knowledge, skill and ability imbibed in the owner of the same. However, Danish's investment in purchasing advanced farming machinery, irrigation systems, and high-quality seeds is made in physical capital. Physical capital includes assets which are tangible in nature. It is separable from its owner and can be transacted in the market."
@@ -15373,8 +15373,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "(i) Human capital refers to the stock of knowledge, skill and ability imbibed in the owner of the same, i.e., human capital is inseparable from its owner. It cannot be sold in the market, only its services can be sold in the market. Whereas, physical capital comprises assets (plant and machinery, building etc.), which are tangible in nature. It is separable from its owner and can be transacted in the market.\n(ii) Liquified Petroleum Gas (LPG) is a clean fuel that reduces household fuel pollution to a large extent and minimises energy wastage. For the gobar gas plant to function, cattle dung is fed to the plant and gas is produced which is used as fuel, while the slurry left over is a very good organic manure and soil conditioner."
@@ -15441,8 +15441,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "(i) Human capital refers to the stock of knowledge, skill and ability imbibed in the owner of the same, i.e., human capital is inseparable from its owner. It cannot be sold in the market, only its services can be sold in the market. Whereas, physical capital comprises assets (plant and machinery, building etc.), which are tangible in nature. It is separable from its owner and can be transacted in the market.\n(ii) Sustainable Development is the development that meets the need of the present generation without compromising the ability of the future generation to meet their own needs."
@@ -15482,7 +15482,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15510,7 +15510,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Difficult",
      "topic": "Sources of Human Capital",
      "answer": {
       "opt": "B",
@@ -15530,7 +15530,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15556,7 +15556,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Human Capital and Economic Growth",
      "answer": {
@@ -15577,8 +15577,8 @@
        "qno": 34
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Education Sector in India",
      "answer": {
       "text": "(i) The Right to Education (RTE) Act, 2009 guarantees free and compulsory education up to the age of 14 years. It enhances access to education by ensuring that every child between 6 to 14 years can attend school without any financial burden. It also provides schooling facilities in neighbourhood areas, making education easily accessible. This helps include children from disadvantaged groups and ensures that all children complete elementary education.\n(ii) Increase in government spending on education has played an important role in India's social and economic development. It has made education more accessible, especially for weaker sections, thus, promoting equality. Education has improved skills and knowledge, leading to better job opportunities and higher productivity. It has helped in improving the standard of living of the people and overall development of the country. (To be marked as a whole)"
@@ -15637,7 +15637,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sources of Human Capital",
      "answer": {
@@ -15679,7 +15679,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Sources of Human Capital",
      "figures": [],
      "answer": {
@@ -15705,7 +15705,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Human Capital and Economic Growth",
      "answer": {
@@ -15733,7 +15733,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Human Capital and Human Development",
      "answer": {
@@ -15755,7 +15755,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Sources of Human Capital",
      "answer": {
       "text": "No. Rohan invested in physical capital by purchasing advanced machinery, irrigation systems and HYV seeds, which are tangible assets used in the production process. In contrast, Anaya invested in human capital as she enhanced knowledge and skills by learning modern farming techniques and training workers in crop rotation, soil management and pest control."
@@ -15802,7 +15802,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Education Sector in India",
      "answer": {
@@ -15842,7 +15842,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -15863,8 +15863,8 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Evaluate",
+     "difficulty": "Difficult",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "text": "Rapid expansion of the banking system had positive effect on rural farm and non-farm output, income and employment. However, following problems have been faced in the rural banking:\nThe volume of rural credit in the country is still insufficient in comparison to its demand and institutional sources have failed to cover the nation.\nLess attention has been given on the credit requirements of small and marginal farmers and the problems of overdues in agricultural credit. (To be marked as a whole) (Any other valid argument to be allotted marks)"
@@ -15883,7 +15883,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "figures": [],
@@ -15910,7 +15910,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sustainable Development and Organic Farming",
      "answer": {
@@ -15937,7 +15937,7 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "figures": [],
@@ -15965,8 +15965,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "B",
@@ -16033,7 +16033,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16060,7 +16060,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "figures": [],
@@ -16108,7 +16108,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16129,8 +16129,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "text": "Self-help groups (SHG's) have, truly, emerged overtime to fill the gap in the formal credit system in the rural India. The formal credit delivery mechanism in India is not only inadequate but has not been fully integrated into overall rural society. As the rural poor do not have sufficient assets for collateral they stay away from the formal credit system. SHGs provide funds at concessional rates to this section of society. In addition to this, SHGs provide support to women for the establishment of small businesses leading to employment generation and women empowerment. (To be marked as a whole)"
@@ -16175,7 +16175,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16244,7 +16244,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "B",
@@ -16271,7 +16271,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "D",
@@ -16291,8 +16291,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "text": "(i) True, the Government of India has implemented schemes like Jan-Dhan Yojana, which has promoted thrift habits and efficient allocation of financial resources. The formal banking system has been benefitted by mobilization of a substantial amount under this yojana.\n(ii) True. Worker-population ratio is useful in knowing the proportion of population that is actively contributing to the production of goods and services of a country. If the ratio is higher, it means that a greater number of people are employed and vice versa."
@@ -16332,7 +16332,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16380,7 +16380,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "A",
@@ -16406,7 +16406,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -16427,7 +16427,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Sustainable Development and Organic Farming",
      "answer": {
@@ -16447,8 +16447,8 @@
        "qno": "31-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "figures": [],
      "answer": {
@@ -16475,7 +16475,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "B",
@@ -16501,7 +16501,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16522,7 +16522,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16583,7 +16583,7 @@
        "qno": "34-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Credit and Marketing in Rural Areas",
      "figures": [],
@@ -16610,8 +16610,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Diversification into Productive Activities",
      "answer": {
       "opt": "A",
@@ -16637,7 +16637,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "figures": [],
@@ -16665,7 +16665,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16686,7 +16686,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16753,7 +16753,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -16780,7 +16780,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16807,8 +16807,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "D",
@@ -16834,7 +16834,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -16862,7 +16862,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "D",
@@ -16888,7 +16888,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -16942,7 +16942,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -16970,7 +16970,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "D",
@@ -17023,8 +17023,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "B",
@@ -17050,8 +17050,8 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "figures": [],
      "answer": {
@@ -17078,7 +17078,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -17099,8 +17099,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "text": "Information Technology (IT) plays a crucial role as it can help the government to predict areas of food insecurity and vulnerability. Using appropriate information and software tools, timely action can be taken to prevent/reduce the likelihood of an emergency. It helps in disseminating information regarding emerging technologies and their applications, prices, weather and soil conditions for growing different crops etc."
@@ -17146,7 +17146,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -17193,7 +17193,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -17247,7 +17247,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Diversification into Productive Activities",
      "answer": {
@@ -17274,7 +17274,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -17349,7 +17349,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
@@ -17398,7 +17398,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Average",
+     "difficulty": "Difficult",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "text": "The given statement is defended. Subsidies may be gradually withdrawn once technology becomes profitable as agricultural subsidies have proved to be a huge burden on the finances of the government. Moreover, farmers in the prosperous regions largely benefited from farm subsidies rather than the target group. (To be marked as a whole) (Any other valid argument with alternative point of view may be awarded marks)"
@@ -17425,7 +17425,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "D",
@@ -17479,8 +17479,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Diversification into Productive Activities",
      "answer": {
       "opt": "C",
@@ -17507,8 +17507,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Credit and Marketing in Rural Areas",
      "answer": {
       "opt": "D",
@@ -17566,7 +17566,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -17615,7 +17615,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Workers and Employment",
      "answer": {
@@ -17635,7 +17635,7 @@
        "qno": "32-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "figures": [],
@@ -17656,8 +17656,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "answer": {
       "text": "(a)(i) Worker Population Ratio (WPR) is defined as the total number of workers in a country divided by population. It is represented in percentage. Worker Population Ratio is an indicator which is used for analysing the employment situation in the country. This ratio is useful in knowing the proportion of population that is actively contributing to the production of goods and services of a country. Higher the worker population ratio, higher the engagement of people in economic activities and vice versa.\n(ii) Mr. Rishi cannot be considered as an employed person as he is disguisedly unemployed. Disguised unemployment refers to a situation when the person seems to be employed but is not contributing to the output i.e., his marginal productivity is zero. (To be marked as a whole)"
@@ -17676,8 +17676,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Government and Employment Generation",
      "figures": [],
      "answer": {
@@ -17724,7 +17724,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "answer": {
@@ -17744,7 +17744,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Workers and Employment",
      "figures": [],
@@ -17765,7 +17765,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -17791,7 +17791,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "answer": {
@@ -17859,8 +17859,8 @@
        "qno": 26
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Average",
+     "bloom": "Remember",
+     "difficulty": "Easy",
      "topic": "Participation of People in Employment",
      "answer": {
       "opt": "B",
@@ -17880,7 +17880,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Unemployment",
      "answer": {
@@ -17981,7 +17981,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -18002,7 +18002,7 @@
        "qno": 33
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "Unemployment",
      "answer": {
@@ -18022,8 +18022,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "figures": [],
      "answer": {
@@ -18043,8 +18043,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "text": "The given image represents the situation of employment in informal sector. In the formal sector, workers can form trade unions and are entitled to fair wages and other social security measures. Whereas, workers in the informal sector do not get regular income. Also, they do not have any protection or regulation from the government. Many a time, workers may be dismissed without any compensation. Hence, formal sector employees are generally in a better position as compared to informal sector employees. Therefore, it is essential to generate employment in the formal sector rather than the informal sector."
@@ -18117,8 +18117,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "text": "(a) The period between 1990 to 2012 had been a significant one as India's Gross Domestic Product (GDP) growth rate grew positively from 3.4% in 1990s to 7.8% in 2012. However, the employment growth rate has shown declining trends from 1.5% to 1.12% during the same period.\nIndian economy has witnessed the peculiar phenomena of 'jobless growth' over all these years i.e. GDP growth rate increased without a corresponding increase in the rate of employment. During 2005-10, employment growth rate was a meagre 0.28%. However, GDP was growing at a sky rocketing pace of 8.7%. In a nutshell, the period between 1990-2012 was a roller coaster ride for the Indian economy on the fronts of GDP and Employment Growth rate. (To be marked as a whole)\n(For Visually Impaired Candidates) Regular salaried employees are more in urban areas as it has a higher concentration of businesses, industries, and provide more job opportunities for regular salaried positions compared to rural areas where employment options may be limited. (To be marked as a whole)\n(b) Worker – Population Ratio is defined as the total number of workers in a country divided by population. It is represented in percentage."
@@ -18170,8 +18170,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Unemployment",
      "answer": {
       "opt": "D",
@@ -18197,7 +18197,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -18224,8 +18224,8 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "opt": "C",
@@ -18251,7 +18251,7 @@
        "qno": "26-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Formalisation and Informalisation of Workforce",
      "figures": [],
@@ -18273,8 +18273,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Workers and Employment",
      "answer": {
       "text": "(a) Since independence the government has played an important role in generating employment directly/indirectly. Various government departments/enterprises employ people and increase their output of goods and services, leading to direct employment. When the output of goods and services from government enterprises increases, private enterprises which receive raw materials from government enterprises will also raise their output. Subsequently, private enterprises using this output are indirectly benefitted with increase in scale of production. This leads to an increase in the employment opportunities indirectly in the economy."
@@ -18294,7 +18294,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Workers and Employment",
      "figures": [],
      "answer": {
@@ -18320,7 +18320,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Workers and Employment",
      "answer": {
@@ -18341,7 +18341,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -18387,7 +18387,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Workers and Employment",
      "answer": {
@@ -18408,7 +18408,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Workers and Employment",
      "answer": {
@@ -18429,7 +18429,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "answer": {
       "text": "(a) Unemployment refers to a situation in which all those persons who are willing and able to work do not get work at the prevailing wage rate.\n(b) The Labour Force Participation Rate (LFPR) measures the percentage of the population either employed or actively seeking employment in a nation.\n(c) The gender disparities in India's labour market are notable, with women's LFPR at 32.8% in 2022, significantly lower than men's LFPR at 77.2%. During 2000–2019, rural LFPR declined by 14.1%, compared to a 3.5% decline in urban areas."
@@ -18475,8 +18475,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "text": "The formal sector workers can form trade unions and are entitled to fair wages and other social security measures. However, workers in the informal sector do not get regular income. Additionally, they do not have any protection/regulation from the government. Many a times, workers may be dismissed without any compensation. Hence, formal sector employees are generally in a better position as compared to informal sector employees. Therefore, it is essential to generate employment in the formal sector rather than the informal sector."
@@ -18502,7 +18502,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "opt": "C",
@@ -18528,7 +18528,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Unemployment",
      "answer": {
@@ -18556,7 +18556,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Unemployment",
      "answer": {
@@ -18577,8 +18577,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "text": "In India, the Primary sector has emerged as a major source of employment with a greater concentration of female workers (57.1%) as compared to males (40.7%). The secondary sector accommodates 17.7% of female workers and 26.5% of male workers. The service sector consists of 32.8% of male and 25.2% of female workers. Thus, it can be concluded that men get more opportunities in both secondary and service sectors whereas females are mainly found working in the primary sector."
@@ -18604,8 +18604,8 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "opt": "B",
@@ -18697,7 +18697,7 @@
        "qno": "28-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Workers and Employment",
      "figures": [],
@@ -18718,7 +18718,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Unemployment",
      "answer": {
@@ -18790,7 +18790,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -18810,7 +18810,7 @@
        "qno": "29-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Workers and Employment",
      "figures": [],
@@ -18831,8 +18831,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "answer": {
       "text": "(a) The data shows that self-employment is the major source of livelihood for both men and women, accounting for over 50% of the workforce for both male (51%) and female (56%) workers. Casual wage labour emerges as the second largest category, with 29% of men and 31% of women engaged in it. Regular salaried employment is more prevalent among men (20%) compared to women (13%).\n(b) Worker Population Ratio (WPR) is defined as the total number of workers in a country divided by population. It is represented in percentage."
@@ -18878,8 +18878,8 @@
        "qno": 33
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "text": "(i) Information Technology (IT) plays a crucial role in achieving sustainable development and food security, as the government can predict areas of food insecurity and vulnerability using appropriate information and software tools. It also helps in disseminating information regarding emerging technologies and their applications, prices, weather and soil conditions for growing different crops etc. (To be marked as a whole)\n(ii) Self-employed are those workers who own and operate an enterprise to earn their livelihood. For example: a cement shop owner. (Any other valid example to be awarded marks)"
@@ -18898,8 +18898,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Apply",
-     "difficulty": "Difficult",
+     "bloom": "Understand",
+     "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "figures": [],
      "answer": {
@@ -18925,7 +18925,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Apply",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Participation of People in Employment",
      "answer": {
@@ -18954,7 +18954,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "opt": "A",
@@ -19001,8 +19001,8 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
       "opt": "B",
@@ -19043,8 +19043,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Workers and Employment",
      "answer": {
       "opt": "B",
@@ -19064,7 +19064,7 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Formalisation and Informalisation of Workforce",
      "answer": {
@@ -19139,7 +19139,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The State of Infrastructure in India",
      "answer": {
       "text": "(i) Yes. Basic infrastructure such as railways, posts and telegraphs developed under the colonial regime. However, the real motive behind this development was not to provide basic amenities to the people of India but to serve various colonial interests. The roads and railways were built primarily to mobilise the army within India, drawing out raw materials from the countryside to the nearest railway station/port to export. In addition to this, communication tools like telephone and telegraph were introduced to serve the purpose of maintaining law and order.\n(ii) In the post-reform period, Government of India devised Navratna Policy for Public Sector Undertakings (PSUs) with an objective to improve efficiency, infuse professionalism and enable them to compete more effectively in the liberalised global environment. Under this policy, the government partly disinvested some PSUs. However, some PSUs were granted greater managerial and operational autonomy and allowed PSUs to raise resources by themselves from financial markets."
@@ -19158,7 +19158,7 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
+     "bloom": "Analyse",
      "difficulty": "Difficult",
      "topic": "The State of Infrastructure in India",
      "figures": [],
@@ -19179,8 +19179,8 @@
        "qno": 31
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "The State of Infrastructure in India",
      "answer": {
       "text": "(a)(i) Development of infrastructure facilities such as provision of electricity, roads, irrigation, marketing etc. is essential to enhance the production and productivity in the rural areas. The availability of easy and affordable credit generates employment opportunities. Moreover, it also provides avenues for diversification from farm to non-farm and allied activities.\nHence, infrastructural development acts as a catalyst in the overall development of the rural economy. (To be marked as a whole)\n(ii) Human development is based on the idea that education and health are integral to human well-being and human beings are end in themselves."
@@ -19200,7 +19200,7 @@
       }
      ],
      "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "The State of Infrastructure in India",
      "figures": [],
      "answer": {
@@ -19238,7 +19238,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Strategies for Sustainable Development",
      "answer": {
@@ -19259,7 +19259,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
@@ -19306,7 +19306,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Strategies for Sustainable Development",
      "answer": {
@@ -19332,7 +19332,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "State of India's Environment",
      "answer": {
@@ -19360,7 +19360,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sustainable Development",
      "figures": [],
      "answer": {
@@ -19387,8 +19387,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
       "opt": "B",
@@ -19414,7 +19414,7 @@
        "qno": "25-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sustainable Development",
      "figures": [],
@@ -19436,7 +19436,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
@@ -19463,7 +19463,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Environment - Functions of the Environment",
      "answer": {
       "opt": "C",
@@ -19483,7 +19483,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
@@ -19503,8 +19503,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
       "text": "(a) In the initial years of organic farming, farmers used to face a lot of problems such as: Yields from organic farming are relatively less; Inadequate infrastructure. (Any other valid problem to be awarded marks)\n(b) In India, Information Technology (IT) plays a crucial role as government can predict areas of food insecurity and vulnerability using appropriate information and software tools. It helps in disseminating information regarding emerging technologies and their applications, prices, weather and soil conditions for growing different crops etc. Hence, IT plays a vital role in achieving sustainable development and food security in a nation like India."
@@ -19549,7 +19549,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Sustainable Development",
      "answer": {
@@ -19570,7 +19570,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Apply",
      "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
@@ -19617,7 +19617,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Environment - Functions of the Environment",
      "answer": {
       "opt": "A",
@@ -19657,7 +19657,7 @@
        "qno": 34
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "State of India's Environment",
      "answer": {
@@ -19683,8 +19683,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "State of India's Environment",
      "answer": {
       "opt": "B",
@@ -19710,8 +19710,8 @@
        "qno": "19-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Strategies for Sustainable Development",
      "figures": [],
      "answer": {
@@ -19732,8 +19732,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Strategies for Sustainable Development",
      "answer": {
       "text": "(a) Owing to the introduction of the Green Revolution in India, the usage of more and more chemical pesticides had adverse impacts such as contaminated soil, water bodies and groundwater. The use of bio-pesticides serves as an eco-friendly alternative to chemical pesticides. In addition to this, promoting natural predators like snakes and birds help to control pests, support the ecosystem, and contribute to sustainable agriculture.\n(b) Absorptive capacity means the ability of the environment to absorb degradation."
@@ -19806,7 +19806,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
       "opt": "D",
@@ -19833,7 +19833,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
       "opt": "D",
@@ -19907,7 +19907,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "State of India's Environment",
      "answer": {
@@ -19934,8 +19934,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Remember",
+     "difficulty": "Average",
      "topic": "Sustainable Development",
      "answer": {
       "opt": "A",
@@ -19962,8 +19962,8 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Apply",
+     "difficulty": "Average",
      "topic": "Strategies for Sustainable Development",
      "answer": {
       "opt": "D",
@@ -19989,8 +19989,8 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "State of India's Environment",
      "figures": [],
      "answer": {
@@ -20086,7 +20086,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Strategies for Sustainable Development",
      "answer": {
       "opt": "C",
@@ -20106,8 +20106,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "State of India's Environment",
      "answer": {
       "text": "Owing to rapid population explosion and advent of industrial revolution the demand of resources for both the production and consumption went beyond the rate of regeneration of resources. Consequently, the pressure on the absorptive capacity of the environment increased tremendously. Thus, as indicated in the image, issues like climate change, biodiversity loss and pollution have intensified, leading to a serious environmental crisis. (To be marked as a whole)"
@@ -20145,7 +20145,7 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -20172,7 +20172,7 @@
        "qno": "21-OR"
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "figures": [],
@@ -20200,7 +20200,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -20328,7 +20328,7 @@
        "qno": 24
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -20355,7 +20355,7 @@
        "qno": "24-OR"
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Indicators of Human Development",
      "figures": [],
@@ -20507,7 +20507,7 @@
        "qno": 31
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Indicators of Human Development",
      "answer": {
@@ -20533,7 +20533,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -20588,8 +20588,8 @@
        "qno": 22
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
       "opt": "D",
@@ -20703,8 +20703,8 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Gross Domestic Product and Sectors",
      "answer": {
       "text": "In the last few decades, output growth in the agriculture sector declined for both India and China. In the industrial sector, China attained a growth rate of 10.8% in 1980s but declined to 8.1% in 2011-15. India also witnessed a decline in the industrial growth rate from 7.4% in 1980s to 5% in 2011-15.\nIn case of service sector, China was able to maintain highest rate of growth during 1980-1990 i.e. 13.5% which declined to 8.4% in 2011-15. Whereas, India's growth increased from 6.9% in 1980s to 8.4% in 2011-15.\nThus, China's growth is contributed by both the manufacturing and service sectors and India's growth mainly by the service sector. (To be marked as a whole)"
@@ -20729,7 +20729,7 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -20756,8 +20756,8 @@
        "qno": "20-OR"
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Indicators of Human Development",
      "figures": [],
      "answer": {
@@ -20784,7 +20784,7 @@
        "qno": 22
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -20838,7 +20838,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -20888,7 +20888,7 @@
        "qno": 30
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -20942,7 +20942,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "figures": [],
      "answer": {
@@ -21065,7 +21065,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Gross Domestic Product and Sectors",
      "answer": {
       "text": "The given data shows that China has gained economic strength over the given period of time. India witnessed 5.7% growth rate whereas, China was able to maintain near double-digit growth during the decade of 1980s.\nThe growth rate of China has decelerated to an average of 6.8%, over the period 2015-17. In the recent past India has posted a decent rise in the growth rate. While India had lesser growth rate in the decade of 1980's, it has enhanced well by registering an average growth rate of 7.3%, over the period 2015-17.\n(To be marked as a whole)"
@@ -21090,7 +21090,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21117,7 +21117,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21144,7 +21144,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21171,7 +21171,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21218,7 +21218,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Demographic Indicators",
      "answer": {
@@ -21245,8 +21245,8 @@
        "qno": 21
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
       "opt": "C",
@@ -21299,7 +21299,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21370,8 +21370,8 @@
        "qno": 32
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Average",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
       "text": "The given data shows the data pertaining to the sectoral share of employment and Gross Value Added (GVA). Due to topographic and climatic conditions, the cultivable area in China is relatively smaller than that of India. Hence, the contribution of the agricultural sector to the GVA in China is 7% employing 26% of its workforce, whereas in India it is 16% employing 43% of its workforce.\nOwing to rapid industrialisation in China, the contribution of the industrial sector to GVA stands at 41% with 28% of the workforce as against corresponding figures of 30% and 25% in India.\nBoth the nations have similar contribution of the Service sector to GVA standing at 54% and 52% with corresponding 32% and 46% to the workforce, respectively in India and China.",
@@ -21446,8 +21446,8 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Difficult",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
       "text": "Full marks (1) awarded to all candidates who attempted this question, as the question was found to have no single correct alternative."
@@ -21472,7 +21472,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21526,7 +21526,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Easy",
+     "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
       "opt": "D",
@@ -21597,7 +21597,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
       "text": "The given data shows the sectoral contribution in Gross Value Added (GVA) of India and China. In China, due to topographic and climatic conditions, the cultivable area is relatively smaller to that of India. Hence, the contribution of the agricultural sector to the GVA in China is 7%, whereas in India it is more than double to that of China i.e. 16%. Owing to rapid industrialisation in China, the contribution of industries to GVA stands at 41% as against 30% in India. In both the countries, India and China, service sector contributes highest share of GVA at 54% and 52% respectively.",
@@ -21699,7 +21699,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21755,7 +21755,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21809,7 +21809,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -21926,7 +21926,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Demographic Indicators",
      "answer": {
       "text": "The given data shows that geographically, China occupies a larger area in comparison to Pakistan. The density of population in China stands at 148 per sq. km which is lower than that of Pakistan i.e. 275 per sq. km.\nThe fertility rate in Pakistan is 3.6 which is more than double as compared to China's fertility rate of 1.7. In China, the adoption of one child norm led to a significant decline in the fertility rate."
@@ -21951,7 +21951,7 @@
        "qno": 18
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -21978,7 +21978,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Evaluate",
      "difficulty": "Average",
      "topic": "Indicators of Human Development",
      "answer": {
@@ -22032,7 +22032,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -22196,8 +22196,8 @@
        "qno": 20
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
       "opt": "A",
@@ -22263,8 +22263,8 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
       "opt": "C",
@@ -22334,7 +22334,7 @@
        "qno": 29
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Analyse",
      "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -22355,7 +22355,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
       "text": "China's rapid economic growth can be traced back to the voluntarily initiated reforms in 1978. China was able to maintain near double-digit growth during the 1980s, which paved the strategic shift towards a manufacturing-driven economy. Moreover, agricultural reforms brought prosperity to a vast number of poor people. It fostered industrial expansion and strengthened support for further reforms.\nIn contrast, India was compelled to introduce economic reforms in 1991. The industrial sector reported fluctuation, while the growth of the service sector has gone up. This indicates that GDP growth is mainly driven by growth in the service sector. (Any other valid explanation to be awarded marks)"
@@ -22380,7 +22380,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22407,7 +22407,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22461,7 +22461,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -22508,7 +22508,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Developmental Path – A Snapshot View",
      "answer": {
@@ -22535,8 +22535,8 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Demographic Indicators",
      "answer": {
       "opt": "B",
@@ -22576,8 +22576,8 @@
        "qno": "33-OR"
       }
      ],
-     "bloom": "Evaluate",
-     "difficulty": "Difficult",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "figures": [],
      "answer": {
@@ -22604,7 +22604,7 @@
        "qno": 27
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22672,7 +22672,7 @@
        "qno": 26
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22740,7 +22740,7 @@
        "qno": 19
       }
      ],
-     "bloom": "Analyse",
+     "bloom": "Remember",
      "difficulty": "Average",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22767,7 +22767,7 @@
        "qno": 23
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22823,8 +22823,8 @@
        "qno": 27
       }
      ],
-     "bloom": "Understand",
-     "difficulty": "Easy",
+     "bloom": "Analyse",
+     "difficulty": "Average",
      "topic": "Indicators of Human Development",
      "answer": {
       "opt": "C",
@@ -22934,7 +22934,7 @@
        "qno": 25
       }
      ],
-     "bloom": "Understand",
+     "bloom": "Remember",
      "difficulty": "Easy",
      "topic": "Development Strategies – An Appraisal",
      "answer": {
@@ -22955,7 +22955,7 @@
        "qno": 28
       }
      ],
-     "bloom": "Remember",
+     "bloom": "Understand",
      "difficulty": "Average",
      "topic": "Indicators of Human Development",
      "answer": {
@@ -23182,7 +23182,7 @@
       }
      ],
      "bloom": "Analyse",
-     "difficulty": "Difficult",
+     "difficulty": "Average",
      "topic": "Gross Domestic Product and Sectors",
      "answer": {
       "text": "The given data indicates that China gained economic strength after the reforms initiated in late 1970's. When many developed countries were finding it difficult to maintain a growth rate of even 5%, China was able to maintain near double-digit growth during the decade of 1980s. The growth rate of China has decelerated to 6.8% in 2015-17 and further to 3.0% in 2022. Whereas India had maintained a reasonable growth rate of 5.7% in the decade of 1980's, it has shown remarkable progress by registering an annual growth of Gross Domestic Product of 7.3% and 7.0% respectively in 2015-17 and 2022. (To be marked as a whole)",
