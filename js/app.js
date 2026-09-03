@@ -515,8 +515,16 @@
       ? '<div class="appeared">Appeared in: ' +
         q.papers.map(function (p) { return p.year + " " + p.set; }).join(" · ") + "</div>"
       : "";
-    var subline = '<div class="qsub"><span class="qsub-chap">' + esc(q.chapter) + "</span>" +
+    // Tag lines: NCERT chapter › sub-topic, then the school's YCP chapter ›
+    // sub-topic. The YCP chapter is always shown, in caps, even when it repeats
+    // the NCERT chapter on the line above.
+    var subline = '<div class="qsubs"><div class="qsub"><span class="qsub-chap">' + esc(q.chapter) + "</span>" +
       (q.topic ? '<span class="qsub-sep">›</span><span class="qsub-topic">' + esc(q.topic) + "</span>" : "") +
+      "</div>" +
+      (q.ycp_subtopic
+        ? '<div class="qsub qsub-ycp"><span class="qsub-ycp-chap">' + esc(q.ycp_chapter) + "</span>" +
+          '<span class="qsub-sep">›</span><span class="qsub-ycp-topic">' + esc(q.ycp_subtopic) + "</span></div>"
+        : "") +
       "</div>";
     var ansHtml = "";
     if (q.answer && (q.answer.text || q.answer.opt || q.answer.table || (q.answer.figures && q.answer.figures.length))) {
